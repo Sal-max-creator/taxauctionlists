@@ -37,6 +37,65 @@
   ],
   "counties": [
     {
+      "county": "Cass",
+      "slug": "cass",
+      "office": "Cass County Collector",
+      "phone": "816-380-8377",
+      "address": "2725 Cantrell Road, Harrisonville, MO 64701",
+      "website": "https://www.casscounty.com/2223/Collector",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-08-23",
+          "time": "10:00 AM",
+          "label": "2027 Cass County Tax Lien Sale",
+          "deposit": "not stated",
+          "registration_deadline": "Register in person at the Collector's office, July 20, 2027 to noon on Friday, August 20, 2027",
+          "note": "Bidders must register in person before the day of sale.",
+          "source_url": "https://www.casscounty.com/2223/Collector",
+          "quote": "Monday, August 23rd, 2027 at 10:00 AM"
+        }
+      ],
+      "next_sale_note": "The 2026 sale was held August 24, 2026 (past).",
+      "how_to_bid": "Register in person at the Collector's office before the day of sale (the county says no one may register on sale day; out-of-state bidders must be registered by the Wednesday before the sale). Missouri residents file a sworn, notarized affidavit with the Collector before the sale. The 2026 sale was held at the historic Cass County Courthouse, 102 E. Wall, Harrisonville; all bidders must be present. Properties go in the order published, the opening bid is at least the total back taxes, and raises are at least ten dollars. Pay the full bid at the end of the sale, no later than 2:00 p.m., by cashier's check, cash or credit card (fees apply); a defaulting purchaser owes a 25% penalty plus attorney's fees.",
+      "sources": [
+        {
+          "url": "https://www.casscounty.com/2223/Collector",
+          "read_on": "2026-10-27",
+          "terms": "The footer's Copyright page reads 'All content © 2006-2026 Cass County, MO and its representatives. All rights reserved.' No terms, disclaimer or legal page, and no reuse restriction found.",
+          "terms_url": "https://www.casscounty.com/site/copyright"
+        },
+        {
+          "url": "https://www.casscounty.com/DocumentCenter/View/4327/2026-Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "The footer's Copyright page reads 'All content © 2006-2026 Cass County, MO and its representatives. All rights reserved.' No terms, disclaimer or legal page, and no reuse restriction found.",
+          "terms_url": "https://www.casscounty.com/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.casscounty.com/2223/Collector",
+          "quote": "2027 Cass County Tax Lien Sale"
+        },
+        {
+          "url": "https://www.casscounty.com/2223/Collector",
+          "quote": "Bidders are required to register IN PERSON and BEFORE the day of sale at the Collector's office"
+        },
+        {
+          "url": "https://www.casscounty.com/DocumentCenter/View/4327/2026-Tax-Sale-Information",
+          "quote": "NO ONE WILL BE ALLOWED TO REGISTER THE DAY OF THE SALE."
+        },
+        {
+          "url": "https://www.casscounty.com/2223/Collector",
+          "quote": "Bidder registration will begin Tuesday, July 20, 2027 and will end Friday, August 20, 2027 at Noon."
+        }
+      ],
+      "register_by": "2027-08-20"
+    },
+    {
       "county": "Clay",
       "slug": "clay",
       "office": "Clay County Collector's Office",
@@ -139,6 +198,85 @@
       "notes": {
         "list_note": "Land tax sale property list (county GIS): https://jcgis.jacksongov.org/collections/dlt/sales.html"
       }
+    },
+    {
+      "county": "Jefferson",
+      "slug": "jefferson",
+      "office": "Jefferson County Collector of Revenue",
+      "phone": "636-797-5555 (general county number; no direct Collector number on the page read)",
+      "address": "Administration Building, 729 Maple St, Hillsboro, MO 63050",
+      "website": "https://www.jeffcomo.gov/faq.aspx?TID=53",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Yes, all lands and lots on which taxes are 3 years delinquent are offered for sale on the fourth Monday of August each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the county states only the annual rule (fourth Monday of August).",
+      "how_to_bid": "Bidders must be Missouri residents aged 18 or over (out-of-state bidders appoint a Missouri resident as agent) and give the Collector a signed, notarized bidder's affidavit stating they owe no delinquent property taxes; businesses must be registered in Missouri. Show Missouri ID to get a bid number: numbers are issued only the week before the sale and stop at 9 AM on sale day. The sale starts at 10:00am in the Assembly Room of the Administration Building in Hillsboro and bidders must be present. Properties go in newspaper order (1st, then 2nd, then 3rd offerings), the minimum bid is the taxes and sale expenses due, and the highest bidder wins. Pay at the Collector's office within 2 hours after all properties have been offered; failure to pay brings a 25% fine. The eligible property list is posted on the Collector's website in June.",
+      "sources": [
+        {
+          "url": "https://www.jeffcomo.gov/faq.aspx?TID=53",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: 'All content © 2006-2026 Jefferson County, MO and its representatives. All rights reserved.' No clause limiting use or barring copying of public information found. Footer also links a Privacy Policy; no terms or disclaimer link.",
+          "terms_url": "https://www.jeffcomo.gov/copyright"
+        },
+        {
+          "url": "https://www.jeffcomo.gov/m/faq?cat=53",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.jeffcomo.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.jeffcomo.gov/faq.aspx?TID=53",
+          "quote": "Yes, all lands and lots on which taxes are 3 years delinquent are offered for sale on the fourth Monday of August each year."
+        },
+        {
+          "url": "https://www.jeffcomo.gov/faq.aspx?TID=53",
+          "quote": "The sale is held in the Assembly Room on the main level in the Administration Building at 729 Maple St, Hillsboro MO 63050."
+        },
+        {
+          "url": "https://www.jeffcomo.gov/faq.aspx?TID=53",
+          "quote": "We will only issue bid numbers the week before the sale and stop issuing bid numbers at 9 AM the day of the sale."
+        }
+      ],
+      "notes": {
+        "time_note": "The FAQ says the sale 'starts promptly at 10:00am'."
+      }
+    },
+    {
+      "county": "St. Charles",
+      "slug": "st-charles",
+      "office": "St. Charles County Collector of Revenue",
+      "phone": "636-949-7470",
+      "address": "201 N. Second St., Suite 134, St. Charles, MO 63301",
+      "website": "https://www.sccmo.org/283/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "on the fourth Monday of August",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page gives only the annual rule (fourth Monday of August), with opening comments at 10 a.m. CDT.",
+      "how_to_bid": "Pre-register by completing the county's PDF form and submitting it to the Collector's Office before the date of the sale. The sale is held in person in Room 116 of the St. Charles County Administration Building, 201 N. Second St., St. Charles; opening comments begin at 10 a.m. CDT. The minimum bid for parcels offered the first through third time is the outstanding balance plus $24 for the Certificate of Purchase recording fee. A bidder deposit is not stated.",
+      "sources": [
+        {
+          "url": "https://www.sccmo.org/283/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: 'All content © 2006-2026 St Charles County, MO and its representatives. All rights reserved.' No clause limiting use or barring copying of public information found. Footer also links a Privacy Policy; no terms or disclaimer link.",
+          "terms_url": "https://www.sccmo.org/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sccmo.org/283/Tax-Sale-Information",
+          "quote": "on the fourth Monday of August"
+        },
+        {
+          "url": "https://www.sccmo.org/283/Tax-Sale-Information",
+          "quote": "Opening comments begin at 10 a.m. CDT."
+        }
+      ]
     },
     {
       "county": "St. Louis City",

@@ -291,6 +291,247 @@
           "quote": "Properties for Sale (updated June 03, 2026) (PDF)"
         }
       ]
+    },
+    {
+      "county": "Davidson",
+      "slug": "davidson",
+      "office": "Davidson County Chancery Court Clerk & Master (Metropolitan Nashville)",
+      "phone": "not stated for the Clerk & Master; the page refers tax-amount questions to the Trustee's Office at 862-6330",
+      "address": "1 Public Square, Suite 308, Nashville, TN 37201",
+      "website": "https://chanceryclerkandmaster.nashville.gov/fees/delinquent-tax-sales/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-01-20",
+          "time": "12:00 PM",
+          "label": "Delinquent tax sale",
+          "registration_deadline": "Registration begins at 11:00 a.m. and ends promptly at 12:00 noon.",
+          "note": "The page lists the sale with a January 1, 2027 TN Ledger ad date and warns: ALL DATES ARE SUBJECT TO CHANGE. The September through December 2026 sales are marked CANCELLED. The sale location is not stated on the page.",
+          "source_url": "https://chanceryclerkandmaster.nashville.gov/fees/delinquent-tax-sales/",
+          "quote": "January 20, 2027"
+        }
+      ],
+      "next_sale_note": "The September, October, November and December 2026 sales are marked cancelled; the next listed sale is January 20, 2027.",
+      "how_to_bid": "Delinquent tax properties are sold only by public auction, never over the counter. All prospective bidders must register by completing an informational form before the sale; registration runs from 11:00 a.m. to noon and the sale starts at 12:00 p.m. Proxy bidding is allowed if the proxy form is completed before registration; absentee bidding is not. Payment must be made in full (no financing, no credit cards); the successful bidder has until Friday at 12:00 p.m. to pay by cashier's check. The owner may redeem within the time set out in TCA 67-5-2701, and the purchaser is refunded the purchase price plus interest.",
+      "sources": [
+        {
+          "url": "https://chanceryclerkandmaster.nashville.gov/fees/delinquent-tax-sales/",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer link found (footer links only Contact Us and 'Powered by Justice Integration Services'). The page's own disclaimer says the information sheet gives only general information and terms of the sale and is not legal advice; no copying or reuse restriction seen.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://chanceryclerkandmaster.nashville.gov/fees/delinquent-tax-sales/",
+          "quote": "Delinquent tax properties are sold only by public auction and will not be sold over the counter."
+        },
+        {
+          "url": "https://chanceryclerkandmaster.nashville.gov/fees/delinquent-tax-sales/",
+          "quote": "all prospective bidders must register by completing an informational form before the sale"
+        },
+        {
+          "url": "https://chanceryclerkandmaster.nashville.gov/fees/delinquent-tax-sales/",
+          "quote": "Registration begins at 11:00 a.m. and ends promptly at 12:00 noon."
+        },
+        {
+          "url": "https://chanceryclerkandmaster.nashville.gov/fees/delinquent-tax-sales/",
+          "quote": "tax sale will start on time at 12:00pm."
+        },
+        {
+          "url": "https://chanceryclerkandmaster.nashville.gov/fees/delinquent-tax-sales/",
+          "quote": "Credit Cards are not accepted."
+        },
+        {
+          "url": "https://chanceryclerkandmaster.nashville.gov/fees/delinquent-tax-sales/",
+          "quote": "ALL DATES ARE SUBJECT TO CHANGE"
+        }
+      ]
+    },
+    {
+      "county": "Rutherford",
+      "slug": "rutherford",
+      "office": "Rutherford County Chancery Court Clerk & Master",
+      "phone": "(615) 898-7860",
+      "address": "116 W. Lytle St., Suite 5101, Murfreesboro, TN 37130",
+      "website": "https://rcchancery.com/delinquent_sales",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted; the page says sale information will be added when a sale date has been determined.",
+      "how_to_bid": "The sale is held online only through GovEase; there is no physical location and no in-person part to registration or bidding. Registration typically opens about a month before the sale and closes at 10:00 AM the day before the auction. The opening bid is the total of taxes, penalties and interest, court costs and publication costs. Winning bidders pay by cash, cashier's check, money order or a check drawn on a Tennessee bank by close of business the day after the sale; no financing. The owner may redeem within one year from the Decree Confirming Sale, and the purchaser is refunded the purchase price plus 12% per annum.",
+      "sources": [
+        {
+          "url": "https://rcchancery.com/delinquent_sales",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use link on the Chancery Court site. The footer links the county Privacy Policy, which covers only personal data, and shows '2026 (c) Official Website of Rutherford County'; the page says the information should not be relied upon as legal advice. No copying or reuse restriction seen.",
+          "terms_url": "https://rutherfordcountytn.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://rcchancery.com/delinquent_sales",
+          "quote": "When a sale date has been determined, the sale information will be added to this website."
+        },
+        {
+          "url": "https://rcchancery.com/delinquent_sales",
+          "quote": "THERE IS NO PHYSICAL LOCATION AND NO IN-PERSON COMPONENT TO THE REGISTRATION OR BIDDING PROCESS."
+        },
+        {
+          "url": "https://rcchancery.com/delinquent_sales",
+          "quote": "Registration typically opens about a month before the sale date."
+        },
+        {
+          "url": "https://rcchancery.com/delinquent_sales",
+          "quote": "We require cash, cashier's check, money order or a check drawn on a Tennessee bank"
+        },
+        {
+          "url": "https://rcchancery.com/delinquent_sales",
+          "quote": "within (1) one year from the date of the Decree Confirming Sale"
+        }
+      ]
+    },
+    {
+      "county": "Sumner",
+      "slug": "sumner",
+      "office": "Sumner County Chancery Court Clerk & Master",
+      "phone": "(615) 451-6036 (Delinquent Taxes/Probate)",
+      "address": "155 E. Main Street, Room 3600, Gallatin, TN 37066",
+      "website": "https://sumnerchancerycourt.com/delinquent-taxes/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted. The most recent sale on the Clerk & Master's page was December 11, 2024 (past); a property list is posted once a sale is scheduled.",
+      "how_to_bid": "Tax sales are held in person at the Sumner County Courthouse, 155 E Main Street, Gallatin, in Courtroom 3B. All bidders must register the day of the sale. The opening bid equals the taxes owed; bidders are strongly urged to research properties first, and the county and court make no warranties about them. Personal checks are not accepted. Property owners have a one-year redemption period after the Order Confirming Sale is signed by the Chancellor. Time of sale not stated on the page.",
+      "sources": [
+        {
+          "url": "https://sumnerchancerycourt.com/delinquent-taxes/",
+          "read_on": "2026-10-27",
+          "terms": "The Clerk & Master's site has no terms, disclaimer or copyright link (footer shows only the web designer's credit). The page itself disclaims warranties about the properties. The county site's Terms of Use (linked from the county Courts page that points to this site) cover accuracy, liability and outside links and do not restrict reuse.",
+          "terms_url": "https://sumnercountytn.gov/terms-of-use/"
+        },
+        {
+          "url": "https://sumnercountytn.gov/departments/courts/",
+          "read_on": "2026-10-27",
+          "terms": "County Terms of Use cover accuracy, liability and outside links; materials are provided 'as is'; no copying or reuse restriction.",
+          "terms_url": "https://sumnercountytn.gov/terms-of-use/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sumnerchancerycourt.com/delinquent-taxes/",
+          "quote": "Tax sales are held at the Sumner County Courthouse at 155 E Main Street, Gallatin, Tennessee in Courtroom 3B."
+        },
+        {
+          "url": "https://sumnerchancerycourt.com/delinquent-taxes/",
+          "quote": "All bidders must register the day of the sale."
+        },
+        {
+          "url": "https://sumnerchancerycourt.com/delinquent-taxes/",
+          "quote": "Once a sale has been scheduled a list of properties will be available here and on the County website."
+        },
+        {
+          "url": "https://sumnerchancerycourt.com/delinquent-taxes/",
+          "quote": "Property owners have a one (1) year redemption period after Order Confirming Sale has been signed by the Chancellor."
+        },
+        {
+          "url": "https://sumnercountytn.gov/departments/courts/",
+          "quote": "For information on property tax sales please see the Clerk and Masters office."
+        }
+      ]
+    },
+    {
+      "county": "Wilson",
+      "slug": "wilson",
+      "office": "Wilson County Clerk & Master (Chancery Court)",
+      "phone": "(615) 444-2835",
+      "address": "134 South College Street, Room 200, Lebanon, TN 37087",
+      "website": "https://wilcoclerkandmaster.com/court-sales/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-31",
+          "time": "10:00 AM",
+          "label": "Back tax sale (delinquent tax sale)",
+          "list_url": "https://wilcoclerkandmaster.com/wp-content/uploads/2026/10/Delinquent-Tax-Sale-list.pdf",
+          "list_note": "Delinquent Tax Sale list (PDF) posted by the Clerk & Master.",
+          "note": "Held at 134 South College Street, Courtroom #2, Lebanon, TN 37087, per the Notice of a Back Tax Sale.",
+          "source_url": "https://wilcoclerkandmaster.com/court-sales/",
+          "quote": "Scheduled for October 31, 2026 at 10:00 a.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The Clerk & Master's Court Sales page posts a Notice of a Back Tax Sale with the date, time, courtroom and a PDF list of the delinquent tax properties. The page does not state payment, deposit, registration or redemption terms.",
+      "sources": [
+        {
+          "url": "https://wilcoclerkandmaster.com/court-sales/",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer page; footer links a Privacy Policy that covers only personal data, plus Rules of Conduct, and shows '(c) Wilson County Clerk & Master. All Rights Reserved.' (copyright-only footer). No reuse restriction stated.",
+          "terms_url": "https://wilcoclerkandmaster.com/privacy-policy/"
+        },
+        {
+          "url": "https://wilcoclerkandmaster.com/",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://wilcoclerkandmaster.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://wilcoclerkandmaster.com/court-sales/",
+          "quote": "Notice of a Back Tax Sale"
+        },
+        {
+          "url": "https://wilcoclerkandmaster.com/court-sales/",
+          "quote": "134 South College Street, Courtroom #2, Lebanon, TN  37087"
+        }
+      ]
+    },
+    {
+      "county": "Sevier",
+      "slug": "sevier",
+      "office": "Sevier County Clerk & Master (Chancery Court)",
+      "phone": "(865) 453-4654",
+      "address": "125 Court Avenue, Suite 108 W, Sevierville, TN 37862",
+      "website": "https://www.seviercountytn.gov/government/county_officials/clerk___master.php",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted on the county site. The Clerk & Master says the delinquent tax sale notice runs in the Mountain Press about a month to six weeks before the sale.",
+      "how_to_bid": "The Clerk & Master collects delinquent taxes and handles the auctions held to recover them. Watch for the Delinquent Tax Sale notice in the Mountain Press, published about a month to six weeks before the sale. Sale format, time, place, payment and registration terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.seviercountytn.gov/government/county_officials/clerk___master.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer; only an unlinked '(c) Copyright 2026 Sevier County' line. No reuse restriction stated.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.seviercountytn.gov/government/county_officials/clerk___master.php",
+          "quote": "A Delinquent Tax Sale notice will be listed in the Mountain Press approximately a month to six weeks before the sale."
+        },
+        {
+          "url": "https://www.seviercountytn.gov/government/county_officials/clerk___master.php",
+          "quote": "The Clerk and Master files civil matters in Chancery Court, collects delinquent taxes, and handles auctions to recover delinquent property taxes."
+        }
+      ]
     }
   ]
 }

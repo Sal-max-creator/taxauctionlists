@@ -1,0 +1,335 @@
+{
+  "state": "FL",
+  "name": "Florida",
+  "sale_type": "hybrid",
+  "overview": "Florida uses a two-stage system. Each county tax collector first sells tax certificates (liens) on delinquent real estate taxes, with bidders competing by bidding the interest rate down from a statutory maximum of 18 percent per year; the sale must be held on or before June 1 (or the 60th day after delinquency, whichever is later) and may be run electronically. If the taxes are not redeemed, a certificate holder may apply for a tax deed once two years have passed since April 1 of the year the certificate was issued. The property is then sold at a public tax deed auction conducted by the clerk of the circuit court (in some counties another designated office), which may be held online instead of by public outcry, with a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater.",
+  "overview_sources": [
+    {
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/197.172",
+      "quote": "The maximum rate of interest on a tax certificate is 18 percent per year.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/197.402",
+      "quote": "on or before June 1 or the 60th day after the date of delinquency, whichever is later",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/197.432",
+      "quote": "may conduct the sale of tax certificates for unpaid taxes pursuant to this section by electronic means",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/197.502",
+      "quote": "at any time after 2 years have elapsed since April 1 of the year of issuance",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/197.542",
+      "quote": "shall be sold at public auction by the clerk of the circuit court, or his or her deputy",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/197.542",
+      "quote": "a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.flsenate.gov/Laws/Statutes/2025/197.542",
+      "quote": "A clerk may conduct electronic tax deed sales in lieu of public outcry.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Miami-Dade",
+      "slug": "miami-dade",
+      "office": "Clerk of the Court and Comptroller of Miami-Dade County",
+      "phone": "305-275-1155",
+      "address": "20 NW 1st Avenue, Miami, Florida 33128",
+      "website": "https://www.miamidadeclerk.gov/clerk/property-tax-deeds.page",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealForeclose / RealTaxDeed)",
+        "url": "https://www.miamidade.realforeclose.com/index.cfm"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Clerk posts tax deed sale dates on its online auction calendar, not on its own pages.",
+      "how_to_bid": "Bidders must first register on the official online Foreclosure & Tax Deed Sales site, then review properties and sale dates there. Per the Clerk's administrative order, the winning bidder must have an advance deposit of 5% of the winning bid (or $200, whichever is greater) and pay the balance within 24 hours.",
+      "sources": [
+        {
+          "url": "https://www.miamidadeclerk.gov/clerk/property-tax-deeds.page",
+          "read_on": "2026-10-27",
+          "terms": "No reuse/scraping terms found. Page has a forms disclaimer (not legal advice) and footer '© 2025 Clerk of the Court and Comptroller of Miami-Dade County. All rights reserved.'",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.miamidadeclerk.gov/resources-clerk/library/tax_deed/AO-2013-05%20Electronic%20Tax%20Deed%20Sales%20Procedures.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (same domain as above)",
+          "terms_url": null
+        },
+        {
+          "url": "https://mdctaxcollector.gov/services/tax-certificate-sales",
+          "read_on": "2026-10-27",
+          "terms": "not found; site references 'Terms and Conditions' only for its newsletter sign-up, text not shown",
+          "terms_url": "https://mdctaxcollector.gov/tax-certificate-sale-disclaimers"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.miamidadeclerk.gov/clerk/property-tax-deeds.page",
+          "quote": "In order to bid on a sale, you must first register in the Official Foreclosure & Tax Deed Sales page."
+        },
+        {
+          "url": "https://www.miamidadeclerk.gov/clerk/property-tax-deeds.page",
+          "quote": "Review the different properties offered for sale as well as future tax deed sale dates."
+        },
+        {
+          "url": "https://www.miamidadeclerk.gov/resources-clerk/library/tax_deed/AO-2013-05%20Electronic%20Tax%20Deed%20Sales%20Procedures.pdf",
+          "quote": "Electronic sales may be conducted Monday through Friday"
+        },
+        {
+          "url": "https://www.miamidadeclerk.gov/resources-clerk/library/tax_deed/AO-2013-05%20Electronic%20Tax%20Deed%20Sales%20Procedures.pdf",
+          "quote": "place an advance deposit equal to 5% of the winning bid amount"
+        },
+        {
+          "url": "https://www.miamidadeclerk.gov/resources-clerk/library/tax_deed/AO-2013-05%20Electronic%20Tax%20Deed%20Sales%20Procedures.pdf",
+          "quote": "no later than twenty-four (24) hours after their deposit is accepted"
+        },
+        {
+          "url": "https://mdctaxcollector.gov/services/tax-certificate-sales",
+          "quote": "holds a Tax Certificate Sale on June 1 for unpaid real estate taxes"
+        }
+      ],
+      "notes": {
+        "old_schedule_rule": "Electronic sales may be conducted Monday through Friday ... beginning at 2:00 PM EST. (per Clerk Administrative Order 13-05, dated 2013; confirm still current)"
+      }
+    },
+    {
+      "county": "Broward",
+      "slug": "broward",
+      "office": "Broward County Tax Collector's Office, Tax Deed Section",
+      "phone": null,
+      "address": "115 S. Andrews Avenue, Room A-100, Fort Lauderdale, FL",
+      "website": "https://browardtax.org/?p=1087",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "DeedAuction (broward.deedauction.net)",
+        "url": null
+      },
+      "schedule_rule": "Tax Deed Sales are scheduled once a month. Bids are accepted beginning at 9:00 a.m. EDT on scheduled sale days.",
+      "sales": [],
+      "next_sale_note": "Specific dates are only on the online auction calendar (private platform); not posted on the official page.",
+      "how_to_bid": "Register for free on the online auction site and complete the pre-auction steps for submitting a bid deposit before bidding; there is no fee to participate. Bidding closes per each property's posted close time, starting at 11:01 AM.",
+      "sources": [
+        {
+          "url": "https://browardtax.org/?p=1087",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://browardtax.org/our-office/",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.broward.org/RecordsTaxesTreasury/TaxesFees/Pages/LandsAvailableforTaxes.aspx",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://browardtax.org/?p=1087",
+          "quote": "Tax Deed Sales are scheduled once a month."
+        },
+        {
+          "url": "https://browardtax.org/?p=1087",
+          "quote": "Bids are accepted beginning at 9:00 a.m. EDT on scheduled sale days."
+        },
+        {
+          "url": "https://browardtax.org/?p=1087",
+          "quote": "See the Auction Calendar at Broward.deedauction.net"
+        },
+        {
+          "url": "https://browardtax.org/?p=1087",
+          "quote": "Registration on the website is free."
+        },
+        {
+          "url": "https://browardtax.org/?p=1087",
+          "quote": "There are no fees to participate in the online sale."
+        },
+        {
+          "url": "https://browardtax.org/our-office/",
+          "quote": "an independent constitutional office operating in accordance with Florida Statutes"
+        }
+      ],
+      "notes": {
+        "verification_note": "browardtax.org identifies itself as the 'BROWARD COUNTY TAX COLLECTOR'S OFFICE' and an independent constitutional office; its address matches the Broward County Records, Taxes and Treasury office on broward.org (115 S. Andrews Ave., Room A-100), but I could not find a broward.org page linking to browardtax.org. Treat as likely official; confirm before publishing.",
+        "to_confirm": "browardtax.org calls itself the Broward County Tax Collector's Office; no broward.org page links to it yet. Confirm before launch."
+      }
+    },
+    {
+      "county": "Palm Beach",
+      "slug": "palm-beach",
+      "office": "Clerk of the Circuit Court & Comptroller, Palm Beach County - Tax Deeds Department",
+      "phone": "(561) 355-2962",
+      "address": "Main Courthouse, 205 N. Dixie Hwy., 3rd Floor, Room 3.2400, West Palm Beach, FL 33401",
+      "website": "https://www.mypalmbeachclerk.com/departments/courts/tax-deeds",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Grant Street Group (clerkauction.com)",
+        "url": null
+      },
+      "schedule_rule": "Tax deed sales are conducted online on designated Wednesdays starting at 9:30 a.m.",
+      "sales": [],
+      "next_sale_note": "No dates on the Clerk's pages; they say to check the online auction calendar for exact dates.",
+      "how_to_bid": "Register online (no fee) at the Clerk's online auction site before the auction. Deposit the greater of 5% of your intended maximum bid or $200 before bidding (ACH at least three full business days ahead, or cash/bank check by 4 p.m. the day before); final payment is due by 2 p.m. the next business day.",
+      "sources": [
+        {
+          "url": "https://www.mypalmbeachclerk.com/departments/courts/tax-deeds",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://mypalmbeachclerk.com/departments/courts/tax-deeds/sale-information",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.mypalmbeachclerk.com/about-us/frequently-asked-questions-faq/tax-deed-sales-faq",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://mypalmbeachclerk.com/departments/courts/tax-deeds/sale-information",
+          "quote": "Tax deed sales are conducted online on designated Wednesdays starting at 9:30 a.m."
+        },
+        {
+          "url": "https://mypalmbeachclerk.com/departments/courts/tax-deeds/sale-information",
+          "quote": "You must advance funds equal to the greater of 5% of your intended maximum bid or $200 prior to bidding."
+        },
+        {
+          "url": "https://mypalmbeachclerk.com/departments/courts/tax-deeds/sale-information",
+          "quote": "Final payment must be received by the Clerk by 2 p.m. the next business day after the sale."
+        },
+        {
+          "url": "https://www.mypalmbeachclerk.com/about-us/frequently-asked-questions-faq/tax-deed-sales-faq",
+          "quote": "Check the online auction calendar for the exact dates of upcoming sales."
+        }
+      ],
+      "notes": {
+        "platform_note": "Platform URL www.mypalmbeachclerk.clerkauction.com appears only in a Grant Street Group press release (private vendor site), not on a Clerk page I fetched, so url left null."
+      }
+    },
+    {
+      "county": "Hillsborough",
+      "slug": "hillsborough",
+      "office": "Clerk of the Circuit Court & Comptroller, Hillsborough County (Victor D. Crist)",
+      "phone": "(813) 276-8100 ext. 7805",
+      "address": "PO Box 3360, Tampa, FL 33601-3360",
+      "website": "https://hillsclerk.com/taxdeeds",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://hillsborough.realtaxdeed.com"
+      },
+      "schedule_rule": "Tax deed sales are held on Thursdays at 10:00 a.m. online",
+      "sales": [],
+      "next_sale_note": "No specific dates on the Clerk's page; the list of properties scheduled for sale is on the online sale site.",
+      "how_to_bid": "Bid online on the RealTaxDeed site after posting a nonrefundable deposit of 5% of the bid or $200, whichever is greater. Full payment, including documentary stamps and recording fees, is due by 10 AM the next business day.",
+      "sources": [
+        {
+          "url": "https://hillsclerk.com/taxdeeds",
+          "read_on": "2026-10-27",
+          "terms": "No copying/redistribution restriction found. Disclaimer prohibits unauthorized upload/changes to the site; footer '© 2025 Victor D. Crist, Clerk of Circuit Court & Comptroller'.",
+          "terms_url": "https://hillsclerk.com/Legal-Info-and-Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hillsclerk.com/taxdeeds",
+          "quote": "Tax deed sales are held on Thursdays at 10:00 a.m. online"
+        },
+        {
+          "url": "https://hillsclerk.com/taxdeeds",
+          "quote": "nonrefundable deposit of 5% of the bid or $200, whichever is greater"
+        },
+        {
+          "url": "https://hillsclerk.com/taxdeeds",
+          "quote": "Payment in full, including documentary stamps and recording fees, must be made by 10AM the next business day."
+        }
+      ]
+    },
+    {
+      "county": "Orange",
+      "slug": "orange",
+      "office": "Orange County Comptroller - Official Records (Tax Deed section)",
+      "phone": "407-836-5116 (Tax Deed section); 407-836-5115 (general)",
+      "address": "109 East Church Street, Suite 300, Orlando, FL 32801",
+      "website": "https://www.occompt.com/287/Tax-Deeds",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://orange.realtaxdeed.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale days/times or dates posted on the Comptroller's pages; sale calendar is on the RealAuction site.",
+      "how_to_bid": "Register and place an advance deposit on the RealAuction site; the deposit must be submitted by 4:00 pm the day before the auction. The winning bidder's deposit of $200 or 5% of the high bid (whichever is greater) is applied, and the balance must be paid within 24 hours.",
+      "sources": [
+        {
+          "url": "https://www.occompt.com/287/Tax-Deeds",
+          "read_on": "2026-10-27",
+          "terms": "not found (only an on-page 'Disclaimer' heading, no reuse terms)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.occompt.com/FAQ.aspx?QID=115",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.occompt.com/192/Online-Bidder-Notice-PDF",
+          "read_on": "2026-10-27",
+          "terms": "not found; note this notice dates from 2016",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.occompt.com/287/Tax-Deeds",
+          "quote": "Registration and advance deposits are required to participate in the online auction."
+        },
+        {
+          "url": "https://www.occompt.com/FAQ.aspx?QID=115",
+          "quote": "submit a deposit by 4:00 pm on the day preceding the auction"
+        },
+        {
+          "url": "https://www.occompt.com/FAQ.aspx?QID=115",
+          "quote": "The balance due must be paid within 24 hours from the time of the winning auction."
+        },
+        {
+          "url": "https://www.occompt.com/192/Online-Bidder-Notice-PDF",
+          "quote": "https://orange.realtaxdeed.com"
+        }
+      ]
+    }
+  ]
+}

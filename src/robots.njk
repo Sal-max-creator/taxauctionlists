@@ -1,0 +1,10 @@
+---
+permalink: /robots.txt
+eleventyExcludeFromCollections: true
+---
+User-agent: *
+{% if site.public -%}
+Allow: /
+{%- else -%}
+Disallow: /
+{%- endif %}

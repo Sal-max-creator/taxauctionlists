@@ -1,0 +1,285 @@
+{
+  "state": "OH",
+  "name": "Ohio",
+  "sale_type": "hybrid",
+  "overview": "Ohio mostly sells tax-delinquent real estate outright after a tax foreclosure. A court orders the parcel sold, and the county sheriff sells it, usually online through the state's sheriff sale auction site run by RealAuction under a state contract. In a tax foreclosure the minimum bid can be the taxes, assessments, penalties, interest and costs owed rather than the usual two-thirds of appraised value. Parcels left unsold after two sales are forfeited to the state, and the county auditor can later offer them at a forfeited land sale. Some county treasurers also sell tax certificates (liens): at a public auction, bidding starts at 18% simple interest per year and goes down. Some counties, such as Franklin, instead sell their certificates in bulk as a portfolio.",
+  "overview_sources": [
+    {
+      "url": "https://codes.ohio.gov/orc/section-5721.19",
+      "quote": "may order each parcel to be sold, without appraisal, for not less than either of the following",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://codes.ohio.gov/orc/section-5723.01",
+      "quote": "and not sold for want of bidders, shall be forfeited to the state",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-5723.10",
+      "quote": "will be offered for sale on the respective dates and at the location mentioned in this notice for the sale.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://codes.ohio.gov/orc/section-5721.32",
+      "quote": "shall begin the bidding at eighteen per cent per year simple interest",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sheriff.franklincountyohio.gov/Services/Real-Estate-Sales",
+      "quote": "which is operated by Realauction based on a contract with the Ohio Department of Administrative Services",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Cuyahoga",
+      "slug": "cuyahoga",
+      "office": "Cuyahoga County Sheriff's Department, Civil Division",
+      "phone": "(216) 443-6000 x1226",
+      "address": "1215 West 3rd Street, Cleveland, OH 44113",
+      "website": "https://cuyahogacounty.gov/sheriff/civil/foreclosure-sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://cuyahoga.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No specific sale dates or recurring sale day are posted on the official pages read. The Sheriff assigns each sale date roughly six weeks after an order of sale. An older county 'topics' page (https://cuyahogacounty.gov/topics/foreclosure-sales) says 'Foreclosure sales are conducted every Monday at 9:00 a.m.' at the Justice Center, but it conflicts with the current online-only pages and is treated as outdated.",
+      "how_to_bid": "All sheriff foreclosure sales, tax-delinquent ones included, are held online only through the county's RealAuction site, where bidders register and must meet RealAuction's terms. Buyers of tax-delinquent properties must file an Affidavit of Non-delinquency for each property. Payment goes to the Sheriff's Civil Division by certified or cashier's check, money order or law firm check.",
+      "sources": [
+        {
+          "url": "https://cuyahogacounty.gov/sheriff/civil/foreclosure-sales",
+          "read_on": "2026-10-27",
+          "terms": "County disclaimer covers accuracy only ('Cuyahoga County does not guarantee the accuracy or timeliness of this information'). No copying, scraping or commercial-use restriction found.",
+          "terms_url": "https://www.cuyahogacounty.gov/disclaimer"
+        },
+        {
+          "url": "https://cuyahogacounty.gov/treasury/delinquency/foreclosure/civil-division's-faqs",
+          "read_on": "2026-10-27",
+          "terms": "Same county disclaimer (accuracy only).",
+          "terms_url": "https://www.cuyahogacounty.gov/disclaimer"
+        },
+        {
+          "url": "https://cuyahogacounty.gov/treasury/foreclosure",
+          "read_on": "2026-10-27",
+          "terms": "Same county disclaimer (accuracy only).",
+          "terms_url": "https://www.cuyahogacounty.gov/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cuyahogacounty.gov/sheriff/civil/foreclosure-sales",
+          "quote": "All Cuyahoga County Sheriff Foreclosure Sales are held online only."
+        },
+        {
+          "url": "https://cuyahogacounty.gov/treasury/delinquency/foreclosure/civil-division's-faqs",
+          "quote": "The Sheriff will assign a sale date approximately six weeks from the date an order of sale is issued."
+        },
+        {
+          "url": "https://cuyahogacounty.gov/sheriff/civil/foreclosure-sales",
+          "quote": "The purchaser is required to submit an Affidavit of Non-delinquency for EACH property."
+        }
+      ]
+    },
+    {
+      "county": "Franklin",
+      "slug": "franklin",
+      "office": "Franklin County Sheriff's Office, Real Estate Sales Unit",
+      "phone": "(614) 525-4231",
+      "address": "373 South High Street, Floor 2B, Attn: Real Estate, Columbus, OH 43215",
+      "website": "https://sheriff.franklincountyohio.gov/Services/Real-Estate-Sales",
+      "sale_type": "hybrid",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://franklin.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": "Our Sheriff Sales are held every Friday morning at 9:00 a.m. online",
+      "sales": [],
+      "next_sale_note": "No specific sale dates posted on the official pages. Sheriff sales run weekly on Fridays except federal holidays. Separately, the Treasurer sells tax lien certificates as a single bulk portfolio; the last date posted was November 3, 2025 (past), and the Treasurer says the sale is 'generally held in October each year'. No 2026 or 2027 lien sale date is posted.",
+      "how_to_bid": "Bidders register with RealAuction, complete the Purchaser Information Form and post the minimum deposit ($2,000, $5,000 or $10,000, set by law) before the weekly Friday online auction. Bids start at two-thirds of appraised value. The sheriff page says tax sales may also be held on location at 373 S. High St. The Treasurer's lien certificate sale is a single bundled portfolio, not an auction of individual certificates.",
+      "sources": [
+        {
+          "url": "https://sheriff.franklincountyohio.gov/Services/Real-Estate-Sales",
+          "read_on": "2026-10-27",
+          "terms": "not found (the 'Disclaimer & Copyright' footer link resolves to the homepage)",
+          "terms_url": null
+        },
+        {
+          "url": "https://treasurer.franklincountyohio.gov/Delinquent-Taxes/Tax-Lien-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use limit use to lawful purposes and bar disrupting the site and collecting personal information about others ('Collect or store personal information about others.'). No explicit copying, scraping or commercial-use clause.",
+          "terms_url": "https://treasurer.franklincountyohio.gov/About/Terms-of-Use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sheriff.franklincountyohio.gov/Services/Real-Estate-Sales",
+          "quote": "Sheriff Sales are not held on Federal Holidays."
+        },
+        {
+          "url": "https://sheriff.franklincountyohio.gov/Services/Real-Estate-Sales",
+          "quote": "Tax sales and Tax Lien Certificate Sales may be sold on location at 373 S. High St."
+        },
+        {
+          "url": "https://sheriff.franklincountyohio.gov/Services/Real-Estate-Sales",
+          "quote": "All bids begin at 2/3 of the appraised value of the property"
+        },
+        {
+          "url": "https://treasurer.franklincountyohio.gov/Delinquent-Taxes/Tax-Lien-Sale",
+          "quote": "All eligible tax lien certificates are bundled together and sold as part of a single portfolio."
+        }
+      ],
+      "notes": {
+        "lien_sale": {
+          "office": "Franklin County Treasurer, Delinquent Tax Department",
+          "phone": "614-525-3438",
+          "address": "373 S. High St., 17th Floor, Columbus, OH 43215-6306",
+          "url": "https://treasurer.franklincountyohio.gov/Delinquent-Taxes/Tax-Lien-Sale",
+          "schedule_rule": "The tax lien certificate sale is generally held in October each year but can also be negotiated with the County Land Bank."
+        }
+      }
+    },
+    {
+      "county": "Hamilton",
+      "slug": "hamilton",
+      "office": "Hamilton County Sheriff's Office, Civil Enforcement Unit",
+      "phone": "513-946-5340",
+      "address": "1000 Sycamore Street, Cincinnati, Ohio 45202",
+      "website": "https://www.hcso.org/property-sales/",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://hamilton.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": "Hamilton County Sheriff's Property Sales are held on Wednesday at 11:00 am",
+      "sales": [],
+      "next_sale_note": "No specific sale dates posted on the official page.",
+      "how_to_bid": "Sheriff sales have been online through RealAuction since 1/1/2024, with registration and deposits handled there. The deposit is $5,000 for residential property valued at $200,000 or less and $10,000 above that. Delinquent-tax sales are described as a live auction in Room 260 of the Hamilton County Courthouse, paid in full by cashier's check at the time of sale. Tax lien certificate sales cover parcels whose liens were sold in bulk to a third party.",
+      "sources": [
+        {
+          "url": "https://www.hcso.org/property-sales/",
+          "read_on": "2026-10-27",
+          "terms": "Legal Disclaimer covers accuracy and liability only ('Any person or entity that relies on any information obtained from these systems does so at his or her own risk.'). No copying, scraping or commercial-use restriction found.",
+          "terms_url": "https://www.hcso.org/disclaimer/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hcso.org/property-sales/",
+          "quote": "Effective 1/1/2024, Sheriff’s Sales will occur online at the Hamilton County, OH RealAuction website."
+        },
+        {
+          "url": "https://www.hcso.org/property-sales/",
+          "quote": "Payment is in full at the time of sale in the form of a cashier's check."
+        },
+        {
+          "url": "https://www.hcso.org/property-sales/",
+          "quote": "This sale occurs on properties whose tax liens have been sold in bulk to a third party."
+        },
+        {
+          "url": "https://www.hcso.org/property-sales/",
+          "quote": "If the property is residential property valued at $200,000 or less, the deposit is $5,000."
+        }
+      ],
+      "notes": {
+        "format_note": "The page describes online RealAuction sales and also a live courthouse auction for delinquent-tax sales, so the format is recorded as 'both'. Confirm with the Civil Enforcement Unit before publishing."
+      }
+    },
+    {
+      "county": "Summit",
+      "slug": "summit",
+      "office": "Summit County Sheriff's Office, Civil Division",
+      "phone": "(330) 643-2278",
+      "address": "209 S. High Street, Akron, OH 44308",
+      "website": "https://sheriff.summitoh.net/pages/Sheriff-Sales-Information.html",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://summit.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "DELINQUENT TAX SALES are held on Tuesdays at 10:00am.",
+      "sales": [],
+      "next_sale_note": "No specific sale dates posted on the official pages.",
+      "how_to_bid": "Bidders register on the Sheriff's RealAuction site, get a bidder number and post a $1,000.00 deposit for each delinquent tax sale case before the sale. The highest bidder wins, and the balance is due within thirty days after the Confirmation Order is filed. Tax-foreclosure buyers must file an affidavit under ORC 5721.19(J); the page also says a person who owns property in Ohio cannot buy through a tax foreclosure sale.",
+      "sources": [
+        {
+          "url": "https://sheriff.summitoh.net/pages/Sheriff-Sales-Information.html",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer/terms link on page; county Privacy Statement has accuracy disclaimer only ('The County is not responsible for the accuracy or legality of the content'). No copying/scraping/commercial-use restriction found.",
+          "terms_url": "https://co.summitoh.net/pages/Privacy-Statement.html"
+        },
+        {
+          "url": "https://sheriff.summitoh.net/pages/Sheriff-Sales-FAQs.html",
+          "read_on": "2026-10-27",
+          "terms": "Same as above.",
+          "terms_url": "https://co.summitoh.net/pages/Privacy-Statement.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sheriff.summitoh.net/pages/Sheriff-Sales-Information.html",
+          "quote": "The deposit amount for each Delinquent Tax Sale case is $1,000.00."
+        },
+        {
+          "url": "https://sheriff.summitoh.net/pages/Sheriff-Sales-Information.html",
+          "quote": "You cannot purchase property through tax foreclosure sale if you own property in Ohio"
+        },
+        {
+          "url": "https://sheriff.summitoh.net/pages/Sheriff-Sales-FAQs.html",
+          "quote": "The remaining balance is to be paid within thirty days of the filing of the Confirmation Order."
+        }
+      ],
+      "notes": {
+        "schedule_rule_other": "MORTGAGE SALES are held on Fridays at 10:00am."
+      }
+    },
+    {
+      "county": "Montgomery",
+      "slug": "montgomery",
+      "office": "Montgomery County Sheriff's Office",
+      "phone": null,
+      "address": "The Montgomery County Administration building, 451 W. Third St. Dayton, Ohio, 45422, lower level auditorium (Treasurer Tax Sale location)",
+      "website": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://montgomery.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": "The auction will occur at 10 AM EST, the first Thursday of every month at The Montgomery County Administration building",
+      "sales": [],
+      "next_sale_note": "No specific sale dates posted. In-person Treasurer Tax Sales follow the first-Thursday-monthly rule 'until further notice', and tax lien sales run online on Fridays.",
+      "how_to_bid": "Treasurer Tax Sales are in-person auctions in the lower-level auditorium of the County Administration Building. Sheriff tax lien and mortgage foreclosure sales are held online on RealAuction's state-contracted site, where bidders register. The page does not state deposit amounts.",
+      "sources": [
+        {
+          "url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer/terms link in page content). Note: this page also lists individual cases; only the general notice was used, and no parcel data was copied.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
+          "quote": "NOTE: In-person auction will continue to be held for all Treasurer Tax Sales until further notice."
+        },
+        {
+          "url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
+          "quote": "Effective June 10th, 2022, Montgomery County Sheriff's Office will conduct Tax Lien Sales"
+        },
+        {
+          "url": "https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm",
+          "quote": "451 W. Third St. Dayton, Ohio, 45422, lower level auditorium."
+        }
+      ],
+      "notes": {
+        "schedule_rule_other": "Tax Lien Sales on the \"Official Foreclosure Auction Site\" every Friday and start promptly at 9:00 AM Eastern Time (EST)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "state": "IL",
+  "name": "Illinois",
+  "sale_type": "lien",
+  "overview": "Illinois counties sell the delinquent property taxes themselves, not the property: at the annual tax sale run by each county treasurer (as county collector), buyers bid on the penalty rate they will accept, and the lien goes to the lowest bid, capped by statute at 9%. Outside Cook County, the collector must apply for judgment and sale within 90 days after the second installment due date, so most collar-county sales fall in October through December; Cook County's Treasurer says it anticipates holding the next annual sale in December 2026. Owners can redeem within a statutory period (generally up to 2.5 years from the sale, shorter for some property classes); if they don't, the buyer may petition for a tax deed. Separately, scavenger sales offer taxes delinquent for several years; Cook County says these are now held only at the direction of the County Board.",
+  "overview_sources": [
+    {
+      "url": "https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-215.htm",
+      "quote": "No bid shall be accepted for a penalty exceeding 9% of the amount of the tax or special assessment on property.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-150.htm",
+      "quote": "shall be made within 90 days after the second installment due date.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-350.htm",
+      "quote": "may be redeemed at any time before the expiration of 2.5 years from the date of sale.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.dupagecounty.gov/elected_officials/treasurer/tax_sale_information.php",
+      "quote": "Bidding begins at 9% and the tax lien is awarded to the lowest bidder.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.cookcountytreasurer.com/taxsalegeneralinformation.aspx",
+      "quote": "The Treasurer's Office anticipates holding the next Annual Tax Sale in December 2026.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.cookcountytreasurer.com/taxsalegeneralinformation.aspx",
+      "quote": "Scavenger Sales will only be held at the direction of the Cook County Board.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Cook",
+      "slug": "cook",
+      "office": "Cook County Treasurer's Office",
+      "phone": "(312) 443-5100",
+      "address": "118 North Clark Street, Room 112, Chicago, Illinois 60602",
+      "website": "https://www.cookcountytreasurer.com/taxsalegeneralinformation.aspx",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": {
+        "name": "cooktaxsale.com (Treasurer's online sale site, named on the TY2022 sale page; not confirmed for the next sale)",
+        "url": null
+      },
+      "schedule_rule": "Scavenger Sales will only be held at the direction of the Cook County Board.",
+      "sales": [],
+      "next_sale_note": "No specific date posted. Treasurer's page: \"The Treasurer's Office anticipates holding the next Annual Tax Sale in December 2026.\" The Treasurer's annualtaxsale.aspx page still shows the Tax Year 2022 sale (December 2024), and the scavengersale.aspx page shows 2019 details, so both are out of date. A news report (Capitol News Illinois, not an official source) says HB 598 moved the sale to Dec. 1, 2026; we did not confirm this on an official page, so it is not recorded as a date.",
+      "how_to_bid": "Buyers must complete registration and post collateral or a bond before the sale; the full delinquent amount plus interest and penalties is offered. The last posted sale (TY2022) was online, with final bids allowed only from computers in the Treasurer's Sale Room at 118 N. Clark St. Check the Treasurer's page for the current sale's rules.",
+      "sources": [
+        {
+          "url": "https://www.cookcountytreasurer.com/taxsalegeneralinformation.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer of Liability says the CCTO does not guaranty accuracy and that site information 'is not an official record'; site states 'All Rights Reserved'. No explicit clause on copying, scraping or commercial reuse found.",
+          "terms_url": "https://cookcountytreasurer.com/disclaimer.aspx"
+        },
+        {
+          "url": "https://cookcountytreasurer.com/annualtaxsale.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above (Disclaimer of Liability; 'All Rights Reserved'). Page content is stale (TY2022 sale, December 2024).",
+          "terms_url": "https://cookcountytreasurer.com/disclaimer.aspx"
+        },
+        {
+          "url": "https://www.cookcountytreasurer.com/scavengersale.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above. Page content is stale (2019 scavenger sale details).",
+          "terms_url": "https://cookcountytreasurer.com/disclaimer.aspx"
+        }
+      ]
+    },
+    {
+      "county": "DuPage",
+      "slug": "dupage",
+      "office": "DuPage County Treasurer",
+      "phone": "630-407-5900",
+      "address": "421 N. County Farm Road, Wheaton, IL 60187",
+      "website": "https://www.dupagecounty.gov/elected_officials/treasurer/tax_sale_information.php",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": {
+        "name": "Randomized Auction Management System (RAMS)",
+        "url": "https://www.ramsauctions.com/RAMS2.html"
+      },
+      "schedule_rule": "Annually, the Treasurer will conduct a tax sale for the unpaid property taxes.",
+      "sales": [
+        {
+          "date": "2026-11-19",
+          "time": "9:00 AM (check-in from 8:00 AM), DuPage County Administration Building, Wheaton",
+          "label": "2025 Annual Real Estate Tax Sale (continues Nov 20 if needed)",
+          "deposit": "$500, forfeited if a registered bidder doesn't attend",
+          "registration_deadline": "Oct 1 to 30, 2026",
+          "source_url": "https://www.dupagecounty.gov/elected_officials/treasurer/tax_sale_information.php",
+          "quote": "The 2025 annual real estate Tax Sale will begin on Thursday, November 19, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Registered buyers attend in person and submit percentage bids for each parcel on a USB drive, which are processed through RAMS. Bidding starts at 9%, and each lien goes to the lowest bidder. Statutory per-parcel fees apply; the page gives two different totals ($124.00 in its fee table, $104.00 in its text).",
+      "sources": [
+        {
+          "url": "https://www.dupagecounty.gov/elected_officials/treasurer/tax_sale_information.php",
+          "read_on": "2026-10-27",
+          "terms": "No Disclaimer or Terms of Use page found; footer links only a Privacy Policy, which has no clause on copying or reuse of site content (it offers 'Share this page' embed code and disclaims accuracy of external sites only).",
+          "terms_url": "https://www.dupagecounty.gov/privacy_policy/index.php"
+        }
+      ]
+    },
+    {
+      "county": "Lake",
+      "slug": "lake",
+      "office": "Treasurer",
+      "phone": "847-377-2323",
+      "address": "18 N County Street, Room 102, Waukegan, IL 60085",
+      "website": "https://www.lakecountyil.gov/552/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-13",
+          "label": "Annual Tax Sale",
+          "deposit": "First-time buyers: certified check for the amount they plan to buy",
+          "source_url": "https://www.lakecountyil.gov/552/Tax-Sale-Information",
+          "quote": "The Lake County tax sale is scheduled for November 13, 2026."
+        }
+      ],
+      "next_sale_note": "The page heading says \"TY2024 Tax Sale\" while the linked packet refers to TY2025, so the tax-year label is unclear. The page gives no time, location or registration deadline, and the linked packet could not be fetched.",
+      "how_to_bid": "Buyers register with the Treasurer and must be 18 or older. First-time buyers bring a certified check for the amount they plan to buy, and the unused balance is returned. A delinquent tax list is available for an extra $100 and may be used only for the tax sale.",
+      "sources": [
+        {
+          "url": "https://www.lakecountyil.gov/552/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Website Disclaimer: Illinois law governs all uses of the data; users must not violate third-party rights; third-party content may not be used for advertising or product endorsement; no accuracy warranty. No explicit ban on copying or scraping found. The page itself says the delinquent tax list must be used only for the tax sale. A Copyright Notices page is linked but could not be fetched.",
+          "terms_url": "https://www.lakecountyil.gov/2906"
+        }
+      ]
+    },
+    {
+      "county": "Kane",
+      "slug": "kane",
+      "office": "Kane County Treasurer",
+      "phone": "630-232-3565",
+      "address": "719 S. Batavia Ave. Bldg A, Geneva, IL 60134",
+      "website": "https://treasurer.kanecountyil.gov/Pages/Tax-Sale-Information.aspx",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 sale has already taken place (\"Kane County will hold it annual Real Estate and Mobile Home Tax Sale on Monday, October 26, 2026.\"). The 2027 date is not yet posted. The page's registration line pairs \"Wednesday, September 11, 2026\", but September 11, 2026 is a Friday, so that line may be leftover text.",
+      "how_to_bid": "Buyers register during the posted window and must be physically present. Check-in runs from 8:30 to 9 a.m. on sale day, and first-time buyers must pay application deposits in certified funds.",
+      "sources": [
+        {
+          "url": "https://treasurer.kanecountyil.gov/Pages/Tax-Sale-Information.aspx",
+          "read_on": "2026-10-27",
+          "terms": "not found (no Disclaimer, Terms or Privacy link on the Treasurer site page)",
+          "terms_url": null
+        }
+      ]
+    }
+  ]
+}

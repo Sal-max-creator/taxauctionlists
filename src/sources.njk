@@ -1,0 +1,33 @@
+---
+layout: base.njk
+title: Sources and terms
+permalink: /sources/
+---
+<h1>Sources and terms</h1>
+<p class="lede">Every sale date on this site comes from a county or state page, or a legal notice the law requires counties to publish. We record each source, when we last checked it, and whether it limits reuse.</p>
+
+<h2>Link-only sources</h2>
+<p>These sources either forbid copying or are private auction platforms. We send you to them and never copy their listings.</p>
+<ul>
+{% for s in linkOnly %}
+  <li><a href="{{ s.url }}" rel="nofollow noopener">{{ s.name }}</a>: {{ s.why }}</li>
+{% endfor %}
+</ul>
+
+<h2>County and state sources</h2>
+<div class="table-scroll">
+<table>
+  <thead><tr><th scope="col">State</th><th scope="col">County</th><th scope="col">Page</th><th scope="col">Reuse terms</th><th scope="col">Checked</th></tr></thead>
+  <tbody>
+  {% for c in counties %}{% for s in c.sources %}
+    <tr>
+      <td>{{ c.state.state }}</td>
+      <td><a href="{{ c.url }}">{{ c.county }}</a></td>
+      <td><a href="{{ s.url }}" rel="nofollow noopener">{{ s.url | hostname }}</a></td>
+      <td>{{ s.terms }}{% if s.terms_url %} (<a href="{{ s.terms_url }}" rel="nofollow noopener">terms</a>){% endif %}</td>
+      <td class="nowrap">{{ s.read_on | shortDate }}</td>
+    </tr>
+  {% endfor %}{% endfor %}
+  </tbody>
+</table>
+</div>

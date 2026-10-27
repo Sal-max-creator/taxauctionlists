@@ -1,0 +1,42 @@
+---
+layout: base.njk
+pagination:
+  data: states
+  size: 1
+  alias: st
+permalink: "{{ st.url }}"
+eleventyComputed:
+  title: "{{ st.name }} tax sales"
+  description: "{{ st.name }} tax {{ st.sale_type }} sales: upcoming dates by county, deposits, deadlines and how bidding works."
+---
+<p class="breadcrumbs"><a href="/states/">States</a> › {{ st.name }}</p>
+<h1>{{ st.name }} tax sales</h1>
+<p><span class="tag tag-{{ st.sale_type | replace(' ', '-') }}">{{ st.sale_type }} state</span></p>
+<p class="lede">{{ st.overview }}</p>
+{% if st.overview_sources.length %}
+<p class="muted">Based on: {% for s in st.overview_sources %}<a href="{{ s.url }}" rel="nofollow noopener">{{ s.url | hostname }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>
+{% endif %}
+{% include "notice.njk" %}
+
+<h2>Upcoming dated sales in {{ st.name }}</h2>
+{% set rows = sales | whereEq("stateCode", st.state) %}{% set showState = false %}
+{% include "sales-table.njk" %}
+
+<h2>Counties</h2>
+<div class="table-scroll">
+<table>
+  <thead><tr><th scope="col">County</th><th scope="col">Type</th><th scope="col">Where</th><th scope="col">Next sale</th><th scope="col">Checked</th></tr></thead>
+  <tbody>
+  {% for c in st.counties %}
+    <tr>
+      <td><a href="{{ c.url }}">{{ c.county }}</a></td>
+      <td><span class="tag tag-{{ c.sale_type | replace(' ', '-') }}">{{ c.sale_type }}</span></td>
+      <td>{{ c.format | capitalize }}{% if c.platform and c.platform.name %}<br><span class="muted">{{ c.platform.name }}</span>{% endif %}</td>
+      <td>{% if c.link_only %}<a href="{{ c.sources[0].url }}" rel="nofollow noopener">See county site</a>{% elif c.upcoming.length %}{{ c.upcoming[0].date | longDate }}{% elif c.schedule_rule %}{{ c.schedule_rule }}{% else %}<span class="muted">{{ c.next_sale_note or "Not yet posted" }}</span>{% endif %}</td>
+      <td class="nowrap">{{ c.lastChecked | shortDate }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% include "signup.njk" %}

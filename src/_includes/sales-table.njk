@@ -1,0 +1,35 @@
+{#- expects `rows` (flattened sales) and optional `showState` -#}
+{% if rows.length %}
+<div class="table-scroll">
+<table class="sales">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      {% if showState %}<th scope="col">State</th>{% endif %}
+      <th scope="col">County</th>
+      <th scope="col">Sale</th>
+      <th scope="col">Type</th>
+      <th scope="col">Where</th>
+      <th scope="col">Deposit / register by</th>
+      <th scope="col">Source</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for s in rows %}
+    <tr data-state="{{ s.stateCode }}" data-type="{{ s.saleType }}" data-format="{{ s.format }}">
+      <td class="nowrap"><strong>{{ s.date | longDate }}</strong>{% if s.end_date %}<br>to {{ s.end_date | longDate }}{% endif %}{% if s.time %}<br><span class="muted">{{ s.time }}</span>{% endif %}</td>
+      {% if showState %}<td><a href="{{ s.stateUrl }}">{{ s.stateName }}</a></td>{% endif %}
+      <td><a href="{{ s.countyUrl }}">{{ s.county }}</a></td>
+      <td>{{ s.label }}</td>
+      <td><span class="tag tag-{{ s.saleType | replace(' ', '-') }}">{{ s.saleType }}</span></td>
+      <td>{{ s.format | capitalize }}</td>
+      <td>{% if s.deposit %}{{ s.deposit }}{% endif %}{% if s.deposit and s.registration_deadline %}<br>{% endif %}{% if s.registration_deadline %}<span class="muted">Register: {{ s.registration_deadline }}</span>{% endif %}{% if not s.deposit and not s.registration_deadline %}<span class="muted">See county</span>{% endif %}</td>
+      <td><a href="{{ s.source_url }}" rel="nofollow noopener">{{ s.source_url | hostname }}</a><br><span class="muted">Checked {{ s.lastChecked | shortDate }}</span></td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% else %}
+<p class="empty">No dated sales posted by these counties yet. Check each county below for its schedule.</p>
+{% endif %}

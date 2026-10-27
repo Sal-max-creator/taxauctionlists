@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: Tax sales by state
+permalink: /states/
+---
+<h1>Tax sales by state</h1>
+<p class="lede">Whether a state sells tax liens or tax deeds changes everything about how you bid and get paid. Start with your state.</p>
+<div class="grid">
+{% for st in states %}
+  <a class="card" href="{{ st.url }}">
+    <h3>{{ st.name }}</h3>
+    <p>{{ st.sale_type | capitalize }} state · {{ st.counties.length }} counties · {{ st.upcomingCount }} dated sales</p>
+  </a>
+{% endfor %}
+</div>
+<p class="muted">More states are being added. Want yours sooner? Tell us when you sign up.</p>
+{% include "signup.njk" %}

@@ -1,0 +1,257 @@
+{
+  "state": "IA",
+  "name": "Iowa",
+  "sale_type": "lien",
+  "overview": "Iowa sells tax sale certificates (liens) on parcels with delinquent property taxes, not the property itself. Each county treasurer runs one annual tax sale, which state law sets for the third Monday in June, with a different June date allowed for good cause; many counties also hold monthly adjourned sales for parcels left unsold. To redeem, the owner pays the delinquent amount plus interest of two percent per month to the county treasurer. If the parcel is not redeemed, the certificate holder may begin the tax deed process after one year and nine months from a regular sale by serving notice of expiration of the right of redemption.",
+  "overview_sources": [
+    {
+      "url": "https://www.legis.iowa.gov/docs/code/2025/446.7.pdf",
+      "quote": "Annually, on the third Monday in June the county treasurer shall offer at public sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.legis.iowa.gov/docs/code/2025/446.7.pdf",
+      "quote": "the treasurer may designate a different date in June for the sale.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.legis.iowa.gov/docs/code/2024/447.1.pdf",
+      "quote": "and interest of two percent per month, counting each fraction of a month as an entire month, from the month of sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.legis.iowa.gov/docs/code/2025/447.9.pdf",
+      "quote": "After one year and nine months from the date of sale,",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Polk",
+      "slug": "polk",
+      "office": "Polk County Treasurer's Office",
+      "phone": "515-286-3060",
+      "address": "111 Court Ave. Des Moines",
+      "website": "https://www.polkcountyiowa.gov/treasurer/information-for-tax-sale-buyers/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": null
+      },
+      "schedule_rule": "The annual tax sale takes place in June of each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The newest dated notice found was for the 2024 sale (June 17, 2024, online), which is past.",
+      "how_to_bid": "Bidders register through GovEase, the platform the Treasurer's buyer page links to. The most recent official notice found (2024) says the sale was held online with competitive bidding, and pre-registration required forms and a fee.",
+      "sources": [
+        {
+          "url": "https://www.polkcountyiowa.gov/treasurer/information-for-tax-sale-buyers/",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer or terms link in page content)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.polkcountyiowa.gov/treasurer/news/polk-county-property-tax-sale-is-june-17/",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://taxsale.polkcountyiowa.gov",
+          "read_on": "2026-10-27",
+          "terms": "Accuracy disclaimer only: 'Do not rely solely on the information contained on this site that might affect your legal rights.' No copying or reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.polkcountyiowa.gov/treasurer/information-for-tax-sale-buyers/",
+          "quote": "To register for the Polk County Annual Tax Sale, visit www.govease.com"
+        },
+        {
+          "url": "https://taxsale.polkcountyiowa.gov",
+          "quote": "contact the Polk County Treasurer's Office at 515-286-3060 or visit our office at 111 Court Ave. Des Moines."
+        }
+      ],
+      "notes": {
+        "format_note": "'online' is based on the 2024 notice: 'The 2024 Polk County property tax sale will be conducted June 17, 2024, using an online bidding process.' The current buyer page does not restate the format."
+      }
+    },
+    {
+      "county": "Linn",
+      "slug": "linn",
+      "office": "Linn County Treasurer's Office",
+      "phone": "319-892-5500",
+      "address": null,
+      "website": "https://www.linncountyiowa.gov/m/faq?cat=64",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": null
+      },
+      "schedule_rule": "The tax sale is every third Monday in June.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was June 15, 2026, beginning at 9:00 a.m. (past): 'Taxes listed as delinquent may be sold at the Linn County Treasurer’s tax sale on June 15, 2026, beginning at 9:00 a.m.'",
+      "how_to_bid": "Bidders pay a registration fee before buying at the tax sale. They bid on the delinquent taxes and, if they win, hold a lien that earns 2% per month until it is redeemed. The 2023 notice had bidders register on the Iowa Tax Auction website and place bids online; the 2026 notice does not state the format.",
+      "sources": [
+        {
+          "url": "https://www.linncountyiowa.gov/m/faq?cat=64",
+          "read_on": "2026-10-27",
+          "terms": "not found (CivicPlus site; no disclaimer/terms link in page content)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.linncountyiowa.gov/m/newsflash?cat=29",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.linncountyiowa.gov/CivicAlerts.aspx?AID=3254",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.linncountyiowa.gov/m/faq?cat=64",
+          "quote": "Tax sales incur penalty or interest at 2% each month that it goes unredeemed."
+        },
+        {
+          "url": "https://www.linncountyiowa.gov/m/faq?cat=64",
+          "quote": "Bidders have to pay a registration fee in order to buy properties at tax sale."
+        }
+      ],
+      "notes": {
+        "format_note": "2023 notice (https://www.linncountyiowa.gov/CivicAlerts.aspx?AID=3254): bidders registered on the 'Iowa Tax Auction website' and 'Bidders will place their bids online.' The current format is not confirmed."
+      }
+    },
+    {
+      "county": "Scott",
+      "slug": "scott",
+      "office": "Scott County Treasurer",
+      "phone": "563-326-8664",
+      "address": "Administrative Center, 600 W. 4th St., Davenport, IA 52801-1003",
+      "website": "https://www.scottcountyiowa.gov/treasurer/post/2026/06/15/2026-annual-tax-sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held at 8:30 am on Monday, June 15, 2026 (past): 'The tax sale will be held at 8:30 am on Monday, June 15, 2026'",
+      "how_to_bid": "Bidders pre-register online through iowatreasurers.org and pay a non-refundable $35.00 fee per bidder number. The sale is held in person in the Scott County Board Room. Bidders bid down the percentage of interest in the property they will accept; ties at 100% go to random selection. Full payment is due at the end of the sale (2026 rules).",
+      "sources": [
+        {
+          "url": "https://www.scottcountyiowa.gov/treasurer/post/2026/06/15/2026-annual-tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer permits copying: 'The information on this site is considered public information and may be distributed or copied unless otherwise specified.' The county makes no accuracy warranty.",
+          "terms_url": "https://www.scottcountyiowa.gov/disclaimer"
+        },
+        {
+          "url": "https://www3.scottcountyiowa.gov/treasurer/pub/tax_sale_rules/2026_Annual_Tax_Sale_Rules.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same county disclaimer applies (public information may be distributed or copied).",
+          "terms_url": "https://www.scottcountyiowa.gov/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.scottcountyiowa.gov/treasurer/post/2026/06/15/2026-annual-tax-sale",
+          "quote": "in the Scott County Board Room at the Scott County Administrative Center located at 600 W. 4th Street, Davenport, Iowa."
+        },
+        {
+          "url": "https://www3.scottcountyiowa.gov/treasurer/pub/tax_sale_rules/2026_Annual_Tax_Sale_Rules.pdf",
+          "quote": "The first is a bid down process whereby you would bid down your interest in the property 95%, 90%, 80%, etc."
+        },
+        {
+          "url": "https://www3.scottcountyiowa.gov/treasurer/pub/tax_sale_rules/2026_Annual_Tax_Sale_Rules.pdf",
+          "quote": "each bidder number will cost $35.00"
+        }
+      ]
+    },
+    {
+      "county": "Johnson",
+      "slug": "johnson",
+      "office": "Johnson County Treasurer's office",
+      "phone": "319-356-6087",
+      "address": "Johnson County Administration Building, 913 S Dubuque St, Iowa City, IA 52240 (sale location, room 110)",
+      "website": "https://www.johnsoncountyiowa.gov/tresurer/tax-sale-information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was June 15, 2026 (past): 'The tax sale will be held on June 15, 2026'",
+      "how_to_bid": "Bidders pre-register at the Treasurer's office by the posted deadline (5:00 pm, June 5 for 2026) and pay a $58 fee per bidder tax identification number. On sale day they bring their receipt and bidder number. Non-individual bidders need an agent for service of process designation on file. The sale is held in person in room 110 of the Administration Building.",
+      "sources": [
+        {
+          "url": "https://www.johnsoncountyiowa.gov/tresurer/tax-sale-information",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer has no disclaimer/terms link)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.johnsoncountyiowa.gov/tresurer/tax-sale-information",
+          "quote": "Participants must pre-register at the Treasurer's office by 5:00 pm, June 5th for the June 15 tax sale."
+        },
+        {
+          "url": "https://www.johnsoncountyiowa.gov/tresurer/tax-sale-information",
+          "quote": "The registration fee is $58 per bidder tax identification number."
+        }
+      ],
+      "notes": {
+        "format_note": "The page names a physical room but does not use the words 'in person'. Format is inferred from the stated location."
+      }
+    },
+    {
+      "county": "Black Hawk",
+      "slug": "black-hawk",
+      "office": "Treasurer",
+      "phone": "319-833-3013",
+      "address": "Black Hawk County Courthouse 316 E 5th Street, Room 140 Waterloo, IA 50703",
+      "website": "https://blackhawkcounty.iowa.gov/335/Tax-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "held on the third Monday in June",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 annual sale was Monday, June 15, 2026 (past). The page also describes monthly adjourned sales in the Treasurer's office ('on the 3rd Monday of each month'), but lists no specific future adjourned-sale dates.",
+      "how_to_bid": "Bidders send completed registration forms with original signatures and a $40 per-bidder fee to the Treasurer's office before the deadline. The sale is held in person in the courthouse IT conference room. Bidding is verbal, bidding down the interest in 10% increments, with random selection to break ties. Full payment is due at the close of the sale (2026 terms packet).",
+      "sources": [
+        {
+          "url": "https://blackhawkcounty.iowa.gov/335/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice: 'All content © 2006-2026 Black Hawk County IA and its representatives. All rights reserved.' No explicit scraping or commercial-use clause found.",
+          "terms_url": "https://blackhawkcounty.iowa.gov/site/copyright"
+        },
+        {
+          "url": "https://www.blackhawkcounty.iowa.gov/336/Terms-Conditions",
+          "read_on": "2026-10-27",
+          "terms": "Same county copyright notice (all rights reserved).",
+          "terms_url": "https://blackhawkcounty.iowa.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://blackhawkcounty.iowa.gov/335/Tax-Sale",
+          "quote": "A $40 (US currency) per bidder registration fee must accompany the registration documents."
+        },
+        {
+          "url": "https://www.blackhawkcounty.iowa.gov/336/Terms-Conditions",
+          "quote": "The annual Black Hawk County Tax Sale will be held on Monday, June 15, 2026"
+        },
+        {
+          "url": "https://www.blackhawkcounty.iowa.gov/336/Terms-Conditions",
+          "quote": "the bid down of interest is to be made verbally in increments of ten percent"
+        }
+      ],
+      "notes": {
+        "schedule_rule_adjourned": "on the 3rd Monday of each month"
+      }
+    }
+  ]
+}

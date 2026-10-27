@@ -1,0 +1,39 @@
+---
+layout: base.njk
+description: Free calendar of upcoming county tax lien and tax deed sales, with deposits, registration deadlines and a link to every county source.
+---
+<section class="hero">
+  <h1>Every county tax sale, one free calendar</h1>
+  <p class="lede">Upcoming tax lien and tax deed sales with dates, deposits, registration deadlines and how to bid, each linked to the county page it came from.</p>
+  <div class="stats">
+    <div class="stat"><b>{{ states.length }}</b> states</div>
+    <div class="stat"><b>{{ counties.length }}</b> counties</div>
+    <div class="stat"><b>{{ sales.length }}</b> upcoming dated sales</div>
+  </div>
+  {% include "notice.njk" %}
+</section>
+
+<h2>Coming up next</h2>
+{% set rows = sales | head(12) %}{% set showState = true %}
+{% include "sales-table.njk" %}
+<p><a href="/calendar/">See the full calendar →</a></p>
+
+<h2>Browse by state</h2>
+<div class="grid">
+{% for st in states %}
+  <a class="card" href="{{ st.url }}">
+    <h3>{{ st.name }}</h3>
+    <p>{{ st.sale_type | capitalize }} state · {{ st.counties.length }} counties · {{ st.upcomingCount }} dated sales</p>
+  </a>
+{% endfor %}
+</div>
+
+<h2>New to tax sales?</h2>
+<div class="grid">
+{% for g in collections.guide | guidesSorted | head(4) %}
+  <a class="card" href="{{ g.url }}"><h3>{{ g.data.title }}</h3><p>{{ g.data.description }}</p></a>
+{% endfor %}
+</div>
+<p><a href="/guides/">All guides →</a></p>
+
+{% include "signup.njk" %}

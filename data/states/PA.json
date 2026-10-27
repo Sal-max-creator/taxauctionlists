@@ -1,0 +1,279 @@
+{
+  "state": "PA",
+  "name": "Pennsylvania",
+  "sale_type": "deed",
+  "overview": "Pennsylvania sells the delinquent property itself rather than a lien. In most counties the county Tax Claim Bureau runs the sales under the Real Estate Tax Sale Law. The annual upset sale must be scheduled no earlier than the second Monday of September and before October 1, and many counties hold a continued upset sale and a judicial sale in December. A judicial sale offers the property freed of liens, and property still unsold goes to a repository for private bids. The law allows no redemption after the actual sale, so owners must pay before it. Philadelphia instead sells tax-delinquent property through Sheriff's sales held online on Bid4Assets.",
+  "overview_sources": [
+    {
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PDF",
+      "quote": "The bureau shall schedule the date of the sale no earlier than the second Monday of September and before October 1",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PDF",
+      "quote": "There shall be no redemption of any property after the actual sale thereof.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PDF",
+      "quote": "freed and discharged of all liens as hereinafter provided",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://buckscounty.gov/1955/Upset-and-Judicial-Sales",
+      "quote": "There is a continued Upset Sale as well as a Judicial Sale in December of each year.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://phillysheriff.com/conditions-of-sale-for-tax-sales/",
+      "quote": "the scheduled sale shall be conducted virtually at Bid4Assets.com",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Bucks",
+      "slug": "bucks",
+      "office": "Tax Claim Bureau",
+      "phone": "215-348-6274",
+      "address": "55 E Court Street, 5th Floor, Doylestown, PA 18901",
+      "website": "https://buckscounty.gov/323",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "The Upset Sale is held each September by the Bucks County Tax Claim Bureau. There is a continued Upset Sale as well as a Judicial Sale in December of each year.",
+      "sales": [
+        {
+          "date": "2026-12-08",
+          "label": "Adjourned Upset Tax Sale",
+          "registration_deadline": "Nov 24, 2026, 4:00 PM per the registration page (the county's sale notice says Nov 14; confirm with the Tax Claim Bureau)",
+          "source_url": "https://buckscounty.gov/2197/Tax-Sale-Registration-for-Bidders",
+          "quote": "Adjourned Upset Tax Sale | December 8th, 2026  | September 21st, 2026 | November 24th, 2026 at 4:00PM"
+        },
+        {
+          "date": "2026-12-08",
+          "label": "Judicial Sale",
+          "registration_deadline": "Nov 24, 2026, 4:00 PM per the registration page (the county's sale notice says Nov 14; confirm with the Tax Claim Bureau)",
+          "source_url": "https://buckscounty.gov/2197/Tax-Sale-Registration-for-Bidders",
+          "quote": "Judicial Sale            | December 8th, 2026  | September 21st, 2026 | November 24th, 2026 at 4:00PM"
+        }
+      ],
+      "next_sale_note": "Sale start time not stated. The registration page gives a deadline of November 24th, 2026 at 4:00PM, but the county's 2026 Notice of Public Tax Sale says to register in person 'by ... Nov 14th 2026 for the Dec 8th Upset/Judicial Sales'. Confirm with the Bureau.",
+      "how_to_bid": "All Bucks County tax sales are held online through GovEase. Bidders register through the Tax Claim Bureau (the 2026 notice says in person at the Bureau, with a $100.00 non-refundable registration fee by certified check or money order). Registering for the September upset sale also registers you for the December sales.",
+      "sources": [
+        {
+          "url": "https://buckscounty.gov/1955/Upset-and-Judicial-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content © 2006-2026 Bucks County, PA and its representatives. All rights reserved.' No explicit scraping or reuse clause found.",
+          "terms_url": "https://buckscounty.gov/copyright"
+        },
+        {
+          "url": "https://buckscounty.gov/2197/Tax-Sale-Registration-for-Bidders",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see copyright notice above.",
+          "terms_url": "https://buckscounty.gov/copyright"
+        },
+        {
+          "url": "https://buckscounty.gov/323",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see copyright notice above.",
+          "terms_url": "https://buckscounty.gov/copyright"
+        },
+        {
+          "url": "https://www.buckscounty.gov/DocumentCenter/View/4601/2026-NOTICE-OF-PUBLIC-TAX-SALE",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see copyright notice above.",
+          "terms_url": "https://buckscounty.gov/copyright"
+        }
+      ]
+    },
+    {
+      "county": "Montgomery",
+      "slug": "montgomery",
+      "office": "Montgomery County Tax Claim Bureau",
+      "phone": "610-278-1216",
+      "address": "P.O. Box 190, Norristown, PA 19404 (mailing); One Montgomery Plaza, Suite 600, Norristown, PA 19401 (overnight delivery)",
+      "website": "https://www.montgomerycountypa.gov/taxclaim",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "sales": [],
+      "next_sale_note": null,
+      "sources": [
+        {
+          "url": "https://www.montgomerycountypa.gov/taxclaim",
+          "read_on": "2026-10-27",
+          "terms": "RESTRICTIVE: county disclaimer says 'The information provided herewith is solely for your own use and cannot be sold.' Also 'Copyright 2026 Montgomery County, PA — All Rights Reserved.'",
+          "terms_url": "https://www.montgomerycountypa.gov/your-government/administration/solicitor/disclaimer"
+        },
+        {
+          "url": "https://assets.montgomerycountypa.gov/files/2026-08/2026%20Judicial%20Sale%20List%208.7.26.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same county disclaimer applies (personal use only; cannot be sold).",
+          "terms_url": "https://www.montgomerycountypa.gov/your-government/administration/solicitor/disclaimer"
+        }
+      ],
+      "link_only": {
+        "reason": "Montgomery County's disclaimer says its information is solely for your own use and cannot be sold."
+      },
+      "notes": {
+        "withheld_sales": [
+          {
+            "date": "2026-12-10",
+            "label": "Continued Judicial Sale",
+            "source_url": "https://www.montgomerycountypa.gov/taxclaim",
+            "quote": "Continued Judicial Sale: December 10th, 2026"
+          },
+          {
+            "date": "2026-12-10",
+            "label": "Continued Upset Sale",
+            "source_url": "https://www.montgomerycountypa.gov/taxclaim",
+            "quote": "Continued Upset Sale: December 10th, 2026"
+          }
+        ],
+        "withheld_schedule_rule": "The Upset Sale is scheduled each September and December. A Judicial Sale is held at least once each year in August and December."
+      }
+    },
+    {
+      "county": "Delaware",
+      "slug": "delaware",
+      "office": "Treasurer's Office (Tax Claim Bureau)",
+      "phone": "610-891-8294",
+      "address": "Government Center, Ground Floor, 201 W. Front St., Media, PA 19063",
+      "website": "https://www.delcopa.gov/treasurer/upsetsales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-10",
+          "time": "10:00 AM, Government Center, Media",
+          "label": "Upset Price Sale",
+          "deposit": "$1,000.00 registration fee (certified check or money order) plus non-refundable $25.00 application fee",
+          "registration_deadline": "In person Nov 16 and 17, 2026 (first 120 bidders)",
+          "source_url": "https://www.delcopa.gov/treasurer/upsetsales",
+          "quote": "Upset Price Sale: December 10, 2026 at 10AM"
+        }
+      ],
+      "next_sale_note": "Upset sale list to be posted Nov. 2, 2026. Judicial sale: 'Next Judicial Sale: TBA - Check back in mid January 2027 for dates'.",
+      "how_to_bid": "Print and complete the bidder application, a notarized bidder affidavit and the conditions of sale, then register in person on the posted registration days (capped at 120 bidders). Properties are called by an auctioneer on sale day, and payment in full is due by noon the day after the sale.",
+      "sources": [
+        {
+          "url": "https://www.delcopa.gov/treasurer/upsetsales",
+          "read_on": "2026-10-27",
+          "terms": "Terms page: '©2026 All rights reserved by County of Delaware, PA.' and prohibits unauthorized attempts to access, upload or change information on servers. No explicit copying, scraping or reuse clause found.",
+          "terms_url": "https://delcopa.gov/terms"
+        },
+        {
+          "url": "https://delcopa.gov/treasurer/upsetinstructions",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see terms above.",
+          "terms_url": "https://delcopa.gov/terms"
+        },
+        {
+          "url": "https://delcopa.gov/treasurer/judicialsales",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see terms above.",
+          "terms_url": "https://delcopa.gov/terms"
+        }
+      ]
+    },
+    {
+      "county": "Lancaster",
+      "slug": "lancaster",
+      "office": "Tax Claim Bureau",
+      "phone": "717-299-8000",
+      "address": "150 N Queen Street (Enter on Chestnut St.), Lancaster, PA 17603",
+      "website": "https://www.lancastercountypa.gov/2694/Tax-Claim-Bureau",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovDeals",
+        "url": "https://www.govdeals.com/lctcb2026JudicialTaxSale"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-16",
+          "time": "9:00 AM to 12:00 PM EST (online, GovDeals)",
+          "label": "Continued Upset Tax Sale",
+          "registration_deadline": "Fri, Nov 6, 2026, 4:00 PM",
+          "source_url": "https://prison.lancastercountypa.gov/DocumentCenter/View/22901/UpdatedCont-Upset--Judicial-Tax-Sale-Website-Notice2026-004",
+          "quote": "ON MONDAY, NOVEMBER 16, 2026"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "9:00 AM to 12:00 PM EST (online, GovDeals)",
+          "label": "Judicial Tax Sale",
+          "registration_deadline": "Fri, Nov 6, 2026, 4:00 PM",
+          "source_url": "https://prison.lancastercountypa.gov/DocumentCenter/View/22901/UpdatedCont-Upset--Judicial-Tax-Sale-Website-Notice2026-004",
+          "quote": "ON MONDAY, NOVEMBER 16, 2026"
+        }
+      ],
+      "next_sale_note": "The continued upset sale has its own GovDeals page: https://www.govdeals.com/lctcb2026ContinuedUpsetTaxSale. The notice document is served from the county's CivicPlus document center (linked from the www Tax Claim page).",
+      "how_to_bid": "Both sales are online auctions on GovDeals. Pre-registration is required and covers both sales; entities must supply photo ID, formation documents and an authorization letter. The registration deadline is firm.",
+      "sources": [
+        {
+          "url": "https://www.lancastercountypa.gov/2694/Tax-Claim-Bureau",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content © 2006-2026 Lancaster County, PA and its representatives. All rights reserved.' No explicit scraping or reuse clause found.",
+          "terms_url": "https://www.lancastercountypa.gov/copyright"
+        },
+        {
+          "url": "https://prison.lancastercountypa.gov/DocumentCenter/View/22901/UpdatedCont-Upset--Judicial-Tax-Sale-Website-Notice2026-004",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; see copyright notice above.",
+          "terms_url": "https://www.lancastercountypa.gov/copyright"
+        }
+      ]
+    },
+    {
+      "county": "Philadelphia",
+      "slug": "philadelphia",
+      "office": "Philadelphia Sheriff's Office (Real Estate)",
+      "phone": "215-686-3565",
+      "address": "100 South Broad Street, 5th Floor, Philadelphia, PA 19110",
+      "website": "https://phillysheriff.com/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/philadelphia"
+      },
+      "schedule_rule": "The Office of the Philadelphia Sheriff conducts several Sheriff Sales each month.",
+      "sales": [],
+      "next_sale_note": "No specific upcoming tax sale dates are posted on phillysheriff.com. Its upcoming-sales calendar links to officeofphiladelphiasheriff.com, which could not be read (blocked to automated fetch).",
+      "how_to_bid": "Tax sales are held online on Bid4Assets. Bidders complete Bid4Assets registration and post a $1,500.00 deposit plus a $35.00 processing fee. The 10% down payment is due the day after the auction and the balance by 5:00 PM on the 15th calendar day after it.",
+      "sources": [
+        {
+          "url": "https://phillysheriff.com/",
+          "read_on": "2026-10-27",
+          "terms": "Footer 'All Rights Reserved'; disclaimer says content is 'for general information purposes only'. Linking policy forbids framing ('You must not frame the content of this website') and using the logo as a link without written permission. No explicit scraping clause found.",
+          "terms_url": "https://phillysheriff.com/linking-policy/"
+        },
+        {
+          "url": "https://phillysheriff.com/conditions-of-sale-for-tax-sales/",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://phillysheriff.com/disclaimer/"
+        },
+        {
+          "url": "https://phillysheriff.com/real-estate/how-sheriffs-sales-work",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://phillysheriff.com/linking-policy/"
+        },
+        {
+          "url": "https://phillysheriff.com/?p=7119",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://phillysheriff.com/linking-policy/"
+        }
+      ]
+    }
+  ]
+}

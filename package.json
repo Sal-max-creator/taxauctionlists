@@ -1,0 +1,27 @@
+{
+  "name": "taxauctionlists",
+  "version": "0.1.0",
+  "description": "TaxAuctionLists.com: free county tax sale calendar (private build)",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "validate": "node scripts/validate-data.mjs",
+    "check-sources": "node scripts/check-sources.mjs",
+    "terms-log": "node scripts/build-terms-log.mjs",
+    "test": "node scripts/validate-data.mjs && eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sal-max-creator/taxauctionlists.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sal-max-creator/taxauctionlists/issues"
+  },
+  "homepage": "https://github.com/sal-max-creator/taxauctionlists#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.7"
+  },
+  "private": true,
+  "type": "module"
+}

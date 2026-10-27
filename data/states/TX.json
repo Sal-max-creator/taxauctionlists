@@ -1,0 +1,305 @@
+{
+  "state": "TX",
+  "name": "Texas",
+  "sale_type": "redeemable deed",
+  "overview": "Texas does not sell tax liens; after a taxing unit wins a delinquent-tax foreclosure judgment, the property itself is sold at a public auction and the buyer receives a Constable's or Sheriff's deed. Sales are conducted by county constables or the sheriff, generally on the first Tuesday of each month, either in person at a county location or online through a contracted platform. Bidders usually must obtain a written statement from the tax assessor-collector showing they owe no delinquent taxes and register before the sale; payment is typically in cash, certified funds or wire. Many properties remain subject to the former owner's right of redemption: two years for residence homesteads and agricultural land, and 180 days (six months) for other property.",
+  "overview_sources": [
+    {
+      "url": "https://www.hctax.net/Property/TaxSales",
+      "quote": "Tax Sales are held by the eight Harris County Constables.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.hctax.net/Property/TaxSales",
+      "quote": "2 years for residence homestead and 180 days for non-homesteaded properties.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.hctax.net/About/Announcements/Tax Sale FAQs.pdf",
+      "quote": "The Winning Bidder of a property will be issued a Constable’s Deed or Sheriff’s Deed within 4 to 6 weeks after the Tax Sale date.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.bexar.org/faq.aspx?TID=77",
+      "quote": "A tax foreclosure is the forced sale, conducted by a governmental agency, of real estate for nonpayment of taxes.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.bexar.org/faq.aspx?TID=77",
+      "quote": "Redemption period for properties identified as agricultural use or homestead properties is two years.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://taxoffice.dallascounty.org/hc/en-us/articles/52851449825691-Sheriff-s-Sales",
+      "quote": "Sheriff's Sales are conducted the first Tuesday of every month via an online auction.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Harris",
+      "slug": "harris",
+      "office": "Harris County Tax Assessor-Collector (Annette Ramirez) - Special Tax Service Department",
+      "phone": "713-274-8120 (Special Tax Service); 713-274-8000 (main)",
+      "address": "1001 Preston St., Houston, TX 77002",
+      "website": "https://www.hctax.net/Property/TaxSales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The auction is conducted on the first Tuesday of each month at Bayou City Event Center, between 10:00 am to 4:00 pm.",
+      "sales": [],
+      "next_sale_note": "No specific dates posted; monthly first-Tuesday rule only.",
+      "how_to_bid": "Register (renewed annually) online or in person on sale day from 8:30 am, with government photo ID and a signed statement that you owe no delinquent taxes. Sales are live at Bayou City Event Center, 9401 Knight Road, Houston, run by the eight constable precincts; the constable accepts only cash or cashier's checks.",
+      "sources": [
+        {
+          "url": "https://www.hctax.net/Property/TaxSales",
+          "read_on": "2026-10-27",
+          "terms": "No reuse restriction found. On-page 'Disclaimers and Cautions' says info is published for general information purposes only, with no warranty on accuracy/completeness of the listing.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.hctax.net/About/Announcements/Tax Sale FAQs.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hctax.net/Property/TaxSales",
+          "quote": "The auction is conducted on the first Tuesday of each month at Bayou City Event Center, between 10:00 am to 4:00 pm."
+        },
+        {
+          "url": "https://www.hctax.net/Property/TaxSales",
+          "quote": "Registration is required to participate in the Harris County Tax Sale and must be renewed annually."
+        },
+        {
+          "url": "https://www.hctax.net/Property/TaxSales",
+          "quote": "The Constable will only accept cash or certified funds (cashier's check) as payment."
+        },
+        {
+          "url": "https://www.hctax.net/About/Announcements/Tax Sale FAQs.pdf",
+          "quote": "The Harris County Tax Sale is a live Tax Sale."
+        },
+        {
+          "url": "https://www.hctax.net/About/Announcements/Tax Sale FAQs.pdf",
+          "quote": "You can register online at any time or in person on the day of the auction beginning at 8:30 am."
+        }
+      ]
+    },
+    {
+      "county": "Dallas",
+      "slug": "dallas",
+      "office": "Dallas County Sheriff's Office (Writ Enforcement) / Dallas County Tax Office",
+      "phone": "(214) 653-7811",
+      "address": "500 Elm Street, Suite 3300, Dallas, TX 75202",
+      "website": "https://taxoffice.dallascounty.org/hc/en-us/articles/52851449825691-Sheriff-s-Sales",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealForeclose - Dallas County)",
+        "url": "https://dallas.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": "The tax sale will be held online, through Real Auction, on the first Tuesday of every month beginning at 9 a.m. CST.",
+      "sales": [],
+      "next_sale_note": "No specific dates posted on county pages; monthly first-Tuesday rule only. Struck-off property resales are handled separately by Dallas County Public Works.",
+      "how_to_bid": "Get a certified Written Statement from the Tax Assessor/Collector and submit it to the Sheriff's Office by fax or email at least 2 business days before the sale, then bid on the Real Auction site. Payment is by wire transfer only.",
+      "sources": [
+        {
+          "url": "https://www.dallascounty.org/departments/sheriff/writ-enforcement-section/",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found; footer/privacy policy shows '© 2026. Dallas County. All rights reserved.'",
+          "terms_url": "https://www.dallascounty.org/about-us/privacy-policy/"
+        },
+        {
+          "url": "https://taxoffice.dallascounty.org/hc/en-us/articles/52851449825691-Sheriff-s-Sales",
+          "read_on": "2026-10-27",
+          "terms": "not found; footer '© . Dallas County. All rights reserved.'",
+          "terms_url": null
+        },
+        {
+          "url": "https://taxoffice.dallascounty.org/hc/en-us/articles/52332852588571-Sheriff-Sales-Tax-Foreclosure-Resales",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dallascounty.org/departments/sheriff/writ-enforcement-section/",
+          "quote": "The tax sale will be held online, through Real Auction, on the first Tuesday of every month beginning at 9 a.m. CST."
+        },
+        {
+          "url": "https://www.dallascounty.org/departments/sheriff/writ-enforcement-section/",
+          "quote": "Payments are received by wire transfer only."
+        },
+        {
+          "url": "https://taxoffice.dallascounty.org/hc/en-us/articles/52332852588571-Sheriff-Sales-Tax-Foreclosure-Resales",
+          "quote": "at least 2 business days before the day of the sale in which the bidder intends to participate."
+        },
+        {
+          "url": "https://taxoffice.dallascounty.org/hc/en-us/articles/52332852588571-Sheriff-Sales-Tax-Foreclosure-Resales",
+          "quote": "Tax foreclosure resales are conducted by the Dallas County Public Works Department."
+        }
+      ]
+    },
+    {
+      "county": "Bexar",
+      "slug": "bexar",
+      "office": "Bexar County Tax Assessor-Collector's Office",
+      "phone": "210-335-6628",
+      "address": "Vista Verde Plaza Building, 233 N. Pecos la Trinidad, San Antonio, Texas, 78207-3175",
+      "website": "https://www.bexar.org/faq.aspx?TID=77",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The sale is conducted on the first Tuesday of every month between the hours of 10:00 AM and 4:00 PM.",
+      "sales": [],
+      "next_sale_note": "No specific dates posted. FAQ gives location as the west side of the Bexar County Courthouse, 100 Dolorosa, 'or as designated by the Commissioner's Court' - confirm the current venue/format before publishing.",
+      "how_to_bid": "Anyone may bid at the cash auction held at the Bexar County Courthouse; bring cash or certified funds (no personal checks). Tax certificates for properties come from the Tax Assessor-Collector's office.",
+      "sources": [
+        {
+          "url": "https://www.bexar.org/faq.aspx?TID=77",
+          "read_on": "2026-10-27",
+          "terms": "not found (privacy policy has no copyright/reuse terms)",
+          "terms_url": "https://www.bexar.org/411/Privacy-Policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bexar.org/faq.aspx?TID=77",
+          "quote": "The sale is conducted on the first Tuesday of every month between the hours of 10:00 AM and 4:00 PM."
+        },
+        {
+          "url": "https://www.bexar.org/faq.aspx?TID=77",
+          "quote": "The sale will take place on the west side of the Bexar County Courthouse located at 100 Dolorosa, San Antonio, Texas or as designated by the Commissioner's Court."
+        },
+        {
+          "url": "https://www.bexar.org/faq.aspx?TID=77",
+          "quote": "No personal checks will be accepted."
+        },
+        {
+          "url": "https://www.bexar.org/faq.aspx?TID=77",
+          "quote": "Redemption period for all other properties is six months."
+        }
+      ]
+    },
+    {
+      "county": "Travis",
+      "slug": "travis",
+      "office": "Travis County Tax Office",
+      "phone": null,
+      "address": null,
+      "website": "https://tax-office.traviscountytx.gov/properties/foreclosed",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Travis RealAuction)",
+        "url": "https://travis.texas.realforeclose.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "label": "Travis County tax foreclosure sale",
+          "registration_deadline": "October 27, 2026 (bidder registration and statement)",
+          "source_url": "https://tax-office.traviscountytx.gov/properties/foreclosed",
+          "quote": "| November 3, 2026  | October 27, 2026   |"
+        },
+        {
+          "date": "2026-12-01",
+          "label": "Travis County tax foreclosure sale",
+          "registration_deadline": "November 24, 2026 (bidder registration and statement)",
+          "source_url": "https://tax-office.traviscountytx.gov/properties/foreclosed",
+          "quote": "| December 1, 2026  | November 24, 2026  |"
+        }
+      ],
+      "next_sale_note": "Posted schedule ends with December 1, 2026; 2027 dates not yet posted.",
+      "how_to_bid": "Register on the Travis RealAuction site and also submit the Bidder Registration and $10 fee to the tax office online at least five business days before the sale; approval is valid for one year. The tax office states its sales are conducted by RealAuction.",
+      "sources": [
+        {
+          "url": "https://tax-office.traviscountytx.gov/properties/foreclosed",
+          "read_on": "2026-10-27",
+          "terms": "Travis County Disclaimers: anyone may view, copy or distribute information 'for personal or informational use' if not modified, excluding page design/layout and images; commercial use not expressly addressed. Footer '© Travis County. All Rights Reserved.'",
+          "terms_url": "https://www.traviscountytx.gov/disclaimer"
+        },
+        {
+          "url": "https://tax-office.traviscountytx.gov/properties/foreclosed/faq",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.traviscountytx.gov/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://tax-office.traviscountytx.gov/properties/foreclosed",
+          "quote": "at least five business days before the date of the sale."
+        },
+        {
+          "url": "https://tax-office.traviscountytx.gov/properties/foreclosed",
+          "quote": "Deadline to submit the Bidder Registration to the tax office"
+        },
+        {
+          "url": "https://tax-office.traviscountytx.gov/properties/foreclosed/faq",
+          "quote": "Travis county tax sales are conducted by RealAuction."
+        }
+      ],
+      "notes": {
+        "notes": "Quotes for the sale rows are the table rows as rendered by WebFetch (columns: Sale Date | Statement Deadline). The older page tax-office.traviscountytx.gov/pages/foreclosure/sale.php is stale (shows a June 4, 2024 in-person courthouse sale) and should not be used."
+      }
+    },
+    {
+      "county": "Tarrant",
+      "slug": "tarrant",
+      "office": "Tarrant County Constable, Precinct 3 (Darrell Huffman) - Delinquent Tax Sales Division",
+      "phone": "817-581-3610 Option 2",
+      "address": "Southlake Government Complex, 1400 Main Street - Suite 240, Southlake, Texas 76092",
+      "website": "https://www.tarrantcountytx.gov/content/main/en/constables/constable-3/delinquent-tax-sales.html",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "THE CONSTABLE'S SALE AT APPROXIMATELY 10 a.m. IN THE MORNING ON THE FIRST TUESDAY OF THE MONTH.",
+      "sales": [],
+      "next_sale_note": "No specific dates found on the pages read; the constable page links a separate property-list-by-sale-date page that was not checked.",
+      "how_to_bid": "Get a Tax Sale Bidder Authorization (written statement) and complete the Bidder Registration form, then bring both with ID on sale day and register before 10 a.m. Pay with cashier's checks or money orders in the exact amount within one hour after the sale.",
+      "sources": [
+        {
+          "url": "https://www.tarrantcountytx.gov/en/tax/property-tax/public-auctions.html",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found; privacy policy shows 'Copyright 2001-2026 Tarrant County, TX'.",
+          "terms_url": "https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html"
+        },
+        {
+          "url": "https://www.tarrantcountytx.gov/en/constables/constable-3.html",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html"
+        },
+        {
+          "url": "https://www.tarrantcountytx.gov/content/main/en/constables/constable-3/delinquent-tax-sales.html",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tarrantcountytx.gov/en/constables/constable-3.html",
+          "quote": "Tax sale is scheduled for the first Tuesday of each month."
+        },
+        {
+          "url": "https://www.tarrantcountytx.gov/content/main/en/constables/constable-3/delinquent-tax-sales.html",
+          "quote": "Bidders MUST register prior to 10 a.m."
+        },
+        {
+          "url": "https://www.tarrantcountytx.gov/content/main/en/constables/constable-3/delinquent-tax-sales.html",
+          "quote": "Payments are only accepted in these forms: cashier checks and money orders."
+        },
+        {
+          "url": "https://www.tarrantcountytx.gov/content/main/en/constables/constable-3/delinquent-tax-sales.html",
+          "quote": "Purchasers have up to one hour after the sale to bring in certified funds in the exact amount."
+        }
+      ]
+    }
+  ]
+}

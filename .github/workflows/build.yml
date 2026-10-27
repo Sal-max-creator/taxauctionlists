@@ -1,0 +1,26 @@
+name: Validate and build
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Validate sale data
+        run: npm run validate
+      - name: Check the terms log is up to date
+        run: npm run terms-log && git diff --exit-code SOURCES.md
+      - name: Build site
+        run: npm run build

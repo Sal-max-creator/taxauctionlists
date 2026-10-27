@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} | {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{{ description or 'Free calendar of county tax lien and tax deed sales, with deadlines, deposits and links to each county source.' }}">
+  {%- if not site.public %}
+  <meta name="robots" content="noindex, nofollow">
+  {%- endif %}
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  {%- if not site.public %}
+  <div class="private-banner">Private preview. Not published, not indexed.</div>
+  {%- endif %}
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="/">Tax<span>Auction</span>Lists</a>
+      <nav aria-label="Main">
+        <a href="/calendar/">Calendar</a>
+        <a href="/states/">States</a>
+        <a href="/guides/">Guides</a>
+        <a href="/#signup" class="nav-cta">Get the digest</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    {{ content | safe }}
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p class="disclaimer"><strong>{{ site.disclaimer }}</strong></p>
+      <p>Every date links to the county page it came from, with the day we last checked it. Some sources only allow linking, so we link instead of copying. <a href="/sources/">Sources and terms</a> · <a href="/disclaimer/">Disclaimer</a> · <a href="/about/">About</a></p>
+      <p class="muted">© {{ build.date | truncate(4, true, "") }} {{ site.name }}</p>
+    </div>
+  </footer>
+  <script src="/assets/site.js" defer></script>
+</body>
+</html>

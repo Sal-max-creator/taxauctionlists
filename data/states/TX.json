@@ -359,6 +359,293 @@
         }
       ],
       "recurs": "monthly"
+    },
+    {
+      "county": "Collin",
+      "slug": "collin",
+      "office": "Collin County Constables (Precincts 1-4) and Collin County Sheriff's Office",
+      "phone": "(972) 548-4419 (Constable Pct. 1); (972) 881-3070 (Constable Pct. 3); (972) 547-5100 (Sheriff's Office)",
+      "address": "Constable Pct. 1: Collin County Administration Building, 2300 Bloomdale Rd., Suite 1136, McKinney, TX 75071",
+      "website": "https://www.collincountytx.gov/courts/constables/constable-sales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Constable Sale is held the first Tuesday of each month between 10:00 AM and 4:00 PM at the Russell A. Steindam Courts Building, 2100 Bloomdale Rd., McKinney, Texas, 75071.",
+      "sales": [],
+      "next_sale_note": "No November 3 or December 1, 2026 sale is posted yet: the county's Constable Sales page showed no current sales on Oct 27 (latest listed sale 1/6/2026). The County Clerk's Public Notices app, where the Sheriff says current sales are listed, could not be read.",
+      "how_to_bid": "Sales are public auctions on oral bids at the courthouse, 2100 Bloomdale Rd., McKinney. Before getting a deed, a buyer must present an unexpired Written Statement from the Collin County Tax Assessor-Collector showing no delinquent taxes ($10, notarized, valid 90 days). Constables accept cashier's checks, money orders or cash; the Sheriff also accepts cash, cashier's check or money order. Property is sold as is.",
+      "sources": [
+        {
+          "url": "https://www.collincountytx.gov/courts/constables/constable-precinct-1/sale-information",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found. Privacy page disclaims accuracy/warranty ('make no representations as to the accuracy, completeness or suitability of the information'); footer 'Copyright © 2026 Collin County Texas · All Rights Reserved.'",
+          "terms_url": "https://www.collincountytx.gov/privacy"
+        },
+        {
+          "url": "https://www.collincountytx.gov/courts/constables/constable-sales",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.collincountytx.gov/privacy"
+        },
+        {
+          "url": "https://www.collincountytx.gov/sheriff/sheriff-sales",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.collincountytx.gov/privacy"
+        },
+        {
+          "url": "https://www.collincountytx.gov/tax-assessor/properties-for-sale",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.collincountytx.gov/privacy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.collincountytx.gov/courts/constables/constable-sales",
+          "quote": "The Constable Sale is held the first Tuesday of each month"
+        },
+        {
+          "url": "https://www.collincountytx.gov/courts/constables/constable-precinct-1/sale-information",
+          "quote": "The Constable's Office will accept payment by cashier's check, money order or cash."
+        },
+        {
+          "url": "https://www.collincountytx.gov/courts/constables/constable-precinct-1/sale-information",
+          "quote": "A person purchasing property at the sale MUST present to the officer who conducted the sale an unexpired"
+        },
+        {
+          "url": "https://www.collincountytx.gov/tax-assessor/properties-for-sale",
+          "quote": "Only cashiers checks, money orders, or cash will be accepted as payments."
+        }
+      ],
+      "recurs": "monthly"
+    },
+    {
+      "county": "Denton",
+      "slug": "denton",
+      "office": "Denton County Sheriff's Office - Sheriff's Sales (contact Sgt. Gerald Wright); Denton County Constables",
+      "phone": "not stated on the sale pages (county phone directory: https://www.dentoncounty.gov/directory.aspx)",
+      "address": "1 Courthouse Drive, Denton, TX 76208 (mailing address on the Sheriff's Sale page)",
+      "website": "https://www.dentoncounty.gov/840/Sheriffs-Sale",
+      "sale_type": "redeemable deed",
+      "format": "both",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "The Sheriff’s Sale is conducted on the first Tuesday of each month online through GovEase, at 10 am",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:00 AM (online through GovEase)",
+          "label": "Sheriff's Sale (online)",
+          "deposit": "No deposit required before the sale; full bid paid by ACH/E-Check through GovEase before 4 PM on sale day",
+          "registration_deadline": "Register and be approved by GovEase before bidding; no deadline stated",
+          "source_url": "https://www.dentoncounty.gov/840/Sheriffs-Sale",
+          "quote": "Next Sheriff's Sale - November 3, 2026"
+        }
+      ],
+      "next_sale_note": "December 1, 2026 not posted yet; the county states only the first-Tuesday rule for later sales. Constable sales are separately described as in person at the Denton County Courts Building.",
+      "how_to_bid": "Sheriff's Sales run online on GovEase: register and be approved on GovEase (government ID upload), no deposit, pay the full bid by ACH/E-Check through GovEase before 4 PM on sale day. Before receiving a deed the buyer must present an unexpired written statement from the Tax Assessor/Collector showing no delinquent taxes ($10, notarized; request at least 5 business days before the sale). Constable sales are held in person at 10 a.m. at the Denton County Courts Building, 1450 E. McKinney St., Denton, payable by cashier's check or money order before 4 p.m.",
+      "sources": [
+        {
+          "url": "https://www.dentoncounty.gov/840/Sheriffs-Sale",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found. Privacy page disclaims accuracy/warranty; copyright page: 'All content © 2006-2026 Denton County, TX and its representatives. All rights reserved.'",
+          "terms_url": "https://www.dentoncounty.gov/copyright"
+        },
+        {
+          "url": "https://www.dentoncounty.gov/DocumentCenter/View/9104/Sale-FAQs-PDF",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.dentoncounty.gov/copyright"
+        },
+        {
+          "url": "https://www.dentoncounty.gov/DocumentCenter/View/9105/Sale-Rules-PDF",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.dentoncounty.gov/copyright"
+        },
+        {
+          "url": "https://www.dentoncounty.gov/867/Delinquent-Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.dentoncounty.gov/copyright"
+        },
+        {
+          "url": "https://www.dentoncounty.gov/1378/Constables-Sale-Rules-and-Information",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.dentoncounty.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dentoncounty.gov/DocumentCenter/View/9104/Sale-FAQs-PDF",
+          "quote": "No deposit is required before the sale."
+        },
+        {
+          "url": "https://www.dentoncounty.gov/DocumentCenter/View/9104/Sale-FAQs-PDF",
+          "quote": "Yes, you must register and be approved by GovEase to participate in the auction."
+        },
+        {
+          "url": "https://www.dentoncounty.gov/DocumentCenter/View/9105/Sale-Rules-PDF",
+          "quote": "Payment must be made via the GovEase website at the conclusion of the sale"
+        },
+        {
+          "url": "https://www.dentoncounty.gov/1378/Constables-Sale-Rules-and-Information",
+          "quote": "The Constable Sale is held the first Tuesday of each month at 10 a.m."
+        }
+      ],
+      "recurs": "monthly"
+    },
+    {
+      "county": "El Paso",
+      "slug": "el-paso",
+      "office": "El Paso County Sheriff's Office",
+      "phone": "915-546-2280 (Sheriff's Office non-emergency)",
+      "address": "Payments: El Paso County Courthouse, 500 E. San Antonio, 3rd floor lobby, El Paso, TX",
+      "website": "https://www.epcounty.com/sheriff/cp_saleinfo.htm",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (El Paso County Sheriff's Office Property Tax Foreclosure Auction Site)",
+        "url": "https://elpaso.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": "Sheriff sales on real property are held on the first Tuesday of each month at 10:00 A.M.",
+      "sales": [],
+      "next_sale_note": "No dated upcoming tax sale is posted on the county's pages; the Sheriff says tax sale property listings are posted on the 15th of each month (on the delinquent tax attorney's site).",
+      "how_to_bid": "Tax sales run online on the Sheriff's RealAuction site; bidders register and set up an account there first. Payment is due after the sale by 2:00 P.M. by cashier's check or money order payable to the El Paso County Sheriff's Office, one per property, at the County Courthouse, 500 E. San Antonio. Winning bidders get a Certificate of Eligibility that must be filed with the City Tax Office before a deed is issued.",
+      "sources": [
+        {
+          "url": "https://www.epcounty.com/sheriff/cp_saleinfo.htm",
+          "read_on": "2026-10-27",
+          "terms": "Reuse allowed with conditions: 'The information posted on the El Paso County Web site may be copied so long as it is presented in a non-misleading way'; use must identify El Paso County as the source with its web address and state that the user is not endorsed by the County; content is copyrighted.",
+          "terms_url": "https://www.epcounty.com/linkprivacy.htm"
+        },
+        {
+          "url": "https://epcounty.com/sheriff//cp_sales.htm",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.epcounty.com/linkprivacy.htm"
+        },
+        {
+          "url": "https://epcounty.com/CS/blogs/sheriff_news/archive/2021/07/15/implementation-of-the-el-paso-county-sheriff-s-office-property-tax-foreclosure-auction-site.aspx",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.epcounty.com/linkprivacy.htm"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.epcounty.com/sheriff/cp_saleinfo.htm",
+          "quote": "Sales are currently being conducted online at Realauction.com."
+        },
+        {
+          "url": "https://www.epcounty.com/sheriff/cp_saleinfo.htm",
+          "quote": "Payment must be made after the sale by 2:00 P.M."
+        },
+        {
+          "url": "https://epcounty.com/sheriff//cp_sales.htm",
+          "quote": "Tax Sales property listings are posted on the 15th of each month."
+        },
+        {
+          "url": "https://epcounty.com/CS/blogs/sheriff_news/archive/2021/07/15/implementation-of-the-el-paso-county-sheriff-s-office-property-tax-foreclosure-auction-site.aspx",
+          "quote": "Bidders will need to register and establish an account prior to participating in the auction."
+        }
+      ],
+      "recurs": "monthly"
+    },
+    {
+      "county": "Williamson",
+      "slug": "williamson",
+      "office": "Williamson County Tax Assessor-Collector (sales conducted by the Williamson County Constable's Office; delinquent tax attorneys McCreary, Veselka, Bragg & Allen)",
+      "phone": "512-943-1601 (Tax Assessor-Collector)",
+      "address": "1848 Texas Trail, Georgetown, TX 78626 (Tax Assessor-Collector)",
+      "website": "https://www.wilcotx.gov/762/Tax-Sales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "1st Tuesday of the month at 10 am.",
+      "sales": [],
+      "next_sale_note": "No dated upcoming sale is posted on the county's pages; the county says property lists go up on the delinquent tax attorneys' website about 30 days before a sale.",
+      "how_to_bid": "In person only at the Northeast side of the Williamson County Justice Center Annex, 4th and Martin Luther King, Georgetown, starting 10 a.m.; register with the person conducting the sale beforehand (registration starts around 9:45 a.m.) with government ID. No mail, phone or internet bids. Winners have 2 hours after the sale to pay in cash or cashier's check to the Constable's Office conducting the sale. Property is subject to redemption (2 years homestead/agricultural, 180 days other).",
+      "sources": [
+        {
+          "url": "https://www.wilcotx.gov/762/Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found; copyright page: 'All content © 2006-2026 Williamson County, TX and its representatives. All rights reserved.'",
+          "terms_url": "https://www.wilcotx.gov/copyright"
+        },
+        {
+          "url": "https://www.wilcotx.gov/DocumentCenter/View/4207/Tax-Sales-In-Williamson-County-Information-Sheet-PDF",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.wilcotx.gov/copyright"
+        },
+        {
+          "url": "https://www.wilcotx.gov/688/Contact-Information-Locations-Hours",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.wilcotx.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wilcotx.gov/762/Tax-Sales",
+          "quote": "Tax sales may only be conducted on the first Tuesday of the month."
+        },
+        {
+          "url": "https://www.wilcotx.gov/DocumentCenter/View/4207/Tax-Sales-In-Williamson-County-Information-Sheet-PDF",
+          "quote": "Bids will not be accepted via mail, phone or internet."
+        },
+        {
+          "url": "https://www.wilcotx.gov/DocumentCenter/View/4207/Tax-Sales-In-Williamson-County-Information-Sheet-PDF",
+          "quote": "All bidders must register to bid prior to the sale with the person conducting the sale."
+        },
+        {
+          "url": "https://www.wilcotx.gov/DocumentCenter/View/4207/Tax-Sales-In-Williamson-County-Information-Sheet-PDF",
+          "quote": "Successful bidders will be given 2 hours from the completion of the sale to obtain cash or a cashier’s check."
+        }
+      ],
+      "recurs": "monthly"
+    },
+    {
+      "county": "Montgomery",
+      "slug": "montgomery",
+      "office": "Montgomery County Tax Office (Tammy J. McRae, Tax Assessor-Collector); sales conducted by the Montgomery County Constables",
+      "phone": "936-539-7897",
+      "address": "400 N. San Jacinto St., Conroe, TX 77301",
+      "website": "https://www.mctotx.org/property/foreclosure_sales_and_resales.php",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction",
+        "url": "https://www.realauction.com/"
+      },
+      "schedule_rule": "First Tuesday of every month at 10 a.m. (unless holiday, then following business day).",
+      "sales": [],
+      "next_sale_note": "No dated upcoming sale is posted on the Tax Office page; it points buyers to the RealAuction site and the delinquent tax attorney's listings.",
+      "how_to_bid": "Sales are online only, run by the County Constables on RealAuction; register as a bidder on RealAuction, where the sale rules are posted. Each sale also needs a Written Statement (bidder certificate) showing no delinquent taxes: submit the notarized request with a $10 fee (cash, cashier's check or money order) at least 5 business days before the sale; it is valid 90 days and must reach the office at least 24 hours before the sale.",
+      "sources": [
+        {
+          "url": "https://www.mctotx.org/property/foreclosure_sales_and_resales.php",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms page found; footer reads '© Montgomery County, TX'.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mctotx.org/property/foreclosure_sales_and_resales.php",
+          "quote": "Bidders must register through the Real Auction website (www.realauction.com - external site)."
+        },
+        {
+          "url": "https://www.mctotx.org/property/foreclosure_sales_and_resales.php",
+          "quote": "All of the rules and procedures for tax sales are noted at the Real Auction website."
+        }
+      ],
+      "recurs": "monthly"
     }
   ]
 }

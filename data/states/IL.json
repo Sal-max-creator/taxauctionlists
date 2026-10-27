@@ -174,6 +174,228 @@
           "terms_url": null
         }
       ]
+    },
+    {
+      "county": "Will",
+      "slug": "will",
+      "office": "Will County Treasurer's Office",
+      "phone": "815-740-4675",
+      "address": "302 N Chicago Street, Joliet, IL 60432",
+      "website": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Annual-Tax-Sales",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-01",
+          "time": "10:00 AM (registered buyer check-in 8:00 to 9:45 AM), Will County Office Building, 302 N. Chicago St., Joliet",
+          "label": "Will County Treasurer's Annual Tax Sale",
+          "deposit": "Not stated on the county pages we read (see the Tax Buyer Registration Packet)",
+          "registration_deadline": "Oct 1 to Nov 13, 2026; registrations must be received by 4:30 PM CT, no postmarks accepted",
+          "register_by": "2026-11-13",
+          "source_url": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Annual-Tax-Sales",
+          "quote": "December 1, 2026"
+        }
+      ],
+      "next_sale_note": "The tax sale list goes out to registered buyers the first week of November. The deadline to substitute a bidder or withdraw is November 20, 2026. The Will County Trustee's separate sealed-bid public auction of tax-deeded properties has no 2026 date yet.",
+      "how_to_bid": "Download the Tax Buyer Registration Packet from the Treasurer's site and get it to the office by 4:30 PM CT on November 13, 2026. Registered buyers check in at the Will County Office Building in Joliet from 8:00 to 9:45 AM on sale day; the sale starts at 10 AM. The Treasurer's tax sale instructions point to R.A.M.S. 2 and a single bidder rule.",
+      "sources": [
+        {
+          "url": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Annual-Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use: content is 'Copyright 2026 by Will County, Illinois and/or its suppliers. All rights reserved.' and bars using the site in ways that overburden it or obtaining information 'through any means not intentionally made available'. No explicit clause on copying or reuse of public information. Pages render only in a browser (plain fetches return menus), so the weekly checker can't read them.",
+          "terms_url": "https://willcounty.gov/Terms"
+        },
+        {
+          "url": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Tax-Buyer-Registration",
+          "read_on": "2026-10-27",
+          "terms": "Same site and terms as above.",
+          "terms_url": "https://willcounty.gov/Terms"
+        },
+        {
+          "url": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Contact",
+          "read_on": "2026-10-27",
+          "terms": "Same site and terms as above.",
+          "terms_url": "https://willcounty.gov/Terms"
+        },
+        {
+          "url": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Public-Auction",
+          "read_on": "2026-10-27",
+          "terms": "Same site and terms as above.",
+          "terms_url": "https://willcounty.gov/Terms"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Annual-Tax-Sales",
+          "quote": "Must be received by 4:30 PM CT. No Postmarks Accepted"
+        },
+        {
+          "url": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Tax-Buyer-Registration",
+          "quote": "Deadline for valid registrations is 4:30 PM CST, November 13, 2026"
+        },
+        {
+          "url": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Annual-Tax-Sales",
+          "quote": "Substitute Bidder for Tax Sale or Withdraw Deadline"
+        },
+        {
+          "url": "https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Public-Auction",
+          "quote": "The auction date for 2026 has not yet been scheduled."
+        }
+      ]
+    },
+    {
+      "county": "McHenry",
+      "slug": "mchenry",
+      "office": "McHenry County Treasurer",
+      "phone": "815-334-4260",
+      "address": "2200 N Seminary Ave., Woodstock, IL 60098",
+      "website": "https://www.mchenrycountyil.gov/departments/treasurer/your-property-taxes/tax-sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": {
+        "name": "RAMS computerized tax lien auction",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 date not yet posted. The Treasurer's tax sale page and registration form still describe the previous sale (\"November 14, 2025 @ 9AM\", registration by October 29, 2025, at the County Administration Building, 667 Ware Road, Woodstock).",
+      "how_to_bid": "Mail a completed Tax Sale Registration Form, a signed W-9 and a $500 registration fee (returned on sale day) to the Treasurer before the deadline; the tax sale list is an optional $200, in separate checks payable to the McHenry County Collector. Registered buyers must be present on the day of the sale. Bidding is in declining order down from 9%, run on RAMS. These details are from the 2025 sale and may change.",
+      "sources": [
+        {
+          "url": "https://www.mchenrycountyil.gov/departments/treasurer/your-property-taxes/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer, terms or copyright text found on the Treasurer tax sale page or by search of the county site)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.mchenrycountyil.gov/home/showpublisheddocument/120512/638938714206200000",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; no terms found. Form is for the November 14, 2025 sale.",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Winnebago",
+      "slug": "winnebago",
+      "office": "Winnebago County Treasurer",
+      "phone": "(815) 319-4400",
+      "address": "404 Elm Street, Room 205, Rockford, Illinois 61101",
+      "website": "https://wincoil.gov/departments/treasurer/tax-information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax sale is has to be held within 90 days after the 2nd installment due date, dates to be determined by Treasurer.",
+      "sales": [],
+      "next_sale_note": "No 2026 sale date posted on the Treasurer's pages. The FAQ says delinquent taxes are offered at a tax sale \"At the end of October\", and the Tax Information page says registration depends on the sale date and buyers must contact the office.",
+      "how_to_bid": "Contact the Treasurer's Office by phone or email to get a registration; you must be a registered buyer to attend. There is a $500 registration fee (forfeited if you don't show) and an optional $200 delinquent list, as two separate checks to the Winnebago County Treasurer. First-time buyers need a bank letter stating how much they are good for. Live auction, no phone or internet bids; buyers bid a percentage rate capped at 9%.",
+      "sources": [
+        {
+          "url": "https://wincoil.gov/departments/treasurer/tax-information",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer page found; footer says \"Copyright © 2026 Winnebago County. All Rights Reserved.\" No explicit restriction on reuse found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://wincoil.gov/departments/treasurer/faqs",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no terms page found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://wincoil.gov/departments/treasurer",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no terms page found.",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Madison",
+      "slug": "madison",
+      "office": "Madison County Treasurer",
+      "phone": "(618) 296-6200",
+      "address": "157 N. Main Street, Suite 125, Edwardsville, IL 62025",
+      "website": "https://madisoncountyil.gov/treasurer/tax_buyer.php",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": {
+        "name": "R.A.M.S. 2 (Joseph E. Meyer & Associates)",
+        "url": "https://www.jem-a.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-02-16",
+          "time": "10:00 AM, Madison County Board Room (Ste. 203), 157 N. Main St., Edwardsville",
+          "label": "Annual Mobile Home Tax Sale",
+          "deposit": "$500 payable to the Madison County Treasurer; applied to purchases or refunded if you attend and buy nothing; forfeited if you don't attend",
+          "registration_deadline": "4:30 p.m. on Jan 29, 2027",
+          "register_by": "2027-01-29",
+          "note": "The page names only a mobile home sale; it posts no date for a real estate tax sale. Substitute bidders must be named to the Treasurer by Feb. 5, 2027.",
+          "source_url": "https://madisoncountyil.gov/treasurer/tax_buyer.php",
+          "quote": "Madison County will conduct its Annual Mobile Home Tax Sale at 10:00 a.m. on Feb. 16, 2027"
+        }
+      ],
+      "next_sale_note": "The Treasurer's tax buyer page posts only the Feb. 16, 2027 Annual Mobile Home Tax Sale; no real estate tax sale date is posted.",
+      "how_to_bid": "Submit the registration form with a W-9 and a $500 deposit payable to the Madison County Treasurer by the deadline. The sale is conducted by Joseph E. Meyer & Associates using R.A.M.S. 2 (Randomize Auction Management System). Tax buyer lists are available starting January 22, 2027. The Treasurer's FAQ says penalty bids start high and go down (18% to 0%).",
+      "sources": [
+        {
+          "url": "https://madisoncountyil.gov/treasurer/tax_buyer.php",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer, terms or privacy link on the page or in the site map)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.madisoncountyil.gov/treasurer/faq.php",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no terms page found. Address and second phone (618) 692-6260 from this page.",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "St. Clair",
+      "slug": "st-clair",
+      "office": "St. Clair County Treasurer",
+      "phone": "(618) 825-2707",
+      "address": "St. Clair County Building, 10 Public Sq., Belleville, IL 62220",
+      "website": "https://www.stclaircountyil.gov/Departments/Treasurer/TaxSale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "time": "9:00 AM, Treasurer's Office, St. Clair County Building, 10 Public Sq., Belleville",
+          "label": "Annual Mobile Home Tax Sale (2025 taxes payable in 2026)",
+          "deposit": "Not stated; a blank check must be submitted to the Treasurer's office before the sale starts",
+          "registration_deadline": "Closed: registration had to be received by 4:30 p.m. on Friday, October 16, 2026",
+          "register_by": "2026-10-16",
+          "note": "Mobile homes only: the County Board elected to acquire all delinquent real estate taxes for 2025 payable in 2026, so no real estate liens are offered to private buyers. Registration has closed.",
+          "source_url": "https://www.stclaircountyil.gov/Departments/Treasurer/TaxSale",
+          "quote": "The tax sale this year will be held November 2, 2026 at 9:00 a.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register with the Treasurer's Office before the deadline using the Tax Sale Registration Packet and submit a blank check before the sale starts. The sale is a verbal auction; bidding starts at an interest rate of 18% and liens go to the lowest bidder. Certificates are issued and payments are due a few days after the sale. A delinquent tax list is available on request a few weeks before the sale.",
+      "sources": [
+        {
+          "url": "https://www.stclaircountyil.gov/Departments/Treasurer/TaxSale",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use: \"All rights reserved\" and \"Any rights not expressly granted herein are reserved\"; bars overburdening the site and obtaining materials not intentionally made available. No explicit ban on copying or redistributing site information found.",
+          "terms_url": "https://www.stclaircountyil.gov/terms"
+        },
+        {
+          "url": "https://www.stclaircountyil.gov/WebDocuments/Departments/Treasurer/General/Tax%20Sale%20Registration%20Packet.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same site Terms of Use.",
+          "terms_url": "https://www.stclaircountyil.gov/terms"
+        }
+      ]
     }
   ]
 }

@@ -72,6 +72,38 @@ State overview: <https://www.flsenate.gov/Laws/Statutes/2025/197.172>, <https://
 | Orange | <https://www.occompt.com/287/Tax-Deeds> | 2026-10-27 | not found (only an on-page 'Disclaimer' heading, no reuse terms) |
 | Orange | <https://www.occompt.com/FAQ.aspx?QID=115> | 2026-10-27 | not found |
 | Orange | <https://www.occompt.com/192/Online-Bidder-Notice-PDF> | 2026-10-27 | not found; note this notice dates from 2016 |
+| Duval | <https://www.duvalclerk.gov/departments/county-services/tax-deed-files> | 2026-10-27 | No reuse/redistribution restriction found. Site policies say 'Copyright in the Material on this Web Site is owned by the Duval County Clerk of Court' and use of the site means accepting the disclaimer. ([terms](https://www.duvalclerk.gov/site-policies)) |
+| Duval | <https://taxcollector.jacksonville.gov/taxes/property-taxes/tax-sale,-certificates,-and-tax-deeds> | 2026-10-27 | No reuse/redistribution restriction found. Disclaimer says copyright in the site material is owned by the City of Jacksonville. ([terms](https://taxcollector.jacksonville.gov/disclaimer-and-privacy-policy)) |
+| Pinellas | <https://www.mypinellasclerk.gov/Home/Recording-Services> | 2026-10-27 | Terms of Use: 'All rights reserved.'; bars overburdening the site or obtaining information 'through any means not intentionally made available'. No explicit clause on copying or reuse of public information. ([terms](https://www.mypinellasclerk.gov/terms)) |
+| Pinellas | <https://pinellastaxcollector.gov/property-tax/tax-certificate-and-tax-deed> | 2026-10-27 | No reuse/redistribution restriction found; only a privacy policy and footer '© 2026 Pinellas County Tax Collector All Rights Reserved'. ([terms](https://pinellastaxcollector.gov/privacypolicy/)) |
+| Lee | <https://www.leeclerk.org/i-want-to/ask/frequently-asked-questions/tax-deed-sales> | 2026-10-27 | Clerk's Disclaimer covers accuracy ('Visitors are encouraged to review the official version of all documents upon which they plan to rely.'), outside links and public records law. No clause on copying or reuse. ([terms](https://www.leeclerk.org/about-us/disclaimer)) |
+| Lee | <https://www.leetc.com/taxes/tax-certificates> | 2026-10-27 | No reuse/redistribution restriction found; Terms of Use page says only 'Copyright 2026 Lee County Tax Collector. All rights reserved.' ([terms](https://leetc.com/terms-of-use/)) |
+| Lee | <https://leetc.com/about-us/important-dates-events/> | 2026-10-27 | Same site terms as above. ([terms](https://leetc.com/terms-of-use/)) |
+| Polk | <https://www.polkclerkfl.gov/189> | 2026-10-27 | Privacy Policy & Terms of Use prohibit systematic or programmatic downloading: 'The User agrees to access the information contained in the site manually and not programmatically'. No ban on reusing information; copyright page says 'All content © 2006-2026 Polk County Clerk, FL ... All rights reserved.' ([terms](https://www.polkclerkfl.gov/privacy)) |
+| Polk | <https://www.polktaxes.com/services/delinquency-and-tax-sale-information/> | 2026-10-27 | Tax Collector's terms link to a downloadable privacy statement (not read); page notes accuracy 'is not guaranteed for legal purposes'. |
+| Polk | <https://www.polktaxes.com/important-deadlines/> | 2026-10-27 | Same site as above. |
+| Brevard | <https://www.brevardclerk.us/faqs-tax> | 2026-10-27 | Terms of Use reserve all rights: 'Access to this Site does not confer ... any license or other rights to the Website, the Contents or the compilation of Contents.' No express ban on reuse or scraping found; disclaimer covers advertising/hotlinks only. ([terms](https://www.brevardclerk.us/about/resources/terms-of-use/)) |
+| Brevard | <https://www.brevardclerk.us/tax-deeds> | 2026-10-27 | Same site terms as above. ([terms](https://www.brevardclerk.us/about/resources/terms-of-use/)) |
+| Brevard | <https://www.brevardtaxcollector.com/important-dates/> | 2026-10-27 | No terms page; footer says content 'is property of the Brevard County Tax Collector' and '© 2018 ... All rights reserved.' |
+| Volusia | <https://www.clerk.org/tax-deeds.aspx> | 2026-10-27 | Site disclaimer (contact page) covers accuracy/liability only, no reuse restriction. Note: the Clerk's separate Tax Deed Inquiry app (app02.clerk.org/or_td) has terms stating 'The User is expressly prohibited from reproducing, publishing on-line, selling, reselling' its data; it was not used. ([terms](https://www.clerk.org/contact.aspx)) |
+| Volusia | <https://www.volusiatax.gov/taxes/tax-certificate-info.html> | 2026-10-27 | No terms or disclaimer page found on volusiatax.gov. |
+
+## Georgia
+
+State overview: <https://law.justia.com/codes/georgia/title-48/chapter-4/article-3/section-48-4-40/>, <https://law.justia.com/codes/georgia/title-48/chapter-4/article-3/section-48-4-40/>, <https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales>, <https://www.cobbtax.gov/property/tax_sale/index.php>, <https://www.cobbtax.gov/property/tax_sale/index.php>, <https://www.gwinnetttaxcommissioner.com/property-tax/delinquent_tax/tax-liens-tax-sales>, <https://dekalbtaxga.gov/property-tax/tax-sales/>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Cobb | <https://www.cobbtax.gov/property/tax_sale/index.php> | 2026-10-27 | No terms or disclaimer page linked. Footer: 'Copyright © 2020-2026 Cobb County Tax Commissioner's Office - All Rights Reserved'. No explicit reuse, redistribution or scraping clause found; restate facts, don't copy page text wholesale. |
+| DeKalb | <https://dekalbtaxga.gov/property-tax/tax-sales/> | 2026-10-27 | No terms or disclaimer page linked. Footer: '© Copyright 2026. DeKalb County Tax Commissioner’s Office. All Rights Reserved.' No explicit reuse, redistribution or scraping clause found; restate facts, don't copy page text wholesale. ([terms](https://dekalbtaxga.gov/privacy-policy/)) |
+| DeKalb | <https://dekalbtaxga.gov/event/tax-sale/2026-11-03/> | 2026-10-27 | same as above ([terms](https://dekalbtaxga.gov/privacy-policy/)) |
+| DeKalb | <https://dekalbtaxga.gov/event/tax-sale/2026-12-01/> | 2026-10-27 | same as above ([terms](https://dekalbtaxga.gov/privacy-policy/)) |
+| DeKalb | <https://dekalbtaxga.gov/wp-content/uploads/Tax-Sale-Flyer.pdf> | 2026-10-27 | same as above; flyer is for the September 1, 2026 sale but gives the standing payment and check-in rules ([terms](https://dekalbtaxga.gov/privacy-policy/)) |
+| DeKalb | <https://dekalbtaxga.gov/wp-content/uploads/Conditions-of-Tax-Sale-Form.pdf> | 2026-10-27 | same as above ([terms](https://dekalbtaxga.gov/privacy-policy/)) |
+| Fulton | <https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales> | 2026-10-27 | No terms page linked. Privacy Statement says information collected through the site is public information under the Georgia Open Records Act; footer '©2026 Fulton County Government'. No reuse or scraping clause found. ([terms](https://www.fultoncountyga.gov/Privacy-Statement)) |
+| Gwinnett | <https://www.gwinnetttaxcommissioner.com/property-tax/delinquent_tax/tax-liens-tax-sales> | 2026-10-27 | No terms, disclaimer or privacy page linked. Footer: 'Copyright 2026. Official website of Gwinnett County Tax Commissioner'. Page says employees cannot give legal advice. No reuse or scraping clause found. |
+| Gwinnett | <https://www.gwinnetttaxcommissioner.com/property-tax> | 2026-10-27 | same as above |
+| Gwinnett | <https://www.gwinnetttaxcommissioner.com/documents/d/egov/tax-sale-prospective-bidders-and-purchasers-info> | 2026-10-27 | same as above |
 
 ## Illinois
 
@@ -86,6 +118,19 @@ State overview: <https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-21
 | Lake | <https://www.lakecountyil.gov/552/Tax-Sale-Information> | 2026-10-27 | Website Disclaimer: Illinois law governs all uses of the data; users must not violate third-party rights; third-party content may not be used for advertising or product endorsement; no accuracy warranty. No explicit ban on copying or scraping found. The page itself says the delinquent tax list must be used only for the tax sale. A Copyright Notices page is linked but could not be fetched. ([terms](https://www.lakecountyil.gov/2906)) |
 | Lake | <https://www.lakecountyil.gov/550/Tax-Sale-Proceedings> | 2026-10-27 | Website Disclaimer linked in footer; not read in full. ([terms](https://www.lakecountyil.gov/2906)) |
 | Kane | <https://treasurer.kanecountyil.gov/Pages/Tax-Sale-Information.aspx> | 2026-10-27 | not found (no Disclaimer, Terms or Privacy link on the Treasurer site page) |
+| Will | <https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Annual-Tax-Sales> | 2026-10-27 | Terms of Use: content is 'Copyright 2026 by Will County, Illinois and/or its suppliers. All rights reserved.' and bars using the site in ways that overburden it or obtaining information 'through any means not intentionally made available'. No explicit clause on copying or reuse of public information. Pages render only in a browser (plain fetches return menus), so the weekly checker can't read them. ([terms](https://willcounty.gov/Terms)) |
+| Will | <https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Tax-Buyer-Registration> | 2026-10-27 | Same site and terms as above. ([terms](https://willcounty.gov/Terms)) |
+| Will | <https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Contact> | 2026-10-27 | Same site and terms as above. ([terms](https://willcounty.gov/Terms)) |
+| Will | <https://willcounty.gov/County-Offices/Budget-Finance/Treasurer-Office/Public-Auction> | 2026-10-27 | Same site and terms as above. ([terms](https://willcounty.gov/Terms)) |
+| McHenry | <https://www.mchenrycountyil.gov/departments/treasurer/your-property-taxes/tax-sale> | 2026-10-27 | not found (no disclaimer, terms or copyright text found on the Treasurer tax sale page or by search of the county site) |
+| McHenry | <https://www.mchenrycountyil.gov/home/showpublisheddocument/120512/638938714206200000> | 2026-10-27 | Same county site; no terms found. Form is for the November 14, 2025 sale. |
+| Winnebago | <https://wincoil.gov/departments/treasurer/tax-information> | 2026-10-27 | No terms of use or disclaimer page found; footer says "Copyright © 2026 Winnebago County. All Rights Reserved." No explicit restriction on reuse found. |
+| Winnebago | <https://wincoil.gov/departments/treasurer/faqs> | 2026-10-27 | Same site; no terms page found. |
+| Winnebago | <https://wincoil.gov/departments/treasurer> | 2026-10-27 | Same site; no terms page found. |
+| Madison | <https://madisoncountyil.gov/treasurer/tax_buyer.php> | 2026-10-27 | not found (no disclaimer, terms or privacy link on the page or in the site map) |
+| Madison | <https://www.madisoncountyil.gov/treasurer/faq.php> | 2026-10-27 | Same site; no terms page found. Address and second phone (618) 692-6260 from this page. |
+| St. Clair | <https://www.stclaircountyil.gov/Departments/Treasurer/TaxSale> | 2026-10-27 | Terms of Use: "All rights reserved" and "Any rights not expressly granted herein are reserved"; bars overburdening the site and obtaining materials not intentionally made available. No explicit ban on copying or redistributing site information found. ([terms](https://www.stclaircountyil.gov/terms)) |
+| St. Clair | <https://www.stclaircountyil.gov/WebDocuments/Departments/Treasurer/General/Tax%20Sale%20Registration%20Packet.pdf> | 2026-10-27 | Same site Terms of Use. ([terms](https://www.stclaircountyil.gov/terms)) |
 
 ## Indiana
 
@@ -153,6 +198,17 @@ State overview: <https://codes.ohio.gov/orc/section-5721.19>, <https://codes.ohi
 | Summit | <https://sheriff.summitoh.net/pages/Sheriff-Sales-Information.html> | 2026-10-27 | No disclaimer/terms link on page; county Privacy Statement has accuracy disclaimer only ('The County is not responsible for the accuracy or legality of the content'). No copying/scraping/commercial-use restriction found. ([terms](https://co.summitoh.net/pages/Privacy-Statement.html)) |
 | Summit | <https://sheriff.summitoh.net/pages/Sheriff-Sales-FAQs.html> | 2026-10-27 | Same as above. ([terms](https://co.summitoh.net/pages/Privacy-Statement.html)) |
 | Montgomery | <https://go.mcohio.org/applications/sheriffauction/sflistauction.cfm> | 2026-10-27 | not found (no disclaimer/terms link in page content). Note: this page also lists individual cases; only the general notice was used, and no parcel data was copied. |
+| Lucas | <https://www.lucascountytreasurer.org/sheriff-sales> | 2026-10-27 | Page disclaimer covers accuracy only ('No warranties, expressed or implied, are provided for the data herein, its use, or its interpretation.'). No copying or commercial-use restriction found. |
+| Lucas | <https://lucascountysheriff.org/resources/sheriffs-sales> | 2026-10-27 | Webmaster Disclaimer covers accuracy only ('is believed to be accurate but is not guaranteed'); footer has a general copyright notice ('All rights reserved.'). No explicit ban on reuse, scraping or commercial use found. ([terms](https://lucascountysheriff.org/webmaster-disclaimer)) |
+| Lucas | <https://www.lucascountyohioauditor.gov/forfeitedland> | 2026-10-27 | not found (no disclaimer or terms link on the page; it states sales are final with no warranty of title). |
+| Stark | <https://sheriffsales.starkcountyohio.gov/DelinquentTaxSales.aspx> | 2026-10-27 | County Terms and Conditions (marked Draft) allow use of County-created website materials 'subject to applicable law'; they bar misrepresenting County information and automated tools that 'unreasonably burdens County systems'. Accuracy disclaimer only otherwise; no copying or commercial-use ban found. ([terms](https://starkcountyohio.gov/terms_and_conditions/index.php)) |
+| Stark | <https://sheriffsales.starkcountyohio.gov/> | 2026-10-27 | Same county Terms and Conditions. ([terms](https://starkcountyohio.gov/terms_and_conditions/index.php)) |
+| Stark | <https://sheriffsales.starkcountyohio.gov/TaxCertificateSales.aspx> | 2026-10-27 | Same county Terms and Conditions. ([terms](https://starkcountyohio.gov/terms_and_conditions/index.php)) |
+| Stark | <https://starkcountyohio.gov/government/offices/auditor/resources_and_administration/auditors_sales.php> | 2026-10-27 | Same county Terms and Conditions. ([terms](https://starkcountyohio.gov/terms_and_conditions/index.php)) |
+| Butler | <https://butlersheriff.org/services-sales> | 2026-10-27 | Page disclaimer covers accuracy only ('The Butler County Sheriff's Office assumes no liability or erroneous information.'); footer copyright notice. No terms of use or reuse restriction found. |
+| Butler | <https://butlersheriff.org/contact-us> | 2026-10-27 | Same as above. |
+| Butler | <https://auditor.bcohio.gov/real_estate/taxes/forfeited_land_sale/index.php> | 2026-10-27 | not found (no disclaimer or terms link on the page). |
+| Butler | <https://treasurer.bcohio.gov/treasurers_office/delinquent_taxes/foreclosure.php> | 2026-10-27 | not found (no disclaimer or terms link on the page). |
 
 ## Pennsylvania
 
@@ -196,3 +252,19 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 | Tarrant | <https://www.tarrantcountytx.gov/content/main/en/constables/constable-3/delinquent-tax-sales.html> | 2026-10-27 | same as above ([terms](https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html)) |
 | Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/november-3--2026.html> | 2026-10-27 | Tarrant County provides the website information as a public service; official records should be consulted. |
 | Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/december-1--2026.html> | 2026-10-27 | Tarrant County provides the website information as a public service; official records should be consulted. |
+| Collin | <https://www.collincountytx.gov/courts/constables/constable-precinct-1/sale-information> | 2026-10-27 | No reuse terms found. Privacy page disclaims accuracy/warranty ('make no representations as to the accuracy, completeness or suitability of the information'); footer 'Copyright © 2026 Collin County Texas · All Rights Reserved.' ([terms](https://www.collincountytx.gov/privacy)) |
+| Collin | <https://www.collincountytx.gov/courts/constables/constable-sales> | 2026-10-27 | same as above ([terms](https://www.collincountytx.gov/privacy)) |
+| Collin | <https://www.collincountytx.gov/sheriff/sheriff-sales> | 2026-10-27 | same as above ([terms](https://www.collincountytx.gov/privacy)) |
+| Collin | <https://www.collincountytx.gov/tax-assessor/properties-for-sale> | 2026-10-27 | same as above ([terms](https://www.collincountytx.gov/privacy)) |
+| Denton | <https://www.dentoncounty.gov/840/Sheriffs-Sale> | 2026-10-27 | No reuse terms found. Privacy page disclaims accuracy/warranty; copyright page: 'All content © 2006-2026 Denton County, TX and its representatives. All rights reserved.' ([terms](https://www.dentoncounty.gov/copyright)) |
+| Denton | <https://www.dentoncounty.gov/DocumentCenter/View/9104/Sale-FAQs-PDF> | 2026-10-27 | same as above ([terms](https://www.dentoncounty.gov/copyright)) |
+| Denton | <https://www.dentoncounty.gov/DocumentCenter/View/9105/Sale-Rules-PDF> | 2026-10-27 | same as above ([terms](https://www.dentoncounty.gov/copyright)) |
+| Denton | <https://www.dentoncounty.gov/867/Delinquent-Tax-Sales> | 2026-10-27 | same as above ([terms](https://www.dentoncounty.gov/copyright)) |
+| Denton | <https://www.dentoncounty.gov/1378/Constables-Sale-Rules-and-Information> | 2026-10-27 | same as above ([terms](https://www.dentoncounty.gov/copyright)) |
+| El Paso | <https://www.epcounty.com/sheriff/cp_saleinfo.htm> | 2026-10-27 | Reuse allowed with conditions: 'The information posted on the El Paso County Web site may be copied so long as it is presented in a non-misleading way'; use must identify El Paso County as the source with its web address and state that the user is not endorsed by the County; content is copyrighted. ([terms](https://www.epcounty.com/linkprivacy.htm)) |
+| El Paso | <https://epcounty.com/sheriff//cp_sales.htm> | 2026-10-27 | same as above ([terms](https://www.epcounty.com/linkprivacy.htm)) |
+| El Paso | <https://epcounty.com/CS/blogs/sheriff_news/archive/2021/07/15/implementation-of-the-el-paso-county-sheriff-s-office-property-tax-foreclosure-auction-site.aspx> | 2026-10-27 | same as above ([terms](https://www.epcounty.com/linkprivacy.htm)) |
+| Williamson | <https://www.wilcotx.gov/762/Tax-Sales> | 2026-10-27 | No reuse terms found; copyright page: 'All content © 2006-2026 Williamson County, TX and its representatives. All rights reserved.' ([terms](https://www.wilcotx.gov/copyright)) |
+| Williamson | <https://www.wilcotx.gov/DocumentCenter/View/4207/Tax-Sales-In-Williamson-County-Information-Sheet-PDF> | 2026-10-27 | same as above ([terms](https://www.wilcotx.gov/copyright)) |
+| Williamson | <https://www.wilcotx.gov/688/Contact-Information-Locations-Hours> | 2026-10-27 | same as above ([terms](https://www.wilcotx.gov/copyright)) |
+| Montgomery | <https://www.mctotx.org/property/foreclosure_sales_and_resales.php> | 2026-10-27 | No disclaimer or terms page found; footer reads '© Montgomery County, TX'. |

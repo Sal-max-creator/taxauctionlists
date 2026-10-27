@@ -8,7 +8,7 @@ pagination:
 permalink: "{{ st.url }}"
 eleventyComputed:
   title: "{{ st.name }} tax sales: upcoming county dates and deadlines"
-  description: "Upcoming {{ st.name }} tax {{ st.sale_type }} sales by county: dates, deposits, registration deadlines and how bidding works, each linked to the county's own page."
+  description: "Upcoming {{ st.name }} tax sales by county: dates, deposits, registration deadlines and how bidding works, each linked to the county's own page."
 ---
 {%- set stRows = sales | whereEq("stateCode", st.state) %}
 {%- set next = stRows[0] %}

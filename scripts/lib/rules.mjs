@@ -35,7 +35,7 @@ export function isLinkOnly(url) {
 
 // Hosts whose terms forbid automated tools or spiders. We may cite them, but the weekly
 // checker never fetches them; it lists them for a manual look instead.
-export const NO_AUTOMATION_HOSTS = ["iowataxandtags.org"];
+export const NO_AUTOMATION_HOSTS = ["iowataxandtags.org", "polkclerkfl.gov"];
 
 export function forbidsAutomation(url) {
   let host;

@@ -284,6 +284,271 @@
         "schedule_rule_other": "Tax Lien Sales on the \"Official Foreclosure Auction Site\" every Friday and start promptly at 9:00 AM Eastern Time (EST)."
       },
       "recurs": "monthly"
+    },
+    {
+      "county": "Lucas",
+      "slug": "lucas",
+      "office": "Lucas County Sheriff's Office (sales); Lucas County Treasurer's Office (tax foreclosures)",
+      "phone": "419-213-4900 (Sheriff); 419-213-4786 (Sheriff's Office, affidavit questions); 419-213-4055 (Treasurer, delinquencies)",
+      "address": "1622 Spielbusch Avenue, Toledo, OH 43604 (Sheriff); One Government Center, Suite 500, Toledo, OH 43604 (Treasurer)",
+      "website": "https://lucascountysheriff.org/resources/sheriffs-sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://lucas.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "They are held monthly, on a date scheduled by the Sheriff's Office (almost always the second Thursday).",
+      "sales": [],
+      "next_sale_note": "No specific tax foreclosure sale dates are posted on the county pages; the Sheriff says sale lists are published monthly on the auction website. Per the Treasurer, sales start at 10:00 AM and a second sale is held two weeks later for parcels that did not sell. Mortgage foreclosure sales run online on Wednesdays at 10:00 AM. The Auditor's last posted forfeited land sale was December 11, 2025 (past); no 2026 date is posted.",
+      "how_to_bid": "Since March 12, 2026 all sheriff's sales, tax foreclosures included, are online only through the RealAuction site, where bidders register and pay deposits electronically. The starting bid is the delinquent taxes and costs, and the deposit is 10% of the starting bid (minimum $1,000, maximum $5,000) under Local Rule 5.02(D)(1). Tax foreclosure bidders must submit a notarized delinquent tax affidavit (R.C. 5721.19(J)) by 10:00 AM on the Wednesday before the Thursday auction. Properties are sold as is with no title guarantee.",
+      "sources": [
+        {
+          "url": "https://www.lucascountytreasurer.org/sheriff-sales",
+          "read_on": "2026-10-27",
+          "terms": "Page disclaimer covers accuracy only ('No warranties, expressed or implied, are provided for the data herein, its use, or its interpretation.'). No copying or commercial-use restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://lucascountysheriff.org/resources/sheriffs-sales",
+          "read_on": "2026-10-27",
+          "terms": "Webmaster Disclaimer covers accuracy only ('is believed to be accurate but is not guaranteed'); footer has a general copyright notice ('All rights reserved.'). No explicit ban on reuse, scraping or commercial use found.",
+          "terms_url": "https://lucascountysheriff.org/webmaster-disclaimer"
+        },
+        {
+          "url": "https://www.lucascountyohioauditor.gov/forfeitedland",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer or terms link on the page; it states sales are final with no warranty of title).",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lucascountysheriff.org/resources/sheriffs-sales",
+          "quote": "Sheriff’s sales are no longer conducted in person."
+        },
+        {
+          "url": "https://lucascountysheriff.org/resources/sheriffs-sales",
+          "quote": "Sheriff’s Sale lists are published monthly."
+        },
+        {
+          "url": "https://www.lucascountytreasurer.org/sheriff-sales",
+          "quote": "Beginning March 12 at 10:00 AM, Tax Foreclosure Auctions are conducted online as well."
+        },
+        {
+          "url": "https://www.lucascountytreasurer.org/sheriff-sales",
+          "quote": "Ten percent (10%) of the starting bid, with a minimum of $1,000 and a maximum of $5,000."
+        },
+        {
+          "url": "https://www.lucascountytreasurer.org/sheriff-sales",
+          "quote": "no later than 10:00 AM on the Wednesday preceding the Thursday auction"
+        },
+        {
+          "url": "https://www.lucascountytreasurer.org/sheriff-sales",
+          "quote": "Mortgage foreclosure auctions are conducted online on Wednesdays at 10:00 AM."
+        },
+        {
+          "url": "https://www.lucascountyohioauditor.gov/forfeitedland",
+          "quote": "Thursday, December 11, 2025 at 9:00 A.M."
+        }
+      ],
+      "notes": {
+        "schedule_rule_other": "Mortgage foreclosure auctions are conducted online on Wednesdays at 10:00 AM.",
+        "forfeited_land_sale": {
+          "office": "Lucas County Auditor's Office, Forfeited Land Department",
+          "phone": "419-213-4406",
+          "address": "1 Government Center, Suite 600, Toledo, Ohio 43604",
+          "url": "https://www.lucascountyohioauditor.gov/forfeitedland",
+          "note": "Annual in-person cash auction; the last posted date was December 11, 2025 (past). No 2026 date posted."
+        }
+      },
+      "recurs": "monthly"
+    },
+    {
+      "county": "Stark",
+      "slug": "stark",
+      "office": "Stark County Sheriff's Office (Sheriff Sales)",
+      "phone": "not stated",
+      "address": "Stark County Office Building, 110 Central Plaza South Suite 301, Canton, OH 44702 (inquiries)",
+      "website": "https://sheriffsales.starkcountyohio.gov/",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://stark.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "The upcoming delinquent tax sales will be held at 10:00 A.M. on the 1st Tuesday of the month at the following location:",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:00 AM (the page's 'upcoming' notice; another section says tax foreclosure sales run at 9:00 A.M. in the Event Hall, 110 Central Plaza South)",
+          "label": "Sheriff delinquent tax sale (listed under Pending Sales)",
+          "deposit": "10% of the highest bid, by cashier's or certified check payable to the Stark County Treasurer, due by 4:30 P.M. on sale day",
+          "registration_deadline": "not stated",
+          "note": "Location per the upcoming-sales notice: Arts Hall Building, Stark County Fair Grounds, 305 Wertz Ave N.W., Canton, Ohio 44708. The page's parcel list for each date opens in a session-based view and was not copied.",
+          "source_url": "https://sheriffsales.starkcountyohio.gov/DelinquentTaxSales.aspx",
+          "quote": "11/3/2026"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "10:00 AM (the page's 'upcoming' notice; another section says tax foreclosure sales run at 9:00 A.M. in the Event Hall, 110 Central Plaza South)",
+          "label": "Sheriff delinquent tax sale (listed under Pending Sales)",
+          "deposit": "10% of the highest bid, by cashier's or certified check payable to the Stark County Treasurer, due by 4:30 P.M. on sale day",
+          "registration_deadline": "not stated",
+          "note": "Location per the upcoming-sales notice: Arts Hall Building, Stark County Fair Grounds, 305 Wertz Ave N.W., Canton, Ohio 44708. The page's parcel list for each date opens in a session-based view and was not copied.",
+          "source_url": "https://sheriffsales.starkcountyohio.gov/DelinquentTaxSales.aspx",
+          "quote": "12/1/2026"
+        },
+        {
+          "date": "2027-01-05",
+          "time": "10:00 AM (the page's 'upcoming' notice; another section says tax foreclosure sales run at 9:00 A.M. in the Event Hall, 110 Central Plaza South)",
+          "label": "Sheriff delinquent tax sale (listed under Pending Sales)",
+          "deposit": "10% of the highest bid, by cashier's or certified check payable to the Stark County Treasurer, due by 4:30 P.M. on sale day",
+          "registration_deadline": "not stated",
+          "note": "Location per the upcoming-sales notice: Arts Hall Building, Stark County Fair Grounds, 305 Wertz Ave N.W., Canton, Ohio 44708. The page's parcel list for each date opens in a session-based view and was not copied.",
+          "source_url": "https://sheriffsales.starkcountyohio.gov/DelinquentTaxSales.aspx",
+          "quote": "1/5/2027"
+        }
+      ],
+      "next_sale_note": "The Sheriff's Delinquent Tax Sales page lists 11/3/2026, 12/1/2026 and 1/5/2027 under 'Pending Sales'. The page gives two times and places: the upcoming-sales notice says 10:00 A.M. at the Arts Hall Building, Stark County Fair Grounds, while the Tax Foreclosure Sales section says 9:00 A.M. in the Event Hall of the Stark County Office Building; confirm with the Sheriff before attending. Separately, tax certificate (private attorney) foreclosures are sold online on Mondays at 10:00 a.m., and that page says 'There are no pending sales.' The Auditor's last posted forfeited land sale was December 18, 2025 (past); no 2026 date is posted.",
+      "how_to_bid": "Monthly delinquent tax sales are in person. The minimum bid covers the taxes owed through the sale date plus case costs, not other lien holders' amounts. The winning bidder pays a 10% deposit to the Treasurer's Office by 4:30 P.M. on sale day (cashier's or certified check) and the balance within 30 days of the filing of the confirmation of sale; bring the name for the deed, a tax mailing address, a phone number and ID. A sale with no bids is rescheduled to the first Tuesday of the following month. Tax certificate foreclosures (private attorney) are sold online through RealAuction: register there and post a $1,000, $5,000 or $10,000 deposit per property by wire or ACH before the Monday auction. Sales are as is, and properties are not open for inspection.",
+      "sources": [
+        {
+          "url": "https://sheriffsales.starkcountyohio.gov/DelinquentTaxSales.aspx",
+          "read_on": "2026-10-27",
+          "terms": "County Terms and Conditions (marked Draft) allow use of County-created website materials 'subject to applicable law'; they bar misrepresenting County information and automated tools that 'unreasonably burdens County systems'. Accuracy disclaimer only otherwise; no copying or commercial-use ban found.",
+          "terms_url": "https://starkcountyohio.gov/terms_and_conditions/index.php"
+        },
+        {
+          "url": "https://sheriffsales.starkcountyohio.gov/",
+          "read_on": "2026-10-27",
+          "terms": "Same county Terms and Conditions.",
+          "terms_url": "https://starkcountyohio.gov/terms_and_conditions/index.php"
+        },
+        {
+          "url": "https://sheriffsales.starkcountyohio.gov/TaxCertificateSales.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Same county Terms and Conditions.",
+          "terms_url": "https://starkcountyohio.gov/terms_and_conditions/index.php"
+        },
+        {
+          "url": "https://starkcountyohio.gov/government/offices/auditor/resources_and_administration/auditors_sales.php",
+          "read_on": "2026-10-27",
+          "terms": "Same county Terms and Conditions.",
+          "terms_url": "https://starkcountyohio.gov/terms_and_conditions/index.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sheriffsales.starkcountyohio.gov/DelinquentTaxSales.aspx",
+          "quote": "These sales occur on the first Tuesday of each month at 9:00 A.M."
+        },
+        {
+          "url": "https://sheriffsales.starkcountyohio.gov/DelinquentTaxSales.aspx",
+          "quote": "in the Event Hall of the Stark County Office Building, located at 110 Central Plaza South, First Floor."
+        },
+        {
+          "url": "https://sheriffsales.starkcountyohio.gov/DelinquentTaxSales.aspx",
+          "quote": "The deposit should be 10% of the highest bid and may be in the form of a cashier's check or certified check"
+        },
+        {
+          "url": "https://sheriffsales.starkcountyohio.gov/DelinquentTaxSales.aspx",
+          "quote": "Should a tax sale not attract any bids, it will be rescheduled for one month later,"
+        },
+        {
+          "url": "https://sheriffsales.starkcountyohio.gov/TaxCertificateSales.aspx",
+          "quote": "Online auctions will commence every Monday at 10:00 a.m. Eastern Time."
+        },
+        {
+          "url": "https://starkcountyohio.gov/government/offices/auditor/resources_and_administration/auditors_sales.php",
+          "quote": "2025 Auditor's Sale: December 18, 2025 at 10:00 AM Room 100"
+        }
+      ],
+      "notes": {
+        "schedule_rule_other": "Tax certificate (private attorney) sales: Online auctions will commence every Monday at 10:00 a.m. Eastern Time.",
+        "format_note": "Monthly delinquent tax sales are in person; tax certificate foreclosure sales are online through RealAuction, so the format is recorded as 'both'.",
+        "contact_email": "STARKSALES@STARKCOUNTYOHIO.GOV"
+      },
+      "recurs": "monthly"
+    },
+    {
+      "county": "Butler",
+      "slug": "butler",
+      "office": "Butler County Sheriff's Office, Sheriff Sales Unit",
+      "phone": "(513) 785-1284",
+      "address": "705 Hanover Street, Hamilton, Ohio 45011",
+      "website": "https://butlersheriff.org/services-sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://butler.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No specific sale dates or recurring sale day are posted on the county pages; the Sheriff refers bidders to the RealAuction site and newspaper notices (Sundays in the Hamilton Journal and/or Middletown Journal). A property with no bid is offered again two weeks later. The Auditor says the forfeited land sale planned for 2026 was canceled because no parcels were available; it is typically held in August.",
+      "how_to_bid": "All sheriff's mortgage foreclosure and tax sales are held online on the Butler County RealAuction site, which holds the registration and bidding details. Tax sales are started by the County Treasurer; the minimum opening bid is the taxes and costs owed, and tax sales require a down payment of taxes and costs. The balance is due by certified or cashier's check within 30 days of the Sheriff's notice after the confirmation of sale, plus recording and conveyance fees. Sales are as is, and the Sheriff does not show properties.",
+      "sources": [
+        {
+          "url": "https://butlersheriff.org/services-sales",
+          "read_on": "2026-10-27",
+          "terms": "Page disclaimer covers accuracy only ('The Butler County Sheriff's Office assumes no liability or erroneous information.'); footer copyright notice. No terms of use or reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://butlersheriff.org/contact-us",
+          "read_on": "2026-10-27",
+          "terms": "Same as above.",
+          "terms_url": null
+        },
+        {
+          "url": "https://auditor.bcohio.gov/real_estate/taxes/forfeited_land_sale/index.php",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer or terms link on the page).",
+          "terms_url": null
+        },
+        {
+          "url": "https://treasurer.bcohio.gov/treasurers_office/delinquent_taxes/foreclosure.php",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer or terms link on the page).",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://butlersheriff.org/services-sales",
+          "quote": "All Sheriff's Mortgage Foreclosure Sales and Tax Sales are being held on the Butler County RealAuction website"
+        },
+        {
+          "url": "https://butlersheriff.org/services-sales",
+          "quote": "Tax Sales require a down payment of taxes and costs."
+        },
+        {
+          "url": "https://butlersheriff.org/services-sales",
+          "quote": "The minimum opening bid is the amount of taxes and associated costs at the time of the sale."
+        },
+        {
+          "url": "https://butlersheriff.org/services-sales",
+          "quote": "the property is brought up again for auction two weeks later, unless otherwise directed by court order"
+        },
+        {
+          "url": "https://auditor.bcohio.gov/real_estate/taxes/forfeited_land_sale/index.php",
+          "quote": "The forfeited land sale that had been planned for 2026 was canceled because there were no parcels available for sale."
+        },
+        {
+          "url": "https://treasurer.bcohio.gov/treasurers_office/delinquent_taxes/foreclosure.php",
+          "quote": "Once a sale date is established it is advertised in local newspapers for three consecutive weeks prior to the sale."
+        }
+      ],
+      "notes": {
+        "forfeited_land_sale": {
+          "office": "Butler County Auditor",
+          "phone": "513-887-3154",
+          "address": "130 High Street, 3rd Floor, Hamilton, OH 45011",
+          "url": "https://auditor.bcohio.gov/real_estate/taxes/forfeited_land_sale/index.php",
+          "note": "2026 sale canceled (no parcels); typically held in August. No 2027 date posted."
+        }
+      }
     }
   ]
 }

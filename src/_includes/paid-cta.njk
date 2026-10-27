@@ -1,0 +1,9 @@
+{#- Paid Alerts button. Checkout is Buttondown's own page; nothing about payment runs on this site.
+    Stays a disabled "opening soon" button until site.paid.open is true (set it once the plan exists in Buttondown). -#}
+{%- if site.paid.open %}
+<p><a class="button" href="{{ site.paid.checkoutUrl }}" rel="noopener">Start Alerts, ${{ site.paid.price }}/{{ site.paid.interval }}</a></p>
+<p class="muted">Secure checkout by Buttondown and Stripe. Cancel anytime.</p>
+{%- else %}
+<p><span class="button" aria-disabled="true">Alerts open soon</span></p>
+<p class="muted">Paid alerts aren't open yet. <a href="/#signup">Get the free digest</a> and we'll tell you when they are.</p>
+{%- endif %}

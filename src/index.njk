@@ -18,6 +18,11 @@ description: Free calendar of upcoming county tax lien and tax deed sales, with 
 {% include "sales-table.njk" %}
 <p><a href="/calendar/">See the full calendar →</a></p>
 
+<aside class="callout">
+  <p><strong>Want this in your inbox every week?</strong> Alerts send every sale in the next 30 days, what changed since last week, and county parcel lists where reuse is allowed. ${{ site.paid.price }} a {{ site.paid.interval }}.</p>
+  <p><a href="/alerts/">See what Alerts include →</a></p>
+</aside>
+
 <h2>Browse by state</h2>
 <div class="grid">
 {% for st in states %}

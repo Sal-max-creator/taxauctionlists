@@ -5,5 +5,13 @@
   "tagline": "Free county tax sale calendar",
   "public": false,
   "signupEndpoint": "/api/subscribe",
-  "disclaimer": "Information only, not investment or legal advice. Sale dates, terms and deadlines change; always confirm with the county before you register or bid."
+  "disclaimer": "Information only, not investment or legal advice. Sale dates, terms and deadlines change; always confirm with the county before you register or bid.",
+  "paid": {
+    "name": "TaxAuctionLists Alerts",
+    "price": 19,
+    "interval": "month",
+    "open": false,
+    "checkoutUrl": "https://buttondown.com/taxauctionlists/buy",
+    "manageUrl": "https://buttondown.com/login?subscriber=1"
+  }
 }

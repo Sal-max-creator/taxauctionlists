@@ -1,0 +1,57 @@
+---
+layout: base.njk
+title: Weekly sale alerts
+permalink: /alerts/
+description: Weekly email with every county tax sale in the next 30 days, what changed since last week, and county parcel lists where reuse is allowed.
+---
+{%- set paid = site.paid -%}
+<section class="hero">
+  <h1>Weekly tax sale alerts</h1>
+  <p class="lede">One email a week with every sale coming up in the next 30 days, what changed since last week, and the county's parcel list when it allows reuse. ${{ paid.price }} a {{ paid.interval }}, cancel anytime.</p>
+</section>
+
+<div class="plans">
+  <div class="plan">
+    <h2>Free</h2>
+    <p class="plan-price">$0</p>
+    <ul>
+      <li>The full sale calendar on this site</li>
+      <li>A monthly digest of new sale dates</li>
+      <li>Plain-English guides</li>
+    </ul>
+    <p><a href="/#signup">Get the free digest</a></p>
+  </div>
+  <div class="plan plan-paid">
+    <h2>Alerts</h2>
+    <p class="plan-price">${{ paid.price }}<span>/{{ paid.interval }}</span></p>
+    <ul>
+      <li>Everything in Free</li>
+      <li>A weekly email: every sale in the next 30 days, grouped by state</li>
+      <li>Moved, cancelled and newly posted sales since last week</li>
+      <li>Deposits and registration deadlines, with a link to how each county's sale works</li>
+      <li>County parcel lists as a spreadsheet where the county allows reuse; a direct link to the county's list where it doesn't</li>
+    </ul>
+    {% include "paid-cta.njk" %}
+  </div>
+</div>
+
+<h2>What's in each weekly email</h2>
+<dl class="facts">
+  <dt>When</dt><dd>Once a week, after our weekly check of every county source page.</dd>
+  <dt>Coming up</dt><dd>Every dated sale in the next 30 days across all {{ states.length }} states we cover, with date, time, online or in person, deposit, registration deadline and a link to the county page it came from.</dd>
+  <dt>What changed</dt><dd>Sales a county added, moved or cancelled since the last email, and counties that just posted next year's date.</dd>
+  <dt>Parcel lists</dt><dd>When a county publishes the list of properties in its sale and its terms allow reuse, we send it as a spreadsheet. Some counties only allow personal use or forbid copying, and private auction platforms keep their own lists. For those we link straight to the county or platform instead.</dd>
+  <dt>Coverage</dt><dd>{{ counties.length }} counties in {% for st in states %}{{ st.name }}{% if not loop.last %}, {% endif %}{% endfor %}. We add counties over time.</dd>
+</dl>
+
+<h2>Questions</h2>
+<h3>How do I pay?</h3>
+<p>Checkout is run by Buttondown, the service that sends our emails, and payments go through Stripe. Your card details never touch this site.</p>
+<h3>Can I cancel?</h3>
+<p>Yes, anytime. Every email has a link to manage your subscription, or you can <a href="{{ paid.manageUrl }}" rel="nofollow noopener">log in to your subscription</a> to cancel, change your card or see past payments.</p>
+<h3>Do I still get the free digest?</h3>
+<p>Yes. Subscribing to Alerts signs you up for the free emails too.</p>
+<h3>Is this investment advice?</h3>
+<p>No. Every date links to its county source and shows when we last checked it, but counties change dates, pull properties and make mistakes. Always confirm with the county before you register or bid.</p>
+
+{% include "notice.njk" %}

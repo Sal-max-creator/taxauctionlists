@@ -33,6 +33,10 @@ State overview: <https://alison.legislature.state.al.us/files/pdf/SearchableInst
 | Etowah | <https://etowahcounty.org/about-collections/> | 2026-10-27 | No terms, disclaimer or privacy link in the footer; copyright-only footer: 'Copyright © 2026 Etowah County Alabama'. No reuse restriction found. |
 | Houston | <https://houstoncountyal.gov/revenue/tax_sale/> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer; copyright-only footer: '©2026 Houston County'. No reuse restriction found. |
 | Houston | <https://houstoncountyal.gov/revenue/> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer. No reuse restriction found. |
+| Shelby | <http://taxlienauction.shelbyal.com/Tax-Lien> | 2026-10-27 | The tax lien site's pages returned no footer or terms links. The main county site (shelbyal.com) footer Disclaimer covers accuracy only ('Use of this website is at your own risk'); its Copyright Notices page says 'All content © 2006-2026 Shelby County, AL and its representatives. All rights reserved.' No reuse restriction found. ([terms](https://shelbyal.com/474/disclaimer)) |
+| Shelby | <http://taxlienauction.shelbyal.com/> | 2026-10-27 | No footer or terms links in the page content returned; see shelbyal.com Disclaimer and Copyright Notices (copyright only). ([terms](https://shelbyal.com/site/copyright)) |
+| Shelby | <https://www.shelbyal.com/Directory/Home/DepartmentListing?DID=39> | 2026-10-27 | County site; Disclaimer is accuracy-only and Copyright Notices is copyright-only ('All rights reserved'). No reuse restriction found. ([terms](https://shelbyal.com/474/disclaimer)) |
+| St. Clair | <https://stclairco.com/418/Tax-Lien-Auction> | 2026-10-27 | Page disclaimer covers accuracy only (the Revenue Office 'will not be responsible or liable' for accuracy). Footer Copyright Notices page: 'All content © 2006-2026 St. Clair County, AL and its representatives. All rights reserved.' (copyright only). No reuse restriction found. ([terms](https://stclairco.com/site/copyright)) |
 
 ## Alaska
 
@@ -113,6 +117,18 @@ State overview: <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https
 | Sharp | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
 | Sharp | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
 | Sharp | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| White | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| White | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| White | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Lonoke | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Lonoke | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Lonoke | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Jefferson | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Jefferson | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Jefferson | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Pope | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Pope | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Pope | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
 
 ## California
 
@@ -454,6 +470,8 @@ State overview: <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html>
 | Reno | <https://www.renocountyks.gov/reno-county-tax-sale-will-be-on-thursday-october-30th> | 2026-10-27 | County Disclaimer page has no copyright or reuse restriction; it includes a K.S.A. 45-220 certification not to use name or address lists derived from public records to sell property or services to the persons listed. No ban on republishing sale information found. ([terms](https://www.renocountyks.gov/Disclaimer)) |
 | Saline | <https://www.salinecountyks.gov/tax-foreclosures> | 2026-10-27 | Site Terms & Privacy Policy has no copyright notice or reuse terms; its accuracy disclaimer covers linked external sites. No ban on reuse or redistribution found. ([terms](https://salinecountyks.gov/site-terms-privacy-policy)) |
 | Saline | <https://www.salinecountyks.gov/media/Treasurer/tax%20foreclosure%20notice%20of%20sale/2026-CV-32%20Foreclosure.pdf> | 2026-10-27 | same as above ([terms](https://salinecountyks.gov/site-terms-privacy-policy)) |
+| Crawford | <https://crawfordcountykansas.org/tax-foreclosure-sale-guide.html> | 2026-10-27 | Privacy Policy & Legal Disclaimer page: its disclaimer covers accuracy of linked external sites and the privacy policy covers personal data; site footer reads 'Copyright 2023 ©'. No ban on reuse or redistribution found. ([terms](https://www.crawfordcountykansas.org/privacy-policy--disclaimer.html)) |
+| Geary | <https://www.gearycounty.gov/192/Tax-Sale-General-Information> | 2026-10-27 | Copyright Notices page reads 'All content © 2006-2026 Geary County, KS and its representatives. All rights reserved.' (copyright notice only). No ban on reuse or redistribution found. ([terms](https://www.gearycounty.gov/site/copyright)) |
 
 ## Kentucky
 
@@ -477,6 +495,10 @@ State overview: <https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56
 | Oldham | <https://oldhamcountyclerk.ky.gov/wp-content/uploads/2026/04/DELINQUENT-TAX-BILL-SALE-PROCEEDURES.pdf> | 2026-10-27 | see the clerk's site above ([terms](https://oldhamcountyclerk.ky.gov/internet-access-system-disclaimer/)) |
 | Warren | <https://warrencountyclerk.ky.gov/delinquent-taxes> | 2026-10-27 | No terms, disclaimer, copyright or privacy link in the page content returned; the page says the website is informational only. No reuse restriction found. |
 | Warren | <https://warrencountyclerk.ky.gov/wp-content/uploads/2026/06/dtaxpurchaseprocess2025bills.pdf> | 2026-10-27 | not found (PDF) |
+| Christian | <https://christiancountyky.gov/tax-sale-date> | 2026-10-27 | No terms, disclaimer, privacy or legal link on the page; footer shows only '© 2026 Christian County, Kentucky' and a 'powered by SnapPages' vendor credit (no vendor terms link). No reuse restriction found. |
+| Laurel | <https://laurelcountyclerk.ky.gov/tax-sale-information/> | 2026-10-27 | No terms or disclaimer link; footer links a Privacy & Disability Statement (read: no reuse terms) and shows 'Site Provided By Software Management, LLC © 2026'. No reuse restriction found. ([terms](https://laurelcountyclerk.ky.gov/privacy-disability-statement/)) |
+| Laurel | <https://laurelcountyclerk.ky.gov/?p=16> | 2026-10-27 | Same site footer; the page says the linked delinquent records site 'is an information website only.' No reuse restriction found. ([terms](https://laurelcountyclerk.ky.gov/privacy-disability-statement/)) |
+| McCracken | <https://mccrackencountyclerk.ky.gov/delinquent-taxes/> | 2026-10-27 | No terms or disclaimer link; footer links a Privacy & Disability Statement (read: no reuse terms) and shows 'Site Designed by Software Management, LLC. © 2026'. No reuse restriction found. ([terms](https://mccrackencountyclerk.ky.gov/privacy-disability-statement/)) |
 
 ## Louisiana
 
@@ -551,6 +573,10 @@ State overview: <https://www.michigan.gov/taxes/property/property-tax-forfeiture
 | Monroe | <https://www.co.monroe.mi.us/465/Foreclosed-Property-for-Sale> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Monroe County, MI and its representatives. All rights reserved.' No explicit reuse or redistribution terms. Restate facts, don't copy documents. ([terms](https://www.co.monroe.mi.us/copyright)) |
 | Muskegon | <https://co.muskegon.mi.us/886/Treasurer> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Muskegon County, MI and its representatives. All rights reserved.' No explicit reuse or redistribution terms. Restate facts only. ([terms](https://co.muskegon.mi.us/copyright)) |
 | Oakland | <https://www.oaklandcountymi.gov/government/oakland-county-treasurer-s-office/land-sale> | 2026-10-27 | Oakland County Web Site Terms: 'Users may freely print any information that they obtain from the County Web site.' 'Use of documents from this server is for informational or personal use only.' No modifications; logos and site design may not be copied. Accuracy not guaranteed. Restate facts, don't copy documents. ([terms](https://www.oaklandcountymi.gov/government/terms-of-use)) |
+| St. Clair | <https://stclaircounty.org/Offices/268> | 2026-10-27 | No terms page found: the page footer has only Home, Treasurer and Email links, with no terms, disclaimer, copyright or privacy link. Restate facts only. |
+| St. Clair | <https://legacy.stclaircounty.org/Offices/treasurer/AuctionProperties.aspx> | 2026-10-27 | County's older site; used only for the Treasurer's address. No terms or disclaimer links found. |
+| Washtenaw | <https://washtenaw.org/auction> | 2026-10-27 | No terms page found: the footer shows only a 'Government Websites by CivicPlus' credit, with no terms, disclaimer, copyright or privacy link. Restate facts only. |
+| Washtenaw | <https://content.civicplus.com/api/assets/2d1d8ed8-8d58-44ad-8bcb-a1b2573f43ea?scope=all> | 2026-10-27 | Washtenaw County Treasurer's 2026 Terms and Conditions of Sale (county document hosted by its website vendor). No reuse terms stated. |
 
 ## Minnesota
 
@@ -1152,6 +1178,8 @@ State overview: <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <htt
 | Winnebago | <https://www.winnebagocountywi.gov/sites/default/files/uploaded-files/NEWSPAPER%20NOTICE_1.pdf> | 2026-10-27 | County 'Disclaimer' page covers GIS (WINGS) data: other uses are the user's responsibility and the county disclaims liability; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://www.winnebagocountywi.gov/408/Disclaimer)) |
 | Marathon | <https://www.marathoncounty.gov/services/tax-deed-property> | 2026-10-27 | No terms page found. |
 | Eau Claire | <https://eauclairecounty.gov/our-government/departments-and-facilities/department-directory/tax-delinquent-property> | 2026-10-27 | No terms page found. |
+| Dane | <https://treasurer.danecounty.gov/taxdeedauction> | 2026-10-27 | No terms page found: the Treasurer site's footer has only 'Copyright © 2026 County of Dane. All rights reserved.' and Google reCAPTCHA privacy/terms links. Restate facts only. |
+| Dane | <https://treasurer.danecounty.gov/documents/pdf/AuctionFAQ.pdf> | 2026-10-27 | Same Treasurer site; see copyright notice above. |
 
 ## Wyoming
 

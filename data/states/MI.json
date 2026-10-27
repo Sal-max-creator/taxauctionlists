@@ -348,6 +348,86 @@
           "quote": "For interested bidders without internet access, a phone bidding system is available by calling (800) 259-7470."
         }
       ]
+    },
+    {
+      "county": "St. Clair",
+      "slug": "st-clair",
+      "office": "St. Clair County Treasurer",
+      "phone": "810-989-6915",
+      "address": "200 Grand River, Suite 101, Port Huron, MI 48060",
+      "website": "https://stclaircounty.org/Offices/268",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "Tax-Sale.info",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale dates are posted on the county page. It says auction information is posted on Title Check's website in July every year.",
+      "how_to_bid": "Title Check handles the county's public land auction; its tax-sale.info site lists the properties, upcoming auction dates and how-to information. Time, format, deposit and registration are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://stclaircounty.org/Offices/268",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found: the page footer has only Home, Treasurer and Email links, with no terms, disclaimer, copyright or privacy link. Restate facts only."
+        },
+        {
+          "url": "https://legacy.stclaircounty.org/Offices/treasurer/AuctionProperties.aspx",
+          "read_on": "2026-10-27",
+          "terms": "County's older site; used only for the Treasurer's address. No terms or disclaimer links found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://stclaircounty.org/Offices/268",
+          "quote": "Title Check is a company handling our Public Land Auction this year."
+        },
+        {
+          "url": "https://stclaircounty.org/Offices/268",
+          "quote": "Auction information can be found on the above website in July every year."
+        }
+      ]
+    },
+    {
+      "county": "Washtenaw",
+      "slug": "washtenaw",
+      "office": "Washtenaw County Treasurer",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://washtenaw.org/auction",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Auction.com",
+        "url": "https://www.auction.com/"
+      },
+      "schedule_rule": "Tax-foreclosed property auctions occur every year beginning in July.",
+      "sales": [],
+      "next_sale_note": "The 2026 series of online auctions opened July 27, August 31 and September 28, 2026 (all past). 2027 dates not yet posted.",
+      "how_to_bid": "Online auction on Auction.com. Register with Auction.com before the auction and authorize a $2,000 hold on a major credit card for each property you bid on. Winning bidders are emailed by Auction.com and must pay in full within 48 hours by cash, check or electronic transfer; debit and credit cards are not accepted.",
+      "sources": [
+        {
+          "url": "https://washtenaw.org/auction",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found: the footer shows only a 'Government Websites by CivicPlus' credit, with no terms, disclaimer, copyright or privacy link. Restate facts only."
+        },
+        {
+          "url": "https://content.civicplus.com/api/assets/2d1d8ed8-8d58-44ad-8bcb-a1b2573f43ea?scope=all",
+          "read_on": "2026-10-27",
+          "terms": "Washtenaw County Treasurer's 2026 Terms and Conditions of Sale (county document hosted by its website vendor). No reuse terms stated."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://content.civicplus.com/api/assets/2d1d8ed8-8d58-44ad-8bcb-a1b2573f43ea?scope=all",
+          "quote": "A series of auctions are being held, opening on the following dates: July 27, August 31, and September 28, 2026."
+        },
+        {
+          "url": "https://content.civicplus.com/api/assets/2d1d8ed8-8d58-44ad-8bcb-a1b2573f43ea?scope=all",
+          "quote": "The auction will be conducted on the Internet by Auction.com, LLC."
+        }
+      ]
     }
   ]
 }

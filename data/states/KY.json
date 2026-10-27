@@ -360,6 +360,128 @@
           "quote": "Payment must be in the form of cash, cashier's check, or certified funds."
         }
       ]
+    },
+    {
+      "county": "Christian",
+      "slug": "christian",
+      "office": "Christian County Clerk",
+      "phone": "(270) 887-4109 (tax sale questions); County Clerk's Office (270) 887-4105",
+      "address": "511 South Main Street, Hopkinsville, KY 42240",
+      "website": "https://christiancountyky.gov/tax-sale-date",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was July 28, 2026 at 9:00 AM Central Daylight Time (past); registration with the clerk closed July 20, 2026.",
+      "how_to_bid": "Third-party purchasers register with the County Clerk's office by the posted deadline (close of business July 20, 2026 for the 2026 sale). Anyone buying more than 3 tax bills in one county or more than 5 in the state must also register with the Kentucky Department of Revenue at least 60 days before the sale. Location, fees, deposit, payment and format are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://christiancountyky.gov/tax-sale-date",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, privacy or legal link on the page; footer shows only '© 2026 Christian County, Kentucky' and a 'powered by SnapPages' vendor credit (no vendor terms link). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://christiancountyky.gov/tax-sale-date",
+          "quote": "The Christian County Clerk Delinquent Property Tax Sale date is"
+        },
+        {
+          "url": "https://christiancountyky.gov/tax-sale-date",
+          "quote": "Anyone wanting to purchase more than 3 tax bills in any one county or more than 5 bills in the state must register"
+        }
+      ],
+      "notes": {
+        "format_note": "The fetch tool returned the date (July 28, 2026), time and registration deadline (July 20, 2026) without the full sentence, so they are kept in next_sale_note only."
+      }
+    },
+    {
+      "county": "Laurel",
+      "slug": "laurel",
+      "office": "Laurel County Clerk, Delinquent Tax Department",
+      "phone": "(606) 864-5158",
+      "address": "101 S Main St Room 203, London, KY 40741",
+      "website": "https://laurelcountyclerk.ky.gov/tax-sale-information/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale (2025 bills) lottery was Wednesday, September 9, 2026 at 9:00 am (past).",
+      "how_to_bid": "Third-party purchasers register with the clerk during the posted window (8/17/2026 to 8/31/2026 at 4:00pm for the 2026 sale) and submit forms, fees and bill lists by the deadline, using the clerk's priority and lottery list templates. Each purchaser must provide a deposit of 25 percent of the value of their list. A drawing sets the order, which is emailed to purchasers. Fee amounts, payment methods and whether any part is online are not stated.",
+      "sources": [
+        {
+          "url": "https://laurelcountyclerk.ky.gov/tax-sale-information/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer link; footer links a Privacy & Disability Statement (read: no reuse terms) and shows 'Site Provided By Software Management, LLC © 2026'. No reuse restriction found.",
+          "terms_url": "https://laurelcountyclerk.ky.gov/privacy-disability-statement/"
+        },
+        {
+          "url": "https://laurelcountyclerk.ky.gov/?p=16",
+          "read_on": "2026-10-27",
+          "terms": "Same site footer; the page says the linked delinquent records site 'is an information website only.' No reuse restriction found.",
+          "terms_url": "https://laurelcountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://laurelcountyclerk.ky.gov/tax-sale-information/",
+          "quote": "Delinquent Tax Sale Lottery Date – Wednesday September 9, 2026 @ 9:00 am"
+        },
+        {
+          "url": "https://laurelcountyclerk.ky.gov/tax-sale-information/",
+          "quote": "Drawing will be on Wednesday, September 2, 2026 at 9 am."
+        },
+        {
+          "url": "https://laurelcountyclerk.ky.gov/tax-sale-information/",
+          "quote": "Registration will be from 8/17/26 and ends on 8/31/2026 at 4:00pm"
+        },
+        {
+          "url": "https://laurelcountyclerk.ky.gov/tax-sale-information/",
+          "quote": "each Third-Party Purchaser will be required to provide twenty-five (25) percent of the value of the purchaser's list"
+        }
+      ],
+      "notes": {
+        "format_note": "The page gives both a drawing date (September 2, 2026) and a lottery date (September 9, 2026) without explaining the difference."
+      }
+    },
+    {
+      "county": "McCracken",
+      "slug": "mccracken",
+      "office": "McCracken County Clerk, Delinquent Taxes",
+      "phone": "270-444-4701 (Delinquent Taxes direct line)",
+      "address": "not stated on the pages read",
+      "website": "https://mccrackencountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale of 2025 Certificates of Delinquency was August 21, 2026 at 9AM CDT (past); the county said it would not be an in-person sale.",
+      "how_to_bid": "The clerk posts registration forms and a registration letter ahead of the sale (in July for the 2026 sale) and holds a drawing for the tax sale, shown by video on the page. Questions go to McCrackencounty.dtax@ky.gov. Fees, deposit, payment and the exact sale method are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://mccrackencountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer link; footer links a Privacy & Disability Statement (read: no reuse terms) and shows 'Site Designed by Software Management, LLC. © 2026'. No reuse restriction found.",
+          "terms_url": "https://mccrackencountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://mccrackencountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "The sale of the 2025 Certificates of Delinquency will be August 21, 2026 at 9AM CDT."
+        },
+        {
+          "url": "https://mccrackencountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "This year will NOT be an in-person sale."
+        }
+      ],
+      "notes": {
+        "format_note": "The 2026 sale was stated as not in person, but the page does not say how it was held instead, so format is unknown."
+      }
     }
   ]
 }

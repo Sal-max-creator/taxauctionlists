@@ -383,6 +383,97 @@
       "notes": {
         "list_note": "Past list (2026 auction, 2025 taxes): https://houstoncountyal.gov/files/revenue/2026_tax_lien_auction_parcels_for_2025_tax_year_update_04302026_73842.xlsx"
       }
+    },
+    {
+      "county": "Shelby",
+      "slug": "shelby",
+      "office": "Shelby County Property Tax Commissioner",
+      "phone": "(205) 670-6900",
+      "address": "102 Depot Street, Columbiana, AL 35051 (mail: PO Box 1269, Columbiana, AL 35051)",
+      "website": "http://taxlienauction.shelbyal.com/Tax-Lien",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction date posted on the county's tax lien pages read.",
+      "how_to_bid": "The tax lien auction is online on GovEase. Bidder registration closes at 4:30 p.m. the day before the auction, which begins at 8:30 a.m. After registering, bidders must arrange payment and tell the Property Tax Commissioner's office their projected investment for approval, and pay in guaranteed funds. Bids are awarded on the lowest interest rate bid, from a maximum of 12% simple interest per annum prorated monthly down to 0%. There is a $5.00 endorsement fee per certificate, and all sales are final. Interest starts accruing the day after the auction.",
+      "sources": [
+        {
+          "url": "http://taxlienauction.shelbyal.com/Tax-Lien",
+          "read_on": "2026-10-27",
+          "terms": "The tax lien site's pages returned no footer or terms links. The main county site (shelbyal.com) footer Disclaimer covers accuracy only ('Use of this website is at your own risk'); its Copyright Notices page says 'All content © 2006-2026 Shelby County, AL and its representatives. All rights reserved.' No reuse restriction found.",
+          "terms_url": "https://shelbyal.com/474/disclaimer"
+        },
+        {
+          "url": "http://taxlienauction.shelbyal.com/",
+          "read_on": "2026-10-27",
+          "terms": "No footer or terms links in the page content returned; see shelbyal.com Disclaimer and Copyright Notices (copyright only).",
+          "terms_url": "https://shelbyal.com/site/copyright"
+        },
+        {
+          "url": "https://www.shelbyal.com/Directory/Home/DepartmentListing?DID=39",
+          "read_on": "2026-10-27",
+          "terms": "County site; Disclaimer is accuracy-only and Copyright Notices is copyright-only ('All rights reserved'). No reuse restriction found.",
+          "terms_url": "https://shelbyal.com/474/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "http://taxlienauction.shelbyal.com/",
+          "quote": "The Tax Lien Auction will be held online at www.govease.com."
+        },
+        {
+          "url": "http://taxlienauction.shelbyal.com/Tax-Lien",
+          "quote": "Bidder registration cutoff is 4:30 p.m. the day before the Tax Lien Auction."
+        },
+        {
+          "url": "http://taxlienauction.shelbyal.com/Tax-Lien",
+          "quote": "Bids are awarded on the lowest interest rate bid."
+        },
+        {
+          "url": "http://taxlienauction.shelbyal.com/Tax-Lien",
+          "quote": "The maximum bid is 12% simple interest per annum prorated monthly."
+        }
+      ]
+    },
+    {
+      "county": "St. Clair",
+      "slug": "st-clair",
+      "office": "St. Clair County Revenue Commissioner",
+      "phone": "(205) 884-2395",
+      "address": "165 Fifth Avenue, Suite 100, Ashville, AL 35953; 1815 Cogswell Avenue, Pell City, AL 35125",
+      "website": "https://stclairco.com/418/Tax-Lien-Auction",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page says the auction is held yearly, usually in the first week of May, with registration opening in April (wording paraphrased by the fetch tool, so not stored as a schedule rule).",
+      "how_to_bid": "Since October 1, 2020 the county has sold tax liens under Code of Alabama Section 40-10-180, at an auction held online annually on GovEase; bidders register through GovEase. The county links a current delinquent list. Deposit, interest and bidding rules are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://stclairco.com/418/Tax-Lien-Auction",
+          "read_on": "2026-10-27",
+          "terms": "Page disclaimer covers accuracy only (the Revenue Office 'will not be responsible or liable' for accuracy). Footer Copyright Notices page: 'All content © 2006-2026 St. Clair County, AL and its representatives. All rights reserved.' (copyright only). No reuse restriction found.",
+          "terms_url": "https://stclairco.com/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://stclairco.com/418/Tax-Lien-Auction",
+          "quote": "online annually using GovEase"
+        }
+      ],
+      "notes": {
+        "list_note": "The county links its current delinquent list at https://www.ingproperty.com/StClair_Revenue/Delinquent.aspx (not read)."
+      }
     }
   ]
 }

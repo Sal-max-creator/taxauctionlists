@@ -209,6 +209,43 @@
           "quote": "In Rem Auction properties (March 2024) Bidding Closed - County Board final vote 5/21/24"
         }
       ]
+    },
+    {
+      "county": "Dane",
+      "slug": "dane",
+      "office": "Dane County Treasurer",
+      "phone": "(608) 266-4151",
+      "address": "City-County Building, Room 114, 210 Martin Luther King, Jr. Boulevard, Madison, WI 53703-3342",
+      "website": "https://treasurer.danecounty.gov/taxdeedauction",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Auctions are regularly in October/November.",
+      "sales": [],
+      "next_sale_note": "No upcoming bid date posted. The Treasurer's tax deed auction page lists bid due dates of June 2, 2026 and October 6, 2026, both past; the county's FAQ says an extra sale may be held in April/May as needed.",
+      "how_to_bid": "Sealed bid. Submit the parcel's bid form with 10% of the bid as earnest deposit before the bid due date and time; the Treasurer or a designee opens and reads the bids in the Dane County Treasurer's Office at the bid opening. The balance is due within ten days of the award notice, in cash or cashier's check. Each parcel has a posted minimum bid. Property is sold as is by quit claim deed.",
+      "sources": [
+        {
+          "url": "https://treasurer.danecounty.gov/taxdeedauction",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found: the Treasurer site's footer has only 'Copyright © 2026 County of Dane. All rights reserved.' and Google reCAPTCHA privacy/terms links. Restate facts only."
+        },
+        {
+          "url": "https://treasurer.danecounty.gov/documents/pdf/AuctionFAQ.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same Treasurer site; see copyright notice above."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://treasurer.danecounty.gov/documents/pdf/AuctionFAQ.pdf",
+          "quote": "All auctions are conducted through a sealed bid opening at the designated Bid Opening date and time."
+        },
+        {
+          "url": "https://treasurer.danecounty.gov/documents/pdf/AuctionFAQ.pdf",
+          "quote": "Auctions are regularly in October/November."
+        }
+      ]
     }
   ]
 }

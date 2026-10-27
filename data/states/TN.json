@@ -1,0 +1,239 @@
+{
+  "state": "TN",
+  "name": "Tennessee",
+  "sale_type": "redeemable deed",
+  "overview": "Tennessee collects unpaid property taxes through a delinquent tax lawsuit: after February 1 but before April 1, the county's delinquent tax attorney files suit in chancery or circuit court. The property is then sold at a court-ordered public sale run by the court clerk, usually the Clerk and Master, and the sale becomes final only when the Chancery Court confirms the Clerk and Master's report of sale. Once the order confirming the sale is entered, the owner and other interested persons may redeem: within one year in most cases, 180 days or 90 days when the taxes were delinquent for more than five or eight years, and 30 days for vacant or abandoned property. Redemption interest is 12% per annum.",
+  "overview_sources": [
+    {
+      "url": "https://www.ctas.tennessee.edu/eli/delinquent-tax-suit",
+      "quote": "After February 1, but before April 1, the delinquent tax attorney must file suit in chancery or circuit court",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.tn.gov/content/dam/tn/attorneygeneral/opinions/documents/2005/op05-156.pdf",
+      "quote": "A delinquent property tax sale is final when the Clerk and Master's report of sale is confirmed by the Chancery Court.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.tn.gov/content/dam/tn/attorneygeneral/opinions/documents/2005/op05-156.pdf",
+      "quote": "the statutory redemption period does not begin to run until entry of the court's order confirming the sale.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://ctas.tennessee.edu/eli/redemption",
+      "quote": "If the period of delinquency is five years or less, the redemption period shall be one year",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://ctas.tennessee.edu/eli/redemption",
+      "quote": "the redemption period shall be thirty days from the entry of the order confirming the sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://ctas.tennessee.edu/eli/redemption",
+      "quote": "The interest shall be at the rate of 12% per annum",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Shelby",
+      "slug": "shelby",
+      "office": "Shelby County Chancery Court Clerk & Master, Tax Sale Department",
+      "phone": "901-222-3900",
+      "address": "not stated",
+      "website": "https://www.shelbycountytn.gov/330/Tax-Sale-Information",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "ZeusAuction (SRI)",
+        "url": "https://www.zeusauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted. The newest report listed on the county page is TX-2024 Tax Sale 2201, held October 21-23, 2025 (past).",
+      "how_to_bid": "Sales are held online only at ZeusAuction.com, run by SRI. Register online with a bank account; payment is by ACH or wire from that registered account, in one installment within 1 business day of the close of the auction ($15 fee for wires). The sale is court-ordered: the redemption period starts when the court enters the Order Confirming the Tax Sale, redemption interest is 12% per annum, and redemptions are made at the Chancery Court Clerk's office.",
+      "sources": [
+        {
+          "url": "https://www.shelbycountytn.gov/330/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "No terms link on the page. The Chancery Court Clerk's disclaimer covers warranties, data accuracy and liability and says data from its Internet service 'is not for official use'; it has no copying or reuse restriction.",
+          "terms_url": "https://www.shelbycountytn.gov/DocumentCenter/View/650"
+        },
+        {
+          "url": "https://www.shelbycountytn.gov/DocumentCenter/View/42037/CandM-Info-On-Tax-Sale-Process-v2024",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.shelbycountytn.gov/DocumentCenter/View/650"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.shelbycountytn.gov/330/Tax-Sale-Information",
+          "quote": "will be held online by SRI through their website at ZeusAuction.com"
+        },
+        {
+          "url": "https://www.shelbycountytn.gov/330/Tax-Sale-Information",
+          "quote": "may be answered by the Clerk & Master's Tax Sale Department at 901-222-3900"
+        },
+        {
+          "url": "https://www.shelbycountytn.gov/DocumentCenter/View/42037/CandM-Info-On-Tax-Sale-Process-v2024",
+          "quote": "Payment is made by one installment within 1 business day of the close of the auction."
+        },
+        {
+          "url": "https://www.shelbycountytn.gov/DocumentCenter/View/42037/CandM-Info-On-Tax-Sale-Process-v2024",
+          "quote": "The interest shall be at the rate of twelve percent (12%) per annum."
+        }
+      ]
+    },
+    {
+      "county": "Knox",
+      "slug": "knox",
+      "office": "Knox County Clerk and Master (sale); tax sale page published by the Knox County Trustee",
+      "phone": "(865) 215-2305",
+      "address": "Knoxville City-County Building, 400 Main Street, Suite 427, Knoxville, TN 37902",
+      "website": "https://trustee.knoxcounty.org/services/tax-sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The last sale was June 2nd, 2026 at The Grande Event Center, 5441 Clinton Hwy., Knoxville (past). The page says tax sale dates are determined by court proceedings and will be listed when set.",
+      "how_to_bid": "In-person auction run by the Clerk and Master. Bidders must be current on their own Knox County property taxes. Pay in full at the sale, or pay a deposit of the minimum bid plus 30% of the winning bid and sign a promissory note for the balance within 10 days. Cash, certified funds, cashier's check, money order or ACH only; no personal or business checks or wires. The minimum bid covers all due and delinquent city and county taxes. The redemption period starts when the court confirms the sale and may run from 90 days to one year.",
+      "sources": [
+        {
+          "url": "https://trustee.knoxcounty.org/services/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "Knox County privacy policy/disclaimer says information is provided 'as a service to the public' and should not be relied on for legal action; no copying or reuse restriction found.",
+          "terms_url": "https://knoxcounty.org/privacy-policy/"
+        },
+        {
+          "url": "https://trustee.knoxcounty.org/assets/pdfs/TS25_CM_Terms and Conditions_pdf.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://knoxcounty.org/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://trustee.knoxcounty.org/services/tax-sale",
+          "quote": "June 2nd, 2026 - Doors Open: 8:00am - Begins: 10:00am"
+        },
+        {
+          "url": "https://trustee.knoxcounty.org/services/tax-sale",
+          "quote": "Tax Sale dates are determined by court proceedings and will be listed accordingly."
+        },
+        {
+          "url": "https://trustee.knoxcounty.org/services/tax-sale",
+          "quote": "Delinquent taxpayers are ineligible to participate."
+        },
+        {
+          "url": "https://trustee.knoxcounty.org/assets/pdfs/TS25_CM_Terms and Conditions_pdf.pdf",
+          "quote": "pay the minimum bid PLUS 30% of the accepted bid amount as a deposit"
+        },
+        {
+          "url": "https://trustee.knoxcounty.org/assets/pdfs/TS25_CM_Terms and Conditions_pdf.pdf",
+          "quote": "may vary between 90 days and one year"
+        }
+      ]
+    },
+    {
+      "county": "Hamilton",
+      "slug": "hamilton",
+      "office": "Hamilton County Clerk & Master (Chancery Court), Chief Tax Deputy",
+      "phone": "(423) 209-6606 (Chief Tax Deputy); 423-209-6600 (Clerk & Master)",
+      "address": "300 Courthouse, 625 Georgia Avenue, Chattanooga, TN 37402",
+      "website": "https://www.hamiltontn.gov/Clerkmasterforms/taxsale/2026TaxSale/TAX%20SALE%20INFORMATION%202026.pdf",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The newest notice (filed in the county's 2026TaxSale folder) is for the sale held Thursday, June 05, 2025 in the County Commission Room (past).",
+      "how_to_bid": "Annual in-person auction in the Hamilton County Commission Room, 4th floor of the Hamilton County Courthouse, 625 Georgia Ave., Chattanooga; registration opened at 9:00 a.m. and the sale at 10:00 a.m. in the latest notice. The opening bid must equal the amount owed and the Clerk & Master may refuse any bid. Pay immediately after the sale in cash, cashier's check or money order. A bid is a legal commitment to buy. Property is sold subject to a one-year redemption period from the Order Confirming Sale, with 12% simple interest per annum.",
+      "sources": [
+        {
+          "url": "https://www.hamiltontn.gov/Clerkmasterforms/taxsale/2026TaxSale/TAX%20SALE%20INFORMATION%202026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "County Website Disclaimer: provided 'as is', reliance at the user's own risk; footer 'All Rights Reserved'. No copying or reuse restriction found.",
+          "terms_url": "https://www.hamiltontn.gov/policies.aspx"
+        },
+        {
+          "url": "https://www.hamiltonTN.gov/Chancery_RulesFees.aspx",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.hamiltontn.gov/policies.aspx"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hamiltontn.gov/Clerkmasterforms/taxsale/2026TaxSale/TAX%20SALE%20INFORMATION%202026.pdf",
+          "quote": "Thursday, June 05, 2025"
+        },
+        {
+          "url": "https://www.hamiltontn.gov/Clerkmasterforms/taxsale/2026TaxSale/TAX%20SALE%20INFORMATION%202026.pdf",
+          "quote": "Registration begins at 9:00 a.m. and tax sale starts promptly at 10:00 a.m."
+        },
+        {
+          "url": "https://www.hamiltontn.gov/Clerkmasterforms/taxsale/2026TaxSale/TAX%20SALE%20INFORMATION%202026.pdf",
+          "quote": "Property is sold subject to a one-year redemption period."
+        },
+        {
+          "url": "https://www.hamiltontn.gov/Clerkmasterforms/taxsale/2026TaxSale/TAX%20SALE%20INFORMATION%202026.pdf",
+          "quote": "Redeemed parcels are calculated at 12% interest per annum (simple interest)."
+        },
+        {
+          "url": "https://www.hamiltonTN.gov/Chancery_RulesFees.aspx",
+          "quote": "300 Courthouse 625 Georgia Avenue Chattanooga, TN 37402"
+        }
+      ]
+    },
+    {
+      "county": "Montgomery",
+      "slug": "montgomery",
+      "office": "Montgomery County Clerk & Master (Chancery Court), with the Montgomery County Trustee",
+      "phone": "931-648-5703 (Clerk & Master); 931-648-5717 (Trustee)",
+      "address": "Clerk & Master: 2 Millennium Plaza Suite 101, Clarksville, TN 37040; Trustee: 350 Pageant Lane, Suite 101-B, Clarksville, TN 37040",
+      "website": "https://montgomerytn.gov/chancery/tax-sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 tax sale was held September 17, 2026 (past).",
+      "how_to_bid": "Properties with taxes delinquent two or more years go to a Chancery Court-ordered public auction held in the Montgomery County Courts Center; the property goes to the highest cash bidder. Pay by cashier's check or cash, in full within 2 hours of the end of the sale. All sales are final, and Trustee's Office employees and their relatives may not bid. The owner, lien holder or heirs may redeem for one year from the decree confirming the sale.",
+      "sources": [
+        {
+          "url": "https://montgomerytn.gov/chancery/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer links only an accessibility statement)",
+          "terms_url": null
+        },
+        {
+          "url": "https://montgomerytn.gov/trustee/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer links only an accessibility statement)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://montgomerytn.gov/chancery/tax-sale",
+          "quote": "The 2026 Tax Sale was on September 17, 2026."
+        },
+        {
+          "url": "https://montgomerytn.gov/trustee/tax-sale",
+          "quote": "The tax sale is held in the Montgomery County Courts Center"
+        },
+        {
+          "url": "https://montgomerytn.gov/trustee/tax-sale",
+          "quote": "Full payment on the day of the sale is required within 2 hrs of the conclusion of the sale."
+        },
+        {
+          "url": "https://montgomerytn.gov/trustee/tax-sale",
+          "quote": "The redemption period will last for one year from the date of the order of the decree confirming the sale."
+        }
+      ]
+    }
+  ]
+}

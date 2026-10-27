@@ -1,0 +1,268 @@
+{
+  "state": "AR",
+  "name": "Arkansas",
+  "sale_type": "deed",
+  "overview": "In Arkansas the state, not the county, sells tax-delinquent land: real property forfeited to the state for unpaid real property taxes is certified to the Commissioner of State Lands, a state agency, which runs the public auctions county by county. Each county's auction is held once a year, in that county or a neighboring one. Anyone may redeem a certified parcel by paying the delinquent taxes until 4 p.m. on the last business day before the sale date; after that, parcels cannot be redeemed and sales are final. The buyer pays the full price on auction day and receives a limited warranty deed conveying whatever interest the state holds; parcels that do not sell are offered again through the Commissioner's post-auction sales 30 days later.",
+  "overview_sources": [
+    {
+      "url": "https://cosl.org/Home/Faq",
+      "quote": "We conduct public auctions of lands that were forfeited to the state for non-payment of real property taxes.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://cosl.org/Home/Faq",
+      "quote": "They are held once a year in the county where the property is located or in a contiguous county.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://cosl.org/Home/Faq",
+      "quote": "until 4 p.m. the last business day prior to the sale date",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://cosl.org/Home/Faq",
+      "quote": "Parcels cannot be redeemed on the sale date or thereafter.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://cosl.org/Home/Faq",
+      "quote": "The state executes a Limited Warranty Deed, which conveys whatever interest the state has in the property to the purchaser.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://cosl.org/Home/Buyers",
+      "quote": "Thirty (30) days after a public auction, parcels offered, but not sold, are available for sale through the Commissioner of State Lands office.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Benton",
+      "slug": "benton",
+      "office": "Arkansas Commissioner of State Lands (state agency; runs the sale for the county)",
+      "phone": "501-324-9422",
+      "address": "Real Estate Office, 7003 Valley Ranch Drive, Little Rock, Arkansas 72223",
+      "website": "https://www.cosl.org/catalog.aspx",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "They are held once a year in the county where the property is located or in a contiguous county.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Benton County sale (with Washington County) was 8/11/2026 at 10:00 AM at the Holiday Inn & NWA Convention Center, Hall IV, 1500 S 48th St, Springdale (past). Parcels offered but not sold become available through the Commissioner's post-auction sales 30 days after the auction.",
+      "how_to_bid": "Attend the live public auction run by the Commissioner of State Lands. The full purchase price is due the day of the auction; cash is not accepted (personal or business check, credit or debit card, cashier's check or money order). No deposit is stated. Sales are final and the state conveys title by a limited warranty deed. Unsold parcels can later be bid on online at auction.cosl.org (the Commissioner's own post-auction site).",
+      "sources": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer: the materials 'are for information purposes only' and the State makes no warranties as to accuracy. No copying, reuse or redistribution restriction found; site footer reads '© 2026 - Commissioner of State Lands | All rights reserved.'",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "They are held once a year in the county where the property is located or in a contiguous county."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "The full purchase price must be paid the day of the auction."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Parcels cannot be redeemed on the sale date or thereafter."
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "quote": "Title to tax delinquent property is conveyed from the Commissioner of State Lands by a limited warranty deed."
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "quote": "Thirty (30) days after a public auction, parcels offered, but not sold, are available for sale through the Commissioner of State Lands office."
+        }
+      ]
+    },
+    {
+      "county": "Pulaski",
+      "slug": "pulaski",
+      "office": "Arkansas Commissioner of State Lands (state agency; runs the sale for the county)",
+      "phone": "501-324-9422",
+      "address": "Real Estate Office, 7003 Valley Ranch Drive, Little Rock, Arkansas 72223",
+      "website": "https://www.cosl.org/catalog.aspx",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "They are held once a year in the county where the property is located or in a contiguous county.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Pulaski County sale was 7/9/2026 at 10:00 AM at the Wyndham NLR, Silver City Rooms 5/6/7, 2 Riverfront Place, North Little Rock (past). Parcels offered but not sold become available through the Commissioner's post-auction sales 30 days after the auction.",
+      "how_to_bid": "Attend the live public auction run by the Commissioner of State Lands. The full purchase price is due the day of the auction; cash is not accepted (personal or business check, credit or debit card, cashier's check or money order). No deposit is stated. Sales are final and the state conveys title by a limited warranty deed. Unsold parcels can later be bid on online at auction.cosl.org (the Commissioner's own post-auction site).",
+      "sources": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer: the materials 'are for information purposes only' and the State makes no warranties as to accuracy. No copying, reuse or redistribution restriction found; site footer reads '© 2026 - Commissioner of State Lands | All rights reserved.'",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "They are held once a year in the county where the property is located or in a contiguous county."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "The full purchase price must be paid the day of the auction."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Parcels cannot be redeemed on the sale date or thereafter."
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "quote": "Title to tax delinquent property is conveyed from the Commissioner of State Lands by a limited warranty deed."
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "quote": "Thirty (30) days after a public auction, parcels offered, but not sold, are available for sale through the Commissioner of State Lands office."
+        }
+      ]
+    },
+    {
+      "county": "Sebastian",
+      "slug": "sebastian",
+      "office": "Arkansas Commissioner of State Lands (state agency; runs the sale for the county)",
+      "phone": "501-324-9422",
+      "address": "Real Estate Office, 7003 Valley Ranch Drive, Little Rock, Arkansas 72223",
+      "website": "https://www.cosl.org/catalog.aspx",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "They are held once a year in the county where the property is located or in a contiguous county.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Sebastian County sale (with Scott, Logan, Franklin and Crawford counties) was 7/21/2026 at 10:00 AM at the Fort Smith Convention Center, Exhibit Hall A3, 55 S 7th St, Fort Smith (past). Parcels offered but not sold become available through the Commissioner's post-auction sales 30 days after the auction.",
+      "how_to_bid": "Attend the live public auction run by the Commissioner of State Lands. The full purchase price is due the day of the auction; cash is not accepted (personal or business check, credit or debit card, cashier's check or money order). No deposit is stated. Sales are final and the state conveys title by a limited warranty deed. Unsold parcels can later be bid on online at auction.cosl.org (the Commissioner's own post-auction site).",
+      "sources": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer: the materials 'are for information purposes only' and the State makes no warranties as to accuracy. No copying, reuse or redistribution restriction found; site footer reads '© 2026 - Commissioner of State Lands | All rights reserved.'",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "They are held once a year in the county where the property is located or in a contiguous county."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "The full purchase price must be paid the day of the auction."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Parcels cannot be redeemed on the sale date or thereafter."
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "quote": "Title to tax delinquent property is conveyed from the Commissioner of State Lands by a limited warranty deed."
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "quote": "Thirty (30) days after a public auction, parcels offered, but not sold, are available for sale through the Commissioner of State Lands office."
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Arkansas Commissioner of State Lands (state agency; runs the sale for the county)",
+      "phone": "501-324-9422",
+      "address": "Real Estate Office, 7003 Valley Ranch Drive, Little Rock, Arkansas 72223",
+      "website": "https://www.cosl.org/catalog.aspx",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "They are held once a year in the county where the property is located or in a contiguous county.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Washington County sale (with Benton County) was 8/11/2026 at 10:00 AM at the Holiday Inn & NWA Convention Center, Hall IV, 1500 S 48th St, Springdale (past). Parcels offered but not sold become available through the Commissioner's post-auction sales 30 days after the auction.",
+      "how_to_bid": "Attend the live public auction run by the Commissioner of State Lands. The full purchase price is due the day of the auction; cash is not accepted (personal or business check, credit or debit card, cashier's check or money order). No deposit is stated. Sales are final and the state conveys title by a limited warranty deed. Unsold parcels can later be bid on online at auction.cosl.org (the Commissioner's own post-auction site).",
+      "sources": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer: the materials 'are for information purposes only' and the State makes no warranties as to accuracy. No copying, reuse or redistribution restriction found; site footer reads '© 2026 - Commissioner of State Lands | All rights reserved.'",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "They are held once a year in the county where the property is located or in a contiguous county."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "The full purchase price must be paid the day of the auction."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Parcels cannot be redeemed on the sale date or thereafter."
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "quote": "Title to tax delinquent property is conveyed from the Commissioner of State Lands by a limited warranty deed."
+        },
+        {
+          "url": "https://cosl.org/Home/Buyers",
+          "quote": "Thirty (30) days after a public auction, parcels offered, but not sold, are available for sale through the Commissioner of State Lands office."
+        }
+      ]
+    }
+  ]
+}

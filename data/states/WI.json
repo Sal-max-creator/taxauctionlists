@@ -1,0 +1,77 @@
+{
+  "state": "WI",
+  "name": "Wisconsin",
+  "sale_type": "deed",
+  "overview": "Wisconsin counties take tax deeds to real estate with delinquent property taxes and then sell the tax-deeded land themselves. Before a county sells, it must advertise the sale and the appraised value by publishing a class 3 legal notice. At the first attempt to sell a property, every bid below the appraised value must be rejected, and the county may accept the bid most advantageous to it. A county may sell by open or closed bid.",
+  "overview_sources": [
+    {
+      "url": "https://docs.legis.wisconsin.gov/statutes/statutes/75/69",
+      "quote": "no tax delinquent real estate acquired by a county may be sold unless the sale and appraised value",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://docs.legis.wisconsin.gov/statutes/statutes/75/69",
+      "quote": "has first been advertised by publication of a class 3 notice, under ch. 985",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://docs.legis.wisconsin.gov/statutes/statutes/75/69",
+      "quote": "at the first attempt to sell the property, every bid less than the appraised value of the property shall be rejected.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://docs.legis.wisconsin.gov/statutes/statutes/75/69",
+      "quote": "may accept the bid most advantageous to it",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://docs.legis.wisconsin.gov/statutes/statutes/75/69",
+      "quote": "open or closed bid",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Milwaukee",
+      "slug": "milwaukee",
+      "office": "Milwaukee County Department of Administrative Services, Economic Development (tax-deeded property sales)",
+      "phone": "414-897-2384",
+      "address": "Milwaukee County Courthouse, 901 N. 9th St., Room 308, Milwaukee, WI 53233",
+      "website": "https://county.milwaukee.gov/EN/Administrative-Services/Economic-Development/Foreclosed-Properties",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted. Tax-deeded properties are listed one by one on the county's Foreclosed Properties pages with bid deadlines per listing; one listing read 'Bids Due by February 10th' with no year, and the commercial section showed none available.",
+      "how_to_bid": "Not stated on the county pages. Each listing is said to include its purchasing requirements; the county directs purchasing-process questions to its Economic Development contact at 414-897-2384.",
+      "sources": [
+        {
+          "url": "https://county.milwaukee.gov/EN/Administrative-Services/Economic-Development/Foreclosed-Properties/Listings",
+          "read_on": "2026-10-27",
+          "terms": "County 'Website Policies' page has privacy, security and link disclaimers; no clause forbidding reuse, redistribution or commercial use found.",
+          "terms_url": "https://county.milwaukee.gov/EN/Website-Policies"
+        },
+        {
+          "url": "https://county.milwaukee.gov/EN/Administrative-Services/Economic-Development/Foreclosed-Properties",
+          "read_on": "2026-10-27",
+          "terms": "County 'Website Policies' page has privacy, security and link disclaimers; no clause forbidding reuse, redistribution or commercial use found.",
+          "terms_url": "https://county.milwaukee.gov/EN/Website-Policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://county.milwaukee.gov/EN/Administrative-Services/Economic-Development/Foreclosed-Properties/Listings",
+          "quote": "acquired through the tax-deeded foreclosure process"
+        },
+        {
+          "url": "https://county.milwaukee.gov/EN/Administrative-Services/Economic-Development/Foreclosed-Properties/Listings",
+          "quote": "No Commercial Properties Currently Available"
+        }
+      ],
+      "notes": {
+        "scope": "This entry covers the tax-deeded property listings on Milwaukee County's Economic Development pages. Sheriff sales on the County Treasurer's page are mortgage foreclosures, not tax sales."
+      }
+    }
+  ]
+}

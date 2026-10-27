@@ -1,0 +1,146 @@
+{
+  "state": "VA",
+  "name": "Virginia",
+  "sale_type": "deed",
+  "overview": "Virginia does not sell tax liens; a city or county sells the delinquent real estate itself through a court case. The locality's tax-collecting officer (usually the treasurer) can start a judicial proceeding once taxes are still delinquent on December 31 following the second anniversary of the date they became due (sooner for some derelict or blighted property). The case runs in the circuit court of the locality, and the property is sold at a judicial sale. The owner can redeem before the date set for the sale by paying into court all taxes, penalties and interest, plus costs including publication and a reasonable attorney fee set by the court.",
+  "overview_sources": [
+    {
+      "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3965/",
+      "quote": "delinquent on December 31 following the second anniversary of the date on which such taxes have become due",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3965/",
+      "quote": "The officer charged with the duty of collecting taxes for the locality",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3965/",
+      "quote": "the circuit court in which the action is pending",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3974/",
+      "quote": "shall have the right to redeem such real estate prior to the date set for a judicial sale thereof",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3974/",
+      "quote": "by paying into court all taxes, penalties, and interest due with respect to such real estate",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3974/",
+      "quote": "together with all costs including costs of publication and a reasonable attorney fee set by the court.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Fairfax",
+      "slug": "fairfax",
+      "office": "Fairfax County Department of Tax Administration",
+      "phone": "703-222-8234 (TTY 711)",
+      "address": "12000 Government Center Parkway, Suite 223, Fairfax, VA 22035",
+      "website": "https://www.fairfaxcounty.gov/taxes/pay/auction-real-property",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "Taxing Authority Consulting Services PC (county's contracted law firm)",
+        "url": "https://taxva.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No real property auction is scheduled on the county page; it says notice is given only if a public auction is scheduled.",
+      "how_to_bid": "The county page says sales are handled by its contracted law firm, Taxing Authority Consulting Services PC, with oversight from the Department of Tax Administration, and that potential bidders register and ask bidder list questions through the firm's website. Deposit, location and bidding steps are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.fairfaxcounty.gov/taxes/pay/auction-real-property",
+          "read_on": "2026-10-27",
+          "terms": "Fairfax County 'Privacy Policy & Copyright' page shows a copyright notice ('Official site of the County of Fairfax, Virginia, (c) Copyright 2025') and link/accuracy disclaimers; no clause forbidding reuse, redistribution or commercial use found.",
+          "terms_url": "https://www.fairfaxcounty.gov/topics/copyright-privacy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.fairfaxcounty.gov/taxes/pay/auction-real-property",
+          "quote": "You will only be notified in the event a public auction is scheduled."
+        },
+        {
+          "url": "https://www.fairfaxcounty.gov/taxes/pay/auction-real-property",
+          "quote": "Taxing Authority Consulting Services PC"
+        }
+      ]
+    },
+    {
+      "county": "Prince William",
+      "slug": "prince-william",
+      "office": "Prince William County Office of the County Attorney (sales conducted by an outside attorney under contract)",
+      "phone": "not stated on the auction page (it lists the county's collection firm, Taxing Authority Consulting Services, at (703) 880-1078)",
+      "address": "Auctions held at the county courthouse, 9311 Lee Avenue, Manassas, Virginia; office address not stated on the auction page",
+      "website": "https://pwcva.gov/department/office-county-attorney/foreclosure-auction-list",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date is posted. The County Attorney's Office sends a flier listing properties before each auction to those on its mailing list.",
+      "how_to_bid": "Auctions are held at the county courthouse at 9311 Lee Avenue, Manassas. Payment terms are usually 10 percent in cash or certified funds on the date of the auction, with the balance in cash or certified funds within 30 days of court confirmation. The court-appointed Commissioner of Sale presents the bid to the Circuit Court for confirmation. Registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://pwcva.gov/department/office-county-attorney/foreclosure-auction-list",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use page found; the county Privacy Policy's 'Legal Notice/Disclaimer' covers only external links and accuracy of linked information. No clause forbidding reuse, redistribution or commercial use found.",
+          "terms_url": "https://pwcva.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://pwcva.gov/department/office-county-attorney/foreclosure-auction-list",
+          "quote": "the auction is held at the County's courthouse located at 9311 Lee Avenue in Manassas, Virginia"
+        },
+        {
+          "url": "https://pwcva.gov/department/office-county-attorney/foreclosure-auction-list",
+          "quote": "The payment terms of the sale are usually 10 percent in cash or certified funds on the date of the auction"
+        },
+        {
+          "url": "https://pwcva.gov/department/office-county-attorney/foreclosure-auction-list",
+          "quote": "The County contracts with an outside attorney to conduct its judicial sales."
+        }
+      ]
+    },
+    {
+      "county": "Loudoun",
+      "slug": "loudoun",
+      "office": "Loudoun County Office of the County Attorney, Special Commissioner of Sale",
+      "phone": "703-777-0307",
+      "address": "1 Harrison Street, SE, Fifth Floor, MSC Number 06, Leesburg, Virginia 20175; auctions at the front door of the Loudoun County Courthouse, Leesburg",
+      "website": "https://www.loudoun.gov/1918/Tax-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The auction scheduled for Friday, October 23, 2026 was postponed; no new date is posted yet.",
+      "how_to_bid": "Bid in person at the live auction at the front door of the Loudoun County Courthouse in Leesburg, or submit a written bid before the auction with the deposit and required certification (bid form from the Special Commissioner). Register with county staff before bidding starts, show proof of funds for each parcel's advertised minimum deposit, and certify you own no Loudoun property with delinquent taxes or violations. Sales are subject to Circuit Court confirmation; the balance is due within 30 days after confirmation.",
+      "sources": [
+        {
+          "url": "https://www.loudoun.gov/1918/Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Footer 'Privacy Policy/Copyright Notices' page has only a link disclaimer and public-records note; no clause forbidding reuse, redistribution or commercial use found.",
+          "terms_url": "https://www.loudoun.gov/904/Privacy-Practices-Security-Policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.loudoun.gov/1918/Tax-Sales",
+          "quote": "originally scheduled for Friday, October 23, 2026, has been postponed."
+        },
+        {
+          "url": "https://www.loudoun.gov/1918/Tax-Sales",
+          "quote": "The auction is held at the front door of the Loudoun County Courthouse in Leesburg, Virginia."
+        }
+      ]
+    }
+  ]
+}

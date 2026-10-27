@@ -31,7 +31,7 @@ export default function () {
   const sales = flattenSales(states);
   return KINDS.map((k) => ({
     ...k,
-    states: states.filter((st) => k.stateTypes.includes(st.sale_type)),
+    states: states.filter((st) => st.counties.length && k.stateTypes.includes(st.sale_type)),
     sales: sales.filter((s) => k.saleTypes.includes(s.saleType)),
   }));
 }

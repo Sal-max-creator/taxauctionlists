@@ -9,7 +9,7 @@ permalink: /states/
 {% for st in states %}
   <a class="card" href="{{ st.url }}">
     <h3>{{ st.name }}</h3>
-    <p>{{ st.sale_type | capitalize }} state · {{ st.counties.length }} counties · {{ st.upcomingCount }} dated sales</p>
+    <p>{{ st.sale_type | capitalize }} state · {{ st.placesText }}{% if st.counties.length %} · {{ st.upcomingCount }} dated sales{% endif %}</p>
   </a>
 {% endfor %}
 </div>

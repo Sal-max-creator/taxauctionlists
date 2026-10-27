@@ -23,7 +23,7 @@ eleventyComputed:
 {% for st in k.states %}
   <a class="card" href="{{ st.url }}">
     <h3>{{ st.name }}</h3>
-    <p>{{ st.sale_type | capitalize }} state · {{ st.counties.length }} tracked · {{ st.upcomingCount }} dated sales</p>
+    <p>{{ st.sale_type | capitalize }} state · {{ st.placesText }} · {{ st.upcomingCount }} dated sales</p>
   </a>
 {% endfor %}
 </div>

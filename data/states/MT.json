@@ -47,6 +47,77 @@
   ],
   "counties": [
     {
+      "county": "Butte-Silver Bow",
+      "slug": "butte-silver-bow",
+      "office": "Butte-Silver Bow Treasurer (Administrative Services)",
+      "phone": "406-497-6200",
+      "address": "155 W Granite Street, Butte, MT 59701",
+      "website": "https://www.bsbmt.gov/2090/Delinquent-Tax-Process",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No assignment dates posted; the Treasurer takes tax lien assignments except in November and May, resuming once current postmarked mail is processed.",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs. Butte-Silver Bow's page gives the fees: a $65.00 assignment fee, a $25.00 Treasurer's cost for a tax deed and $25.00 for redemption of an assignment. The office does not handle tax lien assignments in November and May. Interested buyers must do their own research; the county gives no legal advice. Lottery or priority rules for competing buyers are not stated; contact the Treasurer.",
+      "sources": [
+        {
+          "url": "https://www.bsbmt.gov/2090/Delinquent-Tax-Process",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page only: 'All content © 2006-2026 City and County of Butte-Silver Bow, MT and its representatives. All rights reserved.' No terms of use or disclaimer link; no clause banning reuse found.",
+          "terms_url": "https://www.bsbmt.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bsbmt.gov/2090/Delinquent-Tax-Process",
+          "quote": "Fees associated with the purchase of Tax Liens are as follows:"
+        },
+        {
+          "url": "https://www.bsbmt.gov/2090/Delinquent-Tax-Process",
+          "quote": "does not conduct Tax Lien Assignment business during the tax season months of November and May of each year."
+        }
+      ],
+      "notes": {
+        "name_note": "Consolidated City and County of Butte-Silver Bow; the old co.silverbow.mt.us address redirects to bsbmt.gov."
+      }
+    },
+    {
+      "county": "Cascade",
+      "slug": "cascade",
+      "office": "Cascade County Treasurer's Office (Property Tax)",
+      "phone": "406-454-6850",
+      "address": "121 4th Street N, Number 1A, Great Falls, MT 59401",
+      "website": "https://www.cascadecountymt.gov/274/Property-Tax",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No assignment dates or procedure posted; the Property Tax page says to contact the office for assignment and tax deed information.",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs. Cascade County posts no assignment procedure, fees or lottery rules online: its Property Tax page says to call 406-454-6850 or email the office for assignment and tax deed information. A blank Notice of Pending Assignment form (for the buyer to send the owner) is in the county's document center.",
+      "sources": [
+        {
+          "url": "https://www.cascadecountymt.gov/274/Property-Tax",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use is an accuracy disclaimer only ('Cascade County makes no claims, promises, or guarantees about the accuracy, completeness, or adequacy'); Copyright Notices: 'All content © 2006-2026 Cascade County, MT and its representatives. All rights reserved.' No reuse restriction found.",
+          "terms_url": "https://www.cascadecountymt.gov/486/Terms-of-Use"
+        },
+        {
+          "url": "https://www.cascadecountymt.gov/DocumentCenter/View/578/Notice-of-Pending-Assignment-Letter-PDF",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; see Terms of Use and Copyright Notices (https://www.cascadecountymt.gov/copyright).",
+          "terms_url": "https://www.cascadecountymt.gov/486/Terms-of-Use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cascadecountymt.gov/274/Property-Tax",
+          "quote": "For Assignment and Tax Deed information, please contact our office at 406-454-6850 or"
+        }
+      ]
+    },
+    {
       "county": "Flathead",
       "slug": "flathead",
       "office": "Flathead County Treasurer's Office",
@@ -115,6 +186,72 @@
         {
           "url": "https://www.gallatinmt.gov/node/1128",
           "quote": "the Gallatin County Treasurer will use a lottery system to award the assignments"
+        }
+      ]
+    },
+    {
+      "county": "Lake",
+      "slug": "lake",
+      "office": "Lake County Treasurer",
+      "phone": "not stated",
+      "address": "106 4th Avenue E, Room 210, Polson, MT 59860",
+      "website": "https://www.lakemt.gov/274/Treasurer",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No assignment dates posted; the Treasurer's page still shows the 2025 lien-attachment notice (liens attached August 1, 2025).",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs. Lake County's notice says that once a tax lien is attached it may be assigned to a third party, and that the complete delinquent list is on file in the Treasurer's office and open to public inspection. Assignment procedure, fees and lottery rules are not stated; contact the Treasurer.",
+      "sources": [
+        {
+          "url": "https://www.lakemt.gov/274/Treasurer",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page only: 'All content © 2006-2026 Lake County, MT and its representatives. All rights reserved.' No terms of use or disclaimer link; no clause banning reuse found.",
+          "terms_url": "https://www.lakemt.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lakemt.gov/274/Treasurer",
+          "quote": "a tax lien will be attached and may be assigned to a third party."
+        },
+        {
+          "url": "https://www.lakemt.gov/274/Treasurer",
+          "quote": "is on file in the office of the Lake County Treasurer"
+        }
+      ]
+    },
+    {
+      "county": "Lewis and Clark",
+      "slug": "lewis-and-clark",
+      "office": "Lewis and Clark County Treasurer (Property Tax Department)",
+      "phone": "not stated (888-272-9829 is the pay-by-phone line)",
+      "address": "316 North Park Avenue, Room 113, Helena, MT 59623",
+      "website": "https://lccountymt.gov/Government/Treasurer-Clerk-and-Recorder/Tax-Information",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No assignment dates posted; the Treasurer takes tax sale assignments except in November and May, resuming once current postmarked mail is processed.",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs. The Lewis and Clark County Treasurer does not handle tax sale assignment business in November and May. A Notice of Pending Assignment form is posted on the county's Property Tax page. Buyers must research the delinquent tax process themselves before buying any assignment; the county gives no legal advice. Fees and lottery rules are not stated; contact the Treasurer.",
+      "sources": [
+        {
+          "url": "https://lccountymt.gov/Government/Treasurer-Clerk-and-Recorder/Tax-Information",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer and Privacy Statement is an accuracy disclaimer only ('Lewis and Clark County does not warrant the accuracy, reliability, or timeliness of any information in this website'); no copyright or reuse clause. No reuse restriction found.",
+          "terms_url": "https://www.lccountymt.gov/Site-Footer/Sub-Footer-Links/Disclaimer-Copyright/Disclaimer-and-Privacy-Statement"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lccountymt.gov/Government/Treasurer-Clerk-and-Recorder/Tax-Information",
+          "quote": "The Lewis and Clark County Treasurer's office does not conduct tax sale assignment business"
+        },
+        {
+          "url": "https://lccountymt.gov/Government/Treasurer-Clerk-and-Recorder/Tax-Information",
+          "quote": "Lewis and Clark County will not provide legal advice of any kind."
         }
       ]
     },

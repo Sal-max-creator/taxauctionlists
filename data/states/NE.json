@@ -180,6 +180,85 @@
           "quote": "A $25.00 registration fee must accompany a Scotts Bluff County Tax Sale Registration Form."
         }
       ]
+    },
+    {
+      "county": "Platte",
+      "slug": "platte",
+      "office": "Platte County Treasurer's Office",
+      "phone": "402-563-4913",
+      "address": "2610 14th Street Columbus, NE 68601",
+      "website": "https://plattecounty.ne.gov/treasurer/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Platte County Tax Sale is held the first Monday in March each year",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was March 2, 2026 at 9:00 a.m. at the Platte County Courthouse Community room, 2610 14 St, Columbus (past).",
+      "how_to_bid": "Per the 2026 tax sale information sheet: pre-registration is mandatory with a $25.00 non-refundable application fee, due by 5 p.m. the Friday before the sale; submit it to the Treasurer's Office with a Form W-9 and a signed blank check. The sale is in person in a round robin format; no telephone, fax or online purchases are allowed, and one person may not represent more than one company. Each certificate carries a $25 fee (not refundable on redemption) plus a $20 advertising fee. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://plattecounty.ne.gov/treasurer/",
+          "read_on": "2026-10-27",
+          "terms": "Only footer policy link is a Privacy Policy covering personal data (comments, cookies, embedded content); it says nothing on reuse of site content. No disclaimer, terms or copyright notice found.",
+          "terms_url": "https://plattecounty.ne.gov/privacy-policy"
+        },
+        {
+          "url": "https://plattecounty.ne.gov/wp-content/uploads/2026/01/Tax-Sale-Information-2026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; privacy policy only, no reuse clause.",
+          "terms_url": "https://plattecounty.ne.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://plattecounty.ne.gov/wp-content/uploads/2026/01/Tax-Sale-Information-2026.pdf",
+          "quote": "Platte County Tax Sale is held the first Monday in March each year"
+        },
+        {
+          "url": "https://plattecounty.ne.gov/wp-content/uploads/2026/01/Tax-Sale-Information-2026.pdf",
+          "quote": "Pre-registration is mandatory along with a $25.00 application fee."
+        },
+        {
+          "url": "https://plattecounty.ne.gov/wp-content/uploads/2026/01/Tax-Sale-Information-2026.pdf",
+          "quote": "No telephone, fax or online purchases are allowed."
+        }
+      ],
+      "notes": {
+        "mailing_address": "The 2026 information sheet gives the mailing address P.O. Box 967, Columbus, NE 68602."
+      }
+    },
+    {
+      "county": "Lincoln",
+      "slug": "lincoln",
+      "office": "Lincoln County Treasurer",
+      "phone": "(308) 534-4350 ext. 4125",
+      "address": "301 North Jeffers, Room 102, North Platte, NE 69101",
+      "website": "https://lincolncountyne.gov/treasurer/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "held on the first Monday in March beginning at 9:00 a.m.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The page describes the sale at the Lincoln County Courthouse, 301 N Jeffers, District Court Room (third floor); the 2026 pre-registration deadline it lists (February 20, 2026) is past.",
+      "how_to_bid": "Pre-registration is required with a $25.00 nonrefundable application fee; registration fees are not accepted on the day of the sale. Return the buyer registration form, a Form W-9 and a signed blank check before the sale. On sale day draw a number on the first floor and sign in on the third floor; doors open at 8:15 a.m. Bidding is round robin in descending order of amount; a representative absent when called is treated as passing, and one person may not represent more than one company. Each certificate carries a $25.00 fee that is not refunded on redemption. The delinquent list can be bought for $25.00 until 5:00 p.m. the Friday before the sale. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://lincolncountyne.gov/treasurer/",
+          "read_on": "2026-10-27",
+          "terms": "Legal page holds only a copyright line: '© Copyright – Lincoln County, Nebraska'. No clause on reuse, reproduction or redistribution found.",
+          "terms_url": "https://lincolncountyne.gov/legal/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lincolncountyne.gov/treasurer/",
+          "quote": "held on the first Monday in March beginning at 9:00 a.m."
+        },
+        {
+          "url": "https://lincolncountyne.gov/treasurer/",
+          "quote": "We will not accept registration fees the day of the sale."
+        }
+      ]
     }
   ]
 }

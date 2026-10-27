@@ -32,6 +32,7 @@ export const LINK_ONLY_HOSTS = [
   "vaauctionco.com",
   "whiteoakhomesks.com",
   "hibid.com",
+  "iowataxauction.com",
 ];
 
 export function isLinkOnly(url) {

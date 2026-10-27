@@ -172,6 +172,133 @@
           "quote": "If the lien remains unpaid for four years, the lienholder can then apply for a tax deed to assume ownership."
         }
       ]
+    },
+    {
+      "county": "Park",
+      "slug": "park",
+      "office": "Park County Treasurer's Office",
+      "phone": "(307) 527-8630",
+      "address": "not stated",
+      "website": "https://parkcounty-wy.gov/county-treasurer/property-tax/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 sale date not posted; the Treasurer's page links only the 2025 property tax sale notice.",
+      "how_to_bid": "Taxes still unpaid on May 11 are certified delinquent and the Treasurer demands payment plus 18% per annum interest; the delinquent notice is mailed on or before May 21. If still unpaid, the delinquent taxes are published three times and then sold at the tax sale. Registration, location, sale method and fees are not stated on the page; contact the Treasurer's Office.",
+      "sources": [
+        {
+          "url": "https://parkcounty-wy.gov/county-treasurer/property-tax/",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer shows 'Copyright © 2026 Park County Government' with Contact Us and About Us links; no disclaimer, terms or privacy link).",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://parkcounty-wy.gov/county-treasurer/property-tax/",
+          "quote": "If unpaid, the delinquent taxes will be published three times and the taxes will subsequently be sold at the tax sale."
+        },
+        {
+          "url": "https://parkcounty-wy.gov/county-treasurer/property-tax/",
+          "quote": "The delinquent notice (demand for payment) is mailed from this office on or before May 21."
+        }
+      ]
+    },
+    {
+      "county": "Teton",
+      "slug": "teton",
+      "office": "Teton County Treasurer",
+      "phone": "not stated (fax 307-739-8681)",
+      "address": "County Admin Building, 200 S Willow Street, Jackson, WY 83001 (mail: P.O. Box 1727, Jackson, WY 83001-1727)",
+      "website": "https://tetonwyo.org/439/Delinquent-Tax-Sale-Information-Provisio",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Teton County Treasurer annual delinquent tax sale is generally held during the first two weeks of August.",
+      "sales": [
+        {
+          "date": "2027-08-04",
+          "time": "9:00 AM",
+          "label": "Annual delinquent tax sale (2026 tax year)",
+          "deposit": "None stated; payment by cash, bank check or Discover, American Express, MasterCard or Visa (credit cards carry a convenience fee); checks and cards accepted at the sale, cash only at the office",
+          "registration_deadline": "Pre-registration required at the County Treasurer Office, 200 South Willow St, 9 a.m. to 4:30 p.m.; no registration on sale morning. The page lists the days as 'Monday, August 2, 2027 and Tuesday, August 5, 2027' (August 5 as printed falls after the sale; confirm with the office).",
+          "note": "Held at the Teton County Fairgrounds Community Building, 305 W. Snow King, Jackson (the page flags the venue). Late arrivals may not take part; only pre-registered people present may participate, no representatives or anyone under 18. Properties are published in the Jackson Hole News and Guide for three consecutive weeks, four weeks before the sale.",
+          "source_url": "https://tetonwyo.org/439/Delinquent-Tax-Sale-Information-Provisio",
+          "quote": "For the 2026 tax year, the sale will be Wednesday, August 4, 2027."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Pre-register in person at the Treasurer's office and get an assigned number; you need it to enter the sale. Numbers are drawn at random by computer software, and the person whose number is drawn may complete the purchase of the tax lien for the parcel. The name on the pre-registration form must match the name on the payment; no realty, company or corporate names on checks or cards. The buyer receives a certificate of purchase, not title. Property that does not sell is bid in for the County. Redemption and other rules are in Wyoming Statutes §39-13-108(e).",
+      "sources": [
+        {
+          "url": "https://tetonwyo.org/439/Delinquent-Tax-Sale-Information-Provisio",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page only: 'All content © 2006-2026 Teton County, WY and its representatives. All rights reserved.' Footer also links a Privacy Policy (not read); no terms or disclaimer link. No clause banning reuse found.",
+          "terms_url": "https://tetonwyo.org/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://tetonwyo.org/439/Delinquent-Tax-Sale-Information-Provisio",
+          "quote": "The numbers shall be randomly drawn using a computer software program."
+        },
+        {
+          "url": "https://tetonwyo.org/439/Delinquent-Tax-Sale-Information-Provisio",
+          "quote": "The purchaser at a tax sale receives a certificate of purchase, not title to the real property identified."
+        },
+        {
+          "url": "https://tetonwyo.org/439/Delinquent-Tax-Sale-Information-Provisio",
+          "quote": "There will be no registration the morning of tax sale."
+        }
+      ],
+      "notes": {
+        "date_note": "The page's pre-registration dates are inconsistent ('Tuesday, August 5, 2027' is a Thursday and after the August 4 sale), so no register_by is set."
+      }
+    },
+    {
+      "county": "Uinta",
+      "slug": "uinta",
+      "office": "Uinta County Treasurer",
+      "phone": "(307) 783-0395",
+      "address": "Uinta County Complex, 225 9th Street, Evanston, WY 82930 (mail: PO Box 1530, Evanston, WY 82931)",
+      "website": "https://uintacountywy.gov/79/Tax-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "it is normally the third Wednesday in September.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the 2026 sale was September 16, 2026 (past).",
+      "how_to_bid": "Register on sale morning from 8:00 to 9:00 AM at the Uinta County Complex, 225 9th St. (new participants bring a W9 and a registration form); you must be present and over 18. It is a lottery: bidder numbers are drawn electronically, an equal number of times, and the person drawn may pay the advertised amount (delinquent tax, advertising fees and a CP fee) for a Certificate of Purchase, or decline. Check or cash only. The owner may redeem within four years by paying the amount paid at the sale plus 3% and 15% interest per year. The brochure says a CP holder may apply for a tax deed if the account stays unpaid over 5 years and loses that right six years after the sale; the tax deed fee is $25.00 plus recording fees. Reassignment costs $20.00 and is not allowed in the first 30 days.",
+      "sources": [
+        {
+          "url": "https://uintacountywy.gov/79/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page only: 'All content © 2006-2026 Uinta County and its representatives. All rights reserved.' Footer also links a Privacy page (not read); no terms or disclaimer link. No clause banning reuse found.",
+          "terms_url": "https://uintacountywy.gov/site/copyright"
+        },
+        {
+          "url": "https://www.uintacountywy.gov/DocumentCenter/View/7492/Tax-Sale-Brochure",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; see Copyright Notices.",
+          "terms_url": "https://uintacountywy.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.uintacountywy.gov/DocumentCenter/View/7492/Tax-Sale-Brochure",
+          "quote": "The Uinta County Tax Sale is a lottery system, which does not allow participants to choose a specific parcel."
+        },
+        {
+          "url": "https://uintacountywy.gov/79/Tax-Sale",
+          "quote": "Registration will be 8:00 AM to 9:00 AM. All participants must be registered prior to 9:00 AM."
+        },
+        {
+          "url": "https://www.uintacountywy.gov/DocumentCenter/View/7492/Tax-Sale-Brochure",
+          "quote": "Property sold at the Tax Sale may be redeemed by the legal owner within four (4) years after the date of the sale."
+        }
+      ]
     }
   ]
 }

@@ -2,7 +2,7 @@
   "state": "MS",
   "name": "Mississippi",
   "sale_type": "lien",
-  "overview": "Mississippi sells tax liens, not the land itself, on property with unpaid ad valorem taxes. Each county tax collector holds an annual tax sale under Mississippi Code Sections 27-41-49 to 27-41-89; DeSoto County says that, like most counties, it holds the sale on the last Monday in August each year. Several large counties, including DeSoto and Jackson, now run the sale online through GovEase. After the sale the owner has two years from the purchase date to redeem by paying the taxes plus interest of 1.5% per month; if the property is not redeemed within two years, the purchaser can acquire it.",
+  "overview": "Mississippi sells tax liens, not the land itself, on property with unpaid ad valorem taxes. Each county tax collector holds an annual tax sale under Mississippi Code Sections 27-41-49 to 27-41-89; DeSoto County says that, like most counties, it holds the sale on the last Monday in August each year. Several large counties, including DeSoto and Jackson, now run the sale online through GovEase. After the sale the owner has two years from the purchase date to redeem by paying the taxes plus interest of 1.5% per month; if the property is not redeemed within two years, the purchaser can acquire it. Each year the county chancery clerks send the Secretary of State a list of property whose taxes went unpaid and whose owner did not redeem in time, and those properties go into the state's tax-forfeited inventory for sale.",
   "overview_sources": [
     {
       "url": "https://desotocountyms.gov/508/Tax-Sale",
@@ -27,6 +27,11 @@
     {
       "url": "https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes",
       "quote": "the owner of the property has two years from the purchase date to pay the taxes plus the interest (1.5% per month)",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.sos.ms.gov/public-lands/tax-forfeited-lands/tax-forfeited-lands-faqs",
+      "quote": "The properties on these lists are entered into the state's tax-forfeited inventory and offered for sale.",
       "read_on": "2026-10-27"
     }
   ],

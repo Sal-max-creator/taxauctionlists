@@ -296,6 +296,83 @@
           "quote": "The next Tax Sale will be in May of 2027."
         }
       ]
+    },
+    {
+      "county": "Sanpete",
+      "slug": "sanpete",
+      "office": "Sanpete County Auditor",
+      "phone": "435-835-2142",
+      "address": "160 North Main, Suite 205, Manti, UT 84642",
+      "website": "https://www.sanpetecountyutah.gov/300/5-Year-Delinquent-Tax-Sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's page shows the 2026 Delinquent Tax Sale was held May 21, 2026 at 10 am on the Public Surplus website only.",
+      "how_to_bid": "Bidders must register on the Public Surplus website before the sale. The list of delinquent properties is published four weeks before the sale and updated as properties are redeemed. An owner's property can be redeemed by paying the Sanpete County Treasurer all delinquent taxes, interest, penalties and administrative costs before the sale starts. Deposit and payment terms are not stated on the county's page.",
+      "sources": [
+        {
+          "url": "https://www.sanpetecountyutah.gov/300/5-Year-Delinquent-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Sanpete County, UT and its representatives. All rights reserved.' No statement on reuse or redistribution; no ban on reusing public information found.",
+          "terms_url": "https://www.sanpetecountyutah.gov/copyright"
+        },
+        {
+          "url": "https://www.sanpetecountyutah.gov/auditor.html",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All rights reserved.' only; no reuse restriction found.",
+          "terms_url": "https://www.sanpetecountyutah.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sanpetecountyutah.gov/300/5-Year-Delinquent-Tax-Sale",
+          "quote": "The 2026 Delinquent Tax Sale will be held on May 21, 2026, at 10 am on the Public Surplus Website only."
+        }
+      ]
+    },
+    {
+      "county": "Wasatch",
+      "slug": "wasatch",
+      "office": "Wasatch County Clerk-Auditor's Office",
+      "phone": "(435) 657-3190",
+      "address": "25 North Main, Heber City, UT 84032",
+      "website": "https://www.wasatchcounty.gov/184/Property-Tax-Sale-Information",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's page lists the 2026 tax sale date as May 28, 2026.",
+      "how_to_bid": "All bidders must preregister before the sale and get a bidder number; online sales also require registration with the auction company, and a bid deposit may be required. Bidding starts at the minimum bid (taxes, penalties, interest and administrative costs); in-person bids rise in $100 increments. Only cash or certified funds are accepted; for in-person sales full payment is due to the county treasurer before 4 pm the day of the sale. A $400 advertising and noticing fee applies per parcel. Bids are conditional until the County Council accepts them.",
+      "sources": [
+        {
+          "url": "https://www.wasatchcounty.gov/184/Property-Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or copyright page found in the footer; the Privacy Policy covers only personal data collection and has no copying or reuse restriction.",
+          "terms_url": "https://www.wasatchcounty.gov/site/privacy"
+        },
+        {
+          "url": "https://wasatchcounty.gov/property-tax-sale-information",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy only (personal data); no reuse restriction found.",
+          "terms_url": "https://www.wasatchcounty.gov/site/privacy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wasatchcounty.gov/184/Property-Tax-Sale-Information",
+          "quote": "2026 Tax Sale Date: May 28, 2026"
+        },
+        {
+          "url": "https://www.wasatchcounty.gov/184/Property-Tax-Sale-Information",
+          "quote": "Only cash or certified funds will be accepted in payment of property."
+        }
+      ]
     }
   ]
 }

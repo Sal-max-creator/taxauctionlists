@@ -281,6 +281,121 @@
           "quote": "In the Commissioners Meeting Room located on the second floor of the Humboldt County Courthouse"
         }
       ]
+    },
+    {
+      "county": "Douglas",
+      "slug": "douglas",
+      "office": "Douglas County Clerk-Treasurer",
+      "phone": "(775) 782-9017",
+      "address": "1616 8th St., PO Box 218, Minden, NV 89423",
+      "website": "https://cltr.douglascountynv.gov/treasury-taxes/delinquent-property-list-tax-sales/delinquent-property-tax-sale-faqs",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/storefront/DouglasNVMay26"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The Clerk-Treasurer says it holds tax sales/trustee auctions each year as needed; its FAQ page still links to the May 2026 auction on Bid4Assets.",
+      "how_to_bid": "The county's FAQ page links to the current auction on Bid4Assets and gives no deposit, registration, payment or bidding details on its own pages; contact the Clerk-Treasurer's office at (775) 782-9017 for details.",
+      "sources": [
+        {
+          "url": "https://cltr.douglascountynv.gov/treasury-taxes/delinquent-property-list-tax-sales/delinquent-property-tax-sale-faqs",
+          "read_on": "2026-10-27",
+          "terms": "Office Disclaimer page: 'the County of Douglas gives no warranty, expressed or implied, as to data quality, content, accuracy, reliability or completeness'. No statement on reuse or redistribution; footer shows only '© PowerSchool Corporation' and a 'Powered by Civiclive' credit, with no terms link.",
+          "terms_url": "https://cltr.douglascountynv.gov/online_payments/office-disclaimer"
+        },
+        {
+          "url": "https://cltr.douglascountynv.gov/treasury_taxes/tax_sales",
+          "read_on": "2026-10-27",
+          "terms": "Office Disclaimer page: no warranty as to accuracy; no statement on reuse or redistribution.",
+          "terms_url": "https://cltr.douglascountynv.gov/online_payments/office-disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cltr.douglascountynv.gov/treasury-taxes/delinquent-property-list-tax-sales/delinquent-property-tax-sale-faqs",
+          "quote": "The Douglas County Treasurer's office conducts Tax sales/Trustee auctions each year as needed."
+        }
+      ]
+    },
+    {
+      "county": "Pershing",
+      "slug": "pershing",
+      "office": "Pershing County Clerk-Treasurer's Office",
+      "phone": "not stated",
+      "address": "Pershing County Administrative Building, 398 Main Street, Lovelock, NV (mailing: Pershing County Treasurer, P.O. Box 820, Lovelock, NV 89419)",
+      "website": "https://www.pershingcountynv.gov/government/clerk-treasurer/tax_sales.php",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/pershing"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. Trust property sales are scheduled as needed; the county's page still shows the online sale of November 19 to 21, 2025, and says the next date will be published on the page once set and approved by the County Commissioners.",
+      "how_to_bid": "The last sale was held online only on Bid4Assets, with no in-person bidding. To get notice of the next sale, the page asks people to join the Clerk-Treasurer's mailing list by email (address on the county page). Deposit, registration and payment terms are not stated on the county's page.",
+      "sources": [
+        {
+          "url": "https://www.pershingcountynv.gov/government/clerk-treasurer/tax_sales.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found: footer has only '© 2025| Pershing County NV' and a 'Powered by revize' credit linking to the vendor's home page; no terms, disclaimer, privacy or legal link.",
+          "terms_url": "https://www.pershingcountynv.gov/government/clerk-treasurer/tax_sales.php"
+        },
+        {
+          "url": "https://www.pershingcountynv.gov/government/clerk-treasurer/making_payments.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found (same site footer: copyright line only).",
+          "terms_url": "https://www.pershingcountynv.gov/government/clerk-treasurer/making_payments.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pershingcountynv.gov/government/clerk-treasurer/tax_sales.php",
+          "quote": "No in person bidding will take place."
+        }
+      ]
+    },
+    {
+      "county": "White Pine",
+      "slug": "white-pine",
+      "office": "White Pine County Treasurer",
+      "phone": "775-293-6506",
+      "address": "801 Clark Street, Suite #2, Ely, NV 89301",
+      "website": "https://www.whitepinecounty.net/DocumentCenter/View/11058/PROPERTY-TAX-SALE-INFORMATION",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's 2026 sale notice set the auction for 10 a.m. on Friday, May 29, 2026, at the front door of the White Pine County Courthouse, 801 Clark Street, Ely.",
+      "how_to_bid": "Bidders sign up at the Treasurer's Office at least fifteen minutes before the auction and get a bidder number; there is no charge. Mail-in bids with a cashier's check for the bid amount are accepted until 5 p.m. the last working day before the sale and become the opening bid if they meet the minimum. Payment in full (cash, debit or credit card with a 2.5% fee, money order or cashier's check) is due by 3 p.m. the next business day. Bids below the minimum bid, which includes the cost of the sale, may be refused. The sale does not guarantee title; a quitclaim deed is issued after recording.",
+      "sources": [
+        {
+          "url": "https://www.whitepinecounty.net/DocumentCenter/View/11058/PROPERTY-TAX-SALE-INFORMATION",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 White Pine County, NV and its representatives. All rights reserved.' No statement on reuse or redistribution; no ban on reusing public information found.",
+          "terms_url": "https://www.whitepinecounty.net/site/copyright"
+        },
+        {
+          "url": "https://whitepinecounty.net/DocumentCenter/View/13604/AD-FOR-SALE-OF-COUNTY-PROPERTY-2026-Updated-5192026-1",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 White Pine County, NV and its representatives. All rights reserved.' No statement on reuse or redistribution.",
+          "terms_url": "https://www.whitepinecounty.net/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://whitepinecounty.net/DocumentCenter/View/13604/AD-FOR-SALE-OF-COUNTY-PROPERTY-2026-Updated-5192026-1",
+          "quote": "at the front door of the White Pine County Courthouse, located at 801 Clark Street Ely, NV,"
+        },
+        {
+          "url": "https://www.whitepinecounty.net/DocumentCenter/View/11058/PROPERTY-TAX-SALE-INFORMATION",
+          "quote": "Payment in full is required by 3pm on the next business day after the sale."
+        }
+      ]
     }
   ]
 }

@@ -72,6 +72,143 @@
       "notes": {
         "scope": "This entry covers the tax-deeded property listings on Milwaukee County's Economic Development pages. Sheriff sales on the County Treasurer's page are mortgage foreclosures, not tax sales."
       }
+    },
+    {
+      "county": "Racine",
+      "slug": "racine",
+      "office": "Racine County Treasurer",
+      "phone": "(262) 636-3339",
+      "address": "County Courthouse, 730 Wisconsin Ave, Racine, WI 53403-1274 (Treasurer's Office, 1st floor north end)",
+      "website": "https://www.racinecounty.gov/home/showpublisheddocument/49284/638670826797430000",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale found. The county's In-Rem Sale Terms of Sale (sealed bid) give no sale date or bid-opening date; we found no county page listing a current or upcoming sale.",
+      "how_to_bid": "Sealed bids: put a completed Sealed Bid Form and a 20% deposit (money order, certified check or cashier's check payable to the Racine County Treasurer; no personal or business checks) in an envelope marked \"sealed bid\". Bids must be physically received in the Treasurer's Office by 11:00 am on the day of the bid opening.",
+      "sources": [
+        {
+          "url": "https://www.racinecounty.gov/home/showpublisheddocument/49284/638670826797430000",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.racinecounty.gov/home/showpublisheddocument/49284/638670826797430000",
+          "quote": "IN-REM SALE TERMS OF SALE – SEALED BID SALE"
+        },
+        {
+          "url": "https://www.racinecounty.gov/home/showpublisheddocument/49284/638670826797430000",
+          "quote": "Bids must be physically received in the Treasurer's Office by 11:00 am."
+        }
+      ],
+      "notes": {
+        "scope": "Based on the Treasurer's undated In-Rem Sale Terms of Sale document; no HTML sale page was found on the county site."
+      }
+    },
+    {
+      "county": "Winnebago",
+      "slug": "winnebago",
+      "office": "Winnebago County Treasurer",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://www.winnebagocountywi.gov/sites/default/files/uploaded-files/NEWSPAPER%20NOTICE_1.pdf",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Wisconsin Surplus",
+        "url": "https://www.wisconsinsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2026 or later sale found. The most recent county notice we found was the online Public Land Sale that began April 14, 2025 and closed May 12, 2025.",
+      "how_to_bid": "Online auction of properties acquired by in rem action under Wis. Stat. 75.521, on Wisconsin Surplus with staggered end times. Bids below the minimum bid are not accepted; properties are sold as is. The notice says to visit the auction site for more information and to register as a bidder.",
+      "sources": [
+        {
+          "url": "https://www.winnebagocountywi.gov/sites/default/files/uploaded-files/NEWSPAPER%20NOTICE_1.pdf",
+          "read_on": "2026-10-27",
+          "terms": "County 'Disclaimer' page covers GIS (WINGS) data: other uses are the user's responsibility and the county disclaims liability; no clause forbidding reuse, redistribution or commercial use found.",
+          "terms_url": "https://www.winnebagocountywi.gov/408/Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.winnebagocountywi.gov/sites/default/files/uploaded-files/NEWSPAPER%20NOTICE_1.pdf",
+          "quote": "WINNEBAGO COUNTY TREASURER PUBLIC LAND SALE"
+        },
+        {
+          "url": "https://www.winnebagocountywi.gov/sites/default/files/uploaded-files/NEWSPAPER%20NOTICE_1.pdf",
+          "quote": "Closing May 12, 2025 – 10:00 a.m. (Staggered end times)"
+        }
+      ]
+    },
+    {
+      "county": "Marathon",
+      "slug": "marathon",
+      "office": "Marathon County Clerk (tax deed property sales)",
+      "phone": "715-261-1500",
+      "address": "not stated",
+      "website": "https://www.marathoncounty.gov/services/tax-deed-property",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Wisconsin Surplus",
+        "url": "https://www.wisconsinsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted on the county's Tax Deed Property page.",
+      "how_to_bid": "Tax deed properties are offered by auction at a price not less than the appraised or set value. All bids must be placed using the listing on the Wisconsin Surplus Auction site.",
+      "sources": [
+        {
+          "url": "https://www.marathoncounty.gov/services/tax-deed-property",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.marathoncounty.gov/services/tax-deed-property",
+          "quote": "offered for sale by auction at a price not less than the appraised value or set value."
+        },
+        {
+          "url": "https://www.marathoncounty.gov/services/tax-deed-property",
+          "quote": "All bids must be placed using the listing on the Wisconsin Surplus Auction site."
+        }
+      ],
+      "notes": {
+        "platform": "The county page names the Wisconsin Surplus Auction site without a link; the platform URL is the one given in Winnebago and Outagamie County notices."
+      }
+    },
+    {
+      "county": "Eau Claire",
+      "slug": "eau-claire",
+      "office": "Eau Claire County Treasurer",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://eauclairecounty.gov/our-government/departments-and-facilities/department-directory/tax-delinquent-property",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The county's Tax Delinquent Property page lists In Rem auctions from 2024 (bidding closed) and says the next batch is in the works.",
+      "how_to_bid": "Not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://eauclairecounty.gov/our-government/departments-and-facilities/department-directory/tax-delinquent-property",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://eauclairecounty.gov/our-government/departments-and-facilities/department-directory/tax-delinquent-property",
+          "quote": "In Rem Auction properties (March 2024) Bidding Closed - County Board final vote 5/21/24"
+        }
+      ]
     }
   ]
 }

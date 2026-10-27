@@ -153,6 +153,255 @@
           "quote": "The Treasurer is holding an online auction at Bid4Assets.com for tax-title properties on September 1, 2026."
         }
       ]
+    },
+    {
+      "county": "Thurston",
+      "slug": "thurston",
+      "office": "Thurston County Treasurer's Office",
+      "phone": "360-786-5546",
+      "address": "3000 Pacific Avenue SE, Olympia, WA 98501 (county mailing address)",
+      "website": "https://www.thurstoncountywa.gov/departments/treasurer/real-property-foreclosure-tax-sale-information",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-01-11",
+          "time": "not stated",
+          "label": "2026 foreclosure tax sale (online, Bid4Assets), January 11-12, 2027",
+          "deposit": "not stated on the county page",
+          "registration_deadline": "not stated on the county page",
+          "note": "The county says the sale continues until properties are sold or the Treasurer closes the auction, and that all schedule dates are subject to change. The county's 2026 foreclosure list was updated 10/21/2026.",
+          "source_url": "https://www.thurstoncountywa.gov/departments/treasurer/real-property-foreclosure-tax-sale-information",
+          "quote": "The 2026 Foreclosure sale will be held January 11-12, 2027"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The annual foreclosure sale is held online through Bid4Assets. A minimum bid is set for each property that includes all taxes, interest, penalties and foreclosure costs; full payment is due according to the terms on the bid website.",
+      "sources": [
+        {
+          "url": "https://www.thurstoncountywa.gov/departments/treasurer/real-property-foreclosure-tax-sale-information",
+          "read_on": "2026-10-27",
+          "terms": "Website Use Disclaimer covers accuracy, external links and translations; it says nothing about copyright, reuse or redistribution.",
+          "terms_url": "https://www.thurstoncountywa.gov/website-use-disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.thurstoncountywa.gov/departments/treasurer/real-property-foreclosure-tax-sale-information",
+          "quote": "Thurston County holds our annual foreclosure tax sale via the internet facilitated by Bid4Assets"
+        }
+      ]
+    },
+    {
+      "county": "Kitsap",
+      "slug": "kitsap",
+      "office": "Kitsap County Treasurer",
+      "phone": "not stated",
+      "address": null,
+      "website": "https://kitsap.gov/treasurer/Pages/Foreclosure.aspx",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-01-26",
+          "time": "not stated",
+          "label": "Tax foreclosure auction (online, Public Surplus)",
+          "deposit": "not stated on the county page",
+          "registration_deadline": "not stated on the county page",
+          "note": "The county page lists the last day to redeem as January 25, 2027.",
+          "source_url": "https://kitsap.gov/treasurer/Pages/Foreclosure.aspx",
+          "quote": "January 26, 2027"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Bid online at Public Surplus (publicsurplus.com), the county's tax auction website. Properties are sold where is and as is. Deposit and registration terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://kitsap.gov/treasurer/Pages/Foreclosure.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Website Policies & Use page covers privacy and public disclosure of information users submit; it says nothing about copyright, reuse or redistribution of site content.",
+          "terms_url": "https://kitsap.gov/Pages/Privacy.aspx"
+        }
+      ]
+    },
+    {
+      "county": "Yakima",
+      "slug": "yakima",
+      "office": "Yakima County Treasurer's Office",
+      "phone": "not stated",
+      "address": null,
+      "website": "https://yakimacounty.us/1184/Bidder-Information",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 auction date not yet posted. The county's bidder page still describes the 2025 annual auction (December 3-4, 2025, on Bid4Assets).",
+      "how_to_bid": "Register at Bid4Assets before the auction and make the bid deposit by the posted deadline (for 2025: a $1,000.00 deposit plus a $35.00 non-refundable processing fee). Sales go to the highest bidder; Bid4Assets also offers an offline bid form.",
+      "sources": [
+        {
+          "url": "https://yakimacounty.us/1184/Bidder-Information",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer page says nothing on reuse; Copyright page says 'All content (c) 2006-2026 Yakima County, WA and its representatives. All rights reserved.' No explicit ban on reuse or redistribution.",
+          "terms_url": "https://yakimacounty.us/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://yakimacounty.us/1184/Bidder-Information",
+          "quote": "The 2025 annual tax foreclosure auction will be held via the internet to reduce sale costs"
+        }
+      ]
+    },
+    {
+      "county": "Skagit",
+      "slug": "skagit",
+      "office": "Skagit County Treasurer's Office",
+      "phone": "360-416-1750",
+      "address": "700 S. 2nd Street, Room 205, Mount Vernon, WA 98273",
+      "website": "https://www.skagitcountywa.gov/government/treasurer-s-office/tax-foreclosure/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-01-05",
+          "time": "9:00 AM",
+          "label": "Tax foreclosure auction (online, Public Surplus), Cause No. 26-2-00006-29",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Payment in full must reach Public Surplus by 4:30 PM on Thursday January 14, 2027. Full terms will be posted on publicsurplus.com when the sale is listed.",
+          "list_url": "https://media-002-us.cdn.govstack.com/skagitcountywa-002-us/media/vlzki32o/minimum-bid-sheet.pdf",
+          "list_note": "2026 Minimum Bid List (PDF) linked from the Treasurer's tax foreclosure page.",
+          "source_url": "https://media-002-us.cdn.govstack.com/skagitcountywa-002-us/media/vlzki32o/minimum-bid-sheet.pdf",
+          "quote": "DATE & TIME OF SALE: January 5,2027 @ 9:00 A.M."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Public auction held on Publicsurplus.com; follow the instructions posted there. Payment in full is due to Public Surplus by the deadline in the minimum bid sheet. Deposit and registration terms are not stated by the county.",
+      "sources": [
+        {
+          "url": "https://www.skagitcountywa.gov/government/treasurer-s-office/tax-foreclosure/",
+          "read_on": "2026-10-27",
+          "terms": "Privacy policy disclaimer: reliance on information is at the user's own risk; footer '(c) 2026 Skagit County. All Rights Reserved.' The linked Terms and Conditions page returns not found. No explicit ban on reuse or redistribution seen.",
+          "terms_url": "https://www.skagitcountywa.gov/privacy-policy/"
+        },
+        {
+          "url": "https://media-002-us.cdn.govstack.com/skagitcountywa-002-us/media/vlzki32o/minimum-bid-sheet.pdf",
+          "read_on": "2026-10-27",
+          "terms": "County minimum bid sheet (court cause no. 26-2-00006-29); site terms as above.",
+          "terms_url": "https://www.skagitcountywa.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://media-002-us.cdn.govstack.com/skagitcountywa-002-us/media/vlzki32o/minimum-bid-sheet.pdf",
+          "quote": "LOCATION: Publicsurplus.com"
+        }
+      ]
+    },
+    {
+      "county": "Franklin",
+      "slug": "franklin",
+      "office": "Franklin County Treasurer",
+      "phone": "509-545-3518",
+      "address": "Franklin County Courthouse, 1016 N 4th Avenue, Pasco, WA 99301",
+      "website": "https://franklincountywa.gov/411/Tax-Foreclosure-Sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "Franklin County holds a Foreclosure sale once per year according to RCW 84.64.060.",
+      "sales": [
+        {
+          "date": "2026-12-11",
+          "time": "not stated",
+          "label": "2026 foreclosure auction (online, GovEase) - tentative",
+          "deposit": "not stated on the county page",
+          "registration_deadline": "not stated on the county page",
+          "note": "Tentative date.",
+          "source_url": "https://franklincountywa.gov/411/Tax-Foreclosure-Sales",
+          "quote": "Our 2026 foreclosure auction is tentatively scheduled for December 11, 2026"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The sale is held online at GovEase. The county page says payment must be made in full immediately following the sale, by cash or cashier's check, to the Franklin County Treasurer; no financing is offered.",
+      "sources": [
+        {
+          "url": "https://franklincountywa.gov/411/Tax-Foreclosure-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content (c) 2006-2026 Franklin County, WA and its representatives. All rights reserved.' No explicit ban on reuse or redistribution.",
+          "terms_url": "https://franklincountywa.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://franklincountywa.gov/411/Tax-Foreclosure-Sales",
+          "quote": "The sale will be held online at the GovEase website."
+        }
+      ]
+    },
+    {
+      "county": "Island",
+      "slug": "island",
+      "office": "Island County Treasurer",
+      "phone": "360-679-7302",
+      "address": "1 NE 7th Street, Suite 111, Administration Building, Coupeville, WA 98239",
+      "website": "https://islandcountywa.gov/632/Bidding-Process",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-08",
+          "time": "not stated",
+          "label": "Tax foreclosure and distraint auction (online, Bid4Assets)",
+          "deposit": "Bid4Assets may require a deposit at least one week before the auction begins",
+          "registration_deadline": "Bidders must be registered before the sale starts",
+          "note": "Re-auction Wednesday, Dec. 9, 2026.",
+          "source_url": "https://islandcountywa.gov/632/Bidding-Process",
+          "quote": "Date of Auction: Tuesday, Dec. 8, 2026"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register at Bid4Assets before the sale starts. A minimum bid is posted for each parcel. Winning bids must be paid by wire per Bid4Assets instructions within 24 hours; no credit cards or in-office payments.",
+      "sources": [
+        {
+          "url": "https://islandcountywa.gov/632/Bidding-Process",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content (c) 2006-2026 Island County, WA and its representatives. All rights reserved.' No explicit ban on reuse or redistribution.",
+          "terms_url": "https://islandcountywa.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://islandcountywa.gov/632/Bidding-Process",
+          "quote": "All bidders must be registered prior to the start of the sale."
+        }
+      ]
     }
   ]
 }

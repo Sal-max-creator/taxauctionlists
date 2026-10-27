@@ -160,6 +160,166 @@
           "quote": "the owner of the property has two years from the purchase date to pay the taxes plus the interest (1.5% per month)"
         }
       ]
+    },
+    {
+      "county": "Hancock",
+      "slug": "hancock",
+      "office": "Hancock County Tax Assessor / Collector",
+      "phone": "228-467-5791 (Annex Office 228-467-4425; Kiln Satellite Office 228-255-8746)",
+      "address": "854 Highway 90, Suite C, Bay Saint Louis, MS 39520 (mailing P.O. Box 2428, Bay St. Louis, MS 39521; satellite office 18335 Highway 603, Kiln, MS 39556)",
+      "website": "https://hancockcounty.ms.gov/199/Tax-Assessor",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "The Hancock County Tax Assessor's Office will host its annual property tax sale online starting at 8:30 am on the last Monday in August every year.",
+      "sales": [],
+      "next_sale_note": "No dated 2027 notice posted. The county states the sale runs online on the last Monday in August each year, so the 2026 sale has passed.",
+      "how_to_bid": "Register by creating an account on the GovEase website. The sale opens online at 8:30 am. The county links a GovEase information sheet (dated 2021). Deposit, fees and registration deadline not stated.",
+      "sources": [
+        {
+          "url": "https://hancockcounty.ms.gov/199/Tax-Assessor",
+          "read_on": "2026-10-27",
+          "terms": "no terms page found: the Tax Assessor page showed no terms, disclaimer or copyright links, and the site's /copyright page returned an error. No reuse restriction seen.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hancockcounty.ms.gov/199/Tax-Assessor",
+          "quote": "The Hancock County Tax Assessor's Office will host its annual property tax sale online starting at 8:30 am on the last Monday in August every year."
+        },
+        {
+          "url": "https://hancockcounty.ms.gov/199/Tax-Assessor",
+          "quote": "To register for the tax sale, please visit the GovEase website to create an account."
+        }
+      ]
+    },
+    {
+      "county": "Lamar",
+      "slug": "lamar",
+      "office": "Lamar County Tax Assessor / Collector",
+      "phone": "601-794-1020 (Collector)",
+      "address": "144 Shelby Speights Drive, Purvis, MS 39475 (mailing P.O. Box 309, Purvis, MS 39475)",
+      "website": "https://lamarcountyms.gov/ms/departments/tax-assessor-collector/online-tax-sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://liveauctions.govease.com/Account/Login"
+      },
+      "schedule_rule": "The tax lien sale is held online beginning the last Monday of August each year",
+      "sales": [],
+      "next_sale_note": "No dated 2027 notice posted. The county posted a 2026 tax sale notice (PDF) for the sale held from the last Monday of August 2026, which has passed.",
+      "how_to_bid": "Sign up and register online with GovEase; online registration begins the first week of August, and free web training is offered. Bidders can enter maximum bids ahead of time; the sale usually lasts five to seven days and runs until all delinquent parcels are sold. Taxes not paid by the last Friday before the sale are auctioned. Accepted payment: company or personal check (with bank letter), cashier's check or money order. If the owner redeems within two years, the purchaser is repaid the lien amount plus 1.5% interest on it (not on the overbid); after the sale the Tax Collector turns everything over to the Chancery Clerk. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://lamarcountyms.gov/ms/departments/tax-assessor-collector/online-tax-sale/",
+          "read_on": "2026-10-27",
+          "terms": "no terms page found: no terms, disclaimer or privacy link on the site; footer shows only '© 2026 Lamar County Mississippi' (copyright-only). No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://lamarcountyms.gov/ms/departments/tax-assessor-collector/",
+          "read_on": "2026-10-27",
+          "terms": "no terms page found: footer copyright only ('© 2026 Lamar County Mississippi'). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lamarcountyms.gov/ms/departments/tax-assessor-collector/online-tax-sale/",
+          "quote": "The tax lien sale is held online beginning the last Monday of August each year"
+        },
+        {
+          "url": "https://lamarcountyms.gov/ms/departments/tax-assessor-collector/online-tax-sale/",
+          "quote": "Online Registration begins the First Week of August."
+        },
+        {
+          "url": "https://lamarcountyms.gov/ms/departments/tax-assessor-collector/",
+          "quote": "Advertise and hold an annual tax sale for any unpaid taxes on real estate or any special assessments"
+        }
+      ]
+    },
+    {
+      "county": "Oktibbeha",
+      "slug": "oktibbeha",
+      "office": "Oktibbeha County Tax Collector",
+      "phone": "662-323-1273",
+      "address": "101 E Main Street Suite 103, Starkville, MS 39759",
+      "website": "https://www.oktibbeha.ms.gov/199/Tax-Office",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Traditionally, the tax sale in Oktibbeha County takes place on the last Monday in August each year.",
+      "sales": [],
+      "next_sale_note": "No dated 2027 notice posted; the county's usual last-Monday-in-August sale for 2026 has passed. The Tax Office page also links a 'Fall 2025 Tax Sale Flyer' (past).",
+      "how_to_bid": "not stated on the Tax Office page (format, platform, registration and deposit are not given). The county says the Tax Collector must advertise and hold the sale under Mississippi Code Sections 27-41-49 to 27-41-89.",
+      "sources": [
+        {
+          "url": "https://www.oktibbeha.ms.gov/199/Tax-Office",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices: 'All content © 2006-2026 Oktibbeha County, MS and its representatives. All rights reserved.' No terms-of-use or disclaimer page and no clause forbidding reuse or redistribution of public information.",
+          "terms_url": "https://www.oktibbeha.ms.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.oktibbeha.ms.gov/199/Tax-Office",
+          "quote": "Traditionally, the tax sale in Oktibbeha County takes place on the last Monday in August each year."
+        }
+      ],
+      "notes": {
+        "format_note": "Format left 'unknown': the Tax Office page does not say whether the sale is online or in person."
+      }
+    },
+    {
+      "county": "Pearl River",
+      "slug": "pearl-river",
+      "office": "Pearl River County Tax Assessor & Collector",
+      "phone": "601-403-2300 (Picayune office 601-749-7700)",
+      "address": "100 South Main Street, Poplarville, MS 39470 (mailing P.O. Box 509, Poplarville, MS 39470-0530; Picayune office 917 Goodyear Boulevard, Picayune, MS 39466)",
+      "website": "https://pearlrivercounty.net/231/Online-Tax-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://liveauctions.govease.com/Account/Login"
+      },
+      "schedule_rule": "The tax lien sale is held online beginning the last Monday of August each year",
+      "sales": [],
+      "next_sale_note": "No dated 2027 notice posted. The county posted a 2026 Tax Sale Listings Publication for the August 2026 sale, which has passed.",
+      "how_to_bid": "Register online with GovEase (registration begins the first week of August) and use its online training. Bidders can enter maximum bids ahead of time; the sale usually lasts five to seven days and runs until all delinquent parcels are sold. Taxes not paid by the last Friday before the sale are auctioned. Card payments carry a separate non-refundable 3% convenience fee. If the owner redeems within two years, the purchaser is repaid the lien amount plus 1.5% interest on it (not on the overbid); after the sale the Tax Collector turns everything over to the Chancery Clerk. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://pearlrivercounty.net/231/Online-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices: 'All content © 2006-2026 Pearl River County, MS and its representatives. All rights reserved.' No terms-of-use or disclaimer page and no clause forbidding reuse or redistribution of public information.",
+          "terms_url": "https://pearlrivercounty.net/copyright"
+        },
+        {
+          "url": "https://pearlrivercounty.net/227/Tax-Assessor-Collector",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices: 'All content © 2006-2026 Pearl River County, MS and its representatives. All rights reserved.' No clause forbidding reuse.",
+          "terms_url": "https://pearlrivercounty.net/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://pearlrivercounty.net/231/Online-Tax-Sale",
+          "quote": "The tax lien sale is held online beginning the last Monday of August each year"
+        },
+        {
+          "url": "https://pearlrivercounty.net/231/Online-Tax-Sale",
+          "quote": "Online Registration begins the First Week of August."
+        },
+        {
+          "url": "https://pearlrivercounty.net/231/Online-Tax-Sale",
+          "quote": "Once the tax sale ends the Tax Collector turns everything over to the Chancery Clerk's Office."
+        }
+      ]
     }
   ]
 }

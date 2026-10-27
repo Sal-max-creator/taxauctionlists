@@ -14,7 +14,7 @@ Rules: sale dates come only from county or state government pages, or legally re
 | [Bid4Assets](https://www.bid4assets.com/) | Private auction platform. No reuse terms found, so we link to county sale pages and never copy parcel data. | 2026-10-26 |
 | [GovEase](https://www.govease.com/) | Private auction platform. Only privacy and cookie links found, so we link out and never copy parcel data. | 2026-10-26 |
 
-Hosts the validator refuses as a sale source: `realauction.com`, `realtaxdeed.com`, `realtaxlien.com`, `realforeclose.com`, `bid4assets.com`, `govease.com`, `zeusauction.com`, `sriservices.com`, `lienhub.com`, `grantstreet.com`, `govdeals.com`, `newjerseytaxsale.com`, `sheriffsaleauction.ohio.gov`, `sheriffsaleauctions.com`, `coloradotaxsale.com`, `arizonataxsale.com`, `deedauction.net`, `clerkauction.com`, `itm.leoncountyfl.gov`, `sdat.dat.maryland.gov`.
+Hosts the validator refuses as a sale source: `realauction.com`, `realtaxdeed.com`, `realtaxlien.com`, `realforeclose.com`, `bid4assets.com`, `govease.com`, `zeusauction.com`, `sriservices.com`, `lienhub.com`, `grantstreet.com`, `govdeals.com`, `publicsurplus.com`, `wisconsinsurplus.com`, `marylandtaxsale.com`, `newjerseytaxsale.com`, `sheriffsaleauction.ohio.gov`, `sheriffsaleauctions.com`, `coloradotaxsale.com`, `arizonataxsale.com`, `deedauction.net`, `clerkauction.com`, `itm.leoncountyfl.gov`, `sdat.dat.maryland.gov`.
 
 ## Alabama
 
@@ -450,6 +450,15 @@ State overview: <https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article
 | Baltimore City | <https://www.baltimorecity.gov/tax-sale/our-work/tax-sale-process> | 2026-10-27 | same as above ([terms](https://www.baltimorecity.gov/privacy-policy)) |
 | Prince George's | <https://taxsale.princegeorgescountymd.gov/> | 2026-10-27 | not found (no terms or disclaimer link; footer shows only '© 2026 Prince George's County'). No reuse restriction found. |
 | Prince George's | <https://taxsale.princegeorgescountymd.gov/BiddingRules.aspx> | 2026-10-27 | same as above |
+| Harford | <https://www.harfordcountymd.gov/m/faq?cat=100> | 2026-10-27 | Copyright Notice page says only 'Copyright © 2015 Harford County Government. All rights reserved.' The Disclaimer page covers liability and external links only. No reuse restriction found. ([terms](https://www.harfordcountymd.gov/1686)) |
+| Harford | <https://harfordcountymd.gov/DocumentCenter/View/28612/Terms-of-Sale-2025-PDF> | 2026-10-27 | same as above ([terms](https://www.harfordcountymd.gov/1686)) |
+| Carroll | <https://ccgprod1.carrollcountymd.gov/government/directory/comptroller/collectionstaxes/> | 2026-10-27 | User Terms page covers only material users send to the County (granting the County a license to reproduce it). No restriction on reuse of site information found. ([terms](https://carrollcountymd.gov/policies-forms/user-terms)) |
+| Carroll | <https://www.carrollcountymd.gov/media/ks2dvxqc/tax-sale-terms-2026.pdf> | 2026-10-27 | same as above ([terms](https://carrollcountymd.gov/policies-forms/user-terms)) |
+| Washington | <https://washco-md.net/?p=85342> | 2026-10-27 | no terms page found. Footer shows '2026 Washington County. All Rights Reserved.' and the page says the County does not warrant the accuracy of the information. No reuse restriction found. |
+| Washington | <https://www.washco-md.net/wp-content/uploads/Newspaper-2026-AD.pdf> | 2026-10-27 | same as above |
+| Cecil | <https://www.cecilcountymd.gov/m/faq?cat=20> | 2026-10-27 | No terms-of-use or disclaimer page linked. Copyright Notices page says only 'All content © 2006-2026 Cecil County, MD and its representatives. All rights reserved.' No reuse restriction found. ([terms](https://www.cecilcountymd.gov/copyright)) |
+| Calvert | <https://calvertcountymd.gov/301/Tax-Sale-Information> | 2026-10-27 | No terms-of-use or disclaimer page linked. Copyright Notices page says only 'All content © 2006-2026 Calvert County, MD and its representatives. All rights reserved.' No reuse restriction found. ([terms](https://calvertcountymd.gov/site/copyright)) |
+| Calvert | <https://calvertcountymd.gov/Faq.aspx?TID=15> | 2026-10-27 | same as above ([terms](https://calvertcountymd.gov/site/copyright)) |
 
 ## Massachusetts
 
@@ -467,7 +476,15 @@ State overview: <https://www.michigan.gov/taxes/property/property-tax-forfeiture
 
 | County | Source page | Read on | Reuse terms |
 |---|---|---|---|
+| Allegan | <https://www.allegancounty.org/departments/treasurer-s-office/tax-foreclosure-sales> | 2026-10-27 | No terms page found: the treasurer's page links no terms of use or disclaimer, and the county's plans-and-policies page could not be read (site error). Restate facts only. |
+| Calhoun | <https://www.calhouncountymi.gov/departments/treasurers_office/tax_foreclosure_auctions.php> | 2026-10-27 | The site's Terms and Conditions page covers only vendors filling out county purchase orders; it says nothing about reuse, copyright or accuracy of website content. The footer's disclaimer link leads to no page. No website reuse terms found; restate facts only. ([terms](https://www.calhouncountymi.gov/online_services/terms_and_conditions.php)) |
+| Calhoun | <https://www.michigan.gov/taxes/property/forfeiture-foreclosure/taxpayer-resources/foreclosing-governmental-units> | 2026-10-27 | State of Michigan page listing foreclosing governmental units; used only for the treasurer's phone number. |
+| Jackson | <https://www.mijackson.org/535/Tax-Foreclosure-Auctions> | 2026-10-27 | Jackson County Terms of Use: no copyright or reuse restriction; 'The User agrees to use this website as permitted by applicable local, state and federal laws.' No warranty of accuracy or timeliness; information subject to change without notice. ([terms](https://www.mijackson.org/1234/Terms-of-Use)) |
+| Kalamazoo | <https://www.kalcounty.gov/912/Auction-Surplus-Properties> | 2026-10-27 | Kalamazoo County Legal Disclaimers: no copyright or reuse restriction stated. Information is 'intended, but not guaranteed, to be correct, complete, and up-to-date.' Restate facts only. ([terms](https://www.kalcounty.gov/780/Disclaimers)) |
+| Kalamazoo | <https://www.kalcounty.gov/1361/Tax-Foreclosure-Timeline> | 2026-10-27 | Same county site; see Legal Disclaimers. ([terms](https://www.kalcounty.gov/780/Disclaimers)) |
 | Macomb | <https://www.macombgov.org/departments/treasurers-office/tax-foreclosure/auction-and-claims> | 2026-10-27 | Macomb County terms: 'Users may freely print any information that they obtain from the County website for informational or personal use only.' Documents 'may not be modified'; county seal may not be reproduced. Accuracy not guaranteed. No explicit ban on redistributing facts; restate facts, don't copy documents. ([terms](https://www.macombgov.org/terms-use-privacy-policy)) |
+| Monroe | <https://www.co.monroe.mi.us/465/Foreclosed-Property-for-Sale> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Monroe County, MI and its representatives. All rights reserved.' No explicit reuse or redistribution terms. Restate facts, don't copy documents. ([terms](https://www.co.monroe.mi.us/copyright)) |
+| Muskegon | <https://co.muskegon.mi.us/886/Treasurer> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Muskegon County, MI and its representatives. All rights reserved.' No explicit reuse or redistribution terms. Restate facts only. ([terms](https://co.muskegon.mi.us/copyright)) |
 | Oakland | <https://www.oaklandcountymi.gov/government/oakland-county-treasurer-s-office/land-sale> | 2026-10-27 | Oakland County Web Site Terms: 'Users may freely print any information that they obtain from the County Web site.' 'Use of documents from this server is for informational or personal use only.' No modifications; logos and site design may not be copied. Accuracy not guaranteed. Restate facts, don't copy documents. ([terms](https://www.oaklandcountymi.gov/government/terms-of-use)) |
 
 ## Minnesota
@@ -490,6 +507,12 @@ State overview: <https://desotocountyms.gov/508/Tax-Sale>, <https://desotocounty
 | DeSoto | <https://desotocountyms.gov/508/Tax-Sale> | 2026-10-27 | Copyright Notices page: 'All content © 2006-2026 DeSoto County, MS and its representatives. All rights reserved.' No terms-of-use or disclaimer page and no clause forbidding reuse or redistribution of public information. Restate facts, don't copy pages wholesale. ([terms](https://desotocountyms.gov/site/copyright)) |
 | Harrison | <https://harrisoncountyms.gov/government/tax_collector/> | 2026-10-27 | No disclaimer, terms-of-use or privacy link on the page (Revize site). No reuse restriction found. |
 | Jackson | <https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes> | 2026-10-27 | Terms of Use cover liability, accuracy, endorsement and links only; no copyright, reuse or redistribution restriction. ([terms](https://www.co.jackson.ms.us/189/Terms-of-Use)) |
+| Hancock | <https://hancockcounty.ms.gov/199/Tax-Assessor> | 2026-10-27 | no terms page found: the Tax Assessor page showed no terms, disclaimer or copyright links, and the site's /copyright page returned an error. No reuse restriction seen. |
+| Lamar | <https://lamarcountyms.gov/ms/departments/tax-assessor-collector/online-tax-sale/> | 2026-10-27 | no terms page found: no terms, disclaimer or privacy link on the site; footer shows only '© 2026 Lamar County Mississippi' (copyright-only). No reuse restriction found. |
+| Lamar | <https://lamarcountyms.gov/ms/departments/tax-assessor-collector/> | 2026-10-27 | no terms page found: footer copyright only ('© 2026 Lamar County Mississippi'). No reuse restriction found. |
+| Oktibbeha | <https://www.oktibbeha.ms.gov/199/Tax-Office> | 2026-10-27 | Copyright Notices: 'All content © 2006-2026 Oktibbeha County, MS and its representatives. All rights reserved.' No terms-of-use or disclaimer page and no clause forbidding reuse or redistribution of public information. ([terms](https://www.oktibbeha.ms.gov/copyright)) |
+| Pearl River | <https://pearlrivercounty.net/231/Online-Tax-Sale> | 2026-10-27 | Copyright Notices: 'All content © 2006-2026 Pearl River County, MS and its representatives. All rights reserved.' No terms-of-use or disclaimer page and no clause forbidding reuse or redistribution of public information. ([terms](https://pearlrivercounty.net/copyright)) |
+| Pearl River | <https://pearlrivercounty.net/227/Tax-Assessor-Collector> | 2026-10-27 | Copyright Notices: 'All content © 2006-2026 Pearl River County, MS and its representatives. All rights reserved.' No clause forbidding reuse. ([terms](https://pearlrivercounty.net/copyright)) |
 
 ## Missouri
 
@@ -674,6 +697,14 @@ State overview: <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.
 |---|---|---|---|
 | Oklahoma | <https://oklahomacounty.org/Treasurer> | 2026-10-27 | Terms of Use page has no copying, reuse or redistribution restriction (it covers privacy of submitted personal data only). ([terms](https://oklahomacounty.org/Terms-of-Use)) |
 | Oklahoma | <https://docs.oklahomacounty.org/treasurer/ImportantDates.asp> | 2026-10-27 | Same county; no reuse restriction found. ([terms](https://oklahomacounty.org/Terms-of-Use)) |
+| Tulsa | <https://www2.tulsacounty.org/treasurer/properties-for-sale/june-real-estate-auction/faq/> | 2026-10-27 | County Privacy page says photos are county property under copyright; it says nothing restricting reuse of the site's text. Acceptable Use page covers employees and contractors and has no reuse restriction. No 'All rights reserved' notice. ([terms](https://www2.tulsacounty.org/privacy/)) |
+| Tulsa | <https://www2.tulsacounty.org/treasurer/about/calendar-of-events/> | 2026-10-27 | Same county site; no reuse restriction found. ([terms](https://www2.tulsacounty.org/privacy/)) |
+| Tulsa | <https://www2.tulsacounty.org/treasurer/properties-for-sale/county-properties/> | 2026-10-27 | Same county site; no reuse restriction found. ([terms](https://www2.tulsacounty.org/privacy/)) |
+| Rogers | <https://oktaxrolls.com/searchTaxRoll/rogers> | 2026-10-27 | © 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site; no terms of use page found and no reuse restriction stated. Copyright-only. |
+| Rogers | <https://oktaxrolls.com/public/custom/upload/document/Bidder_Packet_Online_Auction.pdf> | 2026-10-27 | Treasurer's own document linked from its oktaxrolls.com page; no reuse restriction stated. |
+| Wagoner | <https://oktaxrolls.com/county/wagoner> | 2026-10-27 | © 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site; no terms of use page found and no reuse restriction stated. Copyright-only. |
+| Pottawatomie | <https://oktaxrolls.com/county/Pottawatomie> | 2026-10-27 | © 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site; no terms of use page found and no reuse restriction stated. Copyright-only. |
+| Pottawatomie | <https://oktaxrolls.com/public/custom/upload/document/Resale_Information.pdf> | 2026-10-27 | Treasurer's June Resale Information document linked from its oktaxrolls.com page; no reuse restriction stated. |
 
 ## Oregon
 
@@ -897,6 +928,13 @@ State overview: <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, 
 | Snohomish | <https://snohomishcountywa.gov/220/Tax-Foreclosures> | 2026-10-27 | Website Information page: site information 'is public and provided for the convenience of customers', for lawful use only, no data mining (mass downloading); it says the information 'has not been compiled or linked for commercial purposes.' No explicit ban on reuse or redistribution. ([terms](https://snohomishcountywa.gov/1965/Website-Information)) |
 | Spokane | <https://www.spokanecounty.gov/4156/Real-Property-Auctions> | 2026-10-27 | Site disclaimer lets users 'review and retrieve publicly available government information'; no copyright notice and no explicit ban on reuse or redistribution ('Any rights not expressly granted herein are reserved.'). ([terms](https://www.spokanecounty.gov/2299/Site-Disclaimer)) |
 | Clark | <https://clark.wa.gov/treasurer/tax-foreclosure-auctions> | 2026-10-27 | Terms of use: 'Information that appears on the Clark County website is part of the public record.' No ban on reuse or redistribution. ([terms](https://clark.wa.gov/terms-of-use)) |
+| Thurston | <https://www.thurstoncountywa.gov/departments/treasurer/real-property-foreclosure-tax-sale-information> | 2026-10-27 | Website Use Disclaimer covers accuracy, external links and translations; it says nothing about copyright, reuse or redistribution. ([terms](https://www.thurstoncountywa.gov/website-use-disclaimer)) |
+| Kitsap | <https://kitsap.gov/treasurer/Pages/Foreclosure.aspx> | 2026-10-27 | Website Policies & Use page covers privacy and public disclosure of information users submit; it says nothing about copyright, reuse or redistribution of site content. ([terms](https://kitsap.gov/Pages/Privacy.aspx)) |
+| Yakima | <https://yakimacounty.us/1184/Bidder-Information> | 2026-10-27 | Disclaimer page says nothing on reuse; Copyright page says 'All content (c) 2006-2026 Yakima County, WA and its representatives. All rights reserved.' No explicit ban on reuse or redistribution. ([terms](https://yakimacounty.us/copyright)) |
+| Skagit | <https://www.skagitcountywa.gov/government/treasurer-s-office/tax-foreclosure/> | 2026-10-27 | Privacy policy disclaimer: reliance on information is at the user's own risk; footer '(c) 2026 Skagit County. All Rights Reserved.' The linked Terms and Conditions page returns not found. No explicit ban on reuse or redistribution seen. ([terms](https://www.skagitcountywa.gov/privacy-policy/)) |
+| Skagit | <https://media-002-us.cdn.govstack.com/skagitcountywa-002-us/media/vlzki32o/minimum-bid-sheet.pdf> | 2026-10-27 | County minimum bid sheet (court cause no. 26-2-00006-29); site terms as above. ([terms](https://www.skagitcountywa.gov/privacy-policy/)) |
+| Franklin | <https://franklincountywa.gov/411/Tax-Foreclosure-Sales> | 2026-10-27 | Copyright page: 'All content (c) 2006-2026 Franklin County, WA and its representatives. All rights reserved.' No explicit ban on reuse or redistribution. ([terms](https://franklincountywa.gov/copyright)) |
+| Island | <https://islandcountywa.gov/632/Bidding-Process> | 2026-10-27 | Copyright page: 'All content (c) 2006-2026 Island County, WA and its representatives. All rights reserved.' No explicit ban on reuse or redistribution. ([terms](https://islandcountywa.gov/copyright)) |
 
 ## West Virginia
 
@@ -921,6 +959,10 @@ State overview: <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <htt
 |---|---|---|---|
 | Milwaukee | <https://county.milwaukee.gov/EN/Administrative-Services/Economic-Development/Foreclosed-Properties/Listings> | 2026-10-27 | County 'Website Policies' page has privacy, security and link disclaimers; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://county.milwaukee.gov/EN/Website-Policies)) |
 | Milwaukee | <https://county.milwaukee.gov/EN/Administrative-Services/Economic-Development/Foreclosed-Properties> | 2026-10-27 | County 'Website Policies' page has privacy, security and link disclaimers; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://county.milwaukee.gov/EN/Website-Policies)) |
+| Racine | <https://www.racinecounty.gov/home/showpublisheddocument/49284/638670826797430000> | 2026-10-27 | No terms page found. |
+| Winnebago | <https://www.winnebagocountywi.gov/sites/default/files/uploaded-files/NEWSPAPER%20NOTICE_1.pdf> | 2026-10-27 | County 'Disclaimer' page covers GIS (WINGS) data: other uses are the user's responsibility and the county disclaims liability; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://www.winnebagocountywi.gov/408/Disclaimer)) |
+| Marathon | <https://www.marathoncounty.gov/services/tax-deed-property> | 2026-10-27 | No terms page found. |
+| Eau Claire | <https://eauclairecounty.gov/our-government/departments-and-facilities/department-directory/tax-delinquent-property> | 2026-10-27 | No terms page found. |
 
 ## Wyoming
 

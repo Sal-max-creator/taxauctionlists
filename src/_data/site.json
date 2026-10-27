@@ -10,7 +10,7 @@
     "name": "TaxAuctionLists Alerts",
     "price": 19,
     "interval": "month",
-    "open": false,
+    "open": true,
     "checkoutUrl": "https://buttondown.com/taxauctionlists/buy",
     "manageUrl": "https://buttondown.com/login?subscriber=1"
   }

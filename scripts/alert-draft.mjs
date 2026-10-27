@@ -3,6 +3,7 @@
 //
 //   npm run alert-draft                      # next 30 days, changes since the commit from 7 days ago
 //   npm run alert-draft -- --days 45 --since <git ref>
+//   npm run alert-draft -- --site none       # don't link county names to our site (before the domain is live)
 //
 // "What changed" compares data/states/ now with the same files at the --since commit.
 import { execFileSync } from "node:child_process";
@@ -14,7 +15,9 @@ const args = Object.fromEntries(
 const days = Number(args.days || 30);
 const now = today();
 const until = new Date(Date.parse(`${now}T00:00:00Z`) + days * 864e5).toISOString().slice(0, 10);
-const siteUrl = "https://taxauctionlists.com";
+const siteUrl = args.site === "none" ? null : args.site || "https://taxauctionlists.com";
+// County name, linked to its page on our site unless --site none.
+const countyLink = (name, path) => (siteUrl ? `[${name}](${siteUrl}${path})` : `**${name}**`);
 
 const git = (...a) => execFileSync("git", a, { encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }).trim();
 function sinceRef() {
@@ -102,7 +105,7 @@ lines.push(`Every dated sale from ${fmt(now)} to ${fmt(until)}, and what changed
 lines.push(`## Registration deadlines in the next ${days} days`, "");
 if (!deadlines.length) lines.push(`No registration deadlines in the next ${days} days.`, "");
 for (const s of deadlines) {
-  lines.push(`- **${fmt(s.register_by)}**: [${s.county}, ${s.stateCode}](${siteUrl}${s.countyUrl}), ${s.label || "sale"} on ${fmt(s.date)}${s.end_date ? ` to ${fmt(s.end_date)}` : ""}. ${s.registration_deadline || ""}`.trimEnd());
+  lines.push(`- **${fmt(s.register_by)}**: ${countyLink(`${s.county}, ${s.stateCode}`, s.countyUrl)}, ${s.label || "sale"} on ${fmt(s.date)}${s.end_date ? ` to ${fmt(s.end_date)}` : ""}. ${s.registration_deadline || ""}`.trimEnd());
 }
 if (deadlines.length) lines.push("");
 
@@ -120,7 +123,7 @@ for (const st of states) {
   for (const s of rows) {
     const bits = [
       `**${fmt(s.date)}${s.end_date ? ` to ${fmt(s.end_date)}` : ""}**${s.time ? `, ${s.time}` : ""}`,
-      `[${s.county}](${siteUrl}${s.countyUrl})`,
+      countyLink(s.county, s.countyUrl),
       `${s.label || "Sale"} (${s.saleType}, ${s.format})`,
     ];
     lines.push(`- ${bits.join(" · ")}`);
@@ -135,7 +138,7 @@ for (const st of states) {
 lines.push("## Recurring sales with no dates posted", "");
 lines.push("These counties sell on a fixed schedule but don't post each date on their own pages. The schedule is quoted as the county states it; check the county page for the property list before each sale.", "");
 if (!recurring.length) lines.push("None.", "");
-for (const c of recurring) lines.push(`- [${c.county}, ${c.stateCode}](${siteUrl}${c.url}) (${c.recurs}): "${c.schedule_rule}"`);
+for (const c of recurring) lines.push(`- ${countyLink(`${c.county}, ${c.stateCode}`, c.url)} (${c.recurs}): "${c.schedule_rule}" [County page](${c.website || c.sources[0].url})`);
 if (recurring.length) lines.push("");
 
 lines.push("## Parcel lists", "");

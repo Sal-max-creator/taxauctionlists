@@ -89,8 +89,8 @@ Buttondown needs its paid subscriptions add-on for this and has no Stripe test m
 
 ### Sending the weekly email
 
-1. After the Monday source check issue is reviewed and `data/states/` is updated, run `npm run alert-draft` (options: `--days 45`, `--since <git ref>`; by default it compares with the commit from 7 days ago).
-   Save each issue as `drafts/alerts/YYYY-MM-DD.md` (`npm run alert-draft > drafts/alerts/2026-10-27.md`) so the PR shows what will go out.
+1. After the Monday source check issue is reviewed and `data/states/` is updated, run `npm run alert-draft` (options: `--days 45`, `--since <git ref>`, `--site none` to leave county names unlinked until taxauctionlists.com is live; by default it compares with the commit from 7 days ago).
+   Save each issue as `drafts/alerts/YYYY-MM-DD.md` (`npm run alert-draft -- --site none > drafts/alerts/2026-10-27.md`) so the PR shows what will go out.
 2. Read it, fix anything the script can't know (cancellations announced elsewhere, notes), and attach parcel lists by hand: a spreadsheet only where the county's terms allow reuse, a link to the county's own list otherwise, nothing copied from link-only sources.
 3. Paste it into a new Buttondown email and, under Send > Audience, pick **Premium** so only paying subscribers get it.
 

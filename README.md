@@ -94,4 +94,4 @@ The script only prints text. It never calls Buttondown.
 
 ## Not connected yet
 
-No DNS, analytics or ads are connected. Paid Alerts are built but closed (`paid.open` is `false`).
+No DNS, analytics or ads are connected. Paid Alerts checkout is open on the private site (`paid.open` is `true`); the plan was saved in Buttondown on Oct 27, 2026.

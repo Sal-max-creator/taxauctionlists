@@ -12,7 +12,7 @@ npm run validate     # checks data/states/*.json
 npm run terms-log    # regenerates SOURCES.md
 ```
 
-Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloudflare deploys it as a Worker with static assets: `wrangler.jsonc` runs `npm run build` and serves `_site`, so Workers Builds needs no extra settings (deploy command `npx wrangler deploy`, non-production branches `npx wrangler versions upload`). Node 22 is pinned in `.nvmrc`. `src/headers.njk` writes Cloudflare's `_headers` file, which adds `X-Robots-Tag: noindex` while the site is private.
+Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloudflare deploys it as a Worker with static assets: `wrangler.jsonc` runs `npm run build` and serves `_site`, and `worker/index.js` runs only for `/api/*` (the signup form), so Workers Builds needs no extra settings (deploy command `npx wrangler deploy`, non-production branches `npx wrangler versions upload`). Node 22 is pinned in `.nvmrc`. `src/headers.njk` writes Cloudflare's `_headers` file, which adds `X-Robots-Tag: noindex` while the site is private.
 
 ## Where things live
 
@@ -20,7 +20,8 @@ Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloud
 |---|---|
 | `data/states/XX.json` | One file per state: overview, counties, sales, sources and their terms |
 | `src/` | Templates, guides (`src/guides/*.md`), CSS and JS |
-| `src/_data/site.json` | Site name, `public` switch, signup endpoint (empty until an email tool is chosen) |
+| `src/_data/site.json` | Site name, `public` switch, signup endpoint (`/api/subscribe`; empty sends nothing) |
+| `worker/index.js` | Signup handler: checks the form and adds the address to Buttondown |
 | `src/_data/linkOnly.json` | Sources we link to but never copy from |
 | `scripts/validate-data.mjs` | Refuses sales without a source URL and quote, or sourced from a link-only site |
 | `scripts/check-sources.mjs` | Weekly page checker used by the workflow |
@@ -57,6 +58,12 @@ Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloud
 
 `.github/workflows/source-check.yml` runs every Monday (and on demand from the Actions tab). It fetches each source page politely (robots.txt respected, 2 seconds between hits to a host), compares it with last week's snapshot on the `source-snapshots` branch, and opens an issue when a page changed, a sale is within 7 days, a page couldn't be checked, or a source hasn't been re-read in 30 days. It never edits sale data; a person reviews the issue and updates `data/states/` in a pull request. The first run only records a baseline.
 
+## Email signup
+
+The form posts to `/api/subscribe` on the site itself. The Worker checks the address, ignores bots that fill the hidden `company` field, refuses posts from other sites, allows 5 tries per visitor per minute, and then creates the subscriber in Buttondown with the optional states in `metadata.states`. Buttondown sends its own confirmation email (double opt-in). Someone already on the list sees the same message as a new signup.
+
+The Buttondown API key is a Worker secret, not a repo file or a GitHub Actions secret (Actions secrets never reach the Worker): Cloudflare dashboard > Workers & Pages > `taxauctionlists` > Settings > Variables and Secrets > Add, type **Secret**, name `BUTTONDOWN_API_KEY`. Deploys keep it. Without it the form says signups aren't open yet and sends nothing. `npm run test:worker` tests the handler with Buttondown faked.
+
 ## Not connected yet
 
-No hosting, DNS, email tool, payments, analytics or ads are connected. The signup form shows a "signups open soon" message and sends nothing until `signupEndpoint` is set.
+No DNS, payments, analytics or ads are connected.

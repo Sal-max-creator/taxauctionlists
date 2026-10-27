@@ -132,7 +132,7 @@ function teaser() {
     lists.length ? `${lists.length} county parcel lists` : null,
   ].filter(Boolean);
   const list = extra.length > 1 ? `${extra.slice(0, -1).join(", ")} and ${extra.at(-1)}` : extra[0];
-  out.push(`Alerts subscribers got ${list} this week. $${site.paid.price} a ${site.paid.interval}, cancel anytime.`, "");
+  out.push(`Alerts subscribers got ${list} this week. $${site.paid.price} a ${site.paid.interval}${site.paid.yearlyPrice ? ` or $${site.paid.yearlyPrice} a year` : ""}, cancel anytime.`, "");
   out.push(`[Start Alerts](${site.paid.checkoutUrl})${siteUrl ? ` · [Read a sample issue](${siteUrl}/sample-issue/)` : ""}`, "");
   out.push("---", "", "Information only, not investment or legal advice. Always confirm with the county before you register or bid.");
   return out.join("\n") + "\n";

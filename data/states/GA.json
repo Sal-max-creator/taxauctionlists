@@ -547,6 +547,158 @@
           "quote": "We require payment in full within two hours of the conclusion of the tax sale."
         }
       ]
+    },
+    {
+      "county": "Muscogee",
+      "slug": "muscogee",
+      "office": "Muscogee County Tax Commissioner (Columbus Consolidated Government), Property/Delinquent Tax Office",
+      "phone": "(706) 653-4211 (Property/Delinquent Tax Office)",
+      "address": "3111 Citizens Way, Columbus, GA 31906",
+      "website": "https://columbusga.gov/taxcommissioner/Delinquent-Tax/Tax-Sale-List",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:00 AM",
+          "label": "Tax Commissioner tax sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Held at the C.E. Red McDaniel City Service Center, 3111 Citizens Way, Columbus. The page notes that tax amounts and information are subject to change. The Tax Commissioner also lists a tax sale class on November 12, 2026 (5:30 to 7:00 pm, Columbus Public Library Auditorium).",
+          "source_url": "https://columbusga.gov/taxcommissioner/Delinquent-Tax/Tax-Sale-List",
+          "quote": "Date: November 3, 2026"
+        }
+      ],
+      "next_sale_note": "No sale after November 3, 2026 posted yet; the Tax Commissioner posts each sale on its Tax Sale List page.",
+      "how_to_bid": "Attend the sale in person at the C.E. Red McDaniel City Service Center, 3111 Citizens Way, Columbus, at 10:00 AM. The Tax Commissioner does not sell tax liens or tax lien certificates, and properties that do not sell go back into rotation for future tax sales. The office strongly advises getting legal advice before taking part. Deposit, payment and registration rules are not stated on the pages we read; call (706) 653-4211.",
+      "sources": [
+        {
+          "url": "https://columbusga.gov/taxcommissioner/Delinquent-Tax/Tax-Sale-List",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer link in the footer; footer shows only 'Copyright 2026 by Columbus Consolidated Government'. The linked Privacy Statement has no reuse or redistribution clause (only a note that the Tax Commissioner is not responsible for other sites' content). Copyright-only; restate facts only.",
+          "terms_url": "https://columbusga.gov/taxcommissioner/Privacy"
+        },
+        {
+          "url": "https://columbusga.gov/taxcommissioner/Delinquent-Tax",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://columbusga.gov/taxcommissioner/Privacy"
+        },
+        {
+          "url": "https://columbusga.gov/taxcommissioner/Delinquent-Tax/Tax-Sale-Class-Registration",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://columbusga.gov/taxcommissioner/Privacy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://columbusga.gov/taxcommissioner/Delinquent-Tax/Tax-Sale-List",
+          "quote": "Time: 10:00 AM"
+        },
+        {
+          "url": "https://columbusga.gov/taxcommissioner/Delinquent-Tax/Tax-Sale-List",
+          "quote": "Location: C.E. Red McDaniel City Service Center"
+        },
+        {
+          "url": "https://columbusga.gov/taxcommissioner/Delinquent-Tax",
+          "quote": "The Muscogee County Tax Commissioner's Office does not sell its Tax Liens or Tax Lien Certificates."
+        },
+        {
+          "url": "https://columbusga.gov/taxcommissioner/Delinquent-Tax",
+          "quote": "If a property does not sell at a tax sale, the property goes back into a rotation for future tax sales."
+        },
+        {
+          "url": "https://columbusga.gov/taxcommissioner/Delinquent-Tax/Tax-Sale-Class-Registration",
+          "quote": "Date: November 12, 2026"
+        }
+      ]
+    },
+    {
+      "county": "Clarke",
+      "slug": "clarke",
+      "office": "Athens-Clarke County Tax Commissioner, Delinquent Tax Division",
+      "phone": "not stated (the page refers to the county's Department & Staff Contacts directory)",
+      "address": "Athens-Clarke County Unified Government, P.O. Box 1868, Athens, Georgia 30603 (mailing); sales ordinarily held in front of the courthouse",
+      "website": "https://accgov.com/1719/Tax-Sales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales begin at 10:00 a.m. on the first Tuesday of the month, and ordinarily in front of the courthouse.",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted. The Online Tax Sale List advertisement we read was for a September sale, which has passed; check the Tax Sales page for the next advertised list.",
+      "how_to_bid": "Attend in person, ordinarily in front of the courthouse, from 10:00 a.m. on the first Tuesday of a sale month; the tax commissioner, acting as ex officio sheriff, runs the sale as a public outcry auction. The opening bid equals the taxes due plus costs and the property goes to the highest bidder; if no one bids over the opening bid it may be bid in for the county. Payment of the bid is due at the time of sale by cashier's or certified check from an FDIC- or FSLIC-insured institution, and the buyer must give a current mailing address. The tax commissioner then executes and records a tax deed. Registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://accgov.com/1719/Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2026 Athens-Clarke County, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Copyright-only ('All rights reserved'); restate facts only.",
+          "terms_url": "https://accgov.com/site/copyright"
+        },
+        {
+          "url": "https://www.accgov.com/DocumentCenter/View/15139/Online-Tax-Sale-List",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://accgov.com/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://accgov.com/1719/Tax-Sales",
+          "quote": "The sale will be conducted in the manner of a public outcry auction,"
+        },
+        {
+          "url": "https://accgov.com/1719/Tax-Sales",
+          "quote": "The opening bid will be equal to the amount of taxes due plus costs."
+        },
+        {
+          "url": "https://accgov.com/1719/Tax-Sales",
+          "quote": "The property will go to the highest bidder."
+        },
+        {
+          "url": "https://accgov.com/1719/Tax-Sales",
+          "quote": "The tax commissioner will execute a tax deed after the sale and have the deed properly recorded."
+        }
+      ]
+    },
+    {
+      "county": "Columbia",
+      "slug": "columbia",
+      "office": "Columbia County Tax Commissioner, Delinquent Tax Division",
+      "phone": "706-261-8299 (Property Tax)",
+      "address": "630 Ronald Reagan Drive, Building C, Second Floor, Evans, GA 30809",
+      "website": "https://columbiacountyga.gov/186/Delinquent-Taxes",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Sales are held on the first Tuesday of the month.",
+      "sales": [],
+      "next_sale_note": "No specific sale date posted on the Delinquent Taxes page; the office coordinates a sale every month if needed and advertises it in the Augusta Chronicle legal ads one month before.",
+      "how_to_bid": "Sheriff's tax sales are open to the public and run as an auction starting with a bid of the taxes owed. Sale notices appear on the county site and in the Augusta Chronicle legal ad section one month before a scheduled sale. Sale time, place, payment and registration are not stated on the page we read; call the Property Tax Division at 706-261-8299.",
+      "sources": [
+        {
+          "url": "https://columbiacountyga.gov/186/Delinquent-Taxes",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2026 Columbia County, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Copyright-only ('All rights reserved'); restate facts only.",
+          "terms_url": "https://columbiacountyga.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://columbiacountyga.gov/186/Delinquent-Taxes",
+          "quote": "Sheriff's Tax Sales are open to the public and function as a means of collecting delinquent taxes."
+        },
+        {
+          "url": "https://columbiacountyga.gov/186/Delinquent-Taxes",
+          "quote": "The format of the sale is an auction-type setting starting with a bid of the amount of taxes owed."
+        },
+        {
+          "url": "https://columbiacountyga.gov/186/Delinquent-Taxes",
+          "quote": "Our office will coordinate a tax sale every month if needed."
+        }
+      ]
     }
   ]
 }

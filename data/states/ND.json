@@ -106,6 +106,140 @@
           "quote": "Current auction information and property listings will be posted below when available."
         }
       ]
+    },
+    {
+      "county": "Cass",
+      "slug": "cass",
+      "office": "Cass County Finance Office",
+      "phone": "701-241-5600",
+      "address": "Courthouse, 211 9th Street South, Fargo, ND 58103",
+      "website": "https://www.casscountynd.gov/our-county/finance-office/property-taxes-real-estate",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Sale Date -Third Tuesday in November",
+      "sales": [],
+      "next_sale_note": "The county's page gives the annual sale as the third Tuesday in November at 10:00 A.M. in the Cass County Commission Room, but no 2026 notice or parcel list was found on the county site.",
+      "how_to_bid": "Bid in person at the annual sale in the Cass County Commission Room. Each parcel goes to the highest bidder at or above the posted minimum price, and payment is cash or check, deposited at once with the Finance Office. Anyone who owes delinquent taxes in any North Dakota county can't be the high bidder. The county issues a county deed, and the former owner can redeem until the sale.",
+      "sources": [
+        {
+          "url": "https://www.casscountynd.gov/our-county/finance-office/property-taxes-real-estate",
+          "read_on": "2026-10-27",
+          "terms": "The county's Policy Information page (disclaimer, privacy and social media policy) says content is for general information and provided as is; it says nothing about reusing or republishing site content. No copyright notice was shown.",
+          "terms_url": "https://www.casscountynd.gov/services/policy-information"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.casscountynd.gov/our-county/finance-office/property-taxes-real-estate",
+          "quote": "Each parcel of land will be sold at auction to the highest bidder for not less than the posted minimum sale price."
+        },
+        {
+          "url": "https://www.casscountynd.gov/our-county/finance-office/property-taxes-real-estate",
+          "quote": "Terms are cash or check to be deposited immediately with the Cass County Finance Office."
+        },
+        {
+          "url": "https://www.casscountynd.gov/our-county/finance-office/property-taxes-real-estate",
+          "quote": "A person is unqualified to be the highest bidder for a property if the person owns delinquent taxes in any North Dakota county."
+        },
+        {
+          "url": "https://www.casscountynd.gov/our-county/finance-office/property-taxes-real-estate",
+          "quote": "Please note that the former owner has the right to redeem the property up until the time of sale"
+        }
+      ]
+    },
+    {
+      "county": "Morton",
+      "slug": "morton",
+      "office": "Morton County Auditor's Office",
+      "phone": "701-667-3300",
+      "address": "County Courthouse, 210 2nd Ave NW, Mandan, ND 58554",
+      "website": "https://www.mortonnd.gov/3yrdelq",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "3rd Tuesday of November – Annual sale is held",
+      "sales": [],
+      "next_sale_note": "No 2026 sale notice, time or place was posted when we checked. The county says the notice of properties for sale is posted in the Auditor's Office, on the county website and in the official county newspaper.",
+      "how_to_bid": "The county pages don't give bidding steps. Watch for the notice of properties for sale, or call the Auditor's Office. Owners can still pay everything owed to the Treasurer's Office before the sale starts.",
+      "sources": [
+        {
+          "url": "https://www.mortonnd.gov/3yrdelq",
+          "read_on": "2026-10-27",
+          "terms": "The county's Website Policy & Disclaimer says information is provided as is with no guarantee of accuracy, and says nothing about reusing or republishing site content. No copyright notice was shown.",
+          "terms_url": "https://www.mortonnd.gov/index.asp?SEC=5849E2F6-6824-49EE-BB28-689437791FE8"
+        },
+        {
+          "url": "https://www.mortonnd.gov/index.asp?SEC=D5516D4A-2D4C-4A9C-8AFF-09A205BBA8C0",
+          "read_on": "2026-10-27",
+          "terms": "The county's Website Policy & Disclaimer says information is provided as is with no guarantee of accuracy, and says nothing about reusing or republishing site content. No copyright notice was shown.",
+          "terms_url": "https://www.mortonnd.gov/index.asp?SEC=5849E2F6-6824-49EE-BB28-689437791FE8"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mortonnd.gov/3yrdelq",
+          "quote": "A notice of properties for sale will be posted in the Auditor’s Office and the county website."
+        },
+        {
+          "url": "https://www.mortonnd.gov/3yrdelq",
+          "quote": "Payment may be made to the Morton County Treasurer’s Office before the scheduled start time of the sale"
+        }
+      ]
+    },
+    {
+      "county": "Williams",
+      "slug": "williams",
+      "office": "Williams County Auditor's Office",
+      "phone": "(701) 577-4500",
+      "address": "Williams County Administration Building, Suite 118, 206 E Broadway, Williston, ND 58801-6124",
+      "website": "https://www.williamsnd.com/tax-foreclosure-properties/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The annual Tax Foreclosure sale of delinquent properties takes place each year on the third Tuesday in November.",
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "10:00 AM",
+          "label": "2026 Tax Foreclosure Sale",
+          "deposit": "Not stated; payment for the property is due by 5 pm on the sale day",
+          "registration_deadline": "Registration is at the sale",
+          "list_url": "https://www.williamsnd.com/tax-foreclosure-properties/",
+          "list_note": "The county page lists each parcel with its minimum bid (list updated as of 10/6/2026).",
+          "note": "Held in the 3rd Floor Training Room, Williams County Administration Building, 206 E Broadway. Owners of properties taken in October can redeem until the sale date.",
+          "source_url": "https://www.williamsnd.com/tax-foreclosure-properties/",
+          "quote": "Tuesday, November 17, 2026 | 10 am"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register at the sale, be there in person or send a representative, and have all your North Dakota property taxes paid in full. Payment is due by 5 pm on the sale day. Properties are sold as is and all sales are final.",
+      "sources": [
+        {
+          "url": "https://www.williamsnd.com/tax-foreclosure-properties/",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found: the page footer (checked in a browser) links only About, News, Job Openings, Contact, Service Request, Accessibility and Sitemap, with no terms, disclaimer, copyright or privacy link. Nothing seen forbids reuse.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.williamsnd.com/tax-foreclosure-properties/",
+          "quote": "Register for the sale (Registration will be at the sale)"
+        },
+        {
+          "url": "https://www.williamsnd.com/tax-foreclosure-properties/",
+          "quote": "Must be present at time of sale or have representative"
+        },
+        {
+          "url": "https://www.williamsnd.com/tax-foreclosure-properties/",
+          "quote": "Must pay for property by 5 pm the day of the sale"
+        },
+        {
+          "url": "https://www.williamsnd.com/tax-foreclosure-properties/",
+          "quote": "All sales are final."
+        }
+      ]
     }
   ]
 }

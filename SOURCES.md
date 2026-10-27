@@ -33,6 +33,10 @@ State overview: <https://alison.legislature.state.al.us/files/pdf/SearchableInst
 | Etowah | <https://etowahcounty.org/about-collections/> | 2026-10-27 | No terms, disclaimer or privacy link in the footer; copyright-only footer: 'Copyright © 2026 Etowah County Alabama'. No reuse restriction found. |
 | Houston | <https://houstoncountyal.gov/revenue/tax_sale/> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer; copyright-only footer: '©2026 Houston County'. No reuse restriction found. |
 | Houston | <https://houstoncountyal.gov/revenue/> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer. No reuse restriction found. |
+| Shelby | <http://taxlienauction.shelbyal.com/Tax-Lien> | 2026-10-27 | The tax lien site's pages returned no footer or terms links. The main county site (shelbyal.com) footer Disclaimer covers accuracy only ('Use of this website is at your own risk'); its Copyright Notices page says 'All content © 2006-2026 Shelby County, AL and its representatives. All rights reserved.' No reuse restriction found. ([terms](https://shelbyal.com/474/disclaimer)) |
+| Shelby | <http://taxlienauction.shelbyal.com/> | 2026-10-27 | No footer or terms links in the page content returned; see shelbyal.com Disclaimer and Copyright Notices (copyright only). ([terms](https://shelbyal.com/site/copyright)) |
+| Shelby | <https://www.shelbyal.com/Directory/Home/DepartmentListing?DID=39> | 2026-10-27 | County site; Disclaimer is accuracy-only and Copyright Notices is copyright-only ('All rights reserved'). No reuse restriction found. ([terms](https://shelbyal.com/474/disclaimer)) |
+| St. Clair | <https://stclairco.com/418/Tax-Lien-Auction> | 2026-10-27 | Page disclaimer covers accuracy only (the Revenue Office 'will not be responsible or liable' for accuracy). Footer Copyright Notices page: 'All content © 2006-2026 St. Clair County, AL and its representatives. All rights reserved.' (copyright only). No reuse restriction found. ([terms](https://stclairco.com/site/copyright)) |
 
 ## Alaska
 
@@ -491,6 +495,10 @@ State overview: <https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56
 | Oldham | <https://oldhamcountyclerk.ky.gov/wp-content/uploads/2026/04/DELINQUENT-TAX-BILL-SALE-PROCEEDURES.pdf> | 2026-10-27 | see the clerk's site above ([terms](https://oldhamcountyclerk.ky.gov/internet-access-system-disclaimer/)) |
 | Warren | <https://warrencountyclerk.ky.gov/delinquent-taxes> | 2026-10-27 | No terms, disclaimer, copyright or privacy link in the page content returned; the page says the website is informational only. No reuse restriction found. |
 | Warren | <https://warrencountyclerk.ky.gov/wp-content/uploads/2026/06/dtaxpurchaseprocess2025bills.pdf> | 2026-10-27 | not found (PDF) |
+| Christian | <https://christiancountyky.gov/tax-sale-date> | 2026-10-27 | No terms, disclaimer, privacy or legal link on the page; footer shows only '© 2026 Christian County, Kentucky' and a 'powered by SnapPages' vendor credit (no vendor terms link). No reuse restriction found. |
+| Laurel | <https://laurelcountyclerk.ky.gov/tax-sale-information/> | 2026-10-27 | No terms or disclaimer link; footer links a Privacy & Disability Statement (read: no reuse terms) and shows 'Site Provided By Software Management, LLC © 2026'. No reuse restriction found. ([terms](https://laurelcountyclerk.ky.gov/privacy-disability-statement/)) |
+| Laurel | <https://laurelcountyclerk.ky.gov/?p=16> | 2026-10-27 | Same site footer; the page says the linked delinquent records site 'is an information website only.' No reuse restriction found. ([terms](https://laurelcountyclerk.ky.gov/privacy-disability-statement/)) |
+| McCracken | <https://mccrackencountyclerk.ky.gov/delinquent-taxes/> | 2026-10-27 | No terms or disclaimer link; footer links a Privacy & Disability Statement (read: no reuse terms) and shows 'Site Designed by Software Management, LLC. © 2026'. No reuse restriction found. ([terms](https://mccrackencountyclerk.ky.gov/privacy-disability-statement/)) |
 
 ## Louisiana
 

@@ -16,7 +16,7 @@
     },
     {
       "url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
-      "quote": "You are reminded that a Sheriff\u2019s Tax Deed only conveys \u201cdefeasible title\u201d to property.",
+      "quote": "You are reminded that a Sheriff’s Tax Deed only conveys “defeasible title” to property.",
       "read_on": "2026-10-27"
     },
     {
@@ -72,7 +72,7 @@
         {
           "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
           "read_on": "2026-10-27",
-          "terms": "No terms or disclaimer page linked. Footer: 'Copyright \u00a9 2020-2026 Cobb County Tax Commissioner's Office - All Rights Reserved'. No explicit reuse, redistribution or scraping clause found; restate facts, don't copy page text wholesale.",
+          "terms": "No terms or disclaimer page linked. Footer: 'Copyright © 2020-2026 Cobb County Tax Commissioner's Office - All Rights Reserved'. No explicit reuse, redistribution or scraping clause found; restate facts, don't copy page text wholesale.",
           "terms_url": null
         }
       ],
@@ -114,21 +114,21 @@
       "sales": [
         {
           "date": "2026-11-03",
-          "time": "Calendar shows 9:00 to 11:00 AM (check-in 9 AM, sale 10 AM on the county flyer); the Tax Sales page says 12:00 p.m. or sooner",
+          "time": "Start time conflicts on the county site: its calendar shows 9:00 to 11:00 AM, the county flyer says check-in 9 AM and sale 10 AM, and the Tax Sales page says 12:00 p.m. or sooner. Call the Tax Commissioner (404-298-3053) to confirm before you go",
           "label": "Tax Commissioner tax sale (county calendar)",
           "deposit": "None stated; full bid in cash, cashier's check or certified check, payable to the Tax Commissioner, within one hour after the sale (by 1:30 PM per county forms)",
           "registration_deadline": "Registration required for each sale; on-site check-in from 9 AM (county flyer)",
-          "note": "Dated entry on the Tax Commissioner's events calendar. Its description text is out of date (it still names April 7, 2026), and the county's parcel listing page would not load for us, so confirm on the county site.",
+          "note": "Dated entry (rechecked on the county site Oct 27, 2026) on the Tax Commissioner's events calendar. Its description text is out of date (it still names April 7, 2026), and the county's parcel listing page would not load for us, so confirm on the county site.",
           "source_url": "https://dekalbtaxga.gov/event/tax-sale/2026-11-03/",
           "quote": "November 3 @ 9:00 am - 11:00 am"
         },
         {
           "date": "2026-12-01",
-          "time": "Calendar shows 9:00 to 11:00 AM (check-in 9 AM, sale 10 AM on the county flyer); the Tax Sales page says 12:00 p.m. or sooner",
+          "time": "Start time conflicts on the county site: its calendar shows 9:00 to 11:00 AM, the county flyer says check-in 9 AM and sale 10 AM, and the Tax Sales page says 12:00 p.m. or sooner. Call the Tax Commissioner (404-298-3053) to confirm before you go",
           "label": "Tax Commissioner tax sale (county calendar)",
           "deposit": "None stated; full bid in cash, cashier's check or certified check, payable to the Tax Commissioner, within one hour after the sale (by 1:30 PM per county forms)",
           "registration_deadline": "Registration required for each sale; on-site check-in from 9 AM (county flyer)",
-          "note": "Dated entry on the Tax Commissioner's events calendar (page URL dated 2026-12-01). Its description text is out of date (it still names April 7, 2026); confirm on the county site.",
+          "note": "Dated entry (rechecked on the county site Oct 27, 2026) on the Tax Commissioner's events calendar (page URL dated 2026-12-01). Its description text is out of date (it still names April 7, 2026); confirm on the county site.",
           "source_url": "https://dekalbtaxga.gov/event/tax-sale/2026-12-01/",
           "quote": "December 1 @ 9:00 am - 11:00 am"
         }
@@ -139,7 +139,7 @@
         {
           "url": "https://dekalbtaxga.gov/property-tax/tax-sales/",
           "read_on": "2026-10-27",
-          "terms": "No terms or disclaimer page linked. Footer: '\u00a9 Copyright 2026. DeKalb County Tax Commissioner\u2019s Office. All Rights Reserved.' No explicit reuse, redistribution or scraping clause found; restate facts, don't copy page text wholesale.",
+          "terms": "No terms or disclaimer page linked. Footer: '© Copyright 2026. DeKalb County Tax Commissioner’s Office. All Rights Reserved.' No explicit reuse, redistribution or scraping clause found; restate facts, don't copy page text wholesale.",
           "terms_url": "https://dekalbtaxga.gov/privacy-policy/"
         },
         {
@@ -192,7 +192,7 @@
       "sale_type": "redeemable deed",
       "format": "in person",
       "platform": null,
-      "schedule_rule": "Fulton County Sheriff\u2019s Tax Sales are held on the first Tuesday of each month, between the hours of 10 a.m. and 4 p.m.",
+      "schedule_rule": "Fulton County Sheriff’s Tax Sales are held on the first Tuesday of each month, between the hours of 10 a.m. and 4 p.m.",
       "recurs": "monthly",
       "sales": [
         {
@@ -205,7 +205,7 @@
           "list_note": "Sheriff's sale list, 1st posting (PDF on the county site).",
           "note": "Held on the courthouse steps, 136 Pryor Street SW. If the first Tuesday is a legal holiday the sale moves to the next business day.",
           "source_url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
-          "quote": "Sheriff\u2019s November 3, 2026, Tax / Levy Sale."
+          "quote": "Sheriff’s November 3, 2026, Tax / Levy Sale."
         }
       ],
       "next_sale_note": "December 2026 list not yet posted.",
@@ -214,7 +214,7 @@
         {
           "url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
           "read_on": "2026-10-27",
-          "terms": "No terms page linked. Privacy Statement says information collected through the site is public information under the Georgia Open Records Act; footer '\u00a92026 Fulton County Government'. No reuse or scraping clause found.",
+          "terms": "No terms page linked. Privacy Statement says information collected through the site is public information under the Georgia Open Records Act; footer '©2026 Fulton County Government'. No reuse or scraping clause found.",
           "terms_url": "https://www.fultoncountyga.gov/Privacy-Statement"
         }
       ],

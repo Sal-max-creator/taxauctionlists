@@ -1,0 +1,158 @@
+{
+  "state": "WA",
+  "name": "Washington",
+  "sale_type": "deed",
+  "overview": "Washington does not sell tax liens. Once property taxes have been delinquent for three years, the county treasurer may start foreclosure by issuing certificates of delinquency, and the property is then sold by the treasurer at a public auction, which may be held online. The minimum bid is the total of the taxes, interest and costs. The owner can redeem up to the close of business the day before the sale; after the sale the treasurer issues a tax deed, with a three-year redemption right only for minors or legally incompetent owners.",
+  "overview_sources": [
+    {
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true",
+      "quote": "after the expiration of three years from the date of delinquency",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true",
+      "quote": "the county treasurer may conduct a public auction sale by electronic media",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true",
+      "quote": "The acceptable minimum bid must be the total amount of taxes, interest, and costs.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true",
+      "quote": "may be redeemed at any time before the close of business the day before the day of the sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true",
+      "quote": "The county treasurer must execute to the purchaser of any piece or parcel of land a tax deed.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true",
+      "quote": "the same may be redeemed at any time within three years after the date of sale",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Snohomish",
+      "slug": "snohomish",
+      "office": "Snohomish County Treasurer, Foreclosure Division",
+      "phone": "425-388-3606",
+      "address": null,
+      "website": "https://snohomishcountywa.gov/220/Tax-Foreclosures",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-03",
+          "time": "not stated",
+          "label": "2026 tax foreclosure sale auction (online, Bid4Assets) - tentative",
+          "deposit": "Pre-deposit required; amount not stated on the county page",
+          "registration_deadline": "Pre-registration required; deadline not stated on the county page",
+          "note": "Tentative. The county says the final date is set by the Final Order of Sale filed with the court. Owners may pay in full until Wednesday, December 2, 2026 at 4:59pm.",
+          "source_url": "https://snohomishcountywa.gov/220/Tax-Foreclosures",
+          "quote": "the 2026 Snohomish County Tax Foreclosure Sale Auction date is now tentatively set for THURSDAY DECEMBER 3, 2026"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Pre-register and pay a pre-deposit on Bid4Assets to be eligible to bid; read and agree to the county's Terms of Sale posted there. Parcels are sold where is and as is, with no warranty. Check each parcel's auction folder for withdrawals up to the sale.",
+      "sources": [
+        {
+          "url": "https://snohomishcountywa.gov/220/Tax-Foreclosures",
+          "read_on": "2026-10-27",
+          "terms": "Website Information page: site information 'is public and provided for the convenience of customers', for lawful use only, no data mining (mass downloading); it says the information 'has not been compiled or linked for commercial purposes.' No explicit ban on reuse or redistribution.",
+          "terms_url": "https://snohomishcountywa.gov/1965/Website-Information"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://snohomishcountywa.gov/220/Tax-Foreclosures",
+          "quote": "You MUST PRE-REGISTER & pay a pre-deposit to be eligible to bid at the sale."
+        }
+      ]
+    },
+    {
+      "county": "Spokane",
+      "slug": "spokane",
+      "office": "Spokane County Treasurer",
+      "phone": "not stated",
+      "address": "1116 W Broadway Avenue, Spokane, WA 99260",
+      "website": "https://www.spokanecounty.gov/4156/Real-Property-Auctions",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com"
+      },
+      "schedule_rule": "The Spokane County Treasurer's office conducts one real property auction per year (RCW 84.64.060).",
+      "sales": [
+        {
+          "date": "2026-12-07",
+          "time": "8:00 AM",
+          "label": "2026 tax foreclosure auction (online, Bid4Assets) - tentative",
+          "deposit": "not stated on the county page",
+          "registration_deadline": "not stated on the county page",
+          "note": "Tentative. Unsold properties are re-offered December 16, 2026, 8:00am to 12:00pm.",
+          "source_url": "https://www.spokanecounty.gov/4156/Real-Property-Auctions",
+          "quote": "The 2026 auction is tentatively scheduled for Monday, December 7, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Bid online at Bid4Assets. All sales are final and property is sold as is. Deposit, registration and payment terms are in the county's Tax Foreclosure Information document, not on the auction page.",
+      "sources": [
+        {
+          "url": "https://www.spokanecounty.gov/4156/Real-Property-Auctions",
+          "read_on": "2026-10-27",
+          "terms": "Site disclaimer lets users 'review and retrieve publicly available government information'; no copyright notice and no explicit ban on reuse or redistribution ('Any rights not expressly granted herein are reserved.').",
+          "terms_url": "https://www.spokanecounty.gov/2299/Site-Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.spokanecounty.gov/4156/Real-Property-Auctions",
+          "quote": "ALL SALES ARE FINAL AND THE PROPERTY IS SOLD 'AS IS'"
+        }
+      ]
+    },
+    {
+      "county": "Clark",
+      "slug": "clark",
+      "office": "Clark County Treasurer",
+      "phone": "564.397.2000 (county main line)",
+      "address": null,
+      "website": "https://clark.wa.gov/treasurer/tax-foreclosure-auctions",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/storefront/ClarkWASept26"
+      },
+      "schedule_rule": "The foreclosure tax sale is held online annually, usually in the month of February, at Bid4Assets.com.",
+      "sales": [],
+      "next_sale_note": "2027 foreclosure sale date not yet posted. The county says the property list is posted each December. A tax-title auction was held September 1, 2026 (past).",
+      "how_to_bid": "Register with Bid4Assets and submit a $2,500.00 deposit plus a $35.00 processing fee by the posted registration deadline; full rules are in the Terms of Sale on the auction site.",
+      "sources": [
+        {
+          "url": "https://clark.wa.gov/treasurer/tax-foreclosure-auctions",
+          "read_on": "2026-10-27",
+          "terms": "Terms of use: 'Information that appears on the Clark County website is part of the public record.' No ban on reuse or redistribution.",
+          "terms_url": "https://clark.wa.gov/terms-of-use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://clark.wa.gov/treasurer/tax-foreclosure-auctions",
+          "quote": "The Treasurer is holding an online auction at Bid4Assets.com for tax-title properties on September 1, 2026."
+        }
+      ]
+    }
+  ]
+}

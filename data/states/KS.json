@@ -1,0 +1,165 @@
+{
+  "state": "KS",
+  "name": "Kansas",
+  "sale_type": "deed",
+  "overview": "Kansas does not sell tax liens. When real estate sold to the county for delinquent taxes is still unredeemed on September 1 of the second year after that sale, the board of county commissioners orders the county attorney or county counselor to file a tax foreclosure action in district court. After judgment, the sheriff offers each tract at public auction for the highest and best bid. The owner may redeem before the day of sale by paying the taxes, interest and costs. The court confirms a regular sale, and the sheriff then gives the buyer a deed.",
+  "overview_sources": [
+    {
+      "url": "https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html",
+      "quote": "remains unredeemed on September 1 of the second year after the sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html",
+      "quote": "institute an action in the district court",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://ksrevisor.gov/statutes/chapters/ch79/079_028_0004.html",
+      "quote": "shall be sold at public auction for the highest and best bid obtainable therefor",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://ksrevisor.gov/statutes/chapters/ch79/079_028_0003.html",
+      "quote": "may before the day of sale hereinafter provided for, make redemption in the following manner",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://ksrevisor.gov/statutes/chapters/ch79/079_028_0004.html",
+      "quote": "if found by the court to be regular, it shall be confirmed",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Johnson",
+      "slug": "johnson",
+      "office": "Johnson County Treasurer's Office",
+      "phone": "913-715-2600",
+      "address": "County Administration Building, 111 S. Cherry St., Olathe, KS 66061",
+      "website": "https://jocogov.org/department/legal/tax-foreclosure",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale scheduled. The county page says: \"We do not currently have a Tax Foreclosure Auction scheduled.\" The property list is posted on the county site about 30 days before an auction.",
+      "how_to_bid": "Register in person the morning of the auction with photo ID; registration is denied to anyone with delinquent Johnson County taxes. Bidders must be present (no virtual attendance); an agent may bid under K.S.A. 79-2804h with sworn affidavits. Pay in full on sale day by 3 pm, cash or certified funds payable to the Clerk of the District Court, 150 W Santa Fe St, Olathe.",
+      "sources": [
+        {
+          "url": "https://jocogov.org/department/legal/tax-foreclosure",
+          "read_on": "2026-10-27",
+          "terms": "Site legal disclosures page states no reuse terms; footer reads 'Copyright © 2026. All rights reserved.' No explicit ban on reuse or redistribution found.",
+          "terms_url": "https://www.jocogov.org/legal-disclosures"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://jocogov.org/department/legal/tax-foreclosure",
+          "quote": "We do not currently have a Tax Foreclosure Auction scheduled."
+        },
+        {
+          "url": "https://jocogov.org/department/legal/tax-foreclosure",
+          "quote": "You must register to bid in person the morning of the auction."
+        }
+      ]
+    },
+    {
+      "county": "Sedgwick",
+      "slug": "sedgwick",
+      "office": "Sedgwick County Treasurer's Office",
+      "phone": "316-660-9000",
+      "address": null,
+      "website": "https://www.sedgwick.gov/treasurer/tax-foreclosure-auctions/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page says \"The 2026 Tax Foreclosure auction has been conducted.\" and that 2027 information will be posted as it becomes available.",
+      "how_to_bid": "Open auction with no sealed bids; properties go to the highest bidder. Winning bids are paid at the end of the sale day, plus a $21 deed registration fee per parcel. A map book is available about 30 days before the sale, and notices of sale are published in The Ark Valley News. Format and registration details for the next sale are not stated.",
+      "sources": [
+        {
+          "url": "https://www.sedgwick.gov/treasurer/tax-foreclosure-auctions/",
+          "read_on": "2026-10-27",
+          "terms": "County disclaimer page has no copyright, reuse or redistribution terms; no ban on reuse found.",
+          "terms_url": "https://www.sedgwick.gov/policies-and-disclaimers/disclaimer/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sedgwick.gov/treasurer/tax-foreclosure-auctions/",
+          "quote": "The 2026 Tax Foreclosure auction has been conducted."
+        }
+      ]
+    },
+    {
+      "county": "Shawnee",
+      "slug": "shawnee",
+      "office": "Shawnee County Counselor",
+      "phone": "785-251-4042",
+      "address": "707 SE Quincy, Room 310, Topeka, KS 66603",
+      "website": "https://www.snco.gov/counselor/tax_sale.php",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://liveauctions.govease.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The most recent sale (Case SN-2026-CV-000174) was held online on Wednesday, September 23, 2026, 11:00 AM to 2:00 PM (past).",
+      "how_to_bid": "For the 2026 sale: register on GovEase ($35 non-refundable fee) by the posted deadline; deposit 5% of the approval amount requested. The registered person must bid personally (no proxy bidding); businesses list authorized bidders and upload a Certificate of Good Standing. Pay in full by 5:00 PM on auction day by wire or ACH through GovEase, plus a 4% buyer's premium and a $38 recording fee per parcel; winners sign a notarized affidavit.",
+      "sources": [
+        {
+          "url": "https://www.snco.gov/counselor/tax_sale.php",
+          "read_on": "2026-10-27",
+          "terms": "County legal disclaimer covers accuracy only ('Shawnee County provides this website as a public service.'); no copyright or reuse restriction found.",
+          "terms_url": "https://www.snco.gov/county/disclaimer.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.snco.gov/counselor/tax_sale.php",
+          "quote": "Wednesday, September 23, 2026 from 11:00 AM – 2:00 PM"
+        },
+        {
+          "url": "https://www.snco.gov/counselor/tax_sale.php",
+          "quote": "THE AUCTION WILL BE HELD VIA ONLINE AUCTION ON GOVEASE.COM"
+        }
+      ]
+    },
+    {
+      "county": "Douglas",
+      "slug": "douglas",
+      "office": "Douglas County Sheriff's Sale (questions: taxes@dgcoks.gov)",
+      "phone": "785-832-5178",
+      "address": "Douglas County Courthouse, 1100 Massachusetts Street, Lawrence, KS 66044",
+      "website": "https://www.dgcoks.gov/news/2026/07/09/tax-sale-august-12-2026",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The most recent sheriff's tax sale was Wednesday, Aug. 12, 2026, at 10 a.m. in the county commission meeting room of the historic courthouse (past).",
+      "how_to_bid": "Not stated on the county page. The 2026 sale was a Notice of Sheriff's Sale held at the courthouse, 1100 Massachusetts St., Lawrence; deposit, registration and payment terms were not stated.",
+      "sources": [
+        {
+          "url": "https://www.dgcoks.gov/news/2026/07/09/tax-sale-august-12-2026",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms of use found. Privacy policy says the compilation of site content 'is the exclusive property of Douglas County, Kansas' but states no ban on reuse or redistribution.",
+          "terms_url": "https://www.dgcoks.gov/policies-and-procedures"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dgcoks.gov/news/2026/07/09/tax-sale-august-12-2026",
+          "quote": "on Wednesday, Aug. 12, at 10 a.m."
+        }
+      ],
+      "notes": {
+        "fallback": "Added in place of Wyandotte County, whose official tax sale pages only show 2021 and 2024 sales."
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "state": "NH",
+  "name": "New Hampshire",
+  "sale_type": "deed",
+  "local_unit": "towns",
+  "overview": "New Hampshire towns and cities, not counties, collect property tax. If taxes are not paid in full by December 1 after assessment, the town's tax collector can put a real estate tax lien on the property; the lien has priority over other liens and accrues interest at 14 percent per year. Anyone with a legal interest can redeem until the collector issues a deed, which can happen 2 years after the lien was executed; the deed goes to the lienholder, usually the town, though the governing body may refuse a tax deed. Towns then sell some tax-deeded property, and excess proceeds above what the town may keep go to the former owner.",
+  "overview_sources": [
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-59.htm",
+      "quote": "in case all taxes against the owner shall not be paid in full on or before December 1 next after its assessment",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-59.htm",
+      "quote": "may be subject to the tax lien procedure by the collector",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-59.htm",
+      "quote": "shall have priority over all other liens",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-69.htm",
+      "quote": "14 percent per annum upon the whole amount of the recorded lien from the date of execution",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-69.htm",
+      "quote": "Any person with a legal interest in land subject to a real estate tax lien may redeem the same.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-69.htm",
+      "quote": "at any time before a deed thereof is given by the collector",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-76.htm",
+      "quote": "2 years from the execution of the real estate tax lien",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-76.htm",
+      "quote": "the governing body of the municipality may refuse to accept a tax deed on behalf of the municipality",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-88.htm",
+      "quote": "for any sale by a municipality of property which is acquired by tax deed",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/V/80/80-88.htm",
+      "quote": "the excess proceeds shall be paid to such owner or owners",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Derry (town)",
+      "slug": "derry",
+      "office": "Town of Derry Tax Collector",
+      "phone": "603-432-6106",
+      "address": "Derry Municipal Center, 14 Manning Street, Derry, NH 03038",
+      "website": "https://www.derrynh.gov/500/Town-Tax-Deeded-Property-Auction",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": {
+        "name": "JSJ Auctions",
+        "url": "https://jsjauctions.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale after 2026-10-27 posted. The latest auction on the page was 39 Redfield Circle, Friday, October 23, 2026 at 3:00PM, held on site by JSJ Auctions (past).",
+      "how_to_bid": "The town sells tax-deeded property at auctions run by an outside auctioneer (JSJ Auctions for the latest sale, held on site at the property). Deposit and registration terms are not stated on the town page; the town posts a property document for each sale.",
+      "sources": [
+        {
+          "url": "https://www.derrynh.gov/500/Town-Tax-Deeded-Property-Auction",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer link found (CivicPlus site; footer has contact details and 'Government Websites by CivicPlus®' only). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.derrynh.gov/500/Town-Tax-Deeded-Property-Auction",
+          "quote": "Sale to be held on site by JSJ Auctions"
+        }
+      ]
+    }
+  ]
+}

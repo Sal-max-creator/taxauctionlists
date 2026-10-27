@@ -1,0 +1,270 @@
+{
+  "state": "AK",
+  "name": "Alaska",
+  "sale_type": "deed",
+  "local_unit": "boroughs",
+  "overview": "Alaska has no county governments: property tax is levied by organized boroughs and by some cities, and each of them collects its own delinquent taxes. There is no tax lien or certificate sale; instead the borough or city petitions the Superior Court for a judgment and decree of foreclosure against the delinquent parcels, and the foreclosure list shows the taxes plus penalty, interest and costs owed. Owners can redeem during a one-year redemption period, and property that is not redeemed is deeded to the borough or city by the clerk of the court. The borough or city then sells property it acquired this way on its own schedule (Anchorage by sealed bid, Mat-Su online, Kenai by public outcry auction), and the deed carries no title guarantee.",
+  "overview_sources": [
+    {
+      "url": "https://www.commerce.alaska.gov/web/dcra/LocalGovernmentResourceDesk/TaxationAssessment/PropertyTax",
+      "quote": "Fourteen of the eighteen organized boroughs levy a property tax.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.commerce.alaska.gov/web/dcra/LocalGovernmentResourceDesk/TaxationAssessment/PropertyTax",
+      "quote": "Only eleven cities outside of organized boroughs levy a property tax.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.muni.org/Departments/hlb/2014%20Docs/2026%20Muni%20Tax%20Foreclosure%20Book.pdf",
+      "quote": "petitioned the Superior Court for a Judgment and Decree of Foreclosure",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.muni.org/Departments/hlb/2014%20Docs/2026%20Muni%20Tax%20Foreclosure%20Book.pdf",
+      "quote": "penalty, interest and cost due to the Municipality",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.muni.org/Departments/hlb/2014%20Docs/2026%20Muni%20Tax%20Foreclosure%20Book.pdf",
+      "quote": "may be redeemed during the one-year redemption period",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.muni.org/Departments/hlb/2014%20Docs/2026%20Muni%20Tax%20Foreclosure%20Book.pdf",
+      "quote": "shall be deeded to the Municipality by the Clerk of the Court",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.muni.org/Departments/hlb/2014%20Docs/Guide%20-%20You%27d%20like%20to%20purchase%20MOA%20tax%20foreclosed%20property%20rev%2005.11.23.pdf",
+      "quote": "Like most government entities, the Municipality sells foreclosed properties through a \"sealed bid sale.\"",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://matsu.gov/policies/terms-and-conditions-of-ts-47",
+      "quote": "The Tax Foreclosure Sale Deed is a quitclaim deed.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.kpb.us/departments/property-tax/property-tax-resources/tax-foreclosure-sales",
+      "quote": "the sale of foreclosed property by the Kenai Peninsula Borough at a public outcry auction",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.muni.org/Departments/hlb/2014%20Docs/Guide%20-%20You%27d%20like%20to%20purchase%20MOA%20tax%20foreclosed%20property%20rev%2005.11.23.pdf",
+      "quote": "It does not guarantee a free-and-clear title.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Municipality of Anchorage",
+      "slug": "anchorage",
+      "office": "Municipality of Anchorage Real Estate Department (Real Estate Services)",
+      "phone": "907-343-7525",
+      "address": "4700 Elmore Road, 2nd Floor, Anchorage, AK 99507",
+      "website": "https://www.muni.org/Departments/hlb/Pages/RESForeclosedProperties.aspx",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The most recent was the second 2026 sale, held September 16, 2026 (past): 'A Second 2026 Tax-Foreclosed Property Sale took place September 16, 2026.' The Assembly must approve a list before a sale is announced.",
+      "how_to_bid": "The Municipality sells tax-foreclosed property by sealed bid after the Anchorage Assembly approves a list. Bids are hand-delivered between 8am and 3pm on the published sale date; electronic and mail-in bids are not accepted. Each bid needs a deposit of at least 25% of the bid amount (no cash, personal or company checks), which becomes non-refundable once the purchase agreement is signed. The balance is due by 5 pm on the second Friday after bid closing, by certified check or money order. Property is sold as is and the deed does not guarantee clear title.",
+      "sources": [
+        {
+          "url": "https://www.muni.org/Departments/hlb/Pages/RESForeclosedProperties.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Municipality disclaimer is about accuracy only: 'The Municipality does not warrant the accuracy of any information supplied to the user'; users are urged to confirm with the department. No copying or reuse restriction found.",
+          "terms_url": "https://www.muni.org/pages/privacy_statement.aspx"
+        },
+        {
+          "url": "https://www.muni.org/Departments/hlb/2014%20Docs/Guide%20-%20You%27d%20like%20to%20purchase%20MOA%20tax%20foreclosed%20property%20rev%2005.11.23.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Municipality disclaimer is about accuracy only: 'The Municipality does not warrant the accuracy of any information supplied to the user'; users are urged to confirm with the department. No copying or reuse restriction found.",
+          "terms_url": "https://www.muni.org/pages/privacy_statement.aspx"
+        },
+        {
+          "url": "https://www.muni.org/Departments/hlb/2014%20Docs/2026%20Muni%20Tax%20Foreclosure%20Book.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Municipality disclaimer is about accuracy only: 'The Municipality does not warrant the accuracy of any information supplied to the user'; users are urged to confirm with the department. No copying or reuse restriction found.",
+          "terms_url": "https://www.muni.org/pages/privacy_statement.aspx"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.muni.org/Departments/hlb/2014%20Docs/Guide%20-%20You%27d%20like%20to%20purchase%20MOA%20tax%20foreclosed%20property%20rev%2005.11.23.pdf",
+          "quote": "Hand-delivered bids will be accepted between 8am and 3pm on the published sale date."
+        },
+        {
+          "url": "https://www.muni.org/Departments/hlb/2014%20Docs/Guide%20-%20You%27d%20like%20to%20purchase%20MOA%20tax%20foreclosed%20property%20rev%2005.11.23.pdf",
+          "quote": "All bids must be accompanied by a minimum 25% deposit of your bid amount"
+        },
+        {
+          "url": "https://www.muni.org/Departments/hlb/2014%20Docs/Guide%20-%20You%27d%20like%20to%20purchase%20MOA%20tax%20foreclosed%20property%20rev%2005.11.23.pdf",
+          "quote": "No list is available before the Assembly gives approval for the sale."
+        }
+      ]
+    },
+    {
+      "county": "Matanuska-Susitna Borough",
+      "slug": "matanuska-susitna",
+      "office": "Matanuska-Susitna Borough Land Management Office",
+      "phone": "(907) 861-7869",
+      "address": "Main Borough Building, 350 E. Dahlia Ave, Palmer, AK 99645",
+      "website": "https://www.matsu.gov/services/tax-lid-foreclosure-sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com/sms/matanuskasusitnare,ak/browse/home"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted: 'The Spring 2026 Tax & LID Foreclosure Sale Has concluded. There are no tax foreclosure properties for sale at this time.'",
+      "how_to_bid": "Under the most recent sale terms (TS-47, spring 2026), bidding was online through Public Surplus, and all bidders had to register on the Public Surplus website. A bid deposit was held on a credit card (amount listed per property), a 5% buyer's premium applied, and full payment in certified funds was due by a set date. The deed is a quitclaim deed and the Borough does not guarantee clear title. The sale page also says prospective bidders must register in person before bidding, so check the current terms.",
+      "sources": [
+        {
+          "url": "https://www.matsu.gov/services/tax-lid-foreclosure-sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only ('© 2026 Matanuska-Susitna Borough'); no terms of use, disclaimer page or reuse restriction found. The privacy policy has no reuse terms.",
+          "terms_url": "https://matsu.gov/policies/privacy-policy"
+        },
+        {
+          "url": "https://matsu.gov/policies/terms-and-conditions-of-ts-47",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only ('© 2026 Matanuska-Susitna Borough'); no reuse restriction found.",
+          "terms_url": "https://matsu.gov/policies/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://matsu.gov/policies/terms-and-conditions-of-ts-47",
+          "quote": "All bidders must register on the Public Surplus website."
+        },
+        {
+          "url": "https://matsu.gov/policies/terms-and-conditions-of-ts-47",
+          "quote": "The Tax Foreclosure Sale Deed is a quitclaim deed."
+        },
+        {
+          "url": "https://www.matsu.gov/services/tax-lid-foreclosure-sale",
+          "quote": "The Borough does not guarantee clear title of any tax foreclosed property."
+        }
+      ],
+      "notes": {
+        "format_note": "'online' is from the TS-47 (spring 2026) terms. The sale page also says 'all prospective bidders must register in person prior to placing a bid.'"
+      }
+    },
+    {
+      "county": "Fairbanks North Star Borough",
+      "slug": "fairbanks-north-star",
+      "office": "Fairbanks North Star Borough Financial Services, Treasury & Budget Division (Tax Foreclosure)",
+      "phone": "(907) 459-1441",
+      "address": "907 Terminal Street, Fairbanks, AK 99701 (mail: P.O. Box 71267, Fairbanks, AK 99707)",
+      "website": "https://www.fnsb.gov/169/Tax-Foreclosure",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Fairbanks North Star Borough holds sales of properties acquired through tax foreclosure at least once every two years.",
+      "sales": [
+        {
+          "date": "2027-09-10",
+          "time": null,
+          "label": "Tax Foreclosure Sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Listed in the Borough's foreclosure timeline. Payments to keep a property out of the sale must be received no later than 5:00 P.M. AKDT September 10, 2027, in guaranteed funds. The sale list is to be published in the Fairbanks Daily News-Miner from June 30 through September 8, 2027. Time, format and bidding rules not stated.",
+          "source_url": "https://www.fnsb.gov/169/Tax-Foreclosure",
+          "quote": "September 10, 2027 - Tax Foreclosure Sale"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Not stated on the Tax Foreclosure page. The Borough's land page says the Treasury and Budget Division may hold an auction for properties with unpaid taxes and posts listings and auction timelines on the Tax Foreclosure page.",
+      "sources": [
+        {
+          "url": "https://www.fnsb.gov/169/Tax-Foreclosure",
+          "read_on": "2026-10-27",
+          "terms": "not found (CivicPlus site; no disclaimer or terms text on the page)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.fnsb.gov/1156/Buying-Borough-Land",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.fnsb.gov/1156/Buying-Borough-Land",
+          "quote": "The FNSB Financial Services Treasury and Budget Division may hold an auction for properties with unpaid taxes."
+        },
+        {
+          "url": "https://www.fnsb.gov/169/Tax-Foreclosure",
+          "quote": "no later than 5:00 P.M. AKDT September 10,2027"
+        }
+      ]
+    },
+    {
+      "county": "Kenai Peninsula Borough",
+      "slug": "kenai-peninsula",
+      "office": "Kenai Peninsula Borough Finance Department, Property Tax (Delinquent Accounts)",
+      "phone": "(907) 714-2183",
+      "address": "PO Box 3040, Soldotna, AK 99669 (mailing)",
+      "website": "https://www.kpb.us/departments/property-tax/property-tax-resources/tax-foreclosure-sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming tax foreclosure sale posted.",
+      "how_to_bid": "The Borough sells foreclosed property at a public outcry auction. Deposit, registration and payment terms are not stated on the tax foreclosure sales page.",
+      "sources": [
+        {
+          "url": "https://www.kpb.us/departments/property-tax/property-tax-resources/tax-foreclosure-sales",
+          "read_on": "2026-10-27",
+          "terms": "Footer copyright line only: '© KPB All rights reserved.' No terms of use or disclaimer page found, and no statement on reusing sale information.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.kpb.us/departments/property-tax/property-tax-resources/tax-foreclosure-sales",
+          "quote": "the sale of foreclosed property by the Kenai Peninsula Borough at a public outcry auction"
+        }
+      ],
+      "notes": {
+        "format_note": "'in person' is based on the page calling the sale a public outcry auction; the page does not state a location."
+      }
+    },
+    {
+      "county": "City and Borough of Juneau",
+      "slug": "juneau",
+      "office": "City and Borough of Juneau, Division of Lands & Resources",
+      "phone": "907-586-5252",
+      "address": "155 Heritage Way, Juneau, Alaska 99801",
+      "website": "https://juneau.org/lands/foreclosures",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. CBJ holds tax-foreclosed property sales only occasionally; the latest listed is closed: 'Closed: 2024 Tax Foreclosed Property Sale' (a sealed-bid sale of one property).",
+      "how_to_bid": "not stated for a current sale. The 2024 sale took sealed bids on a CBJ bid form.",
+      "sources": [
+        {
+          "url": "https://juneau.org/lands/foreclosures",
+          "read_on": "2026-10-27",
+          "terms": "Footer copyright only ('© 2001-2026 City and Borough of Juneau'); no linked terms or disclaimer page and no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://juneau.org/lands/foreclosures",
+          "quote": "Closed: 2024 Tax Foreclosed Property Sale"
+        }
+      ]
+    }
+  ]
+}

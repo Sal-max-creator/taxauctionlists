@@ -1,0 +1,127 @@
+{
+  "state": "MA",
+  "name": "Massachusetts",
+  "sale_type": "deed",
+  "local_unit": "towns",
+  "overview": "Massachusetts cities and towns, not counties, collect property tax. If a tax on land is not paid within fourteen days after demand, the town's collector can take the land for the town, creating a tax title, a limited ownership held by the town or a third party that buys or is assigned it; the account then moves from the collector to the treasurer. The owner can redeem by paying the tax title with simple interest of 16% a year, or 8% for tax titles entered on or after November 1, 2024. After 6 or 12 months the holder can bring a foreclosure case in the Land Court, and once it is foreclosed the town may keep the property or sell it, listing it with a broker within 180 days; former owners can claim the excess equity from a sale.",
+  "overview_sources": [
+    {
+      "url": "https://malegislature.gov/laws/generallaws/parti/titleix/chapter60/section53",
+      "quote": "If a tax on land is not paid within fourteen days after demand therefor",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://malegislature.gov/laws/generallaws/parti/titleix/chapter60/section53",
+      "quote": "the collector may take such land for the town",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mass.gov/info-details/tax-lien-foreclosure-informational-outline",
+      "quote": "A limited property ownership that a city, town or third party can get to collect real estate taxes",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mass.gov/info-details/tax-lien-foreclosure-informational-outline",
+      "quote": "the property account is transferred from the city or town’s collector to the city or town’s treasurer",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mass.gov/info-details/tax-lien-foreclosure-informational-outline",
+      "quote": "Simple interest then builds up at a rate of 8% or 16% annually, depending on the date.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mass.gov/doc/2024-municipal-law-seminar-workshop-a-discussion-summary/download",
+      "quote": "Reduces the tax title interest rate from 16% to 8%.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mass.gov/info-details/tax-lien-foreclosure-informational-outline",
+      "quote": "the case can be brought either 6 or 12 months after the taking or sale.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mass.gov/info-details/tax-lien-foreclosure-informational-outline",
+      "quote": "The plaintiff may then sell the property or keep it and obtain an appraisal.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mass.gov/doc/2024-municipal-law-seminar-workshop-a-discussion-summary/download",
+      "quote": "Municipality must list the property for sale with a real estate agent or broker within 180 days of the",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mass.gov/info-details/tax-lien-foreclosure-informational-outline",
+      "quote": "Claims to recover the excess equity must be submitted directly to the plaintiff, not to the Land Court.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Springfield (city)",
+      "slug": "springfield",
+      "office": "City of Springfield Collector-Treasurer (Office of the City Treasurer)",
+      "phone": "not stated",
+      "address": "City Hall, Room 112, 36 Court Street, Springfield, MA 01103",
+      "website": "https://www.springfield-ma.gov/finance/auctions",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction after 2026-10-27 posted. The latest was the City's first Real Estate Auction of 2026, held Tuesday, February 3, 2026 at Springfield City Hall (past).",
+      "how_to_bid": "Auctions are held in person at Springfield City Hall. Under the terms of sale for the February 2026 auction, each property (acquired by the City through tax foreclosure) required a $5,000 deposit by certified check, verified before the auction started, and carried a 5% buyer's premium; the balance was due at closing. The prior owner or anyone acting for them, and anyone who owes the City money, cannot buy.",
+      "sources": [
+        {
+          "url": "https://www.springfield-ma.gov/finance/auctions",
+          "read_on": "2026-10-27",
+          "terms": "Springfield's web policies say most public record material 'can be copied and used for any purpose'; City-copyrighted material (site design and layout) is limited to fair use. Restate facts only.",
+          "terms_url": "https://www.springfield-ma.gov/cos/web-policies"
+        },
+        {
+          "url": "https://www.springfield-ma.gov/finance/fileadmin/collector/JDR/Terms_and_Conditions_of_Sale__FINAL_.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same site web policies; terms-of-sale PDF is a public record. Restate facts only.",
+          "terms_url": "https://www.springfield-ma.gov/cos/web-policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.springfield-ma.gov/finance/auctions",
+          "quote": "on Tuesday, February 3, 2026 at Springfield City Hall"
+        },
+        {
+          "url": "https://www.springfield-ma.gov/finance/fileadmin/collector/JDR/Terms_and_Conditions_of_Sale__FINAL_.pdf",
+          "quote": "Five Thousand Dollars ($5,000.00), in the form of a certified check"
+        },
+        {
+          "url": "https://www.springfield-ma.gov/finance/fileadmin/collector/JDR/Terms_and_Conditions_of_Sale__FINAL_.pdf",
+          "quote": "All properties will be sold subject to a Buyer's Premium of five percent (5%)."
+        }
+      ]
+    },
+    {
+      "county": "Fall River (city)",
+      "slug": "fall-river",
+      "office": "City of Fall River Treasurer's Office (Custodian of Tax Possessions)",
+      "phone": "(508) 324-2260",
+      "address": "One Government Center, Fall River, MA 02722",
+      "website": "https://www.fallriverma.gov/departments/financial_services/tax_possessions_and_upcoming_auctions.php",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction after 2026-10-27 posted. The latest on the City's Tax Possessions and Upcoming Auctions page was October 29, 2025 (243 Lynwood Street), which is past.",
+      "how_to_bid": "Auctions are held in person at the property, run by the Custodian of Tax Possessions, and parcels are sold as is. For the latest sale, bidders had to show a $15,000 certified check or money order to qualify, and the winner paid the balance within thirty days by bank check, certified check or wire to the Treasurer at One Government Center.",
+      "sources": [
+        {
+          "url": "https://www.fallriverma.gov/departments/financial_services/tax_possessions_and_upcoming_auctions.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page linked. Footer: '© Copyright The City of Fall River.' No reuse or redistribution clause found; restate facts only.",
+          "terms_url": null
+        }
+      ]
+    }
+  ]
+}

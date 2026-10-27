@@ -1,0 +1,157 @@
+{
+  "state": "VT",
+  "name": "Vermont",
+  "sale_type": "redeemable deed",
+  "local_unit": "towns",
+  "overview": "Vermont has no county tax sales. Each town's or city's collector of delinquent taxes can levy on land with unpaid taxes and advertise it for sale at public auction in the town where it lies, with the last newspaper notice at least 10 days before the sale. The winning bidder buys the property subject to a right of redemption: the owner or mortgagee can redeem within one year from the day of sale by paying the collector who made the sale, with interest at one percent per month. If the property is not redeemed, the collector executes a deed to the purchaser.",
+  "overview_sources": [
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/32/133/05252",
+      "quote": "Advertise forthwith such land for sale at public auction in the town where it lies",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/32/133/05252",
+      "quote": "the last publication to be at least 10 days before such sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/32/133/05253",
+      "quote": "a right to redemption for a period of one year from the date of sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/32/133/05260",
+      "quote": "within one year from the day of sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/32/133/05260",
+      "quote": "pays or tenders to the collector who made the sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/32/133/05260",
+      "quote": "calculated at a rate of one percent per month or fraction thereof",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/32/133/05261",
+      "quote": "the collector or his or her successor shall execute to the purchaser a deed",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Rutland (city)",
+      "slug": "rutland",
+      "office": "City of Rutland Treasurer's Office",
+      "phone": "802-773-1800 x239",
+      "address": "1 Strongs Avenue, PO Box 969, Rutland, VT 05702",
+      "website": "https://www.rutlandcity.org/departments/city-treasurer/",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "not stated",
+          "label": "Tax sale (4 properties)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Properties listed: 64 Merchants Row, 164 Baxter Street, 84 Plain Street and 440 West Street. Time and place are not stated on the Treasurer's page.",
+          "source_url": "https://www.rutlandcity.org/departments/city-treasurer/",
+          "quote": "The following properties will be up for tax sale on Tuesday, November 17,2026:"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "not stated",
+          "label": "Tax sale (3 properties)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Properties listed: 37 Water Street, 150 River Street and 26 Hopkins Street. Time and place are not stated on the Treasurer's page.",
+          "source_url": "https://www.rutlandcity.org/departments/city-treasurer/",
+          "quote": "The following properties will be up for tax sale on Thursday, November 19,2026:"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "not stated on the City Treasurer's page. Under state law the collector sells at public auction in the town, and the owner can redeem within one year, so a buyer gets a deed only if the property is not redeemed. Contact the Treasurer's Office for the time, place and payment terms.",
+      "sources": [
+        {
+          "url": "https://www.rutlandcity.org/departments/city-treasurer/",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer link on the page; footer has no copyright or reuse notice. No reuse restriction found.",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Brattleboro (town)",
+      "slug": "brattleboro",
+      "office": "Town of Brattleboro Treasurer's Office / Finance Department",
+      "phone": "not stated",
+      "address": "Municipal Center, 230 Main Street, Brattleboro, VT",
+      "website": "https://brattleboro.gov/tax-sale-process",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-29",
+          "time": "10:00 AM",
+          "label": "Tax sale",
+          "deposit": "not stated; bids are paid in certified funds (certified check, treasurer's check or money order), no personal checks",
+          "registration_deadline": "not stated",
+          "note": "Held in the Selectboard Room, 2nd floor of the Municipal Center, 230 Main Street. The starting bid is the outstanding taxes and all tax sale fees.",
+          "source_url": "https://brattleboro.gov/tax-sale-process",
+          "quote": "Municipal Center, 230 Main Street) on October 29, 2026, at 10 a.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Attend in person. The starting bid is the outstanding taxes plus all fees of the tax sale. Pay in certified funds (certified check, treasurer's check or money order); personal checks are not accepted, and any certified funds above the bid are refunded the day of the sale. The owner or lienholder has one year to redeem, and the bidder earns 1% interest per month on the bid until then. A buyer who gets the property pays current taxes, water and sewer charges, and transfer and recording fees at closing.",
+      "sources": [
+        {
+          "url": "https://brattleboro.gov/tax-sale-process",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page linked. Footer: '© 2026 Town of Brattleboro, Vermont' and 'All Rights Reserved'. No reuse or redistribution clause found; restate facts, don't copy page text wholesale.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://brattleboro.gov/tax-sale-process",
+          "quote": "The starting bid will be the outstanding taxes and all fees associated with tax sale."
+        },
+        {
+          "url": "https://brattleboro.gov/tax-sale-process",
+          "quote": "The taxpayer or lien holder has one year to redeem the property."
+        }
+      ]
+    },
+    {
+      "county": "Stowe (town)",
+      "slug": "stowe",
+      "office": "Collector of Delinquent Taxes (Town Treasurer's Office)",
+      "phone": "(802) 253-7350",
+      "address": "P.O. Box 730, Stowe, VT 05672",
+      "website": "https://www.stowevt.gov/Departments/Town-Clerk-Treasurer/Delinquent-Tax-Sales",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The newest notice on the page is a delinquent tax sale warning dated February 5, 2026 (1007 Mountain Road), which is past.",
+      "how_to_bid": "not stated on the page. The town posts each sale's warning (the collector's statement and description of lands to be sold) on its Delinquent Tax Sales page.",
+      "sources": [
+        {
+          "url": "https://www.stowevt.gov/Departments/Town-Clerk-Treasurer/Delinquent-Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer link on the page. Footer: '© 2026 Town of Stowe'. No reuse restriction found.",
+          "terms_url": null
+        }
+      ]
+    }
+  ]
+}

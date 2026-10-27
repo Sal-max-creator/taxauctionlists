@@ -7,8 +7,8 @@ pagination:
   alias: st
 permalink: "{{ st.url }}"
 eleventyComputed:
-  title: "{{ st.name }} tax sales: upcoming county dates and deadlines"
-  description: "Upcoming {{ st.name }} tax sales by county: dates, deposits, registration deadlines and how bidding works, each linked to the county's own page."
+  title: "{% if st.counties.length %}{{ st.name }} tax sales: upcoming {{ st.unitSingular }} dates and deadlines{% else %}{{ st.name }} tax sales: how they work{% endif %}"
+  description: "{% if st.counties.length %}Upcoming {{ st.name }} tax sales by {{ st.unitSingular }}: dates, deposits, registration deadlines and how bidding works, each linked to the {{ st.unitSingular }}'s own page.{% else %}How {{ st.name }} handles unpaid property taxes, and why we don't list {{ st.name }} sales, with links to the official sources.{% endif %}"
 ---
 {%- set stRows = sales | whereEq("stateCode", st.state) %}
 {%- set next = stRows[0] %}
@@ -32,17 +32,30 @@ eleventyComputed:
 {% if st.overview_sources.length %}
 <p class="muted">Based on: {% for s in st.overview_sources %}<a href="{{ s.url }}" rel="nofollow noopener">{{ s.url | hostname }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>
 {% endif %}
-<p>We track {{ st.counties.length }} {{ st.name }} {{ "jurisdictions" if st.state == "NJ" else "counties" }}. {% if next %}{{ dated.length }} of them {{ "has" if dated.length == 1 else "have" }} a dated sale posted; the next is in <a href="{{ next.countyUrl }}">{{ next.countyFullName }}</a> on {{ next.date | longDate }}.{% else %}None has posted a date we can confirm yet; see each one below for its schedule.{% endif %}</p>
+{%- if not st.counties.length %}
+<h2>Why we don't list {{ st.name }} sales</h2>
+<p>{{ st.no_listed_sales }}</p>
+{% include "notice.njk" %}
+{%- set faqs = [
+  { q: "Does " + st.name + " sell tax liens or tax deeds?", a: st.overview },
+  { q: "Why are there no " + st.name + " sales on this site?", a: st.no_listed_sales }
+] %}
+{% set faqTitle = st.name + " tax sale questions" %}
+{% include "faq.njk" %}
+{% include "paid-teaser.njk" %}
+{% include "signup.njk" %}
+{%- else %}
+<p>We track {{ st.placesText }} in {{ st.name }}. {% if next %}{{ dated.length }} of them {{ "has" if dated.length == 1 else "have" }} a dated sale posted; the next is in <a href="{{ next.countyUrl }}">{{ next.countyFullName }}</a> on {{ next.date | longDate }}.{% else %}None has posted a date we can confirm yet; see each one below for its schedule.{% endif %}</p>
 {% include "notice.njk" %}
 
 <h2>Upcoming dated sales in {{ st.name }}</h2>
 {% set rows = stRows %}{% set showState = false %}
 {% include "sales-table.njk" %}
 
-<h2>{{ "Towns and cities" if st.state == "NJ" else "Counties" }}</h2>
+<h2>{{ "Towns and cities" if st.state == "NJ" else st.unitPlural | capitalize }}</h2>
 <div class="table-scroll">
 <table>
-  <thead><tr><th scope="col">{{ "Where" if st.state == "NJ" else "County" }}</th><th scope="col">Type</th><th scope="col">Format</th><th scope="col">Next sale</th><th scope="col">Checked</th></tr></thead>
+  <thead><tr><th scope="col">{{ "County" if st.unitPlural == "counties" else "Where" }}</th><th scope="col">Type</th><th scope="col">Format</th><th scope="col">Next sale</th><th scope="col">Checked</th></tr></thead>
   <tbody>
   {% for c in st.counties %}
     <tr>
@@ -68,3 +81,4 @@ eleventyComputed:
 
 {% include "paid-teaser.njk" %}
 {% include "signup.njk" %}
+{%- endif %}

@@ -1,0 +1,127 @@
+{
+  "state": "RI",
+  "name": "Rhode Island",
+  "sale_type": "redeemable deed",
+  "local_unit": "towns",
+  "overview": "In Rhode Island, each city or town tax collector can advertise and sell real estate with unpaid taxes at a collector's sale. The buyer gets a tax title that can still be redeemed at any time before a petition to foreclose the right of redemption is filed. That petition can be brought after one year from the sale. To redeem from a private buyer, the owner pays the purchase price plus interest at one percent per month, costs and a penalty; when the city or town itself bought the property, the penalty is ten percent of the purchase price within six months of the sale, plus one percent for each later month.",
+  "overview_sources": [
+    {
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-9/44-9-7.htm",
+      "quote": "The collector may advertise and take, or sell any real estate liable for taxes in the manner directed.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-9/44-9-21.htm",
+      "quote": "at any time prior to the filing of the petition for foreclosure",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-9/44-9-25.htm",
+      "quote": "After one year from a sale of land for taxes",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-9/44-9-21.htm",
+      "quote": "at the rate of one percent (1%) per month",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-9/44-9-19.htm",
+      "quote": "a penalty which shall be ten percent (10%) of the purchase price if redeemed within six (6) months",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-9/44-9-19.htm",
+      "quote": "an additional one percent (1%) of the purchase price for each succeeding month",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "East Providence (city)",
+      "slug": "east-providence",
+      "office": "City of East Providence Tax Collector (Treasury Division, Finance Department)",
+      "phone": "(401) 435-7500",
+      "address": "East Providence City Hall, 145 Taunton Ave., East Providence, RI 02914",
+      "website": "https://eastprovidenceri.gov/node/5303",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held April 15, 2026.",
+      "how_to_bid": "Based on the City's 2026 notice: a public auction to the highest bidder in the Council Chambers at East Providence City Hall, 145 Taunton Avenue; terms were cash or bank check only. Deposit and registration: not stated.",
+      "sources": [
+        {
+          "url": "https://eastprovidenceri.gov/node/5303",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer, terms or privacy link in the footer (copyright notice and developer credit only). No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://eastprovidenceri.gov/sites/default/files/field/files-docs/2026_tax_sale_advertisement_1.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://eastprovidenceri.gov/sites/default/files/field/files-docs/2026_tax_sale_advertisement_1.pdf",
+          "quote": "on the 15th of April, 2026 at 10:00 A.M. Local Time"
+        },
+        {
+          "url": "https://eastprovidenceri.gov/sites/default/files/field/files-docs/2026_tax_sale_advertisement_1.pdf",
+          "quote": "TERMS: CASH OR BANK CHECK ONLY"
+        },
+        {
+          "url": "https://eastprovidenceri.gov/node/5303",
+          "quote": "Supervises and conducts annual tax sales process."
+        }
+      ]
+    },
+    {
+      "county": "Pawtucket (city)",
+      "slug": "pawtucket",
+      "office": "City of Pawtucket Tax Collector's Office",
+      "phone": "(401) 728-0500 ext. 344",
+      "address": "Pawtucket City Hall, 137 Roosevelt Avenue, 1st Floor, Room 110, Pawtucket, RI 02860",
+      "website": "https://pawtucketri.com/tax-collectors-office",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet set: the Tax Collector's page says the 2027 registration forms and list are not available until the tax sale date is determined.",
+      "how_to_bid": "Based on the City's 2025 notice: the City Treasurer sold at public auction in person at the Pawtucket Municipal Annex, 100 Freight Street. Bidders had to pre-qualify at the Collections Office, 137 Roosevelt Ave., before the sale, and pay by cash, certified check or money order. The 2027 bidder registration forms will be posted on the Tax Collector's page.",
+      "sources": [
+        {
+          "url": "https://pawtucketri.com/tax-collectors-office",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer, terms or privacy link in the footer. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://pawtucketri.gov/wp-content/uploads/2025/05/2025-Tax-Sale-Advertised-List.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://pawtucketri.com/tax-collectors-office",
+          "quote": "Not Available until Tax Sale date is determined"
+        },
+        {
+          "url": "https://pawtucketri.gov/wp-content/uploads/2025/05/2025-Tax-Sale-Advertised-List.pdf",
+          "quote": "on June 16, 2025 at 10:00 AM, Local Time"
+        },
+        {
+          "url": "https://pawtucketri.gov/wp-content/uploads/2025/05/2025-Tax-Sale-Advertised-List.pdf",
+          "quote": "CASH, CERTIFIED CHECK OR MONEY ORDER."
+        }
+      ]
+    }
+  ]
+}

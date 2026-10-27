@@ -15,6 +15,12 @@ for (const { file, data } of readStateFiles()) {
   if (!SALE_TYPES.has(data.sale_type)) errors.push(where(`unknown state sale_type "${data.sale_type}"`));
   if (!data.overview) errors.push(where("missing overview"));
   for (const s of data.overview_sources || []) if (isLinkOnly(s.url)) errors.push(where(`overview source is link-only: ${s.url}`));
+  if (data.local_unit && !["towns", "boroughs"].includes(data.local_unit)) errors.push(where(`local_unit must be "towns" or "boroughs", not "${data.local_unit}"`));
+  // A state with no listed places must say why, from its overview sources.
+  if (!(data.counties || []).length) {
+    if (!data.no_listed_sales) errors.push(where("no counties listed: add no_listed_sales saying why"));
+    if (!(data.overview_sources || []).length) errors.push(where("no counties listed: the explainer needs overview_sources"));
+  } else if (data.no_listed_sales) errors.push(where("no_listed_sales is only for a state with no counties listed"));
 
   const slugs = new Set();
   for (const c of data.counties || []) {

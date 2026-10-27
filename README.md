@@ -47,6 +47,8 @@ Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloud
 {
   "state": "FL", "name": "Florida", "sale_type": "lien",   // lien | deed | hybrid | redeemable deed
   "overview": "Plain-English summary", "overview_sources": [{ "url": "...", "quote": "..." }],
+  "local_unit": "towns",              // optional: "towns" or "boroughs" when sales are run below county level (New England, Alaska)
+  "no_listed_sales": "...",           // only with "counties": []: why the state has no sales to list; the page becomes an explainer
   "counties": [{
     "county": "Orange", "slug": "orange", "office": "...", "phone": "...", "address": "...", "website": "...",
     "sale_type": "deed", "format": "online",                 // online | in person | both | unknown

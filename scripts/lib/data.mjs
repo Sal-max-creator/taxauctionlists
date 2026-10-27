@@ -16,6 +16,8 @@ export function readStateFiles() {
     .map((f) => ({ file: path.join(statesDir, f), data: JSON.parse(fs.readFileSync(path.join(statesDir, f), "utf8")) }));
 }
 
+const UNIT_SINGULAR = { counties: "county", towns: "town", boroughs: "borough", jurisdictions: "jurisdiction" };
+
 // Loads state files and adds derived fields the templates use.
 export function loadStates() {
   const now = today();
@@ -32,14 +34,19 @@ export function loadStates() {
             stateName: data.name,
             stateSlug: slug,
             url: `/states/${slug}/${c.slug}/`,
-            // "Harris County"; municipalities are stored with their county in brackets and kept as they are.
-            fullName: c.county.includes("(") ? c.county : `${c.county} County`,
+            // "Harris County"; municipalities are stored with their county in brackets, and towns and
+            // boroughs (states with local_unit) are stored by their full name; both are kept as they are.
+            fullName: c.county.includes("(") || data.local_unit ? c.county : `${c.county} County`,
             lastChecked: checks.at(-1) || null,
             upcoming: sales,
           };
         })
         .sort((a, b) => a.county.localeCompare(b.county));
-      return { ...data, slug, url: `/states/${slug}/`, counties, upcomingCount: counties.reduce((n, c) => n + c.upcoming.length, 0) };
+      // What the state's places are called: "counties" unless the state says otherwise.
+      const unitPlural = data.local_unit || (data.state === "NJ" ? "jurisdictions" : "counties");
+      const unitSingular = UNIT_SINGULAR[unitPlural] || unitPlural;
+      const placesText = counties.length ? `${counties.length} ${counties.length === 1 ? unitSingular : unitPlural}` : "No listed sales";
+      return { ...data, slug, url: `/states/${slug}/`, counties, unitPlural, unitSingular, placesText, upcomingCount: counties.reduce((n, c) => n + c.upcoming.length, 0) };
     })
     .sort((a, b) => a.name.localeCompare(b.name));
 }

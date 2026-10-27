@@ -723,6 +723,634 @@
           "quote": "In Volusia County, tax certificate sales are currently held over the internet with our tax sale vendor - LienHub."
         }
       ]
+    },
+    {
+      "county": "Seminole",
+      "slug": "seminole",
+      "office": "Seminole County Clerk of the Circuit Court & Comptroller - Tax Deed Department (tax deeds); Seminole County Tax Collector (tax certificates)",
+      "phone": "not stated (407-665-4300 is listed only for properties auctioned before January 2025)",
+      "address": "Post Office Box 8099, Sanford, FL 32772-8099 (Clerk mailing address)",
+      "website": "https://www.seminoleclerk.org/tax-deed-sales/",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds; LienHub for tax certificates",
+        "url": "https://seminole.realtaxdeed.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax deed sale dates on the Clerk's pages; the Clerk points to the auction calendar on the online sale site (link-only). The Tax Collector's 2027 tax certificate sale date is not yet posted (certificates are auctioned when taxes are unpaid by June 1st).",
+      "how_to_bid": "Tax deeds: the Clerk's page links to the online auction site and its auction calendar; deposit and payment rules are not stated on the Clerk's page. Questions go to the Clerk's Tax Deed Department by email (taxdeeds@seminoleclerk.org). Tax certificates: the Tax Collector's sale is held online through LienHub; register online with LienHub before the sale. Bidding starts at 18% interest and goes down.",
+      "sources": [
+        {
+          "url": "https://www.seminoleclerk.org/tax-deed-sales/",
+          "read_on": "2026-10-27",
+          "terms": "No separate terms page; inline disclaimer covers accuracy and liability only (no warranty, no liability for errors). No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.seminoleclerkfl.gov/?p=8902",
+          "read_on": "2026-10-27",
+          "terms": "Same Clerk office (alternate domain); inline accuracy/liability disclaimer only, no reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://seminolecounty.tax/services/property-taxes/delinquent-property-taxes",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Service say all content 'is property of the Seminole County Tax Collector' and bar unauthorized uploads or changes. No clause on copying or reuse found.",
+          "terms_url": "https://seminolecounty.tax/privacy-policy-terms-use/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.seminoleclerk.org/tax-deed-sales/",
+          "quote": "The Seminole County Clerk of the Circuit Court & Comptroller is statutorily responsible for conducting Tax Deed Sales"
+        },
+        {
+          "url": "https://www.seminoleclerk.org/tax-deed-sales/",
+          "quote": "To view tax deed files and our auction calendar, use the following links."
+        },
+        {
+          "url": "https://www.seminoleclerk.org/tax-deed-sales/",
+          "quote": "All properties sold at a tax deed sale qualify under \"buyer beware\"."
+        },
+        {
+          "url": "https://seminolecounty.tax/services/property-taxes/delinquent-property-taxes",
+          "quote": "The 2026 Seminole County Tax Certificate Sale is hosted online through LienHub.com."
+        },
+        {
+          "url": "https://seminolecounty.tax/services/property-taxes/delinquent-property-taxes",
+          "quote": "If property taxes are not paid by June 1st, the Tax Collector will auction tax certificates"
+        },
+        {
+          "url": "https://seminolecounty.tax/services/property-taxes/delinquent-property-taxes",
+          "quote": "If not paid within two years, the certificate holder can apply for a tax deed."
+        }
+      ]
+    },
+    {
+      "county": "Sarasota",
+      "slug": "sarasota",
+      "office": "Sarasota County Clerk of the Circuit Court and County Comptroller - Tax Deed Department (tax deeds); Sarasota County Tax Collector (tax certificates)",
+      "phone": "(941) 861-7400 (Clerk); 941.861.8300 (Tax Collector)",
+      "address": "P.O. Box 3079, Sarasota, FL 34230-3079 (Clerk)",
+      "website": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds; LienHub for tax certificates",
+        "url": "https://sarasota.realtaxdeed.com"
+      },
+      "schedule_rule": "In Sarasota County, Tax Deed auctions are conducted online Monday through Friday, excluding holidays, beginning at 9:00 A.M. EST/EDT",
+      "sales": [],
+      "next_sale_note": "No specific tax deed sale dates on the Clerk's pages; they are on the online auction calendar (link-only). The Tax Collector's 2027 tax certificate sale date is not yet posted (bidder registration opens in early May).",
+      "how_to_bid": "Tax deeds: register for an online auction account on the official tax deed sale site. A deposit of guaranteed funds equal to 5% of your winning bid or $200, whichever is greater, must be in your auction account before the auction starts. The balance is due by the date and time stated in your winning confirmation email. Proxy bidding means you need not be online at the exact sale time. Auctions can be cancelled or postponed at any point. Tax certificates: the Tax Collector's sale is a reverse auction on LienHub; bidders must pre-register (registration opens in early May) and no deposit is required.",
+      "sources": [
+        {
+          "url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions",
+          "read_on": "2026-10-27",
+          "terms": "Property Auction Calendars Disclaimer covers accuracy, liability and technical outages only; footer '© 2026 Sarasota Clerk of the Circuit Court and County Comptroller.' No clause on copying or reuse found.",
+          "terms_url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions/Property-Auction-Calendars-Disclaimer"
+        },
+        {
+          "url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions/Tax-Deed-Auction-FAQs",
+          "read_on": "2026-10-27",
+          "terms": "Same site disclaimer as above.",
+          "terms_url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions/Property-Auction-Calendars-Disclaimer"
+        },
+        {
+          "url": "https://www.sarasotataxcollector.gov/services/tax-services/property-tax/tax-cert-sale",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Service cover reliability and security of information only; no clause on copying or reuse found.",
+          "terms_url": "https://www.sarasotataxcollector.gov/terms"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions",
+          "quote": "In Sarasota County, Tax Deed auctions are conducted online Monday through Friday, excluding holidays,"
+        },
+        {
+          "url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions",
+          "quote": "beginning at 9:00 A.M. EST/EDT"
+        },
+        {
+          "url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions",
+          "quote": "Auctions can be cancelled or postponed at any point."
+        },
+        {
+          "url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions/Tax-Deed-Auction-FAQs",
+          "quote": "A deposit of guaranteed funds is required before you can bid."
+        },
+        {
+          "url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions/Tax-Deed-Auction-FAQs",
+          "quote": "A deposit equal to 5% of your winning bid or $200.00, whichever is greater,"
+        },
+        {
+          "url": "https://www.sarasotaclerk.com/Home-and-Property/Tax-Deeds/Tax-Deed-Auctions/Tax-Deed-Auction-FAQs",
+          "quote": "The balance due on your tax deed purchase must be made by the due date and time stated in your winning confirmation email."
+        },
+        {
+          "url": "https://www.sarasotataxcollector.gov/services/tax-services/property-tax/tax-cert-sale",
+          "quote": "The Tax Certificate Sale is conducted at LienHub.com and bidders must pre-register in order to participate in the sale."
+        },
+        {
+          "url": "https://www.sarasotataxcollector.gov/services/tax-services/property-tax/tax-cert-sale",
+          "quote": "Bidder registration is available in early May."
+        },
+        {
+          "url": "https://www.sarasotataxcollector.gov/services/tax-services/property-tax/tax-cert-sale",
+          "quote": "Bidders are not required to place a deposit."
+        }
+      ]
+    },
+    {
+      "county": "Manatee",
+      "slug": "manatee",
+      "office": "Manatee County Clerk of the Circuit Court and Comptroller - Tax Deeds (tax deeds); Manatee County Tax Collector (tax certificates)",
+      "phone": "not stated on the Clerk's tax deed page",
+      "address": "1115 Manatee Avenue West, Bradenton, FL 34205 (mailing: Attn: Tax Deeds, P.O. Box 25400, Bradenton, FL 34206)",
+      "website": "https://manateeclerk.com/departments/tax-deeds/",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealForeclose)",
+        "url": "https://www.manatee.realforeclose.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Clerk's calendar of upcoming tax deed sales is on the online auction site (link-only), not on its own pages. The Tax Collector's 2027 tax certificate sale date is not yet posted (an annual sale is held if taxes remain unpaid on or before June 1st).",
+      "how_to_bid": "Tax deed sales are held online; instructions on deposits, bidding and payments are on the auction website. The deposit is $200 or 5% per sale; walk-in deposits must be made more than one hour before the sale, and online ACH deposits at least 4-5 business days before. Computers with access to the auction site are available at the Clerk's office in the Historical Courthouse. Payment deadline not stated on the Clerk's pages. Tax certificates are sold separately by the Tax Collector in an annual sale; unsold certificates go to the county and can be bought at any time.",
+      "sources": [
+        {
+          "url": "https://manateeclerk.com/departments/tax-deeds/",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer (in the Privacy Statement) covers indemnification and says the information is 'for the convenience of our customers'. No clause on copying or reuse found.",
+          "terms_url": "https://manateeclerk.com/about-us/privacy-statement/"
+        },
+        {
+          "url": "https://manateeclerk.com/departments/tax-deeds/frequently-asked-questions/",
+          "read_on": "2026-10-27",
+          "terms": "Same site terms as above.",
+          "terms_url": "https://manateeclerk.com/about-us/privacy-statement/"
+        },
+        {
+          "url": "https://www.taxcollector.com/services/property-tax/tax-certs.cfm",
+          "read_on": "2026-10-27",
+          "terms": "No terms page linked; page disclaimer concerns online payments only. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://manateeclerk.com/departments/tax-deeds/",
+          "quote": "A calendar of upcoming tax deed sales is available at www.manatee.realforeclose.com."
+        },
+        {
+          "url": "https://manateeclerk.com/departments/tax-deeds/",
+          "quote": "On-line sales will be held at www.manatee.realforeclose.com."
+        },
+        {
+          "url": "https://manateeclerk.com/departments/tax-deeds/",
+          "quote": "For walk in deposits, the $200 or 5% per sale deposit requirement must be made prior to one hour before the sale."
+        },
+        {
+          "url": "https://manateeclerk.com/departments/tax-deeds/",
+          "quote": "On-line deposits made by ACH must be made at least 4-5 business days prior to the sale."
+        },
+        {
+          "url": "https://manateeclerk.com/departments/tax-deeds/frequently-asked-questions/",
+          "quote": "instructions regarding deposits, bidding, and payments can be found on their website."
+        },
+        {
+          "url": "https://www.taxcollector.com/services/property-tax/tax-certs.cfm",
+          "quote": "If these taxes remain unpaid on or before June 1st, our office conducts an annual tax certificate sale."
+        }
+      ]
+    },
+    {
+      "county": "Osceola",
+      "slug": "osceola",
+      "office": "Osceola County Clerk of the Circuit Court & Comptroller (tax deeds); Osceola County Tax Collector (tax certificates)",
+      "phone": "(407) 742-3500",
+      "address": "2 Courthouse Square, Kissimmee, Florida 34741",
+      "website": "https://osceolaclerk.com/tax-deeds/",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds; LienHub for tax certificates",
+        "url": "https://www.osceola.realtaxdeed.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-10",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (30 certificates listed in the Clerk's notice)",
+          "deposit": "Non-refundable deposit of at least 5% of the final bid or $200, whichever is greater, due with the Clerk by 3:00 p.m. the day before the sale (ACH at least four business days before).",
+          "list_url": "https://osceolaclerk.com/wp-content/uploads/11-10-2026.pdf",
+          "list_note": "Clerk's published Notice of Sale listing the certificates and parcels.",
+          "source_url": "https://osceolaclerk.com/wp-content/uploads/11-10-2026.pdf",
+          "quote": "the 10th day of November, 2026 at 11:00 am."
+        },
+        {
+          "date": "2026-12-15",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (35 certificates listed in the Clerk's notice)",
+          "deposit": "Non-refundable deposit of at least 5% of the final bid or $200, whichever is greater, due with the Clerk by 3:00 p.m. the day before the sale (ACH at least four business days before).",
+          "list_url": "https://osceolaclerk.com/wp-content/uploads/12-15-2026.pdf",
+          "list_note": "Clerk's published Notice of Sale listing the certificates and parcels.",
+          "source_url": "https://osceolaclerk.com/wp-content/uploads/12-15-2026.pdf",
+          "quote": "the 15th day of December, 2026 at 11:00 am."
+        }
+      ],
+      "next_sale_note": "Tax deed sale notices are posted on the Clerk's tax deed page. The Tax Collector's 2027 tax certificate sale date is not yet posted (held on or before June 1st).",
+      "how_to_bid": "Tax deeds: register on the online tax deed sale site before bidding. The successful high bidder must have a non-refundable deposit of at least 5% of the final bid or $200, whichever is greater, settled in the Clerk's account by 3:00 p.m. the day before the sale; ACH deposits must be made at least four business days before. The rest of the bid is due at the Clerk's Office within 24 hours after the sale, plus recording fees and documentary stamps. Tax certificates: the Tax Collector's sale is held online through LienHub on or before June 1st; bidding starts at 18% and the lowest interest rate wins.",
+      "sources": [
+        {
+          "url": "https://osceolaclerk.com/tax-deeds/",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms page found; page says 'The Clerk's Office does not offer legal advice.' No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://osceolaclerk.com/wp-content/uploads/11-10-2026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms page found; page says 'The Clerk's Office does not offer legal advice.' No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://osceolaclerk.com/wp-content/uploads/12-15-2026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms page found; page says 'The Clerk's Office does not offer legal advice.' No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://osceolataxcollector.org/tax-certificate-information/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found; footer 'COPYRIGHT © 2025 OSCEOLA COUNTY TAX COLLECTOR. ALL RIGHTS RESERVED.' No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://osceolataxcollector.org/important-dates/",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above; no terms page found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://osceolaclerk.com/tax-deeds/",
+          "quote": "The tax deed sales will be held on line at www.osceola.realtaxdeed.com."
+        },
+        {
+          "url": "https://osceolaclerk.com/tax-deeds/",
+          "quote": "Each participant wishing to place a bid on a property, must first register at www.osceola.realtaxdeed.com"
+        },
+        {
+          "url": "https://osceolaclerk.com/tax-deeds/",
+          "quote": "equal to a minimum of exactly five percent (5%) of the final bid or $200.00, whichever is greater"
+        },
+        {
+          "url": "https://osceolaclerk.com/tax-deeds/",
+          "quote": "submit the required deposit with the Clerk’s Office no later than 3:00 p.m. on the day prior to the sale."
+        },
+        {
+          "url": "https://osceolaclerk.com/tax-deeds/",
+          "quote": "ACH deposits for auction participation must be made at least four (4) business days prior to the date of the auction"
+        },
+        {
+          "url": "https://osceolaclerk.com/tax-deeds/",
+          "quote": "The remainder of the bid is due in the Clerk's Office within 24 hours following the sale."
+        },
+        {
+          "url": "https://osceolaclerk.com/wp-content/uploads/11-10-2026.pdf",
+          "quote": "to the highest bidder on line at www.osceola.realtaxdeed.com on, the 10th day of November, 2026 at 11:00 am."
+        },
+        {
+          "url": "https://osceolaclerk.com/wp-content/uploads/12-15-2026.pdf",
+          "quote": "the 15th day of December, 2026 at 11:00 am."
+        },
+        {
+          "url": "https://osceolataxcollector.org/tax-certificate-information/",
+          "quote": "On or before June 1st of the same year the taxes become delinquent, the Tax Collector holds a public online sale"
+        },
+        {
+          "url": "https://osceolataxcollector.org/tax-certificate-information/",
+          "quote": "Bidding begins at 18% and the certificate is sold to the person bidding the LOWEST annual interest rate."
+        },
+        {
+          "url": "https://osceolataxcollector.org/important-dates/",
+          "quote": "Tax certificate sale for delinquent real estate taxes occurs on or before June 1st."
+        }
+      ]
+    },
+    {
+      "county": "Lake",
+      "slug": "lake",
+      "office": "Lake County Clerk of the Circuit Court & Comptroller - Tax Deeds Section (tax deeds); Lake County Tax Collector (tax certificates)",
+      "phone": "(352) 253-2620 or 2621 (Tax Deed Clerks); 352-742-4100 (Clerk main); 352.343.9602 (Tax Collector)",
+      "address": "550 W. Main St., Tavares, FL 32778 (mailing: PO Box 7800, Tavares, FL 32778-7800)",
+      "website": "https://www.lakecountyclerkfl.gov/?p=5376",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds; LienHub for tax certificates",
+        "url": "https://www.lake.realtaxdeed.com"
+      },
+      "schedule_rule": "Tax Deed Sales are generally held several times per month on Tuesdays at 11:15 a.m.",
+      "sales": [],
+      "next_sale_note": "Specific tax deed sale dates are on the online auction calendar (link-only), not on the Clerk's pages. The Tax Collector's 2027 tax certificate sale date is not yet posted (begins on or before June 1st).",
+      "how_to_bid": "Tax deeds: register on the online tax deed sale site by the day before the sale. Deposits must reach the Clerk's Office by 4 p.m. Eastern the day before the sale: $200 for each winning bid of $4,000 or less, 5% of the winning bid above $4,000. Full payment is due at the Clerk's Office within 24 hours after the sale. Tax certificates: the Tax Collector's sale begins on or before June 1st and is a reverse auction bidding down from 18% in quarter-percent steps; the page links to LienHub for the sale.",
+      "sources": [
+        {
+          "url": "https://www.lakecountyclerkfl.gov/?p=5382",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Notice & Disclaimer: 'Any rights not expressly claimed or granted herein are reserved.'; users may 'review and retrieve publicly available information.' No clause barring copying or reuse.",
+          "terms_url": "https://www.lakecountyclerkfl.gov/about-us/privacy-notice-disclaimer/"
+        },
+        {
+          "url": "https://www.lakecountyclerkfl.gov/?p=5376",
+          "read_on": "2026-10-27",
+          "terms": "Same site terms as above.",
+          "terms_url": "https://www.lakecountyclerkfl.gov/about-us/privacy-notice-disclaimer/"
+        },
+        {
+          "url": "https://laketax.com/delinquent-taxes/",
+          "read_on": "2026-10-27",
+          "terms": "Website Disclaimer says content 'is property of the Lake County Tax Collector' and asks use as permitted by law. No clause on copying or reuse found.",
+          "terms_url": "https://laketax.com/website-disclaimer-and-privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lakecountyclerkfl.gov/?p=5382",
+          "quote": "Tax Deed Sales are generally held several times per month on Tuesdays at 11:15 a.m."
+        },
+        {
+          "url": "https://www.lakecountyclerkfl.gov/?p=5382",
+          "quote": "Bidders must be registered on the site by the day before the sale."
+        },
+        {
+          "url": "https://www.lakecountyclerkfl.gov/?p=5382",
+          "quote": "Deposits must be received by the Clerk’s Office by 4 p.m. Eastern the day before the sale date."
+        },
+        {
+          "url": "https://www.lakecountyclerkfl.gov/?p=5382",
+          "quote": "For each winning bid of $4,000 or less, a deposit of $200 is required."
+        },
+        {
+          "url": "https://www.lakecountyclerkfl.gov/?p=5382",
+          "quote": "For each winning bid over $4,000, a deposit of 5% of the winning bid is required."
+        },
+        {
+          "url": "https://www.lakecountyclerkfl.gov/?p=5382",
+          "quote": "full payment must be received by the Clerk’s Office within 24 hours after the time of the sale."
+        },
+        {
+          "url": "https://www.lakecountyclerkfl.gov/?p=5376",
+          "quote": "Tax deed sales are administered by the Clerk's Office online."
+        },
+        {
+          "url": "https://laketax.com/delinquent-taxes/",
+          "quote": "Beginning on or before June 1st, the Tax Collector is required by law to hold a Tax Certificate Sale."
+        },
+        {
+          "url": "https://laketax.com/delinquent-taxes/",
+          "quote": "The sale is conducted in reverse auction style with participants bidding downward in ¼% increments starting at 18%."
+        }
+      ]
+    },
+    {
+      "county": "Escambia",
+      "slug": "escambia",
+      "office": "Escambia County Clerk of the Circuit Court (tax deed sales); Escambia County Tax Collector (tax certificates; tax deed redemptions for auctions on or after August 6, 2025)",
+      "phone": "850-595-3793 or 850-595-4813 (Clerk tax deeds); (850) 438-6500 (Tax Collector)",
+      "address": "190 W Government Street, Pensacola, FL 32502 (Clerk; in-person deposits at 221 S. Palafox Place, Suite 110)",
+      "website": "https://www.escambiaclerk.com/Faq.aspx?QID=419",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds; LienHub for tax certificates",
+        "url": "https://escambia.realtaxdeed.com"
+      },
+      "schedule_rule": "Tax Deed Sales are held online monthly.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No specific tax deed sale dates on the Clerk's FAQ pages; dates are on the online auction site (link-only). The Tax Collector's tax deed page says that for auctions on or after August 6, 2025 redemptions go through the Tax Collector, so check both offices for current procedure. The 2027 tax certificate sale date is not yet posted (set in the Tax Collector's advertisement).",
+      "how_to_bid": "Tax deeds: register on the online auction site and post a deposit with the Clerk before the sale: $200 or 5% of the winning bid, whichever is greater. In-person deposits are due by 4:00 p.m. the day before the sale (ACH takes 3-5 working days, wires about 24 hours). Sales start at 10:00 a.m. CT on scheduled sale days, and final payment is due by 11:00 a.m. CT the day after the sale. Tax certificates: register on LienHub before the sale (returning buyers activate their existing registration); bidding is electronic starting at 18%, and buyers must deposit 10% of anticipated purchases by ACH.",
+      "sources": [
+        {
+          "url": "https://www.escambiaclerk.com/Faq.aspx?QID=419",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms link found on the FAQ page (Clerk home page could not be read). No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.escambiaclerk.com/m/faq?cat=53",
+          "read_on": "2026-10-27",
+          "terms": "Same as above.",
+          "terms_url": null
+        },
+        {
+          "url": "https://escambiataxcollector.com/property-tax/tax-certificate-sale-buyer-information/",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms page linked; footer notes e-mail addresses are public records. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://escambiataxcollector.com/?p=5807",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above.",
+          "terms_url": null
+        },
+        {
+          "url": "https://escambiataxcollector.com/tax-deeds/",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.escambiaclerk.com/m/faq?cat=53",
+          "quote": "Tax Deed Sales are held online monthly."
+        },
+        {
+          "url": "https://www.escambiaclerk.com/Faq.aspx?QID=419",
+          "quote": "Online Tax Deed sales will be conducted on scheduled sale days beginning at 10:00 a.m. CT."
+        },
+        {
+          "url": "https://www.escambiaclerk.com/Faq.aspx?QID=419",
+          "quote": "The deposit amount required for each winning bid is $200.00 or 5% of the winning bid, whichever is greater."
+        },
+        {
+          "url": "https://www.escambiaclerk.com/Faq.aspx?QID=419",
+          "quote": "In-person deposits must be made by 4:00 p.m. on the day prior to the sale."
+        },
+        {
+          "url": "https://www.escambiaclerk.com/Faq.aspx?QID=419",
+          "quote": "Payments must be made no later than 11:00 a.m. CT the day after the sale."
+        },
+        {
+          "url": "https://escambiataxcollector.com/tax-deeds/",
+          "quote": "For auctions scheduled on or after August 6, 2025, call the Tax Collector at 850-438-6500, ext 3324."
+        },
+        {
+          "url": "https://escambiataxcollector.com/property-tax/tax-certificate-sale-buyer-information/",
+          "quote": "All buyers are required to make a 10% deposit for anticipated purchases"
+        },
+        {
+          "url": "https://escambiataxcollector.com/?p=5807",
+          "quote": "Bidding is by electronic input and begins at 18%."
+        },
+        {
+          "url": "https://escambiataxcollector.com/?p=5807",
+          "quote": "Bidders must register at Lien Hub."
+        }
+      ]
+    },
+    {
+      "county": "Alachua",
+      "slug": "alachua",
+      "office": "Alachua County Clerk of the Court - Tax Deeds (Tax Deed Coordinator)",
+      "phone": "(352) 374-3615",
+      "address": "not stated on the Clerk's tax deed page",
+      "website": "https://alachuacounty.us/Depts/Clerk/TaxDeeds",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://alachua.realtaxdeed.com"
+      },
+      "schedule_rule": "Sale Time: 10:00 a.m. Sale are held online at alachua.realtaxdeed.com.",
+      "sales": [],
+      "next_sale_note": "Scheduled tax deed sale dates are on the online auction calendar (link-only), not on the Clerk's page. Tax certificate sales by the Tax Collector were not covered (no current official Tax Collector page found).",
+      "how_to_bid": "Before bidding, post an advance deposit of $200 or 5% of the bid, whichever is greater. Hand-delivered deposits must be made before 3 pm on the last business day before the sale; ACH payments at least 4 days in advance. Winning bids must be paid within 24 hours of the sale (cash, cashier's check, wire, or auction-site collected funds); personal checks are not accepted. Properties are sold as is. Questions go to the Tax Deed Coordinator (taxdeeds@alachuaclerk.org).",
+      "sources": [
+        {
+          "url": "https://alachuacounty.us/Depts/Clerk/TaxDeeds",
+          "read_on": "2026-10-27",
+          "terms": "Page says 'Please read the Legal Disclaimer.' The County's Legal Disclaimers page has no clause on copying, reuse or redistribution of site content.",
+          "terms_url": "https://alachuacounty.us/Legal/Pages/LegalDisclaimers.aspx"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://alachuacounty.us/Depts/Clerk/TaxDeeds",
+          "quote": "Sale Time: 10:00 a.m. Sale are held online at alachua.realtaxdeed.com."
+        },
+        {
+          "url": "https://alachuacounty.us/Depts/Clerk/TaxDeeds",
+          "quote": "Before bidding, bidders must post an advance deposit of $200.00 or 5% of the bid, whichever is greater,"
+        },
+        {
+          "url": "https://alachuacounty.us/Depts/Clerk/TaxDeeds",
+          "quote": "Hand delivered deposits must be made before 3 pm on the last business day prior to the date of the sale."
+        },
+        {
+          "url": "https://alachuacounty.us/Depts/Clerk/TaxDeeds",
+          "quote": "within 24 hours of sale."
+        }
+      ]
+    },
+    {
+      "county": "Okaloosa",
+      "slug": "okaloosa",
+      "office": "Okaloosa County Clerk of the Circuit Court & County Comptroller (tax deeds)",
+      "phone": "(850) 689-5000 (Crestview); (850) 651-7200 (Ft. Walton Beach)",
+      "address": "Okaloosa County Courthouse, 101 East James Lee Blvd., Crestview, FL 32536",
+      "website": "https://okaloosaclerk.com/board-services/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/OkaloosaFLTax/listings"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax deed sale dates on the Clerk's pages; listings are on the online auction site (link-only). Tax certificates are sold by the Tax Collector for taxes not paid by June 1st; the 2027 date is not posted on the pages read.",
+      "how_to_bid": "Register with the online auction site and place an advance deposit: funds in your bidder account totaling at least 5% of the highest bid you intend to place, completed by 4:00 pm CST the day before the auction. Final payment is due by 10:00 a.m. on the business day after the sale; a bidder who fails to pay defaults and forfeits the deposit. Note: an older Clerk FAQ page still names a different auction site, so check the current site before registering.",
+      "sources": [
+        {
+          "url": "https://okaloosaclerk.com/board-services/tax-deed-sales/",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy restricts using the service to transmit or store information in violation of law; footer '©2026 Okaloosa Clerk of the Circuit Court & County Comptroller. All rights reserved.' No clause on copying or reuse found.",
+          "terms_url": "https://okaloosaclerk.com/privacy-policy/"
+        },
+        {
+          "url": "https://okaloosaclerk.com/?p=793",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy restricts using the service to transmit or store information in violation of law; footer '©2026 Okaloosa Clerk of the Circuit Court & County Comptroller. All rights reserved.' No clause on copying or reuse found.",
+          "terms_url": "https://okaloosaclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://okaloosaclerk.com/board-services/tax-deed-sales/",
+          "quote": "Tax deed sales in Okaloosa are conducted online through Bid4Assets."
+        },
+        {
+          "url": "https://okaloosaclerk.com/board-services/tax-deed-sales/",
+          "quote": "Registration and advance deposits are required to participate in online auctions."
+        },
+        {
+          "url": "https://okaloosaclerk.com/board-services/tax-deed-sales/",
+          "quote": "Final payment must be submitted no later than 10:00 a.m. on the business day following the sale."
+        },
+        {
+          "url": "https://okaloosaclerk.com/board-services/tax-deed-sales/",
+          "quote": "Failure to remit final payment will result in a bidder default status, and the winning bidder forfeits his or her deposit."
+        },
+        {
+          "url": "https://okaloosaclerk.com/board-services/tax-deed-sales/",
+          "quote": "A tax certificate is sold for all taxes not paid by June 1st."
+        },
+        {
+          "url": "https://okaloosaclerk.com/?p=793",
+          "quote": "Prior to the tax deed sale, bidder must have sufficient funds in their bidder account, totaling a minimum of 5%"
+        },
+        {
+          "url": "https://okaloosaclerk.com/?p=793",
+          "quote": "Deposits must be completed by 4:00 pm CST on the day preceding the auction."
+        }
+      ]
+    },
+    {
+      "county": "Bay",
+      "slug": "bay",
+      "office": "Bay County Clerk of Court & Comptroller - Recording Department (tax deeds)",
+      "phone": "(850) 747-5100 (option 3)",
+      "address": "300 East 4th Street, Panama City, FL 32401",
+      "website": "https://www.baycoclerk.com/public-records/tax-deed-auctions",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://bay.realtaxdeed.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale dates on the Clerk's page; it points to the auction calendar on the online sale site (link-only). Tax certificate sales by the Tax Collector were not covered.",
+      "how_to_bid": "Register online in advance and place deposits in advance on the official online tax deed sale site; registration by mail is not possible. Deposit amounts and payment deadlines are not stated on the Clerk's page (it refers to the auction site's FAQs).",
+      "sources": [
+        {
+          "url": "https://www.baycoclerk.com/public-records/tax-deed-auctions",
+          "read_on": "2026-10-27",
+          "terms": "Inline disclaimer: clerk 'makes no warranty or guarantee concerning the accuracy or reliability of the content at this site.' Privacy Policy restricts unlawful use only. No clause on copying or reuse found.",
+          "terms_url": "https://www.baycoclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.baycoclerk.com/public-records/tax-deed-auctions",
+          "quote": "Online bidding and auctions require advanced registration and advanced placement of deposits."
+        },
+        {
+          "url": "https://www.baycoclerk.com/public-records/tax-deed-auctions",
+          "quote": "It is not possible to register to bid by mail."
+        }
+      ]
     }
   ]
 }

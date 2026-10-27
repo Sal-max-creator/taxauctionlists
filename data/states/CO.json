@@ -419,6 +419,210 @@
           }
         ]
       }
+    },
+    {
+      "county": "Broomfield",
+      "slug": "broomfield",
+      "office": "City and County of Broomfield Treasurer's Office",
+      "phone": "303-469-3301",
+      "address": "One DesCombes Drive, Broomfield, CO 80020",
+      "website": "https://www.broomfield.org/814/Tax-Lien-Sale-Information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-04",
+          "time": "9:00 AM, City Council Chamber, first floor, One DesCombes Drive",
+          "label": "2026 Tax Lien Sale",
+          "deposit": "None stated",
+          "registration_deadline": "Register with the Treasurer's Office on the day of the sale; arrive early to register before the sale begins. Bring a W-9.",
+          "list_url": "https://www.broomfield.org/4399/2026-Delinquent-Property-Tax-List",
+          "list_note": "County's 2026 delinquent property tax list (as published in the Broomfield Enterprise).",
+          "source_url": "https://www.broomfield.org/814/Tax-Lien-Sale-Information",
+          "quote": "The 2026 sale will be held on November 4, 2026 at 9 a.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "In person only: you or your agent must be present. Register with the Treasurer's Office on sale day with a W-9 (SSN, or EIN for companies). Each buyer gets a number; raise it to bid and call out your premium. Premiums go in $1 steps on taxes under $1,000 and $5 steps above that, and are not refunded on redemption. The county page states the 2026 rate of return as fourteen percent (other Colorado counties list 13% for 2026, so confirm).",
+      "sources": [
+        {
+          "url": "https://www.broomfield.org/814/Tax-Lien-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content (c) 2006-2026 City and County of Broomfield, CO and its representatives. All rights reserved.' No explicit reuse or redistribution clause.",
+          "terms_url": "https://www.broomfield.org/site/copyright"
+        },
+        {
+          "url": "https://www.broomfield.org/4399/2026-Delinquent-Property-Tax-List",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.broomfield.org/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.broomfield.org/814/Tax-Lien-Sale-Information",
+          "quote": "City Council Chamber, located on the first floor at One DesCombes Drive."
+        },
+        {
+          "url": "https://www.broomfield.org/814/Tax-Lien-Sale-Information",
+          "quote": "You or your agent must be present to participate in the bidding process."
+        },
+        {
+          "url": "https://www.broomfield.org/814/Tax-Lien-Sale-Information",
+          "quote": "The rate of return for certificates sold in 2026 will be fourteen percent."
+        }
+      ]
+    },
+    {
+      "county": "Eagle",
+      "slug": "eagle",
+      "office": "Eagle County Treasurer's Office",
+      "phone": "970-328-8860",
+      "address": "500 Broadway, PO Box 850, Eagle, CO 81631 (county government address)",
+      "website": "https://www.eaglecounty.us/departments___services/office_of_the_treasurer/tax_lien_sale.php",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (coloradotaxsale.com)",
+        "url": "https://eagle.coloradotaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-10",
+          "label": "2026 Tax Lien Sale (online)",
+          "deposit": "At least 10% of what you plan to spend, by ACH",
+          "registration_deadline": "Register and submit a deposit by November 3, 2026 at 2:00 PM MT",
+          "register_by": "2026-11-03",
+          "list_url": "https://docs.google.com/spreadsheets/d/1dsmCFaUJXYKph8wkH8FA1BMfs0E7O1krht2zEZdioTI/edit?usp=drive_link",
+          "list_note": "County's Delinquent Real Property sheet (Google Sheets); the page says the 2026 lists will be available in October 2026.",
+          "source_url": "https://www.eaglecounty.us/departments___services/office_of_the_treasurer/tax_lien_sale.php",
+          "quote": "The sale will be held online on Tuesday, November 10, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register on the county's auction site before the deadline, complete the IRS W-9 and User Agreement, and make a deposit of at least 10% of what you plan to spend (deposits and payments by ACH). Bid a premium; winners pay the advertised total (tax, interest, advertising fee and an $18 certificate fee) plus the premium, which is not refunded and earns no interest. The county states the 2026 interest rate is 13%.",
+      "sources": [
+        {
+          "url": "https://www.eaglecounty.us/departments___services/office_of_the_treasurer/tax_lien_sale.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or copyright link in the footer; the page says the delinquent lists 'are provided for informational purposes only.' No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.eaglecounty.us/departments___services/office_of_the_treasurer/tax_lien_sale.php",
+          "quote": "The last day to register and submit a deposit in order to participate in the tax sale will be November 3, 2026 at 2:00pm MT."
+        },
+        {
+          "url": "https://www.eaglecounty.us/departments___services/office_of_the_treasurer/tax_lien_sale.php",
+          "quote": "The interest rate for the 2026 tax lien sale is 13%."
+        }
+      ]
+    },
+    {
+      "county": "Garfield",
+      "slug": "garfield",
+      "office": "Garfield County Treasurer",
+      "phone": "970-945-6382",
+      "address": "109 8th Street, Suite 204, Glenwood Springs, Colorado 81601",
+      "website": "https://www.garfieldcountyco.gov/treasurer/tax-lien-sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (coloradotaxsale.com)",
+        "url": "https://garfield.coloradotaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-06",
+          "label": "Tax lien sale for 2025 taxes (online)",
+          "deposit": "$75",
+          "registration_deadline": "Register and remit a $75 deposit by 2 p.m. MST on October 30, 2026",
+          "register_by": "2026-10-30",
+          "source_url": "https://www.garfieldcountyco.gov/treasurer/tax-lien-sale/",
+          "quote": "The 2025 tax lien sale is being held November 6, 2026 online at garfield.coloradotaxsale.com."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register on the county's online auction site (opened September 29, 2026) with an IRS W-9, the buyer-beware acceptance and an ACH authorization, and pay the $75 deposit by the deadline. Bid a premium; winners pay the advertised price (tax, interest and advertising fee) plus a $16 certificate fee and the premium. Premiums are not refunded on redemption and do not earn interest.",
+      "sources": [
+        {
+          "url": "https://www.garfieldcountyco.gov/treasurer/tax-lien-sale/",
+          "read_on": "2026-10-27",
+          "terms": "Privacy policy: 'All content on Garfield County websites is Copyright (c) 2011 by Garfield County, Colorado. All Rights Reserved.' plus accuracy disclaimers and linking/framing rules; no explicit ban on reuse or redistribution of the information.",
+          "terms_url": "https://www.garfieldcountyco.gov/attorney/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.garfieldcountyco.gov/treasurer/tax-lien-sale/",
+          "quote": "All potential bidders must register and remit a $75 deposit by 2 p.m. MST, on October 30, 2026."
+        },
+        {
+          "url": "https://www.garfieldcountyco.gov/treasurer/tax-lien-sale/",
+          "quote": "The tax lien sale will be conducted this year as an online auction."
+        },
+        {
+          "url": "https://www.garfieldcountyco.gov/treasurer/tax-lien-sale/",
+          "quote": "Premiums do not earn interest."
+        }
+      ]
+    },
+    {
+      "county": "Mesa",
+      "slug": "mesa",
+      "office": "Mesa County Treasurer's Office",
+      "phone": "970-244-1824",
+      "address": "not stated on the tax sale page",
+      "website": "https://www.mesacounty.us/departments-and-services/treasurer/tax-sale-information",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (coloradotaxsale.com)",
+        "url": "https://mesa.coloradotaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-06",
+          "label": "2026 Tax Lien Sale (online)",
+          "deposit": "10% of what you believe you will spend, due by October 23, 2026 no later than 2:00 p.m.",
+          "registration_deadline": "Deposits due October 23, 2026 no later than 2:00 p.m. (registration opened September 14, 2026)",
+          "register_by": "2026-10-23",
+          "note": "Payment of all winnings due November 9, 2026 no later than 2:00 p.m.",
+          "source_url": "https://www.mesacounty.us/departments-and-services/treasurer/tax-sale-information",
+          "quote": "Mesa County 2026 online Tax Lien Sale is scheduled for November 6, 2026"
+        }
+      ],
+      "next_sale_note": "Deposit deadline (October 23, 2026) has passed.",
+      "how_to_bid": "Register on the county's online auction site and make a deposit of 10% of what you expect to spend by the deposit deadline; follow the county's bidding rules and the auction's procedures. Winnings are due November 9, 2026 by 2:00 p.m. The county says the rate is nine points above the federal discount rate as of September 1.",
+      "sources": [
+        {
+          "url": "https://www.mesacounty.us/departments-and-services/treasurer/tax-sale-information",
+          "read_on": "2026-10-27",
+          "terms": "Footer: '(c) 2026 Mesa County, Colorado'. Privacy policy has no reuse or redistribution restriction (notes stored information may be purchased by private individuals and entities).",
+          "terms_url": "https://www.mesacounty.us/contact-us/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mesacounty.us/departments-and-services/treasurer/tax-sale-information",
+          "quote": "Deposits are required to be made by this date (10% of what you believe you will spend)"
+        },
+        {
+          "url": "https://www.mesacounty.us/departments-and-services/treasurer/tax-sale-information",
+          "quote": "November 9, 2026 no later than 2:00 p.m. | Payment of all winnings are due"
+        },
+        {
+          "url": "https://www.mesacounty.us/departments-and-services/treasurer/tax-sale-information",
+          "quote": "The annual percentage rate is set at nine points above the federal discount rate as of September 1 of that year."
+        }
+      ]
     }
   ]
 }

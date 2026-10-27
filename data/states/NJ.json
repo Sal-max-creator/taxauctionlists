@@ -215,6 +215,202 @@
           "terms_url": null
         }
       ]
+    },
+    {
+      "county": "Jersey City (Hudson County)",
+      "slug": "jersey-city-hudson",
+      "office": "Division of Collections, Department of Finance, City of Jersey City",
+      "phone": "(201) 547-5124",
+      "address": "280 Grove Street, Room 101, Jersey City, NJ 07302",
+      "website": "https://www.jerseycitynj.gov/cityhall/finance/taxes",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Tax Sale is held in December.",
+      "sales": [],
+      "next_sale_note": "No 2026 sale date posted on jerseycitynj.gov. The city's Taxes page says only that the sale is held in December, for liens unpaid at the end of the yearly cycle (November 11th).",
+      "how_to_bid": "The city describes the tax sale as a public auction where investors can buy the lien for the total amount. Its site does not state the format, platform, deposit or registration steps.",
+      "sources": [
+        {
+          "url": "https://www.jerseycitynj.gov/cityhall/finance/taxes",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer links only Privacy Policy, Site Map and Department Directory)",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Paterson (Passaic County)",
+      "slug": "paterson-passaic",
+      "office": "Tax Assessor's Office, City of Paterson (the page that posts the city's tax sale notices)",
+      "phone": "not stated",
+      "address": "155 Market St, Paterson, NJ",
+      "website": "https://www.patersonnj.gov/department/division.php?structureid=71",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2026 sale date could be read. The city's Tax Assessor page still lists only the 2024 and 2023 notices ('the upcoming on-line tax lien auction on December 11, 2024 at 10:00AM'). Newer notice PDFs and other pages on patersonnj.gov returned errors and could not be read. Format 'online' is based on the 2024 notice.",
+      "how_to_bid": "The city's most recent readable notice describes an on-line tax lien auction; the readable page gives no deposit or registration details.",
+      "sources": [
+        {
+          "url": "https://www.patersonnj.gov/department/division.php?structureid=71",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer or terms link on the page)",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Elizabeth (Union County)",
+      "slug": "elizabeth-union",
+      "office": "Tax Collector, Division of Revenue, City of Elizabeth",
+      "phone": "908-820-4111",
+      "address": "50 Winfield Scott Plaza, Rm 102, Elizabeth, NJ 07201",
+      "website": "https://www.elizabethnj.org/177/Tax-Collector---Division-of-Revenue",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "City of Elizabeth Tax Sale Website (newjerseytaxsale.com)",
+        "url": "https://elizabeth.newjerseytaxsale.com/"
+      },
+      "schedule_rule": "The Tax Sale is typically in June",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The city holds one annual sale, typically in June; its most recent notice on the Tax Sale page is titled 'Elizabeth NJ- Tax Sale June 8, 2026'. The city says to contact the office or visit its tax sale website to confirm the final date.",
+      "how_to_bid": "The Tax Sale is held via an online auction for prior fiscal year delinquent municipal charges (taxes, water and sewer). The city points bidders to its tax sale website for bidding instructions and the list of items for sale.",
+      "sources": [
+        {
+          "url": "https://www.elizabethnj.org/191/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms; copyright page says only 'All content © 2006-2026 Elizabeth, NJ and its representatives. All rights reserved.'",
+          "terms_url": "https://www.elizabethnj.org/Copyright"
+        },
+        {
+          "url": "https://www.elizabethnj.org/177/Tax-Collector---Division-of-Revenue",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see copyright notice above.",
+          "terms_url": "https://www.elizabethnj.org/Copyright"
+        }
+      ]
+    },
+    {
+      "county": "Trenton (Mercer County)",
+      "slug": "trenton-mercer",
+      "office": "Division of Tax, City of Trenton",
+      "phone": "609-989-3070",
+      "address": "319 E State Street, Trenton, NJ 08608",
+      "website": "https://www.trentonnj.org/211/Division-of-Tax",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "newjerseytaxsale.com (vendor site)",
+        "url": "https://trenton.newjerseytaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2026 sale date posted on trentonnj.org. The most recent notice was 'Tax Sale: December 15, 2025', an online auction. Format 'online' is based on that notice.",
+      "how_to_bid": "The city's last notice said the sale is an on-line auction on its newjerseytaxsale.com site, where listings, amounts due and registration and bidding instructions can be viewed free of charge. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.trentonnj.org/211/Division-of-Tax",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms; copyright page says only 'All content © 2006-2026 Trenton, NJ and its representatives. All rights reserved.'",
+          "terms_url": "https://www.trentonnj.org/site/copyright"
+        },
+        {
+          "url": "https://trentonnj.org/CivicAlerts.asp?AID=1378",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see copyright notice above.",
+          "terms_url": "https://www.trentonnj.org/site/copyright"
+        }
+      ]
+    },
+    {
+      "county": "Camden (Camden County)",
+      "slug": "camden-camden",
+      "office": "Bureau of Revenue Collections, City of Camden",
+      "phone": "856-757-7000",
+      "address": "520 Market Street, City Hall, Room 117, Camden, NJ 08102",
+      "website": "https://www.camdennj.gov/revenue-collections/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax sale date posted on camdennj.gov. The Revenue Collections page says the bureau processes an annual tax lien sale but gives no date, format or platform.",
+      "how_to_bid": "not stated",
+      "sources": [
+        {
+          "url": "https://www.camdennj.gov/revenue-collections/",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer links only Contact Us and an accessibility statement)",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Toms River Township (Ocean County)",
+      "slug": "toms-river-township-ocean",
+      "office": "Tax Collector, Township of Toms River",
+      "phone": "732-341-1000, ext. 8342",
+      "address": "33 Washington Street, Toms River, NJ 08753",
+      "website": "https://tomsrivertownship.com/224/Tax-Collector",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://liveauctions.govease.com/PublicPortal/RegistrationDetail?AuctionID=1565&Edit=False"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-15",
+          "time": "9:00 a.m.",
+          "label": "Online auction of delinquent taxes and other municipal charges (2025 tax year and prior years)",
+          "source_url": "https://tomsrivertownship.com/224/Tax-Collector",
+          "quote": "for the 2025 tax year and prior years will be held on December 15, 2026, beginning at 9:00 a.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The sale is an online auction. The township points bidders to the auction portal for the full property list, delinquencies, costs and bidding instructions. Deposit and registration deadline not stated on the township page.",
+      "sources": [
+        {
+          "url": "https://tomsrivertownship.com/224/Tax-Collector",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms; copyright page says only 'All content © 2006-2026 Toms River Township, NJ and its representatives. All rights reserved.'",
+          "terms_url": "https://tomsrivertownship.com/Copyright"
+        }
+      ]
+    },
+    {
+      "county": "Clifton (Passaic County)",
+      "slug": "clifton-passaic",
+      "office": "Office of the Tax Collector, City of Clifton",
+      "phone": "973-470-5830",
+      "address": "900 Clifton Avenue, 1st Floor, Clifton, NJ 07013",
+      "website": "https://www.cliftonnj.org/162/Tax-Collector",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The city's 2026 tax sale listing shows 'Sale Date: 10/15/26', which has passed. The Tax Collector page says the office auctions delinquent tax, sewer and miscellaneous charges during the annual Tax Sale but gives no format or platform.",
+      "how_to_bid": "not stated",
+      "sources": [
+        {
+          "url": "https://www.cliftonnj.org/162/Tax-Collector",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms; the disclaimer page says only 'Please contact us for information about our disclaimer.'",
+          "terms_url": "https://www.cliftonnj.org/disclaimer"
+        },
+        {
+          "url": "https://cliftonnj.org/DocumentCenter/View/30677/50-day-Revised-tax-sale-listing-91526?bidId=",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see disclaimer note above.",
+          "terms_url": "https://www.cliftonnj.org/disclaimer"
+        }
+      ]
     }
   ]
 }

@@ -2,7 +2,7 @@
   "state": "IL",
   "name": "Illinois",
   "sale_type": "lien",
-  "overview": "Illinois counties sell the delinquent property taxes themselves, not the property: at the annual tax sale run by each county treasurer (as county collector), buyers bid on the penalty rate they will accept, and the lien goes to the lowest bid, capped by statute at 9%. Outside Cook County, the collector must apply for judgment and sale within 90 days after the second installment due date, so most collar-county sales fall in October through December; Cook County's Treasurer says it anticipates holding the next annual sale in December 2026. Owners can redeem within a statutory period (generally up to 2.5 years from the sale, shorter for some property classes); if they don't, the buyer may petition for a tax deed. Separately, scavenger sales offer taxes delinquent for several years; Cook County says these are now held only at the direction of the County Board.",
+  "overview": "Illinois counties sell the delinquent property taxes themselves, not the property: at the annual tax sale run by each county treasurer (as county collector), buyers bid on the penalty rate they will accept, and the lien goes to the lowest bid, capped by statute at 9%. Outside Cook County, the collector must apply for judgment and sale within 90 days after the second installment due date, so most collar-county sales fall in October through December; Cook County's Treasurer says it anticipates holding the next annual sale in December 2026. Owners can redeem within a statutory period (generally up to 2.5 years from the sale, shorter for some property classes); if they don't, the buyer may petition for a tax deed. Separately, scavenger sales offer taxes delinquent for several years; Cook County says these are now held only at the direction of the County Board. New for the 2026 sales: under Public Act 104-0553 some counties, McLean among them, have chosen to take the delinquent real estate taxes themselves, so only mobile home taxes are offered to private buyers there. Check each county’s page before you register.",
   "overview_sources": [
     {
       "url": "https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-215.htm",
@@ -32,6 +32,11 @@
     {
       "url": "https://www.cookcountytreasurer.com/taxsalegeneralinformation.aspx",
       "quote": "Scavenger Sales will only be held at the direction of the Cook County Board.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mcleancountyil.gov/401/Annual-Tax-Sale",
+      "quote": "Pursuant to Public Act 104-0553, the McLean County Board, as trustee for the taxing districts, has elected to acquire",
       "read_on": "2026-10-27"
     }
   ],
@@ -394,6 +399,323 @@
           "read_on": "2026-10-27",
           "terms": "Same site Terms of Use.",
           "terms_url": "https://www.stclaircountyil.gov/terms"
+        }
+      ]
+    },
+    {
+      "county": "Peoria",
+      "slug": "peoria",
+      "office": "Peoria County Treasurer",
+      "phone": "309-672-6065 (option 5)",
+      "address": "Peoria County Courthouse, 324 Main Street, Peoria, IL 61602",
+      "website": "https://www.peoriacounty.gov/367/Delinquent-Tax-Information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": {
+        "name": "R.A.M.S. 2 (Randomized Auction Management System), Joseph A Meyer & Associates",
+        "url": "http://www.iltaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-09",
+          "time": "9:00 AM, County Boardroom, 4th floor, Peoria County Courthouse, 324 Main St., Peoria (Courthouse opens 8:30 AM; Jefferson Street entrance only)",
+          "label": "Annual Tax Sale",
+          "deposit": "$500 per buyer with registration, applied to purchases; refunded if you attend and buy nothing, forfeited if you don't attend",
+          "registration_deadline": "Closed: registrations accepted through 5:00 p.m. on October 26, 2026",
+          "register_by": "2026-10-26",
+          "note": "Registration has closed. The tax list is a flat $350, emailed starting in late October.",
+          "source_url": "https://www.peoriacounty.gov/367/Delinquent-Tax-Information",
+          "quote": "The Annual Tax Sale will take place November 9, 2026, in the Peoria County Courthouse"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register with the county's registration form and a signed Single Bidder affidavit, plus the $500 deposit, by the deadline; all bidders must attend in person. Buyers bid the penalty percentage, starting at a maximum of 9%, and the lowest bid wins; bids are turned in on a USB drive and run through R.A.M.S. 2, with ties settled at random. First-time buyers bring certified funds of 1.5 times their expected spending; winning bidders pay the taxes plus a $123 statutory sale cost on sale day.",
+      "sources": [
+        {
+          "url": "https://www.peoriacounty.gov/367/Delinquent-Tax-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Peoria County, IL and its representatives. All rights reserved.' No clause on copying, reuse or redistribution found.",
+          "terms_url": "https://www.peoriacounty.gov/site/copyright"
+        },
+        {
+          "url": "https://www.peoriacounty.gov/m/faq?cat=30",
+          "read_on": "2026-10-27",
+          "terms": "Same site; same Copyright Notices. Phone number from this FAQ.",
+          "terms_url": "https://www.peoriacounty.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.peoriacounty.gov/367/Delinquent-Tax-Information",
+          "quote": "Registrations will be accepted through 5:00 p.m. on October 26, 2026."
+        },
+        {
+          "url": "https://www.peoriacounty.gov/367/Delinquent-Tax-Information",
+          "quote": "There is a $500 deposit per buyer to be submitted at the time of registration."
+        },
+        {
+          "url": "https://www.peoriacounty.gov/367/Delinquent-Tax-Information",
+          "quote": "At the sale, tax buyers will bid on the percentage of penalty that will be charged to the taxpayer."
+        },
+        {
+          "url": "https://www.peoriacounty.gov/m/faq?cat=30",
+          "quote": "The 2026 tax sale will be held November 9, 2026."
+        }
+      ]
+    },
+    {
+      "county": "Kendall",
+      "slug": "kendall",
+      "office": "Kendall County Treasurer/Collector",
+      "phone": "630-553-4124",
+      "address": "807 W John Street, Yorkville, IL 60560",
+      "website": "https://www.kendallcountyil.gov/offices/treasurer",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 date not yet posted. The latest registration packet we found is for the 2025 sale (\"DATE of SALE: October 27, 2025, 1:00 pm\" at the Kendall County Historic Court House, 110 W Madison St, Yorkville; registration deadline October 17, 2025). Contact the Treasurer for the 2026 date.",
+      "how_to_bid": "Per the 2025 packet: register with the Treasurer by the deadline with a $500 deposit (certified funds for first-time buyers), applied to purchases and forfeited if you don't attend; a parcel list is $75 by separate check, emailed 10 days before the sale. One registered buyer per tax buying entity. The packet does not describe the bidding method. These details are from the 2025 sale and may change.",
+      "sources": [
+        {
+          "url": "https://www.kendallcountyil.gov/offices/treasurer",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer, terms or privacy link found on the Treasurer page or by search of the county site)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.kendallcountyil.gov/home/showpublisheddocument/21306/638961994734700000",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no terms found. 2025 registration packet.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.kendallcountyil.gov/home/showpublisheddocument/21306/638961994734700000",
+          "quote": "DATE of SALE: October 27, 2025, 1:00 pm"
+        },
+        {
+          "url": "https://www.kendallcountyil.gov/home/showpublisheddocument/21306/638961994734700000",
+          "quote": "If you register and don't attend the sale, your deposit is forfeited."
+        }
+      ]
+    },
+    {
+      "county": "Rock Island",
+      "slug": "rock-island",
+      "office": "Rock Island County Treasurer",
+      "phone": "309-558-3510",
+      "address": "Rock Island County Office Building, 1504 Third Avenue, 1st Floor, Rock Island, IL 61201",
+      "website": "https://rockislandcountyil.gov/332/Treasurers-Office",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 date not yet posted. The Treasurer's page and FAQ still describe the previous annual sale (\"Tuesday, December 31, 2024\", County Board room, 1504 Third Avenue), and the newest delinquent list notice in the county archive is for 2023 taxes. A sealed bid sale of county-held (trustee) items closed October 24, 2025.",
+      "how_to_bid": "Register with the Treasurer at least 10 business days before the sale (registration opens about 90 days before) with name, address, phone, tax ID or SSN and the Tax Sale Registration Form. Bids are interest rates between 0% and 9%, and the lowest rate wins. Per-purchase costs listed: $10 publication, $4 clerk, $10 automation, $60 collector's tax fee fund, $20 indemnity. Delinquency lists are $100 from the Treasurer after publication. Unsold parcels go to the County Trustee (Auction Sale Department, 618-656-5744).",
+      "sources": [
+        {
+          "url": "https://rockislandcountyil.gov/332/Treasurers-Office",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content © 2006-2026 Rock Island County, IL and its representatives. All rights reserved.' No clause on copying, reuse or redistribution found.",
+          "terms_url": "https://rockislandcountyil.gov/site/copyright"
+        },
+        {
+          "url": "https://rockislandcountyil.gov/m/faq?cat=34",
+          "read_on": "2026-10-27",
+          "terms": "Same site and copyright notice. FAQ content is for the December 2024 sale.",
+          "terms_url": "https://rockislandcountyil.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://rockislandcountyil.gov/m/faq?cat=34",
+          "quote": "The person who bids the lowest rate of interest (between 0% and 9%) will win a bid."
+        },
+        {
+          "url": "https://rockislandcountyil.gov/332/Treasurers-Office",
+          "quote": "The annual tax sale will take place on Tuesday, December 31, 2024 in the County Board room on the Third Floor"
+        }
+      ]
+    },
+    {
+      "county": "Tazewell",
+      "slug": "tazewell",
+      "office": "Tazewell County Treasurer",
+      "phone": "309-477-2284",
+      "address": "McKenzie Building, 11 S 4th St., Suite 308, Pekin, IL 61554",
+      "website": "https://tazewell-il.gov/Treasurer/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2025 payable 2026 sale has already been held: the Treasurer's registration form gives \"Tax Sale Date: October 19, 2026\" (9:00 a.m., Tazewell County Justice Center Community Room, 101 South Capitol, Pekin). The next sale (2026 payable 2027) is not yet posted.",
+      "how_to_bid": "Return the registration form, a W-9 and a $100 check payable to the Tazewell County Treasurer by the deadline (4:30 pm, ten days or more before the sale; October 5 for 2026). The fee includes a printed and e-mailed list of delinquent parcels and is returned if you attend and bid. Public sale, one bidder at a time per registration; pay balances at the end of the sale with a signed blank check.",
+      "sources": [
+        {
+          "url": "https://tazewell-il.gov/wp-content/uploads/2026/09/Tax-Buyer-Registration.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Privacy policy page: 'Copyright © 2026 Tazewell County, Illinois. All rights reserved.' and disclaims responsibility for linked sites. No clause on copying, reuse or redistribution found.",
+          "terms_url": "https://tazewell-il.gov/privacy-policy/"
+        },
+        {
+          "url": "https://tazewell-il.gov/Treasurer/",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no terms of use page found.",
+          "terms_url": "https://tazewell-il.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://tazewell-il.gov/wp-content/uploads/2026/09/Tax-Buyer-Registration.pdf",
+          "quote": "Tax Sale Year: 2025 payable 2026 Tax Sale Date: October 19, 2026"
+        },
+        {
+          "url": "https://tazewell-il.gov/wp-content/uploads/2026/09/Tax-Buyer-Registration.pdf",
+          "quote": "The $100.00 check will be returned to you if you attend the tax sale and bid."
+        }
+      ]
+    },
+    {
+      "county": "McLean",
+      "slug": "mclean",
+      "office": "McLean County Treasurer & Tax Collector",
+      "phone": "(309) 888-5180",
+      "address": "115 E. Washington Street, Rm M101, Bloomington, IL 61701",
+      "website": "https://mcleancountyil.gov/401/Annual-Tax-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": {
+        "name": "RAMS (contractor-provided computer terminals at the sale)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-06",
+          "time": "10:00 AM, McLean County Government Center, Room 400, 115 E. Washington St., Bloomington",
+          "label": "Annual Tax Sale (delinquent mobile home taxes only)",
+          "deposit": "$250 statutory registration fee, applied to purchases or refunded if you buy nothing; forfeited if you don't attend",
+          "registration_deadline": "Closed: registration ran September 23 to October 23, 2026",
+          "register_by": "2026-10-23",
+          "note": "Mobile homes only: under Public Act 104-0553 the McLean County Board, as trustee for the taxing districts, elected to acquire all delinquent 2025 payable 2026 real estate taxes, so no real estate liens are offered to private buyers. Judgment hearing Nov 5, 2026. Registration has closed.",
+          "source_url": "https://mcleancountyil.gov/401/Annual-Tax-Sale",
+          "quote": "The annual tax sale will be held on November 6, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Send the Mobile Home Tax Sale Registration Form with the $250 statutory registration fee by the deadline; attendance is mandatory. Bidding is electronic on computer terminals provided by the contractor, RAMS, with one buyer per company. Winning bidders pay immediately by cash, money order or check. The parcel list is $50 in advance (plus $5 to mail). Per-item fees include a $20 indemnity fee and up to $10 automation fee.",
+      "sources": [
+        {
+          "url": "https://mcleancountyil.gov/401/Annual-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content © 2006-2026 McLean County, IL and its representatives. All rights reserved.' No clause on copying, reuse or redistribution found.",
+          "terms_url": "https://mcleancountyil.gov/site/copyright"
+        },
+        {
+          "url": "https://mcleancountyil.gov/DocumentCenter/View/32938",
+          "read_on": "2026-10-27",
+          "terms": "Same site and copyright notice. 2026 Mobile Home Tax Sale Registration Form.",
+          "terms_url": "https://mcleancountyil.gov/site/copyright"
+        },
+        {
+          "url": "https://mcleancountyil.gov/97",
+          "read_on": "2026-10-27",
+          "terms": "Same site and copyright notice. Page notes 'ALL DATES SUBJECT TO CHANGE.'",
+          "terms_url": "https://mcleancountyil.gov/site/copyright"
+        },
+        {
+          "url": "https://mcleancountyil.gov/455/Tax-Sale-Fees",
+          "read_on": "2026-10-27",
+          "terms": "Same site and copyright notice.",
+          "terms_url": "https://mcleancountyil.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://mcleancountyil.gov/401/Annual-Tax-Sale",
+          "quote": "Pursuant to Public Act 104-0553, the McLean County Board, as trustee for the taxing districts, has elected to acquire"
+        },
+        {
+          "url": "https://mcleancountyil.gov/401/Annual-Tax-Sale",
+          "quote": "Sale begins at 10:00 am and all 2026 delinquent mobile home taxes are offered for sale"
+        }
+      ]
+    },
+    {
+      "county": "DeKalb",
+      "slug": "dekalb",
+      "office": "DeKalb County Treasurer/Collector",
+      "phone": "815-895-7112",
+      "address": "Administration Building, 110 East Sycamore Street, Sycamore, IL 60178",
+      "website": "https://dekalbcounty.org/departments/treasurer-collector/frequently-asked-questions/delinquent-tax-sale-information/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax sale only occurs once per year.",
+      "sales": [],
+      "next_sale_note": "No confirmed 2026 date. The Treasurer's tax sale page says \"The delinquent tax sale will be held on Monday, October 27, 2025\" but also says registration forms for \"this year's sale\" were due \"by October 9, 2026\", so the page is partly out of date. The Treasurer's main page lists a last day to pay 2025 taxes of Oct. 23, 2026. Contact the Collector's Office for the 2026 sale date.",
+      "how_to_bid": "Request a Tax Buyer Registration form from the Collector's Office (treasurer@dekalbcounty.org or 815-895-7112) and file it at least 10 business days before the sale with a $500 deposit, applied to purchases, refunded if you attend and buy nothing, forfeited if you don't attend. Lists are $75 prepaid. The sale is open outcry; you or your registered representative must be physically present, one bidder per registration. First-time buyers pay with certified funds, and taxes are paid right after the sale closes. Held at the Administration Building, Conference Room East, 9:00 a.m. (per the 2025 notice).",
+      "sources": [
+        {
+          "url": "https://dekalbcounty.org/departments/treasurer-collector/frequently-asked-questions/delinquent-tax-sale-information/",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer, terms or privacy link in the site footer)",
+          "terms_url": null
+        },
+        {
+          "url": "https://dekalbcounty.org/departments/treasurer-collector/",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no terms found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://dekalbcounty.org/departments/treasurer-collector/frequently-asked-questions/delinquent-tax-sale-information/",
+          "quote": "The sale will be conducted in an open outcry format."
+        },
+        {
+          "url": "https://dekalbcounty.org/departments/treasurer-collector/frequently-asked-questions/delinquent-tax-sale-information/",
+          "quote": "Your registration must be accompanied by a $500.00 deposit, which will be applied to your purchases at the sale."
+        },
+        {
+          "url": "https://dekalbcounty.org/departments/treasurer-collector/frequently-asked-questions/delinquent-tax-sale-information/",
+          "quote": "For this year’s sale, all Tax Buyer Registration forms must be turned in to the Treasurer’s Office by October 9, 2026."
+        }
+      ]
+    },
+    {
+      "county": "Macon",
+      "slug": "macon",
+      "office": "Macon County Treasurer",
+      "phone": "(217) 424-1426",
+      "address": "Macon County Office Building, 141 South Main Street, Room 302, Decatur, IL 62523",
+      "website": "https://maconcounty.illinois.gov/departments/treasurer/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax sale date, location or registration details are posted on the Treasurer's page; contact the office.",
+      "how_to_bid": "The Treasurer's FAQ says tax buyers bid an interest percentage starting at 9% and bidding downward, and the lowest bid wins. Registration, deposit and location are not stated on the pages we read.",
+      "sources": [
+        {
+          "url": "https://maconcounty.illinois.gov/departments/treasurer/",
+          "read_on": "2026-10-27",
+          "terms": "Privacy policy and footer: '© 2010- Macon County, Illinois. All rights reserved.' No terms of use or clause on copying, reuse or redistribution found.",
+          "terms_url": "https://maconcounty.illinois.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://maconcounty.illinois.gov/departments/treasurer/",
+          "quote": "At the tax sale, the tax buyers are bidding an interest percentage beginning at 9% and bidding downward."
         }
       ]
     }

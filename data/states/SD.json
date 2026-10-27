@@ -1,0 +1,60 @@
+{
+  "state": "SD",
+  "name": "South Dakota",
+  "sale_type": "lien",
+  "no_listed_sales": "South Dakota counties no longer sell tax certificates to investors unless the board of county commissioners passes a resolution allowing it; otherwise the county holds the certificate itself. With no sales to bid on, there are none to list.",
+  "overview": "South Dakota's tax sale law is built around tax certificates (liens) sold by the county treasurer at an annual courthouse sale on the third Monday of December, with bidders competing on the lowest interest rate, capped at ten percent a year. Since 2006, however, state law has said no county may sell a tax certificate unless its board of county commissioners adopts a resolution waiving that prohibition; otherwise the county holds the certificate itself, and the treasurer still sends and publishes the required notices. The holder of a certificate may start a tax deed proceeding after three years from the certificate sale, and the owner's right of redemption does not expire until sixty days after the affidavit of completed service of the notice is filed. A tax deed is signed by the county treasurer and attested by the county auditor.",
+  "overview_sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/Statute/10-23-7",
+      "quote": "On the third Monday of December in each year, between the hours of nine a.m. and four p.m.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/Statute/10-23-7",
+      "quote": "the treasurer shall offer at public sale at the courthouse a tax certificate for any real property",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/10-23.html?all=true",
+      "quote": "No rate of interest higher than ten percent per year is a valid bid pursuant to this section.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/10-23.html?all=true",
+      "quote": "Notwithstanding the provisions of chapters 10-23, 10-24, and 10-25, no county may sell any tax certificate",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/10-23.html?all=true",
+      "quote": "unless the board of county commissioners adopts a resolution waiving the provisions of this section",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/10-23.html?all=true",
+      "quote": "The county shall be the holder of any tax certificate issued by the county unless the board of county commissioners",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/10-23.html?all=true",
+      "quote": "The treasurer shall continue to serve notice on the owner of record of the real property, publish notice,",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/10-25.html?all=true",
+      "quote": "A proceeding shall be initiated after three years from the date of the tax certificate sale,",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/10-25.html?all=true",
+      "quote": "The right of redemption from the sale does not expire until sixty days after the filing of affidavit of completed service.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Statutes/10-25.html?all=true",
+      "quote": "The deed shall be signed by the treasurer and attested by the county auditor.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": []
+}

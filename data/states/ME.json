@@ -1,0 +1,70 @@
+{
+  "state": "ME",
+  "name": "Maine",
+  "sale_type": "lien",
+  "no_listed_sales": "Maine towns and cities don't hold public tax auctions. Unpaid property taxes become a tax lien mortgage held by the municipality, which is foreclosed automatically if it isn't paid within 18 months, and the municipality then sells the foreclosed property itself, generally by listing it with a real estate broker.",
+  "overview": "In Maine, property taxes are collected by each municipality, not by counties, and there is no tax sale to investors. Between 8 months and one year after the tax is committed, the tax collector sends the owner a 30-day demand for payment; if the tax is still unpaid, the collector records a tax lien certificate in the registry of deeds, which creates a tax lien mortgage in favor of the municipality. The owner can redeem by paying the tax, interest and costs, and the municipal treasurer must send a notice 30 to 45 days before the foreclosure date. If the lien is not paid within 18 months after filing, the mortgage is deemed foreclosed and the right of redemption expires. When the municipality later sells a foreclosed property, state law requires it to notify the former owner, list the property with a licensed real estate broker at the highest reasonable price, and pay the former owner the sale proceeds left after taxes, interest and costs; if that fails, the municipality may sell in another manner its legislative body authorizes.",
+  "overview_sources": [
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec942.html",
+      "quote": "after the expiration of 8 months and within one year after the date of original commitment of a tax",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec942.html",
+      "quote": "the payment of the tax within 30 days after service or mailing of the notice",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec942.html",
+      "quote": "After the expiration of the 30 days and within 10 days thereafter, the tax collector shall record in the registry of deeds",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec943.html",
+      "quote": "The filing of the tax lien certificate in the registry of deeds shall create a tax lien mortgage on said real estate",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec943.html",
+      "quote": "If the tax lien mortgage, together with interest and costs, shall not be paid within 18 months after the date of the filing",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec943.html",
+      "quote": "the said tax lien mortgage shall be deemed to have been foreclosed and the right of redemption to have expired.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec943.html",
+      "quote": "not more than 45 days nor less than 30 days before the foreclosing date of the tax lien mortgage",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec943-C.html",
+      "quote": "send a written notice to the last known address of the former owner",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec943-C.html",
+      "quote": "at the highest reasonable price",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec943-C.html",
+      "quote": "via quitclaim deed to the successful buyer",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec943-C.html",
+      "quote": "any sale proceeds in excess of",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.maine.gov/statutes/36/title36sec943-C.html",
+      "quote": "sell the property in any manner authorized by the municipality's legislative body",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": []
+}

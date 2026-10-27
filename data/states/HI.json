@@ -1,0 +1,45 @@
+{
+  "state": "HI",
+  "name": "Hawaii",
+  "sale_type": "redeemable deed",
+  "no_listed_sales": "Each Hawaii county schedules its own tax sales, and none of them has an upcoming sale posted that we can list. Maui's most recent sale was on May 19, 2026.",
+  "overview": "In Hawaii, real property tax is entirely a county matter: the state constitution gives every power over taxing real property to the counties (Honolulu, Hawaii, Maui and Kauai), and the state's old real property tax chapter was repealed in 2016. Each county runs its own tax sales under its own code, on its own schedule. Maui, for example, auctions properties that have been delinquent for three or more years, offering each parcel at an upset price that covers the taxes, penalty, interest and sale costs, and selling to the highest bidder. On Kauai the former owner can still redeem within one year of the sale by repaying the buyer the purchase price plus 12% a year interest and costs, so a buyer's deed can be undone during that year.",
+  "overview_sources": [
+    {
+      "url": "https://www.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/05-CONST/CONST_0008-0003.htm",
+      "quote": "all functions, powers and duties relating to the taxation of real property shall be exercised exclusively by the counties, with the exception of the county of Kalawao.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0246/HRS_0246-.htm",
+      "quote": "REPEALED. L 2016, c 52, §7.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mauicounty.gov/m/newsflash/home/detail/18800",
+      "quote": "The County of Maui Department of Finance will be holding a real property tax sale on Tuesday, May 19, 2026",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mauicounty.gov/m/newsflash/home/detail/18800",
+      "quote": "The sale will auction off properties that have been delinquent for three or more years and have received their final notice of tax sale.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.mauicounty.gov/m/newsflash/home/detail/18800",
+      "quote": "Each parcel will be offered at the upset price -- which represents the delinquent real property taxes, penalty, interest and costs associated with the tax sale -- and sold to the highest bidder",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.kauai.gov/files/assets/public/v/1/finance/documents/tax-sale-inst_rev-27sept2018.pdf",
+      "quote": "Owners have the right to redeem their properties within one (1) year from the date of the sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.kauai.gov/files/assets/public/v/1/finance/documents/tax-sale-inst_rev-27sept2018.pdf",
+      "quote": "and interest of twelve per cent (12%) per annum to the successful bidder to redeem the property.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": []
+}

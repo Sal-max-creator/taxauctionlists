@@ -1,0 +1,157 @@
+{
+  "state": "CT",
+  "name": "Connecticut",
+  "sale_type": "redeemable deed",
+  "local_unit": "towns",
+  "overview": "Connecticut has no county tax sales: unpaid property taxes are handled by each city or town, which can sell the real estate at a public auction, called a tax sale, under General Statutes § 12-157. These municipal tax sales are held without a court case. After the sale there is a six-month redemption period, and title does not pass to the buyer until that period has expired. If the property is not redeemed, the tax collector's deed is recorded and full title vests in the buyer.",
+  "overview_sources": [
+    {
+      "url": "https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/MunicipalTaxSales.pdf",
+      "quote": "the public auction, or 'tax sale,' pursuant to General Statutes § 12-157",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/MunicipalTaxSales.pdf",
+      "quote": "Municipal Tax Sales (Extra-Judicial)",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/MunicipalTaxSales.pdf",
+      "quote": "a six-month 'redemption' period with respect to the Property.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/MunicipalTaxSales.pdf",
+      "quote": "title to the property does not pass until after the sale has taken place and the redemption period has expired.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/MunicipalTaxSales.pdf",
+      "quote": "the Tax Collector’s Deed was recorded, and full title to the Property vested in A1Z7.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Bloomfield (town)",
+      "slug": "bloomfield",
+      "office": "Town of Bloomfield Tax Collector",
+      "phone": "860-769-3510",
+      "address": "800 Bloomfield Avenue, Town Hall, Bloomfield, CT 06002-0337",
+      "website": "https://bloomfieldct.gov/491/Tax-Sale-Information",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2026 or 2027 sale posted. The Town's Tax Sale Information page shows only the past sale of October 15, 2025.",
+      "how_to_bid": "Based on the Town's rules for the October 15, 2025 sale: the sale is a public auction conducted by the Tax Collector at Bloomfield Town Hall. Bidders registered in person the morning of the sale with photo ID and brought a $5,000 bank cashier's or certified check per property, payable to the town's attorney as trustee; the balance was due within about a week. Rules for the next sale are not posted yet.",
+      "sources": [
+        {
+          "url": "https://bloomfieldct.gov/491/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page says only 'All content © 2006-2026 Bloomfield, CT and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Restate facts only.",
+          "terms_url": "https://bloomfieldct.gov/copyright"
+        },
+        {
+          "url": "https://bloomfieldct.gov/455",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://bloomfieldct.gov/copyright"
+        },
+        {
+          "url": "https://bloomfieldct.gov/DocumentCenter/View/7316",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://bloomfieldct.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://bloomfieldct.gov/491/Tax-Sale-Information",
+          "quote": "The Town of Bloomfield conducted a tax sale auction on Wednesday, October 15, 2025."
+        },
+        {
+          "url": "https://bloomfieldct.gov/DocumentCenter/View/7316",
+          "quote": "The tax sale is a public auction conducted by the Tax Collector."
+        },
+        {
+          "url": "https://bloomfieldct.gov/DocumentCenter/View/7316",
+          "quote": "$5,000 bank cashier's check, or certified bank check payable to Crumbie Law Group, Trustee."
+        }
+      ]
+    },
+    {
+      "county": "Canton (town)",
+      "slug": "canton",
+      "office": "Town of Canton (tax sale)",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://www.townofcantonct.org/Tax-Sale",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale after June 16, 2026 posted; the Town's Tax Sale page still shows that past sale.",
+      "how_to_bid": "Not stated on the Town's page. It names Attorney Adam J. Cohen (ajcohen@pullcom.com, 203-330-2230) for questions about the listed properties and says town hall staff will not explain how tax sales work. Time, place and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.townofcantonct.org/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer, terms or copyright link found in the page content.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.townofcantonct.org/Tax-Sale",
+          "quote": "The Town of Canton will hold a tax sale on TUESDAY, JUNE 16, 2026."
+        }
+      ]
+    },
+    {
+      "county": "Torrington (city)",
+      "slug": "torrington",
+      "office": "City of Torrington Tax Collector's Office",
+      "phone": "not stated",
+      "address": "140 Main Street, Torrington, CT 06790",
+      "website": "https://www.torringtonct.gov/411/Tax-Sales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted: the Upcoming Sale section of the City's Tax Sales page is empty. The most recent sales were May 6, 2025 and September 16, 2025.",
+      "how_to_bid": "Based on the City's notice for the May 6, 2025 sale: a public auction run by the Tax Collector in the City Hall auditorium, 140 Main Street. Registration opened at 12:45 PM. Each property needed a $4,000 deposit ($1,000 if under $4,000 was owed) by bank or certified check payable to the Tax Collector, no cash; the balance was due within six days. Minimum bid was the taxes, interest and fees owed. Terms for the next sale are not posted yet.",
+      "sources": [
+        {
+          "url": "https://www.torringtonct.gov/411/Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Page says 'The information on this webpage and its contents are for general informational use only and are not legal advice.' Copyright page: 'All content © 2006-2026 Torrington, CT and its representatives. All rights reserved.' No reuse or redistribution ban found. Restate facts only.",
+          "terms_url": "https://www.torringtonct.gov/copyright"
+        },
+        {
+          "url": "https://www.torringtonct.gov/DocumentCenter/View/731/Final-Legal-Notice-May-6-2025-PDF",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.torringtonct.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.torringtonct.gov/411/Tax-Sales",
+          "quote": "City of Torrington Tax Sale Information Under Connecticut General Statutes §12-157"
+        },
+        {
+          "url": "https://www.torringtonct.gov/411/Tax-Sales",
+          "quote": "Deposits by certified/bank check only - no cash, even if the earlier notices mention it."
+        },
+        {
+          "url": "https://www.torringtonct.gov/DocumentCenter/View/731/Final-Legal-Notice-May-6-2025-PDF",
+          "quote": "TUESDAY, MAY 6, 2025"
+        }
+      ]
+    }
+  ]
+}

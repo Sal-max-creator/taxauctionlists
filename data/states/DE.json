@@ -1,0 +1,141 @@
+{
+  "state": "DE",
+  "name": "Delaware",
+  "sale_type": "redeemable deed",
+  "overview": "Delaware collects delinquent county property taxes through the monition method in Title 9, Chapter 87 of the Delaware Code. The tax collecting authority files a praecipe with the prothonotary, a monition is posted on the property, and a writ commands the county sheriff to expose the real estate to public sale. The property itself is sold, and the sale goes to the Superior Court for approval. The owner may redeem within 60 days after the court approves the sale by paying the purchase price plus 15 percent and the costs of the case.",
+  "overview_sources": [
+    {
+      "url": "https://delcode.delaware.gov/title9/c087/sc02/index.html",
+      "quote": "The tax collecting authority may file a praecipe in the office of the prothonotary",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://delcode.delaware.gov/title9/c087/sc02/index.html",
+      "quote": "We therefore now command you to expose to public sale, the real estate mentioned and described in said Monition as follows:",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://delcode.delaware.gov/title9/c087/sc02/index.html",
+      "quote": "redeem the same at any time within 60 days from the day the sale thereof is approved by the Court",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://delcode.delaware.gov/title9/c087/sc02/index.html",
+      "quote": "the amount of the purchase price and 15 percent in addition thereto",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Kent",
+      "slug": "kent",
+      "office": "Kent County Sheriff's Office (sale); Kent County Department of Finance, Division of Tax (procedures)",
+      "phone": "302-736-2161 (Sheriff's Office); 744-2336 (monition sale questions, Finance page)",
+      "address": "555 Bay Rd., Dover, Delaware 19901",
+      "website": "https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Monition Tax Sales take place January, April, July and October and are held on the last Tuesday of that month at 10:00 a.m.",
+      "sales": [
+        {
+          "date": "2026-10-27",
+          "time": "10:00 AM",
+          "label": "Monition (tax) sale",
+          "deposit": "$4,000 non-refundable cashier's check, certified check or money order per property, brought at registration (Sheriff's page, effective May 1, 2025). The county's Finance page still says $2,000; the Sheriff's page is the newer rule.",
+          "registration_deadline": "Registration ends at 9:45 a.m. on sale day",
+          "note": "Held at the Kent County Levy Court, 555 Bay Road, Dover, Chamber - Room 203. Balance due to the Sheriff's Office by 2:00 p.m. the same day (Finance page).",
+          "source_url": "https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office",
+          "quote": "The next monition sale is scheduled for October 27th, 2026, at 10 am."
+        }
+      ],
+      "next_sale_note": "After October 27, 2026, no dated monition sale is posted yet; sales follow the quarterly rule (January, April, July, October).",
+      "how_to_bid": "Bid in person at the Kent County Levy Court in Dover. Register before 9:45 a.m. on sale day. The winning bidder pays a deposit for each property at the time of bidding and the balance to the Sheriff's Office by 2:00 p.m. the same day. The owner has 60 days from court confirmation to redeem; if the owner redeems, the bidder gets the price paid back plus 15%.",
+      "sources": [
+        {
+          "url": "https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer of Liability is an accuracy disclaimer only: 'The use of this information is at your own risk.' No sentence on copying, reuse, publishing, distribution or commercial use; nothing forbids republishing.",
+          "terms_url": "https://www.kentcountyde.gov/Site-Footer/Sub-Footer-Links/Kent-County-Levy-Court-Disclaimer-of-Liability"
+        },
+        {
+          "url": "https://www.kentcountyde.gov/My-Government/Departments/Finance/Monition-Sale-Procedures",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer of Liability is an accuracy disclaimer only: 'The use of this information is at your own risk.' No sentence on copying, reuse, publishing, distribution or commercial use; nothing forbids republishing.",
+          "terms_url": "https://www.kentcountyde.gov/Site-Footer/Sub-Footer-Links/Kent-County-Levy-Court-Disclaimer-of-Liability"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.kentcountyde.gov/My-Government/Departments/Finance/Monition-Sale-Procedures",
+          "quote": "Monition Tax Sales take place January, April, July and October and are held on the last Tuesday of that month at 10:00 a.m."
+        },
+        {
+          "url": "https://www.kentcountyde.gov/My-Government/Departments/Finance/Monition-Sale-Procedures",
+          "quote": "The winning bidder must have a $2,000.00 certified funds, cashiers check or a money order at the time of bidding"
+        },
+        {
+          "url": "https://www.kentcountyde.gov/My-Government/Departments/Finance/Monition-Sale-Procedures",
+          "quote": "If the homeowner redeems the property, the winning bidder will receive his/her money back plus 15% of the price he/she paid."
+        },
+        {
+          "url": "https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office",
+          "quote": "Registration will end promptly at 9:45 a.m. and office door will be closed! No Exceptions!"
+        },
+        {
+          "url": "https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office",
+          "quote": "All sales are held in the Kent County Levy Court, 555 Bay Road, Dover DE 19901, Chamber - Room 203."
+        },
+        {
+          "url": "https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office",
+          "quote": "All bidders must register prior to all Sheriff sales (foreclosure or monition) and bring a $4,000 non-refundable cashier's check, certified check or money order (per property intended to purchase)"
+        }
+      ],
+      "notes": {
+        "deposit_note": "The Finance page says $2,000 per property; the Sheriff's page (rule effective May 1, 2025, read verbatim Oct 27, 2026) says $4,000 per property. Check with the Sheriff's Office before the sale."
+      }
+    },
+    {
+      "county": "Sussex",
+      "slug": "sussex",
+      "office": "Sussex County Sheriff's Office",
+      "phone": "(302) 855-7700",
+      "address": "22215 N. Dupont Blvd (Rt. 113 North), Georgetown, DE 19947 (sale location, Main Conference Room, 2nd floor)",
+      "website": "https://sussexcountyde.gov/node/92",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The third Tuesday of every month promptly at 9:30 a.m.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "The county page gives only the monthly rule for sheriff sales (monition sales included); no dated monition sale was read.",
+      "how_to_bid": "Register in person between 9:00 and 9:30 a.m. before the Sheriff Sale with a $4,000 deposit and photo ID. For monition (tax) sales the full purchase price is due on sale day by 3 PM. The county does not guarantee clear title; the owner may redeem within 60 days after court confirmation.",
+      "sources": [
+        {
+          "url": "https://sussexcountyde.gov/node/92",
+          "read_on": "2026-10-27",
+          "terms": "No Terms of Use or Disclaimer page found; footer links only Privacy and ADA. Footer reads '© 2026 All rights reserved'; the privacy policy has no sentence on copying, reuse, distribution or commercial use.",
+          "terms_url": "https://sussexcountyde.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sussexcountyde.gov/node/92",
+          "quote": "To register you will need a $4,000.00 deposit."
+        },
+        {
+          "url": "https://sussexcountyde.gov/node/92",
+          "quote": "100 percent of the purchase money will be demanded on the day of the sale by 3 PM."
+        },
+        {
+          "url": "https://sussexcountyde.gov/node/92",
+          "quote": "All bidders will be required to register between 9am - 9:30am, prior to the start of the Sheriff Sale."
+        },
+        {
+          "url": "https://sussexcountyde.gov/node/92",
+          "quote": "We do NOT guarantee clear title!"
+        }
+      ]
+    }
+  ]
+}

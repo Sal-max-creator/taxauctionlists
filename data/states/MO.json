@@ -326,6 +326,127 @@
           "quote": "The Collector of Revenue processes the payments for all Real Estate parcels within the City of St. Louis."
         }
       ]
+    },
+    {
+      "county": "Cape Girardeau",
+      "slug": "cape-girardeau",
+      "office": "Cape Girardeau County Collector's Office (Barbara Gholson, Collector)",
+      "phone": "(573) 243-4476",
+      "address": "#1 Barton Square, Suite #303, Jackson, MO 63755 (second office: 2311 Bloomfield Road, Suite #102, Cape Girardeau, MO 63703, (573) 335-2606)",
+      "website": "https://www.capecounty.us/collectors-office/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Collector's page shows the 2026 Tax Lien Sale / Land Tax Sale was held August 24, 2026 at 10:00 AM (past).",
+      "how_to_bid": "The Collector's page posts the parcel list and a map of the parcels offered, plus the year's bidder forms (Tax Sale Affidavit for Non-Delinquency, a version for an individual bidding on behalf of an entity, Agent Appointment Affidavit and Designation of Resident Agent). The 2026 sale was held on the 3rd floor of the County Administration Building beginning at 10:00 AM, and the county asks bidders to read Missouri Revised Statutes Chapter 140. Deposit, registration steps and payment terms are not stated on the page read; call the Collector's office.",
+      "sources": [
+        {
+          "url": "https://www.capecounty.us/collectors-office/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or legal page linked in the footer; footer reads 'Copyright © 2026 Cape Girardeau County. All Rights Reserved.' No reuse restriction found.",
+          "terms_url": "https://www.capecounty.us/collectors-office/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.capecounty.us/collectors-office/",
+          "quote": "The Cape Girardeau County 2026 Tax Lien Sale / Land Tax Sale will be held on August 24, 2026"
+        },
+        {
+          "url": "https://www.capecounty.us/collectors-office/",
+          "quote": "Missouri Revised Statutes Chapter 140 which contains information about the Sale"
+        }
+      ]
+    },
+    {
+      "county": "Cole",
+      "slug": "cole",
+      "office": "Cole County Collector's Office",
+      "phone": "573-634-9124",
+      "address": "311 E High Street, Room 100, Jefferson City, MO 65101",
+      "website": "https://www.colecounty.org/179/Delinquent-Tax-Certificate-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax sale is held annually on the 4th Monday in August commencing at 10 a.m. at the Cole County Courthouse.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the county states only the annual rule (4th Monday in August, 10 a.m.). The 2026 sale results are posted (past).",
+      "how_to_bid": "Lands and lots with taxes delinquent for 3 years are offered at public auction, with the list published in the Jefferson City News Tribune for three consecutive weeks before the sale. Buyers or their representative must be present; non-residents of Missouri may not bid unless special arrangements are made with the Collector before the sale. Buyers sign an affidavit that they are not delinquent on any tax payments (available at the Collector's office or at the sale site just before the sale). Bidding begins at the taxes, penalties and sale costs, and the total purchase price is due at the Collector's office immediately at the close of the sale by cashier's check, bank draft, cash, money order or personal check. The Collector mails a certificate of purchase; the owner may redeem within one year from the sale date.",
+      "sources": [
+        {
+          "url": "https://www.colecounty.org/179/Delinquent-Tax-Certificate-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Footer 'Copyright Notices' page reads 'All content © 2006-2026 Cole County, MO and its representatives. All rights reserved.' The Privacy Policy covers personal data and disclaims linked outside sites. No reuse restriction found.",
+          "terms_url": "https://www.colecounty.org/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.colecounty.org/179/Delinquent-Tax-Certificate-Sale",
+          "quote": "The tax sale is held annually on the 4th Monday in August commencing at 10 a.m. at the Cole County Courthouse."
+        },
+        {
+          "url": "https://www.colecounty.org/179/Delinquent-Tax-Certificate-Sale",
+          "quote": "Non-residents of Missouri may not bid unless special arrangements have been made with the collector prior to the sale."
+        },
+        {
+          "url": "https://www.colecounty.org/179/Delinquent-Tax-Certificate-Sale",
+          "quote": "The total purchase price must be paid to the collector's office immediately at the close of the sale."
+        },
+        {
+          "url": "https://www.colecounty.org/179/Delinquent-Tax-Certificate-Sale",
+          "quote": "The original property owner may redeem the property anytime within one year from the sale date."
+        }
+      ]
+    },
+    {
+      "county": "Johnson",
+      "slug": "johnson",
+      "office": "Johnson County Collector",
+      "phone": "660-747-5531",
+      "address": "1310 S Maguire Street, Suite A, Warrensburg, MO 64093",
+      "website": "https://www.jocomo.gov/204/Delinquent-Tax-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held August 24, 2026 at 10 am at the temporary Courthouse, 301 W Market Street (past).",
+      "how_to_bid": "Register at the sale site on the day of the sale beginning at 9 am (no pre-registration). Buyers must be present; non-residents of Missouri may not bid unless special arrangements are made with the Collector before the sale. The buyer or appointed agent signs an affidavit of not being delinquent on any tax payments. Bidding begins at the taxes, penalties and sale costs; pay the bid to the Collector by 3:00 p.m. the day of the sale by cashier's check, money order, bank draft or cash (no personal checks or cards). The Collector issues a certificate of purchase (a tax lien), and the property may be redeemed within one year from the certificate's issuance and thereafter until a collector's deed is issued.",
+      "sources": [
+        {
+          "url": "https://www.jocomo.gov/204/Delinquent-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer covers accuracy and linked sites and has no reuse clause; the footer 'Copyright Notices' page reads 'All content © 2006-2026 Johnson County, MO and its representatives. All rights reserved.' No reuse restriction found.",
+          "terms_url": "https://www.jocomo.gov/194/Disclaimer"
+        },
+        {
+          "url": "https://www.jocomo.gov/205/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.jocomo.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.jocomo.gov/204/Delinquent-Tax-Sale",
+          "quote": "2026 Sale Location 301 W Market Street Tax Sale - August 24, 2026, 10 am"
+        },
+        {
+          "url": "https://www.jocomo.gov/204/Delinquent-Tax-Sale",
+          "quote": "Registration at temporary Courthouse (301 W Market St) the day of sale beginning at 9 am. (No pre-registration)"
+        },
+        {
+          "url": "https://www.jocomo.gov/205/Tax-Sale-Information",
+          "quote": "The purchaser shall pay the amount of bid to the Collector by 3:00 p.m. the day of the sale."
+        },
+        {
+          "url": "https://www.jocomo.gov/205/Tax-Sale-Information",
+          "quote": "Personal checks and credit/debit cards are not accepted."
+        }
+      ]
     }
   ]
 }

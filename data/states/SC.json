@@ -398,6 +398,159 @@
           "quote": "Beginning September 30, 2026, information concerning online bidder registration, property listings"
         }
       ]
+    },
+    {
+      "county": "Florence",
+      "slug": "florence",
+      "office": "Florence County Office of Delinquent Tax",
+      "phone": "(843) 665-3095",
+      "address": "Florence County Complex, Room 107 (street address not stated on the page read)",
+      "website": "https://www.florencecountysc.gov/offices/delinquent-tax/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Delinquent Tax page shows the 2026 sale was set for Monday, October 5, 2026 (continuing October 6 if needed), which is past.",
+      "how_to_bid": "Pre-register with the county's Bidder Registration Form (for 2026 the forms were due Friday, October 2); registration is not offered on sale day, and there is a $10.00 registration fee per bidder. Pick up a paddle in Room 107 of the Delinquent Tax Office from 8:30 AM; the sale begins at 10:00 AM on the first floor of the parking garage at the County Complex. Bids are in person only (no mail bids), by the bidder or an authorized agent. The winning bid must be paid in full the day of the sale in cash, postal money order, cashier's check or certified check (no personal checks); a defaulting bidder can be fined $500 and barred from future sales. Owners have one year and a day to redeem, and the buyer receives a tax deed.",
+      "sources": [
+        {
+          "url": "https://www.florencecountysc.gov/offices/delinquent-tax/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer (links: About us, Services, Careers, FOIA, Accessibility); footer reads '© Copyright 2026 Florence County.' No terms page found; no reuse restriction seen.",
+          "terms_url": "https://www.florencecountysc.gov/offices/delinquent-tax/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.florencecountysc.gov/offices/delinquent-tax/",
+          "quote": "Registration will NOT be offered on the day of the sale this year."
+        },
+        {
+          "url": "https://www.florencecountysc.gov/offices/delinquent-tax/",
+          "quote": "Pre-registration forms must be completed by Friday, October 2nd, 2026."
+        },
+        {
+          "url": "https://www.florencecountysc.gov/offices/delinquent-tax/",
+          "quote": "The winning bid must be paid in full the day of the sale."
+        }
+      ]
+    },
+    {
+      "county": "Pickens",
+      "slug": "pickens",
+      "office": "Pickens County Delinquent Tax Office",
+      "phone": "(864) 898-5890 option 1",
+      "address": "Pickens County Administration Facility, 222 McDaniel Avenue, B-15, Pickens, SC 29671",
+      "website": "https://www.co.pickens.sc.us/departments/delinquent_tax/index.php",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-11-09",
+          "time": "10:00 AM (doors open 9:00)",
+          "label": "Pickens County delinquent tax sale",
+          "deposit": "not stated",
+          "registration_deadline": "Turn in the original, signed Bidder Registration Form to the Delinquent Tax Office by 5:00 on the Monday before the sale; no emailed, online or sale-day registration",
+          "note": "Held at the Pickens County Performing Arts Center, 314 W. Main Street, Liberty, SC 29657. The county page also still shows the 2026 registration deadline (October 12, 2026), so confirm the date with the Delinquent Tax Office.",
+          "source_url": "https://www.co.pickens.sc.us/departments/delinquent_tax/index.php",
+          "quote": "Our next tax sale will be held Tuesday, November 9, 2027"
+        }
+      ],
+      "next_sale_note": "The 2026 sale is past (results posted).",
+      "how_to_bid": "Turn in the original, signed Bidder Registration Form at the Delinquent Tax Office by 5:00 on the Monday before the sale; the county accepts no emailed or online registrations and none on sale day. The tax sale list runs in the local newspaper for 3 weeks before the sale and is posted on the county page; an unofficial list goes up by 6:00 pm the Friday before. The sale is held in person at the Performing Arts Center in Liberty, with doors opening at 9:00 and bidding at 10:00 a.m. The taxpayer has a one-year redemption period, and if the property is redeemed the buyer gets the money back with interest. Deposit and payment terms for bidders are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.co.pickens.sc.us/departments/delinquent_tax/index.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer link in the footer; the Privacy Policy says site information is 'subject to inspection and copying by the public' and that the county does not warrant its accuracy. Footer reads '© · 2021 Pickens County'. No reuse restriction found.",
+          "terms_url": "https://www.co.pickens.sc.us/about_us/privacy_policy.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.pickens.sc.us/departments/delinquent_tax/index.php",
+          "quote": "Our next tax sale will be held Tuesday, November 9, 2027"
+        },
+        {
+          "url": "https://www.co.pickens.sc.us/departments/delinquent_tax/index.php",
+          "quote": "WE DO NOT ACCEPT EMAILED OR ONLINE REGISTRATIONS"
+        },
+        {
+          "url": "https://www.co.pickens.sc.us/departments/delinquent_tax/index.php",
+          "quote": "THERE IS NO REGISTRATION AVAILABLE ON THE DAY OF THE TAX SALE"
+        },
+        {
+          "url": "https://www.co.pickens.sc.us/departments/delinquent_tax/index.php",
+          "quote": "There is a one year redemption period in which the taxpayer may pay to reclaim his property."
+        }
+      ]
+    },
+    {
+      "county": "Sumter",
+      "slug": "sumter",
+      "office": "Sumter County Treasurer",
+      "phone": "803-436-2213",
+      "address": "13 East Canal St., Sumter, SC 29150",
+      "website": "https://www.sumtercountysc.gov/departments/s_-_z/treasurer/delinquent_tax.php",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-08",
+          "time": "10:00 AM to 4:00 PM",
+          "label": "Sumter County delinquent tax sale",
+          "deposit": "not stated; bids are paid in full by 5:00 p.m. on the sale day(s) in cash, money order or certified check",
+          "registration_deadline": "Bidder registration open until Nov. 20, 2026; no registration after that day",
+          "register_by": "2026-11-20",
+          "note": "Held at the Sumter County Civic Center, 700 W Liberty Street, Sumter, SC 29150. Taxes must be paid by 5 p.m. on Dec. 7, 2026 to keep a property out of the sale.",
+          "source_url": "https://cms7files.revize.com/sumtercountysc/Departments/Treasurer/2026%20TAX%20SALE%20INSTRUCTIONS.pdf",
+          "quote": "The Sumter County tax sale will be held Tuesday, December 8, 2026, at the Sumter County Civic Center,"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register as a bidder with the county's Bidder Tax Sale Registration Form (linked from the Treasurer's Delinquent Tax page) by the posted deadline. The sale is an open bid auction at the Sumter County Civic Center: bidders use their numbered paddle, and property is sold in alphabetical order by the defaulting taxpayer's name. All bids must be paid at the Civic Center by 5:00 p.m. on the day(s) of the sale by cash, money order or certified check (no personal or business checks). The defaulting taxpayer, a grantee or a mortgage or judgment creditor has one year from the sale to redeem (SC Code Section 12-51-90).",
+      "sources": [
+        {
+          "url": "https://www.sumtercountysc.gov/departments/s_-_z/treasurer/delinquent_tax.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found: the footer has no terms, disclaimer, privacy or copyright link or text (only address, phone, hours, 'Powered by revize.' and Login).",
+          "terms_url": "https://www.sumtercountysc.gov/departments/s_-_z/treasurer/delinquent_tax.php"
+        },
+        {
+          "url": "https://cms7files.revize.com/sumtercountysc/Departments/Treasurer/2026%20TAX%20SALE%20INSTRUCTIONS.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above (county-hosted file linked from the Treasurer's page)",
+          "terms_url": "https://www.sumtercountysc.gov/departments/s_-_z/treasurer/delinquent_tax.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cms7files.revize.com/sumtercountysc/Departments/Treasurer/2026%20TAX%20SALE%20INSTRUCTIONS.pdf",
+          "quote": "The Sumter County tax sale will be held Tuesday, December 8, 2026, at the Sumter County Civic Center,"
+        },
+        {
+          "url": "https://cms7files.revize.com/sumtercountysc/Departments/Treasurer/2026%20TAX%20SALE%20INSTRUCTIONS.pdf",
+          "quote": "The sale is to commence at 10:00 a.m. and end at 4:00 p.m."
+        },
+        {
+          "url": "https://www.sumtercountysc.gov/departments/s_-_z/treasurer/delinquent_tax.php",
+          "quote": "Bidder registration for the 2026 Tax Sale is now underway and open until Nov. 20, 2026."
+        },
+        {
+          "url": "https://cms7files.revize.com/sumtercountysc/Departments/Treasurer/2026%20TAX%20SALE%20INSTRUCTIONS.pdf",
+          "quote": "This is an open bid auction. Bidders must use their numbered bidder paddle to place bids."
+        },
+        {
+          "url": "https://cms7files.revize.com/sumtercountysc/Departments/Treasurer/2026%20TAX%20SALE%20INSTRUCTIONS.pdf",
+          "quote": "All bids must be paid at the Sumter County Civic Center by 5:00 p.m. on the day(s) of the tax sale."
+        }
+      ],
+      "register_by": "2026-11-20"
     }
   ]
 }

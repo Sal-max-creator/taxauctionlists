@@ -269,6 +269,91 @@
           "quote": "You will have the right to pay the amounts due until the day before the auction."
         }
       ]
+    },
+    {
+      "county": "Terrebonne",
+      "slug": "terrebonne",
+      "office": "Terrebonne Parish Sheriff's Office",
+      "phone": "985-876-2500",
+      "address": "not stated",
+      "website": "https://www.tpso.net/taxfaq",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale posted. The Sheriff's tax FAQ answer (an undated PDF) says the auction is held each June starting at 10:00 A.M. in the jury room of the annex building.",
+      "how_to_bid": "The Sheriff's tax FAQ says the tax sale is a public auction open to all who register and participate, held in person in the jury room of the annex building starting at 10:00 A.M. in June. Registration steps, deposit, interest and redemption terms are not stated.",
+      "sources": [
+        {
+          "url": "https://www.tpso.net/taxfaq",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, privacy or copyright link in the footer (only social links; a 'Legal Contact' header link is a contact page). Copyright-only footer: '© 2025 by TPSO'. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.tpso.net/_files/ugd/fad28c_76322db17e97497aac279248f6f0847b.pdf",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, privacy or copyright link in the footer (only social links; a 'Legal Contact' header link is a contact page). Copyright-only footer: '© 2025 by TPSO'. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tpso.net/_files/ugd/fad28c_76322db17e97497aac279248f6f0847b.pdf",
+          "quote": "a public auction and is open to all who wish to register and participate"
+        }
+      ]
+    },
+    {
+      "county": "Lafourche",
+      "slug": "lafourche",
+      "office": "Lafourche Parish Sheriff's Office",
+      "phone": "(985) 449-4430 (tax payment questions); (985) 448-2111 (non-emergency)",
+      "address": "104-A Canal Blvd., P.O. Box 5608, Thibodaux, LA 70302 (tax payments also at 200 Canal Boulevard, Thibodaux; 805 Crescent Avenue, Lockport; 102 W. 91st Street, Cut Off)",
+      "website": "https://www.lpso.net/about-lpso/departments/civil/taxlienauction/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction (SRI)",
+        "url": "https://www.zeusauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 date not posted on the Sheriff's Property Tax Lien Auction page. The last dated notice found is for the 2025 sale (July 16, 2025, 8 A.M., to noon July 17, 2025), which has passed.",
+      "how_to_bid": "Register on ZeusAuction.com, then register for the Lafourche Parish sale. The sale is online and open to the general public, except Sheriff's Office employees and their immediate relatives. It is low bid wins: the winner is the bidder who accepts the smallest percent ownership interest. Winning bids are paid in full by ACH from the account used at registration after the sale ends, and all sales are final. Owners may pay until 11:59 p.m. five days before the auction; the owner has 3 years to redeem at the Sheriff's Office. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.lpso.net/about-lpso/departments/civil/taxlienauction/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer. Copyright-only footer: 'Copyright © 2026 Lafourche Parish Sheriff's Office.' No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.lpso.net/2025/06/16/sheriff-webre-announces-details-on-2025-property-tax-title-sale/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer. Copyright-only footer: 'Copyright © 2026 Lafourche Parish Sheriff's Office.' No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lpso.net/about-lpso/departments/civil/taxlienauction/",
+          "quote": "This sale is open to the general public."
+        },
+        {
+          "url": "https://www.lpso.net/about-lpso/departments/civil/taxlienauction/",
+          "quote": "Payment must be made in full, and all sales are final."
+        },
+        {
+          "url": "https://www.lpso.net/about-lpso/departments/civil/taxlienauction/",
+          "quote": "The property owner has 3 years to redeem at the sheriff's office."
+        },
+        {
+          "url": "https://www.lpso.net/2025/06/16/sheriff-webre-announces-details-on-2025-property-tax-title-sale/",
+          "quote": "will host a tax title sale on July 16, 2025, at 8 A.M., and it will conclude at noon on July 17, 2025"
+        }
+      ]
     }
   ]
 }

@@ -154,7 +154,7 @@
       "office": "Morton County Auditor's Office",
       "phone": "701-667-3300",
       "address": "County Courthouse, 210 2nd Ave NW, Mandan, ND 58554",
-      "website": "https://www.mortonnd.gov/3yrdelq",
+      "website": "https://www.mortonnd.gov/index.asp?SEC=D5516D4A-2D4C-4A9C-8AFF-09A205BBA8C0",
       "sale_type": "deed",
       "format": "unknown",
       "platform": null,
@@ -164,25 +164,19 @@
       "how_to_bid": "The county pages don't give bidding steps. Watch for the notice of properties for sale, or call the Auditor's Office. Owners can still pay everything owed to the Treasurer's Office before the sale starts.",
       "sources": [
         {
-          "url": "https://www.mortonnd.gov/3yrdelq",
-          "read_on": "2026-10-27",
-          "terms": "The county's Website Policy & Disclaimer says information is provided as is with no guarantee of accuracy, and says nothing about reusing or republishing site content. No copyright notice was shown.",
-          "terms_url": "https://www.mortonnd.gov/index.asp?SEC=5849E2F6-6824-49EE-BB28-689437791FE8"
-        },
-        {
           "url": "https://www.mortonnd.gov/index.asp?SEC=D5516D4A-2D4C-4A9C-8AFF-09A205BBA8C0",
           "read_on": "2026-10-27",
-          "terms": "The county's Website Policy & Disclaimer says information is provided as is with no guarantee of accuracy, and says nothing about reusing or republishing site content. No copyright notice was shown.",
+          "terms": "The county's Website Policy & Disclaimer says information is provided as is with no guarantee of accuracy, and says nothing about reusing or republishing site content. The page footer shows a plain copyright notice (© 2026 Morton County, ND) with no reuse limits.",
           "terms_url": "https://www.mortonnd.gov/index.asp?SEC=5849E2F6-6824-49EE-BB28-689437791FE8"
         }
       ],
       "evidence": [
         {
-          "url": "https://www.mortonnd.gov/3yrdelq",
+          "url": "https://www.mortonnd.gov/index.asp?SEC=D5516D4A-2D4C-4A9C-8AFF-09A205BBA8C0",
           "quote": "A notice of properties for sale will be posted in the Auditor’s Office and the county website."
         },
         {
-          "url": "https://www.mortonnd.gov/3yrdelq",
+          "url": "https://www.mortonnd.gov/index.asp?SEC=D5516D4A-2D4C-4A9C-8AFF-09A205BBA8C0",
           "quote": "Payment may be made to the Morton County Treasurer’s Office before the scheduled start time of the sale"
         }
       ]

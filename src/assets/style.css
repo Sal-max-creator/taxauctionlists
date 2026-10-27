@@ -113,3 +113,19 @@ article.guide h2 { font-size: 1.25rem; }
 
 .site-footer { border-top: 1px solid var(--border); padding: 24px 0 40px; font-size: 0.9rem; color: var(--muted); }
 .site-footer .disclaimer { color: var(--text); }
+
+.button { display: inline-block; font-weight: 600; padding: 10px 20px; border-radius: 8px; background: var(--accent); color: var(--bg); text-decoration: none; }
+a.button:hover { filter: brightness(1.08); }
+.button[aria-disabled="true"] { opacity: 0.55; cursor: default; }
+
+.plans { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; margin: 24px 0 8px; }
+.plan { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px 20px; }
+.plan h2 { margin: 0; font-size: 1.2rem; }
+.plan-paid { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+.plan-price { font-size: 2rem; font-weight: 800; margin: 4px 0 8px; line-height: 1.1; }
+.plan-price span { font-size: 1rem; font-weight: 500; color: var(--muted); }
+.plan ul { padding-left: 1.2em; margin: 0 0 12px; }
+.plan li { margin-bottom: 4px; }
+
+.callout { background: var(--accent-soft); border-radius: var(--radius); padding: 14px 18px; margin: 24px 0; }
+.callout p { margin: 4px 0; }

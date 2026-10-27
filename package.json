@@ -9,7 +9,8 @@
     "check-sources": "node scripts/check-sources.mjs",
     "terms-log": "node scripts/build-terms-log.mjs",
     "test": "node scripts/validate-data.mjs && node scripts/test-worker.mjs && eleventy",
-    "test:worker": "node scripts/test-worker.mjs"
+    "test:worker": "node scripts/test-worker.mjs",
+    "alert-draft": "node scripts/alert-draft.mjs"
   },
   "repository": {
     "type": "git",

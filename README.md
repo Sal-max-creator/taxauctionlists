@@ -10,6 +10,7 @@ npm start            # dev server at http://localhost:8080
 npm run build        # static site in _site/
 npm run validate     # checks data/states/*.json
 npm run terms-log    # regenerates SOURCES.md
+npm run alert-draft  # prints this week's paid Alerts email draft (Markdown)
 ```
 
 Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloudflare deploys it as a Worker with static assets: `wrangler.jsonc` runs `npm run build` and serves `_site`, and `worker/index.js` runs only for `/api/*` (the signup form), so Workers Builds needs no extra settings (deploy command `npx wrangler deploy`, non-production branches `npx wrangler versions upload`). Node 22 is pinned in `.nvmrc`. `src/headers.njk` writes Cloudflare's `_headers` file, which adds `X-Robots-Tag: noindex` while the site is private.
@@ -20,7 +21,9 @@ Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloud
 |---|---|
 | `data/states/XX.json` | One file per state: overview, counties, sales, sources and their terms |
 | `src/` | Templates, guides (`src/guides/*.md`), CSS and JS |
-| `src/_data/site.json` | Site name, `public` switch, signup endpoint (`/api/subscribe`; empty sends nothing) |
+| `src/_data/site.json` | Site name, `public` switch, signup endpoint (`/api/subscribe`; empty sends nothing), paid Alerts settings (`paid`) |
+| `src/alerts.njk` | The paid Alerts page (`/alerts/`) |
+| `scripts/alert-draft.mjs` | Writes the weekly Alerts email draft as Markdown (sends nothing) |
 | `worker/index.js` | Signup handler: checks the form and adds the address to Buttondown |
 | `src/_data/linkOnly.json` | Sources we link to but never copy from |
 | `scripts/validate-data.mjs` | Refuses sales without a source URL and quote, or sourced from a link-only site |
@@ -64,6 +67,31 @@ The form posts to `/api/subscribe` on the site itself. The Worker checks the add
 
 The Buttondown API key is a Worker secret, not a repo file or a GitHub Actions secret (Actions secrets never reach the Worker): Cloudflare dashboard > Workers & Pages > `taxauctionlists` > Settings > Variables and Secrets > Add, type **Secret**, name `BUTTONDOWN_API_KEY`. Deploys keep it. Without it the form says signups aren't open yet and sends nothing. `npm run test:worker` tests the handler with Buttondown faked.
 
+## Paid Alerts ($19/month)
+
+`/alerts/` explains the paid tier and links to Buttondown's own checkout at `https://buttondown.com/taxauctionlists/buy`. Payments run through the Stripe account connected to Buttondown; this site has no payment code and never sees a card. Subscribers cancel, change their card or see past payments through Buttondown's subscriber portal (link in every email footer, or `https://buttondown.com/login?subscriber=1`).
+
+The button stays a disabled "Alerts open soon" until `paid.open` in `src/_data/site.json` is `true`. Turn it on only after the plan exists in Buttondown (Settings > Paid subscriptions):
+
+| Setting | Value |
+|---|---|
+| Content access | Free and paid subscriptions |
+| Currency | USD |
+| Payment model | Fixed |
+| Cadence | Monthly |
+| Price | 19 |
+| Yearly upsell price | blank (no yearly option for now) |
+
+Buttondown needs its paid subscriptions add-on for this and has no Stripe test mode; its docs say to test with a small real charge and refund it.
+
+### Sending the weekly email
+
+1. After the Monday source check issue is reviewed and `data/states/` is updated, run `npm run alert-draft` (options: `--days 45`, `--since <git ref>`; by default it compares with the commit from 7 days ago).
+2. Read it, fix anything the script can't know (cancellations announced elsewhere, notes), and attach parcel lists by hand: a spreadsheet only where the county's terms allow reuse, a link to the county's own list otherwise, nothing copied from link-only sources.
+3. Paste it into a new Buttondown email and, under Send > Audience, pick **Premium** so only paying subscribers get it.
+
+The script only prints text. It never calls Buttondown.
+
 ## Not connected yet
 
-No DNS, payments, analytics or ads are connected.
+No DNS, analytics or ads are connected. Paid Alerts are built but closed (`paid.open` is `false`).

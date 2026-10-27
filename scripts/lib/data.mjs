@@ -46,7 +46,7 @@ export function loadStates() {
       const unitPlural = data.local_unit || (data.state === "NJ" ? "jurisdictions" : "counties");
       const unitSingular = UNIT_SINGULAR[unitPlural] || unitPlural;
       const placesText = counties.length ? `${counties.length} ${counties.length === 1 ? unitSingular : unitPlural}` : "No listed sales";
-      return { ...data, slug, url: `/states/${slug}/`, counties, unitPlural, placesText, upcomingCount: counties.reduce((n, c) => n + c.upcoming.length, 0) };
+      return { ...data, slug, url: `/states/${slug}/`, counties, unitPlural, unitSingular, placesText, upcomingCount: counties.reduce((n, c) => n + c.upcoming.length, 0) };
     })
     .sort((a, b) => a.name.localeCompare(b.name));
 }

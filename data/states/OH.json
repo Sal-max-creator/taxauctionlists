@@ -549,6 +549,370 @@
           "note": "2026 sale canceled (no parcels); typically held in August. No 2027 date posted."
         }
       }
+    },
+    {
+      "county": "Lorain",
+      "slug": "lorain",
+      "office": "Lorain County Sheriff's Office (Sheriff's Sales)",
+      "phone": "440-329-3709",
+      "address": "9896 Murray Ridge Rd, Elyria, OH 44035 (Sheriff's Office); tax sales at the Lorain County Administration Building, 226 Middle Ave, 4th floor, Elyria, OH 44035",
+      "website": "https://loraincountysheriff.com/lorain-county-sheriffs-sales/",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://lorain.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "Sheriff sales are held on designated Wednesdays, beginning at 10:00 a.m. for Civil Cases and Tax cases.",
+      "sales": [],
+      "next_sale_note": "No specific tax sale dates are posted on the Sheriff's page; it says 'Sale dates will be posted on the Sheriff's website as they become available' and warns that many sales are cancelled the day before. The page links to a private foreclosure listing service for sale listings, which is not used as a source here.",
+      "how_to_bid": "Civil (mortgage) foreclosure sales have been online through RealAuction since November 30, 2022; register and post a deposit on account with RealAuction before bidding. Tax sales are still held in person as a verbal auction at the Lorain County Administration Building, 226 Middle Ave, 4th floor Commissioner's Public Hearing Room (Conference Room A), Elyria, starting at 10:00 a.m.; bring proper identification and the appropriate cashier's check. Deposit amount for tax sales: not stated. Call or check the Sheriff's website before a sale because many are cancelled the day before.",
+      "sources": [
+        {
+          "url": "https://loraincountysheriff.com/lorain-county-sheriffs-sales/",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer, terms of use or reuse restriction on the page; footer shows only '© 2026 | V1.4.26').",
+          "terms_url": null
+        },
+        {
+          "url": "https://loraincountysheriff.com/sheriff-sales-reports/",
+          "read_on": "2026-10-27",
+          "terms": "not found (same Sheriff site; no disclaimer or terms text).",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://loraincountysheriff.com/lorain-county-sheriffs-sales/",
+          "quote": "Sheriff sales are held on designated Wednesdays, beginning at 10:00 a.m. for Civil Cases and Tax cases."
+        },
+        {
+          "url": "https://loraincountysheriff.com/lorain-county-sheriffs-sales/",
+          "quote": "They are conducted by a verbal auction with the property sold to the highest bidder."
+        },
+        {
+          "url": "https://loraincountysheriff.com/lorain-county-sheriffs-sales/",
+          "quote": "You must have proper identification and the appropriate cashier's check before bidding."
+        },
+        {
+          "url": "https://loraincountysheriff.com/lorain-county-sheriffs-sales/",
+          "quote": "Sale dates will be posted on the Sheriff's website as they become available."
+        }
+      ]
+    },
+    {
+      "county": "Mahoning",
+      "slug": "mahoning",
+      "office": "Mahoning County Sheriff's Office, Court Services-Civil/Sheriff Sales",
+      "phone": "330-480-5010",
+      "address": "110 Fifth Avenue, Youngstown, OH 44503 (Sheriff's Office); tax foreclosure sales in the Commissioners' Hearing Room, basement of the Mahoning County Courthouse",
+      "website": "https://www.mahoningcountyoh.gov/992/Sheriff-Sales",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://mahoning.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-27",
+          "time": "1:30 P.M.",
+          "label": "Sheriff sale, tax foreclosure list (in person)",
+          "deposit": "$1,000 by the successful bidder at the sale, by cashier's check or money order (per the county's tax foreclosure sale list rules)",
+          "registration_deadline": "not stated",
+          "list_url": "https://www.mahoningcountyoh.gov/DocumentCenter/View/50698/10-27-2026-Sheriff-sale-results",
+          "list_note": "The county's own tax foreclosure sale list for this date (6 properties).",
+          "note": "Held in the Mahoning County Commissioners' Hearing Room. The county's file name says 'results' but the document is the sale list.",
+          "source_url": "https://www.mahoningcountyoh.gov/DocumentCenter/View/50698/10-27-2026-Sheriff-sale-results",
+          "quote": "TUESDAY, OCTOBER 27, 2026 AT 1:30 P.M."
+        },
+        {
+          "date": "2026-11-10",
+          "time": "not stated (recent lists show 1:30 P.M.)",
+          "label": "Next sheriff sale, tax foreclosures (in person)",
+          "deposit": "$1,000 by the successful bidder at the sale, by cashier's check or money order (per the county's tax foreclosure sale list rules)",
+          "registration_deadline": "not stated",
+          "note": "Announced on the October 27, 2026 tax foreclosure list, which says the next sale list will be available Tuesday, November 3, 2026.",
+          "source_url": "https://www.mahoningcountyoh.gov/DocumentCenter/View/50698/10-27-2026-Sheriff-sale-results",
+          "quote": "NEXT SHERIFF SALE: TUESDAY, NOVEMBER 10, 2026"
+        }
+      ],
+      "next_sale_note": "The Sheriff posts a tax foreclosure sale list about a week before each Tuesday sale; recent lists show sales every other Tuesday at 1:30 P.M., but no recurring rule is stated. Mortgage foreclosures are sold online through RealAuction.",
+      "how_to_bid": "Tax foreclosure sales are held in person in the Commissioners' meeting room in the basement of the Mahoning County Courthouse. The successful bidder pays a $1,000 deposit at the sale by cashier's check or money order and fills out a purchaser information form; if the deposit is not paid, bidding reopens. The balance is due by cashier's check to the Sheriff of Mahoning County within 30 days after the confirmation of sale is filed. Other sheriff sales are online on the county's RealAuction site, where bidders register.",
+      "sources": [
+        {
+          "url": "https://www.mahoningcountyoh.gov/992/Sheriff-Sales",
+          "read_on": "2026-10-27",
+          "terms": "County site copyright notice only ('All content © 2006-2026 Mahoning County, OH and its representatives. All rights reserved.'); no explicit ban on reuse, scraping or commercial use found.",
+          "terms_url": "https://www.mahoningcountyoh.gov/copyright"
+        },
+        {
+          "url": "https://www.mahoningcountyoh.gov/DocumentCenter/View/50698/10-27-2026-Sheriff-sale-results",
+          "read_on": "2026-10-27",
+          "terms": "Same county site copyright notice.",
+          "terms_url": "https://www.mahoningcountyoh.gov/copyright"
+        },
+        {
+          "url": "https://www.mahoningcountyoh.gov/Archive.aspx?ADID=535",
+          "read_on": "2026-10-27",
+          "terms": "Same county site copyright notice.",
+          "terms_url": "https://www.mahoningcountyoh.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mahoningcountyoh.gov/DocumentCenter/View/50698/10-27-2026-Sheriff-sale-results",
+          "quote": "SHERIFF SALE TAX FORECLOSURE LIST"
+        },
+        {
+          "url": "https://www.mahoningcountyoh.gov/DocumentCenter/View/50698/10-27-2026-Sheriff-sale-results",
+          "quote": "NEXT AVAILABLE SHERIFF SALE LIST: TUESDAY, NOVEMBER 3, 2026"
+        },
+        {
+          "url": "https://www.mahoningcountyoh.gov/Archive.aspx?ADID=535",
+          "quote": "If you are the successful bidder a deposit of $1000.00 is required at that time."
+        },
+        {
+          "url": "https://www.mahoningcountyoh.gov/Archive.aspx?ADID=535",
+          "quote": "All deposits must be in the form of a cashier's check or money order."
+        }
+      ]
+    },
+    {
+      "county": "Lake",
+      "slug": "lake",
+      "office": "Lake County Sheriff's Office (Sheriff's Sales)",
+      "phone": "(440) 350-5519",
+      "address": "105 Main Street, Painesville, OH 44077",
+      "website": "https://www.lakecountyohio.gov/sheriff/sheriffs-sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://lake.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "Sheriff Sales are held online at http://lake.sheriffsaleauction.ohio.gov every Monday at 10:00 a.m.",
+      "recurs": "weekly",
+      "sales": [],
+      "next_sale_note": "No specific sale dates or tax sale lists are posted on the county page; sales run weekly on Mondays (Tuesday when Monday is a holiday) and property lists are on the RealAuction site.",
+      "how_to_bid": "All sheriff sales have been online through RealAuction since April 2022. A deposit is paid to RealAuction at least 48 business hours before the sale: $2,000 for appraised value of $10,000 or less, $5,000 for over $10,000 and under $200,000, $10,000 over $200,000. A Purchaser Information Sheet must accompany each bid. Tax foreclosures filed by the County Treasurer have a minimum bid set by court order (other sales start at two-thirds of appraised value), and liens other than the taxes foreclosed may survive the sale. The balance is due by certified bank check within 30 days after the Sheriff contacts the buyer following confirmation. No entry to the property without a court order.",
+      "sources": [
+        {
+          "url": "https://www.lakecountyohio.gov/sheriff/sheriffs-sales",
+          "read_on": "2026-10-27",
+          "terms": "County Terms of Use reserve rights ('All rights reserved.'; 'Any rights not expressly granted herein are reserved.') and bar obtaining information 'through any means not intentionally made available' and overburdening the site. No explicit ban on copying, redistribution or commercial reuse of public information found.",
+          "terms_url": "https://www.lakecountyohio.gov/terms-of-use/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lakecountyohio.gov/sheriff/sheriffs-sales",
+          "quote": "If a holiday falls on a Monday, the sales will be conducted on Tuesday."
+        },
+        {
+          "url": "https://www.lakecountyohio.gov/sheriff/sheriffs-sales",
+          "quote": "Before the bidding starts, a deposit must be paid to Real Auction (at least 48 business hours before the sale)."
+        },
+        {
+          "url": "https://www.lakecountyohio.gov/sheriff/sheriffs-sales",
+          "quote": "will have a set minimum bid per court order."
+        }
+      ]
+    },
+    {
+      "county": "Trumbull",
+      "slug": "trumbull",
+      "office": "Trumbull County Sheriff's Office, Civil Office (Sheriff Sales)",
+      "phone": "330-675-2854 (Sheriff Sale questions); 330.675.2508 (Sheriff's Office)",
+      "address": "150 High Street NW, Warren, Ohio 44481 (Sheriff's Office); tax sales in the Commissioner's Hearing Room, 160 High St. NW, Warren, OH 44481",
+      "website": "https://www.co.trumbull.oh.us/Sheriff/Services/Sheriff-Sales",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://trumbull.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "Sheriff Sales for Tax Foreclosures will be held in person every other Thursday at 1:30 PM.",
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "not stated on that line (the schedule says 1:30 PM)",
+          "label": "Sheriff sale, tax foreclosures (in person)",
+          "deposit": "$3,000.00 at the time bidding concludes, in certified funds payable to the Trumbull County Sheriff's Office",
+          "registration_deadline": "not stated",
+          "note": "Announced on the October 22, 2026 tax foreclosure list, which says the next sale list is available October 29, 2026. Commissioner's Hearing Room, 160 High St. NW, Warren.",
+          "source_url": "https://www.co.trumbull.oh.us/Sheriff/October%2022,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
+          "quote": "NEXT SHERIFF SALE: THURSDAY, NOVEMBER 5, 2026"
+        }
+      ],
+      "next_sale_note": "The Sheriff posts each tax foreclosure list on the Sheriff Sales page about a week before the sale. Mortgage foreclosures are sold online through RealAuction.",
+      "how_to_bid": "Tax foreclosure sales are in person in the Commissioner's Hearing Room, 160 High St. NW, Warren. Bidding starts at the minimum bid and rises in $100 increments. The winning bidder pays a $3,000.00 deposit when bidding ends, in certified funds payable to the Trumbull County Sheriff's Office, and fills out a Purchaser Information Form. The balance is due 30 days from the Confirmation of Sale. Mortgage foreclosures are online only through RealAuction.",
+      "sources": [
+        {
+          "url": "https://www.co.trumbull.oh.us/Sheriff/Services/Sheriff-Sales",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer, terms or privacy link on the Sheriff Sales page).",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.co.trumbull.oh.us/Sheriff/October%2022,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (county PDF; no terms text).",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.trumbull.oh.us/Sheriff/Services/Sheriff-Sales",
+          "quote": "These changes do not affect tax sales. Tax sales will still be held in person."
+        },
+        {
+          "url": "https://www.co.trumbull.oh.us/Sheriff/Services/Sheriff-Sales",
+          "quote": "in the Commissioner's Hearing Room, 160 High St. NW, Warren, OH 44481."
+        },
+        {
+          "url": "https://www.co.trumbull.oh.us/Sheriff/Services/Sheriff-Sales",
+          "quote": "a deposit of $3,000.00 will be required at the time the bidding concludes."
+        },
+        {
+          "url": "https://www.co.trumbull.oh.us/Sheriff/Services/Sheriff-Sales",
+          "quote": "The balance on the purchase price is due 30 days from the Confirmation of Sale."
+        },
+        {
+          "url": "https://www.co.trumbull.oh.us/Sheriff/October%2022,%202026%20Sheriff%20Tax%20Foreclosure%20List.pdf",
+          "quote": "NEXT AVAILABLE SHERIFF SALE LIST: OCTOBER 29, 2026"
+        }
+      ]
+    },
+    {
+      "county": "Warren",
+      "slug": "warren",
+      "office": "Warren County Sheriff's Office (Sheriff Sales)",
+      "phone": "513-695-2731",
+      "address": "822 Memorial Drive, Lebanon, Ohio 45036",
+      "website": "https://sheriff.warrencountyohio.gov/SheriffSales/Search/Index",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://warren.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "Unless otherwise advertised, we will continue auctions every other Monday at 8:30 a.m. Eastern Time (EST).",
+      "sales": [],
+      "next_sale_note": "No specific sale dates are posted on the Sheriff's pages, and the pages read do not mention tax foreclosures separately; they say all sheriff's sales are on the RealAuction site.",
+      "how_to_bid": "All sheriff's sales are online on the Warren County RealAuction site; bidders register with RealAuction and complete the Purchaser Information Form. Deposits of $2,000, $5,000 or $10,000 (as set by law) are paid by bank wire (due by 5 p.m. EST two business days before the sale) or ACH (initiated by 4 p.m. EST five business days before); no cash. Bidding starts at two-thirds of the appraised value unless otherwise stated. The balance is due within 30 days from the date the Confirmation of Sale is filed. Appraisals did not include an interior inspection and the Sheriff does not guarantee a free and clear deed.",
+      "sources": [
+        {
+          "url": "https://sheriff.warrencountyohio.gov/SheriffSales/Search/Index",
+          "read_on": "2026-10-27",
+          "terms": "not found (no footer, copyright or terms text on the page; only a sale-terms 'General Information' list).",
+          "terms_url": null
+        },
+        {
+          "url": "https://sheriff.warrencountyohio.gov/SheriffSales/RealAuctionInfo/Index",
+          "read_on": "2026-10-27",
+          "terms": "not found (no terms or disclaimer links).",
+          "terms_url": null
+        },
+        {
+          "url": "https://wcsooh.org/SheriffSales/Default.aspx",
+          "read_on": "2026-10-27",
+          "terms": "not found (sale disclaimers only, e.g. 'The Sheriff's Office does not guarantee a free and clear deed.').",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sheriff.warrencountyohio.gov/SheriffSales/Search/Index",
+          "quote": "ALL Sheriff’s Sales are now held on the Warren County RealAuction website."
+        },
+        {
+          "url": "https://sheriff.warrencountyohio.gov/SheriffSales/Search/Index",
+          "quote": "Bidding will start at 2/3rds the appraisal value of each property, unless otherwise stated."
+        },
+        {
+          "url": "https://sheriff.warrencountyohio.gov/SheriffSales/RealAuctionInfo/Index",
+          "quote": "The only acceptable deposit types are bank wire transfer or ACH - no cash deposits will be accepted."
+        },
+        {
+          "url": "https://wcsooh.org/SheriffSales/Default.aspx",
+          "quote": "Balance MUST be paid in full no later than 30 days from the date Confirmation of Sale is filed."
+        }
+      ]
+    },
+    {
+      "county": "Clermont",
+      "slug": "clermont",
+      "office": "Clermont County Sheriff's Office (Sheriff's Sales)",
+      "phone": "(513) 732-7087 (sheriff sales); 513.732.7500 (main)",
+      "address": "4470 State Route 222, Batavia, OH 45103",
+      "website": "https://clermontsheriff.org/sheriffs-sales",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://clermont.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "10:00 AM (\"All Sales begin promptly at 10am EST.\")",
+          "label": "Sheriff tax sale (in person)",
+          "deposit": "10% down payment at the time of purchase; the Sheriff accepts cash or personal check for the deposit",
+          "registration_deadline": "not stated",
+          "list_url": "https://clermontsheriff.org/media/2026/11/SheriffSales/11-17-2026%20%E2%80%93%20Tax%20Sales%20%E2%80%93%20Held%20In%20Person-.pdf",
+          "list_note": "The Sheriff's own list for this date (2 tax cases); a sale may be cancelled at any time before it is held.",
+          "note": "Held at the Sheriff's Office, 4470 State Route 222, Batavia (outside under the awning behind the office, weather permitting, or in the Sheriff's Training Room).",
+          "source_url": "https://clermontsheriff.org/sheriffs-sales",
+          "quote": "11-17-26 – Tax Sales – Held In Person-4470 State Route 222, Batavia, 45103"
+        }
+      ],
+      "next_sale_note": "The Sheriff posts each sale list as a dated PDF on the Sheriff's Sales page; mortgage foreclosure sales are held online through RealAuction. Sales are also advertised in the Clermont Sun.",
+      "how_to_bid": "Tax sales are held in person at the Sheriff's Office, 4470 State Route 222, Batavia, starting at 10am; a bid counts only once the auctioneer acknowledges and announces it, with $100 minimum increments. Third-party buyers pay a 10% down payment at the time of purchase (cash or personal check) and the balance within thirty calendar days of the payment letter by certified check, cashier's check or money order. The Sheriff cannot transfer title until the purchaser files the required delinquent-tax affidavit. Properties cannot be viewed. Foreclosure (non-tax) sales are online on the county's RealAuction site.",
+      "sources": [
+        {
+          "url": "https://clermontsheriff.org/sheriffs-sales",
+          "read_on": "2026-10-27",
+          "terms": "Sheriff's Security and Privacy Policy says public information 'may be distributed or copied unless otherwise specified'; the sales page adds an accuracy disclaimer ('The Clermont County Sheriff's Office assumes no liability for erroneous information.'). No reuse restriction found.",
+          "terms_url": "https://clermontsheriff.org/security-and-privacy-policy"
+        },
+        {
+          "url": "https://clermontsheriff.org/media/SheriffSalesInfo/delinquent-tax-sale-frequently-asked-questions.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same Sheriff Security and Privacy Policy.",
+          "terms_url": "https://clermontsheriff.org/security-and-privacy-policy"
+        },
+        {
+          "url": "https://clermontsheriff.org/media/SheriffSalesInfo/terms-of-sale.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same Sheriff Security and Privacy Policy.",
+          "terms_url": "https://clermontsheriff.org/security-and-privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://clermontsheriff.org/sheriffs-sales",
+          "quote": "Tax sales will continue to be held at the Sheriff’s office located at 4470 State Route 222, Batavia, OH 45103."
+        },
+        {
+          "url": "https://clermontsheriff.org/sheriffs-sales",
+          "quote": "All Sales begin promptly at 10am EST."
+        },
+        {
+          "url": "https://clermontsheriff.org/media/SheriffSalesInfo/delinquent-tax-sale-frequently-asked-questions.pdf",
+          "quote": "Delinquent property taxes sold to third parties require a 10% down payment at the time of purchase."
+        },
+        {
+          "url": "https://clermontsheriff.org/media/SheriffSalesInfo/delinquent-tax-sale-frequently-asked-questions.pdf",
+          "quote": "The Clermont County Sheriff's Office accepts cash or personal check for the deposit."
+        },
+        {
+          "url": "https://clermontsheriff.org/media/SheriffSalesInfo/terms-of-sale.pdf",
+          "quote": "The balance of funds must be paid within thirty calendar days of the payment letter."
+        }
+      ]
     }
   ]
 }

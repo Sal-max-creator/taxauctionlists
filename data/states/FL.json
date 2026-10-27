@@ -1351,6 +1351,470 @@
           "quote": "It is not possible to register to bid by mail."
         }
       ]
+    },
+    {
+      "county": "St. Johns",
+      "slug": "st-johns",
+      "office": "St. Johns County Clerk of the Circuit Court and County Comptroller (tax deeds); St. Johns County Tax Collector (tax certificates)",
+      "phone": "(904) 819-3600",
+      "address": "Richard O. Watson Judicial Center, 4010 Lewis Speedway, St. Augustine, FL 32084",
+      "website": "https://stjohnsclerk.com/foreclosure/tax-deeds-2/",
+      "sale_type": "hybrid",
+      "format": "both",
+      "platform": {
+        "name": "ZeusAuction (SRI) for tax certificates; tax deed sales are in person",
+        "url": "https://www.zeusauction.com"
+      },
+      "schedule_rule": "Tax Deed Sales are generally held several times per month on Wednesdays at 12:00 PM EST.",
+      "sales": [],
+      "next_sale_note": "The Clerk's pages give no specific tax deed sale dates (they point to the Clerk's Tax Deed Search, which could not be read). The Tax Collector's 2027 tax certificate sale date is not yet posted; the 2026 sale began May 29, 2026.",
+      "how_to_bid": "Tax deeds: sales are in person at the Richard O. Watson Judicial Center; no registration is required, arrive 15 minutes before the 12:00 PM start, and you or a representative must be present. The winning bidder pays a non-refundable deposit of $200 or 5% of the winning bid, whichever is greater, at the time of sale in cash or certified funds (no personal checks or cards), and the balance within 24 hours; failure to pay forfeits the deposit. Questions: (904) 819-3600 or taxdeeds@stjohnsclerk.com. Tax certificates: the Tax Collector's sale is held online; the bidder willing to accept the lowest rate of interest is awarded the certificate, and payment is by ACH within 48 hours of the end of the sale.",
+      "sources": [
+        {
+          "url": "https://stjohnsclerk.com/foreclosure/tax-deeds-2/",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy says 'All information shared or posted on the Clerk's Website is a PUBLIC RECORD'; footer 'All rights reserved.' No clause on copying or reuse found.",
+          "terms_url": "https://stjohnsclerk.com/privacy-policy/"
+        },
+        {
+          "url": "https://stjohnsclerk.com/foreclosure/tax-deeds-2/frequently-asked-questions/",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy says 'All information shared or posted on the Clerk's Website is a PUBLIC RECORD'; footer 'All rights reserved.' No clause on copying or reuse found.",
+          "terms_url": "https://stjohnsclerk.com/privacy-policy/"
+        },
+        {
+          "url": "https://sjctax.us/tax-certificate-sales/",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer: 'This web site is not a legal authority and should not be used in a court of law.' No clause on copying or reuse found (policies PDF could not be read).",
+          "terms_url": "https://sjctax.us/disclaimer/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://stjohnsclerk.com/foreclosure/tax-deeds-2/frequently-asked-questions/",
+          "quote": "Tax Deed Sales are generally held several times per month on Wednesdays at 12:00 PM EST."
+        },
+        {
+          "url": "https://stjohnsclerk.com/foreclosure/tax-deeds-2/frequently-asked-questions/",
+          "quote": "A deposit of $200 or 5% of the winning bid, whichever is greater, is required after the sale."
+        },
+        {
+          "url": "https://sjctax.us/tax-certificate-sales/",
+          "quote": "The bidder who is willing to accept the lowest rate of interest is awarded the certificate."
+        }
+      ]
+    },
+    {
+      "county": "Charlotte",
+      "slug": "charlotte",
+      "office": "Charlotte County Clerk of the Circuit Court (tax deeds); Charlotte County Tax Collector (tax certificates)",
+      "phone": "Tax Collector (941) 743-1350; Clerk phone not stated on the tax deed pages",
+      "address": "Clerk: Justice Center, 350 E. Marion Avenue, Punta Gorda, FL 33950. Tax Collector: 18500 Murdock Circle, Port Charlotte, FL 33948",
+      "website": "https://taxdeeds.charlotteclerk.com/TaxDeed/Information",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealForeclose) for tax deeds; LienHub for tax certificates",
+        "url": "https://www.charlotte.realforeclose.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax deed sale dates are posted on the Clerk's pages (auctions are listed on the online sale site, link-only). The Tax Collector's 2027 tax certificate sale date is not yet posted (held on or before June 1st).",
+      "how_to_bid": "Tax deeds: auctions are online only, beginning at 9:00 AM; register on the online sale site before the sale. You must have $200.00 or 5% of the winning bid, whichever is greater, on deposit for each tax deed where you are the highest bidder (fund by cashier's check or money order at the Clerk's office, ACH or wire). Final payment of the bid plus recording fees and documentary stamps is due with the Clerk by 9:00 a.m. the following business day. Unsold lands: email taxdeeds@charlotteclerk.com with the tax deed case number. Tax certificates: bidders register online beginning in May; bidding begins at 18% and the certificate goes to the lowest annual interest rate bid.",
+      "sources": [
+        {
+          "url": "https://taxdeeds.charlotteclerk.com/TaxDeed/Information",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer: 'no claims, promises or guarantees about the accuracy, completeness, or adequacy of the information are made.' No copyright notice and no clause restricting copying or reuse.",
+          "terms_url": "https://charlotteclerk.com/clerk/disclaimer/"
+        },
+        {
+          "url": "https://taxdeeds.charlotteclerk.com/TaxDeed/FAQ",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer: 'no claims, promises or guarantees about the accuracy, completeness, or adequacy of the information are made.' No copyright notice and no clause restricting copying or reuse.",
+          "terms_url": "https://charlotteclerk.com/clerk/disclaimer/"
+        },
+        {
+          "url": "https://taxcollector.charlottecountyfl.gov/delinquent-tax",
+          "read_on": "2026-10-27",
+          "terms": "General Disclosure: 'Accuracy of the information provided on this web site is not guaranteed for legal purposes.' No clause on copying or reuse found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://taxdeeds.charlotteclerk.com/TaxDeed/Information",
+          "quote": "conducts all tax deed auctions online beginning at 9:00 AM"
+        },
+        {
+          "url": "https://taxcollector.charlottecountyfl.gov/delinquent-tax",
+          "quote": "Bidding begins at 18% and the certificate is sold to the person bidding the LOWEST annual interest rate."
+        }
+      ]
+    },
+    {
+      "county": "Citrus",
+      "slug": "citrus",
+      "office": "Citrus County Clerk of the Circuit Court & Comptroller (tax deeds); Citrus County Tax Collector (tax certificates)",
+      "phone": "352-341-6478 (tax deed auction questions); Tax Collector (352) 341-6500",
+      "address": "110 N Apopka Ave, Inverness, FL 34450",
+      "website": "https://www.citrusclerk.org/207/Tax-Deeds",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds; LienHub for tax certificates",
+        "url": "https://www.citrus.realtaxdeed.com/index.cfm"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-04",
+          "time": "10:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "$200 or 5% of your maximum bid, whichever is greater, per property; funds must settle by 4:00 pm the day before the sale (wire fee $5.00 per transaction).",
+          "note": "Date listed in the sale-date selector of the Clerk's Tax Deed File Search; properties may be redeemed before the sale.",
+          "source_url": "https://search.citrusclerk.org/TaxSmartWeb",
+          "quote": "Wednesday, November 4, 2026 10:00 AM"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "10:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "$200 or 5% of your maximum bid, whichever is greater, per property; funds must settle by 4:00 pm the day before the sale (wire fee $5.00 per transaction).",
+          "note": "Date listed in the sale-date selector of the Clerk's Tax Deed File Search; properties may be redeemed before the sale.",
+          "source_url": "https://search.citrusclerk.org/TaxSmartWeb",
+          "quote": "Wednesday, December 16, 2026 10:00 AM"
+        },
+        {
+          "date": "2027-01-13",
+          "time": "10:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "$200 or 5% of your maximum bid, whichever is greater, per property; funds must settle by 4:00 pm the day before the sale (wire fee $5.00 per transaction).",
+          "note": "Date listed in the sale-date selector of the Clerk's Tax Deed File Search; properties may be redeemed before the sale.",
+          "source_url": "https://search.citrusclerk.org/TaxSmartWeb",
+          "quote": "Wednesday, January 13, 2027 10:00 AM"
+        }
+      ],
+      "next_sale_note": "Tax deed sale dates come from the Clerk's Tax Deed File Search. The Tax Collector's 2027 tax certificate sale date is not posted.",
+      "how_to_bid": "Tax deeds: electronic auction on the online sale site; register there. Deposit $200 or 5% of your maximum bid, whichever is greater, per property, settled by 4:00 pm the day before the sale. Full payment is due within 24 hours of the advertised auction time or the deposit is forfeited and you may be barred from future auctions. List of Lands questions: TaxDeeds@CitrusClerk.org. Tax certificates: the Tax Collector's certificate sale is conducted online; homestead property with less than $250.00 due is not eligible for purchase.",
+      "sources": [
+        {
+          "url": "https://www.citrusclerk.org/207/Tax-Deeds",
+          "read_on": "2026-10-27",
+          "terms": "Clerk site (CivicPlus) has no terms or copyright page. Tax Deed File Search disclaimer: Clerk 'makes no warranty or guarantee concerning the accuracy or reliability of the content at this site'; footer '(c) 2026 Pioneer Technology Group All Rights Reserved.' No clause restricting reuse.",
+          "terms_url": null
+        },
+        {
+          "url": "https://search.citrusclerk.org/TaxSmartWeb",
+          "read_on": "2026-10-27",
+          "terms": "Clerk site (CivicPlus) has no terms or copyright page. Tax Deed File Search disclaimer: Clerk 'makes no warranty or guarantee concerning the accuracy or reliability of the content at this site'; footer '(c) 2026 Pioneer Technology Group All Rights Reserved.' No clause restricting reuse.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.citrustc.us/services/tax-certificate-information/",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use: content 'is property of the Citrus County Tax Collector'; footer 'All rights reserved.' No clause on copying, redistribution or commercial use.",
+          "terms_url": "https://www.citrustc.us/website-terms-of-use-and-privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://search.citrusclerk.org/TaxSmartWeb",
+          "quote": "Wednesday, November 4, 2026 10:00 AM"
+        }
+      ]
+    },
+    {
+      "county": "Santa Rosa",
+      "slug": "santa-rosa",
+      "office": "Santa Rosa County Clerk of Court & Comptroller (tax deeds); Santa Rosa County Tax Collector (tax certificates)",
+      "phone": "(850) 981-5554 (Clerk)",
+      "address": "Santa Rosa County Court House, 4025 Avalon Blvd., Milton, FL 32583 (Clerk correspondence: 6495 Caroline St. Suite A, Milton, FL 32570)",
+      "website": "https://santarosaclerk.com/courts/foreclosures-tax-deeds/",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds; LienHub for tax certificates",
+        "url": "http://www.santarosa.realtaxdeed.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Clerk's page only links to the online tax deed auction site (link-only) and gives no sale dates. The Tax Collector's 2027 tax certificate sale date is not yet posted (held on or before June 1st).",
+      "how_to_bid": "Tax deeds: the Clerk's page links to an online tax deed auction site but does not state deposit, payment or registration terms. Tax certificates: the sale is held online each year; participants bid downward on interest rates starting at 18 percent and the lowest bid wins. Bidder registration and deposit requirements are not stated on the Tax Collector's page (it refers to the sale site's FAQ).",
+      "sources": [
+        {
+          "url": "https://santarosaclerk.com/courts/foreclosures-tax-deeds/",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy: 'We make no warranty or guarantee regarding the accuracy or reliability of the content on this site.' Footer 'All Rights Reserved.' No clause on copying or reuse found.",
+          "terms_url": "https://santarosaclerk.com/privacy-policy/"
+        },
+        {
+          "url": "https://srctc.com/real-estate/delinquent-tax-information/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found for the site (only a business-tax disclaimer and a linked-sites notice). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://srctc.com/real-estate/delinquent-tax-information/",
+          "quote": "Beginning on or before June 1st, the Tax Collector is required by law to hold a Tax Certificate Sale."
+        },
+        {
+          "url": "https://srctc.com/real-estate/delinquent-tax-information/",
+          "quote": "participants bid downward on interest rates starting at 18 percent"
+        }
+      ]
+    },
+    {
+      "county": "Martin",
+      "slug": "martin",
+      "office": "Martin County Clerk of the Circuit Court and Comptroller - Official Records Division (tax deeds); Martin County Tax Collector (tax certificates)",
+      "phone": "772-288-5554 (Tax Deed Sales); Tax Collector (772) 288-5600",
+      "address": "Constitutional Office Building, 1st Floor, 100 SE Ocean Boulevard, Stuart, FL 34994",
+      "website": "https://www.martinclerk.com/258/Tax-Deeds",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds",
+        "url": "https://martin.realtaxdeed.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-16",
+          "time": "10:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "Nonrefundable 5% of the sale total or $200, whichever is greater, at the time of sale.",
+          "note": "Date listed in the sale-date selector of the Clerk's Tax Deed Files search; the page also says there are currently no properties on the list of lands available for taxes.",
+          "source_url": "http://or.martinclerk.com/taxsmartweb",
+          "quote": "Wednesday, December 16, 2026 10:00 AM"
+        }
+      ],
+      "next_sale_note": "Tax deed sales are advertised in the Stuart News once a week for four weeks before the sale. The Tax Collector's 2027 tax certificate sale date is not yet posted (begins on or before June 1st).",
+      "how_to_bid": "Tax deeds: sales are held online through the Clerk's official online tax deed sale portal starting at 10 am (or another advertised time); public terminals are available in the Official Records Division. The high bidder pays a nonrefundable deposit of 5% or $200, whichever is greater, at the time of sale, and the balance plus documentary stamps and recording fees within 24 hours in certified funds (no personal checks or credit cards). Tax certificates: internet sale; register on the tax sale website for a bidder number, a deposit is required, proxy bidding lowers bids in quarter-percent steps, and winners pay by ACH within 48 hours after the sale closes.",
+      "sources": [
+        {
+          "url": "https://www.martinclerk.com/258/Tax-Deeds",
+          "read_on": "2026-10-27",
+          "terms": "Clerk site policy: information presented 'is considered public information and may be distributed or copied.' Tax Deed Files disclaimer: Clerk 'makes no warranty or guarantee concerning the accuracy or reliablility of the content on this site'.",
+          "terms_url": "https://www.martinclerk.com/187/Privacy-Policy"
+        },
+        {
+          "url": "http://or.martinclerk.com/taxsmartweb",
+          "read_on": "2026-10-27",
+          "terms": "Clerk site policy: information presented 'is considered public information and may be distributed or copied.' Tax Deed Files disclaimer: Clerk 'makes no warranty or guarantee concerning the accuracy or reliablility of the content on this site'.",
+          "terms_url": "https://www.martinclerk.com/187/Privacy-Policy"
+        },
+        {
+          "url": "https://martintaxcollector.com/property-tax/faq-tax-certificate-sale/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found; footer '(c) Martin County Tax Collector.' No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://martintaxcollector.com/property-tax/important-tax-dates/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found; footer '(c) Martin County Tax Collector.' No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://martintaxcollector.com/property-tax/important-tax-dates/",
+          "quote": "Tax certificate sale for delinquent real estate taxes begins on or before June 1st"
+        }
+      ]
+    },
+    {
+      "county": "Indian River",
+      "slug": "indian-river",
+      "office": "Indian River Clerk of the Circuit Court & Comptroller (tax deeds); Indian River County Tax Collector (tax certificates)",
+      "phone": "(772) 226-3166 (tax deed questions); main (772) 226-3100",
+      "address": "Indian River County Courthouse, 2000 16th Avenue, Vero Beach, Florida 32960",
+      "website": "https://indianriverclerk.com/recording-services/tax-deeds/",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds; LienHub for tax certificates",
+        "url": "https://www.indian-river.realtaxdeed.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-27",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "$200 or 5% of the bid, whichever is higher, for each item you expect to win.",
+          "note": "Date listed in the sale-date selector of the Clerk's tax deed search site; most advertised properties are redeemed before auction.",
+          "source_url": "https://taxdeeds.indian-river.org/",
+          "quote": "Tuesday, October 27, 2026 11:00 AM"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "$200 or 5% of the bid, whichever is higher, for each item you expect to win.",
+          "note": "Date listed in the sale-date selector of the Clerk's tax deed search site; most advertised properties are redeemed before auction.",
+          "source_url": "https://taxdeeds.indian-river.org/",
+          "quote": "Tuesday, November 17, 2026 11:00 AM"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "$200 or 5% of the bid, whichever is higher, for each item you expect to win.",
+          "note": "Date listed in the sale-date selector of the Clerk's tax deed search site; most advertised properties are redeemed before auction.",
+          "source_url": "https://taxdeeds.indian-river.org/",
+          "quote": "Tuesday, December 8, 2026 11:00 AM"
+        }
+      ],
+      "next_sale_note": "Tax deed sales are advertised once a week for four consecutive weeks before each auction. The Tax Collector's 2027 tax certificate sale date is not posted (sold on or before June 1st each year).",
+      "how_to_bid": "Tax deeds: the sale is conducted online; register on the sale site for a username and password and place a deposit of $200 or 5% of the bid, whichever is higher, for each item you expect to win. The Clerk's FAQ gives the payment deadline both as within 24 hours of the sale and as 10:00 a.m. the business day after the sale (bid plus recording fees), in cash or certified funds. Tax certificates: a certificate must be sold against the unpaid tax on or before June 1st each year at the Tax Collector's online certificate sale.",
+      "sources": [
+        {
+          "url": "https://indianriverclerk.com/recording-services/tax-deed-faqs/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found; footer 'All Rights Reserved.' Tax deed search site disclaimer: Clerk 'makes no warranty or guarantee concerning the accuracy or reliability of the content at this site'. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://indianriverclerk.com/recording-services/tax-deeds/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found; footer 'All Rights Reserved.' Tax deed search site disclaimer: Clerk 'makes no warranty or guarantee concerning the accuracy or reliability of the content at this site'. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://taxdeeds.indian-river.org/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found; footer 'All Rights Reserved.' Tax deed search site disclaimer: Clerk 'makes no warranty or guarantee concerning the accuracy or reliability of the content at this site'. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://services.irctax.com/hc/en-us/articles/41503735324435-Delinquent-Real-Estate-Tax",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use restrict unlawful use only ('users agree that they will not use the Site for any unlawful activity'); footer 'All Rights Reserved'. No clause on copying or reuse.",
+          "terms_url": "https://www.irctax.com/about/legal"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://indianriverclerk.com/recording-services/tax-deed-faqs/",
+          "quote": "The tax deed sale will be conducted online"
+        },
+        {
+          "url": "https://taxdeeds.indian-river.org/",
+          "quote": "Hours of operation are 8:00 AM - 4:00 PM Mon. - Thur."
+        }
+      ]
+    },
+    {
+      "county": "Hernando",
+      "slug": "hernando",
+      "office": "Hernando County Clerk of Circuit Court & Comptroller - Recording Division (tax deeds); Hernando County Tax Collector (tax certificates)",
+      "phone": "Recording Division (352) 540-6768; Main Office (352) 754-4201",
+      "address": "Clerk: 20 N. Main Street, Brooksville, FL 34601. Tax Collector: 20 N. Main St., Rm 112, Brooksville, FL 34601",
+      "website": "https://hernandoclerk.com/tax-deeds/",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed) for tax deeds; LienHub for tax certificates",
+        "url": "https://www.hernando.realtaxdeed.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-04",
+          "time": "10:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "Non-refundable cash deposit of 5% of the bid or $200.00, whichever is greater.",
+          "note": "Date listed in the sale-date selector of the Clerk's tax deed search; properties may be redeemed before the sale.",
+          "source_url": "https://or.hernandoclerk.com/TaxSmart/",
+          "quote": "Wednesday, November 4, 2026 10:00 AM"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "10:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "Non-refundable cash deposit of 5% of the bid or $200.00, whichever is greater.",
+          "note": "Date listed in the sale-date selector of the Clerk's tax deed search; properties may be redeemed before the sale.",
+          "source_url": "https://or.hernandoclerk.com/TaxSmart/",
+          "quote": "Wednesday, December 9, 2026 10:00 AM"
+        }
+      ],
+      "next_sale_note": "Tax deed sale dates come from the Clerk's tax deed search. The Tax Collector's 2027 tax certificate sale date is not posted (delinquent properties are advertised for three weeks in May, then the sale is held on the internet).",
+      "how_to_bid": "Tax deeds: sales are held online only and begin promptly at 10:00 a.m. The winning bidder pays a non-refundable cash deposit of 5% of the bid or $200.00, whichever is greater; the remaining balance must be received within 24 hours of the sale by cashier's check, money order or cash at the Clerk's Office (no personal checks). Properties are sold 'Buyer Beware'. Registration steps are not stated on the Clerk's page. Tax certificates: the sale is conducted on the internet after three weeks of advertising in May; create a user account on the sale site to take part. Tax Collector email: tc@hernandocounty.us.",
+      "sources": [
+        {
+          "url": "https://hernandoclerk.com/tax-deeds/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or copyright page found; Privacy Statement only bars unauthorized attempts to upload or alter information. Tax deed search disclaimer: no warranty of accuracy. No reuse restriction found.",
+          "terms_url": "https://hernandoclerk.com/privacy-statement/"
+        },
+        {
+          "url": "https://or.hernandoclerk.com/TaxSmart/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or copyright page found; Privacy Statement only bars unauthorized attempts to upload or alter information. Tax deed search disclaimer: no warranty of accuracy. No reuse restriction found.",
+          "terms_url": "https://hernandoclerk.com/privacy-statement/"
+        },
+        {
+          "url": "https://www.hernandocounty.us/departments/other-government-agencies/tax-collector/property-taxes/county-held-tax-certificates",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found on the county site page read. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hernandocounty.us/departments/other-government-agencies/tax-collector/property-taxes/county-held-tax-certificates",
+          "quote": "after which a Tax Certificate Sale will be conducted on the internet."
+        }
+      ]
+    },
+    {
+      "county": "Sumter",
+      "slug": "sumter",
+      "office": "Sumter County Clerk of Court & Comptroller - Official Records Division (tax deeds); Sumter County Tax Collector (tax certificates)",
+      "phone": "(352) 569-6600 (Tax Deed Clerk); Tax Collector (352) 569-6740",
+      "address": "Clerk Main Office: 215 E McCollum Ave, Bushnell, FL 33513. Tax Collector: 220 E McCollum Ave, Bushnell, FL",
+      "website": "https://www.sumterclerk.com/public-records/tax-deeds/",
+      "sale_type": "hybrid",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Deed Sales are generally held several times per year on Thursdays at 11:00 AM.",
+      "sales": [],
+      "next_sale_note": "No specific tax deed sale dates could be read on the Clerk's pages (the Tax Deed Sales list did not load); the Clerk says to check with the office for dates and times. The Tax Collector's 2027 tax certificate sale date is not posted (held on or before June 1st).",
+      "how_to_bid": "Tax deeds: in-person public auction at the Sumter County Courthouse, 215 E McCollum Ave, Bushnell (the Clerk's pages name both the front steps of the historic courthouse and Courtroom F, Historic Wing, Third Floor). Sign in at the Clerk's office on the day of the sale. The high bidder posts $200 or 5% of the winning bid, whichever is greater, at the time of sale, and full payment is due within 24 hours, in cash, cashier's check or money order; failure to pay forfeits the deposit. Tax certificates: the Tax Collector holds a competitive-bid sale on or before June 1st with interest bids beginning at 18% and going down; platform and deposit not stated on the Tax Collector's page.",
+      "sources": [
+        {
+          "url": "https://www.sumterclerk.com/public-records/tax-deeds/",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy: 'We make no warranty or guarantee regarding the accuracy or reliability of the content on this site.' Prohibits use in violation of law only. No clause restricting copying or reuse.",
+          "terms_url": "https://www.sumterclerk.com/privacy-policy/"
+        },
+        {
+          "url": "https://sumterclerk.com/tax-deed-faq",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy: 'We make no warranty or guarantee regarding the accuracy or reliability of the content on this site.' Prohibits use in violation of law only. No clause restricting copying or reuse.",
+          "terms_url": "https://www.sumterclerk.com/privacy-policy/"
+        },
+        {
+          "url": "https://www.sumtertaxcollector.com/real.html",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or copyright text found on the Tax Collector page. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sumterclerk.com/tax-deed-faq",
+          "quote": "Tax Deed Sales are generally held several times per year on Thursdays at 11:00 AM."
+        },
+        {
+          "url": "https://www.sumtertaxcollector.com/real.html",
+          "quote": "On or before June 1st, the Tax Collector must conduct a tax certificate sale on each unpaid parcel of property."
+        }
+      ]
     }
   ]
 }

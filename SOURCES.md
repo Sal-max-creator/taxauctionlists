@@ -573,6 +573,10 @@ State overview: <https://www.michigan.gov/taxes/property/property-tax-forfeiture
 | Monroe | <https://www.co.monroe.mi.us/465/Foreclosed-Property-for-Sale> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Monroe County, MI and its representatives. All rights reserved.' No explicit reuse or redistribution terms. Restate facts, don't copy documents. ([terms](https://www.co.monroe.mi.us/copyright)) |
 | Muskegon | <https://co.muskegon.mi.us/886/Treasurer> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Muskegon County, MI and its representatives. All rights reserved.' No explicit reuse or redistribution terms. Restate facts only. ([terms](https://co.muskegon.mi.us/copyright)) |
 | Oakland | <https://www.oaklandcountymi.gov/government/oakland-county-treasurer-s-office/land-sale> | 2026-10-27 | Oakland County Web Site Terms: 'Users may freely print any information that they obtain from the County Web site.' 'Use of documents from this server is for informational or personal use only.' No modifications; logos and site design may not be copied. Accuracy not guaranteed. Restate facts, don't copy documents. ([terms](https://www.oaklandcountymi.gov/government/terms-of-use)) |
+| St. Clair | <https://stclaircounty.org/Offices/268> | 2026-10-27 | No terms page found: the page footer has only Home, Treasurer and Email links, with no terms, disclaimer, copyright or privacy link. Restate facts only. |
+| St. Clair | <https://legacy.stclaircounty.org/Offices/treasurer/AuctionProperties.aspx> | 2026-10-27 | County's older site; used only for the Treasurer's address. No terms or disclaimer links found. |
+| Washtenaw | <https://washtenaw.org/auction> | 2026-10-27 | No terms page found: the footer shows only a 'Government Websites by CivicPlus' credit, with no terms, disclaimer, copyright or privacy link. Restate facts only. |
+| Washtenaw | <https://content.civicplus.com/api/assets/2d1d8ed8-8d58-44ad-8bcb-a1b2573f43ea?scope=all> | 2026-10-27 | Washtenaw County Treasurer's 2026 Terms and Conditions of Sale (county document hosted by its website vendor). No reuse terms stated. |
 
 ## Minnesota
 
@@ -1174,6 +1178,8 @@ State overview: <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <htt
 | Winnebago | <https://www.winnebagocountywi.gov/sites/default/files/uploaded-files/NEWSPAPER%20NOTICE_1.pdf> | 2026-10-27 | County 'Disclaimer' page covers GIS (WINGS) data: other uses are the user's responsibility and the county disclaims liability; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://www.winnebagocountywi.gov/408/Disclaimer)) |
 | Marathon | <https://www.marathoncounty.gov/services/tax-deed-property> | 2026-10-27 | No terms page found. |
 | Eau Claire | <https://eauclairecounty.gov/our-government/departments-and-facilities/department-directory/tax-delinquent-property> | 2026-10-27 | No terms page found. |
+| Dane | <https://treasurer.danecounty.gov/taxdeedauction> | 2026-10-27 | No terms page found: the Treasurer site's footer has only 'Copyright © 2026 County of Dane. All rights reserved.' and Google reCAPTCHA privacy/terms links. Restate facts only. |
+| Dane | <https://treasurer.danecounty.gov/documents/pdf/AuctionFAQ.pdf> | 2026-10-27 | Same Treasurer site; see copyright notice above. |
 
 ## Wyoming
 

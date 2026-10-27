@@ -53,7 +53,8 @@
           "deposit": "Required by the deadline; amount not stated by the county",
           "registration_deadline": "Oct 27, 2026, 2:00 PM MST (deposit, ACH details and acknowledgement in RealAuction)",
           "source_url": "https://treasurer.elpasoco.com/tax-lien-sale/",
-          "quote": "October 28, 2026: Annual Tax Lien Sale. Bidding closes according to the schedule established in RealAuction."
+          "quote": "October 28, 2026: Annual Tax Lien Sale. Bidding closes according to the schedule established in RealAuction.",
+          "register_by": "2026-10-27"
         }
       ],
       "next_sale_note": "The registration and deposit deadline is today (2026-10-27, 2:00 PM MST), and the sale is tomorrow.",
@@ -112,7 +113,8 @@
           "registration_deadline": "Nov 10, 2026 (registration opened Oct 19)",
           "source_url": "https://www.jeffco.us/2438/Internet-Sale-Information",
           "quote": "The next tax lien auction will be held on November 12 and 13, 2026.",
-          "end_date": "2026-11-13"
+          "end_date": "2026-11-13",
+          "register_by": "2026-11-10"
         }
       ],
       "next_sale_note": null,
@@ -163,7 +165,8 @@
           "registration_deadline": "Oct 19 to 30, 2026",
           "source_url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
           "quote": "Live Tax Sale: October 26-November 6, 2026",
-          "end_date": "2026-11-06"
+          "end_date": "2026-11-06",
+          "register_by": "2026-10-30"
         }
       ],
       "next_sale_note": "Sale already in progress (opened 2026-10-26).",

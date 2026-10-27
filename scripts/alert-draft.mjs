@@ -85,9 +85,26 @@ if (ref) {
 }
 
 // --- Draft ---
+const weekOut = new Date(Date.parse(`${now}T00:00:00Z`) + 7 * 864e5).toISOString().slice(0, 10);
+const deadlines = upcoming
+  .filter((s) => s.register_by && s.register_by >= now && s.register_by <= weekOut)
+  .sort((a, b) => a.register_by.localeCompare(b.register_by));
+const datedCounties = new Set(upcoming.map((s) => `${s.stateCode}/${s.countySlug}`));
+const recurring = states.flatMap((st) =>
+  st.counties.filter((c) => c.recurs && !c.link_only && !datedCounties.has(`${st.state}/${c.slug}`)).map((c) => ({ ...c, stateName: st.name })),
+);
+const lists = upcoming.filter((s) => s.list_url);
+
 const lines = [];
 lines.push(`# Tax sales for the week of ${fmt(now)}`, "");
 lines.push(`Every dated sale from ${fmt(now)} to ${fmt(until)}, and what changed since last week. Each line links to the county page it came from.`, "");
+
+lines.push("## Registration deadlines in the next 7 days", "");
+if (!deadlines.length) lines.push("No registration deadlines in the next 7 days.", "");
+for (const s of deadlines) {
+  lines.push(`- **${fmt(s.register_by)}**: [${s.county}, ${s.stateCode}](${siteUrl}${s.countyUrl}), ${s.label || "sale"} on ${fmt(s.date)}. ${s.registration_deadline || ""}`.trimEnd());
+}
+if (deadlines.length) lines.push("");
 
 lines.push("## What changed", "");
 if (!ref) lines.push("_No earlier commit to compare with. Fill this in by hand._", "");
@@ -109,12 +126,21 @@ for (const st of states) {
     lines.push(`- ${bits.join(" · ")}`);
     if (s.deposit) lines.push(`  - Deposit: ${s.deposit}`);
     if (s.registration_deadline) lines.push(`  - Register: ${s.registration_deadline}`);
+    if (s.note) lines.push(`  - Note: ${s.note}`);
     lines.push(`  - Source: [county page](${s.source_url}), checked ${s.lastChecked || "date unknown"}`);
   }
   lines.push("");
 }
 
+lines.push("## Recurring sales with no dates posted", "");
+lines.push("These counties sell on a fixed schedule but don't post each date on their own pages. The schedule is quoted as the county states it; check the county page for the property list before each sale.", "");
+if (!recurring.length) lines.push("None.", "");
+for (const c of recurring) lines.push(`- [${c.county}, ${c.stateCode}](${siteUrl}${c.url}) (${c.recurs}): "${c.schedule_rule}"`);
+if (recurring.length) lines.push("");
+
 lines.push("## Parcel lists", "");
+for (const s of lists) lines.push(`- [${s.county}, ${s.stateCode}](${s.list_url}): ${s.label || "sale"} on ${fmt(s.date)}${s.list_note ? `. ${s.list_note}` : ""}`);
+if (lists.length) lines.push("");
 lines.push("_Add by hand: attach a spreadsheet only for counties whose terms allow reuse; for the rest, link to the county's own list. Never copy from link-only sources._", "");
 lines.push("---", "");
 lines.push("Information only, not investment or legal advice. Sale dates, terms and deadlines change; always confirm with the county before you register or bid.");

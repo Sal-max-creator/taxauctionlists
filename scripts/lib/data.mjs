@@ -49,6 +49,7 @@ export function flattenSales(states) {
         c.upcoming.map((sale) => ({
           ...sale,
           county: c.county,
+          countySlug: c.slug,
           countyUrl: c.url,
           stateCode: st.state,
           stateName: st.name,

@@ -140,7 +140,8 @@
           "url": "https://treasurer.franklincountyohio.gov/Delinquent-Taxes/Tax-Lien-Sale",
           "schedule_rule": "The tax lien certificate sale is generally held in October each year but can also be negotiated with the County Land Bank."
         }
-      }
+      },
+      "recurs": "weekly"
     },
     {
       "county": "Hamilton",
@@ -187,7 +188,8 @@
       ],
       "notes": {
         "format_note": "The page describes online RealAuction sales and also a live courthouse auction for delinquent-tax sales, so the format is recorded as 'both'. Confirm with the Civil Enforcement Unit before publishing."
-      }
+      },
+      "recurs": "weekly"
     },
     {
       "county": "Summit",
@@ -236,7 +238,8 @@
       ],
       "notes": {
         "schedule_rule_other": "MORTGAGE SALES are held on Fridays at 10:00am."
-      }
+      },
+      "recurs": "weekly"
     },
     {
       "county": "Montgomery",
@@ -279,7 +282,8 @@
       ],
       "notes": {
         "schedule_rule_other": "Tax Lien Sales on the \"Official Foreclosure Auction Site\" every Friday and start promptly at 9:00 AM Eastern Time (EST)."
-      }
+      },
+      "recurs": "monthly"
     }
   ]
 }

@@ -49,19 +49,26 @@
         {
           "date": "2026-12-08",
           "label": "Adjourned Upset Tax Sale",
-          "registration_deadline": "Nov 24, 2026, 4:00 PM per the registration page (the county's sale notice says Nov 14; confirm with the Tax Claim Bureau)",
+          "registration_deadline": "Nov 24, 2026, 4:00 PM per the county registration page. The county 2026 sale notice says to register in person by Nov 14, 2026, which is a Saturday. Register by the earlier date or call the Tax Claim Bureau (215-348-6274) to confirm.",
           "source_url": "https://buckscounty.gov/2197/Tax-Sale-Registration-for-Bidders",
-          "quote": "Adjourned Upset Tax Sale | December 8th, 2026  | September 21st, 2026 | November 24th, 2026 at 4:00PM"
+          "quote": "Adjourned Upset Tax Sale | December 8th, 2026  | September 21st, 2026 | November 24th, 2026 at 4:00PM",
+          "register_by": "2026-11-14",
+          "deposit": "$100.00 non-refundable bidder registration fee, certified check or money order only (2026 sale notice)",
+          "list_url": "https://buckscounty.gov/DocumentCenter/View/28880",
+          "list_note": "County list, updated Oct 23, 2026. Link only: the county site is all rights reserved."
         },
         {
           "date": "2026-12-08",
           "label": "Judicial Sale",
-          "registration_deadline": "Nov 24, 2026, 4:00 PM per the registration page (the county's sale notice says Nov 14; confirm with the Tax Claim Bureau)",
+          "registration_deadline": "Nov 24, 2026, 4:00 PM per the county registration page. The county 2026 sale notice says to register in person by Nov 14, 2026, which is a Saturday. Register by the earlier date or call the Tax Claim Bureau (215-348-6274) to confirm.",
           "source_url": "https://buckscounty.gov/2197/Tax-Sale-Registration-for-Bidders",
-          "quote": "Judicial Sale            | December 8th, 2026  | September 21st, 2026 | November 24th, 2026 at 4:00PM"
+          "quote": "Judicial Sale            | December 8th, 2026  | September 21st, 2026 | November 24th, 2026 at 4:00PM",
+          "register_by": "2026-11-14",
+          "deposit": "$100.00 non-refundable bidder registration fee, certified check or money order only (2026 sale notice)",
+          "note": "The county link labeled \"December 8, 2026 Judicial Sale List\" still opens the December 2025 list, so the 2026 judicial list is not posted yet."
         }
       ],
-      "next_sale_note": "Sale start time not stated. The registration page gives a deadline of November 24th, 2026 at 4:00PM, but the county's 2026 Notice of Public Tax Sale says to register in person 'by ... Nov 14th 2026 for the Dec 8th Upset/Judicial Sales'. Confirm with the Bureau.",
+      "next_sale_note": "Sale start time not stated. Registration deadline conflict: the registration page says Nov 24, 2026 at 4:00 PM; the 2026 Notice of Public Tax Sale says in person by Nov 14, 2026 (a Saturday). Both re-read 2026-10-27. Confirm with the Bureau.",
       "how_to_bid": "All Bucks County tax sales are held online through GovEase. Bidders register through the Tax Claim Bureau (the 2026 notice says in person at the Bureau, with a $100.00 non-refundable registration fee by certified check or money order). Registering for the September upset sale also registers you for the December sales.",
       "sources": [
         {
@@ -156,7 +163,8 @@
           "deposit": "$1,000.00 registration fee (certified check or money order) plus non-refundable $25.00 application fee",
           "registration_deadline": "In person Nov 16 and 17, 2026 (first 120 bidders)",
           "source_url": "https://www.delcopa.gov/treasurer/upsetsales",
-          "quote": "Upset Price Sale: December 10, 2026 at 10AM"
+          "quote": "Upset Price Sale: December 10, 2026 at 10AM",
+          "register_by": "2026-11-17"
         }
       ],
       "next_sale_note": "Upset sale list to be posted Nov. 2, 2026. Judicial sale: 'Next Judicial Sale: TBA - Check back in mid January 2027 for dates'.",
@@ -203,7 +211,8 @@
           "label": "Continued Upset Tax Sale",
           "registration_deadline": "Fri, Nov 6, 2026, 4:00 PM",
           "source_url": "https://prison.lancastercountypa.gov/DocumentCenter/View/22901/UpdatedCont-Upset--Judicial-Tax-Sale-Website-Notice2026-004",
-          "quote": "ON MONDAY, NOVEMBER 16, 2026"
+          "quote": "ON MONDAY, NOVEMBER 16, 2026",
+          "register_by": "2026-11-06"
         },
         {
           "date": "2026-11-16",
@@ -211,7 +220,8 @@
           "label": "Judicial Tax Sale",
           "registration_deadline": "Fri, Nov 6, 2026, 4:00 PM",
           "source_url": "https://prison.lancastercountypa.gov/DocumentCenter/View/22901/UpdatedCont-Upset--Judicial-Tax-Sale-Website-Notice2026-004",
-          "quote": "ON MONDAY, NOVEMBER 16, 2026"
+          "quote": "ON MONDAY, NOVEMBER 16, 2026",
+          "register_by": "2026-11-06"
         }
       ],
       "next_sale_note": "The continued upset sale has its own GovDeals page: https://www.govdeals.com/lctcb2026ContinuedUpsetTaxSale. The notice document is served from the county's CivicPlus document center (linked from the www Tax Claim page).",

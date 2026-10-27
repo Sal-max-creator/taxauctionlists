@@ -174,7 +174,8 @@
       "notes": {
         "verification_note": "browardtax.org identifies itself as the 'BROWARD COUNTY TAX COLLECTOR'S OFFICE' and an independent constitutional office; its address matches the Broward County Records, Taxes and Treasury office on broward.org (115 S. Andrews Ave., Room A-100), but I could not find a broward.org page linking to browardtax.org. Treat as likely official; confirm before publishing.",
         "to_confirm": "browardtax.org calls itself the Broward County Tax Collector's Office; no broward.org page links to it yet. Confirm before launch."
-      }
+      },
+      "recurs": "monthly"
     },
     {
       "county": "Palm Beach",
@@ -273,7 +274,8 @@
           "url": "https://hillsclerk.com/taxdeeds",
           "quote": "Payment in full, including documentary stamps and recording fees, must be made by 10AM the next business day."
         }
-      ]
+      ],
+      "recurs": "weekly"
     },
     {
       "county": "Orange",

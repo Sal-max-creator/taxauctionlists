@@ -251,7 +251,8 @@
       ],
       "notes": {
         "schedule_rule_adjourned": "on the 3rd Monday of each month"
-      }
+      },
+      "recurs": "monthly"
     }
   ]
 }

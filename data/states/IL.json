@@ -96,7 +96,8 @@
           "deposit": "$500, forfeited if a registered bidder doesn't attend",
           "registration_deadline": "Oct 1 to 30, 2026",
           "source_url": "https://www.dupagecounty.gov/elected_officials/treasurer/tax_sale_information.php",
-          "quote": "The 2025 annual real estate Tax Sale will begin on Thursday, November 19, 2026."
+          "quote": "The 2025 annual real estate Tax Sale will begin on Thursday, November 19, 2026.",
+          "register_by": "2026-10-30"
         }
       ],
       "next_sale_note": null,

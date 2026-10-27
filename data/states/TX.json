@@ -85,7 +85,8 @@
           "url": "https://www.hctax.net/About/Announcements/Tax Sale FAQs.pdf",
           "quote": "You can register online at any time or in person on the day of the auction beginning at 8:30 am."
         }
-      ]
+      ],
+      "recurs": "monthly"
     },
     {
       "county": "Dallas",
@@ -141,7 +142,8 @@
           "url": "https://taxoffice.dallascounty.org/hc/en-us/articles/52332852588571-Sheriff-Sales-Tax-Foreclosure-Resales",
           "quote": "Tax foreclosure resales are conducted by the Dallas County Public Works Department."
         }
-      ]
+      ],
+      "recurs": "monthly"
     },
     {
       "county": "Bexar",
@@ -182,7 +184,8 @@
           "url": "https://www.bexar.org/faq.aspx?TID=77",
           "quote": "Redemption period for all other properties is six months."
         }
-      ]
+      ],
+      "recurs": "monthly"
     },
     {
       "county": "Travis",
@@ -204,14 +207,16 @@
           "label": "Travis County tax foreclosure sale",
           "registration_deadline": "October 27, 2026 (bidder registration and statement)",
           "source_url": "https://tax-office.traviscountytx.gov/properties/foreclosed",
-          "quote": "| November 3, 2026  | October 27, 2026   |"
+          "quote": "| November 3, 2026  | October 27, 2026   |",
+          "register_by": "2026-10-27"
         },
         {
           "date": "2026-12-01",
           "label": "Travis County tax foreclosure sale",
           "registration_deadline": "November 24, 2026 (bidder registration and statement)",
           "source_url": "https://tax-office.traviscountytx.gov/properties/foreclosed",
-          "quote": "| December 1, 2026  | November 24, 2026  |"
+          "quote": "| December 1, 2026  | November 24, 2026  |",
+          "register_by": "2026-11-24"
         }
       ],
       "next_sale_note": "Posted schedule ends with December 1, 2026; 2027 dates not yet posted.",
@@ -299,7 +304,8 @@
           "url": "https://www.tarrantcountytx.gov/content/main/en/constables/constable-3/delinquent-tax-sales.html",
           "quote": "Purchasers have up to one hour after the sale to bring in certified funds in the exact amount."
         }
-      ]
+      ],
+      "recurs": "monthly"
     }
   ]
 }

@@ -1,0 +1,11 @@
+---
+permalink: /_headers
+eleventyExcludeFromCollections: true
+---
+{#- Cloudflare Pages response headers. While the site is private, every page also says noindex in the header. -#}
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+{%- if not site.public %}
+  X-Robots-Tag: noindex, nofollow
+{%- endif %}

@@ -12,7 +12,7 @@ npm run validate     # checks data/states/*.json
 npm run terms-log    # regenerates SOURCES.md
 ```
 
-Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML for Cloudflare Pages (build command `npm run build`, output directory `_site`).
+Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML for Cloudflare Pages. Cloudflare build settings: framework preset **None**, build command `npm run build`, build output directory `_site`, root directory blank. Node 22 is pinned in `.nvmrc`. `src/headers.njk` writes Cloudflare's `_headers` file, which adds `X-Robots-Tag: noindex` while the site is private.
 
 ## Where things live
 

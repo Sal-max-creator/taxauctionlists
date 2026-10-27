@@ -234,6 +234,63 @@
           "quote": "The redemption period will last for one year from the date of the order of the decree confirming the sale."
         }
       ]
+    },
+    {
+      "county": "Blount",
+      "slug": "blount",
+      "office": "Blount County Clerk and Master (Chancery Court)",
+      "phone": "not stated",
+      "address": "Blount County Justice Center, 930 E. Lamar Alexander Pkwy, Maryville, TN 37804",
+      "website": "https://blounttn.gov/2029/Delinquent-Property-Tax-Sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The county holds one tax sale a year (covering Blount County, Maryville and Alcoa); the newest property list on the county site is dated June 03, 2026, and the list is posted about one month before the sale.",
+      "how_to_bid": "Open public auction held in person by the Clerk and Master, once a year. Properties are sold one year after the delinquent taxes are turned over to the office, and the property list is posted on the county website about one month before the sale. The winning bidder must pay the full amount the same day, in cash or cashier's check only. Property is sold 'as is and where is'; research it on the Tennessee Comptroller's assessment site. The sale is not complete until the Chancellor signs the Order Confirming Sale, and the owner may redeem for one year from that order (purchase price refunded with interest). Phone not stated on the pages read.",
+      "sources": [
+        {
+          "url": "https://blounttn.gov/2029/Delinquent-Property-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer link found on the Clerk & Master tax sale pages (footer links only Site Map, Accessibility and similar); no copying or reuse restriction seen.",
+          "terms_url": null
+        },
+        {
+          "url": "https://blounttn.gov/2030/Tax-Sale-FAQs",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer link found on the Clerk & Master tax sale pages (footer links only Site Map, Accessibility and similar); no copying or reuse restriction seen.",
+          "terms_url": null
+        },
+        {
+          "url": "https://blounttn.gov/2033/Properties-for-Sale",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer link found on the Clerk & Master tax sale pages (footer links only Site Map, Accessibility and similar); no copying or reuse restriction seen.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://blounttn.gov/2030/Tax-Sale-FAQs",
+          "quote": "Properties that have not been paid will be sold one (1) year from the date they were turned over to our office."
+        },
+        {
+          "url": "https://blounttn.gov/2030/Tax-Sale-FAQs",
+          "quote": "The information will be posted on this website approximately one month before the sale."
+        },
+        {
+          "url": "https://blounttn.gov/2030/Tax-Sale-FAQs",
+          "quote": "The county and cities file the cases in our office April 1st of every year."
+        },
+        {
+          "url": "https://blounttn.gov/2030/Tax-Sale-FAQs",
+          "quote": "No, you must purchase the property at the tax sale."
+        },
+        {
+          "url": "https://blounttn.gov/2033/Properties-for-Sale",
+          "quote": "Properties for Sale (updated June 03, 2026) (PDF)"
+        }
+      ]
     }
   ]
 }

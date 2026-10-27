@@ -199,6 +199,114 @@
           "quote": "The minimum bid/opening bid for each parcel will be $100."
         }
       ]
+    },
+    {
+      "county": "Oneida",
+      "slug": "oneida",
+      "office": "Oneida County Finance Department",
+      "phone": "(315) 798-5760",
+      "address": null,
+      "website": "https://oneidacountyny.gov/assets/Finance/RealEstateHome/AuctionPolicyGuideEnglish-2026-v2.pdf",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Auctions International",
+        "url": "https://www.auctionsinternational.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date found. The 2026 online auction ran August 7 to August 22, 2026 (past).",
+      "how_to_bid": "2026 policy guide: the auction is an online bid offer on the auctioneer's website (AuctionsInternational.com or OneidaCoAuction.com). Prospective purchasers sign a memorandum of agreement and an Offer to Purchase form; if the balance of the bid is not paid within ten days after the auction, the deposit is forfeited. Deposit amount not stated in what was read.",
+      "sources": [
+        {
+          "url": "https://oneidacountyny.gov/assets/Finance/RealEstateHome/AuctionPolicyGuideEnglish-2026-v2.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: footer reads 'Oneida County ©2026'. The site's Privacy Policy covers personal information only and says nothing about reusing site content. Nothing forbids republishing sale dates.",
+          "terms_url": "https://oneidacountyny.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oneidacountyny.gov/assets/Finance/RealEstateHome/AuctionPolicyGuideEnglish-2026-v2.pdf",
+          "quote": "beginning on August 7, 2026 and ending on August 22, 2026 at 10:00 am."
+        },
+        {
+          "url": "https://oneidacountyny.gov/assets/Finance/RealEstateHome/AuctionPolicyGuideEnglish-2026-v2.pdf",
+          "quote": "If the balance of your bid is not submitted within the ten (10) days after the date of the auction, the deposit will be forfeited."
+        }
+      ]
+    },
+    {
+      "county": "Niagara",
+      "slug": "niagara",
+      "office": "Niagara County Treasurer's Office",
+      "phone": "(716) 439-7007",
+      "address": null,
+      "website": "https://www.niagaracounty.gov/departments/m-r/real_property/resources/tax_auctions.php",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Auctions International",
+        "url": "https://www.auctionsinternational.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date posted. The 2026 online auction opened Wednesday, July 22, 2026 and closed Wednesday, August 5, 2026 (past).",
+      "how_to_bid": "The county's Tax Auctions page sends bidders to Auctions International for the property list and to request an auction registration packet. Deposit, buyer premium and bidding steps are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.niagaracounty.gov/departments/m-r/real_property/resources/tax_auctions.php",
+          "read_on": "2026-10-27",
+          "terms": "no terms page found (the county site's footer has no terms, disclaimer, privacy or copyright link; nothing on the page restricts reuse)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.niagaracounty.gov/departments/m-r/real_property/resources/tax_auctions.php",
+          "quote": "Wednesday, July 22, 2026, at 12pm"
+        },
+        {
+          "url": "https://www.niagaracounty.gov/departments/m-r/real_property/resources/tax_auctions.php",
+          "quote": "Wednesday, August 5, 2026, at 10am"
+        }
+      ]
+    },
+    {
+      "county": "Ulster",
+      "slug": "ulster",
+      "office": "Ulster County Department of Finance",
+      "phone": "(845) 340-3000",
+      "address": "244 Fair Street, PO Box 1800, Kingston, NY 12402",
+      "website": "https://www.ulstercountyny.gov/Departments/Finance/Tax-Information/Foreclosures-and-Tax-Auctions",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Absolute Auctions & Realty",
+        "url": "https://aarauctions.com/servlet/Search.do?auctionId=8497"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date posted. The 2026 online-only tax foreclosure auction ran September 8 to 10, 2026 (past).",
+      "how_to_bid": "Online only, through Absolute Auctions & Realty, where the auction brochure and the required registration are posted. In 2026 the online registration cut-off was Tuesday, September 8. Deposit and bidding terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.ulstercountyny.gov/Departments/Finance/Tax-Information/Foreclosures-and-Tax-Auctions",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: footer reads '© 2026 Ulster County'. The Privacy Statement covers personal information only and says nothing about reusing site content. Nothing forbids republishing sale dates.",
+          "terms_url": "https://www.ulstercountyny.gov/Policies/IT/Privacy-Policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ulstercountyny.gov/Departments/Finance/Tax-Information/Foreclosures-and-Tax-Auctions",
+          "quote": "Ulster County's Online Only Tax Foreclosure Real Estate Auction is September 8 to 10th, 2026."
+        },
+        {
+          "url": "https://www.ulstercountyny.gov/Departments/Finance/Tax-Information/Foreclosures-and-Tax-Auctions",
+          "quote": "The online registration cut off deadline is on Tuesday, September 8."
+        }
+      ]
     }
   ]
 }

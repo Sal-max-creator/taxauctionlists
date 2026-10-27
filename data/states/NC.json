@@ -233,6 +233,206 @@
           "quote": "Upset bids of 5% or $750.00, whichever is greater, are received by the Clerk of court for each property."
         }
       ]
+    },
+    {
+      "county": "Buncombe",
+      "slug": "buncombe",
+      "office": "Buncombe County Tax Collections (sales conducted by an assigned commissioner; bids held by the Clerk of Superior Court)",
+      "phone": "828-259-3400 (Clerk of Courts Office)",
+      "address": "Sales on the front steps of the county courthouse; Clerk of Superior Court on the first floor of the Buncombe County Courthouse (street address not stated)",
+      "website": "https://www.buncombenc.gov/622/Tax-Foreclosure-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted; the county's foreclosure listings site shows bidding-begins dates per property on its map, and none could be read on 2026-10-27. Sales are advertised in a newspaper before the sale date.",
+      "how_to_bid": "Attend the public auction on the front steps of the county courthouse; the commissioner announces the opening bid for each property at the sale. The high bidder pays a deposit of up to 20% of the bid after the sale. Upset bids must exceed the current bid by 5% or $750, whichever is greater, with an upset deposit of 5% of the new high bid (minimum $750) in cash, certified check or cashier's check delivered to the Clerk of Superior Court. The balance is due at the end of the 10-day period and confirmation of the sale. Properties are sold as is, without warranty, and may be subject to taxes and assessments not included in the judgment.",
+      "sources": [
+        {
+          "url": "https://www.buncombenc.gov/622/Tax-Foreclosure-Sales",
+          "read_on": "2026-10-27",
+          "terms": "No reuse restriction found. Website Services 'Legal Policies' only disclaims warranties: 'All such documents and related graphics are provided \"as is\" without warranty of any kind.'",
+          "terms_url": "https://www.buncombenc.gov/635/Website-Services"
+        },
+        {
+          "url": "https://taxforeclosures.buncombenc.gov/",
+          "read_on": "2026-10-27",
+          "terms": "No reuse restriction found. Page says 'The foreclosure list is provided as a courtesy only.' Footer: '© 2026 - Buncombe County Government'.",
+          "terms_url": "https://www.buncombenc.gov/635/Website-Services"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.buncombenc.gov/622/Tax-Foreclosure-Sales",
+          "quote": "Foreclosure sales will be handled by a public auction on the front steps of the county courthouse."
+        },
+        {
+          "url": "https://www.buncombenc.gov/622/Tax-Foreclosure-Sales",
+          "quote": "A deposit of up to 20% of the bid will be required following the sale."
+        },
+        {
+          "url": "https://www.buncombenc.gov/622/Tax-Foreclosure-Sales",
+          "quote": "The person conducting the sale will announce the actual opening bid for each property at the time of sale."
+        }
+      ]
+    },
+    {
+      "county": "Cabarrus",
+      "slug": "cabarrus",
+      "office": "Cabarrus County Tax Administration, Tax Collections (sales handled through a foreclosure attorney)",
+      "phone": "704-920-2118",
+      "address": "65 Church St S, Concord, NC 28025 (sales held at 61 Union Street S, Concord, NC 28026)",
+      "website": "https://www.cabarruscounty.us/Government/Departments/Tax-Administration/Tax-Collections/Foreclosures",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale could be read: the county posts sale dates and times on its foreclosure listings site, which loads its data dynamically and showed no listings to our reader. Sales are held on the date and time the courts assign.",
+      "how_to_bid": "Attend in person at 61 Union Street S, Concord; there is no online bidding. The highest bidder pays the attorney a 20% deposit on sale day in cash, money orders or certified funds; the County offers no financing. A 10-day upset bid period follows: upset bids must exceed the last bid by 5% (minimum increase $750) and are submitted in person at the Clerk of Superior Court, Room 104, Cabarrus County Courthouse, with the court case number. Final payment is due at the foreclosure attorney's office on delivery of the Commissioner's deed, no later than 30 days after the upset period ends.",
+      "sources": [
+        {
+          "url": "https://www.cabarruscounty.us/Government/Departments/Tax-Administration/Tax-Collections/Foreclosures",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found (footer has no disclaimer, terms or legal link); footer: '© 2026 Cabarrus County | Powered by Granicus'.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cabarruscounty.us/Government/Departments/Tax-Administration/Tax-Collections/Foreclosures",
+          "quote": "When foreclosure properties are ready, the sale dates and times get posted."
+        },
+        {
+          "url": "https://www.cabarruscounty.us/Government/Departments/Tax-Administration/Tax-Collections/Foreclosures",
+          "quote": "Only cash, money orders or certified funds are accepted for a deposit on the sale day."
+        },
+        {
+          "url": "https://www.cabarruscounty.us/Government/Departments/Tax-Administration/Tax-Collections/Foreclosures",
+          "quote": "no later than 30 days after completion of the 10-day upset bid period."
+        }
+      ]
+    },
+    {
+      "county": "Gaston",
+      "slug": "gaston",
+      "office": "Gaston County Tax Office",
+      "phone": "704-866-3000",
+      "address": "128 W. Main Ave. Gastonia, NC 28052",
+      "website": "https://www.gastongov.com/669/Tax-Foreclosure-Sales",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-09",
+          "time": "10:00 AM",
+          "label": "Gaston County tax foreclosure sale (96 Park Drive, Gastonia; Parcel# 196765)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "One property listed: 96 Park Drive, Gastonia, NC 28054, starting bid $12,000.00 (subject to change). Sale location not stated on the page.",
+          "source_url": "https://www.gastongov.com/669/Tax-Foreclosure-Sales",
+          "quote": "Sale Date: December 9, 2026, at 10 am"
+        }
+      ],
+      "next_sale_note": "Sale dates are posted per property on the county's Tax Foreclosure Sales page.",
+      "how_to_bid": "Not stated on the page read: sale location, deposit, upset bid and payment terms are not given there (the county's foreclosure FAQ page refused our reader). Contact the Gaston County Tax Office for details.",
+      "sources": [
+        {
+          "url": "https://www.gastongov.com/669/Tax-Foreclosure-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Gaston County, NC and its representatives. All rights reserved.'",
+          "terms_url": "https://www.gastongov.com/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.gastongov.com/669/Tax-Foreclosure-Sales",
+          "quote": "Starting Bid (Subject to Change): $12,000.00"
+        }
+      ]
+    },
+    {
+      "county": "Johnston",
+      "slug": "johnston",
+      "office": "Johnston County Tax Administration Office",
+      "phone": "919-989-5130",
+      "address": "207 E. Johnston Street, Smithfield, NC 27577",
+      "website": "https://www.johnstonnc.com/tax2/tcontent.cfm?pid=auctions",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale scheduled: the county's foreclosure auctions page says 'No Sale Scheduled At This Time'.",
+      "how_to_bid": "Sales are held at the Johnston County Courthouse steps (212 E Market St.). All property is sold as is, where is, with no title certification or opinion on environmental matters. Deposit, upset bid and payment terms are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.johnstonnc.com/tax2/tcontent.cfm?pid=auctions",
+          "read_on": "2026-10-27",
+          "terms": "No reuse restriction found. Website Disclaimer: 'Any information published on this website is a matter of public record'. Footer: '© 2015-2026 Johnston County Tax Administration Office'.",
+          "terms_url": "https://www.johnstonnc.com/tax2/tcontent.cfm?pid=disclaim"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.johnstonnc.com/tax2/tcontent.cfm?pid=auctions",
+          "quote": "No Sale Scheduled At This Time"
+        },
+        {
+          "url": "https://www.johnstonnc.com/tax2/tcontent.cfm?pid=auctions",
+          "quote": "Sale held at the Johnston County Courthouse steps (212 E Market St.)"
+        },
+        {
+          "url": "https://www.johnstonnc.com/tax2/tcontent.cfm?pid=auctions",
+          "quote": "ALL PROPERTY SOLD AS IS-WHERE IS."
+        }
+      ]
+    },
+    {
+      "county": "Pitt",
+      "slug": "pitt",
+      "office": "Pitt County Tax Administration (sales conducted by a commissioner or substitute trustee)",
+      "phone": "252-902-1000",
+      "address": "1717 W. 5th Street, Greenville, NC 27834",
+      "website": "https://www.pittcountync.gov/1163/Delinquent-Accounts-Foreclosure-Auctions",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale posted: the Tax Auction Listings page says 'There are No Tax Foreclosure & Auction Listings at This Time.'",
+      "how_to_bid": "Attend the auction on the Third Street steps of the Pitt County Courthouse in uptown Greenville, rain or shine. Winning bidders must immediately pay a 10% deposit by cash, certified bank check, cashier's check or money order (no personal checks). A 10-day upset bid period follows: a new bidder must raise the price by at least 5% or $750, whichever is greater, at the Clerk of Court's Civil Department. The final bidder must pay in full within 10 days of the final upset bid deadline, by cash, certified check or another method in the sale notice.",
+      "sources": [
+        {
+          "url": "https://www.pittcountync.gov/1163/Delinquent-Accounts-Foreclosure-Auctions",
+          "read_on": "2026-10-27",
+          "terms": "Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Pitt County, NC and its representatives. All rights reserved.'",
+          "terms_url": "https://www.pittcountync.gov/site/copyright"
+        },
+        {
+          "url": "https://www.pittcountync.gov/1165/Tax-Auction-Listings",
+          "read_on": "2026-10-27",
+          "terms": "Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Pitt County, NC and its representatives. All rights reserved.'",
+          "terms_url": "https://www.pittcountync.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pittcountync.gov/1163/Delinquent-Accounts-Foreclosure-Auctions",
+          "quote": "The sale is conducted by a commissioner or substitute trustee."
+        },
+        {
+          "url": "https://www.pittcountync.gov/1163/Delinquent-Accounts-Foreclosure-Auctions",
+          "quote": "All winning bidders must immediately pay a 10% deposit by cash, certified bank check, cashier's check or money order."
+        },
+        {
+          "url": "https://www.pittcountync.gov/1163/Delinquent-Accounts-Foreclosure-Auctions",
+          "quote": "A new bidder must increase the price by at least 5% or $750, whichever is greater."
+        }
+      ]
     }
   ]
 }

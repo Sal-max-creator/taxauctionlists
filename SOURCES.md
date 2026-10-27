@@ -14,7 +14,7 @@ Rules: sale dates come only from county or state government pages, or legally re
 | [Bid4Assets](https://www.bid4assets.com/) | Private auction platform. No reuse terms found, so we link to county sale pages and never copy parcel data. | 2026-10-26 |
 | [GovEase](https://www.govease.com/) | Private auction platform. Only privacy and cookie links found, so we link out and never copy parcel data. | 2026-10-26 |
 
-Hosts the validator refuses as a sale source: `realauction.com`, `realtaxdeed.com`, `realtaxlien.com`, `realforeclose.com`, `bid4assets.com`, `govease.com`, `zeusauction.com`, `sriservices.com`, `lienhub.com`, `grantstreet.com`, `govdeals.com`, `publicsurplus.com`, `wisconsinsurplus.com`, `marylandtaxsale.com`, `newjerseytaxsale.com`, `sheriffsaleauction.ohio.gov`, `sheriffsaleauctions.com`, `coloradotaxsale.com`, `arizonataxsale.com`, `deedauction.net`, `clerkauction.com`, `itm.leoncountyfl.gov`, `sdat.dat.maryland.gov`.
+Hosts the validator refuses as a sale source: `realauction.com`, `realtaxdeed.com`, `realtaxlien.com`, `realforeclose.com`, `bid4assets.com`, `govease.com`, `zeusauction.com`, `sriservices.com`, `lienhub.com`, `grantstreet.com`, `govdeals.com`, `publicsurplus.com`, `wisconsinsurplus.com`, `marylandtaxsale.com`, `aarauctions.com`, `auctionsinternational.com`, `mnbid.mn.gov`, `newjerseytaxsale.com`, `sheriffsaleauction.ohio.gov`, `sheriffsaleauctions.com`, `coloradotaxsale.com`, `arizonataxsale.com`, `deedauction.net`, `clerkauction.com`, `itm.leoncountyfl.gov`, `sdat.dat.maryland.gov`.
 
 ## Alabama
 
@@ -113,6 +113,7 @@ State overview: <https://sco.ca.gov/ardtax_public_auction.html>, <https://sco.ca
 | Riverside | <https://countytreasurer.org/tax-collector/tax-sale-information> | 2026-10-27 | No reuse terms or disclaimer page found; footer reads '©2026 Office of the Treasurer-Tax Collector, Riverside County, California. All rights reserved.' |
 | Riverside | <https://rivco.gov/node/6751> | 2026-10-27 | County news release; footer copyright notice only, no reuse terms found. |
 | Riverside | <https://countytreasurer.org/node/826> | 2026-10-27 | same as the tax sale information page |
+| Sacramento | <https://finance.saccounty.gov/us/en/tax/tax/tax-sales.html> | 2026-10-27 | Sacramento County Conditions of Use contain no copyright, reuse, reproduction or redistribution restriction; they bar unlawful use and unauthorized uploading or changing of information on the portal. No footer copyright text found on the tax sales page. ([terms](https://www.saccounty.gov/us/en/Conditions-of-Use.html)) |
 
 ## Colorado
 
@@ -496,6 +497,10 @@ State overview: <https://www.revisor.mn.gov/statutes/cite/282.01>, <https://www.
 | Dakota | <https://dakotacountymn.gov/residents/home-property/tax-forfeited> | 2026-10-27 | The site's Terms of use (on the Privacy Policy page) only bar unlawful use: 'users agree that they will not use the website for any unlawful activity'. The disclaimer covers accuracy only. No restriction on reuse or republishing. ([terms](https://dakotacountymn.gov/privacy-policy)) |
 | Anoka | <https://www.anokacountymn.gov/310/Tax-Forfeited-Land-Sales> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Anoka County, MN and its representatives. All rights reserved.' The Privacy Policy/Disclaimer page's Terms of Use bar only unlawful use and disclaim accuracy. Nothing forbids republishing sale dates. ([terms](https://www.anokacountymn.gov/site/copyright)) |
 | Anoka | <https://www.anokacountymn.gov/1474/Available-Properties-and-Proceeds> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Anoka County, MN and its representatives. All rights reserved.' The Privacy Policy/Disclaimer page's Terms of Use bar only unlawful use and disclaim accuracy. Nothing forbids republishing sale dates. ([terms](https://www.anokacountymn.gov/125/Privacy-Policy-Disclaimer)) |
+| Ramsey | <https://www.ramseycountymn.gov/residents/property-home/taxes-values/productive-properties/tax-forfeited-public-sales> | 2026-10-27 | Copyright notice only: '© 2026 Ramsey County, MN. All rights reserved.' The footer's 'Terms of Use' link opens the county's HIPAA/data practices privacy notice, which has no website terms and says nothing about reuse. Nothing forbids republishing sale dates. ([terms](https://www.ramseycountymn.gov/your-government/about-ramsey-county/ramsey-county-notice-privacy-practices)) |
+| Ramsey | <https://www.ramseycountymn.gov/fall-2026-tax-forfeited-land-online-auction> | 2026-10-27 | Copyright notice only: '© 2026 Ramsey County, MN. All rights reserved.' The footer's 'Terms of Use' link opens the county's HIPAA/data practices privacy notice, which has no website terms and says nothing about reuse. Nothing forbids republishing sale dates. ([terms](https://www.ramseycountymn.gov/your-government/about-ramsey-county/ramsey-county-notice-privacy-practices)) |
+| Washington | <https://www.washingtoncountymn.gov/1140/Tax-Forfeited-Land> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Washington County, MN and its representatives. All rights reserved.' The Privacy Policy page has no terms of use or reuse rules. Nothing forbids republishing sale dates. ([terms](https://www.washingtoncountymn.gov/site/copyright)) |
+| St. Louis | <https://stlouiscountymn.gov/departments-a-z/land-minerals/sales-and-contracts/tax-forfeited-land-sales> | 2026-10-27 | The Website Privacy Policy and Disclaimer only requires lawful use ('Any use of the website shall comply with all St. Louis County, Minnesota, and State of Minnesota laws') and disclaims accuracy. Footer: 'Copyright © St. Louis County, Minnesota'. Nothing forbids reuse or republishing. ([terms](https://www.stlouiscountymn.gov/policies/website-privacy-policy-and-disclaimer)) |
 
 ## Mississippi
 
@@ -624,6 +629,9 @@ State overview: <https://nysenate.gov/legislation/laws/RPT/1110>, <https://nysen
 | Erie | <https://www3.erie.gov/ecrpts/sites/www3.erie.gov.ecrpts/files/2026-08/terms-of-sale-2026.pdf> | 2026-10-27 | not found |
 | Monroe | <https://www.monroecounty.gov/files/finance/auction-2026/Notice%20of%20Sale.pdf> | 2026-10-27 | not found (PDF legal notice; county site terms not read) |
 | Onondaga | <https://onondaga.gov/rpts/auction/> | 2026-10-27 | County website 'Warranties' section: provided 'AS IS', no warranty as to accuracy, information is for informational purposes only; no copying or reuse restriction found. ([terms](https://onondaga.gov/privacy/)) |
+| Oneida | <https://oneidacountyny.gov/assets/Finance/RealEstateHome/AuctionPolicyGuideEnglish-2026-v2.pdf> | 2026-10-27 | Copyright notice only: footer reads 'Oneida County ©2026'. The site's Privacy Policy covers personal information only and says nothing about reusing site content. Nothing forbids republishing sale dates. ([terms](https://oneidacountyny.gov/privacy-policy/)) |
+| Niagara | <https://www.niagaracounty.gov/departments/m-r/real_property/resources/tax_auctions.php> | 2026-10-27 | no terms page found (the county site's footer has no terms, disclaimer, privacy or copyright link; nothing on the page restricts reuse) |
+| Ulster | <https://www.ulstercountyny.gov/Departments/Finance/Tax-Information/Foreclosures-and-Tax-Auctions> | 2026-10-27 | Copyright notice only: footer reads '© 2026 Ulster County'. The Privacy Statement covers personal information only and says nothing about reusing site content. Nothing forbids republishing sale dates. ([terms](https://www.ulstercountyny.gov/Policies/IT/Privacy-Policy)) |
 
 ## North Carolina
 
@@ -637,6 +645,13 @@ State overview: <https://www.ncleg.gov/enactedlegislation/statutes/html/bysectio
 | Forsyth | <https://www.forsyth.cc/tax/foreclosure_prop.aspx> | 2026-10-27 | No disclaimer or terms link found (footer has only Accessibility); footer: 'Copyright © 2026 Forsyth County, North Carolina.' |
 | Forsyth | <https://forsyth.cc/tax/foreclosure_faq.aspx> | 2026-10-27 | No disclaimer or terms link found (footer has only Accessibility); footer: 'Copyright © 2026 Forsyth County, North Carolina.' |
 | Durham | <https://dconc.gov/county-departments/departments-f-z/tax-administration/foreclosure> | 2026-10-27 | No reuse restriction found. Legal Notices: 'The materials are provided for public use on computer systems located within Durham County.' and references to commercial products 'shall not be used for advertising or product endorsement purposes.' ([terms](https://www.dconc.gov/about-dco/website-help/legal-notices)) |
+| Buncombe | <https://www.buncombenc.gov/622/Tax-Foreclosure-Sales> | 2026-10-27 | No reuse restriction found. Website Services 'Legal Policies' only disclaims warranties: 'All such documents and related graphics are provided "as is" without warranty of any kind.' ([terms](https://www.buncombenc.gov/635/Website-Services)) |
+| Buncombe | <https://taxforeclosures.buncombenc.gov/> | 2026-10-27 | No reuse restriction found. Page says 'The foreclosure list is provided as a courtesy only.' Footer: '© 2026 - Buncombe County Government'. ([terms](https://www.buncombenc.gov/635/Website-Services)) |
+| Cabarrus | <https://www.cabarruscounty.us/Government/Departments/Tax-Administration/Tax-Collections/Foreclosures> | 2026-10-27 | No terms page found (footer has no disclaimer, terms or legal link); footer: '© 2026 Cabarrus County \| Powered by Granicus'. |
+| Gaston | <https://www.gastongov.com/669/Tax-Foreclosure-Sales> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Gaston County, NC and its representatives. All rights reserved.' ([terms](https://www.gastongov.com/copyright)) |
+| Johnston | <https://www.johnstonnc.com/tax2/tcontent.cfm?pid=auctions> | 2026-10-27 | No reuse restriction found. Website Disclaimer: 'Any information published on this website is a matter of public record'. Footer: '© 2015-2026 Johnston County Tax Administration Office'. ([terms](https://www.johnstonnc.com/tax2/tcontent.cfm?pid=disclaim)) |
+| Pitt | <https://www.pittcountync.gov/1163/Delinquent-Accounts-Foreclosure-Auctions> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Pitt County, NC and its representatives. All rights reserved.' ([terms](https://www.pittcountync.gov/site/copyright)) |
+| Pitt | <https://www.pittcountync.gov/1165/Tax-Auction-Listings> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Pitt County, NC and its representatives. All rights reserved.' ([terms](https://www.pittcountync.gov/site/copyright)) |
 
 ## North Dakota
 
@@ -814,6 +829,9 @@ State overview: <https://www.ctas.tennessee.edu/eli/delinquent-tax-suit>, <https
 | Hamilton | <https://www.hamiltonTN.gov/Chancery_RulesFees.aspx> | 2026-10-27 | same as above ([terms](https://www.hamiltontn.gov/policies.aspx)) |
 | Montgomery | <https://montgomerytn.gov/chancery/tax-sale> | 2026-10-27 | not found (footer links only an accessibility statement) |
 | Montgomery | <https://montgomerytn.gov/trustee/tax-sale> | 2026-10-27 | not found (footer links only an accessibility statement) |
+| Blount | <https://blounttn.gov/2029/Delinquent-Property-Tax-Sale> | 2026-10-27 | No terms of use or disclaimer link found on the Clerk & Master tax sale pages (footer links only Site Map, Accessibility and similar); no copying or reuse restriction seen. |
+| Blount | <https://blounttn.gov/2030/Tax-Sale-FAQs> | 2026-10-27 | No terms of use or disclaimer link found on the Clerk & Master tax sale pages (footer links only Site Map, Accessibility and similar); no copying or reuse restriction seen. |
+| Blount | <https://blounttn.gov/2033/Properties-for-Sale> | 2026-10-27 | No terms of use or disclaimer link found on the Clerk & Master tax sale pages (footer links only Site Map, Accessibility and similar); no copying or reuse restriction seen. |
 
 ## Texas
 
@@ -918,6 +936,7 @@ State overview: <https://law.lis.virginia.gov/vacode/title58.1/chapter39/section
 | Fairfax | <https://www.fairfaxcounty.gov/taxes/pay/auction-real-property> | 2026-10-27 | Fairfax County 'Privacy Policy & Copyright' page shows a copyright notice ('Official site of the County of Fairfax, Virginia, (c) Copyright 2025') and link/accuracy disclaimers; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://www.fairfaxcounty.gov/topics/copyright-privacy)) |
 | Prince William | <https://pwcva.gov/department/office-county-attorney/foreclosure-auction-list> | 2026-10-27 | No terms of use page found; the county Privacy Policy's 'Legal Notice/Disclaimer' covers only external links and accuracy of linked information. No clause forbidding reuse, redistribution or commercial use found. ([terms](https://pwcva.gov/privacy-policy)) |
 | Loudoun | <https://www.loudoun.gov/1918/Tax-Sales> | 2026-10-27 | Footer 'Privacy Policy/Copyright Notices' page has only a link disclaimer and public-records note; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://www.loudoun.gov/904/Privacy-Practices-Security-Policy)) |
+| Chesterfield | <https://www.chesterfield.gov/3959/Delinquent-Billings-Late-Payments-and-Ju> | 2026-10-27 | No terms of use or copyright page found; the county Privacy Policy has only a disclaimer about the accuracy of linked sites. No clause forbidding reuse, redistribution or commercial use found. ([terms](https://www.chesterfield.gov/privacy)) |
 
 ## Washington
 

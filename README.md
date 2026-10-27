@@ -87,7 +87,7 @@ The button stays a disabled "Alerts open soon" until `paid.open` in `src/_data/s
 | Payment model | Fixed |
 | Cadence | Monthly |
 | Price | 19 |
-| Yearly upsell price | blank (no yearly option for now) |
+| Yearly upsell price | 190 (set Oct 27, 2026; shown at checkout once Embedded checkout is on) |
 
 Buttondown needs its paid subscriptions add-on for this and has no Stripe test mode; its docs say to test with a small real charge and refund it.
 
@@ -104,7 +104,7 @@ The script only prints text. It never calls Buttondown.
 
 `npm run alert-draft -- --teaser` prints a short email: the next three registration deadlines, sales in the next 7 days, and one paragraph on what Alerts subscribers got that week, with the checkout link. Send it to the free list in Buttondown. It's the main path from free to paid, so send it every week, the same day as Alerts.
 
-To show a yearly price, set it in Buttondown (Settings > Paid subscriptions > yearly upsell price), then add `"yearlyPrice": 190` (or whatever was set) to `paid` in `src/_data/site.json`. The pricing page and callouts show it only when that key exists.
+To show a yearly price, set it in Buttondown (Settings > Paid subscriptions > yearly upsell price), then add `"yearlyPrice": 190` (or whatever was set) to `paid` in `src/_data/site.json`. The pricing page and callouts show it only when that key exists. The yearly choice only appears at checkout with Buttondown's Embedded checkout switched on (same settings page); with it off, the buy link goes straight to a monthly-only Stripe page.
 
 ## Going live (done Oct 27, 2026)
 

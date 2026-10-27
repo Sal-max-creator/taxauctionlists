@@ -7,7 +7,7 @@ description: One email a week with every county tax sale in the next 30 days, re
 {%- set paid = site.paid -%}
 <section class="hero">
   <h1>We watch the county sites, you get one email a week</h1>
-  <p class="lede">Tax sale dates live on hundreds of county pages that change without notice. Alerts checks every county we cover each week and sends you what matters: deadlines first, every sale in the next 30 days, and what moved or was cancelled. ${{ paid.price }} a {{ paid.interval }}, cancel anytime.</p>
+  <p class="lede">Tax sale dates live on hundreds of county pages that change without notice. Alerts checks every county we cover each week and sends you what matters: deadlines first, every sale in the next 30 days, and what moved or was cancelled. ${{ paid.price }} a {{ paid.interval }}{% if paid.yearlyPrice %} or ${{ paid.yearlyPrice }} a year{% endif %}, cancel anytime.</p>
   <p>No course, no coaching, no upsell. Just the dates, checked against the county.</p>
   <p><a href="/sample-issue/">Read a full sample issue →</a></p>
 </section>
@@ -59,7 +59,7 @@ description: One email a week with every county tax sale in the next 30 days, re
   { q: "Where does the information come from?", a: "Only from the county's own pages and the legal notices counties must publish. Every sale links to its source and shows the day we last checked it. We never guess a date: if a county hasn't posted one, we say so." },
   { q: "How is this different from tax sale data services?", a: "Big data services sell research tools and parcel databases, often for $50 to $100 or more a month. Alerts is narrower and cheaper: a checked calendar of dates and deadlines, delivered weekly, with the county's own list linked or attached. Use it to decide which sales are worth your research time." },
   { q: "Which states do you cover?", a: "Today: " + (states | join(', ', 'name')) + ". We add counties every month and put subscribers' requests first." },
-  { q: "How do I pay?", a: "Checkout is run by Buttondown, the service that sends our emails, and payments go through Stripe. Your card details never touch this site." },
+  { q: "How do I pay?", a: "Checkout is run by Buttondown, the service that sends our emails, and payments go through Stripe. You pick monthly" + (" or $" + paid.yearlyPrice + " a year" if paid.yearlyPrice else "") + " there. Your card details never touch this site." },
   { q: "Can I cancel?", a: "Yes, anytime, from the link at the bottom of every email or by logging in to your subscription, where you can also change your card or see past payments." },
   { q: "Do I still get the free emails?", a: "Yes. Subscribing to Alerts signs you up for the free emails too." },
   { q: "Is this investment advice?", a: "No. Counties change dates, pull properties and make mistakes. Always confirm with the county before you register or bid." }

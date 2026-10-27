@@ -1,0 +1,201 @@
+{
+  "state": "UT",
+  "name": "Utah",
+  "sale_type": "deed",
+  "overview": "Utah counties sell real property with delinquent taxes at an annual tax sale that the county auditor conducts in May or June. A property is offered once its period of redemption is expiring, which comes after the lapse of four years from the date the taxes became delinquent. Until then, anyone may redeem the property on behalf of the record owner at any time before the tax sale. Each county sets its own date, format and payment rules within that window.",
+  "overview_sources": [
+    {
+      "url": "https://le.utah.gov/~2023/bills/sbillenr/SB0115.pdf",
+      "quote": "The county auditor shall conduct the tax sale in May or June of the current year.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://le.utah.gov/~2023/bills/sbillenr/SB0115.pdf",
+      "quote": "period of redemption is expiring in the nearest tax sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://le.utah.gov/~2021/bills/hbillint/HB0122.htm",
+      "quote": "following the lapse of four years from the date the property tax or tax notice charges became",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://le.utah.gov/~2021/bills/hbillint/HB0122.htm",
+      "quote": "Property may be redeemed on behalf of the record owner by any person at any time before the tax sale",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Cache",
+      "slug": "cache",
+      "office": "Cache County Auditor",
+      "phone": "not stated",
+      "address": "179 N Main, Logan, UT 84321",
+      "website": "https://cachecounty.gov/tax-administration/tax-sale.html",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "During the month of May or June, the Cache County Auditor holds an annual tax sale for delinquent properties",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's tax sale page says the 2026 sale was canceled on 5/26/26 because all properties were redeemed.",
+      "how_to_bid": "Properties not redeemed before the sale are offered at a public auction in the Cache County Multipurpose Room, 179 North Main, Logan, and sell to the highest bidder for cash or certified check. No bid below the outstanding balance is accepted. The county posts a bidder registration form; deposit and registration deadline are not stated.",
+      "sources": [
+        {
+          "url": "https://cachecounty.gov/tax-administration/tax-sale.html",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found; footer shows '© 2026 Cache County' and the privacy policy has no copying or reuse restriction.",
+          "terms_url": "https://cachecounty.gov/privacy.html"
+        },
+        {
+          "url": "https://www.cachecounty.gov/tax-administration/tax-sale/tax-sale-general-information.html",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no reuse restriction found.",
+          "terms_url": "https://cachecounty.gov/privacy.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cachecounty.gov/tax-administration/tax-sale.html",
+          "quote": "2026 TAX SALE CANCELED 5/26/26"
+        },
+        {
+          "url": "https://www.cachecounty.gov/tax-administration/tax-sale/tax-sale-general-information.html",
+          "quote": "the Cache County Multipurpose Room, 179 North Main, Logan, Utah"
+        }
+      ],
+      "notes": {
+        "format_note": "'in person' is inferred from the page naming a room in Logan as the location of the public auction; the page does not say whether online bidding is offered."
+      }
+    },
+    {
+      "county": "Davis",
+      "slug": "davis",
+      "office": "Davis County Controller, Tax Administration (sale payments collected by the Davis County Treasurer)",
+      "phone": "801-451-3329 (tax sale questions)",
+      "address": "Davis County Administration Building, 61 South Main Street, Farmington, UT 84025",
+      "website": "https://www.daviscountyutah.gov/controller/tax-administration/delinquent-tax-sale",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The sale is held around the middle of May of the current year.",
+      "sales": [
+        {
+          "date": "2027-05-12",
+          "time": "10:00 AM; pre-registration starts at 9:00 AM",
+          "label": "2027 Davis County Delinquent Tax Sale",
+          "deposit": "not stated",
+          "registration_deadline": "Pre-registration starts at 9:00 am on sale day",
+          "note": "Location per the county page: Davis County Administration Building, Room 303, 61 South Main Street, Farmington, UT 84025. The county's tax sale FAQ names room 131 instead; check before attending. Property listings are available 30 days before the sale.",
+          "source_url": "https://www.daviscountyutah.gov/controller/tax-administration/delinquent-tax-sale",
+          "quote": "May 12th, 2027 @ 10:00 am - Questions 801-451-3329"
+        }
+      ],
+      "next_sale_note": "May 12, 2027 at 10:00 am, in person in Farmington.",
+      "how_to_bid": "Register in person on sale day (pre-registration starts at 9:00 am) with a government-issued photo ID to receive a bidder number. Bidding is open auction to the highest bidder; the opening bid includes taxes, penalties, interest and cost of sale. The Treasurer's Department collects the successful bid and recording fee immediately after the auction closes; the FAQ lists cash, business checks or personal checks and says no financing is offered.",
+      "sources": [
+        {
+          "url": "https://www.daviscountyutah.gov/controller/tax-administration/delinquent-tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found; site shows 'Copyright © Davis County Government. All Rights Reserved' and the privacy policy has no copying or reuse restriction.",
+          "terms_url": "https://www.daviscountyutah.gov/privacy-policy"
+        },
+        {
+          "url": "https://www.daviscountyutah.gov/controller/tax-administration-group/tax-sale/tax-sale-faq",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no reuse restriction found.",
+          "terms_url": "https://www.daviscountyutah.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.daviscountyutah.gov/controller/tax-administration/delinquent-tax-sale",
+          "quote": "Pre-registration starts at 9:00 am."
+        },
+        {
+          "url": "https://www.daviscountyutah.gov/controller/tax-administration/delinquent-tax-sale",
+          "quote": "Properties may be redeemed up to the time of sale."
+        }
+      ]
+    },
+    {
+      "county": "Utah",
+      "slug": "utah",
+      "office": "Utah County Auditor",
+      "phone": "801-851-8110",
+      "address": "100 E. Center St., Suite 3600, Provo, UT 84606",
+      "website": "https://auditor.utahcounty.gov/may-tax-sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "PublicSurplus",
+        "url": "https://www.publicsurplus.com/sms/utahcore,ut/register/user"
+      },
+      "schedule_rule": "Utah County's sale usually happens on the third Thursday of May.",
+      "sales": [
+        {
+          "date": "2027-05-20",
+          "end_date": "2027-05-27",
+          "time": "Bidding opens 10:00 a.m. May 20; auctions begin closing at 12:00 p.m. May 27 (staggered close times)",
+          "label": "Annual May tax sale (online, PublicSurplus)",
+          "deposit": "not stated",
+          "registration_deadline": "Register to bid on PublicSurplus.com (linked from the county page); no deadline stated",
+          "list_url": "https://auditor.utahcounty.gov/may-tax-sale/property-list",
+          "list_note": "County page says the property list goes live Thursday, April 22, 2027; the auction list is posted to PublicSurplus.com Friday, May 14, 2027.",
+          "note": "Redemption deadline is 9:59 a.m. on May 20, 2027, per the county page. Bidding closes Thursday, May 27, 2027.",
+          "source_url": "https://auditor.utahcounty.gov/may-tax-sale",
+          "quote": "Thursday, May 20, 2027 — Bidding Opens"
+        }
+      ],
+      "next_sale_note": "Bidding runs May 20 to May 27, 2027 on PublicSurplus.com.",
+      "how_to_bid": "Register on PublicSurplus.com through the county's Register to Bid link and bid online. The winning bidder pays the full final bid through the online auction vendor, usually by wire transfer; the county offers no financing. Winners receive a recorded tax deed after the Utah County Commission ratifies the sale.",
+      "sources": [
+        {
+          "url": "https://auditor.utahcounty.gov/may-tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "Utah County Terms of Use: 'Anyone may view, copy or distribute information found within these web pages ... for personal or informational use without owing an obligation to the County ... if the documents are not modified in any respect.' No prohibition on reuse found.",
+          "terms_url": "https://www.utahcounty.gov/terms-of-use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://auditor.utahcounty.gov/may-tax-sale",
+          "quote": "Thursday, May 27, 2027 — Bidding Closes"
+        },
+        {
+          "url": "https://auditor.utahcounty.gov/may-tax-sale",
+          "quote": "Thursday, April 22, 2027 — Property List Live"
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Washington County Auditor",
+      "phone": "(435) 301-7220",
+      "address": "111 East Tabernacle St., St. George, UT 84770",
+      "website": "https://www.washco.utah.gov/departments/auditor/tax-sale/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county page says the next tax sale will be in May of 2027; no date, time, place or format is posted yet.",
+      "how_to_bid": "not stated on the county's tax sale page",
+      "sources": [
+        {
+          "url": "https://www.washco.utah.gov/departments/auditor/tax-sale/",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found; footer shows '© 2004-2026 Washington County' and 'All Rights Reserved'; the privacy policy has no copying or reuse restriction.",
+          "terms_url": "https://www.washco.utah.gov/services-resources/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.washco.utah.gov/departments/auditor/tax-sale/",
+          "quote": "The next Tax Sale will be in May of 2027."
+        }
+      ]
+    }
+  ]
+}

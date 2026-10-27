@@ -1,0 +1,86 @@
+{
+  "state": "OK",
+  "name": "Oklahoma",
+  "sale_type": "deed",
+  "overview": "In Oklahoma, each county treasurer sells real estate with long-delinquent property taxes at an annual resale, which state law sets for the second Monday of June in every county. The real estate is sold at public auction to the highest bidder for cash or certified funds, and the treasurer may choose to hold the June resale as an online auction. Property bid off in the county's name is deeded by the county treasurer to the board of county commissioners. Owners who redeem delinquent taxes pay interest at the lawful rate set in Section 2913 of the tax code; minors and incapacitated persons may redeem within one year after their disability ends, with interest and penalty capped at ten percent a year.",
+  "overview_sources": [
+    {
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF",
+      "quote": "which shall be held on the second Monday of June each year in each county",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF",
+      "quote": "The real estate shall be sold at public auction to the highest bidder for cash or certified funds.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF",
+      "quote": "The county treasurer may choose to hold the June resale through an online auction",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF",
+      "quote": "the county treasurer shall issue a deed therefor to the board of county commissioners",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF",
+      "quote": "including interest at the lawful rate as provided in Section 2913 of this title",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF",
+      "quote": "with interest and penalty at not more than ten percent (10%) per annum",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Oklahoma",
+      "slug": "oklahoma",
+      "office": "Oklahoma County Treasurer",
+      "phone": "405-713-1300",
+      "address": "320 Robert S. Kerr Avenue, #307, Oklahoma City, OK 73102",
+      "website": "https://oklahomacounty.org/Treasurer",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Publication for the Resale to be held the 2nd Monday in June.",
+      "sales": [],
+      "next_sale_note": "2027 resale date not yet posted. The 2026 resale began June 8, 2026 at 8 a.m. at the Oklahoma County Election Board, 4201 N. Lincoln Blvd., Oklahoma City.",
+      "how_to_bid": "Based on the 2026 notice: pre-register at the County Treasurer's Office in the weeks before the sale (registration also continues at the sale location from 7:30 a.m. on sale day). Bidders must be 18 or older. Payment is due at the time of the sale; the 2026 notice required cash at the sale and set earlier cutoffs for wires and cashier's checks. Bids rise in minimum $100 increments.",
+      "sources": [
+        {
+          "url": "https://oklahomacounty.org/Treasurer",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use page has no copying, reuse or redistribution restriction (it covers privacy of submitted personal data only).",
+          "terms_url": "https://oklahomacounty.org/Terms-of-Use"
+        },
+        {
+          "url": "https://docs.oklahomacounty.org/treasurer/ImportantDates.asp",
+          "read_on": "2026-10-27",
+          "terms": "Same county; no reuse restriction found.",
+          "terms_url": "https://oklahomacounty.org/Terms-of-Use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oklahomacounty.org/Treasurer",
+          "quote": "THE RESALE AUCTION WILL COMMENCE ON June 8, 2026 at 8 am."
+        },
+        {
+          "url": "https://oklahomacounty.org/Treasurer",
+          "quote": "Sale will be held at Oklahoma County Election Board, 4201 N. Lincoln Blvd., Oklahoma City, Oklahoma."
+        },
+        {
+          "url": "https://oklahomacounty.org/Treasurer",
+          "quote": "YOU MUST HAVE CASH AT THE TIME OF THE SALE. YOU CAN NOT LEAVE TO GO GET CASH."
+        }
+      ],
+      "notes": {
+        "list_note": "The Treasurer posts an active resale list at https://docs.oklahomacounty.org/treasurer/ResaleActiveList.asp (county site)."
+      }
+    }
+  ]
+}

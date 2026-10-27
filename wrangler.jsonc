@@ -1,14 +1,29 @@
-// Cloudflare Workers Builds config: serves the Eleventy output in _site as static assets.
+// Cloudflare Workers Builds config: serves the Eleventy output in _site as static assets,
+// and runs worker/index.js only for /api/* (the signup form).
 // The Worker name must match the Cloudflare project name.
+// The Buttondown API key is a Worker secret named BUTTONDOWN_API_KEY, set in the Cloudflare dashboard
+// (Settings > Variables and Secrets). It is not in this file and deploys keep it.
 {
   "name": "taxauctionlists",
+  "main": "worker/index.js",
   "compatibility_date": "2025-09-01",
   "build": {
     "command": "npm run build"
   },
   "assets": {
     "directory": "./_site",
+    "binding": "ASSETS",
     "not_found_handling": "404-page",
-    "html_handling": "auto-trailing-slash"
-  }
+    "html_handling": "auto-trailing-slash",
+    "run_worker_first": ["/api/*"]
+  },
+  // At most 5 signup attempts per visitor per minute, counted in each Cloudflare location.
+  "ratelimits": [
+    {
+      "name": "SIGNUP_LIMITER",
+      "namespace_id": "4207",
+      "simple": { "limit": 5, "period": 60 }
+    }
+  ],
+  "observability": { "enabled": true }
 }

@@ -22,5 +22,7 @@ jobs:
         run: npm run validate
       - name: Check the terms log is up to date
         run: npm run terms-log && git diff --exit-code SOURCES.md
+      - name: Test the signup Worker
+        run: npm run test:worker
       - name: Build site
         run: npm run build

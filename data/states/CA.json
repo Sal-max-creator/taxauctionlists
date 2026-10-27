@@ -547,6 +547,52 @@
           "quote": "ALL SALES ARE FINAL."
         }
       ]
+    },
+    {
+      "county": "Santa Cruz",
+      "slug": "santa-cruz",
+      "office": "Santa Cruz County Treasurer-Tax Collector",
+      "phone": "831-454-2510",
+      "address": "701 Ocean Street, Rm. 150, Santa Cruz, CA 95060",
+      "website": "https://www.santacruzcountyca.gov/Departments/TaxCollector/PropertyTaxSale.aspx",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/"
+      },
+      "schedule_rule": "In Santa Cruz County auctions are held annually.",
+      "sales": [],
+      "next_sale_note": "No upcoming auction date posted; the tax sale page refers to a June 2026 sale of tax-defaulted property, and no 2027 date is posted yet.",
+      "how_to_bid": "Auctions are held online through Bid4Assets. Bidders must register with Bid4Assets and submit a pre-bid deposit within the posted deadlines (deposit amount and deadlines not stated on the county pages). Proxy bids can also be faxed on an Offline Bid Form, which Bid4Assets must receive by the time the online auction opens. Settlement terms are posted with each auction. Properties are sold as is and all sales are final.",
+      "sources": [
+        {
+          "url": "https://www.santacruzcountyca.gov/Departments/TaxCollector/PropertyTaxSale.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use: 'All contents of the Santa Cruz County Internet Web Site are: © 2022 County of Santa Cruz' and 'All rights reserved.'; 'Any rights not expressly granted herein are reserved.' No clause banning reuse, redistribution or commercial use of the site's information. Footer: '© 2026 County of Santa Cruz'.",
+          "terms_url": "https://www.santacruzcountyca.gov/Home/TermsofUse.aspx"
+        },
+        {
+          "url": "https://santacruzcountyca.gov/Departments/TaxCollector/TaxCollectionDivision/PropertyTaxSale/PublicAuctionofTaxDefaultedPropertiesFAQ.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Same site and Terms of Use.",
+          "terms_url": "https://www.santacruzcountyca.gov/Home/TermsofUse.aspx"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://santacruzcountyca.gov/Departments/TaxCollector/TaxCollectionDivision/PropertyTaxSale/PublicAuctionofTaxDefaultedPropertiesFAQ.aspx",
+          "quote": "In Santa Cruz County auctions are held annually."
+        },
+        {
+          "url": "https://santacruzcountyca.gov/Departments/TaxCollector/TaxCollectionDivision/PropertyTaxSale/PublicAuctionofTaxDefaultedPropertiesFAQ.aspx",
+          "quote": "must register with Bid4Assets and submit a pre-bid deposit within the posted deadlines"
+        },
+        {
+          "url": "https://santacruzcountyca.gov/Departments/TaxCollector/TaxCollectionDivision/PropertyTaxSale/PublicAuctionofTaxDefaultedPropertiesFAQ.aspx",
+          "quote": "ALL SALES ARE FINAL."
+        }
+      ]
     }
   ]
 }

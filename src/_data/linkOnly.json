@@ -28,5 +28,11 @@
     "url": "https://www.govease.com/",
     "why": "Private auction platform. Only privacy and cookie links found, so we link out and never copy parcel data.",
     "checked": "2026-10-26"
+  },
+  {
+    "name": "West Virginia State Auditor's Office",
+    "url": "https://www.wvsao.gov/CountyCollections/Default",
+    "why": "Its terms say electronic copies of data from the site are for individual use only and may not be resold or offered for payment without a contract. We link to it and never copy from it.",
+    "checked": "2026-10-27"
   }
 ]

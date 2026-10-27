@@ -1,6 +1,6 @@
 # TaxAuctionLists.com
 
-A free calendar of county tax lien and tax deed sales. Every sale date links to the county page it came from and shows when it was last checked. Private build: the site sets `noindex` and `robots.txt` blocks all crawlers until `public` is turned on in `src/_data/site.json`.
+A free calendar of county tax lien and tax deed sales. Every sale date links to the county page it came from and shows when it was last checked. Live at https://taxauctionlists.com since Oct 27, 2026 (`public` is on in `src/_data/site.json`). Turning `public` off again restores `noindex` and makes `robots.txt` block all crawlers.
 
 ## Run it
 
@@ -106,7 +106,7 @@ The script only prints text. It never calls Buttondown.
 
 To show a yearly price, set it in Buttondown (Settings > Paid subscriptions > yearly upsell price), then add `"yearlyPrice": 190` (or whatever was set) to `paid` in `src/_data/site.json`. The pricing page and callouts show it only when that key exists.
 
-## Going live (needs Sal's yes)
+## Going live (done Oct 27, 2026)
 
 Everything the public site needs is built and tested with `public` on: canonical links to taxauctionlists.com on every page (so the workers.dev copy doesn't compete in search), `sitemap.xml`, breadcrumb and FAQ structured data, and a `robots.txt` that allows crawling and lists the sitemap. Going live is one small change:
 

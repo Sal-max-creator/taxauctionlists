@@ -47,8 +47,20 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": "The auction is conducted on the first Tuesday of each month at Bayou City Event Center, between 10:00 am to 4:00 pm.",
-      "sales": [],
-      "next_sale_note": "No specific dates posted; monthly first-Tuesday rule only.",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:00 AM to 4:00 PM, Bayou City Event Center, 9401 Knight Road, Houston (county general schedule)",
+          "label": "Delinquent tax sale (constable sales, all precincts)",
+          "deposit": "None stated; pay in full at the sale, cash or certified checks only",
+          "registration_deadline": "Register with the Harris County Tax Office online any time, or in person on sale day from 8:30 AM",
+          "source_url": "https://www.hctax.net/Property/listings/taxsalelisting",
+          "quote": "Harris County Delinquent Tax Sale Property Listing Sale Date: November 03, 2026",
+          "list_url": "https://www.hctax.net/Property/listings/taxsalelisting",
+          "list_note": "County listing; about a fifth of the entries were already marked Cancelled on Oct 27."
+        }
+      ],
+      "next_sale_note": "December 1, 2026 list not posted yet; the county states only the first-Tuesday rule for later sales.",
       "how_to_bid": "Register (renewed annually) online or in person on sale day from 8:30 am, with government photo ID and a signed statement that you owe no delinquent taxes. Sales are live at Bayou City Event Center, 9401 Knight Road, Houston, run by the eight constable precincts; the constable accepts only cash or cashier's checks.",
       "sources": [
         {
@@ -62,6 +74,12 @@
           "read_on": "2026-10-27",
           "terms": "not found",
           "terms_url": null
+        },
+        {
+          "url": "https://www.hctax.net/Property/listings/taxsalelisting",
+          "read_on": "2026-10-27",
+          "terms": "Listing disclaimer: the list may not show all properties, sales may be cancelled at any time, properties are sold as is with no warranty.",
+          "terms_url": "https://www.hctax.net/Property/listings/taxsalelisting"
         }
       ],
       "evidence": [
@@ -264,8 +282,31 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": "THE CONSTABLE'S SALE AT APPROXIMATELY 10 a.m. IN THE MORNING ON THE FIRST TUESDAY OF THE MONTH.",
-      "sales": [],
-      "next_sale_note": "No specific dates found on the pages read; the constable page links a separate property-list-by-sale-date page that was not checked.",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "About 10:00 AM (constable page); location not stated on the county pages",
+          "deposit": "None stated; cashier's checks or money orders only, exact certified funds within one hour after the sale",
+          "registration_deadline": "Register before 10:00 AM on sale day (Constable Precinct 3 page)",
+          "label": "Constable Precinct 3 delinquent tax sale",
+          "source_url": "https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/november-3--2026.html",
+          "quote": "NOVEMBER 3, 2026",
+          "list_url": "https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/november-3--2026.html",
+          "list_note": "County list; many entries marked Withdrawn."
+        },
+        {
+          "date": "2026-12-01",
+          "time": "About 10:00 AM (constable page); location not stated on the county pages",
+          "deposit": "None stated; cashier's checks or money orders only, exact certified funds within one hour after the sale",
+          "registration_deadline": "Register before 10:00 AM on sale day (Constable Precinct 3 page)",
+          "label": "Constable Precinct 3 delinquent tax sale",
+          "source_url": "https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/december-1--2026.html",
+          "quote": "DECEMBER 1, 2026",
+          "list_url": "https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/december-1--2026.html",
+          "list_note": "County list; writs of execution still TBD."
+        }
+      ],
+      "next_sale_note": "Dated monthly lists are posted by Constable Precinct 3; the sale location is not stated on the county pages we read.",
       "how_to_bid": "Get a Tax Sale Bidder Authorization (written statement) and complete the Bidder Registration form, then bring both with ID on sale day and register before 10 a.m. Pay with cashier's checks or money orders in the exact amount within one hour after the sale.",
       "sources": [
         {
@@ -285,6 +326,18 @@
           "read_on": "2026-10-27",
           "terms": "same as above",
           "terms_url": "https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html"
+        },
+        {
+          "url": "https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/november-3--2026.html",
+          "read_on": "2026-10-27",
+          "terms": "Tarrant County provides the website information as a public service; official records should be consulted.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/december-1--2026.html",
+          "read_on": "2026-10-27",
+          "terms": "Tarrant County provides the website information as a public service; official records should be consulted.",
+          "terms_url": null
         }
       ],
       "evidence": [

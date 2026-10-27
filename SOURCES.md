@@ -178,6 +178,7 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 |---|---|---|---|
 | Harris | <https://www.hctax.net/Property/TaxSales> | 2026-10-27 | No reuse restriction found. On-page 'Disclaimers and Cautions' says info is published for general information purposes only, with no warranty on accuracy/completeness of the listing. |
 | Harris | <https://www.hctax.net/About/Announcements/Tax Sale FAQs.pdf> | 2026-10-27 | not found |
+| Harris | <https://www.hctax.net/Property/listings/taxsalelisting> | 2026-10-27 | Listing disclaimer: the list may not show all properties, sales may be cancelled at any time, properties are sold as is with no warranty. ([terms](https://www.hctax.net/Property/listings/taxsalelisting)) |
 | Dallas | <https://www.dallascounty.org/departments/sheriff/writ-enforcement-section/> | 2026-10-27 | No reuse terms found; footer/privacy policy shows '© 2026. Dallas County. All rights reserved.' ([terms](https://www.dallascounty.org/about-us/privacy-policy/)) |
 | Dallas | <https://taxoffice.dallascounty.org/hc/en-us/articles/52851449825691-Sheriff-s-Sales> | 2026-10-27 | not found; footer '© . Dallas County. All rights reserved.' |
 | Dallas | <https://taxoffice.dallascounty.org/hc/en-us/articles/52332852588571-Sheriff-Sales-Tax-Foreclosure-Resales> | 2026-10-27 | not found |
@@ -187,3 +188,5 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 | Tarrant | <https://www.tarrantcountytx.gov/en/tax/property-tax/public-auctions.html> | 2026-10-27 | No reuse terms found; privacy policy shows 'Copyright 2001-2026 Tarrant County, TX'. ([terms](https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html)) |
 | Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3.html> | 2026-10-27 | same as above ([terms](https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html)) |
 | Tarrant | <https://www.tarrantcountytx.gov/content/main/en/constables/constable-3/delinquent-tax-sales.html> | 2026-10-27 | same as above ([terms](https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html)) |
+| Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/november-3--2026.html> | 2026-10-27 | Tarrant County provides the website information as a public service; official records should be consulted. |
+| Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/december-1--2026.html> | 2026-10-27 | Tarrant County provides the website information as a public service; official records should be consulted. |

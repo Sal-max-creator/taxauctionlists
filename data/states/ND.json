@@ -1,0 +1,111 @@
+{
+  "state": "ND",
+  "name": "North Dakota",
+  "sale_type": "deed",
+  "overview": "North Dakota does not sell tax liens to investors. When property taxes have been delinquent for two or more years, the county auditor gives notice of foreclosure of the tax lien by June 1, and the lien is foreclosed on October 1. The county then takes a tax deed and sells the property at its own public auction, held each year in November in the counties covered here, with each parcel sold separately to the highest bidder but not below a minimum sale price. Under state law, some cities have the first option to buy, so parcels on a county's list may be gone by sale day. In Burleigh County the former owner can still stop the sale by paying everything owed before the auction starts.",
+  "overview_sources": [
+    {
+      "url": "https://ndlegis.gov/cencode/t57c28.pdf",
+      "quote": "On or before June first in each year, the county auditor shall give notice of foreclosure of tax lien for all property for which two or more years have passed since the tax became due.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://ndlegis.gov/cencode/t57c28.pdf",
+      "quote": "The tax lien foreclosure date is October first after the service of the notice of foreclosure.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.burleigh.gov/media/wflgfyqw/delinquent-tax-2026-10-31.pdf",
+      "quote": "EACH PARCEL of real estate will be offered separately and sold to the highest bidder thereof, but not for a sum less than the minimum sale price.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.burleigh.gov/media/wflgfyqw/delinquent-tax-2026-10-31.pdf",
+      "quote": "ACCORDING TO NDCC 57-28-19, some Cities have the first option to purchase property; therefore, some parcels may not be listed at sale time.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Burleigh",
+      "slug": "burleigh",
+      "office": "Burleigh County Finance/Treasurer (Auditor/Treasurer's Office)",
+      "phone": "701-222-6718",
+      "address": "221 N 5th St, Bismarck, ND 58501",
+      "website": "https://www.burleigh.gov/departments/financetreasurer/delinquent-tax-property/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "3rd Tuesday of November - Annual sale is held.",
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "10:00 AM",
+          "label": "Annual tax-deeded property auction",
+          "deposit": "Cash for each parcel bought, plus a $20.00 recording fee (per the county's notice)",
+          "registration_deadline": null,
+          "list_url": "https://www.burleigh.gov/media/wflgfyqw/delinquent-tax-2026-10-31.pdf",
+          "list_note": "The county's notice lists each parcel with its minimum sale amount.",
+          "note": "Held at the Office of the County Auditor. The owner can still redeem by paying everything owed before the sale starts, so parcels can drop off the list.",
+          "source_url": "https://www.burleigh.gov/media/wflgfyqw/delinquent-tax-2026-10-31.pdf",
+          "quote": "auction at the Office of the County Auditor in said County on Tuesday, November 17, 2026 beginning at 10:00 am."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Bid in person at the Burleigh County Auditor/Treasurer's Office in Bismarck. Each parcel is sold separately to the highest bidder, at or above its minimum sale amount, and the buyer pays cash plus a $20 recording fee. Property is sold without warranty.",
+      "sources": [
+        {
+          "url": "https://www.burleigh.gov/departments/financetreasurer/delinquent-tax-property/",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer page; the footer links only a Privacy Policy, which covers visitor data and says nothing about reusing site content. Nothing forbids republishing.",
+          "terms_url": "https://www.burleigh.gov/government/about/privacy-policy/"
+        },
+        {
+          "url": "https://www.burleigh.gov/media/wflgfyqw/delinquent-tax-2026-10-31.pdf",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer page; the footer links only a Privacy Policy, which covers visitor data and says nothing about reusing site content. Nothing forbids republishing.",
+          "terms_url": "https://www.burleigh.gov/government/about/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.burleigh.gov/media/wflgfyqw/delinquent-tax-2026-10-31.pdf",
+          "quote": "The purchaser will be required to pay cash for all parcels of real estate sold plus $20.00 as and for the filing fee with the County Recorder."
+        },
+        {
+          "url": "https://www.burleigh.gov/departments/financetreasurer/delinquent-tax-property/",
+          "quote": "Payments may be made to the Burleigh County Auditor/Treasurer's Office before the scheduled start time of the sale on the 3rd Tuesday of November."
+        }
+      ]
+    },
+    {
+      "county": "Ward",
+      "slug": "ward",
+      "office": "Ward County Auditor / Treasurer's Office",
+      "phone": "701-857-6420",
+      "address": "225 Third Street SE, Minot, ND 58701",
+      "website": "https://www.co.ward.nd.us/635/Tax-Foreclosure-Properties",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Ward County conducts its annual tax foreclosure property auction on the third Tuesday in November.",
+      "sales": [],
+      "next_sale_note": "No 2026 date, time or place was posted when we checked. The county says auction details and listings will be posted on its page when available.",
+      "how_to_bid": "The county page doesn't give bidding steps yet. Watch it for the auction notice and property list, or call the Auditor / Treasurer's Office.",
+      "sources": [
+        {
+          "url": "https://www.co.ward.nd.us/635/Tax-Foreclosure-Properties",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: 'All content © 2006-2026 Ward County, ND and its representatives. All rights reserved.' No terms forbid republishing sale dates.",
+          "terms_url": "https://www.co.ward.nd.us/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.ward.nd.us/635/Tax-Foreclosure-Properties",
+          "quote": "Current auction information and property listings will be posted below when available."
+        }
+      ]
+    }
+  ]
+}

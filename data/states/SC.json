@@ -319,6 +319,85 @@
           "quote": "The starting bid will include the current year’s (2026) tax."
         }
       ]
+    },
+    {
+      "county": "York",
+      "slug": "york",
+      "office": "York County Tax Collector's Office (Tax Collection)",
+      "phone": "(803) 909-7272",
+      "address": "1070 Heckle Blvd., Ste 1100, Rock Hill, SC 29732",
+      "website": "https://www.yorkcountygov.com/216/Tax-Collection",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's 2026 Tax Sale Information sheet shows the 2026 sale was held October 12, 2026 at the York County Fire Training Center, 2500 McFarland Rd, York.",
+      "how_to_bid": "You must pre-register to bid; there is no registration fee (for 2026, pre-registration ran September 18 through October 9). It is an open bid sale: bidders use numbered bidder cards. Terms of sale are certified funds, business checks or cash, with no personal checks; all bids must be paid in full on the day of the sale or there is a $500 fine per bid. The owner may redeem within twelve months from the day of the sale. The property list is posted on the Tax Collection Department webpage and advertised in The Herald.",
+      "sources": [
+        {
+          "url": "https://www.yorkcountygov.com/DocumentCenter/View/3590/2026-Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 York County, SC and its representatives. All rights reserved.' No statement on reuse or redistribution; no ban on reusing public information found.",
+          "terms_url": "https://www.yorkcountysc.gov/copyright"
+        },
+        {
+          "url": "https://www.yorkcountysc.gov/789/Tax-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 York County, SC and its representatives. All rights reserved.' No statement on reuse or redistribution; no ban on reusing public information found.",
+          "terms_url": "https://www.yorkcountysc.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.yorkcountygov.com/DocumentCenter/View/3590/2026-Tax-Sale-Information",
+          "quote": "Held on: October 12, 2026"
+        },
+        {
+          "url": "https://www.yorkcountygov.com/DocumentCenter/View/3590/2026-Tax-Sale-Information",
+          "quote": "This is an open bid sale, and bidders must use their numbered bidder cards in order to place bids."
+        },
+        {
+          "url": "https://www.yorkcountygov.com/DocumentCenter/View/3590/2026-Tax-Sale-Information",
+          "quote": "All bids must be paid in full on the day of the sale, or there will be a $500 fine per bid for failure to pay."
+        }
+      ]
+    },
+    {
+      "county": "Anderson",
+      "slug": "anderson",
+      "office": "Anderson County Treasurer",
+      "phone": "(864) 260-4033",
+      "address": "401 East River Street, Anderson, SC 29624 (mailing: PO Box 8002, Anderson, SC 29622)",
+      "website": "https://www.andersoncountysc.org/http-anderson-postingpro-net-agreement-aspxstscpy2021cid4acceptscookies1/",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": {
+        "name": "HiBid (online bidder registration)",
+        "url": "https://andersoncountysc.hibid.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's tax sale page shows the 2026 sale was held Monday, October 19, 2026 at the Civic Center of Anderson, 3027 Martin Luther King Jr. Blvd.",
+      "how_to_bid": "The Treasurer's tax sale page posts online bidder registration, property listings with opening bids, property maps, a bidder information sheet and an FAQ (for 2026 these went up September 30). Start time, deposit, registration deadline and payment terms are not stated on the page read; check the county's bidder information sheet or call the Treasurer.",
+      "sources": [
+        {
+          "url": "https://www.andersoncountysc.org/http-anderson-postingpro-net-agreement-aspxstscpy2021cid4acceptscookies1/",
+          "read_on": "2026-10-27",
+          "terms": "Privacy policy covers personal data only (the county 'does not sell, rent or lease its customer lists to third parties'); footer '© Anderson County, 2026'. No disclaimer, terms or reuse restriction found.",
+          "terms_url": "https://www.andersoncountysc.org/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.andersoncountysc.org/http-anderson-postingpro-net-agreement-aspxstscpy2021cid4acceptscookies1/",
+          "quote": "The Anderson County Tax Sale will be held on Monday, October 19, 2026"
+        },
+        {
+          "url": "https://www.andersoncountysc.org/http-anderson-postingpro-net-agreement-aspxstscpy2021cid4acceptscookies1/",
+          "quote": "Beginning September 30, 2026, information concerning online bidder registration, property listings"
+        }
+      ]
     }
   ]
 }

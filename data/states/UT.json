@@ -27,6 +27,38 @@
   ],
   "counties": [
     {
+      "county": "Box Elder",
+      "slug": "box-elder",
+      "office": "Box Elder County Auditor",
+      "phone": "435-734-3388 (Auditor's Office, business hours)",
+      "address": "1 South Main Street, Brigham City, UT 84302",
+      "website": "https://www.boxeldercountyut.gov/273/Tax-Sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "PublicSurplus",
+        "url": "https://www.publicsurplus.com/sms/all,ut/browse/search?posting=p&slth=&page=4&sortBy=&sortDesc=N&keyWord=&catId=15&endHours=-1&startHours=-1&lowerPrice=0&higherPrice=0&milesLocation=20&zipCode=84302&region=all%2Cut"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page says the 2026 sale was held May 21, 2026, online on Public Surplus, with bidding starting at 10 a.m.",
+      "how_to_bid": "The sale runs on the Public Surplus online auction site. Bidding starts at the total of taxes, interest, penalties and administrative costs owed on the parcel. Listings are posted on the county website six weeks ahead and in the Box Elder News Journal four weeks before the sale. Bidders under 18, bidders who owe taxes to the county, or who break the sale rules may be disqualified and their bids voided. Registration steps, deposit and payment method are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.boxeldercountyut.gov/273/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page reads 'All content © 2006-2026 Box Elder County, UT and its representatives. All rights reserved.' No other statement on copying, reuse or redistribution found; no separate terms or disclaimer link in the footer.",
+          "terms_url": "https://www.boxeldercountyut.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.boxeldercountyut.gov/273/Tax-Sale",
+          "quote": "The Box Elder County Tax Sale for 2026 was held on May 21, 2026."
+        }
+      ]
+    },
+    {
       "county": "Cache",
       "slug": "cache",
       "office": "Cache County Auditor",
@@ -115,6 +147,74 @@
         {
           "url": "https://www.daviscountyutah.gov/controller/tax-administration/delinquent-tax-sale",
           "quote": "Properties may be redeemed up to the time of sale."
+        }
+      ]
+    },
+    {
+      "county": "Iron",
+      "slug": "iron",
+      "office": "Iron County Auditor",
+      "phone": "435-477-8330 (listed in the office hours section; the site footer lists (435) 477-8340)",
+      "address": "68 S 100 E, Parowan, UT 84761 (PO Box 457)",
+      "website": "https://ironcountyut.gov/auditor/tax-sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "PublicSurplus",
+        "url": "https://www.publicsurplus.com/sms/browse/home"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page still shows the 2026 sale, which began Thursday, May 28, 2026 at 10:00 AM online on Public Surplus (past).",
+      "how_to_bid": "Online only, through Public Surplus; register there. For the 2026 sale a refundable credit card deposit was charged at your first bid on each property ($50 for properties with a tax value of $10,000 or less, $100 above that); the deposit is not applied to the price. Winning bidders received emailed instructions and paid in full by wire transfer through Public Surplus within 5 business days; tax deeds are recorded and mailed in about 4 to 6 weeks. Property can be redeemed until the sale starts. The county advises calling the office to confirm wire details before sending money.",
+      "sources": [
+        {
+          "url": "https://ironcountyut.gov/auditor/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "Footer shows '© 2026 Iron County. All Rights Reserved.' The footer's Privacy Policy (PDF) covers personal information and public records only; nothing on copying or reuse of site content. No separate terms or disclaimer link in the footer.",
+          "terms_url": "https://ironcountyut.gov/files/it/privacy-policy.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://ironcountyut.gov/auditor/tax-sale",
+          "quote": "Thursday, May 28, 2026 at 10:00 AM (America/Denver)"
+        },
+        {
+          "url": "https://ironcountyut.gov/auditor/tax-sale",
+          "quote": "Tier 1 requires a $50 deposit."
+        }
+      ]
+    },
+    {
+      "county": "Summit",
+      "slug": "summit",
+      "office": "Summit County Auditor",
+      "phone": "435-336-3200",
+      "address": "60 N Main Street, P.O. Box 128, Coalville, UT 84017",
+      "website": "https://www.summitcountyutah.gov/255/Tax-Sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "PublicSurplus",
+        "url": "https://www.publicsurplus.com/sms/summitcore,ut/list/current?orgid=973661"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page still shows the 2026 sale (May 21, 2026, 10:00 a.m. to 3:00 p.m., online, past).",
+      "how_to_bid": "Held online; bidders register through Public Surplus (linked from the county page). An anchor location was set at 60 N. Main Street, Coalville (Conference Room 1). Properties not redeemed by March 15 after four years of delinquency go into the annual sale; the list is posted online about four weeks before the sale and advertised in the Park Record and Summit News once a week for four weeks. Excess sale proceeds are treated as unclaimed property. Deposit and payment method are not stated on the tax sale page.",
+      "sources": [
+        {
+          "url": "https://www.summitcountyutah.gov/255/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page reads 'All content © 2006-2026 Summit County, UT and its representatives. All rights reserved.' No other statement on copying, reuse or redistribution found; no separate terms or disclaimer link in the footer.",
+          "terms_url": "https://www.summitcountyutah.gov/Copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.summitcountyutah.gov/255/Tax-Sale",
+          "quote": "The 2026 Summit County Tax Sale will be held online."
         }
       ]
     },

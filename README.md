@@ -12,7 +12,7 @@ npm run validate     # checks data/states/*.json
 npm run terms-log    # regenerates SOURCES.md
 ```
 
-Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML for Cloudflare Pages. Cloudflare build settings: framework preset **None**, build command `npm run build`, build output directory `_site`, root directory blank. Node 22 is pinned in `.nvmrc`. `src/headers.njk` writes Cloudflare's `_headers` file, which adds `X-Robots-Tag: noindex` while the site is private.
+Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloudflare deploys it as a Worker with static assets: `wrangler.jsonc` runs `npm run build` and serves `_site`, so Workers Builds needs no extra settings (deploy command `npx wrangler deploy`, non-production branches `npx wrangler versions upload`). Node 22 is pinned in `.nvmrc`. `src/headers.njk` writes Cloudflare's `_headers` file, which adds `X-Robots-Tag: noindex` while the site is private.
 
 ## Where things live
 

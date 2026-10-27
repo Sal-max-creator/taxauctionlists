@@ -263,6 +263,126 @@
           "quote": "Redemptions can be made any time following the close of the auction, before judgment of foreclosure is entered."
         }
       ]
+    },
+    {
+      "county": "Calhoun",
+      "slug": "calhoun",
+      "office": "Calhoun County Revenue Commissioner, Revenue Collection Department",
+      "phone": "256-241-2840",
+      "address": "1702 Noble St., Suite 104, Anniston, AL 36201",
+      "website": "https://www.calhouncounty.org/revenue/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "All unpaid property is sold at auction in May to the lowest bidder.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Revenue Commissioner's page lists the Tax Lien Auction in May, with the delinquent list advertised on the website in April.",
+      "how_to_bid": "The Revenue Commissioner auctions tax liens; the format changed to a tax lien auction with the 2018 tax collection year. Property may be redeemed for the total taxes and penalties by certified funds only. Registration, deposit and platform are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.calhouncounty.org/revenue/",
+          "read_on": "2026-10-27",
+          "terms": "Footer has no terms or disclaimer link; copyright line '©2024 Calhoun County Alabama'. The Privacy Policy covers visitor data and forbids unauthorized attempts to modify information on the system; it says nothing about reuse of site content.",
+          "terms_url": "https://www.calhouncounty.org/policy.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.calhouncounty.org/revenue/",
+          "quote": "The format of sale has officially changed to tax lien auction and sale effective with the 2018 tax collection year"
+        },
+        {
+          "url": "https://www.calhouncounty.org/revenue/",
+          "quote": "Property may be redeemed, for the total taxes and penalties, by certified funds only."
+        }
+      ],
+      "notes": {
+        "list_note": "Delinquent list (county's own page): https://altags.com/calhoun_revenue/Delinquent.aspx"
+      }
+    },
+    {
+      "county": "Etowah",
+      "slug": "etowah",
+      "office": "Etowah County Revenue Commissioner (collections)",
+      "phone": "256-549-5328 (payment questions); (256) 549-1444 (main)",
+      "address": "800 Forrest Ave., Gadsden, AL 35901 (in-person payments: Courthouse Rm 005)",
+      "website": "https://etowahcounty.org/about-collections/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The collections page still shows an auction held May 2, 2024 at 8:00 am on GovEase (past).",
+      "how_to_bid": "The county's collections page says the Tax Lien Auction is held online at GovEase. Taxes are due October 1 and delinquent January 1. Registration, deposit and bidding terms are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://etowahcounty.org/about-collections/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or privacy link in the footer; copyright-only footer: 'Copyright © 2026 Etowah County Alabama'. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://etowahcounty.org/about-collections/",
+          "quote": "The Tax Lien Auction will be held May 2, 2024 at 8:00 am at"
+        },
+        {
+          "url": "https://etowahcounty.org/about-collections/",
+          "quote": "Taxes are due each year on October 1st and are delinquent on January 1st."
+        }
+      ],
+      "notes": {
+        "list_note": "Delinquent parcel list: https://etowahproperty.assurancegov.com/Property/DelinquentParcels"
+      }
+    },
+    {
+      "county": "Houston",
+      "slug": "houston",
+      "office": "Houston County Revenue Commissioner's Office",
+      "phone": "334-677-4715 (Collections)",
+      "address": "5th Floor Administration Building, 462 N. Oates St., Dothan, AL 36303 (mail: P.O. Drawer 6406, Dothan, AL 36302)",
+      "website": "https://houstoncountyal.gov/revenue/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 online tax lien auction began Monday, May 4, 2026 (past).",
+      "how_to_bid": "Any parcel with delinquent property tax is auctioned through GovEase by online tax lien auction; bidders register on GovEase. Deposit, interest and registration deadline are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://houstoncountyal.gov/revenue/tax_sale/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer; copyright-only footer: '©2026 Houston County'. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://houstoncountyal.gov/revenue/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://houstoncountyal.gov/revenue/tax_sale/",
+          "quote": "our annual online tax lien auction that will be held beginning Monday, May 4th, 2026."
+        },
+        {
+          "url": "https://houstoncountyal.gov/revenue/tax_sale/",
+          "quote": "Any parcel with delinquent property tax will be auctioned off through GovEase by online tax lien auction."
+        }
+      ],
+      "notes": {
+        "list_note": "Past list (2026 auction, 2025 taxes): https://houstoncountyal.gov/files/revenue/2026_tax_lien_auction_parcels_for_2025_tax_year_update_04302026_73842.xlsx"
+      }
     }
   ]
 }

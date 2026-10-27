@@ -170,6 +170,117 @@
           "quote": "Yes, you must be present to bid."
         }
       ]
+    },
+    {
+      "county": "Elko",
+      "slug": "elko",
+      "office": "Elko County Treasurer's office",
+      "phone": "775-738-5694",
+      "address": "571 Idaho Street, Elko, Nevada 89801",
+      "website": "https://www.elkocountynv.net/departments/treasurer20/trustee_property_sales.php",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/pages/public/content/help"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Exact date not yet posted. The Treasurer's page says the next trustee property sale is scheduled for 'NEXT SPRING - 2027'.",
+      "how_to_bid": "Only registered bidders may bid. The Treasurer's page links Bid4Assets help pages and videos on registering, placing a bid deposit and submitting a bid; the deposit amount is not stated. The minimum bid includes taxes, penalties, interest and costs and may include delinquent sewer and special improvement district liens. Property is sold as is. The Treasurer issues a Treasurer's Deed to the name on the registration form and records it within 30 days of the auction.",
+      "sources": [
+        {
+          "url": "https://www.elkocountynv.net/departments/treasurer20/trustee_property_sales.php",
+          "read_on": "2026-10-27",
+          "terms": "Website disclaimer: information 'is provided as a public service by Elko County'; no warranty as to accuracy. Footer '© 2026 Elko County, NV'. No reuse or redistribution restriction found.",
+          "terms_url": "https://www.elkocountynv.net/website/index.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.elkocountynv.net/departments/treasurer20/trustee_property_sales.php",
+          "quote": "NEXT SPRING - 2027"
+        },
+        {
+          "url": "https://www.elkocountynv.net/departments/treasurer20/trustee_property_sales.php",
+          "quote": "ONLY REGISTERED BIDDERS will be allowed to bid."
+        },
+        {
+          "url": "https://www.elkocountynv.net/departments/treasurer20/trustee_property_sales.php",
+          "quote": "The Treasurer's office will record the deed within 30 days of the auction date"
+        }
+      ],
+      "notes": {
+        "format_note": "'online' is based on the Treasurer's page linking Bid4Assets registration, bid deposit and bid submission help; the sale text itself does not name the platform."
+      }
+    },
+    {
+      "county": "Nye",
+      "slug": "nye",
+      "office": "Nye County Treasurer's Office",
+      "phone": "775-482-8148",
+      "address": "101 Radar Road, Tonopah, NV 89049 (Pahrump office: 170 N. Floyd Street, Suite 2, Pahrump, NV 89060)",
+      "website": "https://www.nyecountynv.gov/257",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The county's 'Information on Next Live Auction' page still describes the live auction of March 21, 2025.",
+      "how_to_bid": "Based on the county's page for the last live auction: bidders register in advance at the Treasurer's Office in Tonopah or Pahrump with a $500 deposit in certified funds (cashier's check, money order or cash) and the Bidder Information form; there is no same-day registration and the bidder must be present. Bidders must be at least 18. The deposit applies to the purchase price for winners and is mailed back to others within seven business days. Payment in full, including the Real Property Transfer Tax, is due within a few days of the auction; there is no financing. Properties are sold as-is and all sales are final; the parcel list is published in the Pahrump Valley Times and Tonopah Times-Bonanza four weeks before the auction.",
+      "sources": [
+        {
+          "url": "https://www.nyecountynv.gov/257",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Nye County, NV and its representatives. All rights reserved.' No statement on reuse or redistribution; no ban on reusing public information found.",
+          "terms_url": "https://www.nyecountynv.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nyecountynv.gov/257",
+          "quote": "There is no financing - no exceptions."
+        }
+      ]
+    },
+    {
+      "county": "Humboldt",
+      "slug": "humboldt",
+      "office": "Humboldt County Treasurer",
+      "phone": "775-623-6444",
+      "address": "50 W Fifth Street, Winnemucca, NV 89445",
+      "website": "https://www.humboldtcountynv.gov/212/Tax-Auctions",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's Tax Auctions page shows the 2026 auction was held April 17, 2026 at 10:00 a.m. at the Humboldt County Courthouse.",
+      "how_to_bid": "Only registered bidders may bid: complete the registration form at the Treasurer's Office the morning of the auction, or contact the office up to a week before the sale. The 2026 sale was held in the Commission Meeting Room of the Humboldt County Courthouse, 50 West Fifth Street, Winnemucca. The minimum bid includes unpaid taxes, penalties, interest and costs and may include sewer, special improvement district and nuisance abatement charges. Property is sold as is; the Treasurer issues and records the deed within 30 days. Deposit and payment terms are not stated.",
+      "sources": [
+        {
+          "url": "https://www.humboldtcountynv.gov/212/Tax-Auctions",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Humboldt County, NV and its representatives. All rights reserved.' No statement on reuse or redistribution; no ban on reusing public information found.",
+          "terms_url": "https://www.humboldtcountynv.gov/site/copyright"
+        },
+        {
+          "url": "https://www.humboldtcountynv.gov/DocumentCenter/View/8386/2026-List-of-Parcels",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Humboldt County, NV and its representatives. All rights reserved.' No statement on reuse or redistribution; no ban on reusing public information found.",
+          "terms_url": "https://www.humboldtcountynv.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.humboldtcountynv.gov/212/Tax-Auctions",
+          "quote": "HELD ON APRIL 17, 2026 AT 10:00 A.M."
+        },
+        {
+          "url": "https://www.humboldtcountynv.gov/DocumentCenter/View/8386/2026-List-of-Parcels",
+          "quote": "In the Commissioners Meeting Room located on the second floor of the Humboldt County Courthouse"
+        }
+      ]
     }
   ]
 }

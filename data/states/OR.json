@@ -218,6 +218,120 @@
       "notes": {
         "format_note": "The page describes sealed bids opened on the auction date but does not say how bids are delivered, so format is 'unknown'."
       }
+    },
+    {
+      "county": "Jackson",
+      "slug": "jackson",
+      "office": "Jackson County Finance Department, Property Management",
+      "phone": "not stated",
+      "address": "10 S Oakdale Ave., Medford, OR 97501",
+      "website": "https://jacksoncountyor.gov/departments/finance/property_management/real_property_auctions.php",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction after October 27, 2026 is posted. The latest notice was for Monday, October 12, 2026 at 10:00 a.m. at the Jackson County Auditorium, Medford (past). The page says the county usually holds one public oral auction a year; sign up for e-notify alerts under Real Property Auctions.",
+      "how_to_bid": "Public, oral auction; attend in person or send a representative. Items under $10,000 are paid in full; items over $10,000 need a 10% down payment, with payment due within five business days. A Certificate of Sale is issued at purchase and a quitclaim deed is prepared within 180 days. No warranties or title insurance. Redemption rights end when the property is deeded to the county.",
+      "sources": [
+        {
+          "url": "https://jacksoncountyor.gov/departments/finance/property_management/real_property_auctions.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or legal page found in the footer; footer shows only '© 2026' (no link). The Privacy Statement covers personal information only and says nothing on copying or reuse of site content.",
+          "terms_url": "https://jacksoncountyor.gov/government/privacy_statement.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://jacksoncountyor.gov/departments/finance/property_management/real_property_auctions.php",
+          "quote": "NOTICE OF SALE OF TAX-FORECLOSED AND SURPLUS PROPERTY"
+        }
+      ],
+      "notes": {
+        "location_note": "The October 2026 notice names the Jackson County Auditorium, but the page's general Auction Information section says auctions are held at the County Courthouse. Check the next notice."
+      }
+    },
+    {
+      "county": "Marion",
+      "slug": "marion",
+      "office": "Marion County Finance, Foreclosed Property Coordinator",
+      "phone": "(503) 373-4364",
+      "address": "555 Court Street NE, Suite 4247, P.O. Box 14500, Salem, OR 97309-5036",
+      "website": "https://www.co.marion.or.us/FIN/pages/propertyinfo.aspx",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "not stated",
+          "label": "Tax Foreclosed Property Auction",
+          "deposit": "No deposit; payment in full at the time of sale",
+          "registration_deadline": "Register as a bidder and receive a bidder number before bidding; no deadline stated",
+          "note": "Three properties listed on the county page (Salem, Jefferson and Gates). The rules say properties are sold by oral bids, as is, by quitclaim deed; no land sale contracts. Time and venue are not stated on the page or in the rules; check with the county.",
+          "source_url": "https://www.co.marion.or.us/FIN/pages/propertyinfo.aspx",
+          "quote": "Tax Foreclosed Property Auction - November 17, 2026"
+        }
+      ],
+      "next_sale_note": "November 17, 2026; time and place not stated.",
+      "how_to_bid": "Register as a bidder and get a bidder number before the auctioneer will recognize your bid. Properties sell by oral bid. Payment in full by cash, certified check, cashier's check or money order is due at the time of sale, and the buyer pays all recording fees; no land sale contracts. Properties are sold as is and conveyed by quitclaim deed. Unsold or adjacent-owner properties may be offered by private or sealed bid sale. To get auction notices, join the county's Property Auction Interest List.",
+      "sources": [
+        {
+          "url": "https://www.co.marion.or.us/FIN/pages/propertyinfo.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer & Privacy Statement has only '2026 Marion County. All Rights Reserved' and says the authors' views 'shall not be used for advertising or product endorsement purposes.' No restriction on copying or reusing site content found.",
+          "terms_url": "https://www.co.marion.or.us/Pages/disclaimer.aspx"
+        },
+        {
+          "url": "https://www.co.marion.or.us/FIN/Documents/November%2017%2c%202026%20Public%20Auction%20Rules.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no reuse restriction found.",
+          "terms_url": "https://www.co.marion.or.us/Pages/disclaimer.aspx"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.marion.or.us/FIN/Documents/November%2017%2c%202026%20Public%20Auction%20Rules.pdf",
+          "quote": "AT PUBLIC AUCTION NOVEMBER 17, 2026"
+        },
+        {
+          "url": "https://www.co.marion.or.us/FIN/Documents/November%2017%2c%202026%20Public%20Auction%20Rules.pdf",
+          "quote": "Payment in full by cash, certified check, cashier check or money order is required at the time of sale."
+        }
+      ],
+      "notes": {
+        "format_note": "The rules describe oral bids and an auctioneer but do not say whether the sale is in person or online, so format is 'unknown'."
+      }
+    },
+    {
+      "county": "Yamhill",
+      "slug": "yamhill",
+      "office": "Yamhill County Counsel's Office, Property Management",
+      "phone": "(503) 434-7502",
+      "address": "434 NE Evans Street, McMinnville, OR 97128 (mail: 535 NE Fifth Street, McMinnville, OR 97128)",
+      "website": "https://www.yamhillcounty.gov/637/Tax-Foreclosed-Property",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction date posted. The county says there is no set time of year for auctions and notices go out at least one month before one; residential tax-foreclosed properties are first listed with a licensed broker for twelve months before auction.",
+      "how_to_bid": "In-person public auctions at the Yamhill County Courthouse. Registration opens at least 30 minutes before the auction: show valid ID, give contact information and accept the county's auction terms to get a bid card. Bring cash or a cashier's check for 20% of the minimum advertised price for each property you want; the winner pays the balance within two business days. Unsold or small non-buildable properties may be sold by private sealed-bid sale with a 10% deposit and the balance due within ten business days of the Board's acceptance.",
+      "sources": [
+        {
+          "url": "https://www.yamhillcounty.gov/637/Tax-Foreclosed-Property",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page reads 'All content © 2006-2026 Yamhill County, OR and its representatives. All rights reserved.' No other statement on copying, reuse or redistribution found; no separate terms or legal link in the footer.",
+          "terms_url": "https://www.yamhillcounty.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.yamhillcounty.gov/637/Tax-Foreclosed-Property",
+          "quote": "no set time of year when auctions occur"
+        }
+      ]
     }
   ]
 }

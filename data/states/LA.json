@@ -171,6 +171,104 @@
           "quote": "Effective January 1, 2026, the tax sale and adjudication process has changed."
         }
       ]
+    },
+    {
+      "county": "Caddo",
+      "slug": "caddo",
+      "office": "Caddo Parish Sheriff's Office, Main Office",
+      "phone": "(318) 675-2170",
+      "address": "501 Texas Street Room 101, Shreveport, LA 71101",
+      "website": "https://www.caddosheriff.org/content.php?c=114",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Tax Lien Auction is conducted annually during the month of June and bidding is open to the public.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Sheriff's page says the auction is held annually in June.",
+      "how_to_bid": "The Sheriff's Tax Lien Auction page says the auction is open to the public. Platform, registration, deposit and payment are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.caddosheriff.org/content.php?c=114",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer link in the footer; footer reads '© 2026 All Rights Reserved'. The linked Privacy Policy covers visitor data and forbids unauthorized attempts to upload or modify information; it has no clause on reuse of site content.",
+          "terms_url": "https://www.caddosheriff.org/privacy-policy.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.caddosheriff.org/content.php?c=114",
+          "quote": "A tax lien auction is the sale of properties that have delinquent ad valorem taxes due."
+        }
+      ]
+    },
+    {
+      "county": "Lafayette",
+      "slug": "lafayette",
+      "office": "Lafayette Parish Sheriff's Office Tax Department",
+      "phone": "(337) 236-5880",
+      "address": "1010 Lafayette Street, 4th Floor, Lafayette, LA 70501 (mail: LPSO Tax Department, P.O. Box 92590, Lafayette, LA 70509)",
+      "website": "https://lafayettesheriff.com/services/make-a-payment/taxes/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction (SRI)",
+        "url": "https://www.zeusauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 City/Parish online tax lien auction ran June 10 to June 11, 2026 (past).",
+      "how_to_bid": "The annual City/Parish delinquent property tax lien auction is held online; registration is through Zeus Auction. In 2026 registration opened May 18 and closed June 5 at 3pm, payments for tax lien certificates were due at the end of the auction, and the only form of payment accepted was ACH withdrawal. Deposit: not stated. Registration help: 337-236-5882.",
+      "sources": [
+        {
+          "url": "https://lafayettesheriff.com/services/make-a-payment/taxes/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or privacy link in the footer; copyright-only footer: '© 2026 Lafayette Parish Sheriff’s Office. All Rights Reserved'. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lafayettesheriff.com/services/make-a-payment/taxes/",
+          "quote": "The annual City/Parish online delinquent property tax lien auction is set for Wednesday, June 10th, 2026 beginning at 9am"
+        },
+        {
+          "url": "https://lafayettesheriff.com/services/make-a-payment/taxes/",
+          "quote": "Only form of payment accepted will be ACH Withdrawal."
+        }
+      ]
+    },
+    {
+      "county": "Tangipahoa",
+      "slug": "tangipahoa",
+      "office": "Tangipahoa Parish Sheriff's Office",
+      "phone": "985-205-8160 (tax payment questions); 985-345-6150 (Hammond); 985-748-8147 (Amite)",
+      "address": "15475 Club Deluxe Road, Hammond, LA 70403 (tax collector courier payments: 313 E. Oak Street, Amite, LA 70422)",
+      "website": "https://www.tpso.org/resource/pay-fees-fines-and-taxes",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction date posted on the Sheriff's tax page.",
+      "how_to_bid": "not stated. The Sheriff's tax page says unpaid taxes may cause the tax lien to be offered at a tax lien auction, that owners may pay until the day before the auction, and that delinquent taxes carry a 5% penalty and interest not to exceed 1%. Registration, platform and deposit are not stated.",
+      "sources": [
+        {
+          "url": "https://www.tpso.org/resource/pay-fees-fines-and-taxes",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer link; the footer's Privacy Policy link goes nowhere ('#'). Copyright-only footer: '© 2024 Tangipahoa Parish Sheriff's Office.' No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tpso.org/resource/pay-fees-fines-and-taxes",
+          "quote": "may cause the tax lien to be offered for sale at tax lien auction."
+        },
+        {
+          "url": "https://www.tpso.org/resource/pay-fees-fines-and-taxes",
+          "quote": "You will have the right to pay the amounts due until the day before the auction."
+        }
+      ]
     }
   ]
 }

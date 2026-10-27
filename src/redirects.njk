@@ -1,0 +1,9 @@
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+---
+{#- Cloudflare static-asset redirects. West Virginia county pages were removed Oct 27, 2026 (the State Auditor's terms limit its data to individual use); send them to the state page. -#}
+{%- for c in ["kanawha", "berkeley", "monongalia", "cabell", "wood", "raleigh", "harrison", "jefferson"] %}
+/states/wv/{{ c }}/ /states/wv/ 301
+/states/wv/{{ c }} /states/wv/ 301
+{%- endfor %}

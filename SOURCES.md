@@ -113,6 +113,18 @@ State overview: <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https
 | Sharp | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
 | Sharp | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
 | Sharp | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| White | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| White | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| White | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Lonoke | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Lonoke | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Lonoke | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Jefferson | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Jefferson | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Jefferson | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Pope | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Pope | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Pope | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
 
 ## California
 
@@ -454,6 +466,8 @@ State overview: <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html>
 | Reno | <https://www.renocountyks.gov/reno-county-tax-sale-will-be-on-thursday-october-30th> | 2026-10-27 | County Disclaimer page has no copyright or reuse restriction; it includes a K.S.A. 45-220 certification not to use name or address lists derived from public records to sell property or services to the persons listed. No ban on republishing sale information found. ([terms](https://www.renocountyks.gov/Disclaimer)) |
 | Saline | <https://www.salinecountyks.gov/tax-foreclosures> | 2026-10-27 | Site Terms & Privacy Policy has no copyright notice or reuse terms; its accuracy disclaimer covers linked external sites. No ban on reuse or redistribution found. ([terms](https://salinecountyks.gov/site-terms-privacy-policy)) |
 | Saline | <https://www.salinecountyks.gov/media/Treasurer/tax%20foreclosure%20notice%20of%20sale/2026-CV-32%20Foreclosure.pdf> | 2026-10-27 | same as above ([terms](https://salinecountyks.gov/site-terms-privacy-policy)) |
+| Crawford | <https://crawfordcountykansas.org/tax-foreclosure-sale-guide.html> | 2026-10-27 | Privacy Policy & Legal Disclaimer page: its disclaimer covers accuracy of linked external sites and the privacy policy covers personal data; site footer reads 'Copyright 2023 ©'. No ban on reuse or redistribution found. ([terms](https://www.crawfordcountykansas.org/privacy-policy--disclaimer.html)) |
+| Geary | <https://www.gearycounty.gov/192/Tax-Sale-General-Information> | 2026-10-27 | Copyright Notices page reads 'All content © 2006-2026 Geary County, KS and its representatives. All rights reserved.' (copyright notice only). No ban on reuse or redistribution found. ([terms](https://www.gearycounty.gov/site/copyright)) |
 
 ## Kentucky
 

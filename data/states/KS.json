@@ -305,6 +305,80 @@
           "quote": "The buyer or buyer's representative must be present to bid and payment must be made at close of sale."
         }
       ]
+    },
+    {
+      "county": "Crawford",
+      "slug": "crawford",
+      "office": "Crawford County Counselor's Office (publishes the county's tax foreclosure sale guide)",
+      "phone": null,
+      "address": "Crawford County Courthouse, 111 E. Forest, Girard, Kansas 66743",
+      "website": "https://crawfordcountykansas.org/tax-foreclosure-sale-guide.html",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Crawford County annual tax foreclosure sales are held periodically to collect unpaid real estate taxes.",
+      "sales": [],
+      "next_sale_note": "No sale date is posted on the county's sale guide. The guide says notice of the sale is published in the Morning Sun for three consecutive weeks, about 30 days before the sale.",
+      "how_to_bid": "Properties are sold by public auction to the highest qualified bidder. All properties must be paid for on the day of the sale; cash or checks are accepted, with checks payable to the Clerk of the District Court, plus a $38.00 recording fee. A person who is the record owner of any real estate in Crawford County may not register as a bidder. The court holds a confirmation hearing about 30 days after the auction. The owner may redeem at any time before the day of sale. Deposit and registration deadline are not stated.",
+      "sources": [
+        {
+          "url": "https://crawfordcountykansas.org/tax-foreclosure-sale-guide.html",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy & Legal Disclaimer page: its disclaimer covers accuracy of linked external sites and the privacy policy covers personal data; site footer reads 'Copyright 2023 ©'. No ban on reuse or redistribution found.",
+          "terms_url": "https://www.crawfordcountykansas.org/privacy-policy--disclaimer.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://crawfordcountykansas.org/tax-foreclosure-sale-guide.html",
+          "quote": "Crawford County annual tax foreclosure sales are held periodically to collect unpaid real estate taxes."
+        },
+        {
+          "url": "https://crawfordcountykansas.org/tax-foreclosure-sale-guide.html",
+          "quote": "The properties will be sold by public auction to the highest qualified bidder."
+        },
+        {
+          "url": "https://crawfordcountykansas.org/tax-foreclosure-sale-guide.html",
+          "quote": "All properties must be paid for on the day of the sale."
+        },
+        {
+          "url": "https://crawfordcountykansas.org/tax-foreclosure-sale-guide.html",
+          "quote": "No person may register as a bidder if that person is the record owner of any real estate located in Crawford County."
+        }
+      ]
+    },
+    {
+      "county": "Geary",
+      "slug": "geary",
+      "office": "Office of the Geary County Counselor",
+      "phone": "785-762-4075",
+      "address": "801 N Washington, Suite D, Junction City, KS 66441",
+      "website": "https://www.gearycounty.gov/192/Tax-Sale-General-Information",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date is posted on the county's tax sale page. Sales are held periodically; the page says a notice of the sale is published in the Daily Union about 30 days before the next tax sale.",
+      "how_to_bid": "Properties are sold by public auction to the highest qualified bidder. Registration is held the morning of the sale, beginning at 8:30 a.m., and bidders must sign the Bidder's Affidavit. The court holds a confirmation hearing and the Sheriff of Geary County issues the deeds. Deposit and payment terms are not stated.",
+      "sources": [
+        {
+          "url": "https://www.gearycounty.gov/192/Tax-Sale-General-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page reads 'All content © 2006-2026 Geary County, KS and its representatives. All rights reserved.' (copyright notice only). No ban on reuse or redistribution found.",
+          "terms_url": "https://www.gearycounty.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.gearycounty.gov/192/Tax-Sale-General-Information",
+          "quote": "Approximately 30 days before the next tax sale, a notice of the sale will be published in the Daily Union."
+        },
+        {
+          "url": "https://www.gearycounty.gov/192/Tax-Sale-General-Information",
+          "quote": "The properties will be sold by public auction to the highest qualified bidder."
+        }
+      ]
     }
   ]
 }

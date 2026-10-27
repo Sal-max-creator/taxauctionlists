@@ -1,0 +1,59 @@
+---
+layout: base.njk
+pagination:
+  data: counties
+  size: 1
+  alias: c
+permalink: "{{ c.url }}"
+eleventyComputed:
+  title: "{{ c.county }}, {{ c.state.name }} tax sale"
+  description: "{{ c.county }}, {{ c.state.name }} tax {{ c.sale_type }} sale: next dates, deposit, registration and how to bid, from the county's own pages."
+---
+<p class="breadcrumbs"><a href="/states/">States</a> › <a href="{{ c.state.url }}">{{ c.state.name }}</a> › {{ c.county }}</p>
+<h1>{{ c.county }}, {{ c.state.name }} tax sale</h1>
+<p class="muted">Last checked {{ c.lastChecked | longDate }}</p>
+{% include "notice.njk" %}
+
+<h2>Upcoming sales</h2>
+{% if c.upcoming.length %}
+  {% for s in c.upcoming %}
+  <dl class="facts">
+    <dt>Date</dt><dd><strong>{{ s.date | longDate }}</strong>{% if s.time %}, {{ s.time }}{% endif %}</dd>
+    <dt>Sale</dt><dd>{{ s.label }}</dd>
+    {% if s.deposit %}<dt>Deposit</dt><dd>{{ s.deposit }}</dd>{% endif %}
+    {% if s.registration_deadline %}<dt>Register by</dt><dd>{{ s.registration_deadline }}</dd>{% endif %}
+    <dt>Source</dt><dd><a href="{{ s.source_url }}" rel="nofollow noopener">{{ s.source_url }}</a>
+      {% if s.quote %}<blockquote class="evidence">“{{ s.quote }}”</blockquote>{% endif %}</dd>
+  </dl>
+  <p></p>
+  {% endfor %}
+{% else %}
+  <p class="empty">{{ c.next_sale_note or "The county hasn't posted its next sale date yet." }}</p>
+{% endif %}
+
+<h2>Sale details</h2>
+<dl class="facts">
+  <dt>Sale type</dt><dd><span class="tag tag-{{ c.sale_type | replace(' ', '-') }}">{{ c.sale_type }}</span></dd>
+  <dt>Format</dt><dd>{{ c.format | capitalize }}</dd>
+  {% if c.schedule_rule %}<dt>Schedule</dt><dd>{{ c.schedule_rule }}</dd>{% endif %}
+  {% if c.platform and c.platform.name %}<dt>Auction site</dt><dd>{% if c.platform.url %}<a href="{{ c.platform.url }}" rel="nofollow noopener">{{ c.platform.name }}</a>{% else %}{{ c.platform.name }}{% endif %} <span class="muted">(we link to it; we don't copy its listings)</span></dd>{% endif %}
+  {% if c.how_to_bid %}<dt>How to bid</dt><dd>{{ c.how_to_bid }}</dd>{% endif %}
+</dl>
+
+<h2>County contact</h2>
+<dl class="facts">
+  <dt>Office</dt><dd>{{ c.office }}</dd>
+  {% if c.phone %}<dt>Phone</dt><dd>{{ c.phone }}</dd>{% endif %}
+  {% if c.address %}<dt>Address</dt><dd>{{ c.address }}</dd>{% endif %}
+  {% if c.website %}<dt>Website</dt><dd><a href="{{ c.website }}" rel="nofollow noopener">{{ c.website }}</a></dd>{% endif %}
+</dl>
+
+<h2>Sources</h2>
+<ul>
+{% for s in c.sources %}
+  <li><a href="{{ s.url }}" rel="nofollow noopener">{{ s.url }}</a> <span class="muted">checked {{ s.read_on | shortDate }}</span></li>
+{% endfor %}
+</ul>
+
+<p><a href="{{ c.state.url }}">← All {{ c.state.name }} counties</a></p>
+{% include "signup.njk" %}

@@ -1,0 +1,11 @@
+---
+layout: base.njk
+---
+<p class="breadcrumbs"><a href="/guides/">Guides</a> › {{ title }}</p>
+<article class="guide">
+  <h1>{{ title }}</h1>
+  <p class="guide-meta">{{ description }}</p>
+  {% include "notice.njk" %}
+  {{ content | safe }}
+</article>
+{% include "signup.njk" %}

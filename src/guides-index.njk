@@ -1,0 +1,14 @@
+---
+layout: base.njk
+title: Tax sale guides
+description: Plain-English guides to tax lien and tax deed sales, from your first auction to redemption.
+permalink: /guides/
+---
+<h1>Tax sale guides</h1>
+<p class="lede">Plain-English guides for buying at county tax sales. Start at the top if you're new.</p>
+<div class="grid">
+{% for g in collections.guide | guidesSorted %}
+  <a class="card" href="{{ g.url }}"><h3>{{ g.data.title }}</h3><p>{{ g.data.description }}</p></a>
+{% endfor %}
+</div>
+{% include "signup.njk" %}

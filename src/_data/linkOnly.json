@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Maryland SDAT Real Property search",
+    "url": "https://sdat.dat.maryland.gov/RealProperty",
+    "why": "Its terms forbid automated collection (scraping). We link to it and never copy from it.",
+    "checked": "2026-10-26"
+  },
+  {
+    "name": "Leon County, Florida tax deed portal",
+    "url": "https://itm.leoncountyfl.gov/itm/CHMLogin.aspx",
+    "why": "Its license says the information may not be sold or distributed and is only for deed applications. Link only.",
+    "checked": "2026-10-26"
+  },
+  {
+    "name": "RealAuction sites (realtaxdeed.com, realtaxlien.com, realforeclose.com)",
+    "url": "https://www.realauction.com/",
+    "why": "Private auction platform. No reuse terms found, so we link to county sale pages and never copy parcel data.",
+    "checked": "2026-10-26"
+  },
+  {
+    "name": "Bid4Assets",
+    "url": "https://www.bid4assets.com/",
+    "why": "Private auction platform. No reuse terms found, so we link to county sale pages and never copy parcel data.",
+    "checked": "2026-10-26"
+  },
+  {
+    "name": "GovEase",
+    "url": "https://www.govease.com/",
+    "why": "Private auction platform. Only privacy and cookie links found, so we link out and never copy parcel data.",
+    "checked": "2026-10-26"
+  }
+]

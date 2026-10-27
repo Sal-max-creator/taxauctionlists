@@ -1,0 +1,15 @@
+<section class="signup" id="signup">
+  <h2>Get the free monthly sale digest</h2>
+  <p>New sale dates, deadline reminders and fresh county lists, once a month. Free.</p>
+  <form class="signup-form" data-endpoint="{{ site.signupEndpoint }}" method="post" novalidate>
+    <label for="signup-email">Email</label>
+    <div class="signup-row">
+      <input id="signup-email" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
+      <button type="submit">Sign up</button>
+    </div>
+    <label class="signup-states">States you care about (optional)
+      <input type="text" name="states" placeholder="e.g. FL, TX, AZ">
+    </label>
+    <p class="signup-status" role="status" aria-live="polite"></p>
+  </form>
+</section>

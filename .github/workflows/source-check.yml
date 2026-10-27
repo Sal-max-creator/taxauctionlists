@@ -1,0 +1,70 @@
+name: Weekly source check
+
+# Every Monday, fetch each county source page, compare it with last week's snapshot and open
+# an issue listing what changed, sales coming up within 7 days, and pages that need a manual look.
+# Snapshots live on the `source-snapshots` branch so main is never touched by this job.
+on:
+  schedule:
+    - cron: "17 13 * * 1" # Mondays, 13:17 UTC (about 8 AM Chicago)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: source-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check out last week's snapshots
+        id: snapshots
+        continue-on-error: true
+        uses: actions/checkout@v4
+        with:
+          ref: source-snapshots
+          path: .source-check
+
+      - name: Check source pages
+        id: check
+        run: node scripts/check-sources.mjs --snapshots .source-check/snapshots --report source-report.md
+
+      - name: Add report to the run summary
+        run: cat source-report.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Save snapshots to the source-snapshots branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd .source-check
+          if ! git rev-parse --verify HEAD >/dev/null 2>&1; then
+            # First run: the branch doesn't exist yet, so start it with only the snapshots.
+            mkdir -p ../.snap-tmp && cp -r snapshots ../.snap-tmp/ && cd .. && rm -rf .source-check
+            mkdir .source-check && mv .snap-tmp/snapshots .source-check/ && rmdir .snap-tmp && cd .source-check
+            git init -q -b source-snapshots
+            git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Source snapshots $(date -u +%F)" || echo "No snapshot changes"
+          git push origin HEAD:source-snapshots
+
+      - name: Open a review issue
+        if: steps.check.outputs.needs_review == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Source check $(date -u +%F): ${{ steps.check.outputs.changed }} changed, ${{ steps.check.outputs.soon }} sale(s) within 7 days" \
+            --body-file source-report.md

@@ -1,0 +1,48 @@
+---
+layout: base.njk
+title: Tax sale calendar
+description: Upcoming county tax lien and tax deed sales by date, filterable by state, sale type and format.
+permalink: /calendar/
+---
+<h1>Tax sale calendar</h1>
+<p class="lede">Every dated sale we track, soonest first. Many counties also run sales on a fixed schedule; you'll find those on each county page.</p>
+{% include "notice.njk" %}
+
+<div class="filters" data-filter-table="#calendar">
+  <select name="state" aria-label="State">
+    <option value="">All states</option>
+    {% for st in states %}<option value="{{ st.state }}">{{ st.name }}</option>{% endfor %}
+  </select>
+  <select name="type" aria-label="Sale type">
+    <option value="">Liens and deeds</option>
+    <option value="lien">Tax liens</option>
+    <option value="deed">Tax deeds</option>
+    <option value="redeemable deed">Redeemable deeds</option>
+    <option value="hybrid">Hybrid</option>
+  </select>
+  <select name="format" aria-label="Format">
+    <option value="">Online or in person</option>
+    <option value="online">Online</option>
+    <option value="in person">In person</option>
+    <option value="both">Both</option>
+  </select>
+  <span class="muted" data-count></span>
+</div>
+<div id="calendar">
+{% set rows = sales %}{% set showState = true %}
+{% include "sales-table.njk" %}
+</div>
+
+<h2>Counties with a recurring schedule</h2>
+<div class="table-scroll">
+<table>
+  <thead><tr><th scope="col">County</th><th scope="col">Schedule as the county states it</th><th scope="col">Checked</th></tr></thead>
+  <tbody>
+  {% for c in counties %}{% if c.schedule_rule %}
+    <tr><td><a href="{{ c.url }}">{{ c.county }}, {{ c.state.state }}</a></td><td>{{ c.schedule_rule }}</td><td class="nowrap">{{ c.lastChecked | shortDate }}</td></tr>
+  {% endif %}{% endfor %}
+  </tbody>
+</table>
+</div>
+
+{% include "signup.njk" %}

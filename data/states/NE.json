@@ -1,0 +1,185 @@
+{
+  "state": "NE",
+  "name": "Nebraska",
+  "sale_type": "lien",
+  "overview": "Nebraska sells tax sale certificates (liens) on real property with delinquent taxes, not the property itself. Property whose taxes are not paid on or before the first Monday of March after they become delinquent is subject to sale, and each county treasurer holds the sale as a public auction. The certificate of purchase is signed by the county treasurer. The owner can redeem by paying the amount due with interest at the rate set in section 45-104.01, which is fourteen percent per year. If the property is not redeemed, the certificate holder can apply for a treasurer's tax deed within nine months after three years from the date of sale, or foreclose.",
+  "overview_sources": [
+    {
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-1801",
+      "quote": "on or before the first Monday of March, after they become delinquent",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-1807",
+      "quote": "The county treasurer or his or her designee shall announce bidding rules at the beginning of the public auction",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-1818",
+      "quote": "shall be signed by the county treasurer in his or her official capacity.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-1824",
+      "quote": "with interest thereon at the rate specified in section 45-104.01",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=45-104.01",
+      "quote": "fourteen percent per annum",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-1837",
+      "quote": "at any time within nine months after the expiration of three years after the date of sale",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Lancaster",
+      "slug": "lancaster",
+      "office": "Lancaster County Treasurer",
+      "phone": "(402) 441-7425",
+      "address": "555 S 10th ST, RM#102, Lincoln, NE 68508",
+      "website": "https://www.lancaster.ne.gov/DocumentCenter/View/640/Tax-Sale-Information-PDF",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The \"Public Tax Sale\" is held the first Monday of March each year and begins promptly at 9:00 a.m.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Public Delinquent Tax Lien Sale was March 2nd, 2026 at the Lancaster County Council Chambers, 555 S 10th St, Lincoln (past).",
+      "how_to_bid": "Pre-register with the Treasurer before the sale ($25.00 non-refundable registration fee per entity; in 2026 the deadline was on or before February 23, 2026). Buyers must be present on sale day; check-in is at 8:30 a.m. The sale is a round robin under State Statute 77-1807: each buyer gets a random order number, emailed the Friday before the sale. Buyers pay by check for certificates bought (taxes, delinquent interest and a $20.00 sale fee per lien). Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.lancaster.ne.gov/DocumentCenter/View/640/Tax-Sale-Information-PDF",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content © 2006-2026 Lancaster County, NE and its representatives. All rights reserved.' No clause on copying or reuse found.",
+          "terms_url": "https://www.lancaster.ne.gov/Copyright"
+        },
+        {
+          "url": "https://www.lancaster.ne.gov/DocumentCenter/View/641/Tax-Sale-Purchasing-Information-PDF",
+          "read_on": "2026-10-27",
+          "terms": "Same county site copyright notice.",
+          "terms_url": "https://www.lancaster.ne.gov/Copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lancaster.ne.gov/DocumentCenter/View/640/Tax-Sale-Information-PDF",
+          "quote": "Pre-register for the Tax Lien Sale should be turned in on or before February 23th, 2026."
+        },
+        {
+          "url": "https://www.lancaster.ne.gov/DocumentCenter/View/641/Tax-Sale-Purchasing-Information-PDF",
+          "quote": "The statutory current interest rate is 14% per year."
+        }
+      ]
+    },
+    {
+      "county": "Sarpy",
+      "slug": "sarpy",
+      "office": "Sarpy County Treasurer's Office",
+      "phone": "402-593-2100",
+      "address": "Sarpy County Courthouse Campus, 1210 Golden Gate Drive, Papillion, NE 68046",
+      "website": "https://www.sarpy.gov/981/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 public sale was March 2, 2026 at 9:00 A.M. in the Sarpy County Boardroom, 1210 Golden Gate Dr, Papillion (past).",
+      "how_to_bid": "The sale is held in person in the Sarpy County Boardroom; check-in opens at 8:30 A.M. Pay the $25 non-refundable registration fee before the sale; random bidder numbers are assigned, and one person may represent any number of bidders. Each tax certificate carries a $25 non-refundable fee. The county asks buyers to read its full tax sale procedures document. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.sarpy.gov/981/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Sarpy County, NE and its representatives. All rights reserved.' No clause on copying or reuse found.",
+          "terms_url": "https://www.sarpy.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sarpy.gov/981/Tax-Sale-Information",
+          "quote": "Public Sale Date - March 2, 2026"
+        }
+      ]
+    },
+    {
+      "county": "Hall",
+      "slug": "hall",
+      "office": "Hall County Treasurer's Office",
+      "phone": "(308) 385-5025",
+      "address": "200 South Sycamore Street, Suite 2, Grand Island, NE 68801",
+      "website": "https://files.hallcountyne.gov/departments/treasurer/index.php",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Public Tax Lien Sale is held on the first Monday in March beginning at 9:00 a.m.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The newest investor instructions found are for 2025 (sale at the Grand Island Public Library, 1124 W 2nd St); no 2026 or 2027 instructions were found on the Treasurer's page.",
+      "how_to_bid": "Per the 2025 investor instructions: pre-register with the Treasurer ($25.00 application fee) with a registration form, Form W-9 and a signed blank check; registration is not accepted on sale day. The sale is in person in a round-robin format, with bidder numbers handed out at check-in. Each certificate carries a $20 fee that is not refunded on redemption. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://files.hallcountyne.gov/departments/treasurer/index.php",
+          "read_on": "2026-10-27",
+          "terms": "Website Disclaimer: 'The records on this site are unofficial records made available for informational purposes only.' No warranty of accuracy. No clause restricting copying or reuse.",
+          "terms_url": "https://files.hallcountyne.gov/government/board_of_commissioners/site_disclaimer.php"
+        },
+        {
+          "url": "https://reports.hallcountyne.gov/Treasurer/Delinquent/TAX%20SALE%20CERT%20INVESTOR%20INSTRUCTIONS%202025.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same county disclaimer (accuracy only).",
+          "terms_url": "https://files.hallcountyne.gov/government/board_of_commissioners/site_disclaimer.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://reports.hallcountyne.gov/Treasurer/Delinquent/TAX%20SALE%20CERT%20INVESTOR%20INSTRUCTIONS%202025.pdf",
+          "quote": "The Public Tax Lien Sale is held on the first Monday in March beginning at 9:00 a.m."
+        }
+      ],
+      "notes": {
+        "address_note": "The 2025 instructions list 121 South Pine Street, Suite 2; the current Treasurer page lists 200 South Sycamore Street, Suite 2, which is used here."
+      }
+    },
+    {
+      "county": "Scotts Bluff",
+      "slug": "scotts-bluff",
+      "office": "Scotts Bluff County Treasurer's Office",
+      "phone": "(308) 436-6617",
+      "address": "1825 10th St., Gering, NE 69341",
+      "website": "https://scottsbluffcountyne.gov/treasurer-office/public-tax-sale-information/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Scotts Bluff County Tax Sale is held the first Monday in March each year at 9:00 A.M.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the page gives only the annual rule. The sale is at the Scotts Bluff County Administration Building, top floor, 1825 10th Street, Gering; check-in begins at 8:00 A.M.",
+      "how_to_bid": "Send a Scotts Bluff County Tax Sale Registration Form with the $25.00 registration fee to the Treasurer's Office by the Thursday before the first Monday in March. The sale is in Round Robin format, with bidder numbers assigned by a random generator and parcels offered from high dollar to low dollar. A $20.00 fee is charged for each certificate sold. Pay by cashier's check or money order (personal check only with a bank letter of credit); no fax or telephone purchases. Interest earned is 14%. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://scottsbluffcountyne.gov/treasurer-office/public-tax-sale-information/",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer and Terms of Service: the county 'makes no warranties, either expressed or implied, concerning the accuracy, completeness, reliability'; users agree to indemnify the county. No clause on copying, reuse or redistribution.",
+          "terms_url": "https://scottsbluffcountyne.gov/?p=2323"
+        },
+        {
+          "url": "https://scottsbluffcountyne.gov/treasurer-office/real-estate-taxes/",
+          "read_on": "2026-10-27",
+          "terms": "Same county site terms.",
+          "terms_url": "https://scottsbluffcountyne.gov/?p=2323"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://scottsbluffcountyne.gov/treasurer-office/public-tax-sale-information/",
+          "quote": "The Scotts Bluff County Tax Sale will be conducted in Round Robin format."
+        },
+        {
+          "url": "https://scottsbluffcountyne.gov/treasurer-office/public-tax-sale-information/",
+          "quote": "A $25.00 registration fee must accompany a Scotts Bluff County Tax Sale Registration Form."
+        }
+      ]
+    }
+  ]
+}

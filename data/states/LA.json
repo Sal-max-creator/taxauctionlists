@@ -1,0 +1,176 @@
+{
+  "state": "LA",
+  "name": "Louisiana",
+  "sale_type": "lien",
+  "overview": "Under the law in effect since January 1, 2026, Louisiana parish tax collectors auction tax lien certificates on immovable property with unpaid taxes; the property itself is not sold at the auction. The parish tax collector advertises the auction on or before May 1 of the year after the taxes were assessed, and the auction may be held on any weekday. Bidding is competitive on the interest rate: bids start at a maximum of one percent per month and bidders bid the monthly rate down. The state constitution requires a period during which the lien cannot be enforced, giving the owner time to pay before the certificate holder can act.",
+  "overview_sources": [
+    {
+      "url": "https://legis.la.gov/legis/LawPrint.aspx?d=631549",
+      "quote": "Acts 2024, No. 774, §1, eff. Jan. 1, 2026",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legis.la.gov/legis/LawPrint.aspx?d=631549",
+      "quote": "The tax collector shall advertise for sale by public auction the tax lien",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legis.la.gov/legis/LawPrint.aspx?d=631549",
+      "quote": "on or before May first of the year following the year in which the taxes were assessed",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legis.la.gov/legis/LawPrint.aspx?d=631549",
+      "quote": "The tax lien auction shall be conducted on any weekday, with bidding opening not earlier than 8:00 a.m.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legis.la.gov/legis/LawPrint.aspx?d=631549",
+      "quote": "Subject to a maximum bid of one percent per month, bidders may submit bids reducing the monthly interest rate",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legis.la.gov/legis/Law.aspx?d=206555",
+      "quote": "(c) A period of time during which the lien cannot be enforced.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "East Baton Rouge",
+      "slug": "east-baton-rouge",
+      "office": "East Baton Rouge Parish Sheriff's Office, Tax Office",
+      "phone": "(225) 389-4810",
+      "address": "East Baton Rouge Parish City Hall, 2nd Floor, 222 Saint Louis Street, Room 238, Baton Rouge, LA 70802",
+      "website": "https://www.ebrso.org/ebrso-tax-payments/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction (SRI)",
+        "url": "https://www.zeusauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Tax Lien Auction was held online on July 8, 2026, 10am to 2pm (past): 'Tax Lien Auction: July 8, 2026 (10am to 2pm)'.",
+      "how_to_bid": "The Sheriff's tax page says the annual Tax Lien Auction is a public, online electronic bidding process open to anyone who registers. In 2026, registration opened June 17 at 8am and closed July 1 at 4:30pm, one week before the auction. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.ebrso.org/ebrso-tax-payments/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or copyright page found; the page's NOTICE says its answers are general information, not legal advice. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ebrso.org/ebrso-tax-payments/",
+          "quote": "The East Baton Rouge Parish Tax Sale is a public auction and is open to all who wish to register and participate."
+        },
+        {
+          "url": "https://www.ebrso.org/ebrso-tax-payments/",
+          "quote": "The Tax Lien Auction will be conducted online at"
+        }
+      ]
+    },
+    {
+      "county": "Jefferson",
+      "slug": "jefferson",
+      "office": "Jefferson Parish Sheriff's Office (tax collector)",
+      "phone": "504-363-5500",
+      "address": "1233 Westbank Expressway, Harvey, LA 70058",
+      "website": "https://jpso.com/m/faq?cat=18",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The bill must be paid in full prior to the tax sale held in June of each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Sheriff's FAQ says the tax sale is held in June of each year but gives no date, place or platform.",
+      "how_to_bid": "not stated. The Sheriff's FAQ does not describe registration, deposit or bidding; it says the Sheriff conducts tax sales/auctions that after several years could result in transfer of ownership.",
+      "sources": [
+        {
+          "url": "https://jpso.com/m/faq?cat=18",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Jefferson Parish Sheriff's Office, LA and its representatives. All rights reserved.' No clause restricting copying or reuse found.",
+          "terms_url": "https://jpso.com/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://jpso.com/m/faq?cat=18",
+          "quote": "However, the sheriff does conduct tax sales/auctions, which after several years, could result in the transfer of ownership."
+        }
+      ]
+    },
+    {
+      "county": "St. Tammany",
+      "slug": "st-tammany",
+      "office": "St. Tammany Parish Sheriff's Office, Property Tax Division (Tax Collector)",
+      "phone": "985-809-8217",
+      "address": "P.O. Box 1450, Covington, LA 70434 (payments)",
+      "website": "https://www.stpso.com/how-do-i/property-tax",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction (SRI)",
+        "url": "https://www.zeusauction.com"
+      },
+      "schedule_rule": "Our annual Property Tax Sale is traditionally held every summer.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 tax lien auction (2025 taxes) was held online on July 29, 2026 (past).",
+      "how_to_bid": "Bidders must register online in advance; registration dates are advertised for each tax year. In 2026 bidders created an account on the auction website and registered for the St. Tammany Parish auction (July 1 at 8 a.m. to July 22 at 12 p.m.); bidding ran 8 a.m. to 4 p.m. on auction day. The Sheriff calls the sale a 'buyer beware' environment. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.stpso.com/how-do-i/property-tax",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer, terms or copyright link found on the site (Revize footer only). No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.stpso.com/news_detail_T6_R258.php",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no terms page found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.stpso.com/news_detail_T6_R258.php",
+          "quote": "The auction will take place at www.zeusauction.com, beginning at 8 a.m. and closing at 4 p.m. on July 29th."
+        },
+        {
+          "url": "https://www.stpso.com/news_detail_T6_R258.php",
+          "quote": "Registration will open on July 1st at 8 a.m. and close July 22nd at 12 p.m."
+        }
+      ]
+    },
+    {
+      "county": "Orleans",
+      "slug": "orleans",
+      "office": "City of New Orleans Bureau of Treasury, Tax Sale & Adjudications Unit (Orleans Parish)",
+      "phone": "(504) 658-4000 (City general line)",
+      "address": "not stated",
+      "website": "https://nola.gov/next/treasury/topics/tax-sales-adjudications/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Date not yet posted. The Bureau of Treasury says: 'The date of the Tax Lien Certificate Auction will be announced once it's scheduled.'",
+      "how_to_bid": "not stated. The Treasury page says the tax sale process changed effective January 1, 2026, with more details to come; it gives no registration, deposit or bidding steps. Questions go to TreasuryTSA@nola.gov.",
+      "sources": [
+        {
+          "url": "https://nola.gov/next/treasury/topics/tax-sales-adjudications/",
+          "read_on": "2026-10-27",
+          "terms": "Site Policies: 'The content of NOLA.gov's webpages is copyrighted, and contains some third party images/graphics'; users 'should presume the need to obtain permission from the copyright holder' before reproducing images or graphics. No warranty of accuracy. No clause barring reuse of the facts listed here.",
+          "terms_url": "https://nola.gov/site/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://nola.gov/next/treasury/topics/tax-sales-adjudications/",
+          "quote": "Effective January 1, 2026, the tax sale and adjudication process has changed."
+        }
+      ]
+    }
+  ]
+}

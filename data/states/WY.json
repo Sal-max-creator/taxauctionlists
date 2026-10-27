@@ -1,0 +1,177 @@
+{
+  "state": "WY",
+  "name": "Wyoming",
+  "sale_type": "lien",
+  "overview": "In Wyoming, each county treasurer sells delinquent real property taxes at a tax sale; the buyer gets a certificate of purchase (a tax lien), not the property. State law lets these sales be made by lottery or by public auction to the highest bidder for cash, and the lottery-style draw is what the large counties describe. The treasurer signs and delivers a certificate of purchase to each buyer, and certificates can be assigned to someone else by endorsement. Redemption terms, interest and the waiting period before a tax deed are summarized on each county's own page below.",
+  "overview_sources": [
+    {
+      "url": "https://www.wyoleg.gov/2015/Introduced/HB0102.pdf",
+      "quote": "Sales may be made by lottery or by public auction, without appraisal, to the highest bidder for cash",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.wyoleg.gov/2015/Introduced/HB0043.pdf",
+      "quote": "shall make out, sign and deliver a certificate of purchase to the purchaser",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.wyoleg.gov/2015/Introduced/HB0043.pdf",
+      "quote": "certificates of purchase may be assigned by endorsement",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Albany",
+      "slug": "albany",
+      "office": "Albany County Treasurer",
+      "phone": "not stated",
+      "address": "Sale: Albany County Fairgrounds, Activity Building (east side), 3510 South 3rd Street, Laramie, WY 82070; county offices: 525 E Grand Avenue, Laramie, WY 82070",
+      "website": "https://www.albanycountywy.gov/299/Tax-Lien-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-08-13",
+          "time": "9:00 AM (registration begins 7:45 AM)",
+          "label": "Annual tax lien sale",
+          "deposit": "None stated; all purchases must be paid by 5 pm on sale day (cash, check, money order, Visa/Mastercard/debit with a card fee)",
+          "registration_deadline": "Registration begins at 7:45 am on sale day; late arrivals may not take part",
+          "list_url": "https://www.albanycountywy.gov/300/Tax-Sale-Listings",
+          "list_note": "County's Tax Sale Listings page, linked from the tax sale page (not read).",
+          "note": "Held at the Albany County Fairgrounds, east side of the Activity Building. Buyers must be present and 18 or older. Certificate of Purchase fee $20.",
+          "source_url": "https://www.albanycountywy.gov/299/Tax-Lien-Sale",
+          "quote": "Date: August 13, 2027"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register in person on sale day (7:45 am); the name on the registration must match the name on the payment, and each taxpayer ID gets one buyer number. Buyer numbers are drawn at random; when yours is called you may buy one property by calling its property number, or pass. Leaving the room forfeits your number. Pay in full by 5 pm on sale day. The owner may redeem in the 4 to 6 years after the sale.",
+      "sources": [
+        {
+          "url": "https://www.albanycountywy.gov/299/Tax-Lien-Sale",
+          "read_on": "2026-10-27",
+          "terms": "County copyright notice: 'All content © 2006-2026 Albany County, WY and its representatives. All rights reserved.' No clause found that bans copying or reusing public information.",
+          "terms_url": "https://www.albanycountywy.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.albanycountywy.gov/299/Tax-Lien-Sale",
+          "quote": "Registration begins at 7:45 am, sales of real property will begin promptly at 9 am"
+        },
+        {
+          "url": "https://www.albanycountywy.gov/299/Tax-Lien-Sale",
+          "quote": "All purchases must be paid for by 5 pm, August 13, 2027."
+        },
+        {
+          "url": "https://www.albanycountywy.gov/299/Tax-Lien-Sale",
+          "quote": "In the 4 to 6 years following the date of this sale, the deeded owner has the right to redeem his/her property at any time"
+        }
+      ]
+    },
+    {
+      "county": "Campbell",
+      "slug": "campbell",
+      "office": "Campbell County Treasurer",
+      "phone": "307-687-6200",
+      "address": "500 S. Gillette Ave., Gillette, WY 82716",
+      "website": "https://www.campbellcountywy.gov/2267/Tax-Sale-Info",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the Treasurer's page gives no sale date.",
+      "how_to_bid": "The county sells tax liens to attending purchasers. Buyers cannot pick properties: the treasurer announces each delinquent property and draws a number, and the matching participant may buy the lien or pass. Liens must be paid when the sale ends (cash, certified funds, personal checks or credit cards, with a card fee). Buyers earn 15% per annum interest plus a 3% penalty; a tax deed may be applied for no earlier than four years after the sale.",
+      "sources": [
+        {
+          "url": "https://www.campbellcountywy.gov/2267/Tax-Sale-Info",
+          "read_on": "2026-10-27",
+          "terms": "not found (CivicPlus site; footer shows Accessibility and Site Map links, no disclaimer or terms link)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.campbellcountywy.gov/2267/Tax-Sale-Info",
+          "quote": "A participant of the sale cannot pick and choose properties for purchase."
+        },
+        {
+          "url": "https://www.campbellcountywy.gov/2267/Tax-Sale-Info",
+          "quote": "Application for a tax deed can be made no earlier than four years from the date of sale."
+        }
+      ],
+      "notes": {
+        "format_note": "'in person' is based on the page's statement that the county sells its liens 'to attending purchasers'."
+      }
+    },
+    {
+      "county": "Laramie",
+      "slug": "laramie",
+      "office": "Laramie County Treasurer",
+      "phone": "307-633-4225",
+      "address": "309 W. 20th Street, Cheyenne, WY 82001 (Laramie County contact address in the site footer)",
+      "website": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Treasurer/Tax-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The sale is held the Thursday following the end of Frontier Days™.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted on the Treasurer's page.",
+      "how_to_bid": "You must pre-register in the Laramie County Treasurer's office (no online or day-of-sale registration). Buyers cannot pick properties: each delinquent property is announced and a number is drawn, and the matching participant may buy the lien or pass. Liens are paid in full when the sale ends. State law gives the lien buyer 15% per annum interest plus a 3% penalty; if not redeemed within four years, the buyer may obtain a tax deed. The sale notice is published in the Wyoming Tribune-Eagle.",
+      "sources": [
+        {
+          "url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Treasurer/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer shows '© 2026 Laramie County, Wyoming'; no disclaimer or terms link). Page warns the county does not warrant the property: 'It is a buyer beware market.'",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Treasurer/Tax-Sale",
+          "quote": "You must be pre-registered to participate in the tax sale."
+        },
+        {
+          "url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Treasurer/Tax-Sale",
+          "quote": "State statute provides a tax lien purchaser interest at 15% per annum in addition to a 3% penalty the day of purchase."
+        }
+      ]
+    },
+    {
+      "county": "Natrona",
+      "slug": "natrona",
+      "office": "Natrona County Treasurer's Office",
+      "phone": "307-235-9470",
+      "address": "200 N Center, Casper, WY 82601",
+      "website": "https://www.natronacounty-wy.gov/m/faq?cat=15",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "In Natrona County, this event usually takes place in August or September.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted on the county FAQ.",
+      "how_to_bid": "Unpaid property taxes are sold through a lottery-style draw at the annual tax sale, and the buyer holds a lien on the property. If the lien stays unpaid for four years, the lienholder can apply for a tax deed. Registration, fees and the sale location are not stated on the FAQ; contact the Treasurer's Office.",
+      "sources": [
+        {
+          "url": "https://www.natronacounty-wy.gov/m/faq?cat=15",
+          "read_on": "2026-10-27",
+          "terms": "not found (CivicPlus FAQ page; no disclaimer or terms text in page content)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.natronacounty-wy.gov/m/faq?cat=15",
+          "quote": "In Wyoming, unpaid property taxes are sold through a lottery-style system at the annual tax sale."
+        },
+        {
+          "url": "https://www.natronacounty-wy.gov/m/faq?cat=15",
+          "quote": "If the lien remains unpaid for four years, the lienholder can then apply for a tax deed to assume ownership."
+        }
+      ]
+    }
+  ]
+}

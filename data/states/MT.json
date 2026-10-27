@@ -1,0 +1,195 @@
+{
+  "state": "MT",
+  "name": "Montana",
+  "sale_type": "lien",
+  "overview": "Montana does not auction tax liens. If property taxes are still delinquent, the county treasurer attaches a tax lien to the parcel no later than the first working day in August, and the county holds it. Investors can then take an assignment of that lien from the county treasurer by paying the delinquent taxes, penalty, interest and costs after sending the owner a certified notice; when more than one person wants the same lien, each county treasurer's own policy decides (most large counties use a lottery). Delinquent taxes carry a 2% penalty and interest of 5/6 of 1% a month. The owner can redeem until the first working day in August three years after the lien attached (two years for certain vacant subdivided lots), after which the assignee may seek a tax deed.",
+  "overview_sources": [
+    {
+      "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0170/part_0010/section_0250/0150-0170-0010-0250.html",
+      "quote": "no later than the first working day in August",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0170/part_0010/section_0250/0150-0170-0010-0250.html",
+      "quote": "the county is the possessor of the tax lien",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0170/part_0030/section_0230/0150-0170-0030-0230.html",
+      "quote": "must be assigned by the county treasurer to any person who",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0170/part_0030/section_0230/0150-0170-0030-0230.html",
+      "quote": "The county treasurer shall develop a policy for assigning a tax lien when more than one person seeks the assignment",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0160/part_0010/section_0020/0150-0160-0010-0020.html",
+      "quote": "5/6 of 1% a month",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0160/part_0010/section_0020/0150-0160-0010-0020.html",
+      "quote": "2% must be added to the delinquent taxes as a penalty.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0180/part_0010/section_0110/0150-0180-0010-0110.html",
+      "quote": "by the first working day in August, 3 years after attachment of the tax lien",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0180/part_0010/section_0110/0150-0180-0010-0110.html",
+      "quote": "by the first working day in August, 2 years after attachment of the tax lien",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Flathead",
+      "slug": "flathead",
+      "office": "Flathead County Treasurer's Office",
+      "phone": "(406) 758-5680",
+      "address": "800 S. Main Street, Kalispell, MT",
+      "website": "https://flatheadcounty.gov/department-directory/treasurer/property-tax/tax-lien-sales",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated assignment sale or lottery is posted; the page gives the yearly rules only (notices postmarked not earlier than August 15).",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs, and when several want the same parcel the county sets the order by lottery. Flathead requires notices to owners postmarked not earlier than August 15 and at least two weeks before payment, then payment of the exact delinquency plus a $50 assignment fee per assessor number, a priority list in Excel format, copies of the notices and a W-9. Order among investors is set by a card draw: the party with the highest card selects first. The county does not handle assignments in May and November and does not issue certificates on the date of sale.",
+      "sources": [
+        {
+          "url": "https://flatheadcounty.gov/department-directory/treasurer/property-tax/tax-lien-sales",
+          "read_on": "2026-10-27",
+          "terms": "Accuracy disclaimer only: 'no representation or guarantee can be made as to the correctness or suitability of that information' and 'All critical information should be independently verified.' Copyright line only; no terms of use page. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://flatheadcounty.gov/department-directory/treasurer/property-tax/tax-lien-sales",
+          "quote": "The party with the highest card receives first selection of the first assignment."
+        },
+        {
+          "url": "https://flatheadcounty.gov/department-directory/treasurer/property-tax/tax-lien-sales",
+          "quote": "As of January 1, 2024, Flathead County's assignment fee is $50 per assessor number."
+        }
+      ]
+    },
+    {
+      "county": "Gallatin",
+      "slug": "gallatin",
+      "office": "Gallatin County Treasurer's Office",
+      "phone": "406-582-3033",
+      "address": "311 West Main, Room 103, Bozeman, MT 59715",
+      "website": "https://www.gallatinmt.gov/node/1128",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2026 or 2027 assignment dates posted; the county's timeline is an example from 2022 (lists due August 30 at noon, first purchase day August 31, lottery September 1).",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs, and when several want the same parcel the county sets the order by lottery. Investors mail the owner a certified Notice of Pending Assignment (from August 15, at least two weeks and not more than 60 days before payment), then submit a ranked parcel list with payment by email to treasurer@gallatin.mt.gov or by delivery to the office. Gallatin's assignment fee is $60 per parcel plus taxes, penalty and interest. Electronic submissions get first priority; within each group the program assigns each investor a random priority and selections go in snake-draft order. Complete submissions must arrive by noon on the last working day before the sale date.",
+      "sources": [
+        {
+          "url": "https://www.gallatinmt.gov/node/1128",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or reuse restriction found; page says 'Gallatin County does not offer legal help to taxpayers or advice to the purchasers of tax liens.'",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.gallatinmt.gov/node/55976",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.gallatinmt.gov/node/55976",
+          "quote": "The program will first assign a random priority for each investor"
+        },
+        {
+          "url": "https://www.gallatinmt.gov/node/1128",
+          "quote": "the Gallatin County Treasurer will use a lottery system to award the assignments"
+        }
+      ]
+    },
+    {
+      "county": "Missoula",
+      "slug": "missoula",
+      "office": "Missoula County Clerk & Treasurer",
+      "phone": "406-258-4747",
+      "address": "Missoula County Courthouse Annex, 200 W. Broadway, Missoula, MT 59802",
+      "website": "https://www.missoulacounty.gov/departments/clerk-treasurer/property-taxes/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2026 or 2027 assignment dates posted; the page says liens attach the first business day in August and investors purchase in late August.",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs, and when several want the same parcel the county sets the order by lottery. Missoula gives first priority to electronic submissions; within each group the program assigns each investor a random priority and selections follow a snake draft. A $75 tax lien certificate fee is charged to the property. Delinquent taxes carry a 2% penalty and interest at a 10% annualized rate.",
+      "sources": [
+        {
+          "url": "https://www.missoulacounty.gov/departments/clerk-treasurer/property-taxes/delinquent-taxes/",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer page has no reuse terms; accuracy disclaimer only ('no representation or guarantee can be made as to the correctness or suitability of that information'). Footer: '© Copyright Missoula County. All Rights Reserved'. No reuse restriction found.",
+          "terms_url": "https://www.missoulacounty.gov/topics/disclaimer/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.missoulacounty.gov/departments/clerk-treasurer/property-taxes/delinquent-taxes/",
+          "quote": "Third party investors may purchase outstanding tax liens and take an assignment on the property."
+        },
+        {
+          "url": "https://www.missoulacounty.gov/departments/clerk-treasurer/property-taxes/delinquent-taxes/",
+          "quote": "First priority will be granted to Electronic Submissions"
+        }
+      ]
+    },
+    {
+      "county": "Yellowstone",
+      "slug": "yellowstone",
+      "office": "Yellowstone County Treasurer",
+      "phone": "406-256-2807",
+      "address": "John V. Ostlund Building, 2825 3rd Avenue North, Billings, MT",
+      "website": "https://yellowstonecountymt.gov/treasurer/TaxSales.asp",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Process starts at 10:00 am on August 29th (2026 ONLY: August 31st)",
+      "sales": [],
+      "next_sale_note": "2027 lottery date not separately posted; the page's yearly rule is above (2026 lottery August 31, past).",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs, and when several want the same parcel the county sets the order by lottery. Liens attach on the first working day of August. Investors mail a Notice of Pending Assignment postmarked August 15 to owners of parcels still delinquent, then deliver receipts, notice copies, payment and an Excel assignment form by noon, August 28th. The assignment fee is $50.00 each. A lottery program sets the order (snake method, one lien per round from each buyer's list); buyers attend in person. Parcels left after the lottery can be bought first come, first served.",
+      "sources": [
+        {
+          "url": "https://yellowstonecountymt.gov/treasurer/TaxSales.asp",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Service page has no reuse or redistribution terms (only 'Unauthorized use of or access of such sites is strictly prohibited' for password-restricted sites). Footer: 'Copyright © 2013- Yellowstone County, Montana. All Rights Reserved.' No reuse restriction found for public pages.",
+          "terms_url": "https://www.yellowstonecountymt.gov/TermsOfService.asp"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://yellowstonecountymt.gov/treasurer/TaxSales.asp",
+          "quote": "Please provide the following to our office by noon, August 28th:"
+        },
+        {
+          "url": "https://yellowstonecountymt.gov/treasurer/TaxSales.asp",
+          "quote": "We use a Lottery Program that uses a randomizer based off the hosting server's system date and time."
+        },
+        {
+          "url": "https://yellowstonecountymt.gov/treasurer/TaxSales.asp",
+          "quote": "The fee for each assignment is $50.00"
+        }
+      ],
+      "notes": {
+        "format_note": "'in person' because the page says buyers attend the lottery; it does not describe online participation. The same page also lists a separate tax deed auction (Monday, October 19th, 2026, past) for parcels that went to tax deed, which is not a lien sale."
+      }
+    }
+  ]
+}

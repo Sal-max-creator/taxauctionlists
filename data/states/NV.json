@@ -1,0 +1,175 @@
+{
+  "state": "NV",
+  "name": "Nevada",
+  "sale_type": "deed",
+  "overview": "Nevada does not sell tax liens. When real property taxes go unpaid, the county tax receiver issues a certificate that lets the county treasurer hold the property as trustee for the State and county for 2 years after the first Monday in June of the year the certificate is dated, unless it is redeemed sooner. Interest is added to the unpaid taxes at 10 percent per annum, assessed monthly, until paid. If the property is not redeemed, the tax receiver deeds it to the county treasurer as trustee, and the board of county commissioners can direct the treasurer to sell it after giving notice of sale, so buyers at these auctions get the property itself.",
+  "overview_sources": [
+    {
+      "url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf",
+      "quote": "the certificate authorizes the county treasurer, as trustee for the State and county, to hold each property",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf",
+      "quote": "for the period of 2 years after the first Monday in June of the year the certificate is dated, unless sooner redeemed.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf",
+      "quote": "interest on the taxes will be added at the rate of 10 percent per annum, assessed monthly, from the date due until paid.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf",
+      "quote": "shall make to the county treasurer as trustee for the State and county a deed of the property.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf",
+      "quote": "directing the county treasurer to sell the property particularly described therein, after giving notice of sale.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Carson City",
+      "slug": "carson-city",
+      "office": "Carson City Treasurer",
+      "phone": "775-887-2092",
+      "address": "not stated",
+      "website": "https://www.carsoncity.gov/government/departments-g-z/treasurer/tax-sale",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted. The Treasurer's page lists delinquent properties subject to tax sale (updated 4/2/2026) and a notice of sale posted per NRS 361.595; the Board of Supervisors sets each sale's date and time.",
+      "how_to_bid": "The Treasurer's page posts the current list of delinquent properties subject to tax sale; the Board of Supervisors reviews them and sets the date and time of the tax deed sale. Format, deposit and registration are not stated; contact the Treasurer (treasurer@carsoncity.gov).",
+      "sources": [
+        {
+          "url": "https://www.carsoncity.gov/government/departments-g-z/treasurer/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer or terms link in page content). Page notes: 'Estimated totals due are subject to change, and any property can be removed from this list at any time.'",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.carsoncity.gov/government/departments-g-z/treasurer/tax-sale",
+          "quote": "NOTICE OF SALE- public posting per NRS 361.595 4.2.26"
+        }
+      ]
+    },
+    {
+      "county": "Clark",
+      "slug": "clark",
+      "office": "Clark County Treasurer",
+      "phone": "(702) 455-4323",
+      "address": "500 S Grand Central Pkwy, Box 551220, Las Vegas, NV 89155-1220",
+      "website": "https://www.clarkcountynv.gov/government/elected_officials/county_treasurer/real_property_tax_auction_information.php",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Treasurer's Office may conduct at least one tax auction per year, usually in Spring.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the county auction page lists past results through May 2025 and no upcoming date. A second auction may be held in the Fall if needed.",
+      "how_to_bid": "Register online through the Treasurer's Real Property Tax Auction page or in person at the Treasurer's Office, with a $5,000.00 registration deposit per bidder in certified funds (cash, cashier's check, wire or money order). Registration is limited to 280 bidders. Only the registered bidder may bid, showing a bidder card; parcels are offered one at a time in the order of the published list. Pay in full at the Treasurer's Office by the stated time. There is no redemption period after the auction; properties are sold as is.",
+      "sources": [
+        {
+          "url": "https://www.clarkcountynv.gov/government/elected_officials/county_treasurer/faqs.php",
+          "read_on": "2026-10-27",
+          "terms": "Clark County privacy policy: 'The content of Clark County's web pages is copyrighted'; permission is needed to reproduce images/graphics; data mining that impairs the site is prohibited; information is used at the reader's own risk. No ban on reusing public information found.",
+          "terms_url": "https://www.clarkcountynv.gov/government/privacy-policy"
+        },
+        {
+          "url": "https://www.clarkcountynv.gov/government/elected_officials/county_treasurer/real_property_tax_auction_information.php",
+          "read_on": "2026-10-27",
+          "terms": "Same county site terms (privacy policy).",
+          "terms_url": "https://www.clarkcountynv.gov/government/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.clarkcountynv.gov/government/elected_officials/county_treasurer/faqs.php",
+          "quote": "There is a registration deposit of $5,000.00 per bidder in order to participate in the auction."
+        },
+        {
+          "url": "https://www.clarkcountynv.gov/government/elected_officials/county_treasurer/faqs.php",
+          "quote": "There is no redemption period on property acquired through the tax auction."
+        }
+      ],
+      "notes": {
+        "format_note": "'in person' is based on the FAQ: 'Due to facility capacity limitations, registration will be limited to 280 bidders' and bidders must display a bidder card."
+      }
+    },
+    {
+      "county": "Lyon",
+      "slug": "lyon",
+      "office": "Lyon County Treasurer",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://lyon-county.org/1113/Tax-Sale-Information",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/lyon"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Exact date not yet posted. The county page says: 'Next Tax Receiver auction will be held in June of 2027.' Auctions are held every odd year.",
+      "how_to_bid": "The auction is held online through Bid4Assets. Properties sell subject to the Terms of Sale for not less than the minimum bid, plus recording fees, real property transfer tax and a 10% buyer premium. Deposit and registration details are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://lyon-county.org/1113/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "not found (CivicPlus footer shows 'Disclaimer' and 'Privacy' as text without links in the fetched page)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lyon-county.org/1113/Tax-Sale-Information",
+          "quote": "Next Tax Receiver auction will be held in June of 2027."
+        },
+        {
+          "url": "https://lyon-county.org/1113/Tax-Sale-Information",
+          "quote": "The auction will be hosted online with Bid4Assetts."
+        }
+      ]
+    },
+    {
+      "county": "Washoe",
+      "slug": "washoe",
+      "office": "Washoe County Treasurer's Office",
+      "phone": "311 or 775.328.2003 (county)",
+      "address": "1001 E. Ninth Street, Reno, NV 89512",
+      "website": "https://washoecounty.gov/treas/faq/faq_real_tax_sales/index.php",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Treasurer's Office conducts one Real Estate Tax Auction annually",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the FAQ says the date, time and location are posted in February and the auction is usually in April.",
+      "how_to_bid": "Register at the Treasurer's office starting at 9:00 am two business days before the auction, with a valid photo ID and a $500 pre-bid deposit in certified funds; registration closes at 5:00 pm Tuesday. You must be present to bid, and bidders get their numbers before the auction starts. The property list is available by the end of February.",
+      "sources": [
+        {
+          "url": "https://washoecounty.gov/treas/faq/faq_real_tax_sales/index.php",
+          "read_on": "2026-10-27",
+          "terms": "County privacy policy has no copyright or reuse terms; it says Washoe County 'does not authorize third parties to use information collected through County websites' (about visitor data). No restriction on reusing public information found.",
+          "terms_url": "https://www.washoecounty.gov/Privacy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://washoecounty.gov/treas/faq/faq_real_tax_sales/index.php",
+          "quote": "A five hundred dollar ($500.00) per bidder pre-bid deposit, in certified funds, is required at the time of registration."
+        },
+        {
+          "url": "https://washoecounty.gov/treas/faq/faq_real_tax_sales/index.php",
+          "quote": "Yes, you must be present to bid."
+        }
+      ]
+    }
+  ]
+}

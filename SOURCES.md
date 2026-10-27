@@ -336,6 +336,34 @@ State overview: <https://www.legis.iowa.gov/docs/code/2025/446.7.pdf>, <https://
 | Black Hawk | <https://blackhawkcounty.iowa.gov/335/Tax-Sale> | 2026-10-27 | Copyright notice: 'All content © 2006-2026 Black Hawk County IA and its representatives. All rights reserved.' No explicit scraping or commercial-use clause found. ([terms](https://blackhawkcounty.iowa.gov/site/copyright)) |
 | Black Hawk | <https://www.blackhawkcounty.iowa.gov/336/Terms-Conditions> | 2026-10-27 | Same county copyright notice (all rights reserved). ([terms](https://blackhawkcounty.iowa.gov/site/copyright)) |
 
+## Kansas
+
+State overview: <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html>, <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html>, <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0004.html>, <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0003.html>, <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0004.html>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Johnson | <https://jocogov.org/department/legal/tax-foreclosure> | 2026-10-27 | Site legal disclosures page states no reuse terms; footer reads 'Copyright © 2026. All rights reserved.' No explicit ban on reuse or redistribution found. ([terms](https://www.jocogov.org/legal-disclosures)) |
+| Sedgwick | <https://www.sedgwick.gov/treasurer/tax-foreclosure-auctions/> | 2026-10-27 | County disclaimer page has no copyright, reuse or redistribution terms; no ban on reuse found. ([terms](https://www.sedgwick.gov/policies-and-disclaimers/disclaimer/)) |
+| Shawnee | <https://www.snco.gov/counselor/tax_sale.php> | 2026-10-27 | County legal disclaimer covers accuracy only ('Shawnee County provides this website as a public service.'); no copyright or reuse restriction found. ([terms](https://www.snco.gov/county/disclaimer.php)) |
+| Douglas | <https://www.dgcoks.gov/news/2026/07/09/tax-sale-august-12-2026> | 2026-10-27 | No disclaimer or terms of use found. Privacy policy says the compilation of site content 'is the exclusive property of Douglas County, Kansas' but states no ban on reuse or redistribution. ([terms](https://www.dgcoks.gov/policies-and-procedures)) |
+
+## Kentucky
+
+State overview: <https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56172>, <https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56172>, <https://revenue.ky.gov/Property/Pages/Delinquent-Property-Tax.aspx>, <https://revenue.ky.gov/Property/Documents/Basic%20Information%20About%20Becoming%20a%20Potential%20Third%20Party%20Purchaser%20UPDATED%2012-9-2025.pdf>, <https://revenue.ky.gov/Property/Documents/Basic%20Information%20About%20Becoming%20a%20Potential%20Third%20Party%20Purchaser%20UPDATED%2012-9-2025.pdf>, <https://revenue.ky.gov/Property/Documents/Basic%20Information%20About%20Becoming%20a%20Potential%20Third%20Party%20Purchaser%20UPDATED%2012-9-2025.pdf>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Boone | <https://boonecountyclerk.ky.gov/tax-sale-information/> | 2026-10-27 | Accuracy disclaimer only ('The Boone County Clerk's Office is not responsible for info obtained from unofficial sources.'). Linked Privacy & Disability Statement has no reuse terms. No reuse restriction found. ([terms](https://boonecountyclerk.ky.gov/privacy-disability-statement/)) |
+| Boone | <https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf> | 2026-10-27 | State page; shows '© Commonwealth of Kentucky. All rights reserved.' The site's linked Disclaimer page was not read. No reuse restriction found on the page read. |
+| Fayette | <https://fayettecountyclerk.com/web/landrecords/delinquenttaxes> | 2026-10-27 | not found (no disclaimer or terms text or link in page content) |
+| Fayette | <https://www.fayettecountyclerk.com/web/forms/taxsaleprocedures.pdf> | 2026-10-27 | not found |
+| Fayette | <https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf> | 2026-10-27 | State page; shows '© Commonwealth of Kentucky. All rights reserved.' The site's linked Disclaimer page was not read. No reuse restriction found on the page read. |
+| Jefferson | <https://jeffersoncountyclerk.org/delinquent-tax-lottery> | 2026-10-27 | not found on page |
+| Jefferson | <https://www.jeffersoncountyclerk.org/Legal-Records/Delinquent-Taxes/Delinquent-Taxes-Frequently-Asked-Questions> | 2026-10-27 | Accuracy disclaimer only: 'The information listed on this website is provided for your convenience.' and the office 'is not responsible for information or data obtained from unofficial dated sources.' Copyright line '© 2026 Jefferson County Clerk's Office'. No reuse restriction found. |
+| Jefferson | <https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf> | 2026-10-27 | State page; shows '© Commonwealth of Kentucky. All rights reserved.' The site's linked Disclaimer page was not read. No reuse restriction found on the page read. |
+| Kenton | <https://kentonkyclerk.gov/?p=97> | 2026-10-27 | not found (copyright line '© 2025 Kenton County, KY Clerk' only; no disclaimer or terms link) |
+| Kenton | <https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf> | 2026-10-27 | State page; shows '© Commonwealth of Kentucky. All rights reserved.' The site's linked Disclaimer page was not read. No reuse restriction found on the page read. |
+
 ## Louisiana
 
 State overview: <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/Law.aspx?d=206555>
@@ -369,6 +397,17 @@ State overview: <https://www.michigan.gov/taxes/property/property-tax-forfeiture
 | Macomb | <https://www.macombgov.org/departments/treasurers-office/tax-foreclosure/auction-and-claims> | 2026-10-27 | Macomb County terms: 'Users may freely print any information that they obtain from the County website for informational or personal use only.' Documents 'may not be modified'; county seal may not be reproduced. Accuracy not guaranteed. No explicit ban on redistributing facts; restate facts, don't copy documents. ([terms](https://www.macombgov.org/terms-use-privacy-policy)) |
 | Oakland | <https://www.oaklandcountymi.gov/government/oakland-county-treasurer-s-office/land-sale> | 2026-10-27 | Oakland County Web Site Terms: 'Users may freely print any information that they obtain from the County Web site.' 'Use of documents from this server is for informational or personal use only.' No modifications; logos and site design may not be copied. Accuracy not guaranteed. Restate facts, don't copy documents. ([terms](https://www.oaklandcountymi.gov/government/terms-of-use)) |
 
+## Mississippi
+
+State overview: <https://desotocountyms.gov/508/Tax-Sale>, <https://desotocountyms.gov/508/Tax-Sale>, <https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes>, <https://desotocountyms.gov/690/Tax-Sale-Information>, <https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes>, <https://www.sos.ms.gov/public-lands/tax-forfeited-lands/tax-forfeited-lands-faqs>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| DeSoto | <https://desotocountyms.gov/690/Tax-Sale-Information> | 2026-10-27 | Copyright Notices page: 'All content © 2006-2026 DeSoto County, MS and its representatives. All rights reserved.' No terms-of-use or disclaimer page and no clause forbidding reuse or redistribution of public information. Restate facts, don't copy pages wholesale. ([terms](https://desotocountyms.gov/site/copyright)) |
+| DeSoto | <https://desotocountyms.gov/508/Tax-Sale> | 2026-10-27 | Copyright Notices page: 'All content © 2006-2026 DeSoto County, MS and its representatives. All rights reserved.' No terms-of-use or disclaimer page and no clause forbidding reuse or redistribution of public information. Restate facts, don't copy pages wholesale. ([terms](https://desotocountyms.gov/site/copyright)) |
+| Harrison | <https://harrisoncountyms.gov/government/tax_collector/> | 2026-10-27 | No disclaimer, terms-of-use or privacy link on the page (Revize site). No reuse restriction found. |
+| Jackson | <https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes> | 2026-10-27 | Terms of Use cover liability, accuracy, endorsement and links only; no copyright, reuse or redistribution restriction. ([terms](https://www.co.jackson.ms.us/189/Terms-of-Use)) |
+
 ## Missouri
 
 State overview: <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.170>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.170>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.290>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.340>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.340>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.340>
@@ -381,6 +420,18 @@ State overview: <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.170
 | St. Louis City | <https://www.stlouis-mo.gov/government/departments/sheriff/land-tax/index.cfm> | 2026-10-27 | City website policies contain no copying or reuse clause; footer reads '© 2011 - 2026 City of St. Louis'. Accuracy disclaimer covers linked third-party sites. ([terms](https://www.stlouis-mo.gov/government/departments/information-technology/web-development/website-policies.cfm)) |
 | St. Louis City | <https://www.stlouis-mo.gov/government/departments/sheriff/land-tax/land-tax-sales.cfm> | 2026-10-27 | same as above ([terms](https://www.stlouis-mo.gov/government/departments/information-technology/web-development/website-policies.cfm)) |
 | St. Louis City | <https://www.stlouis-mo.gov/government/departments/collector/real-estate-tax/property-sales.cfm> | 2026-10-27 | same as above ([terms](https://www.stlouis-mo.gov/government/departments/information-technology/web-development/website-policies.cfm)) |
+
+## Montana
+
+State overview: <https://mca.legmt.gov/bills/mca/title_0150/chapter_0170/part_0010/section_0250/0150-0170-0010-0250.html>, <https://mca.legmt.gov/bills/mca/title_0150/chapter_0170/part_0010/section_0250/0150-0170-0010-0250.html>, <https://mca.legmt.gov/bills/mca/title_0150/chapter_0170/part_0030/section_0230/0150-0170-0030-0230.html>, <https://mca.legmt.gov/bills/mca/title_0150/chapter_0170/part_0030/section_0230/0150-0170-0030-0230.html>, <https://mca.legmt.gov/bills/mca/title_0150/chapter_0160/part_0010/section_0020/0150-0160-0010-0020.html>, <https://mca.legmt.gov/bills/mca/title_0150/chapter_0160/part_0010/section_0020/0150-0160-0010-0020.html>, <https://mca.legmt.gov/bills/mca/title_0150/chapter_0180/part_0010/section_0110/0150-0180-0010-0110.html>, <https://mca.legmt.gov/bills/mca/title_0150/chapter_0180/part_0010/section_0110/0150-0180-0010-0110.html>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Flathead | <https://flatheadcounty.gov/department-directory/treasurer/property-tax/tax-lien-sales> | 2026-10-27 | Accuracy disclaimer only: 'no representation or guarantee can be made as to the correctness or suitability of that information' and 'All critical information should be independently verified.' Copyright line only; no terms of use page. No reuse restriction found. |
+| Gallatin | <https://www.gallatinmt.gov/node/1128> | 2026-10-27 | No terms of use or reuse restriction found; page says 'Gallatin County does not offer legal help to taxpayers or advice to the purchasers of tax liens.' |
+| Gallatin | <https://www.gallatinmt.gov/node/55976> | 2026-10-27 | not found |
+| Missoula | <https://www.missoulacounty.gov/departments/clerk-treasurer/property-taxes/delinquent-taxes/> | 2026-10-27 | Disclaimer page has no reuse terms; accuracy disclaimer only ('no representation or guarantee can be made as to the correctness or suitability of that information'). Footer: '© Copyright Missoula County. All Rights Reserved'. No reuse restriction found. ([terms](https://www.missoulacounty.gov/topics/disclaimer/)) |
+| Yellowstone | <https://yellowstonecountymt.gov/treasurer/TaxSales.asp> | 2026-10-27 | Terms of Service page has no reuse or redistribution terms (only 'Unauthorized use of or access of such sites is strictly prohibited' for password-restricted sites). Footer: 'Copyright © 2013- Yellowstone County, Montana. All Rights Reserved.' No reuse restriction found for public pages. ([terms](https://www.yellowstonecountymt.gov/TermsOfService.asp)) |
 
 ## Nebraska
 
@@ -395,6 +446,18 @@ State overview: <https://nebraskalegislature.gov/laws/statutes.php?statute=77-18
 | Hall | <https://reports.hallcountyne.gov/Treasurer/Delinquent/TAX%20SALE%20CERT%20INVESTOR%20INSTRUCTIONS%202025.pdf> | 2026-10-27 | Same county disclaimer (accuracy only). ([terms](https://files.hallcountyne.gov/government/board_of_commissioners/site_disclaimer.php)) |
 | Scotts Bluff | <https://scottsbluffcountyne.gov/treasurer-office/public-tax-sale-information/> | 2026-10-27 | Disclaimer and Terms of Service: the county 'makes no warranties, either expressed or implied, concerning the accuracy, completeness, reliability'; users agree to indemnify the county. No clause on copying, reuse or redistribution. ([terms](https://scottsbluffcountyne.gov/?p=2323)) |
 | Scotts Bluff | <https://scottsbluffcountyne.gov/treasurer-office/real-estate-taxes/> | 2026-10-27 | Same county site terms. ([terms](https://scottsbluffcountyne.gov/?p=2323)) |
+
+## Nevada
+
+State overview: <https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf>, <https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf>, <https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf>, <https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf>, <https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB79_EN.pdf>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Carson City | <https://www.carsoncity.gov/government/departments-g-z/treasurer/tax-sale> | 2026-10-27 | not found (no disclaimer or terms link in page content). Page notes: 'Estimated totals due are subject to change, and any property can be removed from this list at any time.' |
+| Clark | <https://www.clarkcountynv.gov/government/elected_officials/county_treasurer/faqs.php> | 2026-10-27 | Clark County privacy policy: 'The content of Clark County's web pages is copyrighted'; permission is needed to reproduce images/graphics; data mining that impairs the site is prohibited; information is used at the reader's own risk. No ban on reusing public information found. ([terms](https://www.clarkcountynv.gov/government/privacy-policy)) |
+| Clark | <https://www.clarkcountynv.gov/government/elected_officials/county_treasurer/real_property_tax_auction_information.php> | 2026-10-27 | Same county site terms (privacy policy). ([terms](https://www.clarkcountynv.gov/government/privacy-policy)) |
+| Lyon | <https://lyon-county.org/1113/Tax-Sale-Information> | 2026-10-27 | not found (CivicPlus footer shows 'Disclaimer' and 'Privacy' as text without links in the fetched page) |
+| Washoe | <https://washoecounty.gov/treas/faq/faq_real_tax_sales/index.php> | 2026-10-27 | County privacy policy has no copyright or reuse terms; it says Washoe County 'does not authorize third parties to use information collected through County websites' (about visitor data). No restriction on reusing public information found. ([terms](https://www.washoecounty.gov/Privacy)) |
 
 ## New Jersey
 
@@ -669,3 +732,39 @@ State overview: <https://le.utah.gov/~2023/bills/sbillenr/SB0115.pdf>, <https://
 | Davis | <https://www.daviscountyutah.gov/controller/tax-administration-group/tax-sale/tax-sale-faq> | 2026-10-27 | Same site; no reuse restriction found. ([terms](https://www.daviscountyutah.gov/privacy-policy)) |
 | Utah | <https://auditor.utahcounty.gov/may-tax-sale> | 2026-10-27 | Utah County Terms of Use: 'Anyone may view, copy or distribute information found within these web pages ... for personal or informational use without owing an obligation to the County ... if the documents are not modified in any respect.' No prohibition on reuse found. ([terms](https://www.utahcounty.gov/terms-of-use)) |
 | Washington | <https://www.washco.utah.gov/departments/auditor/tax-sale/> | 2026-10-27 | No reuse terms found; footer shows '© 2004-2026 Washington County' and 'All Rights Reserved'; the privacy policy has no copying or reuse restriction. ([terms](https://www.washco.utah.gov/services-resources/privacy-policy/)) |
+
+## Washington
+
+State overview: <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Snohomish | <https://snohomishcountywa.gov/220/Tax-Foreclosures> | 2026-10-27 | Website Information page: site information 'is public and provided for the convenience of customers', for lawful use only, no data mining (mass downloading); it says the information 'has not been compiled or linked for commercial purposes.' No explicit ban on reuse or redistribution. ([terms](https://snohomishcountywa.gov/1965/Website-Information)) |
+| Spokane | <https://www.spokanecounty.gov/4156/Real-Property-Auctions> | 2026-10-27 | Site disclaimer lets users 'review and retrieve publicly available government information'; no copyright notice and no explicit ban on reuse or redistribution ('Any rights not expressly granted herein are reserved.'). ([terms](https://www.spokanecounty.gov/2299/Site-Disclaimer)) |
+| Clark | <https://clark.wa.gov/treasurer/tax-foreclosure-auctions> | 2026-10-27 | Terms of use: 'Information that appears on the Clark County website is part of the public record.' No ban on reuse or redistribution. ([terms](https://clark.wa.gov/terms-of-use)) |
+
+## West Virginia
+
+State overview: <https://code.wvlegislature.gov/11A-3-2/>, <https://code.wvlegislature.gov/11A-3-2/>, <https://code.wvlegislature.gov/11A-3-2/>, <https://code.wvlegislature.gov/11A-3-45/>, <https://code.wvlegislature.gov/11A-3-45/>, <https://code.wvlegislature.gov/11A-3-56/>, <https://code.wvlegislature.gov/11A-3-56/>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Kanawha | <https://www.wvsao.gov/CountyCollections/Default> | 2026-10-27 | Terms of Use page (https://www.wvsao.gov/Legal/TermsOfUse.aspx) could not be read: the site's robots rules refused it. No reuse restriction appears on the County Collections page itself. ([terms](https://www.wvsao.gov/Legal/TermsOfUse.aspx)) |
+| Kanawha | <https://code.wvlegislature.gov/11A-3-45/> | 2026-10-27 | West Virginia Code on the Legislature's site; public law. No reuse restriction found. |
+| Berkeley | <https://www.wvsao.gov/CountyCollections/Default> | 2026-10-27 | Terms of Use page (https://www.wvsao.gov/Legal/TermsOfUse.aspx) could not be read: the site's robots rules refused it. No reuse restriction appears on the County Collections page itself. ([terms](https://www.wvsao.gov/Legal/TermsOfUse.aspx)) |
+| Berkeley | <https://code.wvlegislature.gov/11A-3-45/> | 2026-10-27 | West Virginia Code on the Legislature's site; public law. No reuse restriction found. |
+| Monongalia | <https://www.wvsao.gov/CountyCollections/Default> | 2026-10-27 | Terms of Use page (https://www.wvsao.gov/Legal/TermsOfUse.aspx) could not be read: the site's robots rules refused it. No reuse restriction appears on the County Collections page itself. ([terms](https://www.wvsao.gov/Legal/TermsOfUse.aspx)) |
+| Monongalia | <https://code.wvlegislature.gov/11A-3-45/> | 2026-10-27 | West Virginia Code on the Legislature's site; public law. No reuse restriction found. |
+| Cabell | <https://www.wvsao.gov/CountyCollections/Default> | 2026-10-27 | Terms of Use page (https://www.wvsao.gov/Legal/TermsOfUse.aspx) could not be read: the site's robots rules refused it. No reuse restriction appears on the County Collections page itself. ([terms](https://www.wvsao.gov/Legal/TermsOfUse.aspx)) |
+| Cabell | <https://code.wvlegislature.gov/11A-3-45/> | 2026-10-27 | West Virginia Code on the Legislature's site; public law. No reuse restriction found. |
+
+## Wyoming
+
+State overview: <https://www.wyoleg.gov/2015/Introduced/HB0102.pdf>, <https://www.wyoleg.gov/2015/Introduced/HB0043.pdf>, <https://www.wyoleg.gov/2015/Introduced/HB0043.pdf>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Albany | <https://www.albanycountywy.gov/299/Tax-Lien-Sale> | 2026-10-27 | County copyright notice: 'All content © 2006-2026 Albany County, WY and its representatives. All rights reserved.' No clause found that bans copying or reusing public information. ([terms](https://www.albanycountywy.gov/site/copyright)) |
+| Campbell | <https://www.campbellcountywy.gov/2267/Tax-Sale-Info> | 2026-10-27 | not found (CivicPlus site; footer shows Accessibility and Site Map links, no disclaimer or terms link) |
+| Laramie | <https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Treasurer/Tax-Sale> | 2026-10-27 | not found (footer shows '© 2026 Laramie County, Wyoming'; no disclaimer or terms link). Page warns the county does not warrant the property: 'It is a buyer beware market.' |
+| Natrona | <https://www.natronacounty-wy.gov/m/faq?cat=15> | 2026-10-27 | not found (CivicPlus FAQ page; no disclaimer or terms text in page content) |

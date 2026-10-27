@@ -1,0 +1,225 @@
+{
+  "state": "KY",
+  "name": "Kentucky",
+  "sale_type": "lien",
+  "overview": "Kentucky does not auction property for unpaid taxes. Once the sheriff turns over unpaid tax bills, they become certificates of delinquency (liens), and each county clerk holds one sale a year where registered third-party purchasers buy those certificates by paying the amount due. It is not a bidding auction: the order in which purchasers pick certificates is set by a random drawing at the start of the sale. The Department of Revenue sets the statewide schedule; sales begin in mid-July and run into late October, and purchasers must register with the clerk at least a week ahead (and with the Department if they buy more than a few certificates). A purchased certificate earns interest of 1% per month, and the purchaser cannot take collection action until at least one year has passed.",
+  "overview_sources": [
+    {
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56172",
+      "quote": "The sale in each county shall be administered by the county clerk.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56172",
+      "quote": "register at least one (1) week in advance with the county clerk",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://revenue.ky.gov/Property/Pages/Delinquent-Property-Tax.aspx",
+      "quote": "Beginning in mid-July, county clerks offer the certificates of delinquency for sale to third party purchasers.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://revenue.ky.gov/Property/Documents/Basic%20Information%20About%20Becoming%20a%20Potential%20Third%20Party%20Purchaser%20UPDATED%2012-9-2025.pdf",
+      "quote": "The selection order is determined by a random drawing at the beginning of the tax sale.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://revenue.ky.gov/Property/Documents/Basic%20Information%20About%20Becoming%20a%20Potential%20Third%20Party%20Purchaser%20UPDATED%2012-9-2025.pdf",
+      "quote": "interest can be charged at the rate of 1% per month.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://revenue.ky.gov/Property/Documents/Basic%20Information%20About%20Becoming%20a%20Potential%20Third%20Party%20Purchaser%20UPDATED%2012-9-2025.pdf",
+      "quote": "no enforcement collection actions can be taken until it has been at least one year.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Boone",
+      "slug": "boone",
+      "office": "Boone County Clerk, Real Estate Department",
+      "phone": "859-334-2108",
+      "address": "2950 Washington Sq. Burlington, KY 41005",
+      "website": "https://boonecountyclerk.ky.gov/tax-sale-information/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was Tuesday, August 4, 2026 at 9:00 AM (past): '2025 DELINQUENT TAX SALE: TUESDAY, AUGUST 4, 2026 @ 9:00AM'",
+      "how_to_bid": "This is not a bidding auction: registered third-party purchasers take turns picking certificates of delinquency in an order set by a random drawing. In 2026 the clerk took registration July 21 to July 28, collected all registration and filing fees at registration in certified funds, and drew for the order of placement online on July 31. The 2026 sale location was the Burlington Office, Real Estate Department, 2950 Washington Square. Whether the sale itself is in person or online is not stated.",
+      "sources": [
+        {
+          "url": "https://boonecountyclerk.ky.gov/tax-sale-information/",
+          "read_on": "2026-10-27",
+          "terms": "Accuracy disclaimer only ('The Boone County Clerk's Office is not responsible for info obtained from unofficial sources.'). Linked Privacy & Disability Statement has no reuse terms. No reuse restriction found.",
+          "terms_url": "https://boonecountyclerk.ky.gov/privacy-disability-statement/"
+        },
+        {
+          "url": "https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "State page; shows '© Commonwealth of Kentucky. All rights reserved.' The site's linked Disclaimer page was not read. No reuse restriction found on the page read.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://boonecountyclerk.ky.gov/tax-sale-information/",
+          "quote": "We will draw for the order of placement via online link provided once you register."
+        },
+        {
+          "url": "https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf",
+          "quote": "BOONE 8/4/26"
+        }
+      ],
+      "notes": {
+        "format_note": "The page gives a physical location for the sale and an online drawing for order; it does not say whether purchasers must attend. It also shows a stale deposit deadline of 'July 29, 2025'."
+      }
+    },
+    {
+      "county": "Fayette",
+      "slug": "fayette",
+      "office": "Fayette County Clerk",
+      "phone": "(859) 253-3344",
+      "address": "162 E. Main St., Rm. 132 Lexington, KY 40507",
+      "website": "https://fayettecountyclerk.com/web/landrecords/delinquenttaxes",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Department of Revenue's 2026 list shows Fayette's 2026 sale on 7/24/26 (past); the clerk's page says 'In 2025, the tax sale was held on July 18th.'",
+      "how_to_bid": "This is not a bidding auction: registered third-party purchasers take turns picking certificates of delinquency in an order set by a random drawing. The clerk's most recent procedures notice found (for a September 2024 sale) says the sale is conducted electronically in multiple rounds, with purchaser position set by electronic lottery, and purchasers need not be present. Purchasers register with the clerk by the stated deadline; that notice set fees of $5.00 per certificate on a priority list and $10.00 per certificate on the current list, not to exceed $250.00. Current-year procedures are not posted.",
+      "sources": [
+        {
+          "url": "https://fayettecountyclerk.com/web/landrecords/delinquenttaxes",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer or terms text or link in page content)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.fayettecountyclerk.com/web/forms/taxsaleprocedures.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "State page; shows '© Commonwealth of Kentucky. All rights reserved.' The site's linked Disclaimer page was not read. No reuse restriction found on the page read.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.fayettecountyclerk.com/web/forms/taxsaleprocedures.pdf",
+          "quote": "The sale will be conducted electronically."
+        },
+        {
+          "url": "https://www.fayettecountyclerk.com/web/forms/taxsaleprocedures.pdf",
+          "quote": "determined by electronic lottery"
+        },
+        {
+          "url": "https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf",
+          "quote": "FAYETTE 7/24/26"
+        }
+      ],
+      "notes": {
+        "format_note": "'online' (electronic) is based on the 2024 procedures notice; the current-year notice is not posted."
+      }
+    },
+    {
+      "county": "Jefferson",
+      "slug": "jefferson",
+      "office": "Jefferson County Clerk's Office, Delinquent Tax Department",
+      "phone": "502-574-5884",
+      "address": "527 W Jefferson Rm 100, Louisville, KY 40202",
+      "website": "https://jeffersoncountyclerk.org/delinquent-tax-lottery",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Department of Revenue's 2026 list shows Jefferson's 2026 sale on 7/17/26 (past). The clerk's lottery page still describes the 2025 sale (July 18, 2025).",
+      "how_to_bid": "This is not a bidding auction: registered third-party purchasers take turns picking certificates of delinquency in an order set by a random drawing. The clerk's lottery page (2025 sale) says registration closed a week before the sale, the fee was $10.00 per bill up to a maximum of $250.00, and a drawing of participants set the order of the sale; registrants not present were included but placed at the bottom of the list. The lottery sale is conducted electronically, with the drawing held in Room 106 of Metro Hall, 527 W Jefferson Street. Bills are advertised in the Courier Journal about 30 days before the sale.",
+      "sources": [
+        {
+          "url": "https://jeffersoncountyclerk.org/delinquent-tax-lottery",
+          "read_on": "2026-10-27",
+          "terms": "not found on page",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.jeffersoncountyclerk.org/Legal-Records/Delinquent-Taxes/Delinquent-Taxes-Frequently-Asked-Questions",
+          "read_on": "2026-10-27",
+          "terms": "Accuracy disclaimer only: 'The information listed on this website is provided for your convenience.' and the office 'is not responsible for information or data obtained from unofficial dated sources.' Copyright line '© 2026 Jefferson County Clerk's Office'. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "State page; shows '© Commonwealth of Kentucky. All rights reserved.' The site's linked Disclaimer page was not read. No reuse restriction found on the page read.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://jeffersoncountyclerk.org/delinquent-tax-lottery",
+          "quote": "We will hold a drawing of all participants present to determine the order of the sale."
+        },
+        {
+          "url": "https://jeffersoncountyclerk.org/delinquent-tax-lottery",
+          "quote": "Because the lottery sale is conducted electronically, one representative is allowed to witness the drawing for multiple entities."
+        },
+        {
+          "url": "https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf",
+          "quote": "JEFFERSON 7/17/26"
+        }
+      ],
+      "notes": {
+        "format_note": "The sale is conducted electronically but the order drawing is held in person at Metro Hall; attendance is not required."
+      }
+    },
+    {
+      "county": "Kenton",
+      "slug": "kenton",
+      "office": "Kenton County Clerk",
+      "phone": "(859) 392-1650",
+      "address": "1840 Simon Kenton Way, Suite 1300, Covington, KY 41011",
+      "website": "https://kentonkyclerk.gov/?p=97",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was July 15, 2026 at 10 a.m. (past): 'JULY 15, 2026 @ 10 A.M. Automated Sale for 2025 Certificates of Delinquency'",
+      "how_to_bid": "This is not a bidding auction: registered third-party purchasers take turns picking certificates of delinquency in an order set by a random drawing. Kenton runs an automated sale. For 2026, purchasers registered by July 6 at 4 p.m. and emailed a spreadsheet listing certificates in the order they want to purchase them. The registration fee was $10.00 per tax bill for buyers under the statutory limits (3 or fewer in Kenton, 5 or fewer statewide, under $10,000 statewide) and $250.00 above them. The county page does not describe how the order among purchasers is set.",
+      "sources": [
+        {
+          "url": "https://kentonkyclerk.gov/?p=97",
+          "read_on": "2026-10-27",
+          "terms": "not found (copyright line '© 2025 Kenton County, KY Clerk' only; no disclaimer or terms link)",
+          "terms_url": null
+        },
+        {
+          "url": "https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "State page; shows '© Commonwealth of Kentucky. All rights reserved.' The site's linked Disclaimer page was not read. No reuse restriction found on the page read.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://kentonkyclerk.gov/?p=97",
+          "quote": "Tax Sale Registration Deadline: July 6, 2026 @ 4 p.m."
+        },
+        {
+          "url": "https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf",
+          "quote": "KENTON 7/15/26"
+        }
+      ]
+    }
+  ]
+}

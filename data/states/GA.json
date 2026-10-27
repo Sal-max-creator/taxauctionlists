@@ -1,0 +1,297 @@
+{
+  "state": "GA",
+  "name": "Georgia",
+  "sale_type": "redeemable deed",
+  "overview": "Georgia does not sell tax lien certificates. When property taxes go unpaid, the county sheriff or tax commissioner levies on the property and sells it at a public auction, usually on the courthouse steps on the first Tuesday of a month, and the winning bidder receives a tax deed. That deed conveys only defeasible title at first: the owner or anyone with an interest in the property can redeem it within 12 months of the sale by paying the purchase price plus a premium (20 percent for the first year, and more for each later year) and other allowed costs. After 12 months the buyer may give the statutory notice that forecloses (bars) the right to redeem. Bidding opens at the taxes and costs due, bidders usually must register with the selling office before the sale, and counties generally want cash or certified funds on sale day.",
+  "overview_sources": [
+    {
+      "url": "https://law.justia.com/codes/georgia/title-48/chapter-4/article-3/section-48-4-40/",
+      "quote": "or interest in or lien upon such property may redeem the property from the sale by the payment of the amount required",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://law.justia.com/codes/georgia/title-48/chapter-4/article-3/section-48-4-40/",
+      "quote": "At any time within 12 months from the date of the sale; and",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
+      "quote": "You are reminded that a Sheriff’s Tax Deed only conveys “defeasible title” to property.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
+      "quote": "The Tax Deed, not the property, is sold to the highest bidder.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
+      "quote": "Plus, a 20% premium of the amount for the first year or fraction of a year which has elapsed since the date of sale,",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.gwinnetttaxcommissioner.com/property-tax/delinquent_tax/tax-liens-tax-sales",
+      "quote": "Purchasers must by law allow the owner one year after the date of sale to redeem the property.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://dekalbtaxga.gov/property-tax/tax-sales/",
+      "quote": "Sales are scheduled on the first Tuesday of any given month on the Courthouse steps at 12:00 p.m. or sooner.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Cobb",
+      "slug": "cobb",
+      "office": "Cobb County Tax Commissioner, Property Tax Division",
+      "phone": "770-528-8600",
+      "address": "P.O. Box 100127, Marietta, GA 30061-7027 (mailing); sales held at the Superior Court Plaza, corner of Haynes Street and Washington Avenue",
+      "website": "https://www.cobbtax.gov/property/tax_sale/index.php",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held on the first Tuesday of each month for the months in which we plan a tax sale at the Superior Court Plaza between the hours of 10 a.m. and 4 p.m.",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:00 AM to 4:00 PM; bidder cards issued 9:00 to 10:00 AM",
+          "label": "Tax Commissioner non-judicial tax sale",
+          "deposit": "None stated; full payment in cash or certified check, payable to Cobb County Tax Commissioner, when the sale concludes",
+          "registration_deadline": "Pre-register before the day of the sale; pick up a bidder card 9:00 to 10:00 AM on sale day with photo ID",
+          "list_url": "https://www.cobbtax.gov/Property/Delinquent/Delinquent/Nov%203rd%202026%20Tax%20Sale%20Listing%20for%20website%202026%20Oct%2026.pdf?t=202610261247460",
+          "list_note": "County PDF linked from the Tax Commissioner page; it would not open for us, so check it on the county site.",
+          "note": "Unsold parcels may be re-offered at 3 p.m. that afternoon. The office may add or cancel sales.",
+          "source_url": "https://www.cobbtax.gov/property/tax_sale/index.php",
+          "quote": "November 3, 2026 (non-judicial)."
+        }
+      ],
+      "next_sale_note": "No December 2026 sale listed; the office lists sales only for the months it plans one and posts lists about four weeks ahead.",
+      "how_to_bid": "Pre-register before sale day using the county's pre-registration form, then get a bidder card at the Superior Court Plaza between 9:00 and 10:00 AM on sale day with a valid photo ID. Bidding is in person only (no mail, phone or fax bids) and opens at the taxes, penalties and costs due. Pay the full amount in cash or by certified check payable to Cobb County Tax Commissioner when the sale concludes.",
+      "sources": [
+        {
+          "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page linked. Footer: 'Copyright © 2020-2026 Cobb County Tax Commissioner's Office - All Rights Reserved'. No explicit reuse, redistribution or scraping clause found; restate facts, don't copy page text wholesale.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
+          "quote": "You must pre-register before the day of the sale, and bidding is conducted in person only."
+        },
+        {
+          "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
+          "quote": "Bidder cards are issued from 9:00 a.m. to 10:00 a.m. on the day of the sale."
+        },
+        {
+          "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
+          "quote": "Payment must be in the form of cash or a certified check."
+        },
+        {
+          "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
+          "quote": "We reserve the right to add or cancel tax sales according to our business needs."
+        },
+        {
+          "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
+          "quote": "Tax sale lists are made available four weeks before a scheduled tax sale."
+        }
+      ]
+    },
+    {
+      "county": "DeKalb",
+      "slug": "dekalb",
+      "office": "DeKalb County Tax Commissioner, Delinquent Collections Division",
+      "phone": "404-298-3053 (delinquent tax line on the county tax sale flyer); main line 404-298-4000",
+      "address": "4380 Memorial Drive, Suite 100, Decatur, GA 30032 (Conditions of Tax Sale form); sales held on the DeKalb County Courthouse steps, 556 N McDonough St, Decatur, GA 30030",
+      "website": "https://dekalbtaxga.gov/property-tax/tax-sales/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held each month, generally from April through December. Sales are scheduled on the first Tuesday of any given month on the Courthouse steps at 12:00 p.m. or sooner.",
+      "recurs": "monthly",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "Start time conflicts on the county site: its calendar shows 9:00 to 11:00 AM, the county flyer says check-in 9 AM and sale 10 AM, and the Tax Sales page says 12:00 p.m. or sooner. Call the Tax Commissioner (404-298-3053) to confirm before you go",
+          "label": "Tax Commissioner tax sale (county calendar)",
+          "deposit": "None stated; full bid in cash, cashier's check or certified check, payable to the Tax Commissioner, within one hour after the sale (by 1:30 PM per county forms)",
+          "registration_deadline": "Registration required for each sale; on-site check-in from 9 AM (county flyer)",
+          "note": "Dated entry (rechecked on the county site Oct 27, 2026) on the Tax Commissioner's events calendar. Its description text is out of date (it still names April 7, 2026), and the county's parcel listing page would not load for us, so confirm on the county site.",
+          "source_url": "https://dekalbtaxga.gov/event/tax-sale/2026-11-03/",
+          "quote": "November 3 @ 9:00 am - 11:00 am"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "Start time conflicts on the county site: its calendar shows 9:00 to 11:00 AM, the county flyer says check-in 9 AM and sale 10 AM, and the Tax Sales page says 12:00 p.m. or sooner. Call the Tax Commissioner (404-298-3053) to confirm before you go",
+          "label": "Tax Commissioner tax sale (county calendar)",
+          "deposit": "None stated; full bid in cash, cashier's check or certified check, payable to the Tax Commissioner, within one hour after the sale (by 1:30 PM per county forms)",
+          "registration_deadline": "Registration required for each sale; on-site check-in from 9 AM (county flyer)",
+          "note": "Dated entry (rechecked on the county site Oct 27, 2026) on the Tax Commissioner's events calendar (page URL dated 2026-12-01). Its description text is out of date (it still names April 7, 2026); confirm on the county site.",
+          "source_url": "https://dekalbtaxga.gov/event/tax-sale/2026-12-01/",
+          "quote": "December 1 @ 9:00 am - 11:00 am"
+        }
+      ],
+      "next_sale_note": "The county may add or cancel sales; notices run for four weeks in The Champion, the county's legal organ.",
+      "how_to_bid": "Register for each sale with the Tax Commissioner's pre-registration (the county links its GTS registration form), then check in at the DeKalb County Courthouse steps from 9 AM; business bidders bring their articles of incorporation. Bidding opens at the taxes and costs due and goes to the highest bidder by paddle. Pay the full bid in cash (U.S. dollars), cashier's check or certified check payable to the Tax Commissioner within one hour after the sale; personal and business checks, ACH, money orders and cards are not accepted.",
+      "sources": [
+        {
+          "url": "https://dekalbtaxga.gov/property-tax/tax-sales/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page linked. Footer: '© Copyright 2026. DeKalb County Tax Commissioner’s Office. All Rights Reserved.' No explicit reuse, redistribution or scraping clause found; restate facts, don't copy page text wholesale.",
+          "terms_url": "https://dekalbtaxga.gov/privacy-policy/"
+        },
+        {
+          "url": "https://dekalbtaxga.gov/event/tax-sale/2026-11-03/",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://dekalbtaxga.gov/privacy-policy/"
+        },
+        {
+          "url": "https://dekalbtaxga.gov/event/tax-sale/2026-12-01/",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://dekalbtaxga.gov/privacy-policy/"
+        },
+        {
+          "url": "https://dekalbtaxga.gov/wp-content/uploads/Tax-Sale-Flyer.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above; flyer is for the September 1, 2026 sale but gives the standing payment and check-in rules",
+          "terms_url": "https://dekalbtaxga.gov/privacy-policy/"
+        },
+        {
+          "url": "https://dekalbtaxga.gov/wp-content/uploads/Conditions-of-Tax-Sale-Form.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://dekalbtaxga.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://dekalbtaxga.gov/property-tax/tax-sales/",
+          "quote": "Tax sales are held each month, generally from April through December."
+        },
+        {
+          "url": "https://dekalbtaxga.gov/wp-content/uploads/Conditions-of-Tax-Sale-Form.pdf",
+          "quote": "PERSONAL CHECKS WILL NOT BE ACCEPTED."
+        },
+        {
+          "url": "https://dekalbtaxga.gov/wp-content/uploads/Tax-Sale-Flyer.pdf",
+          "quote": "REGISTRATION REQUIRED FOR EACH SALE."
+        }
+      ]
+    },
+    {
+      "county": "Fulton",
+      "slug": "fulton",
+      "office": "Fulton County Sheriff's Office (tax / levy sales)",
+      "phone": "404-612-4000 (Fulton County customer service, listed on the tax sales page)",
+      "address": "185 Central Ave., 9th Floor, Atlanta, GA 30303, Attention: Property Tax (excess funds mail); sales held on the courthouse steps, 136 Pryor Street SW, Atlanta, GA 30303",
+      "website": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Fulton County Sheriff’s Tax Sales are held on the first Tuesday of each month, between the hours of 10 a.m. and 4 p.m.",
+      "recurs": "monthly",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "Between 10:00 AM and 4:00 PM",
+          "label": "Sheriff's tax / levy sale",
+          "deposit": "Not stated",
+          "registration_deadline": "Not stated; the page links a bidder registration form",
+          "list_url": "https://www.fultoncountyga.gov/-/media/FCSO-November-3-2026-Sale-List--1st-Posting.pdf",
+          "list_note": "Sheriff's sale list, 1st posting (PDF on the county site).",
+          "note": "Held on the courthouse steps, 136 Pryor Street SW. If the first Tuesday is a legal holiday the sale moves to the next business day.",
+          "source_url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
+          "quote": "Sheriff’s November 3, 2026, Tax / Levy Sale."
+        }
+      ],
+      "next_sale_note": "December 2026 list not yet posted.",
+      "how_to_bid": "Register using the bidder registration form linked from the Sheriff's Tax Sales page, then bid in person on the courthouse steps at 136 Pryor Street SW. Payment terms and deposit are not stated on the page; a buyer who fails to comply with the terms of sale is liable for the purchase money. The Sheriff may rescind a sale within 30 days with a full refund, and the Sheriff's Tax Deed conveys only defeasible title until the right to redeem is barred.",
+      "sources": [
+        {
+          "url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "No terms page linked. Privacy Statement says information collected through the site is public information under the Georgia Open Records Act; footer '©2026 Fulton County Government'. No reuse or scraping clause found.",
+          "terms_url": "https://www.fultoncountyga.gov/Privacy-Statement"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
+          "quote": "The tax sales will be held on the courthouse steps of 136 Pryor Street SW, Atlanta, GA 30303."
+        },
+        {
+          "url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
+          "quote": "The Levy Officer reserves the right to rescind any tax sale within 30 days."
+        }
+      ]
+    },
+    {
+      "county": "Gwinnett",
+      "slug": "gwinnett",
+      "office": "Gwinnett County Tax Commissioner",
+      "phone": "770-822-8800",
+      "address": "Gwinnett Justice & Administration Center, 75 Langley Drive, Lawrenceville, GA 30046",
+      "website": "https://www.gwinnetttaxcommissioner.com/property-tax/delinquent_tax/tax-liens-tax-sales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales may be held on the first Tuesday of any month,",
+      "sales": [
+        {
+          "date": "2026-12-01",
+          "time": "10:00 AM (the county's general tax sale time)",
+          "label": "Tax Commissioner tax sale",
+          "deposit": "None stated; certified funds only (cash or cashier's check payable to Gwinnett County Tax Commissioner) no later than one hour after the sale ends",
+          "registration_deadline": "Register at the Tax Commissioner's office before the sale starts",
+          "note": "Listed under Upcoming Tax Sales. Property list not yet posted when we checked. Held in front of the Gwinnett Justice & Administration Center, 75 Langley Drive, Lawrenceville.",
+          "source_url": "https://www.gwinnetttaxcommissioner.com/property-tax/delinquent_tax/tax-liens-tax-sales",
+          "quote": "December 1, 2026"
+        }
+      ],
+      "next_sale_note": "The tax commissioner holds sales only in a few selected months; no November 2026 sale is listed.",
+      "how_to_bid": "Register with the Tax Commissioner's office inside the Justice & Administration Center before the sale starts (filling in the Bidder Registration Form in advance speeds this up). Bidding opens at the taxes and costs due. Pay with certified funds (cash or cashier's check payable to Gwinnett County Tax Commissioner) at the Tax Commissioner's office no later than one hour after the sale ends.",
+      "sources": [
+        {
+          "url": "https://www.gwinnetttaxcommissioner.com/property-tax/delinquent_tax/tax-liens-tax-sales",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or privacy page linked. Footer: 'Copyright 2026. Official website of Gwinnett County Tax Commissioner'. Page says employees cannot give legal advice. No reuse or scraping clause found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.gwinnetttaxcommissioner.com/property-tax",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.gwinnetttaxcommissioner.com/documents/d/egov/tax-sale-prospective-bidders-and-purchasers-info",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.gwinnetttaxcommissioner.com/property-tax",
+          "quote": "Lawrenceville 30046 at 10am."
+        },
+        {
+          "url": "https://www.gwinnetttaxcommissioner.com/property-tax/delinquent_tax/tax-liens-tax-sales",
+          "quote": "Only certified funds are accepted."
+        },
+        {
+          "url": "https://www.gwinnetttaxcommissioner.com/documents/d/egov/tax-sale-prospective-bidders-and-purchasers-info",
+          "quote": "Payment must be made no later than one hour following the conclusion of the sale at the Tax Commissioner's office."
+        },
+        {
+          "url": "https://www.gwinnetttaxcommissioner.com/property-tax/delinquent_tax/tax-liens-tax-sales",
+          "quote": "the tax commissioner generally only holds sales in a few selected months."
+        }
+      ]
+    }
+  ]
+}

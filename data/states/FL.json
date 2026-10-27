@@ -349,6 +349,380 @@
           "quote": "https://orange.realtaxdeed.com"
         }
       ]
+    },
+    {
+      "county": "Duval",
+      "slug": "duval",
+      "office": "Duval County Clerk of Courts - Tax Deed Department",
+      "phone": "(904) 255-1916",
+      "address": "501 West Adams Street, Room 1054, Jacksonville, FL 32202",
+      "website": "https://www.duvalclerk.gov/departments/county-services/tax-deed-files",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://duval.realtaxdeed.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Clerk posts each tax deed sale date and property list 30 days ahead on the online auction calendar (link-only platform), not on its own pages. The Tax Collector's 2027 tax certificate sale date is not yet posted (the 2026 sale was May 27, 2026).",
+      "how_to_bid": "Register on the online auction site and place a non-refundable deposit of 5% of the bid or $200, whichever is greater, no later than 4:00 p.m. the day before the sale (ACH through the auction site, or cashier's check, money order or certified check at the Clerk's Office, Room 1054). Winning bidders pay the balance and deed fees by 4:00 p.m. the next business day after the sale. Tax certificates are sold separately by the Tax Collector in an online sale each spring, with a bidder deposit of $100 or 10% of the amount you want to bid, whichever is greater.",
+      "sources": [
+        {
+          "url": "https://www.duvalclerk.gov/departments/county-services/tax-deed-files",
+          "read_on": "2026-10-27",
+          "terms": "No reuse/redistribution restriction found. Site policies say 'Copyright in the Material on this Web Site is owned by the Duval County Clerk of Court' and use of the site means accepting the disclaimer.",
+          "terms_url": "https://www.duvalclerk.gov/site-policies"
+        },
+        {
+          "url": "https://taxcollector.jacksonville.gov/taxes/property-taxes/tax-sale,-certificates,-and-tax-deeds",
+          "read_on": "2026-10-27",
+          "terms": "No reuse/redistribution restriction found. Disclaimer says copyright in the site material is owned by the City of Jacksonville.",
+          "terms_url": "https://taxcollector.jacksonville.gov/disclaimer-and-privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.duvalclerk.gov/departments/county-services/tax-deed-files",
+          "quote": "Our office posts the sale date and a list of properties 30 days before the auction."
+        },
+        {
+          "url": "https://www.duvalclerk.gov/departments/county-services/tax-deed-files",
+          "quote": "Sales are held on our auction website, duval.realtaxdeed.com in accordance with Section 197.542(4)(a), Florida Statutes."
+        },
+        {
+          "url": "https://www.duvalclerk.gov/departments/county-services/tax-deed-files",
+          "quote": "a non-refundable deposit of five percent of the bid or $200, whichever is greater."
+        },
+        {
+          "url": "https://www.duvalclerk.gov/departments/county-services/tax-deed-files",
+          "quote": "This deposit must be placed no later than 4:00 p.m. the day BEFORE the sale."
+        },
+        {
+          "url": "https://www.duvalclerk.gov/departments/county-services/tax-deed-files",
+          "quote": "by 4:00 p.m. the next business day after the sale."
+        },
+        {
+          "url": "https://taxcollector.jacksonville.gov/taxes/property-taxes/tax-sale,-certificates,-and-tax-deeds",
+          "quote": "The 2026 Duval Tax Certificate Sale will be May 27th, 2026."
+        },
+        {
+          "url": "https://taxcollector.jacksonville.gov/taxes/property-taxes/tax-sale,-certificates,-and-tax-deeds",
+          "quote": "A deposit of $100 or 10% of the total amount you want to bid, whichever is greater, is required."
+        },
+        {
+          "url": "https://taxcollector.jacksonville.gov/taxes/property-taxes/tax-sale,-certificates,-and-tax-deeds",
+          "quote": "Tax Deed sales are managed by the Duval County Clerk of Court."
+        }
+      ]
+    },
+    {
+      "county": "Pinellas",
+      "slug": "pinellas",
+      "office": "Pinellas County Clerk of the Circuit Court and Comptroller - Official Records Department, Tax Deeds",
+      "phone": "(727) 464-3424",
+      "address": "315 Court Street, Room 163, Clearwater, FL 33756",
+      "website": "https://www.mypinellasclerk.gov/Home/Recording-Services",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://pinellas.realtaxdeed.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Tax deed sale dates are only on the online auction calendar (link-only platform), not on the Clerk's pages. The Tax Collector's 2027 tax certificate sale date is not yet posted (held on or before June 1 each year).",
+      "how_to_bid": "Tax deed sales are held online on scheduled sale days beginning at 11:00 AM Eastern; bidding requirements and payments are explained on the auction site's Tax Deed Sale Process page. Public terminals are available at Official Records, Room 163, Clearwater Courthouse, and at the Judicial Building in St. Petersburg. Deposit and payment deadlines are not stated on the Clerk's page. Tax certificates are sold separately by the Tax Collector in an annual online sale.",
+      "sources": [
+        {
+          "url": "https://www.mypinellasclerk.gov/Home/Recording-Services",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use: 'All rights reserved.'; bars overburdening the site or obtaining information 'through any means not intentionally made available'. No explicit clause on copying or reuse of public information.",
+          "terms_url": "https://www.mypinellasclerk.gov/terms"
+        },
+        {
+          "url": "https://pinellastaxcollector.gov/property-tax/tax-certificate-and-tax-deed",
+          "read_on": "2026-10-27",
+          "terms": "No reuse/redistribution restriction found; only a privacy policy and footer '© 2026 Pinellas County Tax Collector All Rights Reserved'.",
+          "terms_url": "https://pinellastaxcollector.gov/privacypolicy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mypinellasclerk.gov/Home/Recording-Services",
+          "quote": "on scheduled sale days beginning at 11:00 AM EST/EDT."
+        },
+        {
+          "url": "https://www.mypinellasclerk.gov/Home/Recording-Services",
+          "quote": "To check for upcoming sale dates, view the Auction Calendar page."
+        },
+        {
+          "url": "https://www.mypinellasclerk.gov/Home/Recording-Services",
+          "quote": "The Sale of a particular property is subject to change without notice."
+        },
+        {
+          "url": "https://www.mypinellasclerk.gov/Home/Recording-Services",
+          "quote": "For Tax Certificate Sales, please visit the Pinellas County Tax Collector."
+        },
+        {
+          "url": "https://pinellastaxcollector.gov/property-tax/tax-certificate-and-tax-deed",
+          "quote": "The tax collector is required by law to hold a tax certificate sale on or before June 1st each year."
+        },
+        {
+          "url": "https://pinellastaxcollector.gov/property-tax/tax-certificate-and-tax-deed",
+          "quote": "Our tax certificate sale is held each year on RealAuction."
+        }
+      ]
+    },
+    {
+      "county": "Lee",
+      "slug": "lee",
+      "office": "Lee County Clerk of Court (tax deed sales)",
+      "phone": null,
+      "address": null,
+      "website": "https://www.leeclerk.org/i-want-to/ask/frequently-asked-questions/tax-deed-sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax deed sale dates on the Clerk's pages; sales are held at the date and time set for each sale on the online auction site (link-only platform). The Tax Collector's 2027 tax certificate sale date is not yet posted (listed only as May).",
+      "how_to_bid": "Register on the RealAuction website and place a deposit of $200 or 5 percent of your maximum bid, whichever is greater, for each item you expect to win; it is not necessary to be present on sale day. The winning bidder's nonrefundable deposit is $200 or 5 percent of the winning bid, and full payment must reach the Clerk by 1 p.m. the business day after the sale or the deposit is forfeited. Clerk phone and address not stated on the page read. Tax certificates are sold separately by the Tax Collector in an online sale in May.",
+      "sources": [
+        {
+          "url": "https://www.leeclerk.org/i-want-to/ask/frequently-asked-questions/tax-deed-sales",
+          "read_on": "2026-10-27",
+          "terms": "Clerk's Disclaimer covers accuracy ('Visitors are encouraged to review the official version of all documents upon which they plan to rely.'), outside links and public records law. No clause on copying or reuse.",
+          "terms_url": "https://www.leeclerk.org/about-us/disclaimer"
+        },
+        {
+          "url": "https://www.leetc.com/taxes/tax-certificates",
+          "read_on": "2026-10-27",
+          "terms": "No reuse/redistribution restriction found; Terms of Use page says only 'Copyright 2026 Lee County Tax Collector. All rights reserved.'",
+          "terms_url": "https://leetc.com/terms-of-use/"
+        },
+        {
+          "url": "https://leetc.com/about-us/important-dates-events/",
+          "read_on": "2026-10-27",
+          "terms": "Same site terms as above.",
+          "terms_url": "https://leetc.com/terms-of-use/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.leeclerk.org/i-want-to/ask/frequently-asked-questions/tax-deed-sales",
+          "quote": "Tax deed sales are conducted online RealAuction website, and it is not necessary to be present on the day of the sale."
+        },
+        {
+          "url": "https://www.leeclerk.org/i-want-to/ask/frequently-asked-questions/tax-deed-sales",
+          "quote": "bidders must register on the RealAuction website"
+        },
+        {
+          "url": "https://www.leeclerk.org/i-want-to/ask/frequently-asked-questions/tax-deed-sales",
+          "quote": "of $200 or 5 percent of the winning bid, whichever is greater."
+        },
+        {
+          "url": "https://www.leeclerk.org/i-want-to/ask/frequently-asked-questions/tax-deed-sales",
+          "quote": "If full payment is not made by 1 p.m. the business day following the sale, your deposit will be forfeited."
+        },
+        {
+          "url": "https://www.leetc.com/taxes/tax-certificates",
+          "quote": "If taxes remain unpaid up to June, the Tax Collector, by law, must hold an auction to pay off the taxes."
+        },
+        {
+          "url": "https://leetc.com/about-us/important-dates-events/",
+          "quote": "Tax certificates will be sold on all delinquent real estate parcels. The sale will be conducted online."
+        }
+      ]
+    },
+    {
+      "county": "Polk",
+      "slug": "polk",
+      "office": "Polk County Clerk of Courts & Comptroller - Tax Deeds",
+      "phone": "863-534-4000",
+      "address": null,
+      "website": "https://www.polkclerkfl.gov/189",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://www.polk.realtaxdeed.com/"
+      },
+      "schedule_rule": "All tax deed sales shall be advertised and held on the third Thursday of each month and shall begin promptly at 9:30 am.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "The Clerk posts a monthly rule, not specific dates; per the Clerk, a sale falling on a holiday moves to the previous day. The Tax Collector's 2027 tax certificate sale date is not yet posted (held no later than June 1).",
+      "how_to_bid": "Register online to get a bidder number and deposit funds into your account before the sale. The deposit is 5% of the final bid or $200, whichever is greater, and is non-refundable. The successful bidder must pay the balance and fees to the Clerk by 11 a.m. the following business day (or within 24 hours of the sale), or the deposit is kept. Street address not stated on the tax deed page. Tax certificates are sold separately by the Tax Collector in an online sale open only to pre-registered bidders.",
+      "sources": [
+        {
+          "url": "https://www.polkclerkfl.gov/189",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy & Terms of Use prohibit systematic or programmatic downloading: 'The User agrees to access the information contained in the site manually and not programmatically'. No ban on reusing information; copyright page says 'All content © 2006-2026 Polk County Clerk, FL ... All rights reserved.'",
+          "terms_url": "https://www.polkclerkfl.gov/privacy"
+        },
+        {
+          "url": "https://www.polktaxes.com/services/delinquency-and-tax-sale-information/",
+          "read_on": "2026-10-27",
+          "terms": "Tax Collector's terms link to a downloadable privacy statement (not read); page notes accuracy 'is not guaranteed for legal purposes'.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.polktaxes.com/important-deadlines/",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.polkclerkfl.gov/189",
+          "quote": "All tax deed sales shall be advertised and held on the third Thursday of each month and shall begin promptly at 9:30 am."
+        },
+        {
+          "url": "https://www.polkclerkfl.gov/189",
+          "quote": "Deposit must be five % of the final bid or $200, whichever is greater."
+        },
+        {
+          "url": "https://www.polkclerkfl.gov/189",
+          "quote": "All bidders must register online to get their bidder number"
+        },
+        {
+          "url": "https://www.polktaxes.com/services/delinquency-and-tax-sale-information/",
+          "quote": "Only pre-registered bidders may participate in the tax certificate auction."
+        },
+        {
+          "url": "https://www.polktaxes.com/important-deadlines/",
+          "quote": "A tax certificate sale is held on or before June 1st for unpaid real estate taxes, assessed in the prior year."
+        }
+      ],
+      "notes": {
+        "automation_note": "polkclerkfl.gov terms forbid programmatic downloading; consider adding it to NO_AUTOMATION_HOSTS in scripts/lib/rules.mjs."
+      }
+    },
+    {
+      "county": "Brevard",
+      "slug": "brevard",
+      "office": "Brevard County Clerk of the Court and Comptroller - Tax Deeds",
+      "phone": "(321) 637-5413",
+      "address": "400 South St., Titusville, FL 32780 (Titusville office; payments accepted there only)",
+      "website": "https://www.brevardclerk.us/tax-deeds",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealForeclose)",
+        "url": "https://www.brevard.realforeclose.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Tax deed sales are held throughout the year; specific dates are not posted on the Clerk's pages read (only on the online auction site, link-only). The Tax Collector's 2027 tax certificate sale date is not yet posted (begins on or before June 1).",
+      "how_to_bid": "Set up an account through RealAuction and deposit sufficient funds before the sale; each property requires a deposit of $200.00 or 5% of the bid amount, whichever is greater, which is non-refundable. The balance must be paid by noon on the business day after the sale, in certified funds at the Titusville office (the Clerk's FAQ says the sale is canceled if final payment is not received by 3:00 PM that day). Tax certificate questions go to the Tax Collector's Delinquent Tax Department, (321) 264-6969.",
+      "sources": [
+        {
+          "url": "https://www.brevardclerk.us/faqs-tax",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use reserve all rights: 'Access to this Site does not confer ... any license or other rights to the Website, the Contents or the compilation of Contents.' No express ban on reuse or scraping found; disclaimer covers advertising/hotlinks only.",
+          "terms_url": "https://www.brevardclerk.us/about/resources/terms-of-use/"
+        },
+        {
+          "url": "https://www.brevardclerk.us/tax-deeds",
+          "read_on": "2026-10-27",
+          "terms": "Same site terms as above.",
+          "terms_url": "https://www.brevardclerk.us/about/resources/terms-of-use/"
+        },
+        {
+          "url": "https://www.brevardtaxcollector.com/important-dates/",
+          "read_on": "2026-10-27",
+          "terms": "No terms page; footer says content 'is property of the Brevard County Tax Collector' and '© 2018 ... All rights reserved.'",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.brevardclerk.us/faqs-tax",
+          "quote": "Tax deed sales are held throughout the year."
+        },
+        {
+          "url": "https://www.brevardclerk.us/faqs-tax",
+          "quote": "Tax Deed sales will be conducted online at www.brevard.realforeclose.com."
+        },
+        {
+          "url": "https://www.brevardclerk.us/faqs-tax",
+          "quote": "All bidders must have an account set up through RealAuction and must have sufficient funds deposited"
+        },
+        {
+          "url": "https://www.brevardclerk.us/faqs-tax",
+          "quote": "The balance of the bid must be paid by noon on the business day immediately following the tax deed sale."
+        },
+        {
+          "url": "https://www.brevardclerk.us/tax-deeds",
+          "quote": "Payments are accepted in our Titusville office only. Payment must be in certified funds."
+        },
+        {
+          "url": "https://www.brevardtaxcollector.com/important-dates/",
+          "quote": "Tax certificate sale for delinquent real estate taxes begins on or before June 1st."
+        }
+      ]
+    },
+    {
+      "county": "Volusia",
+      "slug": "volusia",
+      "office": "Volusia County Clerk of the Circuit Court - Tax Deed Department",
+      "phone": "(386) 736-5919",
+      "address": "101 N. Alabama Avenue, Room C119, DeLand, FL (mailing: P.O. Box 6043, DeLand, FL 32721)",
+      "website": "https://www.clerk.org/tax-deeds.aspx",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://www.volusia.realtaxdeed.com"
+      },
+      "schedule_rule": "Tax Deed sales are held online at www.volusia.realtaxdeed.com at 9:00 AM ET.",
+      "sales": [],
+      "next_sale_note": "No sale dates on the Clerk's tax deed page; dates appear in the Clerk's Tax Deed Inquiry (whose terms bar republishing its data) and on the auction calendar (link-only). The Tax Collector's 2027 tax certificate sale date is not yet posted (held on or before June 1).",
+      "how_to_bid": "Register at the online auction site to get a username and password. The winning bidder posts a non-refundable deposit of 5 percent of the final bid or $200.00, whichever is greater; the balance must arrive by wire, cashier's check or money order no later than 12:00 PM ET the next business day after the sale. Tax certificates are sold separately by the Tax Collector in an online sale through its vendor, LienHub.",
+      "sources": [
+        {
+          "url": "https://www.clerk.org/tax-deeds.aspx",
+          "read_on": "2026-10-27",
+          "terms": "Site disclaimer (contact page) covers accuracy/liability only, no reuse restriction. Note: the Clerk's separate Tax Deed Inquiry app (app02.clerk.org/or_td) has terms stating 'The User is expressly prohibited from reproducing, publishing on-line, selling, reselling' its data; it was not used.",
+          "terms_url": "https://www.clerk.org/contact.aspx"
+        },
+        {
+          "url": "https://www.volusiatax.gov/taxes/tax-certificate-info.html",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found on volusiatax.gov.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.clerk.org/tax-deeds.aspx",
+          "quote": "Tax Deed sales are held online at www.volusia.realtaxdeed.com at 9:00 AM ET."
+        },
+        {
+          "url": "https://www.clerk.org/tax-deeds.aspx",
+          "quote": "a non-refundable deposit equal to 5 percent of the final bid or $200.00, whichever is greater"
+        },
+        {
+          "url": "https://www.clerk.org/tax-deeds.aspx",
+          "quote": "Wire transfer must be received no later than 12:00 PM ET on the next business day after the sale."
+        },
+        {
+          "url": "https://www.clerk.org/tax-deeds.aspx",
+          "quote": "bidders must register at www.volusia.realtaxdeed.com to obtain a Username and Password."
+        },
+        {
+          "url": "https://www.volusiatax.gov/taxes/tax-certificate-info.html",
+          "quote": "On or before June 1 of the same year the taxes become delinquent, the tax collector holds a public sale of tax certificates."
+        },
+        {
+          "url": "https://www.volusiatax.gov/taxes/tax-certificate-info.html",
+          "quote": "In Volusia County, tax certificate sales are currently held over the internet with our tax sale vendor - LienHub."
+        }
+      ]
     }
   ]
 }

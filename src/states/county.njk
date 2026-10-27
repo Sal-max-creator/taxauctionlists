@@ -60,6 +60,7 @@ eleventyComputed:
   <li><a href="{{ s.url }}" rel="nofollow noopener">{{ s.url }}</a> <span class="muted">checked {{ s.read_on | shortDate }}</span></li>
 {% endfor %}
 </ul>
+<p class="muted">Source: {{ c.fullName }}, {{ c.state.name }} official websites listed above. {{ site.name }} is independent and is not affiliated with or endorsed by {{ c.fullName }}.</p>
 
 <h2>More {{ c.state.name }} tax sales</h2>
 <ul class="inline-list">

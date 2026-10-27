@@ -269,6 +269,256 @@
           "quote": "The Treasurer also conducts the annual tax lien sale and in conjunction with that sale, he issues Certificates of Purchase."
         }
       ]
+    },
+    {
+      "county": "Apache",
+      "slug": "apache",
+      "office": "Apache County Treasurer's Office",
+      "phone": "928-337-7629",
+      "address": "75 West Cleveland, St. Johns, AZ (mailing: PO Box 699, St. Johns, AZ 85936)",
+      "website": "https://www.apachecountyaz.gov/Treasurer",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Apache County Official Tax Lien Auction site (URL not given on the county page)",
+        "url": null
+      },
+      "schedule_rule": "Apache County holds its annual tax lien auction every February.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county says \"The date is usually announced during the month of December.\"",
+      "how_to_bid": "The county holds the auction online at its official tax lien auction site, each February. Liens left unsold can be bought over the counter from mid-March through December 31. The page does not state the auction time, registration steps or a deposit.",
+      "sources": [
+        {
+          "url": "https://www.apachecountyaz.gov/Treasurer",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer, terms or copyright text found on the Treasurer page, and no site terms page turned up in a search of the county domain.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.apachecountyaz.gov/Treasurer",
+          "quote": "The date is usually announced during the month of December."
+        },
+        {
+          "url": "https://www.apachecountyaz.gov/Treasurer",
+          "quote": "We hold our auction online at the Apache County Official Tax Lien Auction site."
+        },
+        {
+          "url": "https://www.apachecountyaz.gov/Treasurer",
+          "quote": "You may purchase these \"leftover\"parcels over the counter from mid-March through December 31 each year."
+        }
+      ]
+    },
+    {
+      "county": "Cochise",
+      "slug": "cochise",
+      "office": "Cochise County Treasurer's Office",
+      "phone": "520-432-8400 (Back Tax Department: option 3, then option 2)",
+      "address": "1415 Melody Lane, Building E, Bisbee, AZ 85603 (mailing: P.O. Box 1778, Bisbee, AZ 85603)",
+      "website": "https://www.cochise.az.gov/439/Treasurer",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Not confirmed: the county's tax lien PDF names GovEase, its parcel-inquiry help page names Real Auction",
+        "url": null
+      },
+      "schedule_rule": "Arizona law requires the tax lien sale to be held each February.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county FAQ says the date \"will be posted on the Cochise County Treasurer's page prior to the month of February.\" The newest dated sale on the county calendar is February 13, 2024.",
+      "how_to_bid": "Register as a bidder before the sale (the county's tax lien information names GovEase, with name, mailing address, phone and SSN or EIN; each name needs its own bid number). Bidding runs down from 16% and the lowest interest rate wins. Payment is due by 5:00 p.m. Arizona time the Monday after the sale. No deposit is mentioned. The county posts a nightly-updated list of available liens.",
+      "sources": [
+        {
+          "url": "https://cochise.az.gov/FAQ.aspx?QID=364",
+          "read_on": "2026-10-27",
+          "terms": "Footer has no disclaimer, terms or copyright link. The county's parcel-inquiry site links a 'Web Disclaimer' (cochise.az.gov/terms-use), which could not be loaded.",
+          "terms_url": "https://www.cochise.az.gov/terms-use"
+        },
+        {
+          "url": "https://www.cochise.az.gov/439/Treasurer",
+          "read_on": "2026-10-27",
+          "terms": "Footer has no disclaimer, terms or copyright link.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.cochise.az.gov/DocumentCenter/View/954/Tax-Lien-Information-Part-I-PDF",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.cochise.az.gov/Calendar.aspx?EID=2406",
+          "read_on": "2026-10-27",
+          "terms": "Footer has no disclaimer, terms or copyright link.",
+          "terms_url": null
+        },
+        {
+          "url": "https://parcelinquirytreasurer.cochise.az.gov/Main/Help",
+          "read_on": "2026-10-27",
+          "terms": "Links a 'Web Disclaimer' at cochise.az.gov/terms-use, which could not be loaded; no reuse terms read.",
+          "terms_url": "https://www.cochise.az.gov/terms-use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cochise.az.gov/FAQ.aspx?QID=364",
+          "quote": "The date for the Cochise County tax lien sale will be posted on the Cochise County Treasurer's page prior to the month of February."
+        },
+        {
+          "url": "https://www.cochise.az.gov/DocumentCenter/View/954/Tax-Lien-Information-Part-I-PDF",
+          "quote": "conducts the annual Tax Lien Sale in February, date TBD"
+        },
+        {
+          "url": "https://www.cochise.az.gov/DocumentCenter/View/954/Tax-Lien-Information-Part-I-PDF",
+          "quote": "The award will be to the person who bids the lowest rate of interest."
+        },
+        {
+          "url": "https://parcelinquirytreasurer.cochise.az.gov/Main/Help",
+          "quote": "Cochise County Treasurer uses Real Auction to host it's annual tax sale"
+        },
+        {
+          "url": "https://www.cochise.az.gov/Calendar.aspx?EID=2406",
+          "quote": "The Cochise County Treasurer's tax lien sale will be held through GovEase starting on Tuesday, February 13, 2024."
+        },
+        {
+          "url": "https://www.cochise.az.gov/439/Treasurer",
+          "quote": "The map and list of available tax liens is updated nightly."
+        }
+      ]
+    },
+    {
+      "county": "Coconino",
+      "slug": "coconino",
+      "office": "Coconino County Treasurer's Office",
+      "phone": "928-679-8188 (toll free 877-500-1818)",
+      "address": "110 E. Cherry Ave., Flagstaff, AZ 86001",
+      "website": "https://www.coconino.az.gov/DocumentCenter/View/55/Tax-Certificate-Process",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Official Tax Certificate Auction Site for Coconino County (RealAuction)",
+        "url": "https://coconino.arizonataxsale.com"
+      },
+      "schedule_rule": "The Tax Certificate auction must take place during the month of February.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's tax certificate guide gives only the month (February) and says the list is published in January or February.",
+      "how_to_bid": "Register with the county's official tax certificate auction site. Bids are interest rates from 16% down to 0%, and the certificate goes to the bidder willing to take the lowest rate. The county pages read do not state a sale time or deposit.",
+      "sources": [
+        {
+          "url": "https://www.coconino.az.gov/DocumentCenter/View/55/Tax-Certificate-Process",
+          "read_on": "2026-10-27",
+          "terms": "not found (the county site shows no disclaimer, terms or copyright link; standard CivicPlus disclaimer/copyright pages returned errors)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.coconino.az.gov/1596/Delinquent-Tax-Collection",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.coconino.az.gov/DocumentCenter/View/55/Tax-Certificate-Process",
+          "quote": "The list is published in January or February each year."
+        },
+        {
+          "url": "https://www.coconino.az.gov/DocumentCenter/View/55/Tax-Certificate-Process",
+          "quote": "Bids are entered with the certificate going to the bidder willing to take the lowest interest rate."
+        },
+        {
+          "url": "https://www.coconino.az.gov/DocumentCenter/View/55/Tax-Certificate-Process",
+          "quote": "The interest on a certificate ranges from 0 to 16%."
+        }
+      ]
+    },
+    {
+      "county": "Gila",
+      "slug": "gila",
+      "office": "Gila County Treasurer's Office",
+      "phone": "(928) 402-8700",
+      "address": "1400 E. Ash Street, Globe, AZ 85501 (mailing: PO Box 1093, Globe, AZ 85502)",
+      "website": "https://www.gilacountyaz.gov/government/treasurer/index.php",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Offering delinquent taxes for purchase at a Tax Lien Sale in February",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's tax lien sale page still describes the 2020 sale (in person at the Gila County Courthouse); current format not stated.",
+      "how_to_bid": "not stated for the current sale. The county's older (2020) sale page described an in-person auction at the courthouse with same-day registration, bidding on the interest rate, and payment in cash or cashier's check at the time of sale.",
+      "sources": [
+        {
+          "url": "https://www.gilacountyaz.gov/government/treasurer/index.php",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer, terms or copyright text on the page)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.gilacountyaz.gov/government/treasurer/tax_lein_sale.php",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.gilacountyaz.gov/government/treasurer/index.php",
+          "quote": "Office: (928) 402-8700"
+        }
+      ]
+    },
+    {
+      "county": "Yuma",
+      "slug": "yuma",
+      "office": "Yuma County Treasurer",
+      "phone": "928-539-7781",
+      "address": "197 S. Main St., Suite 203, Yuma, AZ 85364",
+      "website": "https://www.yumacountyaz.gov/government/treasurer/tax-lien-information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's tax lien page still shows \"February of 2026\" and says \"Auction day & registration time to be announced\"; venue listed as the Yuma County Board of Supervisors Auditorium.",
+      "how_to_bid": "Bring a W-9 and the county's Bidder Form (both posted on the tax lien page). The county's 2025 sale booklet said registration was 1 hour before the auction and no deposit was required; bidding starts at 16% and the interest on a certificate ranges from 0 to 16%. Confirm current rules with the Treasurer's Office.",
+      "sources": [
+        {
+          "url": "https://www.yumacountyaz.gov/government/treasurer/tax-lien-information",
+          "read_on": "2026-10-27",
+          "terms": "Page note: 'The accuracy of the information contained here is not guaranteed for legal purposes.' The site's About This Website page has no copyright or reuse terms (only a statute on use of the county seal).",
+          "terms_url": "https://www.yumacountyaz.gov/government/about-this-website"
+        },
+        {
+          "url": "https://www.yumacountyaz.gov/government/treasurer",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.yumacountyaz.gov/government/about-this-website"
+        },
+        {
+          "url": "https://www.yumacountyaz.gov/home/showpublisheddocument/56363/638717681934600000",
+          "read_on": "2026-10-27",
+          "terms": "same as above (2025 sale booklet)",
+          "terms_url": "https://www.yumacountyaz.gov/government/about-this-website"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.yumacountyaz.gov/government/treasurer/tax-lien-information",
+          "quote": "Auction day & registration time to be announced"
+        },
+        {
+          "url": "https://www.yumacountyaz.gov/government/treasurer/tax-lien-information",
+          "quote": "Yuma County Board of Supervisors Auditorium"
+        },
+        {
+          "url": "https://www.yumacountyaz.gov/home/showpublisheddocument/56363/638717681934600000",
+          "quote": "W9 and Bidder Form will be required. No deposit is required."
+        },
+        {
+          "url": "https://www.yumacountyaz.gov/government/treasurer",
+          "quote": "928-539-7781"
+        }
+      ]
     }
   ]
 }

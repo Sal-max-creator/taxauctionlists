@@ -646,6 +646,477 @@
         }
       ],
       "recurs": "monthly"
+    },
+    {
+      "county": "Galveston",
+      "slug": "galveston",
+      "office": "Galveston County Sheriff's Office (sale) and Galveston County Tax Office (sale information)",
+      "phone": "(409) 766-2312 (Sheriff's Office payments, Rebecca Galloway); (409) 766-2401 (Capt. Pete SiFuentes, Sheriff's Department)",
+      "address": "601 54th Street, Ste. 1114, Galveston, TX 77551",
+      "website": "https://www.galvestoncountytx.gov/our-county/tax-assessor-collector/property-tax/sheriff-sale-information",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (sheriffsaleauctions.com)",
+        "url": "https://galveston.texas.sheriffsaleauctions.com"
+      },
+      "schedule_rule": "First Tuesday of every month at 10 a.m. (unless holiday, then following business day).",
+      "recurs": "monthly",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10 a.m. to 4 p.m. per the sheriff's notice; the county tax office says sales are online through Real Auction",
+          "label": "Sheriff's sale (41 tax foreclosure parcels plus 5 execution sales)",
+          "deposit": "At least 5% of the total of your bids, by wire or ACH through Real Auction at least 10 days before the sale",
+          "registration_deadline": "Register on the Real Auction site; deposit due at least 10 days before the sale",
+          "source_url": "https://sheriff.galvestoncountytx.gov/Forms/sale/sheriff_sale.pdf",
+          "quote": "on the first Tuesday in November, 2026, that being the 3rd day of November, 2026",
+          "list_url": "https://sheriff.galvestoncountytx.gov/Forms/sale/sheriff_sale.pdf",
+          "list_note": "Sheriff's notice posted 10/9/2026; some entries marked CANCELLED or POSTPONED.",
+          "note": "The notice text says the auction is at the Galveston County Courthouse, while the county tax office page says sales are online only."
+        }
+      ],
+      "next_sale_note": "Only the November 3, 2026 notice is posted; later sales follow the county's first-Tuesday rule but no dates are posted.",
+      "how_to_bid": "Register and take the free bidder training on the Real Auction site, and wire a deposit of at least 5% of your total bids through Real Auction at least 10 days before the sale (the Sheriff's Office takes no deposits). Winners pay by wire through Real Auction or bring cash or a cashier's check to the Sheriff's Office by 4:00 pm on sale day, and need a Certificate of Eligibility ($10) from the Tax Office before the deed is recorded.",
+      "sources": [
+        {
+          "url": "https://www.galvestoncountytx.gov/our-county/tax-assessor-collector/property-tax/sheriff-sale-information",
+          "read_on": "2026-10-27",
+          "terms": "No reuse restriction found. The county privacy policy has no copyright or reuse terms; it only bars using the county seal or logos to imply endorsement.",
+          "terms_url": "https://www.galvestoncountytx.gov/county-offices/information-technology/strategy-and-policies/privacy-policy"
+        },
+        {
+          "url": "https://sheriff.galvestoncountytx.gov/",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use, copyright or reuse statement on the Sheriff's Office site.",
+          "terms_url": null
+        },
+        {
+          "url": "https://sheriff.galvestoncountytx.gov/Forms/sale/sheriff_sale.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (sheriff's sale notice)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.galvestoncountytx.gov/our-county/tax-assessor-collector/property-tax/sheriff-sale-information",
+          "quote": "First Tuesday of every month at 10 a.m. (unless holiday, then following business day)."
+        },
+        {
+          "url": "https://www.galvestoncountytx.gov/our-county/tax-assessor-collector/property-tax/sheriff-sale-information",
+          "quote": "Bidders must register through the Real Auction website (www.realauction.com)."
+        },
+        {
+          "url": "https://www.galvestoncountytx.gov/our-county/tax-assessor-collector/property-tax/sheriff-sale-information",
+          "quote": "an amount equal to at least five (5%) percent of the total amount of their bids"
+        },
+        {
+          "url": "https://www.galvestoncountytx.gov/our-county/tax-assessor-collector/property-tax/sheriff-sale-information",
+          "quote": "by 4:00 pm the day of the sale."
+        },
+        {
+          "url": "https://sheriff.galvestoncountytx.gov/Forms/sale/sheriff_sale.pdf",
+          "quote": "at Public Auction, at the Galveston County Courthouse, between the hours of 10 a.m. and 4 p.m."
+        }
+      ]
+    },
+    {
+      "county": "Nueces",
+      "slug": "nueces",
+      "office": "Nueces County Tax Assessor-Collector",
+      "phone": "not stated on the county pages read (the county FAQ refers buyers to its delinquent tax law firm)",
+      "address": "not stated on the county pages read",
+      "website": "https://www.nuecesco.com/county-services/tax-assessor-collector/external-agencies",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (sheriffsaleauctions.com)",
+        "url": "https://nueces.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county's own pages post no sale dates or schedule; they link to the online sale platform and refer buyers to the county's delinquent tax law firm.",
+      "how_to_bid": "The county links its 'Online Delinquent Property Tax Sales' to the online sale platform. Its FAQ says property can be bought for delinquent taxes only after a tax lien foreclosure suit is filed, and to contact the law firm that handles sales for the county (Linebarger Goggan Blair & Sampson, (361) 888-6898).",
+      "sources": [
+        {
+          "url": "https://www.nuecesco.com/county-services/tax-assessor-collector/external-agencies",
+          "read_on": "2026-10-27",
+          "terms": "not found (county home page and policy pages could not be read on 2026-10-27)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.nuecesco.com/county-services/tax-assessor-collector/faq-property-tax",
+          "read_on": "2026-10-27",
+          "terms": "not found (county home page and policy pages could not be read on 2026-10-27)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nuecesco.com/county-services/tax-assessor-collector/faq-property-tax",
+          "quote": "Property can be bought for delinquent taxes only after a lawsuit for tax lien foreclosure has been filed"
+        },
+        {
+          "url": "https://www.nuecesco.com/county-services/tax-assessor-collector/faq-property-tax",
+          "quote": "You will need to contact the law firm that administers delinquent tax sales on behalf of Nueces County."
+        }
+      ]
+    },
+    {
+      "county": "Bell",
+      "slug": "bell",
+      "office": "Tax Appraisal District of Bell County (tax collection and tax sale information)",
+      "phone": "254-939-5841 (Belton office)",
+      "address": "411 E. Central Ave., Belton, TX 76513 (mailing: P.O. Box 390, Belton, TX 76513)",
+      "website": "https://bellcad.org/?p=946",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales begin at 10:00 a.m. on the first Tuesday of the month",
+      "sales": [],
+      "next_sale_note": "No date posted. The county says tax sales are not held every month (usually 4 to 5 a year); ask the Appraisal District for the next date.",
+      "how_to_bid": "Sales are in person at the Bell County Clerk's Alcove, east of the main entrance of the Bell County Justice Complex, 1201 Huey Drive, Belton. Register from about 9:45 a.m. on sale day with a valid driver's license or government ID (business entities need authorization papers); no mail, phone or internet bids. Bring a written statement of no delinquent taxes ($10) and pay in full by cashier's check payable to the Bell County District Clerk, 1:00 to 3:00 p.m. on sale day; personal checks are not accepted. Bid sheets come out about three weeks before a sale.",
+      "sources": [
+        {
+          "url": "https://bellcad.org/?p=946",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found; footer shows '© 2026 Copyright Tax Appraisal District of Bell County - Official Site' with no license or restriction stated.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://bellcad.org/?p=946",
+          "quote": "Tax Sales are not conducted every month in Bell County."
+        },
+        {
+          "url": "https://bellcad.org/?p=946",
+          "quote": "The cashier’s check should be made payable to the Bell County District Clerk."
+        },
+        {
+          "url": "https://bellcad.org/?p=946",
+          "quote": "Registration will begin at approximately 9:45 a.m. the day of the sale at the Bell County Clerk’s Alcove"
+        }
+      ]
+    },
+    {
+      "county": "Hays",
+      "slug": "hays",
+      "office": "Hays County Constable Pct. 1 (Tax Sales/Property Auctions)",
+      "phone": "512-393-7779 (county main number)",
+      "address": "712 S. Stagecoach Trail, San Marcos, Texas 78666",
+      "website": "https://hayscountytx.gov/department/constable-pct1/tax-sales-property-auction",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Consistent with statute, all tax sales in Hays County are typically held on the first Tuesday of the month.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "The constable's page says \"Next Tax Sale: TBA\".",
+      "how_to_bid": "Sales are held at the Hays County Government Center, 712 South Stagecoach Trail, Suite 2210, San Marcos, usually at 10 a.m. (verify the time). Winning bidders pay by money order, cashier's check or personal check; a personal check can delay the deed filing by a week or two. Registration and deposit rules are not stated.",
+      "sources": [
+        {
+          "url": "https://hayscountytx.gov/department/constable-pct1/tax-sales-property-auction",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found; footer shows only '©Copyright 2023-24 Hays County, Texas'.",
+          "terms_url": null
+        },
+        {
+          "url": "https://hayscountytx.gov/tax-assessor/tax-sales",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found on the page.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hayscountytx.gov/department/constable-pct1/tax-sales-property-auction",
+          "quote": "Next Tax Sale: TBA"
+        },
+        {
+          "url": "https://hayscountytx.gov/department/constable-pct1/tax-sales-property-auction",
+          "quote": "Times of the sale should be verified but Hays County tax sales are usually held at 10 a.m."
+        },
+        {
+          "url": "https://hayscountytx.gov/department/constable-pct1/tax-sales-property-auction",
+          "quote": "Tax Sales are held at the Hays County Government Center located at 712 South Stagecoach Trail, Ste, 2210, San Marcos, Texas."
+        }
+      ]
+    },
+    {
+      "county": "Jefferson",
+      "slug": "jefferson",
+      "office": "Jefferson County Sheriff's Office (sale) and Jefferson County Tax Office",
+      "phone": "(409) 835-8516 (Tax Office)",
+      "address": "Jefferson County Courthouse, 1149 Pearl Street, Beaumont, TX 77701 (Tax Office)",
+      "website": "https://jeffersoncountytx.gov/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-01",
+          "time": "Between 10 a.m. and 4 p.m., Jury Impaneling Room, Jefferson County Courthouse, 1085 Pearl Street, Beaumont",
+          "label": "Sheriff's delinquent tax sale",
+          "deposit": "None stated; pay in full with cash or a cashier's check payable to the Jefferson County Sheriff's Department by 4:00 p.m. on sale day",
+          "registration_deadline": "Get a Statement of No Delinquent Taxes Owed by close of business the Friday before the sale; register with the person conducting the sale before it starts at 10:00 am",
+          "source_url": "https://jeffersoncountytx.gov/",
+          "quote": "Sheriff Sale - December 1, 2026",
+          "list_url": "https://jeffersoncountytx.gov/blobs/WebManagementUploads/MIS/Sale%20-%20Sheriff/f78e1879-3a0c-4002-9d60-88f2f923d282_December_1%2C_2026_Notice_of_Sale_Final.pdf",
+          "list_note": "Sheriff's notice of sale with about 131 tax parcels and estimated minimum bids."
+        }
+      ],
+      "next_sale_note": "Only the December 1, 2026 sale is posted; the October 6, 2026 sale was cancelled per the Tax Office.",
+      "how_to_bid": "Get a Statement of No Delinquent Taxes Owed from the Tax Office by close of business the Friday before the sale (it cannot be obtained on sale day); companies need extra documents. Register with the person conducting the sale before it begins at 10:00 am. Pay in cash or by cashier's check payable to the Jefferson County Sheriff's Department by 4:00 p.m. on sale day.",
+      "sources": [
+        {
+          "url": "https://jeffersoncountytx.gov/",
+          "read_on": "2026-10-27",
+          "terms": "Footer disclaimer: the County provides the site information and services 'as is', without warranties; no reuse restriction stated.",
+          "terms_url": null
+        },
+        {
+          "url": "https://jeffersoncountytx.gov/blobs/WebManagementUploads/MIS/Sale%20-%20Sheriff/f78e1879-3a0c-4002-9d60-88f2f923d282_December_1%2C_2026_Notice_of_Sale_Final.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (sheriff's notice of sale)",
+          "terms_url": null
+        },
+        {
+          "url": "https://blobs.jeffersoncountytx.gov/Home/Documents/Sales/Guidelines_Delq_Tax_Sale_updated_2024.06.10.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (county guidelines PDF)",
+          "terms_url": null
+        },
+        {
+          "url": "http://jeffcotax.com/",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use; footer says 'All Rights Reserved'. Used only for office address and phone.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://jeffersoncountytx.gov/blobs/WebManagementUploads/MIS/Sale%20-%20Sheriff/f78e1879-3a0c-4002-9d60-88f2f923d282_December_1%2C_2026_Notice_of_Sale_Final.pdf",
+          "quote": "on the first Tuesday in December, 2026"
+        },
+        {
+          "url": "https://blobs.jeffersoncountytx.gov/Home/Documents/Sales/Guidelines_Delq_Tax_Sale_updated_2024.06.10.pdf",
+          "quote": "A bidder at the sale must be registered, at the time the sale begins, with the person conducting the sale."
+        },
+        {
+          "url": "https://blobs.jeffersoncountytx.gov/Home/Documents/Sales/Guidelines_Delq_Tax_Sale_updated_2024.06.10.pdf",
+          "quote": "NO ONE CAN OBTAIN THIS STATEMENT THE DAY OF THE SALE."
+        },
+        {
+          "url": "http://jeffcotax.com/",
+          "quote": "SHERIFF SALE SCHEDULED FOR TUESDAY, DECEMBER 1, 2026"
+        }
+      ]
+    },
+    {
+      "county": "Smith",
+      "slug": "smith",
+      "office": "Smith County Tax Assessor-Collector",
+      "phone": "903-590-4605 (county); 903-520-1037 (Smith County Civil Division)",
+      "address": "200 E Ferguson Street, Tyler, TX 75702",
+      "website": "https://www.smith-county.com/358/Delinquent-Tax-Sales",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (sheriffsaleauctions.com)",
+        "url": "https://smith.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": "First Tuesday of every month at 10 am.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted on the county pages; lists are published in the Tyler Morning Telegraph and posted at the courthouse before each sale.",
+      "how_to_bid": "Get a written statement (Bidder Certificate) of no taxes due from the Smith County Tax Office, valid 90 days. Register on the online sale site at least five business days before the auction. The winning bidder's deposit is applied first and the balance is due by 4 pm CT on sale day (the Delinquent Tax Sales page says payment by cashier's check or money order). All sales are final and subject to redemption.",
+      "sources": [
+        {
+          "url": "https://www.smith-county.com/358/Delinquent-Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Smith County, TX and its representatives. All rights reserved.' No specific reuse terms.",
+          "terms_url": "https://www.smith-county.com/copyright"
+        },
+        {
+          "url": "https://www.smith-county.com/354/Sheriff-Sale-Auctions",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.smith-county.com/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.smith-county.com/358/Delinquent-Tax-Sales",
+          "quote": "Payment in full is required of the winning bidder on the day of the sale."
+        },
+        {
+          "url": "https://www.smith-county.com/354/Sheriff-Sale-Auctions",
+          "quote": "Anyone may bid on the Tax Foreclosed properties by registering at least five business days before the auction."
+        },
+        {
+          "url": "https://www.smith-county.com/354/Sheriff-Sale-Auctions",
+          "quote": "Payment is due by 4 pm CT on the day of the sale."
+        },
+        {
+          "url": "https://www.smith-county.com/354/Sheriff-Sale-Auctions",
+          "quote": "Obtain a Bidder Certificate stating that all taxes have been paid from the Smith County Tax Office."
+        }
+      ]
+    },
+    {
+      "county": "McLennan",
+      "slug": "mclennan",
+      "office": "McLennan County Tax Office",
+      "phone": "254-757-5130",
+      "address": "215 N 5th Street Suite 118 Waco, TX 76701 (mailing: P.O. Box 406 Waco, TX 76703)",
+      "website": "https://www.mclennan.gov/218/Tax-Office",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://liveauctions.govease.com/PublicPortal/PublicRegisterAuctions"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county Tax Office page posts no sale dates or schedule; sales are listed on the online platform.",
+      "how_to_bid": "All McLennan County tax sales are online; register as a bidder on the online platform's registration page linked from the Tax Office page. Deposit and payment terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.mclennan.gov/218/Tax-Office",
+          "read_on": "2026-10-27",
+          "terms": "Footer links a Copyright Notices page, which could not be read on 2026-10-27; no reuse restriction seen on the Tax Office page.",
+          "terms_url": "https://www.mclennan.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mclennan.gov/218/Tax-Office",
+          "quote": "All McLennan County Tax Sales are conducted online through GovEase."
+        }
+      ]
+    },
+    {
+      "county": "Ellis",
+      "slug": "ellis",
+      "office": "Ellis County Tax Office (Tax Assessor-Collector Richard Rozier)",
+      "phone": "972-825-5150",
+      "address": "302 N Monroe Street, Waxahachie, TX 75165",
+      "website": "https://ellistaxoffice.com/tax-sales-2/",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (sheriffsaleauctions.com)",
+        "url": "https://ellis.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": "First Tuesday of every month at 10:00 a.m.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted on the county tax office page.",
+      "how_to_bid": "Auctions are online; sign up on the online sale site linked from the Tax Office page. Payment in full is due from the winning bidder on the day of sale, and the buyer may owe taxes for years after the judgment. Deposit and registration deadlines are not stated.",
+      "sources": [
+        {
+          "url": "https://ellistaxoffice.com/tax-sales-2/",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer found; footer shows '© 2026 Copyright Ellis County Tax Office - Official Site'. (co.ellis.tx.us Tax Assessor-Collector link redirects to this site.)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://ellistaxoffice.com/tax-sales-2/",
+          "quote": "Auctions are held on-line, sign up here: https://ellis.texas.sheriffsaleauctions.com/"
+        },
+        {
+          "url": "https://ellistaxoffice.com/tax-sales-2/",
+          "quote": "Payment in full is required of the winning bidder on the day of sale."
+        }
+      ]
+    },
+    {
+      "county": "Guadalupe",
+      "slug": "guadalupe",
+      "office": "Guadalupe County Tax Assessor-Collector",
+      "phone": "(830) 379-2315",
+      "address": "307 W. Court Street, Seguin, Texas 78155",
+      "website": "https://www.guadalupetx.gov/page/tax.sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The latest posted sale was October 6, 2026; no later sale date is posted on the county's Tax Sale page.",
+      "how_to_bid": "Per the last posted notice: sales are at 10:00 a.m. on the Guadalupe County Courthouse Steps; register before the sale with a valid driver's license or state or federal ID, and pay with cash or a cashier's check payable to the Guadalupe County District Clerk. A bidder who fails to pay can be liable for 20% of the property's value plus costs.",
+      "sources": [
+        {
+          "url": "https://www.guadalupetx.gov/page/tax.sale",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer found; footer shows 'Copyright © Guadalupe County, Texas 2016'.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.guadalupetx.gov/upload/page/0142/docs/October_Tax_Sale.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (sale notice PDF)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.guadalupetx.gov/page/tax.offices.contacts",
+          "read_on": "2026-10-27",
+          "terms": "same as the Tax Sale page",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.guadalupetx.gov/upload/page/0142/docs/October_Tax_Sale.pdf",
+          "quote": "October 6, 2026 at 10:00 a.m."
+        },
+        {
+          "url": "https://www.guadalupetx.gov/upload/page/0142/docs/October_Tax_Sale.pdf",
+          "quote": "Successful bidders must pay for their property with cash or a cashier's check payable to Guadalupe County District Clerk."
+        }
+      ]
+    },
+    {
+      "county": "Brazoria",
+      "slug": "brazoria",
+      "office": "Brazoria County Tax Assessor-Collector (sales conducted by the Brazoria County Sheriff’s Office)",
+      "phone": "979-849-5711 (county main line)",
+      "address": "237 E. Locust, Suite 104, Angleton, Texas 77515",
+      "website": "https://www.brazoriacountytx.gov/departments/tax-office/property-taxes/sheriff-sale-tax-resales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "These sales are held on the first Tuesday of the month beginning at 10:00 a.m. and by law can be conducted between the hours of 10:00 a.m. and 4:00 p.m. in the Commissioners’ Courtroom on the 1st floor of the Brazoria County Courthouse.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No dated sale or property list is posted on the county page; the county sends buyers to its tax attorney firm (Perdue Brandon) for the foreclosure list.",
+      "how_to_bid": "Get a Statement of No Delinquent Tax from the Brazoria County Tax Office: mail the notarized request with a $10.00 money order or cashier’s check no less than 10 days before the sale (not processed on sale day). Pay immediately after the sale in cash, money order or cashier’s check made payable to Brazoria County Sheriff’s Office, exact amount only; personal or company checks only with a bank Letter of Guaranty. Buyers receive a Sheriff’s Deed without warranty. Tax resale (tax trust) properties are listed on request by email to the Tax Office.",
+      "sources": [
+        {
+          "url": "https://www.brazoriacountytx.gov/departments/tax-office/property-taxes/sheriff-sale-tax-resales",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer page found on brazoriacountytx.gov (footer has none; site search found none).",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.brazoriacountytx.gov/departments/tax-office/property-taxes/sheriff-sale-tax-resales",
+          "quote": "These sales are held on the first Tuesday of the month beginning at 10:00 a.m."
+        },
+        {
+          "url": "https://www.brazoriacountytx.gov/departments/tax-office/property-taxes/sheriff-sale-tax-resales",
+          "quote": "Accepted payment methods are CASH, MONEY ORDER OR CASHIER’S CHECK made payable to BRAZORIA COUNTY SHERIFF’S OFFICE."
+        },
+        {
+          "url": "https://www.brazoriacountytx.gov/departments/tax-office/property-taxes/sheriff-sale-tax-resales",
+          "quote": "Mail in your completed form with payment no less than 10 days prior to the sale to ensure that you are eligible to bid."
+        }
+      ]
     }
   ]
 }

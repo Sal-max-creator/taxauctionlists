@@ -42,6 +42,132 @@
   ],
   "counties": [
     {
+      "county": "Chatham",
+      "slug": "chatham",
+      "office": "Chatham County Tax Commissioner",
+      "phone": "(912) 652-7100",
+      "address": "222 W Oglethorpe Ave #107, Savannah, GA 31401; sales held on the second floor of the Savannah Civic Center, Bryan Room, 301 W. Oglethorpe Ave",
+      "website": "https://tax.chathamcountyga.gov/TaxSaleList",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "on the first Tuesday of the month at 10:00 a.m. when scheduled.",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:00 AM (sales run between 10 AM and 4 PM)",
+          "label": "Tax Commissioner tax sale",
+          "deposit": "None stated; payment in cash, money order or certified check, due by 2:00 p.m. on sale day",
+          "registration_deadline": "Pre-registration form linked on the county page; no deadline stated",
+          "list_url": "https://cms.chathamcountyga.gov/api/assets/taxcommissioner/ecda3745-3959-4c0d-ba3d-1246890ac8a6?download=0",
+          "list_note": "County PDF headed 'November 3, 2026 Tax Sale List'; the photo list was marked not available when we checked. Parcels paid before the sale drop off.",
+          "note": "Held in the Bryan Room, second floor of the Savannah Civic Center. Parcels with no minimum bid may be re-offered the same day at 2:30 p.m. No judicial sale is scheduled.",
+          "source_url": "https://tax.chathamcountyga.gov/TaxSaleList",
+          "quote": "Next Tax Sale - November 03, 2026"
+        }
+      ],
+      "next_sale_note": "Sales are held on first Tuesdays only when scheduled; no later 2026 date posted yet.",
+      "how_to_bid": "Pre-register using the form linked from the Tax Commissioner's Tax Sale page. Sales are public auctions in the Bryan Room of the Savannah Civic Center; the opening bid covers all taxes, penalties and costs, and a recognized bid is binding. Pay by cash, money order or certified check; the office requires payment by 2:00 p.m. on sale day. The deed gives defeasible title only, and the buyer may not take possession for twelve months.",
+      "sources": [
+        {
+          "url": "https://tax.chathamcountyga.gov/TaxSaleList",
+          "read_on": "2026-10-27",
+          "terms": "Chatham County Terms of Use: all contents 'All rights reserved' and 'Any rights not expressly granted herein are reserved'; bars obtaining materials 'through any means not intentionally made available' and use that could overburden the site; content provided 'AS IS'. No clause limiting the site to personal or non-commercial use and no ban on copying public information found. Restate facts, don't copy pages wholesale.",
+          "terms_url": "https://tax.chathamcountyga.gov/Meta/Terms"
+        },
+        {
+          "url": "https://cms.chathamcountyga.gov/api/assets/taxcommissioner/ecda3745-3959-4c0d-ba3d-1246890ac8a6?download=0",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://tax.chathamcountyga.gov/Meta/Terms"
+        },
+        {
+          "url": "https://tax.chathamcountyga.gov/Offices/Downtown",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://tax.chathamcountyga.gov/Meta/Terms"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cms.chathamcountyga.gov/api/assets/taxcommissioner/ecda3745-3959-4c0d-ba3d-1246890ac8a6?download=0",
+          "quote": "November 3, 2026 Tax Sale List"
+        },
+        {
+          "url": "https://tax.chathamcountyga.gov/TaxSaleList",
+          "quote": "Tax sales are held on the second floor of the Savannah Civic Center in the Bryan Room (301 W. Oglethorpe Ave, 31401)."
+        },
+        {
+          "url": "https://tax.chathamcountyga.gov/TaxSaleList",
+          "quote": "Sales are conducted between 10 AM – 4PM."
+        },
+        {
+          "url": "https://tax.chathamcountyga.gov/TaxSaleList",
+          "quote": "The form of payment must be cash, money order or certified check."
+        },
+        {
+          "url": "https://tax.chathamcountyga.gov/TaxSaleList",
+          "quote": "requires payment by 2:00 p.m. the day of sale"
+        },
+        {
+          "url": "https://tax.chathamcountyga.gov/TaxSaleList",
+          "quote": "The opening bid will include all applicable taxes, penalties and costs."
+        },
+        {
+          "url": "https://tax.chathamcountyga.gov/Offices/Downtown",
+          "quote": "222 W Oglethorpe Ave #107 Savannah, Georgia 31401"
+        }
+      ]
+    },
+    {
+      "county": "Clayton",
+      "slug": "clayton",
+      "office": "Clayton County Tax Commissioner",
+      "phone": "(770) 477-3311",
+      "address": "Annex 3, 2nd Floor, 121 South McDonough Street, Jonesboro, GA 30236; sales held on the courthouse steps, 9151 Tara Blvd., Jonesboro, GA 30236",
+      "website": "https://www.claytoncountytc.com/tax-sales/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Every 1st Tuesday of the month. Tax sales are not held in December or January and are subject to change.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No dated upcoming sale or November 2026 list was posted when we checked; the office says sales are not held in December or January.",
+      "how_to_bid": "Register as a bidder in person or online (pre-registration form linked from the Tax Sales page) and bring a valid state-issued photo ID, which is exchanged for a bidding paddle. The sale starts at 10:00 AM on the courthouse steps at 9151 Tara Blvd., Jonesboro. Winning bidders fill in the Winning Bidder's Form at the sale and pay with certified funds (cash, money order or cashier's check) at the Property Tax Office, 121 S. McDonough St., between 12:00 PM and 3:00 PM that day; unpaid properties are re-offered at 3:30 PM, and a bidder who fails to pay can be barred for six months. The office gives no further property information, so research parcels yourself.",
+      "sources": [
+        {
+          "url": "https://www.claytoncountytc.com/tax-sales/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found (privacy policy link would not load). Footer: '© 2026 Clayton County Tax Commissioner's Office. All rights reserved.' Site home page carries a noindex, nofollow robots tag. No reuse or redistribution clause found; restate facts only.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.claytoncountytc.com/",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.claytoncountytc.com/tax-sales/",
+          "quote": "Every 1st Tuesday of the month."
+        },
+        {
+          "url": "https://www.claytoncountytc.com/tax-sales/",
+          "quote": "Tax sales are not held in December or January and are subject to change."
+        },
+        {
+          "url": "https://www.claytoncountytc.com/tax-sales/",
+          "quote": "Be prepared to pay with certified funds if you win a bid."
+        },
+        {
+          "url": "https://www.claytoncountytc.com/",
+          "quote": "Delinquent properties eligible for upcoming tax sales are posted monthly on our website under the Tax Sale tab."
+        }
+      ]
+    },
+    {
       "county": "Cobb",
       "slug": "cobb",
       "office": "Cobb County Tax Commissioner, Property Tax Division",
@@ -290,6 +416,135 @@
         {
           "url": "https://www.gwinnetttaxcommissioner.com/property-tax/delinquent_tax/tax-liens-tax-sales",
           "quote": "the tax commissioner generally only holds sales in a few selected months."
+        }
+      ]
+    },
+    {
+      "county": "Henry",
+      "slug": "henry",
+      "office": "Henry County Tax Commissioner",
+      "phone": "770-288-8180",
+      "address": "140 Henry Parkway, McDonough, GA 30253 (sale location and McDonough Tag/Tax Office)",
+      "website": "https://henrycountytax.com/172/Property-for-Sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Henry County Tax Commissioners Office holds in person tax sales on the first Tuesday of the month.",
+      "sales": [],
+      "next_sale_note": "No November 2026 sale; the county says to check back for the December list, which was not posted yet. Sales are not held every month.",
+      "how_to_bid": "Register online before sale day, then finish registration and have your funds verified in person by a Property Tax Specialist at 140 Henry Parkway, McDonough on the morning of the sale (bring a driver's license, address and phone number); you get a bidding number and cannot bid more than the funds verified. The sale starts at 10:00 AM. Pay at the time of sale with cash, money order or certified check payable to Henry County Tax Commissioner or HCTC, with a separate payment for each property; no personal checks. Sales are final, and bidders cannot bid on property they or their company own. Properties are advertised in the Daily Herald four weeks before a sale.",
+      "sources": [
+        {
+          "url": "https://henrycountytax.com/172/Property-for-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2026 Henry County Tax Collector, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found; privacy page has none either. Restate facts only.",
+          "terms_url": "https://www.henrycountytax.com/copyright"
+        },
+        {
+          "url": "https://henrycountytax.com/DocumentCenter/View/553/Tax-Sale-2025",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.henrycountytax.com/copyright"
+        },
+        {
+          "url": "https://henrycountytax.com/275/REAL-PROPERTY-JUDICIAL-IN-REM",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.henrycountytax.com/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://henrycountytax.com/DocumentCenter/View/553/Tax-Sale-2025",
+          "quote": "NO PROPERTY TAX OR MOBILE HOME SALE FOR NOVEMBER"
+        },
+        {
+          "url": "https://henrycountytax.com/DocumentCenter/View/553/Tax-Sale-2025",
+          "quote": "PLEASE CHECK BACK LATER FOR THE TAX LIST FOR DECEMBER"
+        },
+        {
+          "url": "https://henrycountytax.com/275/REAL-PROPERTY-JUDICIAL-IN-REM",
+          "quote": "Sales are not held every month."
+        },
+        {
+          "url": "https://henrycountytax.com/172/Property-for-Sale",
+          "quote": "TAX SALE BEGINS PROMPTLY AT 10:00 AM"
+        },
+        {
+          "url": "https://henrycountytax.com/172/Property-for-Sale",
+          "quote": "The only acceptable forms of payment are cash, money order and certified checks"
+        },
+        {
+          "url": "https://henrycountytax.com/172/Property-for-Sale",
+          "quote": "Registered bidders will not be allowed to bid more than the amount of funds verified."
+        }
+      ]
+    },
+    {
+      "county": "Richmond",
+      "slug": "richmond",
+      "office": "Richmond County Tax Commissioner (Augusta-Richmond County)",
+      "phone": "706-821-2391",
+      "address": "Municipal Building, 535 Telfair Street, Suite 100, Augusta, GA 30901 (sales held at 535 Telfair Street)",
+      "website": "https://arctax.com/property/tax-sale-lists/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Our tax sales (when held) occur on the first Tuesday of the month between the hours of 10:00 am and 4:00 pm.",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:00 AM; presale information session at 9:30 AM",
+          "label": "Tax Commissioner tax levy sale",
+          "deposit": "None stated; payment in full in cash, money order or certified check within two hours after the sale ends",
+          "registration_deadline": "Not stated",
+          "note": "Held at 535 Telfair Street, Augusta. The October 6, 2026 sale was not held. The county links its current list from the Tax Sale Lists page.",
+          "source_url": "https://arctax.com/property/tax-sale-lists/",
+          "quote": "The next Tax Sale will be held on November 3, 2026"
+        }
+      ],
+      "next_sale_note": "Sales are held only in some months; no date after November 3, 2026 posted yet.",
+      "how_to_bid": "Attend in person at 535 Telfair Street, Augusta; a presale information session starts at 9:30 AM and the sale at 10:00 AM. Sales are public auctions to the highest bidder; the opening bid covers all taxes, penalties and costs, and a bid is a binding agreement. Pay in full by cash, money order or certified check at Suite 100 within two hours after the sale ends. Registration steps are not stated on the pages we read; call 706-821-2391.",
+      "sources": [
+        {
+          "url": "https://arctax.com/property/tax-sale-lists/",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2024 Richmond County Tax Commissioners, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Restate facts only.",
+          "terms_url": "https://arctax.com/copyright-notices/"
+        },
+        {
+          "url": "https://www.arctax.com",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://arctax.com/copyright-notices/"
+        },
+        {
+          "url": "https://arctax.com/wp-content/uploads/2024/03/Delinquent-Tax-Sales-Brochure-for-Web-CJ-1.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://arctax.com/copyright-notices/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.arctax.com",
+          "quote": "Our next Tax Levy Sale will be November 3, 2026!"
+        },
+        {
+          "url": "https://arctax.com/property/tax-sale-lists/",
+          "quote": "Sales begin at 10 AM, and the presale information session begins at 9:30 AM."
+        },
+        {
+          "url": "https://arctax.com/property/tax-sale-lists/",
+          "quote": "Tax sales are held at 535 Telfair Street, Augusta, GA, 30901."
+        },
+        {
+          "url": "https://arctax.com/wp-content/uploads/2024/03/Delinquent-Tax-Sales-Brochure-for-Web-CJ-1.pdf",
+          "quote": "The form of payment must be cash, money order or certified check."
+        },
+        {
+          "url": "https://arctax.com/wp-content/uploads/2024/03/Delinquent-Tax-Sales-Brochure-for-Web-CJ-1.pdf",
+          "quote": "We require payment in full within two hours of the conclusion of the tax sale."
         }
       ]
     }

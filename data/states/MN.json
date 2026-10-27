@@ -1,0 +1,123 @@
+{
+  "state": "MN",
+  "name": "Minnesota",
+  "sale_type": "deed",
+  "overview": "Minnesota does not sell tax liens to investors. When delinquent property taxes go unpaid through the redemption period, the land forfeits to the State of Minnesota, which holds it in trust for the local taxing districts. The county board then classifies each forfeited parcel as conservation or nonconservation, and the county auditor may offer nonconservation land for sale at a public auction at the county seat. A parcel cannot be sold for less than its appraised value, except in a later sale the county authorizes under the statute, and the sale is for cash unless the county board has adopted terms, which require at least 10 percent down. The buyer is entitled to immediate possession. Counties may also sell unsold parcels over the counter after an auction. Former owners and lienholders may be able to claim surplus proceeds from a sale.",
+  "overview_sources": [
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/282.01",
+      "quote": "Parcels of land becoming the property of the state in trust under law declaring the forfeiture of lands to the state for taxes must be classified by the county board of the county in which the parcels lie as conservation or nonconservation.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/282.01",
+      "quote": "The sale must not be for less than the appraised value except as provided in subdivision 7a.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/282.01",
+      "quote": "a payment of at least ten percent of the purchase price must be made at the time of purchase",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.revisor.mn.gov/statutes/cite/282.01",
+      "quote": "The purchaser is entitled to immediate possession, subject to the provisions of any existing valid lease made in behalf of the state.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://dakotacountymn.gov/residents/home-property/tax-forfeited",
+      "quote": "Any parcels that do not receive a bid during the public sale may be purchased over the counter for 30 days following the auction.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://dakotacountymn.gov/residents/home-property/tax-forfeited",
+      "quote": "This money can be claimed by former owners and interested parties.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Dakota",
+      "slug": "dakota",
+      "office": "Dakota County Property Taxation & Records",
+      "phone": "651-438-4576",
+      "address": "Administration Center, 1590 Highway 55, Hastings, MN 55033",
+      "website": "https://dakotacountymn.gov/residents/home-property/tax-forfeited",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-09",
+          "time": "10:00 AM",
+          "label": "Minimum bid and appraised value auction (tax-forfeited land)",
+          "deposit": null,
+          "registration_deadline": "Bid number registration 9 to 9:45 a.m. on sale day",
+          "note": "Held at the Administration Center in Hastings. Details are in the county's Nov. 9 Notice of Public Sale.",
+          "source_url": "https://dakotacountymn.gov/residents/home-property/tax-forfeited",
+          "quote": "Nov. 9, 2026 (For auction details, view the Nov. 9 Notice of Public Sale)"
+        }
+      ],
+      "next_sale_note": "The October 5, 2026 estimated market value auction has passed; parcels it didn't sell are offered over the counter Oct. 6 to Nov. 6, 2026.",
+      "how_to_bid": "Bid in person at the Dakota County Administration Center in Hastings. Get a bid number between 9 and 9:45 a.m.; the auction starts at 10 a.m. Property is sold as is, so research each parcel and any special assessments first. Read the county's Notice of Public Sale for payment terms.",
+      "sources": [
+        {
+          "url": "https://dakotacountymn.gov/residents/home-property/tax-forfeited",
+          "read_on": "2026-10-27",
+          "terms": "The site's Terms of use (on the Privacy Policy page) only bar unlawful use: 'users agree that they will not use the website for any unlawful activity'. The disclaimer covers accuracy only. No restriction on reuse or republishing.",
+          "terms_url": "https://dakotacountymn.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://dakotacountymn.gov/residents/home-property/tax-forfeited",
+          "quote": "Bid number registration is from 9-9:45 a.m. with the auction starting at 10 a.m."
+        },
+        {
+          "url": "https://dakotacountymn.gov/residents/home-property/tax-forfeited",
+          "quote": "Oct. 6-Nov. 6, 2026 (For a list of parcels available, view the Over the Counter Parcel List)"
+        }
+      ]
+    },
+    {
+      "county": "Anoka",
+      "slug": "anoka",
+      "office": "Anoka County Property Records & Taxation",
+      "phone": "763-324-4000 (county main line)",
+      "address": "Anoka County Government Center, 2100 3rd Avenue, Anoka, MN 55303",
+      "website": "https://www.anokacountymn.gov/310/Tax-Forfeited-Land-Sales",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale was read. The county lists its 2026 initial public sale (A1) and subsequent public sale (A2) as a document on its Available Properties page, and says no properties are available over the counter right now.",
+      "how_to_bid": "Read the county's bidding instructions and Tax-Forfeit Land Sale Information Packet. All property is sold as is, and all sales are final with no refunds.",
+      "sources": [
+        {
+          "url": "https://www.anokacountymn.gov/310/Tax-Forfeited-Land-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: 'All content © 2006-2026 Anoka County, MN and its representatives. All rights reserved.' The Privacy Policy/Disclaimer page's Terms of Use bar only unlawful use and disclaim accuracy. Nothing forbids republishing sale dates.",
+          "terms_url": "https://www.anokacountymn.gov/site/copyright"
+        },
+        {
+          "url": "https://www.anokacountymn.gov/1474/Available-Properties-and-Proceeds",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: 'All content © 2006-2026 Anoka County, MN and its representatives. All rights reserved.' The Privacy Policy/Disclaimer page's Terms of Use bar only unlawful use and disclaim accuracy. Nothing forbids republishing sale dates.",
+          "terms_url": "https://www.anokacountymn.gov/125/Privacy-Policy-Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.anokacountymn.gov/310/Tax-Forfeited-Land-Sales",
+          "quote": "All sales are final, and no refunds or exchanges are permitted."
+        },
+        {
+          "url": "https://www.anokacountymn.gov/1474/Available-Properties-and-Proceeds",
+          "quote": "There are no available properties at this time."
+        }
+      ]
+    }
+  ]
+}

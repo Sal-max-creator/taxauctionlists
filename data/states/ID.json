@@ -1,0 +1,136 @@
+{
+  "state": "ID",
+  "name": "Idaho",
+  "sale_type": "deed",
+  "overview": "Idaho does not sell tax liens. If delinquent property taxes aren't paid within three years, the county tax collector issues a tax deed to the county. The county commissioners then auction the property, within 14 months of the tax deed, to the highest bidder, with a minimum bid that covers the taxes, interest and costs owed. Money left over after the county is paid goes to parties in interest and then to the former owner. Property the county can't sell at auction may later be sold without further notice. In Canyon County the former owner can redeem right up until the parcel is offered, so parcels often drop off the list.",
+  "overview_sources": [
+    {
+      "url": "https://legislature.idaho.gov/statutesrules/idstat/Title63/T63CH10/SECT63-1005/",
+      "quote": "If real property on which there is a delinquency is not redeemed within three (3) years from the date of delinquency, the county tax collector of the county wherein such property is situated must make, in favor of said county, a tax deed for such property.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.idaho.gov/statutesrules/idstat/Title31/T31CH8/SECT31-808/",
+      "quote": "For tax deeded property, the board of county commissioners shall conduct an auction no later than fourteen (14) months from the issuance of the tax deed.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.idaho.gov/statutesrules/idstat/Title31/T31CH8/SECT31-808/",
+      "quote": "The property shall be sold to the highest bidder.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://legislature.idaho.gov/statutesrules/idstat/Title31/T31CH8/SECT31-808/",
+      "quote": "the board of county commissioners shall set the minimum bid for the tax deeded property to include all property taxes owing, interest and costs",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.canyoncounty.id.gov/elected-officials/treasurer/tax-deed/",
+      "quote": "** PREVIOUS OWNERS CAN REDEEM PROPERTY UP TO THE TIME THEIR PROPERTY IS OFFERED FOR SALE AT PUBLIC AUCTION.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Canyon",
+      "slug": "canyon",
+      "office": "Canyon County Treasurer",
+      "phone": "208-454-7354",
+      "address": "111 N. 11th Ave Ste. 240, Caldwell, ID 83605",
+      "website": "https://www.canyoncounty.id.gov/elected-officials/treasurer/tax-deed/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:30 AM",
+          "label": "Tax deed auction",
+          "deposit": "Full bid in certified funds on the day of the auction",
+          "registration_deadline": null,
+          "list_url": "https://www.canyoncounty.id.gov/wp-content/uploads/2026/10/261013-Public-Notice-1.pdf",
+          "list_note": "The county's public notice lists the parcels offered.",
+          "note": "Live auction. Previous owners can redeem up to the moment a parcel is offered, so the list can shrink. The county transfers its interest by quitclaim deed without warranty.",
+          "source_url": "https://www.canyoncounty.id.gov/elected-officials/treasurer/tax-deed/",
+          "quote": "Tax deed auction on November 3, 2026 at 10:30 a.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Attend the live auction. The highest bidder must buy the property at the bid price and pay that amount in certified funds the same day. The county transfers its interest by quitclaim deed without warranty or representation.",
+      "sources": [
+        {
+          "url": "https://www.canyoncounty.id.gov/elected-officials/treasurer/tax-deed/",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer page; the footer says only \"Copyright © Canyon County, Idaho\". Nothing forbids reusing sale dates or facts; we copy no lists or text beyond short quotes.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.canyoncounty.id.gov/wp-content/uploads/2026/10/261013-Public-Notice-1.pdf",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer page; the footer says only \"Copyright © Canyon County, Idaho\". Nothing forbids reusing sale dates or facts; we copy no lists or text beyond short quotes.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.canyoncounty.id.gov/elected-officials/treasurer/tax-deed/",
+          "quote": "The Tax Deed auction is a live auction."
+        },
+        {
+          "url": "https://www.canyoncounty.id.gov/elected-officials/treasurer/tax-deed/",
+          "quote": "The highest bidder will be obligated to purchase the property at the bid price and must tender that amount in certified funds on the day of the auction."
+        },
+        {
+          "url": "https://www.canyoncounty.id.gov/elected-officials/treasurer/tax-deed/",
+          "quote": "For each property sold, the County will transfer its interest by quitclaim deed without warranty or representation."
+        }
+      ]
+    },
+    {
+      "county": "Bonneville",
+      "slug": "bonneville",
+      "office": "Bonneville County Treasurer",
+      "phone": "208-529-1380",
+      "address": "605 N. Capital Avenue, Idaho Falls, ID 83402",
+      "website": "https://www.bonnevillecountyidaho.gov/page/tax-deed-and-estate-sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county's May 13, 2026 auction was cancelled and no new date is posted. The county says notices of public auctions will be posted on its tax deed page.",
+      "how_to_bid": "Be at the auction in person or send a representative; no registration is needed. Full payment is due the day of the sale. Auctions are held in the Commissioners Hearing Room, 605 N. Capital Avenue, Idaho Falls.",
+      "sources": [
+        {
+          "url": "https://www.bonnevillecountyidaho.gov/page/tax-deed-and-estate-sales",
+          "read_on": "2026-10-27",
+          "terms": "The site's Terms and Privacy Policy page is a privacy statement about visitor data and sets no limits on reusing site content.",
+          "terms_url": "https://www.bonnevillecountyidaho.gov/terms-and-privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bonnevillecountyidaho.gov/page/tax-deed-and-estate-sales",
+          "quote": "MAY 13, 2026 at 10:00 AM - CANCELLED"
+        },
+        {
+          "url": "https://www.bonnevillecountyidaho.gov/page/tax-deed-and-estate-sales",
+          "quote": "NOTICE OF PUBLIC AUCTIONS WILL BE POSTED ON THIS PAGE."
+        },
+        {
+          "url": "https://www.bonnevillecountyidaho.gov/page/tax-deed-and-estate-sales",
+          "quote": "Interested buyers must be physically present or have a representative present."
+        },
+        {
+          "url": "https://www.bonnevillecountyidaho.gov/page/tax-deed-and-estate-sales",
+          "quote": "Payment in full is required the day of the sale."
+        },
+        {
+          "url": "https://www.bonnevillecountyidaho.gov/page/tax-deed-and-estate-sales",
+          "quote": "No registration is required to attend the auction."
+        }
+      ]
+    }
+  ]
+}

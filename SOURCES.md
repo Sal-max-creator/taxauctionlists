@@ -122,6 +122,16 @@ State overview: <https://www.douglasco.gov/documents/tax-sale-faq.pdf/>, <https:
 | Garfield | <https://www.garfieldcountyco.gov/treasurer/tax-lien-sale/> | 2026-10-27 | Privacy policy: 'All content on Garfield County websites is Copyright (c) 2011 by Garfield County, Colorado. All Rights Reserved.' plus accuracy disclaimers and linking/framing rules; no explicit ban on reuse or redistribution of the information. ([terms](https://www.garfieldcountyco.gov/attorney/privacy-policy/)) |
 | Mesa | <https://www.mesacounty.us/departments-and-services/treasurer/tax-sale-information> | 2026-10-27 | Footer: '(c) 2026 Mesa County, Colorado'. Privacy policy has no reuse or redistribution restriction (notes stored information may be purchased by private individuals and entities). ([terms](https://www.mesacounty.us/contact-us/privacy-policy)) |
 
+## Delaware
+
+State overview: <https://delcode.delaware.gov/title9/c087/sc02/index.html>, <https://delcode.delaware.gov/title9/c087/sc02/index.html>, <https://delcode.delaware.gov/title9/c087/sc02/index.html>, <https://delcode.delaware.gov/title9/c087/sc02/index.html>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Kent | <https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office> | 2026-10-27 | Disclaimer of Liability is an accuracy disclaimer only: 'The use of this information is at your own risk.' No sentence on copying, reuse, publishing, distribution or commercial use; nothing forbids republishing. ([terms](https://www.kentcountyde.gov/Site-Footer/Sub-Footer-Links/Kent-County-Levy-Court-Disclaimer-of-Liability)) |
+| Kent | <https://www.kentcountyde.gov/My-Government/Departments/Finance/Monition-Sale-Procedures> | 2026-10-27 | Disclaimer of Liability is an accuracy disclaimer only: 'The use of this information is at your own risk.' No sentence on copying, reuse, publishing, distribution or commercial use; nothing forbids republishing. ([terms](https://www.kentcountyde.gov/Site-Footer/Sub-Footer-Links/Kent-County-Levy-Court-Disclaimer-of-Liability)) |
+| Sussex | <https://sussexcountyde.gov/node/92> | 2026-10-27 | No Terms of Use or Disclaimer page found; footer links only Privacy and ADA. Footer reads '© 2026 All rights reserved'; the privacy policy has no sentence on copying, reuse, distribution or commercial use. ([terms](https://sussexcountyde.gov/privacy-policy)) |
+
 ## District of Columbia
 
 State overview: <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/page/real-property-tax-sale>, <https://otr.cfo.dc.gov/page/real-property-tax-sale>
@@ -246,6 +256,16 @@ State overview: <https://law.justia.com/codes/georgia/title-48/chapter-4/article
 | Richmond | <https://arctax.com/property/tax-sale-lists/> | 2026-10-27 | Copyright Notices page shows only 'All content © 2006-2024 Richmond County Tax Commissioners, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Restate facts only. ([terms](https://arctax.com/copyright-notices/)) |
 | Richmond | <https://www.arctax.com> | 2026-10-27 | same as above ([terms](https://arctax.com/copyright-notices/)) |
 | Richmond | <https://arctax.com/wp-content/uploads/2024/03/Delinquent-Tax-Sales-Brochure-for-Web-CJ-1.pdf> | 2026-10-27 | same as above ([terms](https://arctax.com/copyright-notices/)) |
+
+## Idaho
+
+State overview: <https://legislature.idaho.gov/statutesrules/idstat/Title63/T63CH10/SECT63-1005/>, <https://legislature.idaho.gov/statutesrules/idstat/Title31/T31CH8/SECT31-808/>, <https://legislature.idaho.gov/statutesrules/idstat/Title31/T31CH8/SECT31-808/>, <https://legislature.idaho.gov/statutesrules/idstat/Title31/T31CH8/SECT31-808/>, <https://www.canyoncounty.id.gov/elected-officials/treasurer/tax-deed/>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Canyon | <https://www.canyoncounty.id.gov/elected-officials/treasurer/tax-deed/> | 2026-10-27 | No terms of use or disclaimer page; the footer says only "Copyright © Canyon County, Idaho". Nothing forbids reusing sale dates or facts; we copy no lists or text beyond short quotes. |
+| Canyon | <https://www.canyoncounty.id.gov/wp-content/uploads/2026/10/261013-Public-Notice-1.pdf> | 2026-10-27 | No terms of use or disclaimer page; the footer says only "Copyright © Canyon County, Idaho". Nothing forbids reusing sale dates or facts; we copy no lists or text beyond short quotes. |
+| Bonneville | <https://www.bonnevillecountyidaho.gov/page/tax-deed-and-estate-sales> | 2026-10-27 | The site's Terms and Privacy Policy page is a privacy statement about visitor data and sets no limits on reusing site content. ([terms](https://www.bonnevillecountyidaho.gov/terms-and-privacy-policy)) |
 
 ## Illinois
 
@@ -397,6 +417,16 @@ State overview: <https://www.michigan.gov/taxes/property/property-tax-forfeiture
 | Macomb | <https://www.macombgov.org/departments/treasurers-office/tax-foreclosure/auction-and-claims> | 2026-10-27 | Macomb County terms: 'Users may freely print any information that they obtain from the County website for informational or personal use only.' Documents 'may not be modified'; county seal may not be reproduced. Accuracy not guaranteed. No explicit ban on redistributing facts; restate facts, don't copy documents. ([terms](https://www.macombgov.org/terms-use-privacy-policy)) |
 | Oakland | <https://www.oaklandcountymi.gov/government/oakland-county-treasurer-s-office/land-sale> | 2026-10-27 | Oakland County Web Site Terms: 'Users may freely print any information that they obtain from the County Web site.' 'Use of documents from this server is for informational or personal use only.' No modifications; logos and site design may not be copied. Accuracy not guaranteed. Restate facts, don't copy documents. ([terms](https://www.oaklandcountymi.gov/government/terms-of-use)) |
 
+## Minnesota
+
+State overview: <https://www.revisor.mn.gov/statutes/cite/282.01>, <https://www.revisor.mn.gov/statutes/cite/282.01>, <https://www.revisor.mn.gov/statutes/cite/282.01>, <https://www.revisor.mn.gov/statutes/cite/282.01>, <https://dakotacountymn.gov/residents/home-property/tax-forfeited>, <https://dakotacountymn.gov/residents/home-property/tax-forfeited>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Dakota | <https://dakotacountymn.gov/residents/home-property/tax-forfeited> | 2026-10-27 | The site's Terms of use (on the Privacy Policy page) only bar unlawful use: 'users agree that they will not use the website for any unlawful activity'. The disclaimer covers accuracy only. No restriction on reuse or republishing. ([terms](https://dakotacountymn.gov/privacy-policy)) |
+| Anoka | <https://www.anokacountymn.gov/310/Tax-Forfeited-Land-Sales> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Anoka County, MN and its representatives. All rights reserved.' The Privacy Policy/Disclaimer page's Terms of Use bar only unlawful use and disclaim accuracy. Nothing forbids republishing sale dates. ([terms](https://www.anokacountymn.gov/site/copyright)) |
+| Anoka | <https://www.anokacountymn.gov/1474/Available-Properties-and-Proceeds> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Anoka County, MN and its representatives. All rights reserved.' The Privacy Policy/Disclaimer page's Terms of Use bar only unlawful use and disclaim accuracy. Nothing forbids republishing sale dates. ([terms](https://www.anokacountymn.gov/125/Privacy-Policy-Disclaimer)) |
+
 ## Mississippi
 
 State overview: <https://desotocountyms.gov/508/Tax-Sale>, <https://desotocountyms.gov/508/Tax-Sale>, <https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes>, <https://desotocountyms.gov/690/Tax-Sale-Information>, <https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes>, <https://www.sos.ms.gov/public-lands/tax-forfeited-lands/tax-forfeited-lands-faqs>
@@ -524,6 +554,16 @@ State overview: <https://www.ncleg.gov/enactedlegislation/statutes/html/bysectio
 | Forsyth | <https://forsyth.cc/tax/foreclosure_faq.aspx> | 2026-10-27 | No disclaimer or terms link found (footer has only Accessibility); footer: 'Copyright © 2026 Forsyth County, North Carolina.' |
 | Durham | <https://dconc.gov/county-departments/departments-f-z/tax-administration/foreclosure> | 2026-10-27 | No reuse restriction found. Legal Notices: 'The materials are provided for public use on computer systems located within Durham County.' and references to commercial products 'shall not be used for advertising or product endorsement purposes.' ([terms](https://www.dconc.gov/about-dco/website-help/legal-notices)) |
 
+## North Dakota
+
+State overview: <https://ndlegis.gov/cencode/t57c28.pdf>, <https://ndlegis.gov/cencode/t57c28.pdf>, <https://www.burleigh.gov/media/wflgfyqw/delinquent-tax-2026-10-31.pdf>, <https://www.burleigh.gov/media/wflgfyqw/delinquent-tax-2026-10-31.pdf>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Burleigh | <https://www.burleigh.gov/departments/financetreasurer/delinquent-tax-property/> | 2026-10-27 | No terms of use or disclaimer page; the footer links only a Privacy Policy, which covers visitor data and says nothing about reusing site content. Nothing forbids republishing. ([terms](https://www.burleigh.gov/government/about/privacy-policy/)) |
+| Burleigh | <https://www.burleigh.gov/media/wflgfyqw/delinquent-tax-2026-10-31.pdf> | 2026-10-27 | No terms of use or disclaimer page; the footer links only a Privacy Policy, which covers visitor data and says nothing about reusing site content. Nothing forbids republishing. ([terms](https://www.burleigh.gov/government/about/privacy-policy/)) |
+| Ward | <https://www.co.ward.nd.us/635/Tax-Foreclosure-Properties> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Ward County, ND and its representatives. All rights reserved.' No terms forbid republishing sale dates. ([terms](https://www.co.ward.nd.us/copyright)) |
+
 ## Ohio
 
 State overview: <https://codes.ohio.gov/orc/section-5721.19>, <https://codes.ohio.gov/orc/section-5723.01>, <https://codes.ohio.gov/ohio-revised-code/section-5723.10>, <https://codes.ohio.gov/orc/section-5721.32>, <https://sheriff.franklincountyohio.gov/Services/Real-Estate-Sales>
@@ -573,6 +613,22 @@ State overview: <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.
 |---|---|---|---|
 | Oklahoma | <https://oklahomacounty.org/Treasurer> | 2026-10-27 | Terms of Use page has no copying, reuse or redistribution restriction (it covers privacy of submitted personal data only). ([terms](https://oklahomacounty.org/Terms-of-Use)) |
 | Oklahoma | <https://docs.oklahomacounty.org/treasurer/ImportantDates.asp> | 2026-10-27 | Same county; no reuse restriction found. ([terms](https://oklahomacounty.org/Terms-of-Use)) |
+
+## Oregon
+
+State overview: <https://www.oregonlegislature.gov/bills_laws/ors/ors312.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors312.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors312.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors312.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors312.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors312.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors275.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors275.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors275.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors275.html>, <https://www.oregonlegislature.gov/bills_laws/ors/ors275.html>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Multnomah | <https://multco.us/programs/tax-title> | 2026-10-27 | Website Terms page covers only third-party content: 'Notice of use must be given if required and/or permissions must be obtained directly from the owner' for content not owned by the County. No restriction on reusing County content found. ([terms](https://multco.us/info/multnomah-county-website-terms)) |
+| Multnomah | <https://multco.us/info/auction-october-12-2026-resources> | 2026-10-27 | Website Terms page covers only third-party content: 'Notice of use must be given if required and/or permissions must be obtained directly from the owner' for content not owned by the County. No restriction on reusing County content found. ([terms](https://multco.us/info/multnomah-county-website-terms)) |
+| Multnomah | <https://multco.us/file/auction-rules-10.12.2026.pdf-1/download> | 2026-10-27 | Website Terms page covers only third-party content: 'Notice of use must be given if required and/or permissions must be obtained directly from the owner' for content not owned by the County. No restriction on reusing County content found. ([terms](https://multco.us/info/multnomah-county-website-terms)) |
+| Washington | <https://www.washingtoncountyor.gov/facilities/real-property/surplus-property-auction> | 2026-10-27 | Liability Disclaimer on the privacy statement page: site content is 'provided "as is" without warranties of any kind' and 'Any rights not expressly granted herein are reserved.' No express ban on copying or redistributing public information found. ([terms](https://www.washingtoncountyor.gov/cao/privacy-statement)) |
+| Washington | <https://www.washingtoncountyor.gov/facilities/real-property/tax-foreclosed-property> | 2026-10-27 | Liability Disclaimer on the privacy statement page: site content is 'provided "as is" without warranties of any kind' and 'Any rights not expressly granted herein are reserved.' No express ban on copying or redistributing public information found. ([terms](https://www.washingtoncountyor.gov/cao/privacy-statement)) |
+| Washington | <https://www.washingtoncountyor.gov/facilities/real-property-faq> | 2026-10-27 | Liability Disclaimer on the privacy statement page: site content is 'provided "as is" without warranties of any kind' and 'Any rights not expressly granted herein are reserved.' No express ban on copying or redistributing public information found. ([terms](https://www.washingtoncountyor.gov/cao/privacy-statement)) |
+| Clackamas | <https://clackamas.us/property> | 2026-10-27 | Public domain: 'Information generated by Clackamas County is in the public domain' and may be 'used, reproduced, published, or otherwise transmitted without the County's specific authorization'; the County should be cited as the source. Seals and logos may not be reproduced. ([terms](https://www.clackamas.us/liability.html)) |
+| Clackamas | <https://www.clackamas.us/node/191356> | 2026-10-27 | Public domain: 'Information generated by Clackamas County is in the public domain' and may be 'used, reproduced, published, or otherwise transmitted without the County's specific authorization'; the County should be cited as the source. Seals and logos may not be reproduced. ([terms](https://www.clackamas.us/liability.html)) |
+| Lane | <https://www.lanecountyor.gov/government/county_departments/county_administration/general_county_administration/operations/property_management/purchasing_lane_county_owned_real_property> | 2026-10-27 | Liability Disclaimer has no express rule on copying or redistributing content; it says 'Any rights not expressly granted herein are reserved.' and the footer reads '© 2016 Lane County \| All Rights Reserved'. No express ban on reusing public sale information found. ([terms](https://www.lanecountyor.gov/liability_disclaimer)) |
 
 ## Pennsylvania
 
@@ -733,6 +789,16 @@ State overview: <https://le.utah.gov/~2023/bills/sbillenr/SB0115.pdf>, <https://
 | Utah | <https://auditor.utahcounty.gov/may-tax-sale> | 2026-10-27 | Utah County Terms of Use: 'Anyone may view, copy or distribute information found within these web pages ... for personal or informational use without owing an obligation to the County ... if the documents are not modified in any respect.' No prohibition on reuse found. ([terms](https://www.utahcounty.gov/terms-of-use)) |
 | Washington | <https://www.washco.utah.gov/departments/auditor/tax-sale/> | 2026-10-27 | No reuse terms found; footer shows '© 2004-2026 Washington County' and 'All Rights Reserved'; the privacy policy has no copying or reuse restriction. ([terms](https://www.washco.utah.gov/services-resources/privacy-policy/)) |
 
+## Virginia
+
+State overview: <https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3965/>, <https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3965/>, <https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3965/>, <https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3974/>, <https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3974/>, <https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3974/>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Fairfax | <https://www.fairfaxcounty.gov/taxes/pay/auction-real-property> | 2026-10-27 | Fairfax County 'Privacy Policy & Copyright' page shows a copyright notice ('Official site of the County of Fairfax, Virginia, (c) Copyright 2025') and link/accuracy disclaimers; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://www.fairfaxcounty.gov/topics/copyright-privacy)) |
+| Prince William | <https://pwcva.gov/department/office-county-attorney/foreclosure-auction-list> | 2026-10-27 | No terms of use page found; the county Privacy Policy's 'Legal Notice/Disclaimer' covers only external links and accuracy of linked information. No clause forbidding reuse, redistribution or commercial use found. ([terms](https://pwcva.gov/privacy-policy)) |
+| Loudoun | <https://www.loudoun.gov/1918/Tax-Sales> | 2026-10-27 | Footer 'Privacy Policy/Copyright Notices' page has only a link disclaimer and public-records note; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://www.loudoun.gov/904/Privacy-Practices-Security-Policy)) |
+
 ## Washington
 
 State overview: <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>
@@ -757,6 +823,15 @@ State overview: <https://code.wvlegislature.gov/11A-3-2/>, <https://code.wvlegis
 | Monongalia | <https://code.wvlegislature.gov/11A-3-45/> | 2026-10-27 | West Virginia Code on the Legislature's site; public law. No reuse restriction found. |
 | Cabell | <https://www.wvsao.gov/CountyCollections/Default> | 2026-10-27 | Terms of Use page (https://www.wvsao.gov/Legal/TermsOfUse.aspx) could not be read: the site's robots rules refused it. No reuse restriction appears on the County Collections page itself. ([terms](https://www.wvsao.gov/Legal/TermsOfUse.aspx)) |
 | Cabell | <https://code.wvlegislature.gov/11A-3-45/> | 2026-10-27 | West Virginia Code on the Legislature's site; public law. No reuse restriction found. |
+
+## Wisconsin
+
+State overview: <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Milwaukee | <https://county.milwaukee.gov/EN/Administrative-Services/Economic-Development/Foreclosed-Properties/Listings> | 2026-10-27 | County 'Website Policies' page has privacy, security and link disclaimers; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://county.milwaukee.gov/EN/Website-Policies)) |
+| Milwaukee | <https://county.milwaukee.gov/EN/Administrative-Services/Economic-Development/Foreclosed-Properties> | 2026-10-27 | County 'Website Policies' page has privacy, security and link disclaimers; no clause forbidding reuse, redistribution or commercial use found. ([terms](https://county.milwaukee.gov/EN/Website-Policies)) |
 
 ## Wyoming
 

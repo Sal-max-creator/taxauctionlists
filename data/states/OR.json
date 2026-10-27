@@ -1,0 +1,223 @@
+{
+  "state": "OR",
+  "name": "Oregon",
+  "sale_type": "deed",
+  "overview": "Oregon does not sell tax liens or tax certificates to investors. Once property taxes have been delinquent for three years, the county forecloses its tax lien, and the owner and certain other parties then have two years after the foreclosure judgment to redeem by paying the taxes with interest, a five percent penalty and a fee. Property that is not redeemed is deeded to the county, which takes title free of most liens and encumbrances. The county may later sell it: the county board sets a minimum price, the sheriff publishes notice once a week for four consecutive weeks, and the property goes to the highest and best bidder, for cash or with at least 10 percent down on a contract of up to 20 years; land that does not sell may later be sold privately for no less than the largest bid. Sale proceeds are held in a separate interest-bearing account until any surplus owed to the former owner is determined, and an unclaimed surplus goes to the State Treasurer as unclaimed property.",
+  "overview_sources": [
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors312.html",
+      "quote": "whenever three years have elapsed from the earliest date of delinquency of taxes levied and charged thereon",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors312.html",
+      "quote": "for the period of two years from and after the date of the judgment of foreclosure",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors312.html",
+      "quote": "shall be deeded to the county by the tax collector",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors312.html",
+      "quote": "the conveyance vests in the county title to the property, free from all liens and encumbrances",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors312.html",
+      "quote": "the county treasurer shall deposit the gross amount of the sales proceeds in a separate, interest-bearing account",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors312.html",
+      "quote": "A surplus is unclaimed property under ORS 98.302 to 98.436.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors275.html",
+      "quote": "fix the minimum price for which each interest, parcel or group of parcels may be sold",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors275.html",
+      "quote": "once each week for four consecutive weeks prior to such sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors275.html",
+      "quote": "must be to the highest and best bidder",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors275.html",
+      "quote": "For not less than 10 percent of the purchase price in cash",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors275.html",
+      "quote": "at private sale without further notice but for not less than the largest amount bid",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Multnomah",
+      "slug": "multnomah",
+      "office": "Multnomah County Tax Title Program (Department of County Management)",
+      "phone": "not stated (county general information line 503-823-4000)",
+      "address": "PO Box 2716 Portland, OR 97208-2716",
+      "website": "https://multco.us/programs/tax-title",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "A December 2026 auction is planned but no date is posted yet. The Tax Title page says: 'AUCTIONS: DECEMBER TO BE SCHEDULED.' and 'THE NEXT AUCTION WILL BE ANNOUNCED HERE FIRST FOR DECEMBER 2026.' The last auction was October 12, 2026 (past).",
+      "how_to_bid": "Under the October 12, 2026 auction rules, the auction was a registered, in-person, oral auction at 501 SE Hawthorne Blvd, Portland. Bidders signed in on sale day with current photo ID and brought cash or certified funds payable to Multnomah County (no personal or corporate checks) of at least the advertised earnest money for each property, one check per property. Bidding starts at the advertised minimum bid and moves in $1,000 increments; the nonrefundable earnest money is due at the close of bidding and the balance within a few days. Check the rules posted for the December auction.",
+      "sources": [
+        {
+          "url": "https://multco.us/programs/tax-title",
+          "read_on": "2026-10-27",
+          "terms": "Website Terms page covers only third-party content: 'Notice of use must be given if required and/or permissions must be obtained directly from the owner' for content not owned by the County. No restriction on reusing County content found.",
+          "terms_url": "https://multco.us/info/multnomah-county-website-terms"
+        },
+        {
+          "url": "https://multco.us/info/auction-october-12-2026-resources",
+          "read_on": "2026-10-27",
+          "terms": "Website Terms page covers only third-party content: 'Notice of use must be given if required and/or permissions must be obtained directly from the owner' for content not owned by the County. No restriction on reusing County content found.",
+          "terms_url": "https://multco.us/info/multnomah-county-website-terms"
+        },
+        {
+          "url": "https://multco.us/file/auction-rules-10.12.2026.pdf-1/download",
+          "read_on": "2026-10-27",
+          "terms": "Website Terms page covers only third-party content: 'Notice of use must be given if required and/or permissions must be obtained directly from the owner' for content not owned by the County. No restriction on reusing County content found.",
+          "terms_url": "https://multco.us/info/multnomah-county-website-terms"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://multco.us/programs/tax-title",
+          "quote": "AUCTIONS: DECEMBER TO BE SCHEDULED."
+        },
+        {
+          "url": "https://multco.us/file/auction-rules-10.12.2026.pdf-1/download",
+          "quote": "This is a registered, in person, oral Auction."
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Washington County Real Property (Real Estate and Planning)",
+      "phone": "not stated",
+      "address": "Auctions held at Washington Street Conference Center, 102 SW Washington Street, Hillsboro, 97124",
+      "website": "https://www.washingtoncountyor.gov/facilities/real-property/surplus-property-auction",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction scheduled. The Real Property Auctions page says 'No Auction Scheduled at this Time'; the FAQ says auctions are held whenever there is property available for sale. The last auction mentioned was March 12, 2025 (past).",
+      "how_to_bid": "Auctions are in person. Bidders register at the door on auction day by completing a Bidder Registration Form before the 10:00 AM start (doors open 9:00 AM; no late registrations). Bidding starts at the minimum bid, typically 70 percent of the assessed real market value. The winning bidder pays a nonrefundable 20% deposit at the auction in cash, cashier's check or certified funds, with the balance due at closing, typically 30 to 60 days later; the county conveys by quitclaim deed.",
+      "sources": [
+        {
+          "url": "https://www.washingtoncountyor.gov/facilities/real-property/surplus-property-auction",
+          "read_on": "2026-10-27",
+          "terms": "Liability Disclaimer on the privacy statement page: site content is 'provided \"as is\" without warranties of any kind' and 'Any rights not expressly granted herein are reserved.' No express ban on copying or redistributing public information found.",
+          "terms_url": "https://www.washingtoncountyor.gov/cao/privacy-statement"
+        },
+        {
+          "url": "https://www.washingtoncountyor.gov/facilities/real-property/tax-foreclosed-property",
+          "read_on": "2026-10-27",
+          "terms": "Liability Disclaimer on the privacy statement page: site content is 'provided \"as is\" without warranties of any kind' and 'Any rights not expressly granted herein are reserved.' No express ban on copying or redistributing public information found.",
+          "terms_url": "https://www.washingtoncountyor.gov/cao/privacy-statement"
+        },
+        {
+          "url": "https://www.washingtoncountyor.gov/facilities/real-property-faq",
+          "read_on": "2026-10-27",
+          "terms": "Liability Disclaimer on the privacy statement page: site content is 'provided \"as is\" without warranties of any kind' and 'Any rights not expressly granted herein are reserved.' No express ban on copying or redistributing public information found.",
+          "terms_url": "https://www.washingtoncountyor.gov/cao/privacy-statement"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.washingtoncountyor.gov/facilities/real-property/surplus-property-auction",
+          "quote": "No Auction Scheduled at this Time"
+        },
+        {
+          "url": "https://www.washingtoncountyor.gov/facilities/real-property/surplus-property-auction",
+          "quote": "The auction will be in-person."
+        }
+      ],
+      "notes": {
+        "office_note": "The pages name no office; the FAQ sits under 'Real Estate and Planning'. Email given on the auction page could not be read (obfuscated)."
+      }
+    },
+    {
+      "county": "Clackamas",
+      "slug": "clackamas",
+      "office": "Clackamas County Property Disposition Division (Department of Transportation and Development)",
+      "phone": "503-742-4384",
+      "address": "150 Beavercreek Road, Oregon City, OR 97045",
+      "website": "https://clackamas.us/property",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction after October 27, 2026 is posted. The latest auction listed was Thursday, Dec. 18, 2025 (past), which offered 48 tax-foreclosed parcels.",
+      "how_to_bid": "Oral, in-person auction; no sealed bids. Registration is on auction day from 9 a.m. (limited to 100 participants) and the auction begins at 10 a.m.; for the December 2025 sale bidders also had to register online beforehand and show proof of funds equal to 20 percent of the minimum bid at check-in. 20% of the listed minimum bid is due as a nonrefundable deposit at the time of sale in cash or cashier's check payable to Clackamas County (no personal or business checks or money orders); final payment was due within two business days.",
+      "sources": [
+        {
+          "url": "https://clackamas.us/property",
+          "read_on": "2026-10-27",
+          "terms": "Public domain: 'Information generated by Clackamas County is in the public domain' and may be 'used, reproduced, published, or otherwise transmitted without the County's specific authorization'; the County should be cited as the source. Seals and logos may not be reproduced.",
+          "terms_url": "https://www.clackamas.us/liability.html"
+        },
+        {
+          "url": "https://www.clackamas.us/node/191356",
+          "read_on": "2026-10-27",
+          "terms": "Public domain: 'Information generated by Clackamas County is in the public domain' and may be 'used, reproduced, published, or otherwise transmitted without the County's specific authorization'; the County should be cited as the source. Seals and logos may not be reproduced.",
+          "terms_url": "https://www.clackamas.us/liability.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://clackamas.us/property",
+          "quote": "This is an Oral Auction. No sealed bids will be accepted."
+        },
+        {
+          "url": "https://clackamas.us/property",
+          "quote": "20% of the listed minimum bid is due as a deposit at the time of sale"
+        }
+      ]
+    },
+    {
+      "county": "Lane",
+      "slug": "lane",
+      "office": "Lane County Property Management",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://www.lanecountyor.gov/government/county_departments/county_administration/general_county_administration/operations/property_management/purchasing_lane_county_owned_real_property",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted. Lane County holds auctions as needed with no set time of year; notice is published weekly for four weeks in the Register Guard and posted on the Property Management page one month before a sale.",
+      "how_to_bid": "Public auctions use sealed bids: one bid per property per bidder, opened and read on the auction date; do not send funds with the bid. The winning bidder's 20% deposit must be received within 24 hours of the bid opening and the balance within 5 business days. Property not sold after two public auctions may be sold privately through the Property Management Officer, with full payment in certified funds. Properties are sold as is.",
+      "sources": [
+        {
+          "url": "https://www.lanecountyor.gov/government/county_departments/county_administration/general_county_administration/operations/property_management/purchasing_lane_county_owned_real_property",
+          "read_on": "2026-10-27",
+          "terms": "Liability Disclaimer has no express rule on copying or redistributing content; it says 'Any rights not expressly granted herein are reserved.' and the footer reads '© 2016 Lane County | All Rights Reserved'. No express ban on reusing public sale information found.",
+          "terms_url": "https://www.lanecountyor.gov/liability_disclaimer"
+        }
+      ],
+      "notes": {
+        "format_note": "The page describes sealed bids opened on the auction date but does not say how bids are delivered, so format is 'unknown'."
+      }
+    }
+  ]
+}

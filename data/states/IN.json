@@ -174,6 +174,184 @@
           "terms_url": null
         }
       ]
+    },
+    {
+      "county": "St. Joseph",
+      "slug": "st-joseph",
+      "office": "St. Joseph County Auditor (sale held with the County Treasurer)",
+      "phone": "574-235-9668",
+      "address": "County-City Building, 227 West Jefferson Blvd, Suite 722, South Bend, IN 46601",
+      "website": "https://www.sjcindiana.gov/2302/Auditor",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "zeusauction.com (registration and listings); SRI (information)",
+        "url": null
+      },
+      "schedule_rule": "The County holds two Tax Sales a year. They are advertised in the newspaper and online.",
+      "sales": [],
+      "next_sale_note": "The 2026 Treasurer Tax Sale has already taken place (\"The public auction will begin on September 1, 2026 at 9:00 AM local time\", closing September 2, 2026, online at zeusauction.com). No date is posted for the next Commissioners' sale (\"typically in the spring\") or the 2027 tax sale.",
+      "how_to_bid": "The 2026 sale was an electronic sale at zeusauction.com. Bidders register and view listings through the Zeus Auction site, and each property has its own closing time posted on the auction site. Deposits and fees are not stated on the county pages. Properties sold at the spring Commissioners' sale have a 120-day redemption period.",
+      "sources": [
+        {
+          "url": "https://www.sjcindiana.gov/2302/Auditor",
+          "read_on": "2026-10-27",
+          "terms": "Footer shows only Accessibility, Privacy and Copyright Notices links; no Terms of Use or Disclaimer link. The Copyright Notices and Privacy pages returned an error to our fetch and could not be read, so no reuse clause was found.",
+          "terms_url": "https://www.sjcindiana.gov/site/copyright"
+        },
+        {
+          "url": "https://www.sjcindiana.gov/395/Tax-Sale-Notice",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above.",
+          "terms_url": "https://www.sjcindiana.gov/site/copyright"
+        },
+        {
+          "url": "https://www.sjcindiana.gov/m/newsflash/home/detail/927",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above (county news post of July 8, 2026).",
+          "terms_url": "https://www.sjcindiana.gov/site/copyright"
+        }
+      ]
+    },
+    {
+      "county": "Elkhart",
+      "slug": "elkhart",
+      "office": "Elkhart County Treasurer",
+      "phone": "(574) 535-6759",
+      "address": "117 N. Second St., Room 201, Goshen, IN 46526",
+      "website": "https://elkhartcounty.com/en/all-departments/treasurer/",
+      "sale_type": "hybrid",
+      "format": "unknown",
+      "platform": {
+        "name": "SRI (sriservices.com, per treasurer page)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The treasurer page lists \"June 30, 2026 – Annual Tax Sale delinquent list created\", with \"TBD – Annual Tax Sale\" and \"TBD – Commissioners Certificate Sale\". The county's 2026 tax sale advertisement PDF could not be read by our fetch, so no sale date is confirmed.",
+      "how_to_bid": "The list of eligible properties is posted on the SRI tax sale website and the county website, and published in The Goshen News and The Wakarusa Tribune. The treasurer page points to the SRI website for how to register, a buyer handout, redemption information and applicable laws. Deposits and fees are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://elkhartcounty.com/en/all-departments/treasurer/",
+          "read_on": "2026-10-27",
+          "terms": "No Disclaimer, Terms of Use, Privacy or Legal link found; footer shows only a Sitemap link and '© 2026 Elkhart County'.",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Tippecanoe",
+      "slug": "tippecanoe",
+      "office": "Tippecanoe County Auditor's Office",
+      "phone": "765-423-9207",
+      "address": "20 North 3rd Street, 2nd Floor, Lafayette, IN 47901",
+      "website": "https://www.tippecanoe.in.gov/199/Tax-Sales",
+      "sale_type": "hybrid",
+      "format": "in person",
+      "platform": {
+        "name": "SRI (sriservices.com; zeusauction.com if the sale moves online, per 2026 notice)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 tax sale has already taken place (\"Beginning 10:00 AM Local Time, September 18, 2026\", Tippecanoe Room of the Tippecanoe County Office Building). The latest commissioners' sale listed is \"2025 Commissioners' Sale - April 23, 2026\", also past. No 2027 dates are posted.",
+      "how_to_bid": "Per the 2026 notice, the sale was held in person at the Tippecanoe County Office Building, Tippecanoe Room, with SRI posting location updates and the property list. Bidders register online through SRI and should arrive at least 30 minutes before the start time. Deposits are not stated. For redemption or taking title, contact the Auditor's Office at 765-423-9207.",
+      "sources": [
+        {
+          "url": "https://www.tippecanoe.in.gov/199/Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "No Terms of Use or Disclaimer link; copyright page says 'All content © 2006-2026 Tippecanoe County, IN and its representatives. All rights reserved.' with no clause on reuse. The Privacy Policy page returned an error to our fetch.",
+          "terms_url": "https://www.tippecanoe.in.gov/site/copyright"
+        },
+        {
+          "url": "https://www.tippecanoe.in.gov/DocumentCenter/View/53944",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above (2026 Tax Sale Ad).",
+          "terms_url": "https://www.tippecanoe.in.gov/site/copyright"
+        },
+        {
+          "url": "https://www.tippecanoe.in.gov/174/Auditor",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above.",
+          "terms_url": "https://www.tippecanoe.in.gov/site/copyright"
+        }
+      ]
+    },
+    {
+      "county": "Porter",
+      "slug": "porter",
+      "office": "Porter County Auditor",
+      "phone": "219-465-3445",
+      "address": "155 Indiana Avenue, Suite 204, Valparaiso, IN 46383",
+      "website": "https://portercountyin.gov/1036/Tax-SaleCertificate-Sale",
+      "sale_type": "hybrid",
+      "format": "unknown",
+      "platform": {
+        "name": "SRI Incorporated of Indianapolis (conducts the sales)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county page shows only the last sale (\"Porter County's 2025 Tax Sale was held October 14th, 2025 at 10:00 CST\"). No 2026 or 2027 tax sale date and no certificate sale date are posted.",
+      "how_to_bid": "SRI Incorporated of Indianapolis conducts the sales, and the county urges bidders to read SRI's Lien Buyer Handout for noticing and other requirements. Under Porter County Ordinance No. 00-7, sale results are open to examination in person at the Auditor's office and are not distributed electronically. Owners can avoid the sale by paying the Treasurer ((219) 465-3470) in certified funds before the sale.",
+      "sources": [
+        {
+          "url": "https://portercountyin.gov/1036/Tax-SaleCertificate-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice: 'All content © 2006-2026 Porter County, IN and its representatives. All rights reserved.' Privacy Policy/User Agreement has no clause on reuse or copying and disclaims accuracy ('Portions of such information may be incorrect or not current'). Separately, the tax sale page says that under Ordinance No. 00-7 sale results are viewable only in person at the Auditor's office and are not distributed electronically; we copy no results.",
+          "terms_url": "https://portercountyin.gov/520/Privacy-Policy-User-Agreement"
+        },
+        {
+          "url": "https://portercountyin.gov/124/Auditor",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above.",
+          "terms_url": "https://portercountyin.gov/520/Privacy-Policy-User-Agreement"
+        },
+        {
+          "url": "https://portercountyin.gov/1320/dglenn@porterco.org",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above (Options For Certified Properties).",
+          "terms_url": "https://portercountyin.gov/520/Privacy-Policy-User-Agreement"
+        }
+      ]
+    },
+    {
+      "county": "Hendricks",
+      "slug": "hendricks",
+      "office": "Hendricks County Auditor's Office (sale held with the Treasurer)",
+      "phone": "(317) 745-9300",
+      "address": null,
+      "website": "https://www.co.hendricks.in.us/department/division.php?structureid=191",
+      "sale_type": "hybrid",
+      "format": "in person",
+      "platform": {
+        "name": "SRI Tax Sale Services",
+        "url": null
+      },
+      "schedule_rule": "typically held each year in September or October at the Hendricks County Government Center.",
+      "sales": [],
+      "next_sale_note": "The county page was last updated for 2025 (\"THE 2025 TAX SALE WILL BE HELD ON SEPTEMBER 26, 2025 AT 10:00 AM.\"). No 2026 or 2027 date and no commissioners' certificate sale information is posted.",
+      "how_to_bid": "Hendricks County partners with SRI Tax Sale Services to run the sale, and the current list is available through SRI. Registration, deposits and fees are not stated on the county pages. Owners whose property was sold can contact the Auditor's office at 317-745-9300 about redemption.",
+      "sources": [
+        {
+          "url": "https://www.co.hendricks.in.us/department/division.php?structureid=191",
+          "read_on": "2026-10-27",
+          "terms": "not found (no Terms, Disclaimer, Privacy or Copyright link in the fetched content, and a web search found no terms page for the site)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.co.hendricks.in.us/department/index.php?structureid=25",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.co.hendricks.in.us/department/index.php?structureid=22",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ]
     }
   ]
 }

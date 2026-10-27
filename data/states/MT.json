@@ -190,6 +190,39 @@
       ]
     },
     {
+      "county": "Hill",
+      "slug": "hill",
+      "office": "Hill County Treasurer",
+      "phone": "(406) 265-5481",
+      "address": "315 4th Street, Havre, MT 59501",
+      "website": "https://hillcounty.us/departments/treasurer.php",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No assignment dates posted; the Treasurer's page says a tax lien attaches to all real property delinquent on August 1, 2026 and that a third party may then purchase the lien from the county.",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs. Hill County's page says the attachment of a tax lien allows a third party to purchase the lien from the county, that the third party must follow all the laws of the tax deed process, and that buying the lien does not mean they own the property. Assignment procedure, fees and lottery rules are not stated; contact the Treasurer.",
+      "sources": [
+        {
+          "url": "https://hillcounty.us/departments/treasurer.php",
+          "read_on": "2026-10-27",
+          "terms": "Footer shows only '© Hill County, MT | All rights reserved.' No terms of use, disclaimer or privacy link found in the footer; no clause banning reuse found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hillcounty.us/departments/treasurer.php",
+          "quote": "ALL REAL PROPERTY THAT IS DELINQUENT ON AUGUST 1, 2026 A TAX LIEN WILL BE ATTACHED."
+        },
+        {
+          "url": "https://hillcounty.us/departments/treasurer.php",
+          "quote": "THIS DOES NOT MEAN THEY OWN PROPERTY."
+        }
+      ]
+    },
+    {
       "county": "Lake",
       "slug": "lake",
       "office": "Lake County Treasurer",
@@ -285,6 +318,39 @@
         {
           "url": "https://www.missoulacounty.gov/departments/clerk-treasurer/property-taxes/delinquent-taxes/",
           "quote": "First priority will be granted to Electronic Submissions"
+        }
+      ]
+    },
+    {
+      "county": "Park",
+      "slug": "park",
+      "office": "Park County Treasurer",
+      "phone": "406-222-4119",
+      "address": "City/County Complex, 414 E. Callender St., Livingston, MT 59047",
+      "website": "https://www.parkcountymt.gov/Government-Departments/Treasurer/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No assignment dates or procedure posted; the Treasurer's page links a 2025 delinquent tax list (dated 10/27/26) and a notice of pending tax assignment form.",
+      "how_to_bid": "This is not a bidding auction: investors take an assignment of the county's tax lien by paying the delinquent taxes, penalty, interest and costs. Park County's Treasurer page links a 2025 Delinquent Tax List (https://www.parkcountymt.gov/uploads/files/departments/35/delinquent-102726.pdf) and a 'Notice of pending tax assignment' form; the form itself could not be read (the site's robots rules refused it). Assignment procedure, fees and lottery rules are not stated; contact the Treasurer.",
+      "sources": [
+        {
+          "url": "https://www.parkcountymt.gov/Government-Departments/Treasurer/",
+          "read_on": "2026-10-27",
+          "terms": "Footer 'Disclaimer' text (not a link) is an accuracy disclaimer only: 'no representation or guarantee can be made as to the correctness or suitability of that information' and 'All vital information should be independently verified.' No terms of use or copyright link found; no clause banning reuse found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.parkcountymt.gov/Government-Departments/Treasurer/",
+          "quote": "2025 Delinquent Tax List 10/27/26"
+        },
+        {
+          "url": "https://www.parkcountymt.gov/Government-Departments/Treasurer/",
+          "quote": "Notice of pending tax assignment"
         }
       ]
     },

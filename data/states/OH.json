@@ -913,6 +913,82 @@
           "quote": "The balance of funds must be paid within thirty calendar days of the payment letter."
         }
       ]
+    },
+    {
+      "county": "Licking",
+      "slug": "licking",
+      "office": "Licking County Sheriff's Office (Sheriff's Sales)",
+      "phone": "(740) 670-5544 (Sheriff's Sales Information); (740) 670-5555 (main)",
+      "address": "155 E Main St., Newark, Ohio 43055",
+      "website": "https://apps.lickingcounty.gov/sheriff/foreclosures/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://licking.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "On scheduled Thursday's at 10:30 am, Eastern Time.",
+      "sales": [],
+      "next_sale_note": "No sale dates posted; the Sheriff's foreclosure listing was empty when read. The page says the office sells real estate subject to foreclosure and tax sales online; it does not mark which listings are tax cases.",
+      "how_to_bid": "Bid online on the county's RealAuction sheriff sale site after registering with RealAuction and completing the Purchaser Information Form. Properties open for bid at least seven days before the sale, and auctions run one property at a time from 10:30 am Eastern on scheduled Thursdays. Deposits are $2,000 (appraised value $10,000 or less), $5,000 ($10,000.01 to $200,000) or $10,000 (over $200,000); wired deposits must arrive by 5:00 pm two business days before the auction and ACH deposits must be started by 4:00 pm five business days before. The balance is due within 30 days after confirmation of sale by certified bank check or title company check payable to the Licking County Sheriff's Office.",
+      "sources": [
+        {
+          "url": "https://apps.lickingcounty.gov/sheriff/foreclosures/",
+          "read_on": "2026-10-27",
+          "terms": "no terms page found (the Sheriff's foreclosures page and the Sheriff's main page have no disclaimer, terms, privacy or copyright link or text in their footers)"
+        },
+        {
+          "url": "https://lickingcounty.gov/Sheriff",
+          "read_on": "2026-10-27",
+          "terms": "no terms page found (footer shows only the county logo and a 'Powered by Civica Software' credit)"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://apps.lickingcounty.gov/sheriff/foreclosures/",
+          "quote": "Balance of the purchase price is due within 30 days after confirmation of sale."
+        }
+      ]
+    },
+    {
+      "county": "Fairfield",
+      "slug": "fairfield",
+      "office": "Fairfield County Sheriff's Office (Sheriff's Sales)",
+      "phone": "740-652-7900",
+      "address": "Lancaster, Ohio 43130 (street address not stated on the Sheriff Sales page)",
+      "website": "https://sheriff.fairfield.oh.us/FC-Sheriff-Auction-Sales.html",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://fairfield.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "Sheriff's Sales are held on scheduled Fridays at 11:00 a.m.",
+      "sales": [],
+      "next_sale_note": "No specific sale dates posted on the Sheriff's page; properties are advertised for three consecutive weeks in the Thursday Lancaster Eagle-Gazette and listed on the RealAuction site.",
+      "how_to_bid": "Register with RealAuction and bid online on the county's sheriff sale site (RealAuction offers webinar training, 877-361-7325). Bidding begins at two-thirds of the appraised value unless a court order directs otherwise. Third-party buyers at a tax foreclosure sale must sign an affidavit that they owe no delinquent Ohio real property taxes, or title does not transfer; the affidavit is sent after the sale. Deposit amounts and payment terms are not stated on the Sheriff's page.",
+      "sources": [
+        {
+          "url": "https://sheriff.fairfield.oh.us/FC-Sheriff-Auction-Sales.html",
+          "read_on": "2026-10-27",
+          "terms": "Page footer: 'Information included in this site is believed to be accurate, but is not guaranteed.' and '© Fairfield County Ohio — All rights reserved.' (no link). The linked county Privacy Policy covers personal data only, with no reuse clause. Copyright-only ('All rights reserved'); restate facts only.",
+          "terms_url": "https://www.co.fairfield.oh.us/privacy-policy.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sheriff.fairfield.oh.us/FC-Sheriff-Auction-Sales.html",
+          "quote": "To bid on a property offered by the Fairfield County Sheriff's Office, you must register with Realauction."
+        },
+        {
+          "url": "https://sheriff.fairfield.oh.us/FC-Sheriff-Auction-Sales.html",
+          "quote": "Properties are advertised for three consecutive weeks in the Thursday edition of the Lancaster Eagle Gazette Newspaper."
+        },
+        {
+          "url": "https://sheriff.fairfield.oh.us/FC-Sheriff-Auction-Sales.html",
+          "quote": "Bidding begins at two-thirds of the appraised value, unless otherwise directed by court order."
+        }
+      ]
     }
   ]
 }

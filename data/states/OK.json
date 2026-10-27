@@ -247,6 +247,135 @@
           "quote": "auctioned off to the highest bidder for CASH ONLY"
         }
       ]
+    },
+    {
+      "county": "Garfield",
+      "slug": "garfield",
+      "office": "Garfield County Treasurer",
+      "phone": "580-237-0246",
+      "address": "114 W. Broadway, Room 104, Enid, OK 73701",
+      "website": "https://oktaxrolls.com/county/Garfield",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Treasurer’s office conducts a public auction on the second Monday of each June.",
+      "sales": [],
+      "next_sale_note": "2027 auction date not yet posted.",
+      "how_to_bid": "Sold at public auction to the highest bidder; the sale is open to the public. Lists of the properties are available from the Treasurer's office in May before the June auction. Time, location, registration, deposit and payment terms not stated. The auction covers real estate sold for non-payment of ad valorem property taxes or special assessments such as cleaning and mowing.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Garfield",
+          "read_on": "2026-10-27",
+          "terms": "© 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); no terms of use page found and no reuse restriction stated. Copyright-only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Garfield",
+          "quote": "The Treasurer’s office conducts a public auction on the second Monday of each June."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Garfield",
+          "quote": "The sale is open to the public and all properties are sold to the highest bidder."
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Washington County Treasurer",
+      "phone": "918-337-2810",
+      "address": "400 S Johnstone Ave Rm 200, Bartlesville, OK 74003",
+      "website": "https://oktaxrolls.com/county/Washington",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Treasurer's office conducts a public auction on the 2nd Monday of each June.",
+      "sales": [],
+      "next_sale_note": "2027 auction date not yet posted.",
+      "how_to_bid": "Sold at public auction to the highest bidder; the sale is open to the public. Lists of the properties are available from the Treasurer's office in May before the June auction. Time, location, registration, deposit and payment terms not stated. The Treasurer's page also links an office policy and a county-owned property list.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Washington",
+          "read_on": "2026-10-27",
+          "terms": "© 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); no terms of use page found and no reuse restriction stated. Copyright-only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Washington",
+          "quote": "The Treasurer's office conducts a public auction on the 2nd Monday of each June."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Washington",
+          "quote": "Lists of these properties become available from our office in May preceding the June auction."
+        }
+      ]
+    },
+    {
+      "county": "Grady",
+      "slug": "grady",
+      "office": "Grady County Treasurer",
+      "phone": "405-224-5337",
+      "address": "326 W Choctaw, Chickasha, OK 73018",
+      "website": "https://oktaxrolls.com/county/Grady",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 June resale date not yet posted. The Treasurer's 2026 excess resale list gives the last resale as 'Resale Date: 06/08/2026'.",
+      "how_to_bid": "Not fully stated on the page. The Treasurer's page links a Registration Affidavit (bidder sheet), Resale Guidelines, deed forms and a Commissioner Owned Property list; those documents could not be read. Time, location, deposit and payment terms not stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Grady",
+          "read_on": "2026-10-27",
+          "terms": "© 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); no terms of use page found and no reuse restriction stated. Copyright-only."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/2026_Excess_Resale2.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Treasurer's 2026 Excess Resale list linked from its oktaxrolls.com page; no reuse restriction stated."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/2026_Excess_Resale2.pdf",
+          "quote": "Resale Date: 06/08/2026"
+        }
+      ]
+    },
+    {
+      "county": "Le Flore",
+      "slug": "le-flore",
+      "office": "LeFlore County Treasurer",
+      "phone": "918-647-3525",
+      "address": "P. O. Box 100, Poteau, OK 74953",
+      "website": "https://oktaxrolls.com/county/LeFlore",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "on the second Monday of each June.",
+      "sales": [],
+      "next_sale_note": "2027 auction date not yet posted.",
+      "how_to_bid": "Sold at public auction to the highest bidder; the sale is open to the public. Lists of the properties are available from the Treasurer's office in May before the June auction. Time, location, registration, deposit and payment terms not stated. The Treasurer's page links June Resale bidder registration, FAQ and governing guidelines documents (not read).",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/LeFlore",
+          "read_on": "2026-10-27",
+          "terms": "© 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); no terms of use page found and no reuse restriction stated. Copyright-only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/LeFlore",
+          "quote": "on the second Monday of each June."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/LeFlore",
+          "quote": "The sale is open to the public, and all properties are sold to the highest bidder."
+        }
+      ]
     }
   ]
 }

@@ -131,6 +131,132 @@
           "quote": "No registration is required to attend the auction."
         }
       ]
+    },
+    {
+      "county": "Ada",
+      "slug": "ada",
+      "office": "Ada County Treasurer",
+      "phone": "208-287-7080",
+      "address": "200 W Front Street, Boise, ID 83702",
+      "website": "https://adacounty.id.gov/treasurer/property-auction-tax-delinquencies/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com/sms/adaco,id/list/current?orgid=291890"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county's page lists the next tax deed auction date as TBD. Current auction listings are on Public Surplus.",
+      "how_to_bid": "The county page doesn't give bidding steps. It links to its current auction list on Public Surplus, an online auction site. The minimum bid covers all delinquent taxes, late charges, interest and costs.",
+      "sources": [
+        {
+          "url": "https://adacounty.id.gov/treasurer/property-auction-tax-delinquencies/",
+          "read_on": "2026-10-27",
+          "terms": "The footer links only a Privacy Statement, which covers visitor data and says nothing about reusing site content; the footer says \"© 2026 Ada County. All Rights Reserved.\" Nothing forbids reusing sale dates or facts.",
+          "terms_url": "https://adacounty.id.gov/about-ada-county/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://adacounty.id.gov/treasurer/property-auction-tax-delinquencies/",
+          "quote": "Held within 14 months from the issuance of the tax deed."
+        },
+        {
+          "url": "https://adacounty.id.gov/treasurer/property-auction-tax-delinquencies/",
+          "quote": "Includes the total of all delinquency taxes, late charges, interest and costs."
+        }
+      ]
+    },
+    {
+      "county": "Kootenai",
+      "slug": "kootenai",
+      "office": "Kootenai County Treasurer",
+      "phone": "208-446-1005",
+      "address": "451 Government Way, Coeur d'Alene, ID 83814",
+      "website": "https://kcgov.us/528/Property-Tax-Sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealForeclose)",
+        "url": "https://kootenai.id.realforeclose.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 auction was held online on September 8, 2026, and no later date is posted. The county says unsold parcels may be taken by sealed written bid, and a secondary auction may be held when the commissioners decide.",
+      "how_to_bid": "Bid online on the county's RealForeclose auction site. The county says sales are advertised in the Coeur d'Alene Press at least two weeks before an auction, parcels are sold as is, and owners can redeem a parcel until its sale starts. The page doesn't state deposit or payment terms.",
+      "sources": [
+        {
+          "url": "https://kcgov.us/528/Property-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: \"All content © 2006-2026 Kootenai County, ID and its representatives. All rights reserved.\" The Disclaimer page says only to contact the county about its website disclaimer. Nothing forbids republishing sale dates.",
+          "terms_url": "https://kcgov.us/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://kcgov.us/528/Property-Tax-Sale",
+          "quote": "Tuesday September 8, 2026, at 10:00AM (PT)."
+        },
+        {
+          "url": "https://kcgov.us/528/Property-Tax-Sale",
+          "quote": "The sales will be advertised in the Coeur d'Alene Press Newspaper no later than two weeks prior to any auction."
+        },
+        {
+          "url": "https://kcgov.us/528/Property-Tax-Sale",
+          "quote": "The parcels being offered at the sale can be redeemed at any time prior to the start of the sale for that parcel."
+        },
+        {
+          "url": "https://kcgov.us/528/Property-Tax-Sale",
+          "quote": "Should any parcel not sell at Auction, the Board of County Commissioners will accept sealed written bids"
+        }
+      ]
+    },
+    {
+      "county": "Bonner",
+      "slug": "bonner",
+      "office": "Bonner County Treasurer",
+      "phone": "208-255-3630",
+      "address": "1500 Highway 2, Ste 304, Sandpoint, ID 83864",
+      "website": "https://www.bonnercountyid.gov/TaxDeedandSaleInformation",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": null
+      },
+      "schedule_rule": "The Bonner County auction is usually held in July of each year.",
+      "sales": [],
+      "next_sale_note": "No upcoming auction is posted. The county's auction information link for 2026 points to a file titled \"NO TAX SALE\", and the auction is usually held in July.",
+      "how_to_bid": "Bid online on Public Surplus. The commissioners set the minimum bid, which includes taxes, penalties, interest and tax deed costs. The winning bidder pays in full by wire transfer to Public Surplus by the time set on the auction site, and the Treasurer then issues a Deed of County Property.",
+      "sources": [
+        {
+          "url": "https://www.bonnercountyid.gov/TaxDeedandSaleInformation",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use, disclaimer or privacy page; the site says only \"Copyright Bonner County Idaho\". Nothing forbids reusing sale dates or facts.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.bonnercountyid.gov/FAQTaxDeeding",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use, disclaimer or privacy page; the site says only \"Copyright Bonner County Idaho\". Nothing forbids reusing sale dates or facts.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bonnercountyid.gov/FAQTaxDeeding",
+          "quote": "The Bonner County auction is usually held in July of each year."
+        },
+        {
+          "url": "https://www.bonnercountyid.gov/FAQTaxDeeding",
+          "quote": "Bonner County currently utilizes Public Surplus which is an online auction site."
+        },
+        {
+          "url": "https://www.bonnercountyid.gov/FAQTaxDeeding",
+          "quote": "The buyer must make payment in full via wire transfer to Public Surplus by the set time listed on the auction site."
+        }
+      ]
     }
   ]
 }

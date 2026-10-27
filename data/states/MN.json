@@ -293,6 +293,130 @@
           "quote": "The down payment is 10% of the purchase price or $500, whichever is greater, plus fees."
         }
       ]
+    },
+    {
+      "county": "Olmsted",
+      "slug": "olmsted",
+      "office": "Olmsted County Property Records and Licensing, Revenue",
+      "phone": "507-328-7633",
+      "address": "not stated",
+      "website": "https://www.olmstedcounty.gov/business/business-licensing-permits/sales/tax-forfeited-property",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com/sms/browse/home"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date is posted on the county's tax-forfeited property page. The county offers forfeited property for 30 days at estimated market value, then for at least two weeks at minimum bid if unsold.",
+      "how_to_bid": "Preview and bid on Public Surplus (region Minnesota, agency 'Olmsted County PRL Revenue Department'). Bidding starts at the minimum bid and the highest responsible bidder wins. The winning bidder must pay Olmsted County PRL in full within three business days of the Notice of Award, by cash, cashier's check, certified check or personal check. Bidders must first pay any delinquent taxes they owe on property in Olmsted County. Registration and deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.olmstedcounty.gov/business/business-licensing-permits/sales/tax-forfeited-property",
+          "read_on": "2026-10-27",
+          "terms": "Privacy Policy and Disclaimer disclaims accuracy ('Portions of any information provided may be incorrect or not current.') and says reliance is at the user's own risk; footer 'Copyright © 2026 Olmsted County, Minnesota'. Nothing forbids reuse or republishing. Copyright-only.",
+          "terms_url": "https://www.olmstedcounty.gov/post/privacy-policy-and-disclaimer"
+        },
+        {
+          "url": "https://www.olmstedcounty.gov/sites/default/files/2024-10/Terms%20and%20Conditions%20of%20Sale.pdf",
+          "read_on": "2026-10-27",
+          "terms": "County's Terms and Conditions of Sale (auctions) PDF, linked from its tax-forfeited property page; no reuse restriction stated.",
+          "terms_url": "https://www.olmstedcounty.gov/post/privacy-policy-and-disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.olmstedcounty.gov/business/business-licensing-permits/sales/tax-forfeited-property",
+          "quote": "The county will offer the property for sale for 30 days at the current estimated market value (EMV)"
+        },
+        {
+          "url": "https://www.olmstedcounty.gov/sites/default/files/2024-10/Terms%20and%20Conditions%20of%20Sale.pdf",
+          "quote": "The successful bidder is required to remit payment to Olmsted County PRL within three (3) business days"
+        },
+        {
+          "url": "https://www.olmstedcounty.gov/sites/default/files/2024-10/Terms%20and%20Conditions%20of%20Sale.pdf",
+          "quote": "Payment must be made by cash, Cashier's Check, Certified Check, or Personal Check"
+        }
+      ]
+    },
+    {
+      "county": "Sherburne",
+      "slug": "sherburne",
+      "office": "Sherburne County Auditor / Treasurer",
+      "phone": "763-765-4350",
+      "address": "13880 Business Center Drive NW, Suite 100, Elk River, MN 55330-4668",
+      "website": "https://www.co.sherburne.mn.us/232/Tax-Forfeited-Parcels",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com/sms/browse/home"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 sale is over: the initial online auction ran February 11 to March 12, 2026, and the sale of unsold properties closed March 31, 2026. The county says sales are not held on a regular basis; no next sale date is posted.",
+      "how_to_bid": "The 2026 sale notice says the County Auditor conducts the sale by online auction through Public Surplus, selling to the highest bidder under Minnesota Statutes chapter 282. Properties are sold as-is and all sales are final. Deposit, payment terms and registration not stated; full terms are in the county's Terms and Conditions document or from the Property Tax office. The county offers a Forfeited Land Sale Notification Form for the next sale.",
+      "sources": [
+        {
+          "url": "https://www.co.sherburne.mn.us/232/Tax-Forfeited-Parcels",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Sherburne County, MN and its representatives. All rights reserved.' No reuse, reproduction or redistribution terms stated. All-rights-reserved copyright notice only.",
+          "terms_url": "https://www.co.sherburne.mn.us/copyright"
+        },
+        {
+          "url": "https://www.co.sherburne.mn.us/DocumentCenter/View/10956/Tax-Forfeited-Land-Public-Sale-2026",
+          "read_on": "2026-10-27",
+          "terms": "County's 2026 Tax Forfeited Land Public Sale notice, linked from its tax-forfeited parcels page; no reuse restriction stated.",
+          "terms_url": "https://www.co.sherburne.mn.us/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.sherburne.mn.us/232/Tax-Forfeited-Parcels",
+          "quote": "Sales are not held on a regular basis."
+        },
+        {
+          "url": "https://www.co.sherburne.mn.us/DocumentCenter/View/10956/Tax-Forfeited-Land-Public-Sale-2026",
+          "quote": "The County Auditor shall conduct the initial sale via online auction through Public Surplus"
+        },
+        {
+          "url": "https://www.co.sherburne.mn.us/DocumentCenter/View/10956/Tax-Forfeited-Land-Public-Sale-2026",
+          "quote": "starting on February 11, 2026, and closing on March 12, 2026, at 10:00am."
+        }
+      ]
+    },
+    {
+      "county": "Scott",
+      "slug": "scott",
+      "office": "Scott County tax forfeiture (Scott County Government Center)",
+      "phone": "952-496-8115",
+      "address": "200 Fourth Avenue West, Shakopee, MN 55379",
+      "website": "https://www.scottcountymn.gov/2326/Tax-Forfeited-Properties",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax-forfeiture auction is scheduled; the county says 'You will be contacted when a sale has been set.' No properties are listed for over-the-counter purchase.",
+      "how_to_bid": "Not stated. The county's page offers email alerts for upcoming tax forfeiture auctions through a Scott County account. Properties are sold as-is and all sales are final.",
+      "sources": [
+        {
+          "url": "https://www.scottcountymn.gov/2326/Tax-Forfeited-Properties",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found: the page footer as read lists only the homepage, county name, phone directory and the CivicPlus credit, with no terms, disclaimer, copyright or privacy link."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.scottcountymn.gov/2326/Tax-Forfeited-Properties",
+          "quote": "You will be contacted when a sale has been set."
+        },
+        {
+          "url": "https://www.scottcountymn.gov/2326/Tax-Forfeited-Properties",
+          "quote": "All sales are final, and no refunds or exchanges are permitted."
+        }
+      ]
     }
   ]
 }

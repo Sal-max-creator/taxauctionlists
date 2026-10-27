@@ -8,6 +8,18 @@
   {%- if not site.public %}
   <meta name="robots" content="noindex, nofollow">
   {%- endif %}
+  {#- Canonical always points at the real domain, so the workers.dev copy never competes with it in search. #}
+  {%- set canonical = page.url | absUrl(site.url) %}
+  <link rel="canonical" href="{{ canonical }}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ title or site.name + ': ' + site.tagline }}">
+  <meta property="og:description" content="{{ description or 'Free calendar of county tax lien and tax deed sales, with deadlines, deposits and links to each county source.' }}">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta name="twitter:card" content="summary">
+  {%- if page.url == "/" %}
+  <script type="application/ld+json">{{ { "@context": "https://schema.org", "@type": "WebSite", "name": site.name, "url": site.url + "/", "description": "Free calendar of county tax lien and tax deed sales." } | jsonld | safe }}</script>
+  {%- endif %}
   <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
@@ -22,7 +34,7 @@
         <a href="/states/">States</a>
         <a href="/guides/">Guides</a>
         <a href="/alerts/">Alerts</a>
-        <a href="/#signup" class="nav-cta">Get the digest</a>
+        <a href="/#signup" class="nav-cta">Free weekly preview</a>
       </nav>
     </div>
   </header>
@@ -32,7 +44,7 @@
   <footer class="site-footer">
     <div class="wrap">
       <p class="disclaimer"><strong>{{ site.disclaimer }}</strong></p>
-      <p>Every date links to the county page it came from, with the day we last checked it. Some sources only allow linking, so we link instead of copying. <a href="/sources/">Sources and terms</a> · <a href="/alerts/">Weekly alerts</a> · <a href="/disclaimer/">Disclaimer</a> · <a href="/about/">About</a></p>
+      <p>Every date links to the county page it came from, with the day we last checked it. Some sources only allow linking, so we link instead of copying. <a href="/sources/">Sources and terms</a> · <a href="/alerts/">Weekly alerts</a> · <a href="/sample-issue/">Sample issue</a> · <a href="/tax-lien-sales/">Tax lien sales</a> · <a href="/tax-deed-sales/">Tax deed sales</a> · <a href="/disclaimer/">Disclaimer</a> · <a href="/about/">About</a></p>
       <p class="muted">© {{ build.date | truncate(4, true, "") }} {{ site.name }}</p>
     </div>
   </footer>

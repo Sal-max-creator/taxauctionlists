@@ -1,0 +1,5 @@
+{#- expects `crumbs`: list of { name, url }; the last one is the current page and isn't linked. -#}
+<p class="breadcrumbs">{% for c in crumbs %}{% if not loop.last %}<a href="{{ c.url }}">{{ c.name }}</a> › {% else %}{{ c.name }}{% endif %}{% endfor %}</p>
+{%- set crumbItems = [] %}
+{%- for c in crumbs %}{% set _ = crumbItems.push({ "@type": "ListItem", "position": loop.index, "name": c.name, "item": c.url | absUrl(site.url) }) %}{% endfor %}
+<script type="application/ld+json">{{ { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": crumbItems } | jsonld | safe }}</script>

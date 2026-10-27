@@ -1,0 +1,13 @@
+{#- expects `faqs`: list of { q, a } with plain-text answers. Renders the questions and matching FAQPage data. -#}
+{%- if faqs.length %}
+<section class="faq">
+  <h2>{{ faqTitle or "Questions" }}</h2>
+  {%- set faqItems = [] %}
+  {%- for f in faqs %}
+  <h3>{{ f.q }}</h3>
+  <p>{{ f.a }}</p>
+  {%- set _ = faqItems.push({ "@type": "Question", "name": f.q, "acceptedAnswer": { "@type": "Answer", "text": f.a } }) %}
+  {%- endfor %}
+  <script type="application/ld+json">{{ { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": faqItems } | jsonld | safe }}</script>
+</section>
+{%- endif %}

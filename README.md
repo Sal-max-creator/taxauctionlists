@@ -11,6 +11,7 @@ npm run build        # static site in _site/
 npm run validate     # checks data/states/*.json
 npm run terms-log    # regenerates SOURCES.md
 npm run alert-draft  # prints this week's paid Alerts email draft (Markdown)
+npm run alert-draft -- --teaser   # prints the free weekly preview instead
 ```
 
 Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloudflare deploys it as a Worker with static assets: `wrangler.jsonc` runs `npm run build` and serves `_site`, and `worker/index.js` runs only for `/api/*` (the signup form), so Workers Builds needs no extra settings (deploy command `npx wrangler deploy`, non-production branches `npx wrangler versions upload`). Node 22 is pinned in `.nvmrc`. `src/headers.njk` writes Cloudflare's `_headers` file, which adds `X-Robots-Tag: noindex` while the site is private.
@@ -22,7 +23,10 @@ Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloud
 | `data/states/XX.json` | One file per state: overview, counties, sales, sources and their terms |
 | `src/` | Templates, guides (`src/guides/*.md`), CSS and JS |
 | `src/_data/site.json` | Site name, `public` switch, signup endpoint (`/api/subscribe`; empty sends nothing), paid Alerts settings (`paid`) |
-| `src/alerts.njk` | The paid Alerts page (`/alerts/`) |
+| `src/alerts.njk` | The paid Alerts page (`/alerts/`): plans, pricing and FAQ |
+| `src/sample-issue.njk` | `/sample-issue/`: the newest file in `drafts/alerts/`, shown in full |
+| `src/tax-sales/month.njk`, `src/sale-kind.njk` | Landing pages per month (`/tax-sales/2026-11/`) and per kind of sale (`/tax-lien-sales/`, `/tax-deed-sales/`) |
+| `src/sitemap.njk` | `/sitemap.xml`, listed in `robots.txt` once the site is public |
 | `scripts/alert-draft.mjs` | Writes the weekly Alerts email draft as Markdown (sends nothing) |
 | `worker/index.js` | Signup handler: checks the form and adds the address to Buttondown |
 | `src/_data/linkOnly.json` | Sources we link to but never copy from |
@@ -95,6 +99,22 @@ Buttondown needs its paid subscriptions add-on for this and has no Stripe test m
 3. Paste it into a new Buttondown email and, under Send > Audience, pick **Premium** so only paying subscribers get it.
 
 The script only prints text. It never calls Buttondown.
+
+### Sending the free weekly preview
+
+`npm run alert-draft -- --teaser` prints a short email: the next three registration deadlines, sales in the next 7 days, and one paragraph on what Alerts subscribers got that week, with the checkout link. Send it to the free list in Buttondown. It's the main path from free to paid, so send it every week, the same day as Alerts.
+
+To show a yearly price, set it in Buttondown (Settings > Paid subscriptions > yearly upsell price), then add `"yearlyPrice": 190` (or whatever was set) to `paid` in `src/_data/site.json`. The pricing page and callouts show it only when that key exists.
+
+## Going live (needs Sal's yes)
+
+Everything the public site needs is built and tested with `public` on: canonical links to taxauctionlists.com on every page (so the workers.dev copy doesn't compete in search), `sitemap.xml`, breadcrumb and FAQ structured data, and a `robots.txt` that allows crawling and lists the sitemap. Going live is one small change:
+
+1. In `src/_data/site.json`, set `"public": true`. This removes the private banner, the `noindex` meta tag and the `X-Robots-Tag` header, and lets crawlers in.
+2. In `wrangler.jsonc`, uncomment the `routes` line marked GO-LIVE. On the next deploy Cloudflare attaches `taxauctionlists.com` to this Worker and creates its DNS record, since the domain is already in the same Cloudflare account.
+3. After the deploy: open https://taxauctionlists.com, then submit `https://taxauctionlists.com/sitemap.xml` in Google Search Console and Bing Webmaster Tools (free; needs a sign-in by Sal).
+
+`www.taxauctionlists.com` isn't attached by this. Add it later as a Cloudflare redirect rule to the bare domain if wanted.
 
 ## Not connected yet
 

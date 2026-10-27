@@ -32,6 +32,8 @@ export function loadStates() {
             stateName: data.name,
             stateSlug: slug,
             url: `/states/${slug}/${c.slug}/`,
+            // "Harris County"; municipalities are stored with their county in brackets and kept as they are.
+            fullName: c.county.includes("(") ? c.county : `${c.county} County`,
             lastChecked: checks.at(-1) || null,
             upcoming: sales,
           };
@@ -49,6 +51,7 @@ export function flattenSales(states) {
         c.upcoming.map((sale) => ({
           ...sale,
           county: c.county,
+          countyFullName: c.fullName,
           countySlug: c.slug,
           countyUrl: c.url,
           stateCode: st.state,

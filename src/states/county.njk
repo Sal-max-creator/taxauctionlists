@@ -3,14 +3,16 @@ layout: base.njk
 pagination:
   data: counties
   size: 1
+  addAllPagesToCollections: true
   alias: c
 permalink: "{{ c.url }}"
 eleventyComputed:
-  title: "{{ c.county }}, {{ c.state.name }} tax sale"
-  description: "{{ c.county }}, {{ c.state.name }} tax {{ c.sale_type }} sale: next dates, deposit, registration and how to bid, from the county's own pages."
+  title: "{{ c.fullName }}, {{ c.state.state }} tax sale{% if c.upcoming.length and not c.link_only %}: {{ c.upcoming[0].date | shortDate }}{% else %} dates{% endif %}"
+  description: "{{ c.fullName }}, {{ c.state.name }} tax {{ c.sale_type }} sale{% if c.upcoming.length and not c.link_only %} on {{ c.upcoming[0].date | longDate }}{% endif %}: deposit, registration deadline and how to bid, from the county's own pages."
 ---
-<p class="breadcrumbs"><a href="/states/">States</a> › <a href="{{ c.state.url }}">{{ c.state.name }}</a> › {{ c.county }}</p>
-<h1>{{ c.county }}, {{ c.state.name }} tax sale</h1>
+{%- set crumbs = [{ name: "States", url: "/states/" }, { name: c.state.name, url: c.state.url }, { name: c.county, url: c.url }] %}
+{% include "breadcrumbs.njk" %}
+<h1>{{ c.fullName }}, {{ c.state.name }} tax sale</h1>
 <p class="muted">Last checked {{ c.lastChecked | longDate }}</p>
 {% include "notice.njk" %}
 
@@ -59,5 +61,12 @@ eleventyComputed:
 {% endfor %}
 </ul>
 
-<p><a href="{{ c.state.url }}">← All {{ c.state.name }} counties</a></p>
+<h2>More {{ c.state.name }} tax sales</h2>
+<ul class="inline-list">
+{% for o in c.state.counties %}{% if o.slug != c.slug %}
+  <li><a href="{{ o.url }}">{{ o.county }}</a>{% if o.upcoming.length and not o.link_only %} <span class="muted">{{ o.upcoming[0].date | shortDate }}</span>{% endif %}</li>
+{% endif %}{% endfor %}
+</ul>
+<p><a href="{{ c.state.url }}">← All {{ c.state.name }} tax sales</a></p>
+{% include "paid-teaser.njk" %}
 {% include "signup.njk" %}

@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+title: "Tax sale calendar: upcoming county tax lien and tax deed auctions"
 description: Free calendar of upcoming county tax lien and tax deed sales, with deposits, registration deadlines and a link to every county source.
 ---
 <section class="hero">
@@ -18,10 +19,10 @@ description: Free calendar of upcoming county tax lien and tax deed sales, with 
 {% include "sales-table.njk" %}
 <p><a href="/calendar/">See the full calendar →</a></p>
 
-<aside class="callout">
-  <p><strong>Want this in your inbox every week?</strong> Alerts send every sale in the next 30 days, what changed since last week, and county parcel lists where reuse is allowed. ${{ site.paid.price }} a {{ site.paid.interval }}.</p>
-  <p><a href="/alerts/">See what Alerts include →</a></p>
-</aside>
+<h2>Browse by month or by kind of sale</h2>
+<p>{% for m in months %}<a href="{{ m.url }}">{{ m.ym | monthName }}</a> · {% endfor %}{% for k in saleKinds %}<a href="{{ k.url }}">{{ k.title }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+
+{% include "paid-teaser.njk" %}
 
 <h2>Browse by state</h2>
 <div class="grid">

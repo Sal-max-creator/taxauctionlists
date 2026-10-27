@@ -3,18 +3,26 @@
 //
 //   npm run alert-draft                      # next 30 days, changes since the commit from 7 days ago
 //   npm run alert-draft -- --days 45 --since <git ref>
+//   npm run alert-draft -- --site none       # don't link county names to our site (before the domain is live)
+//   npm run alert-draft -- --teaser          # the short free weekly preview instead of the paid email
 //
 // "What changed" compares data/states/ now with the same files at the --since commit.
 import { execFileSync } from "node:child_process";
+import fs from "node:fs";
 import { loadStates, flattenSales, today } from "./lib/data.mjs";
 
+// "--days 45" -> { days: "45" }; a flag with no value ("--teaser") -> { teaser: true }.
 const args = Object.fromEntries(
-  process.argv.slice(2).reduce((pairs, a, i, all) => (a.startsWith("--") ? [...pairs, [a.slice(2), all[i + 1]]] : pairs), []),
+  process.argv
+    .slice(2)
+    .reduce((pairs, a, i, all) => (a.startsWith("--") ? [...pairs, [a.slice(2), all[i + 1] && !all[i + 1].startsWith("--") ? all[i + 1] : true]] : pairs), []),
 );
 const days = Number(args.days || 30);
 const now = today();
 const until = new Date(Date.parse(`${now}T00:00:00Z`) + days * 864e5).toISOString().slice(0, 10);
-const siteUrl = "https://taxauctionlists.com";
+const siteUrl = args.site === "none" ? null : args.site || "https://taxauctionlists.com";
+// County name, linked to its page on our site unless --site none.
+const countyLink = (name, path) => (siteUrl ? `[${name}](${siteUrl}${path})` : `**${name}**`);
 
 const git = (...a) => execFileSync("git", a, { encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }).trim();
 function sinceRef() {
@@ -85,12 +93,64 @@ if (ref) {
 }
 
 // --- Draft ---
+// Deadlines use every future sale, so a sale just past the window still shows if you must register inside it.
+const deadlines = flattenSales(states)
+  .filter((s) => s.register_by && s.register_by >= now && s.register_by <= until)
+  .sort((a, b) => a.register_by.localeCompare(b.register_by));
+const datedCounties = new Set(upcoming.map((s) => `${s.stateCode}/${s.countySlug}`));
+const recurring = states.flatMap((st) =>
+  st.counties.filter((c) => c.recurs && !c.link_only && !datedCounties.has(`${st.state}/${c.slug}`)).map((c) => ({ ...c, stateName: st.name })),
+);
+const lists = upcoming.filter((s) => s.list_url);
+
+if (args.teaser) {
+  process.stdout.write(teaser());
+  process.exit(0);
+}
+
+// The free weekly preview: the nearest deadlines and this week's sales, then what Alerts adds.
+function teaser() {
+  const site = JSON.parse(fs.readFileSync(new URL("../src/_data/site.json", import.meta.url), "utf8"));
+  const weekEnd = new Date(Date.parse(`${now}T00:00:00Z`) + 7 * 864e5).toISOString().slice(0, 10);
+  const thisWeek = upcoming.filter((s) => s.date <= weekEnd);
+  const nextDeadlines = deadlines.slice(0, 3);
+  const stateCount = new Set(upcoming.map((s) => s.stateCode)).size;
+  const out = [];
+  out.push(`# Tax sales this week: ${fmt(now)}`, "");
+  out.push(`${upcoming.length} dated county tax sales in the next ${days} days across ${stateCount} states, with ${deadlines.length} registration deadlines. Here are the nearest.`, "");
+  out.push("## Next registration deadlines", "");
+  if (!nextDeadlines.length) out.push(`None in the next ${days} days.`);
+  for (const s of nextDeadlines) out.push(`- **${fmt(s.register_by)}**: ${countyLink(`${s.county}, ${s.stateCode}`, s.countyUrl)}, ${s.label || "sale"} on ${fmt(s.date)}`);
+  out.push("", "## Sales in the next 7 days", "");
+  if (!thisWeek.length) out.push("None posted.");
+  for (const s of thisWeek) out.push(`- **${fmt(s.date)}${s.end_date ? ` to ${fmt(s.end_date)}` : ""}**: ${countyLink(`${s.county}, ${s.stateCode}`, s.countyUrl)}, ${s.label || "sale"} (${s.format})`);
+  out.push("", "## Want the rest?", "");
+  const extra = [
+    `all ${deadlines.length} deadlines`,
+    `all ${upcoming.length} sales with deposits and sources`,
+    ref ? `${changes.length} changes since last week` : null,
+    lists.length ? `${lists.length} county parcel lists` : null,
+  ].filter(Boolean);
+  const list = extra.length > 1 ? `${extra.slice(0, -1).join(", ")} and ${extra.at(-1)}` : extra[0];
+  out.push(`Alerts subscribers got ${list} this week. $${site.paid.price} a ${site.paid.interval}, cancel anytime.`, "");
+  out.push(`[Start Alerts](${site.paid.checkoutUrl})${siteUrl ? ` · [Read a sample issue](${siteUrl}/sample-issue/)` : ""}`, "");
+  out.push("---", "", "Information only, not investment or legal advice. Always confirm with the county before you register or bid.");
+  return out.join("\n") + "\n";
+}
+
 const lines = [];
 lines.push(`# Tax sales for the week of ${fmt(now)}`, "");
 lines.push(`Every dated sale from ${fmt(now)} to ${fmt(until)}, and what changed since last week. Each line links to the county page it came from.`, "");
 
+lines.push(`## Registration deadlines in the next ${days} days`, "");
+if (!deadlines.length) lines.push(`No registration deadlines in the next ${days} days.`, "");
+for (const s of deadlines) {
+  lines.push(`- **${fmt(s.register_by)}**: ${countyLink(`${s.county}, ${s.stateCode}`, s.countyUrl)}, ${s.label || "sale"} on ${fmt(s.date)}${s.end_date ? ` to ${fmt(s.end_date)}` : ""}. ${s.registration_deadline || ""}`.trimEnd());
+}
+if (deadlines.length) lines.push("");
+
 lines.push("## What changed", "");
-if (!ref) lines.push("_No earlier commit to compare with. Fill this in by hand._", "");
+if (!ref) lines.push("Nothing to compare with yet. This is the first week we have on record.", "");
 else if (!changes.length) lines.push("No sales were added, moved or cancelled since last week.", "");
 else lines.push(...changes, "");
 
@@ -103,18 +163,27 @@ for (const st of states) {
   for (const s of rows) {
     const bits = [
       `**${fmt(s.date)}${s.end_date ? ` to ${fmt(s.end_date)}` : ""}**${s.time ? `, ${s.time}` : ""}`,
-      `[${s.county}](${siteUrl}${s.countyUrl})`,
+      countyLink(s.county, s.countyUrl),
       `${s.label || "Sale"} (${s.saleType}, ${s.format})`,
     ];
     lines.push(`- ${bits.join(" · ")}`);
     if (s.deposit) lines.push(`  - Deposit: ${s.deposit}`);
     if (s.registration_deadline) lines.push(`  - Register: ${s.registration_deadline}`);
+    if (s.note) lines.push(`  - Note: ${s.note}`);
     lines.push(`  - Source: [county page](${s.source_url}), checked ${s.lastChecked || "date unknown"}`);
   }
   lines.push("");
 }
 
+lines.push("## Recurring sales with no dates posted", "");
+lines.push("These counties sell on a fixed schedule but don't post each date on their own pages. The schedule is quoted as the county states it; check the county page for the property list before each sale.", "");
+if (!recurring.length) lines.push("None.", "");
+for (const c of recurring) lines.push(`- ${countyLink(`${c.county}, ${c.stateCode}`, c.url)} (${c.recurs}): "${c.schedule_rule}" [County page](${c.website || c.sources[0].url})`);
+if (recurring.length) lines.push("");
+
 lines.push("## Parcel lists", "");
+for (const s of lists) lines.push(`- [${s.county}, ${s.stateCode}](${s.list_url}): ${s.label || "sale"} on ${fmt(s.date)}${s.list_note ? `. ${s.list_note}` : ""}`);
+if (lists.length) lines.push("");
 lines.push("_Add by hand: attach a spreadsheet only for counties whose terms allow reuse; for the rest, link to the county's own list. Never copy from link-only sources._", "");
 lines.push("---", "");
 lines.push("Information only, not investment or legal advice. Sale dates, terms and deadlines change; always confirm with the county before you register or bid.");

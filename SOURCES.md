@@ -39,14 +39,18 @@ State overview: <https://www.douglasco.gov/documents/tax-sale-faq.pdf/>, <https:
 
 | County | Source page | Read on | Reuse terms |
 |---|---|---|---|
+| Adams | <https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/> | 2026-10-27 | No Disclaimer/Terms page linked. Privacy Policy has only '© 2026 Adams County Government. All Rights Reserved.' and no explicit reuse or scraping terms. ([terms](https://adamscountyco.gov/privacy-policy/)) |
+| Boulder | <https://bouldercounty.gov/property-and-land/treasurer/taxes/tax-lien-sale/> | 2026-10-27 | Footer: 'Copyright © 2026. Boulder County, CO. All Rights Reserved.' No explicit reuse, redistribution or scraping clause found. ([terms](https://bouldercounty.gov/privacy-policy/)) |
+| Boulder | <https://bouldercounty.gov/property-and-land/treasurer/taxes/tax-lien-sale/frequently-asked-questions/> | 2026-10-27 | Footer: 'Copyright © 2026. Boulder County, CO. All Rights Reserved.' No explicit reuse, redistribution or scraping clause found. ([terms](https://bouldercounty.gov/privacy-policy/)) |
+| Douglas | <https://www.douglasco.gov/treasurer/tax-lien-sale-information/> | 2026-10-27 | No Disclaimer/Terms link. Privacy Policy footer: 'Copyright © 2026 Douglas County Government'. No explicit reuse, redistribution or scraping terms. ([terms](https://www.douglasco.gov/privacy-policy/)) |
+| Douglas | <https://www.douglasco.gov/documents/tax-sale-faq.pdf/> | 2026-10-27 | not found |
+| Douglas | <https://www.douglasco.gov/documents/tax-sale-auction-information.pdf/> | 2026-10-27 | not found (county PDF; site footer copyright Douglas County Government, no reuse clause) ([terms](https://www.douglasco.gov/privacy-policy/)) |
 | El Paso | <https://treasurer.elpasoco.com/tax-lien-sale/> | 2026-10-27 | County General Disclaimer: 'Copyright © 2005 by El Paso County, Colorado, All Rights Reserved.' Site content 'is the property of El Paso County, Colorado or its content suppliers' and protected by copyright. No explicit term on scraping or commercial reuse; facts may be restated, but don't copy page text or graphics wholesale. ([terms](https://www.elpasoco.com/general-disclaimer/)) |
 | El Paso | <https://treasurer.elpasoco.com/tax-lien-information/> | 2026-10-27 | Same county General Disclaimer applies. ([terms](https://www.elpasoco.com/general-disclaimer/)) |
 | Jefferson | <https://www.jeffco.us/2438/Internet-Sale-Information> | 2026-10-27 | Privacy & Site Disclaimer: 'All content © 2006-2023 Jefferson County, CO and its representatives. All rights reserved.' 'The compilation of all content on this site is the exclusive property of Jefferson County, Colorado'. No explicit rule on scraping or commercial reuse, but the compilation is claimed as exclusive property, so restate facts in your own words rather than copying text. ([terms](https://www.jeffco.us/2845/Privacy-and-Site-Disclaimer)) |
 | Jefferson | <https://www.jeffco.us/3154/Tax-Lien-Sale> | 2026-10-27 | Same as above. ([terms](https://www.jeffco.us/2845/Privacy-and-Site-Disclaimer)) |
-| Adams | <https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/> | 2026-10-27 | No Disclaimer/Terms page linked. Privacy Policy has only '© 2026 Adams County Government. All Rights Reserved.' and no explicit reuse or scraping terms. ([terms](https://adamscountyco.gov/privacy-policy/)) |
-| Douglas | <https://www.douglasco.gov/treasurer/tax-lien-sale-information/> | 2026-10-27 | No Disclaimer/Terms link. Privacy Policy footer: 'Copyright © 2026 Douglas County Government'. No explicit reuse, redistribution or scraping terms. ([terms](https://www.douglasco.gov/privacy-policy/)) |
-| Douglas | <https://www.douglasco.gov/documents/tax-sale-faq.pdf/> | 2026-10-27 | not found |
 | Larimer | <https://www.larimer.gov/treasurer/thirdparty/liens/sale> | 2026-10-27 | RESTRICTIVE: Larimer County Legal Disclaimers allow reproduction only for fair use and state 'Re-use, reproduction, or distribution for commercial purposes is prohibited.' Reproductions must carry Larimer County's copyright notice, and the logo may not be used without written permission. Plain facts (date, place) restated in your own words are likely fine, but don't copy page text; have counsel confirm before commercial use. ([terms](https://www.larimer.gov/bocc/legal)) |
+| Weld | <https://www.weld.gov/Government/Departments/Treasurer-Public-Trustee/Treasurer/Tax-Sale-Information> | 2026-10-27 | RESTRICTIVE: Weld County's disclaimer says 'Using or modifying this site's information for personal or commercial purposes is prohibited' and 'Weld County retains all rights to the information provided by this site.' ([terms](https://www.weld.gov/Government/Departments/Finance-and-Administration/Privacy-Statement-and-Disclaimer)) |
 
 ## Florida
 
@@ -60,6 +64,7 @@ State overview: <https://www.flsenate.gov/Laws/Statutes/2025/197.172>, <https://
 | Broward | <https://browardtax.org/?p=1087> | 2026-10-27 | not found |
 | Broward | <https://browardtax.org/our-office/> | 2026-10-27 | not found |
 | Broward | <https://www.broward.org/RecordsTaxesTreasury/TaxesFees/Pages/LandsAvailableforTaxes.aspx> | 2026-10-27 | not found |
+| Broward | <https://browardtax.org/?p=1129> | 2026-10-27 | not found |
 | Palm Beach | <https://www.mypalmbeachclerk.com/departments/courts/tax-deeds> | 2026-10-27 | not found |
 | Palm Beach | <https://mypalmbeachclerk.com/departments/courts/tax-deeds/sale-information> | 2026-10-27 | not found |
 | Palm Beach | <https://www.mypalmbeachclerk.com/about-us/frequently-asked-questions-faq/tax-deed-sales-faq> | 2026-10-27 | not found |
@@ -79,6 +84,7 @@ State overview: <https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-21
 | Cook | <https://www.cookcountytreasurer.com/scavengersale.aspx> | 2026-10-27 | Same site as above. Page content is stale (2019 scavenger sale details). ([terms](https://cookcountytreasurer.com/disclaimer.aspx)) |
 | DuPage | <https://www.dupagecounty.gov/elected_officials/treasurer/tax_sale_information.php> | 2026-10-27 | No Disclaimer or Terms of Use page found; footer links only a Privacy Policy, which has no clause on copying or reuse of site content (it offers 'Share this page' embed code and disclaims accuracy of external sites only). ([terms](https://www.dupagecounty.gov/privacy_policy/index.php)) |
 | Lake | <https://www.lakecountyil.gov/552/Tax-Sale-Information> | 2026-10-27 | Website Disclaimer: Illinois law governs all uses of the data; users must not violate third-party rights; third-party content may not be used for advertising or product endorsement; no accuracy warranty. No explicit ban on copying or scraping found. The page itself says the delinquent tax list must be used only for the tax sale. A Copyright Notices page is linked but could not be fetched. ([terms](https://www.lakecountyil.gov/2906)) |
+| Lake | <https://www.lakecountyil.gov/550/Tax-Sale-Proceedings> | 2026-10-27 | Website Disclaimer linked in footer; not read in full. ([terms](https://www.lakecountyil.gov/2906)) |
 | Kane | <https://treasurer.kanecountyil.gov/Pages/Tax-Sale-Information.aspx> | 2026-10-27 | not found (no Disclaimer, Terms or Privacy link on the Treasurer site page) |
 
 ## Indiana
@@ -178,6 +184,7 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 |---|---|---|---|
 | Harris | <https://www.hctax.net/Property/TaxSales> | 2026-10-27 | No reuse restriction found. On-page 'Disclaimers and Cautions' says info is published for general information purposes only, with no warranty on accuracy/completeness of the listing. |
 | Harris | <https://www.hctax.net/About/Announcements/Tax Sale FAQs.pdf> | 2026-10-27 | not found |
+| Harris | <https://www.hctax.net/Property/listings/taxsalelisting> | 2026-10-27 | Listing disclaimer: the list may not show all properties, sales may be cancelled at any time, properties are sold as is with no warranty. ([terms](https://www.hctax.net/Property/listings/taxsalelisting)) |
 | Dallas | <https://www.dallascounty.org/departments/sheriff/writ-enforcement-section/> | 2026-10-27 | No reuse terms found; footer/privacy policy shows '© 2026. Dallas County. All rights reserved.' ([terms](https://www.dallascounty.org/about-us/privacy-policy/)) |
 | Dallas | <https://taxoffice.dallascounty.org/hc/en-us/articles/52851449825691-Sheriff-s-Sales> | 2026-10-27 | not found; footer '© . Dallas County. All rights reserved.' |
 | Dallas | <https://taxoffice.dallascounty.org/hc/en-us/articles/52332852588571-Sheriff-Sales-Tax-Foreclosure-Resales> | 2026-10-27 | not found |
@@ -187,3 +194,5 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 | Tarrant | <https://www.tarrantcountytx.gov/en/tax/property-tax/public-auctions.html> | 2026-10-27 | No reuse terms found; privacy policy shows 'Copyright 2001-2026 Tarrant County, TX'. ([terms](https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html)) |
 | Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3.html> | 2026-10-27 | same as above ([terms](https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html)) |
 | Tarrant | <https://www.tarrantcountytx.gov/content/main/en/constables/constable-3/delinquent-tax-sales.html> | 2026-10-27 | same as above ([terms](https://www.tarrantcountytx.gov/en/county/website-use/privacy-policy.html)) |
+| Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/november-3--2026.html> | 2026-10-27 | Tarrant County provides the website information as a public service; official records should be consulted. |
+| Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/december-1--2026.html> | 2026-10-27 | Tarrant County provides the website information as a public service; official records should be consulted. |

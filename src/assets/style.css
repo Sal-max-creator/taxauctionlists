@@ -129,3 +129,13 @@ a.button:hover { filter: brightness(1.08); }
 
 .callout { background: var(--accent-soft); border-radius: var(--radius); padding: 14px 18px; margin: 24px 0; }
 .callout p { margin: 4px 0; }
+
+.inline-list { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 18px; }
+.faq h3 { margin-top: 18px; }
+.faq p { max-width: 760px; }
+.issue { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 8px 24px 24px; }
+.issue h2 { font-size: 1.2rem; }
+.issue h3 { font-size: 1.05rem; }
+.issue ul { padding-left: 20px; }
+.issue li { margin: 4px 0; }
+.plan-note { font-size: 0.9rem; color: var(--muted); }

@@ -11,6 +11,7 @@ npm run build        # static site in _site/
 npm run validate     # checks data/states/*.json
 npm run terms-log    # regenerates SOURCES.md
 npm run alert-draft  # prints this week's paid Alerts email draft (Markdown)
+npm run alert-draft -- --teaser   # prints the free weekly preview instead
 ```
 
 Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloudflare deploys it as a Worker with static assets: `wrangler.jsonc` runs `npm run build` and serves `_site`, and `worker/index.js` runs only for `/api/*` (the signup form), so Workers Builds needs no extra settings (deploy command `npx wrangler deploy`, non-production branches `npx wrangler versions upload`). Node 22 is pinned in `.nvmrc`. `src/headers.njk` writes Cloudflare's `_headers` file, which adds `X-Robots-Tag: noindex` while the site is private.
@@ -22,7 +23,10 @@ Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloud
 | `data/states/XX.json` | One file per state: overview, counties, sales, sources and their terms |
 | `src/` | Templates, guides (`src/guides/*.md`), CSS and JS |
 | `src/_data/site.json` | Site name, `public` switch, signup endpoint (`/api/subscribe`; empty sends nothing), paid Alerts settings (`paid`) |
-| `src/alerts.njk` | The paid Alerts page (`/alerts/`) |
+| `src/alerts.njk` | The paid Alerts page (`/alerts/`): plans, pricing and FAQ |
+| `src/sample-issue.njk` | `/sample-issue/`: the newest file in `drafts/alerts/`, shown in full |
+| `src/tax-sales/month.njk`, `src/sale-kind.njk` | Landing pages per month (`/tax-sales/2026-11/`) and per kind of sale (`/tax-lien-sales/`, `/tax-deed-sales/`) |
+| `src/sitemap.njk` | `/sitemap.xml`, listed in `robots.txt` once the site is public |
 | `scripts/alert-draft.mjs` | Writes the weekly Alerts email draft as Markdown (sends nothing) |
 | `worker/index.js` | Signup handler: checks the form and adds the address to Buttondown |
 | `src/_data/linkOnly.json` | Sources we link to but never copy from |
@@ -48,8 +52,11 @@ Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloud
     "sale_type": "deed", "format": "online",                 // online | in person | both | unknown
     "platform": { "name": "RealAuction", "url": "..." },     // link only
     "schedule_rule": "verbatim recurring rule or null",
+    "recurs": "monthly",                                     // optional: weekly | monthly, lists it under recurring sales in the Alerts email
     "sales": [{ "date": "2026-11-05", "time": "10:00 AM", "label": "...", "deposit": "...",
-                "registration_deadline": "...", "source_url": "...", "quote": "..." }],
+                "registration_deadline": "...", "register_by": "2026-10-30",   // register_by: optional ISO date for the email's deadline list
+                "list_url": "...", "list_note": "...",                         // optional: the county's own parcel list (never a link-only host)
+                "note": "...", "source_url": "...", "quote": "..." }],
     "next_sale_note": "e.g. 2027 date not yet posted",
     "how_to_bid": "...",
     "sources": [{ "url": "...", "read_on": "2026-10-27", "terms": "...", "terms_url": "..." }]
@@ -86,11 +93,28 @@ Buttondown needs its paid subscriptions add-on for this and has no Stripe test m
 
 ### Sending the weekly email
 
-1. After the Monday source check issue is reviewed and `data/states/` is updated, run `npm run alert-draft` (options: `--days 45`, `--since <git ref>`; by default it compares with the commit from 7 days ago).
+1. After the Monday source check issue is reviewed and `data/states/` is updated, run `npm run alert-draft` (options: `--days 45`, `--since <git ref>`, `--site none` to leave county names unlinked until taxauctionlists.com is live; by default it compares with the commit from 7 days ago).
+   Save each issue as `drafts/alerts/YYYY-MM-DD.md` (`npm run alert-draft -- --site none > drafts/alerts/2026-10-27.md`) so the PR shows what will go out.
 2. Read it, fix anything the script can't know (cancellations announced elsewhere, notes), and attach parcel lists by hand: a spreadsheet only where the county's terms allow reuse, a link to the county's own list otherwise, nothing copied from link-only sources.
 3. Paste it into a new Buttondown email and, under Send > Audience, pick **Premium** so only paying subscribers get it.
 
 The script only prints text. It never calls Buttondown.
+
+### Sending the free weekly preview
+
+`npm run alert-draft -- --teaser` prints a short email: the next three registration deadlines, sales in the next 7 days, and one paragraph on what Alerts subscribers got that week, with the checkout link. Send it to the free list in Buttondown. It's the main path from free to paid, so send it every week, the same day as Alerts.
+
+To show a yearly price, set it in Buttondown (Settings > Paid subscriptions > yearly upsell price), then add `"yearlyPrice": 190` (or whatever was set) to `paid` in `src/_data/site.json`. The pricing page and callouts show it only when that key exists.
+
+## Going live (needs Sal's yes)
+
+Everything the public site needs is built and tested with `public` on: canonical links to taxauctionlists.com on every page (so the workers.dev copy doesn't compete in search), `sitemap.xml`, breadcrumb and FAQ structured data, and a `robots.txt` that allows crawling and lists the sitemap. Going live is one small change:
+
+1. In `src/_data/site.json`, set `"public": true`. This removes the private banner, the `noindex` meta tag and the `X-Robots-Tag` header, and lets crawlers in.
+2. In `wrangler.jsonc`, uncomment the `routes` line marked GO-LIVE. On the next deploy Cloudflare attaches `taxauctionlists.com` to this Worker and creates its DNS record, since the domain is already in the same Cloudflare account.
+3. After the deploy: open https://taxauctionlists.com, then submit `https://taxauctionlists.com/sitemap.xml` in Google Search Console and Bing Webmaster Tools (free; needs a sign-in by Sal).
+
+`www.taxauctionlists.com` isn't attached by this. Add it later as a Cloudflare redirect rule to the bare domain if wanted.
 
 ## Not connected yet
 

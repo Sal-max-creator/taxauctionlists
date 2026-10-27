@@ -1,0 +1,31 @@
+---
+layout: base.njk
+pagination:
+  data: saleKinds
+  size: 1
+  addAllPagesToCollections: true
+  alias: k
+permalink: "{{ k.url }}"
+eleventyComputed:
+  title: "{{ k.heading }}: county dates and deadlines"
+  description: "{{ k.heading }} by county in {% for st in k.states %}{{ st.name }}{% if not loop.last %}, {% endif %}{% endfor %}: dates, deposits and registration deadlines from each county's own page."
+---
+{%- set crumbs = [{ name: "Calendar", url: "/calendar/" }, { name: k.title, url: k.url }] %}
+{% include "breadcrumbs.njk" %}
+<h1>{{ k.heading }}</h1>
+<p class="lede">{{ k.intro }} <a href="{{ k.guide }}">How it works →</a></p>
+{% include "notice.njk" %}
+<h2>Next {{ k.title | lower }} by date</h2>
+{% set rows = k.sales %}{% set showState = true %}
+{% include "sales-table.njk" %}
+<h2>States with {{ k.title | lower }}</h2>
+<div class="grid">
+{% for st in k.states %}
+  <a class="card" href="{{ st.url }}">
+    <h3>{{ st.name }}</h3>
+    <p>{{ st.sale_type | capitalize }} state · {{ st.counties.length }} tracked · {{ st.upcomingCount }} dated sales</p>
+  </a>
+{% endfor %}
+</div>
+{% include "paid-teaser.njk" %}
+{% include "signup.njk" %}

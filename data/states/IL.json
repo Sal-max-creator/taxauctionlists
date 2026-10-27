@@ -96,7 +96,8 @@
           "deposit": "$500, forfeited if a registered bidder doesn't attend",
           "registration_deadline": "Oct 1 to 30, 2026",
           "source_url": "https://www.dupagecounty.gov/elected_officials/treasurer/tax_sale_information.php",
-          "quote": "The 2025 annual real estate Tax Sale will begin on Thursday, November 19, 2026."
+          "quote": "The 2025 annual real estate Tax Sale will begin on Thursday, November 19, 2026.",
+          "register_by": "2026-10-30"
         }
       ],
       "next_sale_note": null,
@@ -118,25 +119,35 @@
       "address": "18 N County Street, Room 102, Waukegan, IL 60085",
       "website": "https://www.lakecountyil.gov/552/Tax-Sale-Information",
       "sale_type": "lien",
-      "format": "unknown",
+      "format": "in person",
       "platform": null,
       "schedule_rule": null,
       "sales": [
         {
           "date": "2026-11-13",
           "label": "Annual Tax Sale",
-          "deposit": "First-time buyers: certified check for the amount they plan to buy",
+          "deposit": "$500 (previously registered buyers excepted); first-time buyers also bring a certified check for the amount they plan to buy",
           "source_url": "https://www.lakecountyil.gov/552/Tax-Sale-Information",
-          "quote": "The Lake County tax sale is scheduled for November 13, 2026."
+          "quote": "The Lake County tax sale is scheduled for November 13, 2026.",
+          "time": "Start time not posted for 2026; County Administration Building, 18 N. County St., Waukegan",
+          "registration_deadline": "Closed: registration ran Oct 1 to Oct 23, 2026, 5:00 PM CST",
+          "register_by": "2026-10-23",
+          "note": "The county calls this date tentative. Registration has already closed."
         }
       ],
-      "next_sale_note": "The page heading says \"TY2024 Tax Sale\" while the linked packet refers to TY2025, so the tax-year label is unclear. The page gives no time, location or registration deadline, and the linked packet could not be fetched.",
+      "next_sale_note": "The county describes the Nov 13, 2026 date as tentative and posts no start time. Its packet link still opens the 2025 packet.",
       "how_to_bid": "Buyers register with the Treasurer and must be 18 or older. First-time buyers bring a certified check for the amount they plan to buy, and the unused balance is returned. A delinquent tax list is available for an extra $100 and may be used only for the tax sale.",
       "sources": [
         {
           "url": "https://www.lakecountyil.gov/552/Tax-Sale-Information",
           "read_on": "2026-10-27",
           "terms": "Website Disclaimer: Illinois law governs all uses of the data; users must not violate third-party rights; third-party content may not be used for advertising or product endorsement; no accuracy warranty. No explicit ban on copying or scraping found. The page itself says the delinquent tax list must be used only for the tax sale. A Copyright Notices page is linked but could not be fetched.",
+          "terms_url": "https://www.lakecountyil.gov/2906"
+        },
+        {
+          "url": "https://www.lakecountyil.gov/550/Tax-Sale-Proceedings",
+          "read_on": "2026-10-27",
+          "terms": "Website Disclaimer linked in footer; not read in full.",
           "terms_url": "https://www.lakecountyil.gov/2906"
         }
       ]

@@ -3,29 +3,46 @@ layout: base.njk
 pagination:
   data: states
   size: 1
+  addAllPagesToCollections: true
   alias: st
 permalink: "{{ st.url }}"
 eleventyComputed:
-  title: "{{ st.name }} tax sales"
-  description: "{{ st.name }} tax {{ st.sale_type }} sales: upcoming dates by county, deposits, deadlines and how bidding works."
+  title: "{{ st.name }} tax sales: upcoming county dates and deadlines"
+  description: "Upcoming {{ st.name }} tax {{ st.sale_type }} sales by county: dates, deposits, registration deadlines and how bidding works, each linked to the county's own page."
 ---
-<p class="breadcrumbs"><a href="/states/">States</a> › {{ st.name }}</p>
+{%- set stRows = sales | whereEq("stateCode", st.state) %}
+{%- set next = stRows[0] %}
+{%- set online = st.counties | whereEq("format", "online") %}
+{%- set inPerson = st.counties | whereEq("format", "in person") %}
+{%- set both = st.counties | whereEq("format", "both") %}
+{%- set unknownCount = st.counties.length - online.length - inPerson.length - both.length %}
+{%- set fparts = [] %}
+{%- if online.length %}{% set _ = fparts.push(online.length + " sell online") %}{% endif %}
+{%- if inPerson.length %}{% set _ = fparts.push(inPerson.length + " in person") %}{% endif %}
+{%- if both.length %}{% set _ = fparts.push(both.length + " both online and in person") %}{% endif %}
+{%- if unknownCount %}{% set _ = fparts.push(unknownCount + (" hasn't said" if unknownCount == 1 else " haven't said")) %}{% endif %}
+{%- set formatSummary = (fparts | head(fparts.length - 1) | join(", ") + " and " + fparts | last) if fparts.length > 1 else fparts | join("") %}
+{%- set recurring = [] %}{% for c in st.counties %}{% if c.schedule_rule and not c.link_only %}{% set _ = recurring.push(c) %}{% endif %}{% endfor %}
+{%- set dated = [] %}{% for c in st.counties %}{% if c.upcoming.length and not c.link_only %}{% set _ = dated.push(c) %}{% endif %}{% endfor %}
+{%- set crumbs = [{ name: "States", url: "/states/" }, { name: st.name, url: st.url }] %}
+{% include "breadcrumbs.njk" %}
 <h1>{{ st.name }} tax sales</h1>
 <p><span class="tag tag-{{ st.sale_type | replace(' ', '-') }}">{{ st.sale_type }} state</span></p>
 <p class="lede">{{ st.overview }}</p>
 {% if st.overview_sources.length %}
 <p class="muted">Based on: {% for s in st.overview_sources %}<a href="{{ s.url }}" rel="nofollow noopener">{{ s.url | hostname }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>
 {% endif %}
+<p>We track {{ st.counties.length }} {{ st.name }} {{ "jurisdictions" if st.state == "NJ" else "counties" }}. {% if next %}{{ dated.length }} of them {{ "has" if dated.length == 1 else "have" }} a dated sale posted; the next is in <a href="{{ next.countyUrl }}">{{ next.countyFullName }}</a> on {{ next.date | longDate }}.{% else %}None has posted a date we can confirm yet; see each one below for its schedule.{% endif %}</p>
 {% include "notice.njk" %}
 
 <h2>Upcoming dated sales in {{ st.name }}</h2>
-{% set rows = sales | whereEq("stateCode", st.state) %}{% set showState = false %}
+{% set rows = stRows %}{% set showState = false %}
 {% include "sales-table.njk" %}
 
-<h2>Counties</h2>
+<h2>{{ "Towns and cities" if st.state == "NJ" else "Counties" }}</h2>
 <div class="table-scroll">
 <table>
-  <thead><tr><th scope="col">County</th><th scope="col">Type</th><th scope="col">Where</th><th scope="col">Next sale</th><th scope="col">Checked</th></tr></thead>
+  <thead><tr><th scope="col">{{ "Where" if st.state == "NJ" else "County" }}</th><th scope="col">Type</th><th scope="col">Format</th><th scope="col">Next sale</th><th scope="col">Checked</th></tr></thead>
   <tbody>
   {% for c in st.counties %}
     <tr>
@@ -39,4 +56,15 @@ eleventyComputed:
   </tbody>
 </table>
 </div>
+
+{%- set faqs = [
+  { q: "Does " + st.name + " sell tax liens or tax deeds?", a: st.overview },
+  { q: "When is the next tax sale in " + st.name + "?", a: ("The next dated sale we have is in " + next.countyFullName + " on " + (next.date | longDate) + ": " + next.label + ". Counties add and cancel sales often, so confirm on the county's page before you plan around it.") if next else ("None of the " + st.name + " places we track has posted a date we can confirm yet." + (" " + recurring.length + " sell on a recurring schedule, quoted on each county's page." if recurring.length else " Each county page says what the county has posted so far.")) },
+  { q: "Are " + st.name + " tax sales online or in person?", a: "Of the " + st.counties.length + " places we track, " + formatSummary + ". Each county page shows the format and the auction site, if there is one." },
+  { q: "Where do these dates come from?", a: "Each date is read from the county's own page or a legal notice the county must publish. We link that page next to the sale and show the day we last checked it." }
+] %}
+{% set faqTitle = st.name + " tax sale questions" %}
+{% include "faq.njk" %}
+
+{% include "paid-teaser.njk" %}
 {% include "signup.njk" %}

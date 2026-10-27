@@ -1,0 +1,27 @@
+---
+layout: base.njk
+pagination:
+  data: months
+  size: 1
+  addAllPagesToCollections: true
+  alias: m
+permalink: "{{ m.url }}"
+eleventyComputed:
+  title: "Tax sales in {{ m.ym | monthName }}: county lien and deed auctions"
+  description: "Every county tax lien and tax deed sale we track in {{ m.ym | monthName }}, with deposits, registration deadlines and a link to each county's own page."
+---
+{%- set crumbs = [{ name: "Calendar", url: "/calendar/" }, { name: m.ym | monthName, url: m.url }] %}
+{% include "breadcrumbs.njk" %}
+<h1>Tax sales in {{ m.ym | monthName }}</h1>
+<p class="lede">{{ m.sales.length }} dated {{ "sale" if m.sales.length == 1 else "sales" }} in {{ m.stateCount }} {{ "state" if m.stateCount == 1 else "states" }}, soonest first. Each one links to the county page it came from.</p>
+{% include "notice.njk" %}
+{% set rows = m.sales %}{% set showState = true %}
+{% include "sales-table.njk" %}
+<p class="muted">Some counties sell on a fixed schedule without posting each date. Those are on the <a href="/calendar/">full calendar</a>.</p>
+{%- set others = [] %}{% for o in months %}{% if o.ym != m.ym %}{% set _ = others.push(o) %}{% endif %}{% endfor %}
+{% if others.length %}
+<h2>Other months</h2>
+<ul class="inline-list">{% for o in others %}<li><a href="{{ o.url }}">{{ o.ym | monthName }}</a></li>{% endfor %}</ul>
+{% endif %}
+{% include "paid-teaser.njk" %}
+{% include "signup.njk" %}

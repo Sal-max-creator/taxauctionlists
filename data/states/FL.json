@@ -111,20 +111,20 @@
     {
       "county": "Broward",
       "slug": "broward",
-      "office": "Broward County Tax Collector's Office, Tax Deed Section",
+      "office": "Broward County Tax Collector's Office (constitutional Tax Collector since Jan 7, 2025), Tax Deed Section",
       "phone": null,
       "address": "115 S. Andrews Avenue, Room A-100, Fort Lauderdale, FL",
       "website": "https://browardtax.org/?p=1087",
       "sale_type": "deed",
       "format": "online",
       "platform": {
-        "name": "DeedAuction (broward.deedauction.net)",
+        "name": "broward.deedauction.net per the Tax Collector (broward.org still links broward.realtaxdeed.com)",
         "url": null
       },
-      "schedule_rule": "Tax Deed Sales are scheduled once a month. Bids are accepted beginning at 9:00 a.m. EDT on scheduled sale days.",
+      "schedule_rule": "Tax Deed Sales are scheduled once a month.",
       "sales": [],
       "next_sale_note": "Specific dates are only on the online auction calendar (private platform); not posted on the official page.",
-      "how_to_bid": "Register for free on the online auction site and complete the pre-auction steps for submitting a bid deposit before bidding; there is no fee to participate. Bidding closes per each property's posted close time, starting at 11:01 AM.",
+      "how_to_bid": "Register for free on the online auction site and follow its bidder deposit rules before bidding; there is no fee to participate. Each monthly sale opens for pre-bidding at 9:00 a.m. on sale day, and final payment is due by 11:00 a.m. the next day. The Tax Collector's page and the county's older Records, Taxes and Treasury page point to different auction sites, so check which one is current before registering.",
       "sources": [
         {
           "url": "https://browardtax.org/?p=1087",
@@ -140,6 +140,12 @@
         },
         {
           "url": "https://www.broward.org/RecordsTaxesTreasury/TaxesFees/Pages/LandsAvailableforTaxes.aspx",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://browardtax.org/?p=1129",
           "read_on": "2026-10-27",
           "terms": "not found",
           "terms_url": null
@@ -169,12 +175,24 @@
         {
           "url": "https://browardtax.org/our-office/",
           "quote": "an independent constitutional office operating in accordance with Florida Statutes"
+        },
+        {
+          "url": "https://browardtax.org/?p=1129",
+          "quote": "Abbey Ajayi was sworn in as Broward's first Constitutional Tax Collector on January 7, 2025."
+        },
+        {
+          "url": "https://browardtax.org/?p=1129",
+          "quote": "Previously, tax collection was provided by the county government."
+        },
+        {
+          "url": "https://browardtax.org/?p=1087",
+          "quote": "Each monthly online Tax Deed Sale will open for pre-bidding at 9:00AM on the day of the sale;"
         }
       ],
       "notes": {
-        "verification_note": "browardtax.org identifies itself as the 'BROWARD COUNTY TAX COLLECTOR'S OFFICE' and an independent constitutional office; its address matches the Broward County Records, Taxes and Treasury office on broward.org (115 S. Andrews Ave., Room A-100), but I could not find a broward.org page linking to browardtax.org. Treat as likely official; confirm before publishing.",
-        "to_confirm": "browardtax.org calls itself the Broward County Tax Collector's Office; no broward.org page links to it yet. Confirm before launch."
-      }
+        "verification_note": "Settled Oct 27, 2026: browardtax.org is the site of Broward's constitutional Tax Collector (separate from county government since Jan 7, 2025, per its own pages; Broward's FY26 budget refers to 'the transition to the County-wide elected Tax Collector'; the Town of Davie names the 'Office of Abbey Ajayi, Broward County Tax Collector'). No broward.org page links to it yet. Open: platform conflict, browardtax.org says broward.deedauction.net, broward.org RTT links broward.realtaxdeed.com."
+      },
+      "recurs": "monthly"
     },
     {
       "county": "Palm Beach",
@@ -273,7 +291,8 @@
           "url": "https://hillsclerk.com/taxdeeds",
           "quote": "Payment in full, including documentary stamps and recording fees, must be made by 10AM the next business day."
         }
-      ]
+      ],
+      "recurs": "weekly"
     },
     {
       "county": "Orange",

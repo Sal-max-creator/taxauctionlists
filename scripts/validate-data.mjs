@@ -41,8 +41,13 @@ for (const { file, data } of readStateFiles()) {
       else if (isLinkOnly(sale.source_url)) errors.push(sw(`source is link-only: ${sale.source_url}`));
       else if (!sourceUrls.has(sale.source_url)) errors.push(sw(`source_url not listed in county sources: ${sale.source_url}`));
       if (!sale.quote) errors.push(sw("no quote from the source"));
+      if (sale.register_by && (!/^\d{4}-\d{2}-\d{2}$/.test(sale.register_by) || sale.register_by > (sale.end_date || sale.date))) errors.push(sw("bad register_by (YYYY-MM-DD, on or before the sale ends)"));
+      if (sale.register_by && !sale.registration_deadline) errors.push(sw("register_by needs the registration_deadline text it comes from"));
+      if (sale.list_url && isLinkOnly(sale.list_url)) errors.push(sw(`list_url is link-only: ${sale.list_url}`));
       if (!sale.label) warnings.push(sw("no label"));
     }
+    if (c.recurs && !["weekly", "monthly"].includes(c.recurs)) errors.push(cw(`recurs must be "weekly" or "monthly", not "${c.recurs}"`));
+    if (c.recurs && !c.schedule_rule) errors.push(cw("recurs needs a schedule_rule"));
     if (c.link_only) {
       if (!c.link_only.reason) errors.push(cw("link_only needs a reason"));
       if ((c.sales || []).length || c.schedule_rule || c.how_to_bid) errors.push(cw("link_only county must not copy sales, schedule or how-to-bid text"));

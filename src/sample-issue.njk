@@ -1,0 +1,19 @@
+---
+layout: base.njk
+title: Sample Alerts issue
+permalink: /sample-issue/
+description: A full weekly Alerts email, as paid subscribers get it, with every county tax sale in the next 30 days, registration deadlines and recurring sales.
+---
+{%- if sampleIssue %}
+<h1>Sample Alerts issue</h1>
+<p class="lede">This is the weekly Alerts email from {{ sampleIssue.date | longDate }}, in full. Subscribers get one like it every week. Many of these dates have passed or changed since; the <a href="/calendar/">calendar</a> is always current.</p>
+{% include "paid-cta.njk" %}
+<article class="issue">
+{{ sampleIssue.body | markdown | safe }}
+</article>
+<h2>Want next week's?</h2>
+{% include "paid-cta.njk" %}
+{%- else %}
+<h1>Sample Alerts issue</h1>
+<p>The first issue is on its way. <a href="/alerts/">See what Alerts include</a>.</p>
+{%- endif %}

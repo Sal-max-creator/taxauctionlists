@@ -5,6 +5,8 @@ eleventyExcludeFromCollections: true
 User-agent: *
 {% if site.public -%}
 Allow: /
+
+Sitemap: {{ site.url }}/sitemap.xml
 {%- else -%}
 Disallow: /
 {%- endif %}

@@ -1,3 +1,7 @@
+import markdownIt from "markdown-it";
+
+const md = markdownIt({ html: false, linkify: false });
+
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
 
@@ -18,6 +22,15 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("capitalize", (s) => (s ? s.charAt(0).toUpperCase() + s.slice(1) : s));
   eleventyConfig.addFilter("head", (arr, n) => (arr || []).slice(0, n));
   eleventyConfig.addFilter("whereEq", (arr, key, value) => (arr || []).filter((x) => x[key] === value));
+  // "2026-11" -> "November 2026"
+  eleventyConfig.addFilter("monthName", (ym) => {
+    const d = new Date(`${ym}-01T00:00:00Z`);
+    return d.toLocaleDateString("en-US", { month: "long", year: "numeric", timeZone: "UTC" });
+  });
+  eleventyConfig.addFilter("markdown", (text) => md.render(text || ""));
+  // JSON for a <script type="application/ld+json"> block; "<" is escaped so data can't close the tag.
+  eleventyConfig.addFilter("jsonld", (obj) => JSON.stringify(obj).replace(/</g, "\\u003c"));
+  eleventyConfig.addFilter("absUrl", (path, base) => new URL(path || "/", base).href);
   eleventyConfig.addFilter("guidesSorted", (pages) => [...pages].sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)));
 
   return {

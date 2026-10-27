@@ -26,4 +26,9 @@
     }
   ],
   "observability": { "enabled": true }
+
+  // GO-LIVE (not active; needs Sal's yes). Uncommenting this makes the next deploy attach
+  // taxauctionlists.com to this Worker: Cloudflare creates the DNS record in the zone itself.
+  // Ship it in the same change that sets "public": true in src/_data/site.json.
+  // ,"routes": [{ "pattern": "taxauctionlists.com", "custom_domain": true }]
 }

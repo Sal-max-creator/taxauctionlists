@@ -284,6 +284,299 @@
           "terms_url": "https://phillysheriff.com/linking-policy/"
         }
       ]
+    },
+    {
+      "county": "Allegheny",
+      "slug": "allegheny",
+      "office": "Allegheny County Sheriff's Office (Real Estate)",
+      "phone": "412-350-4700",
+      "address": "436 Grant Street, Room 111, Pittsburgh, PA 15219",
+      "website": "https://sheriffalleghenycounty.com/real-estate/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": "The Sheriff's Sale is the first Monday of every month. In the event of a holiday, the sale will be conducted on Tuesday.",
+      "recurs": "monthly",
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "time": "Not stated (virtual sale on Microsoft Teams)",
+          "label": "Sheriff's Sale (includes tax lien sales)",
+          "deposit": "10% of the bid price the day after the sale; balance due the Monday following the sale before 10:00 AM (cash, cashier's checks or money orders payable to the Treasurer of Allegheny County)",
+          "registration_deadline": "Bidder registration for the Nov 2 sale is closed per the Sheriff's virtual sale page",
+          "source_url": "https://sheriffalleghenycounty.com/wp-content/uploads/2026/10/November-Sale-List-Updated-10-22.pdf",
+          "quote": "Date of Sale: Monday, November 2, 2026",
+          "list_url": "https://sheriffalleghenycounty.com/wp-content/uploads/2026/10/November-Sale-List-Updated-10-22.pdf",
+          "list_note": "Sheriff's list updated Oct 22, 2026. It mixes tax cases (mostly 'Sci Fa Sur Tax Lien' by school districts, municipalities and the County) with other judgment sales; the Sheriff says the accurate list is finalized the morning of the sale."
+        }
+      ],
+      "next_sale_note": "Allegheny County has no Tax Claim Bureau sale; the Sheriff sells property for unpaid county, municipal and school district taxes at the monthly Sheriff's Sale. City of Pittsburgh tax sales are handled by the City Treasurer's Office (412-255-2300). The Sheriff's page says registration for the next sale opens at 10am on November 9; the next sale date is not yet posted.",
+      "how_to_bid": "Sales are held virtually on Microsoft Teams. Fill in the Bidder Registration form on the Sheriff's Virtual Sheriff's Sale page and send a copy of a valid state ID or driver's license; bidder numbers are not automatic and take up to five business days. The winning bidder brings 10% of the bid the day after the sale and the balance by 10:00 AM the following Monday, in cash, cashier's checks or money orders (no personal checks).",
+      "sources": [
+        {
+          "url": "https://sheriffalleghenycounty.com/real-estate/",
+          "read_on": "2026-10-27",
+          "terms": "Footer: '© 2025 Allegheny County Sheriff's Office'. Sale list disclaimer says 'No warranty of any kind is given regarding this website or the links to other sites or source.' No reuse, redistribution or scraping clause found.",
+          "terms_url": "https://sheriffalleghenycounty.com/privacy/"
+        },
+        {
+          "url": "https://sheriffalleghenycounty.com/real-estate-faq/",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://sheriffalleghenycounty.com/privacy/"
+        },
+        {
+          "url": "https://sheriffalleghenycounty.com/virtual-sheriffs-sale/",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://sheriffalleghenycounty.com/privacy/"
+        },
+        {
+          "url": "https://sheriffalleghenycounty.com/sheriffs-sales/",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://sheriffalleghenycounty.com/privacy/"
+        },
+        {
+          "url": "https://sheriffalleghenycounty.com/wp-content/uploads/2026/10/November-Sale-List-Updated-10-22.pdf",
+          "read_on": "2026-10-27",
+          "terms": "List disclaimer: information may not reflect the most current status; no warranty given. No reuse restriction stated.",
+          "terms_url": "https://sheriffalleghenycounty.com/privacy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sheriffalleghenycounty.com/virtual-sheriffs-sale/",
+          "quote": "Nov 02 2026"
+        },
+        {
+          "url": "https://sheriffalleghenycounty.com/real-estate-faq/",
+          "quote": "The Sheriff's Sale is the first Monday of every month."
+        },
+        {
+          "url": "https://sheriffalleghenycounty.com/real-estate-faq/",
+          "quote": "The day immediately following the sale, you must bring 10% of the bid price."
+        },
+        {
+          "url": "https://sheriffalleghenycounty.com/real-estate-faq/",
+          "quote": "The balance is due the Monday following the sale before 10:00 AM."
+        }
+      ]
+    },
+    {
+      "county": "Chester",
+      "slug": "chester",
+      "office": "Tax Claim Bureau",
+      "phone": "610-344-6360",
+      "address": "313 West Market Street, Suite 3602, West Chester, PA 19380",
+      "website": "https://www.chesco.org/162/Tax-Claim-Bureau",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Upset Tax Sale is held in September, the Continued Upset Sale is held in December ... more than one Judicial Sale may be held during the year.",
+      "sales": [],
+      "next_sale_note": "The county says the Continued Upset Sale is held in December, but no December 2026 date is posted on the Tax Claim pages read 2026-10-27. The 2026 Upset Sale was Sept 21, 2026. Unsold property is on the county Repository List (https://www.chesco.org/DocumentCenter/View/85356/Repository-List).",
+      "how_to_bid": "For the upset sale, register with original documents by the posted deadline (no fax, email or postmarks), then bid in person at 313 West Market Street, West Chester. The full purchase price is due to the Tax Claim Bureau on the sale date, no later than 3:30 p.m. Sales are subject to confirmation by the Court of Common Pleas of Chester County.",
+      "sources": [
+        {
+          "url": "https://www.chesco.org/162/Tax-Claim-Bureau",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content © 2006-2026 Chester County, PA and its representatives. All rights reserved.' No explicit scraping or reuse clause found.",
+          "terms_url": "https://www.chesco.org/copyright"
+        },
+        {
+          "url": "https://www.chesco.org/6010/Upset-Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see copyright notice above.",
+          "terms_url": "https://www.chesco.org/copyright"
+        },
+        {
+          "url": "https://www.chesco.org/1307/Tax-Claim-Bureau-Overview",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see copyright notice above.",
+          "terms_url": "https://www.chesco.org/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.chesco.org/162/Tax-Claim-Bureau",
+          "quote": "The Upset Tax Sale is held in September, the Continued Upset Sale is held in December"
+        },
+        {
+          "url": "https://www.chesco.org/6010/Upset-Tax-Sale-Information",
+          "quote": "shall pay to the Tax Claim Bureau the entire purchase money on the date of sale, no later than 3:30 p.m."
+        }
+      ]
+    },
+    {
+      "county": "Berks",
+      "slug": "berks",
+      "office": "Tax Claim Bureau",
+      "phone": "610-478-6625",
+      "address": "Berks County Services Center, 2nd Floor, 633 Court Street, Reading, PA 19601",
+      "website": "https://www.berkspa.gov/departments/tax-claim-bureau/tax-sale-information",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/"
+      },
+      "schedule_rule": "Judicial - Typically held in June. Upset - Typically held in September.",
+      "sales": [],
+      "next_sale_note": "2027 sale dates not yet posted; the county says 'Information is only available immediately before a sale date.' The 2026 judicial and upset sales are past. Repository bids: 'The Repository Tax Sale Bidding Period Is Open March 1, 2026 - October 31, 2026'.",
+      "how_to_bid": "Both live auctions run online on Bid4Assets. Register with Bid4Assets, complete vesting and funding, e-sign the bidder affidavit and upload ID and entity documents, then book a virtual or in-person meeting with the Tax Claim Bureau through the link Bid4Assets sends, and fund your deposit (amount not stated on the county page). Missing a step bars you from that sale. Unsold property goes to the repository, where bids need written consent of the taxing districts.",
+      "sources": [
+        {
+          "url": "https://www.berkspa.gov/departments/tax-claim-bureau/tax-sale-information",
+          "read_on": "2026-10-27",
+          "terms": "Footer '© 2026 Berks County'. Tax Claim Bureau disclaimer: no warranties on the data and the Bureau 'does not certify the authenticity or accuracy of such information'. No reuse or redistribution restriction found.",
+          "terms_url": "https://www.berkspa.gov/departments/tax-claim-bureau/delinquent-tax-search"
+        },
+        {
+          "url": "https://www.berkspa.gov/departments/tax-claim-bureau/repository-list",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.berkspa.gov/departments/tax-claim-bureau/delinquent-tax-search"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.berkspa.gov/departments/tax-claim-bureau/repository-list",
+          "quote": "The Repository Tax Sale Bidding Period Is Open March 1, 2026 - October 31, 2026"
+        }
+      ]
+    },
+    {
+      "county": "York",
+      "slug": "york",
+      "office": "Assessment & Tax Claim Office",
+      "phone": "717-771-9205",
+      "address": "York County Administrative Center, 28 East Market Street, Room 110, York, PA 17401-1577",
+      "website": "https://yorkcountypa.gov/528/Tax-Sale-Information",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 dates not yet posted. The 2026 Judicial Sale (June 4) and Upset Sale (Sept 17) are past. Properties unsold at the Judicial Sale go to the Repository List and can be bid on at any time; the county page's note on the repository list still refers to October 2025, so confirm the current list with the office.",
+      "how_to_bid": "Upset and judicial sales are online through GovEase and require pre-registration in the posted window (judicial bidders upload documents to GovEase; in-person registration is not accepted). A current photo ID is required, bids cannot be assigned, and bidders with delinquent York County taxes may not bid. Payment is certified funds only (money order, cashier's or certified check), no cash. Repository bids are reviewed by the municipality and school district, with notice by mail in 30 to 45 days.",
+      "sources": [
+        {
+          "url": "https://yorkcountypa.gov/528/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content © 2006-2026 York County, PA and its representatives. All rights reserved.' No explicit scraping or reuse clause found.",
+          "terms_url": "https://yorkcountypa.gov/copyright"
+        }
+      ]
+    },
+    {
+      "county": "Northampton",
+      "slug": "northampton",
+      "office": "Northampton County Revenue Division (Tax Claim)",
+      "phone": "610-829-6188",
+      "address": "669 Washington Street, Easton, PA 18042",
+      "website": "https://www.norcopa.gov/judicial-upset-sale",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The judicial sale was May 27, 2026 and the 2026 upset sale was Sept 24, 2026, both at 1:00 pm in Courtroom #1 of the Northampton County Courthouse. The county says judicial-sale registration dates 'will be published once the sale date is confirmed.'",
+      "how_to_bid": "Bidders must register in the posted window (no exceptions), only at the Northampton County Courthouse Government Center, using the county's bid registration and bidder affidavit forms, then bid in person in Courtroom #1. Deposit and payment terms are in the county's conditions of sale.",
+      "sources": [
+        {
+          "url": "https://www.norcopa.gov/judicial-upset-sale",
+          "read_on": "2026-10-27",
+          "terms": "Footer: 'Copyright 2026 Northampton County, PA | All Rights Reserved'. No terms, disclaimer or reuse clause found.",
+          "terms_url": "https://www.norcopa.gov/judicial-upset-sale"
+        },
+        {
+          "url": "https://www.norcopa.gov/fiscal-affairs-contacts",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.norcopa.gov/judicial-upset-sale"
+        }
+      ]
+    },
+    {
+      "county": "Dauphin",
+      "slug": "dauphin",
+      "office": "Dauphin County Tax Claim Bureau",
+      "phone": "717-780-6125",
+      "address": "Dauphin County Administration Building, 2 South Second Street, Harrisburg, PA 17101",
+      "website": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-10",
+          "time": "Bids accepted Monday through Friday, 9:00 am to 3:00 pm",
+          "label": "Repository bidding reopens",
+          "deposit": "Minimum bid $2,000.00 per parcel plus fees; bid must be submitted in writing with payment",
+          "note": "On Nov 10, 2026 only, bids must be in a sealed envelope with the required funds; after that, bids are first come, first served. Each bid needs approval by the County Commissioners, then the school district and municipality. No bids are accepted before Nov 10.",
+          "source_url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/repository-sale",
+          "quote": "Repository bidding will re-open Tuesday, November 10, 2026",
+          "list_url": "https://www.dauphincounty.gov/docs/default-source/default-document-library/master---repo-list-updated.pdf?sfvrsn=f1fefab1_4",
+          "list_note": "County repository list."
+        }
+      ],
+      "next_sale_note": "2027 Judicial and Upset sale information is not yet posted (the county says to check back in late spring 2026 for the judicial sale and mid-August 2027 for the upset sale).",
+      "how_to_bid": "Repository bids go to the Tax Claim Bureau in writing with payment, using the county's repository bid form, prospective purchaser certification and affidavit (Harrisburg City properties need extra city forms). Minimum bid is $2,000.00 per parcel plus fees. Bids are presented to the County Commissioners, then the school district and municipality; no sale is cancelled and money is not returned once made.",
+      "sources": [
+        {
+          "url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/repository-sale",
+          "read_on": "2026-10-27",
+          "terms": "Website policies page shows '©2026 Dauphin County. All rights reserved.' No reuse, redistribution or scraping clause found.",
+          "terms_url": "https://www.dauphincounty.gov/website-policies"
+        },
+        {
+          "url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.dauphincounty.gov/website-policies"
+        },
+        {
+          "url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/repository-sale/necessary-forms",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.dauphincounty.gov/website-policies"
+        },
+        {
+          "url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/judicial-sale",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.dauphincounty.gov/website-policies"
+        },
+        {
+          "url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/upset-sale",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.dauphincounty.gov/website-policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/repository-sale",
+          "quote": "Minimum bid price - $2,000.00 PER PARCEL."
+        },
+        {
+          "url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/repository-sale",
+          "quote": "Repository bids will be accepted Monday through Friday 9:00am to 3:00pm"
+        },
+        {
+          "url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/judicial-sale",
+          "quote": "2027 Judicial Sale information is unavailable at this time."
+        },
+        {
+          "url": "https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/upset-sale",
+          "quote": "2027 Upset Sale information is unavailable at this time."
+        }
+      ]
     }
   ]
 }

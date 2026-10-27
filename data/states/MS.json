@@ -320,6 +320,102 @@
           "quote": "Once the tax sale ends the Tax Collector turns everything over to the Chancery Clerk's Office."
         }
       ]
+    },
+    {
+      "county": "Lafayette",
+      "slug": "lafayette",
+      "office": "Lafayette County Tax Assessor/Collector",
+      "phone": "Tax Collector: (662) 234-6006; Tax Assessor: (662) 234-5562",
+      "address": "Chancery Courthouse, 300 N. Lamar Blvd., Suite 103, Oxford, MS 38655 (mailing P.O. Box 1240, Oxford, MS 38655)",
+      "website": "https://lafayettems.com/how-do-i/how-can-i-bid-in-a-county-tax-sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "They take place on the last Monday of August, from 8:30 a.m. to 4:30 p.m. daily until all parcels are auctioned.",
+      "sales": [],
+      "next_sale_note": "No dated 2027 sale posted; the county page gives only the annual rule (last Monday of August).",
+      "how_to_bid": "Tax sales are held online through GovEase. Register online before being approved to bid; there is no registration fee, but bidders must provide a Social Security or Tax ID number and a W-9, and submit a form of payment and a maximum bid amount to GovEase. Excess bids go to the county general fund. Parcels are advertised twice in August in The Oxford Eagle. If the owner does not redeem within two years of the purchase date, the purchaser can acquire the property by tax deed. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://lafayettems.com/how-do-i/how-can-i-bid-in-a-county-tax-sale/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or privacy link in the footer. Copyright-only footer: 'Copyright © 2026 Lafayette County'. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://lafayettems.com/tax-assessor-collector/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or privacy link in the footer. Copyright-only footer: 'Copyright © 2026 Lafayette County'. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lafayettems.com/how-do-i/how-can-i-bid-in-a-county-tax-sale/",
+          "quote": "Tax sales are held online at www.govease.com."
+        },
+        {
+          "url": "https://lafayettems.com/how-do-i/how-can-i-bid-in-a-county-tax-sale/",
+          "quote": "They take place on the last Monday of August, from 8:30 a.m. to 4:30 p.m. daily until all parcels are auctioned."
+        },
+        {
+          "url": "https://lafayettems.com/how-do-i/how-can-i-bid-in-a-county-tax-sale/",
+          "quote": "Individuals must register online prior to being approved to bid."
+        },
+        {
+          "url": "https://lafayettems.com/how-do-i/how-can-i-bid-in-a-county-tax-sale/",
+          "quote": "All auction items are advertised in The Oxford Eagle twice during the month of August."
+        }
+      ]
+    },
+    {
+      "county": "Warren",
+      "slug": "warren",
+      "office": "Warren County Tax Collector",
+      "phone": "601-638-6181",
+      "address": "1009 Cherry St, Vicksburg, MS 39183 (mailing P.O. Box 351, Vicksburg, MS 39181)",
+      "website": "https://www.co.warren.ms.us/elected-officials/tax-collector/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "The tax sale is usually held the last Monday in August 8:30am-4:30pm.",
+      "sales": [],
+      "next_sale_note": "No dated 2027 sale posted; the Tax Collector page gives only the usual date (last Monday in August).",
+      "how_to_bid": "The Tax Collector holds the sale once a year online through GovEase. Unpaid property is auctioned to the highest bidder; if no one bids it is stricken off to the State. The owner has two years from the sale to redeem; if not redeemed, the tax sale buyer receives a tax deed. Registration and deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.co.warren.ms.us/elected-officials/tax-collector/",
+          "read_on": "2026-10-27",
+          "terms": "Footer links only to a Privacy Policy (https://warrencountyms.gov/privacy-policy/), which covers personal data and says nothing on reuse; no terms or disclaimer page. Copyright-only footer: '© 2026 Warren County'. No reuse restriction found.",
+          "terms_url": "https://warrencountyms.gov/privacy-policy/"
+        },
+        {
+          "url": "https://co.warren.ms.us/purchasing-real-property/",
+          "read_on": "2026-10-27",
+          "terms": "Footer links only to a Privacy Policy (https://warrencountyms.gov/privacy-policy/), which covers personal data and says nothing on reuse; no terms or disclaimer page. Copyright-only footer: '© 2026 Warren County'. No reuse restriction found.",
+          "terms_url": "https://warrencountyms.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.warren.ms.us/elected-officials/tax-collector/",
+          "quote": "The tax sale is usually held the last Monday in August 8:30am-4:30pm."
+        },
+        {
+          "url": "https://www.co.warren.ms.us/elected-officials/tax-collector/",
+          "quote": "The sale is hosted online by Govease (www.govease.com)."
+        },
+        {
+          "url": "https://co.warren.ms.us/purchasing-real-property/",
+          "quote": "two years from the date of this sale to redeem their property"
+        }
+      ]
     }
   ]
 }

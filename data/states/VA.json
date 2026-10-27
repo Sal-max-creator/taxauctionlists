@@ -141,6 +141,43 @@
           "quote": "The auction is held at the front door of the Loudoun County Courthouse in Leesburg, Virginia."
         }
       ]
+    },
+    {
+      "county": "Chesterfield",
+      "slug": "chesterfield",
+      "office": "Chesterfield County Treasurer's Office (judicial sales handled by the county's attorney, James W. Elliott, and a court-appointed special commissioner of sale)",
+      "phone": "804-748-1201 (Treasurer); 757-898-7000 (James W. Elliott, Attorney at Law)",
+      "address": "9901 Lori Road, Chesterfield, VA 23832 (mailing: P.O. Box 70, Chesterfield, VA 23832)",
+      "website": "https://www.chesterfield.gov/3959/Delinquent-Billings-Late-Payments-and-Ju",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date is posted on the county page; it says the attorney typically advertises each sale in the newspaper.",
+      "how_to_bid": "The county refers qualified properties to its attorney, and the Circuit Court appoints a special commissioner of sale, who may sell by private bid, public auction (held on the steps of the County Courthouse) or a listing with a real estate agent. A minimum deposit based on a percentage of the bid price may be required on the sale date, with the balance due within a set time. Property is sold as is; buyers pay for title searches, recording costs and grantor's tax, and bids that do not cover the taxes and sale costs may be rejected. Registration steps are not stated; call the attorney for sale details.",
+      "sources": [
+        {
+          "url": "https://www.chesterfield.gov/3959/Delinquent-Billings-Late-Payments-and-Ju",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or copyright page found; the county Privacy Policy has only a disclaimer about the accuracy of linked sites. No clause forbidding reuse, redistribution or commercial use found.",
+          "terms_url": "https://www.chesterfield.gov/privacy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.chesterfield.gov/3959/Delinquent-Billings-Late-Payments-and-Ju",
+          "quote": "Chesterfield County refers all qualified properties to the following attorney to commence the judicial sale process"
+        },
+        {
+          "url": "https://www.chesterfield.gov/3959/Delinquent-Billings-Late-Payments-and-Ju",
+          "quote": "The special commissioner of sale, at his discretion, may obtain offers through a private bid"
+        },
+        {
+          "url": "https://www.chesterfield.gov/3959/Delinquent-Billings-Late-Payments-and-Ju",
+          "quote": "Minimum deposits based upon a percentage of the bid price may be required on the sale date"
+        }
+      ]
     }
   ]
 }

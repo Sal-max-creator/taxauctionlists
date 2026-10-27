@@ -261,6 +261,42 @@
           "quote": "Thursday, April 23, 2026"
         }
       ]
+    },
+    {
+      "county": "Sacramento",
+      "slug": "sacramento",
+      "office": "Sacramento County Tax Collector, Tax-Defaulted Land Unit (Department of Finance)",
+      "phone": "(916) 874-6621",
+      "address": null,
+      "website": "https://finance.saccounty.gov/us/en/tax/tax/tax-sales.html",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Grant Street Group",
+        "url": "https://sacramento.mytaxsale.com/"
+      },
+      "schedule_rule": "held the last Monday in February each year, with a follow-up sale in May or June.",
+      "sales": [],
+      "next_sale_note": "No exact date posted yet. The county says: 'The next Public Auction will be held in February 2027.' The auction list and updated Terms of Sale are to be posted around January 2027. The February and May 2026 auctions are past.",
+      "how_to_bid": "Auctions are held online at sacramento.mytaxsale.com (Grant Street). A $5,000 deposit is required to register; it is applied to the price if you win, refunded in about five business days if you don't, and forfeited if you win and don't pay. The winning bidder pays in full within five business days, plus documentary transfer tax. Registration deadline not stated. Questions: Tax-Defaulted Land Unit, (916) 874-6621, 9:00 a.m. to 4:00 p.m. Monday through Friday.",
+      "sources": [
+        {
+          "url": "https://finance.saccounty.gov/us/en/tax/tax/tax-sales.html",
+          "read_on": "2026-10-27",
+          "terms": "Sacramento County Conditions of Use contain no copyright, reuse, reproduction or redistribution restriction; they bar unlawful use and unauthorized uploading or changing of information on the portal. No footer copyright text found on the tax sales page.",
+          "terms_url": "https://www.saccounty.gov/us/en/Conditions-of-Use.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://finance.saccounty.gov/us/en/tax/tax/tax-sales.html",
+          "quote": "The next Public Auction will be held in February 2027."
+        },
+        {
+          "url": "https://finance.saccounty.gov/us/en/tax/tax/tax-sales.html",
+          "quote": "A $5,000 deposit is required to register."
+        }
+      ]
     }
   ]
 }

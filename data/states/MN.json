@@ -118,6 +118,181 @@
           "quote": "There are no available properties at this time."
         }
       ]
+    },
+    {
+      "county": "Ramsey",
+      "slug": "ramsey",
+      "office": "Ramsey County Productive Properties",
+      "phone": "651-266-2080",
+      "address": "Plato Building, 90 Plato Blvd. West, Saint Paul, MN 55107",
+      "website": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/productive-properties/tax-forfeited-public-sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "MNBid (Minnesota Department of Administration)",
+        "url": "https://mnbid.mn.gov"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-26",
+          "end_date": "2026-11-30",
+          "time": "not stated",
+          "label": "Fall 2026 tax-forfeited land online auction (MNBid)",
+          "deposit": "not stated",
+          "registration_deadline": "Register to bid on MNBid; no deadline stated",
+          "note": "Already open. Six parcels are listed on the county's auction page. The minimum bid is the appraised value plus certified special assessments after forfeiture. Sales are cash only, no contract for deed.",
+          "list_url": "https://www.ramseycountymn.gov/fall-2026-tax-forfeited-land-online-auction",
+          "source_url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/productive-properties/tax-forfeited-public-sales",
+          "quote": "Fall Tax-Forfeited Land online public auction Oct. 26–Nov. 30, 2026"
+        },
+        {
+          "date": "2026-12-01",
+          "end_date": "2026-12-11",
+          "time": "not stated",
+          "label": "Rebid of unsold parcels from the fall 2026 auction (MNBid)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Parcels not sold in the Oct. 26 to Nov. 30 auction are offered again online.",
+          "source_url": "https://www.ramseycountymn.gov/fall-2026-tax-forfeited-land-online-auction",
+          "quote": "Dec. 1, 2026, and will close on Dec. 11, 2026."
+        }
+      ],
+      "next_sale_note": "The fall 2026 online auction is open now and closes Nov. 30, 2026; unsold parcels are rebid Dec. 1 to 11, 2026.",
+      "how_to_bid": "Register as a bidder on MNBid, the State of Minnesota's online auction site, and bid there. Parcels go to the highest bidder, and the minimum bid is the appraised value. Sales are cash only. Some residential parcels require the buyer to intend to live in the property or use it for noncommercial personal use. Research each parcel before bidding.",
+      "sources": [
+        {
+          "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/productive-properties/tax-forfeited-public-sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: '© 2026 Ramsey County, MN. All rights reserved.' The footer's 'Terms of Use' link opens the county's HIPAA/data practices privacy notice, which has no website terms and says nothing about reuse. Nothing forbids republishing sale dates.",
+          "terms_url": "https://www.ramseycountymn.gov/your-government/about-ramsey-county/ramsey-county-notice-privacy-practices"
+        },
+        {
+          "url": "https://www.ramseycountymn.gov/fall-2026-tax-forfeited-land-online-auction",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: '© 2026 Ramsey County, MN. All rights reserved.' The footer's 'Terms of Use' link opens the county's HIPAA/data practices privacy notice, which has no website terms and says nothing about reuse. Nothing forbids republishing sale dates.",
+          "terms_url": "https://www.ramseycountymn.gov/your-government/about-ramsey-county/ramsey-county-notice-privacy-practices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/productive-properties/tax-forfeited-public-sales",
+          "quote": "The minimum bid accepted is the appraised value."
+        },
+        {
+          "url": "https://www.ramseycountymn.gov/fall-2026-tax-forfeited-land-online-auction",
+          "quote": "Sales are cash only and are not available on contract-for-deed terms."
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Washington County Tax Forfeited Land",
+      "phone": "651-430-6175",
+      "address": "Government Center, 14949 62nd Street North, Stillwater, MN 55082",
+      "website": "https://www.washingtoncountymn.gov/1140/Tax-Forfeited-Land",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-06",
+          "time": "2:00 PM",
+          "label": "Initial public auction of tax-forfeited land, 1st sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Held at the Washington County Government Center, 14949 62nd Street, Stillwater. One parcel listed: residential vacant land in Lake Elmo (PIN 15.029.21.33.0018), starting sale price $155,000.00.",
+          "source_url": "https://www.washingtoncountymn.gov/1140/Tax-Forfeited-Land",
+          "quote": "1st sale: Nov. 6, 2026 - 2 p.m."
+        },
+        {
+          "date": "2026-12-07",
+          "time": "2:00 PM",
+          "label": "Initial public auction of tax-forfeited land, 2nd sale (if needed)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Held only if the parcel does not sell on Nov. 6. The county lists a sale price after 30 days of $112,107.89.",
+          "source_url": "https://www.washingtoncountymn.gov/1140/Tax-Forfeited-Land",
+          "quote": "2nd sale (if needed): Dec. 7, 2026 - 2 p.m."
+        }
+      ],
+      "next_sale_note": "No inventory auction or over-the-counter parcels are available right now.",
+      "how_to_bid": "Attend the auction at the Washington County Government Center in Stillwater. The county says sales may be in person or online and each listing states the format. Bidding steps, deposit and registration are not stated on the page; call the Tax Forfeited Land office for details.",
+      "sources": [
+        {
+          "url": "https://www.washingtoncountymn.gov/1140/Tax-Forfeited-Land",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: 'All content © 2006-2026 Washington County, MN and its representatives. All rights reserved.' The Privacy Policy page has no terms of use or reuse rules. Nothing forbids republishing sale dates.",
+          "terms_url": "https://www.washingtoncountymn.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.washingtoncountymn.gov/1140/Tax-Forfeited-Land",
+          "quote": "Sales may happen in person or online. Each listing will state the format."
+        }
+      ]
+    },
+    {
+      "county": "St. Louis",
+      "slug": "st-louis",
+      "office": "St. Louis County Land & Minerals Department (Duluth)",
+      "phone": "218-726-2606",
+      "address": "not stated",
+      "website": "https://stlouiscountymn.gov/departments-a-z/land-minerals/sales-and-contracts/tax-forfeited-land-sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com/sms/stlouisco,mn/browse/cataucs?catid=15"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-26",
+          "end_date": "2026-11-04",
+          "time": "Bidding closes 11:00 a.m. Wednesday, Nov. 4, 2026",
+          "label": "November tax-forfeited settlement sale auction, without residential use restriction (online)",
+          "deposit": "Settlement sales must be paid in full at the time of sale; no contract for deed",
+          "registration_deadline": "not stated",
+          "note": "Already open. The county's fall 2026 land sale auction on Public Surplus also closes Nov. 4, 2026 at 11:00 a.m.",
+          "source_url": "https://stlouiscountymn.gov/departments-a-z/land-minerals/sales-and-contracts/tax-forfeited-land-sales",
+          "quote": "Auction Without Residential Use Restriction | October 26 - November 4, 2026"
+        },
+        {
+          "date": "2026-11-23",
+          "end_date": "2026-12-03",
+          "time": "Bidding closes 11:00 a.m. Thursday, Dec. 3",
+          "label": "2025 new forfeiture minimum bid auction (online)",
+          "deposit": "New forfeiture sales must be paid in full at the time of sale; no contract for deed",
+          "registration_deadline": "not stated",
+          "note": "Tracts that did not sell in the October initial (EMV) auction are offered over the counter at the initial price until this auction.",
+          "source_url": "https://stlouiscountymn.gov/departments-a-z/land-minerals/sales-and-contracts/tax-forfeited-land-sales",
+          "quote": "Minimum Bid Auction | November 23rd - December 3rd, 2026"
+        }
+      ],
+      "next_sale_note": "No 2027 auction dates are posted yet.",
+      "how_to_bid": "Bid online through Public Surplus; the county posts bidder instructions and a pre-registration form on its tax-forfeited land sales page. For standard land sales the down payment is 10% of the price or $500, whichever is greater, plus fees, with the balance paid in full or on a county contract of up to 10 years. Settlement and new forfeiture sales must be paid in full at the time of sale.",
+      "sources": [
+        {
+          "url": "https://stlouiscountymn.gov/departments-a-z/land-minerals/sales-and-contracts/tax-forfeited-land-sales",
+          "read_on": "2026-10-27",
+          "terms": "The Website Privacy Policy and Disclaimer only requires lawful use ('Any use of the website shall comply with all St. Louis County, Minnesota, and State of Minnesota laws') and disclaims accuracy. Footer: 'Copyright © St. Louis County, Minnesota'. Nothing forbids reuse or republishing.",
+          "terms_url": "https://www.stlouiscountymn.gov/policies/website-privacy-policy-and-disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://stlouiscountymn.gov/departments-a-z/land-minerals/sales-and-contracts/tax-forfeited-land-sales",
+          "quote": "Bidding will close on Wednesday, November 4, 2026, at 11:00 a.m."
+        },
+        {
+          "url": "https://stlouiscountymn.gov/departments-a-z/land-minerals/sales-and-contracts/tax-forfeited-land-sales",
+          "quote": "The down payment is 10% of the purchase price or $500, whichever is greater, plus fees."
+        }
+      ]
     }
   ]
 }

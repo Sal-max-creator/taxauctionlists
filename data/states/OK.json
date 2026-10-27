@@ -81,6 +81,172 @@
       "notes": {
         "list_note": "The Treasurer posts an active resale list at https://docs.oklahomacounty.org/treasurer/ResaleActiveList.asp (county site)."
       }
+    },
+    {
+      "county": "Tulsa",
+      "slug": "tulsa",
+      "office": "Tulsa County Treasurer",
+      "phone": "918-596-5070 (Delinquent Tax Department)",
+      "address": "218 W. 6th St., 8th Floor, Tulsa, OK",
+      "website": "https://www2.tulsacounty.org/treasurer/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Beginning the second Monday in June and continuing from day to day thereafter until all real estate is sold.",
+      "sales": [],
+      "next_sale_note": "2027 resale date not yet posted. The Treasurer says the sale runs between 9:00 a.m. and 4:30 p.m. and that the location may change from year to year and is shown on its website approximately May 15th.",
+      "how_to_bid": "Pre-registration is encouraged at the Treasurer's office beginning approximately May 15th; once the sale begins, registration is only accepted at the auction location. A pre-deposit of $500.00 or more is recommended. Cash, cashier's check or money order is accepted, and buyers without a pre-deposit pay immediately after each purchase. The minimum bid is the lesser of 2/3 of the current tax year assessed value or the advertised taxes, interest, fees and costs. Properties not sold go to the county and may later be sold by auction with Board of County Commissioners approval.",
+      "sources": [
+        {
+          "url": "https://www2.tulsacounty.org/treasurer/properties-for-sale/june-real-estate-auction/faq/",
+          "read_on": "2026-10-27",
+          "terms": "County Privacy page says photos are county property under copyright; it says nothing restricting reuse of the site's text. Acceptable Use page covers employees and contractors and has no reuse restriction. No 'All rights reserved' notice.",
+          "terms_url": "https://www2.tulsacounty.org/privacy/"
+        },
+        {
+          "url": "https://www2.tulsacounty.org/treasurer/about/calendar-of-events/",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; no reuse restriction found.",
+          "terms_url": "https://www2.tulsacounty.org/privacy/"
+        },
+        {
+          "url": "https://www2.tulsacounty.org/treasurer/properties-for-sale/county-properties/",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; no reuse restriction found.",
+          "terms_url": "https://www2.tulsacounty.org/privacy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www2.tulsacounty.org/treasurer/properties-for-sale/june-real-estate-auction/faq/",
+          "quote": "Beginning the second Monday in June and continuing from day to day thereafter until all real estate is sold."
+        },
+        {
+          "url": "https://www2.tulsacounty.org/treasurer/properties-for-sale/june-real-estate-auction/faq/",
+          "quote": "Once the sale begins, registration is only accepted at the auction location."
+        },
+        {
+          "url": "https://www2.tulsacounty.org/treasurer/about/calendar-of-events/",
+          "quote": "Second Monday in June. Auction held to sell properties for unpaid taxes."
+        }
+      ]
+    },
+    {
+      "county": "Rogers",
+      "slug": "rogers",
+      "office": "Rogers County Treasurer",
+      "phone": "918-923-4797",
+      "address": "200 S Lynn Riggs Blvd, Claremore, OK 74017",
+      "website": "https://oktaxrolls.com/searchTaxRoll/rogers",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 resale date not yet posted. The Treasurer's 2026 bidder packet set the June resale as an online auction on Tuesday, June 9, 2026 at 9:00 AM.",
+      "how_to_bid": "Based on the Treasurer's 2026 bidder packet: bid online through GovEase; registration opens about two weeks before the sale, and anyone bidding for a company must register as a bidder for that company. The deposit is 10% of the amount you want to be approved to bid. Winners pay the online vendor by 4:30 pm CST the following day; the Treasurer's office does not accept funds in person for this. A 5% bidder's premium and a $10 deed fee are added. Successful bidders receive a Treasurer's Resale Deed issued within a week of the June Resale.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/searchTaxRoll/rogers",
+          "read_on": "2026-10-27",
+          "terms": "© 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site; no terms of use page found and no reuse restriction stated. Copyright-only."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Bidder_Packet_Online_Auction.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Treasurer's own document linked from its oktaxrolls.com page; no reuse restriction stated."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Bidder_Packet_Online_Auction.pdf",
+          "quote": "Tuesday, June 9TH, 2026"
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Bidder_Packet_Online_Auction.pdf",
+          "quote": "The deposit will be 10% of the amount you want to be approved to bid."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Bidder_Packet_Online_Auction.pdf",
+          "quote": "A 5% bidder's premium (auctioneer fee) will be added to the winning bid amount."
+        }
+      ]
+    },
+    {
+      "county": "Wagoner",
+      "slug": "wagoner",
+      "office": "Wagoner County Treasurer",
+      "phone": "918-485-2149",
+      "address": "307 E Cherokee Street, Wagoner, OK",
+      "website": "https://oktaxrolls.com/county/wagoner",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "On the second Monday in June a Resale is conducted on properties",
+      "sales": [],
+      "next_sale_note": "2027 resale date not yet posted. The Treasurer's page gives no time, location or format; it suggests calling the office at 918-485-2149 for resale details.",
+      "how_to_bid": "Not stated on the Treasurer's page beyond this: properties with real estate taxes delinquent at least three and one-half years are advertised in local newspapers for four consecutive weeks before the Resale, and the highest competitive bidder pays for and receives a Treasurer's Tax Deed. Registration, deposit and payment terms not stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/wagoner",
+          "read_on": "2026-10-27",
+          "terms": "© 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site; no terms of use page found and no reuse restriction stated. Copyright-only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/wagoner",
+          "quote": "On the second Monday in June a Resale is conducted on properties"
+        },
+        {
+          "url": "https://oktaxrolls.com/county/wagoner",
+          "quote": "advertised in local newspapers for a period of four consecutive weeks prior to the Resale"
+        }
+      ]
+    },
+    {
+      "county": "Pottawatomie",
+      "slug": "pottawatomie",
+      "office": "Pottawatomie County Treasurer",
+      "phone": "405-273-0213",
+      "address": "PO Box 3069, Shawnee, OK 74802-3069",
+      "website": "https://oktaxrolls.com/county/Pottawatomie",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Publication for the Resale to be held the 2nd Monday in June.",
+      "sales": [],
+      "next_sale_note": "2027 resale date not yet posted. The Treasurer's June Resale Information sheet says the sale is held from 9:00 a.m. until 4:00 p.m.; location not stated. The Treasurer's page also mentions a lien sale for current delinquent real estate taxes on the first Monday in October.",
+      "how_to_bid": "Not fully stated. The Treasurer's June Resale Information sheet says properties are auctioned off to the highest bidder for cash only. Accounts in the resale have 4 years of delinquent taxes. Registration and deposit not stated. County-owned property left over may be sold by the Treasurer with Board of County Commissioners approval (see the Commissioners Sale Info on the Treasurer's page).",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Pottawatomie",
+          "read_on": "2026-10-27",
+          "terms": "© 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site; no terms of use page found and no reuse restriction stated. Copyright-only."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Resale_Information.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Treasurer's June Resale Information document linked from its oktaxrolls.com page; no reuse restriction stated."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Pottawatomie",
+          "quote": "Publication for the Resale to be held the 2nd Monday in June."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Resale_Information.pdf",
+          "quote": "always held the 2nd Monday in June from 9:00 a.m. until 4:00 p.m."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Resale_Information.pdf",
+          "quote": "auctioned off to the highest bidder for CASH ONLY"
+        }
+      ]
     }
   ]
 }

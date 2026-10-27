@@ -37,6 +37,156 @@
   ],
   "counties": [
     {
+      "county": "Allegan",
+      "slug": "allegan",
+      "office": "Allegan County Treasurer",
+      "phone": "(269) 673-0260",
+      "address": "County Services Building, 3283 122nd Avenue, P.O. Box 259, Allegan, MI 49010",
+      "website": "https://www.allegancounty.org/departments/treasurer-s-office/tax-foreclosure-sales",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "Tax-Sale.info",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": "Shall hold at least 2 property sales between the third Tuesday in July and the first Tuesday in November.",
+      "sales": [],
+      "next_sale_note": "No sale dates are posted on the county page. The county says a sale listing is available in July and that notice of each sale is published in a local newspaper at least 30 days before the sale.",
+      "how_to_bid": "Sales are public auctions conducted by Title-Check, LLC, with information at tax-sale.info. A sale listing is available in July online at tax-sale.info or at the Allegan County Treasurer's office at 113 Chestnut Street, Allegan. The final sale does not require a minimum bid but may require an opening bid. Time, location, online or in-person format, deposit and registration are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.allegancounty.org/departments/treasurer-s-office/tax-foreclosure-sales",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found: the treasurer's page links no terms of use or disclaimer, and the county's plans-and-policies page could not be read (site error). Restate facts only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.allegancounty.org/departments/treasurer-s-office/tax-foreclosure-sales",
+          "quote": "The final sale shall be held not less than 28 days after the previous sale."
+        },
+        {
+          "url": "https://www.allegancounty.org/departments/treasurer-s-office/tax-foreclosure-sales",
+          "quote": "Our sales will be conducted by Title-Check, LLC."
+        },
+        {
+          "url": "https://www.allegancounty.org/departments/treasurer-s-office/tax-foreclosure-sales",
+          "quote": "The final sale does not require a minimum bid, but may require an opening bid."
+        }
+      ]
+    },
+    {
+      "county": "Calhoun",
+      "slug": "calhoun",
+      "office": "Calhoun County Treasurer's Office",
+      "phone": "269-781-0807",
+      "address": "not stated",
+      "website": "https://www.calhouncountymi.gov/departments/treasurers_office/tax_foreclosure_auctions.php",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "Tax-Sale.info",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date is posted on the county page; it lists past auction results through 2025. 2027 date not yet posted.",
+      "how_to_bid": "Properties foreclosed for delinquent property taxes are auctioned every year in a public sale. The county page refers bidders to tax-sale.info, the site that manages the auctions, and to the Treasurer's Office for more information. Dates, format, deposit, registration and minimum bid are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.calhouncountymi.gov/departments/treasurers_office/tax_foreclosure_auctions.php",
+          "read_on": "2026-10-27",
+          "terms": "The site's Terms and Conditions page covers only vendors filling out county purchase orders; it says nothing about reuse, copyright or accuracy of website content. The footer's disclaimer link leads to no page. No website reuse terms found; restate facts only.",
+          "terms_url": "https://www.calhouncountymi.gov/online_services/terms_and_conditions.php"
+        },
+        {
+          "url": "https://www.michigan.gov/taxes/property/forfeiture-foreclosure/taxpayer-resources/foreclosing-governmental-units",
+          "read_on": "2026-10-27",
+          "terms": "State of Michigan page listing foreclosing governmental units; used only for the treasurer's phone number."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.calhouncountymi.gov/departments/treasurers_office/tax_foreclosure_auctions.php",
+          "quote": "Every year, properties that have been foreclosed due to delinquent property taxes are auctioned in a public sale."
+        },
+        {
+          "url": "https://www.calhouncountymi.gov/departments/treasurers_office/tax_foreclosure_auctions.php",
+          "quote": "Learn more about tax sale auctions on the site that manages the auctions each year, www.tax-sale.info"
+        }
+      ]
+    },
+    {
+      "county": "Jackson",
+      "slug": "jackson",
+      "office": "Jackson County Treasurer's Office",
+      "phone": "517-788-4418",
+      "address": "Jackson County Tower Building, 120 W Michigan, 1st Floor, Jackson, MI 49201",
+      "website": "https://www.mijackson.org/535/Tax-Foreclosure-Auctions",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Tax-Sale.info",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 and 2027 dates not posted. The county page still shows the August 5, 2025 auction (past), held online only.",
+      "how_to_bid": "The county's last posted auction was online only, through the County Tax Sale site (tax-sale.info). Deposit, registration, payment and minimum bid are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.mijackson.org/535/Tax-Foreclosure-Auctions",
+          "read_on": "2026-10-27",
+          "terms": "Jackson County Terms of Use: no copyright or reuse restriction; 'The User agrees to use this website as permitted by applicable local, state and federal laws.' No warranty of accuracy or timeliness; information subject to change without notice.",
+          "terms_url": "https://www.mijackson.org/1234/Terms-of-Use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mijackson.org/535/Tax-Foreclosure-Auctions",
+          "quote": "County Tax Sale - Next Auction August 5th, 2025 from 10:00am to 7:00pm - Online Only"
+        }
+      ]
+    },
+    {
+      "county": "Kalamazoo",
+      "slug": "kalamazoo",
+      "office": "Kalamazoo County Treasurer's Office",
+      "phone": "269-384-8124",
+      "address": "not stated",
+      "website": "https://www.kalcounty.gov/912/Auction-Surplus-Properties",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "Tax-Sale.info",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction date is posted on the county page. 2027 date not yet posted.",
+      "how_to_bid": "The Kalamazoo County Treasurer auctions tax-foreclosed properties. The county page refers bidders to Tax-Sale.info for auction rules and available properties, or to call 800-259-7470. Dates, format, deposit, registration and minimum bid are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.kalcounty.gov/912/Auction-Surplus-Properties",
+          "read_on": "2026-10-27",
+          "terms": "Kalamazoo County Legal Disclaimers: no copyright or reuse restriction stated. Information is 'intended, but not guaranteed, to be correct, complete, and up-to-date.' Restate facts only.",
+          "terms_url": "https://www.kalcounty.gov/780/Disclaimers"
+        },
+        {
+          "url": "https://www.kalcounty.gov/1361/Tax-Foreclosure-Timeline",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; see Legal Disclaimers.",
+          "terms_url": "https://www.kalcounty.gov/780/Disclaimers"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.kalcounty.gov/912/Auction-Surplus-Properties",
+          "quote": "please refer to Tax-Sale.info or call 800-259-7470."
+        }
+      ]
+    },
+    {
       "county": "Macomb",
       "slug": "macomb",
       "office": "Macomb County Treasurer's Office",
@@ -77,6 +227,78 @@
         {
           "url": "https://www.macombgov.org/departments/treasurers-office/tax-foreclosure/auction-and-claims",
           "quote": "Payment of the winning bid is due by 4:00 PM EST the day after the auction."
+        }
+      ]
+    },
+    {
+      "county": "Monroe",
+      "slug": "monroe",
+      "office": "Monroe County Treasurer",
+      "phone": "734-240-7000",
+      "address": "Monroe County Courthouse, 125 East Second Street, Monroe, Michigan 48161-2197",
+      "website": "https://www.co.monroe.mi.us/465/Foreclosed-Property-for-Sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Tax-Sale.info",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted. The county says the first auction is usually in mid to late August, with the list of foreclosed parcels posted around mid July. 2027 date not yet posted.",
+      "how_to_bid": "Auctions are held only online on Tax-Sale.info; create a free account there to view details and photos of each property. Property is sold on the assessed legal description only, and personal property not attached to the land stays with the previous owner. You may not bid on parcels in a county where you owe outstanding property taxes. Review the full auction rules on the auction site. Deposit, payment and minimum bid are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.co.monroe.mi.us/465/Foreclosed-Property-for-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: 'All content © 2006-2026 Monroe County, MI and its representatives. All rights reserved.' No explicit reuse or redistribution terms. Restate facts, don't copy documents.",
+          "terms_url": "https://www.co.monroe.mi.us/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.monroe.mi.us/465/Foreclosed-Property-for-Sale",
+          "quote": "The first auction is usually in mid to late August."
+        },
+        {
+          "url": "https://www.co.monroe.mi.us/465/Foreclosed-Property-for-Sale",
+          "quote": "Auctions are now done exclusively online on Tax-Sale.info"
+        },
+        {
+          "url": "https://www.co.monroe.mi.us/465/Foreclosed-Property-for-Sale",
+          "quote": "You will not be allowed to bid on parcels located in a county in which you owe outstanding property taxes."
+        }
+      ]
+    },
+    {
+      "county": "Muskegon",
+      "slug": "muskegon",
+      "office": "Muskegon County Treasurer",
+      "phone": "231-724-6261",
+      "address": "1903 Marquette Ave, Suite A103, Muskegon, MI 49442",
+      "website": "https://co.muskegon.mi.us/886/Treasurer",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "Tax-Sale.info",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction date is posted on the county page. 2027 date not yet posted.",
+      "how_to_bid": "Property is sold at public auction about two and a half years after it becomes delinquent. The Treasurer's page links to tax-sale.info for the foreclosed property auction, and the office gives out a copy of its tax sale guidelines in person. Dates, format, deposit, registration and minimum bid are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://co.muskegon.mi.us/886/Treasurer",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: 'All content © 2006-2026 Muskegon County, MI and its representatives. All rights reserved.' No explicit reuse or redistribution terms. Restate facts only.",
+          "terms_url": "https://co.muskegon.mi.us/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://co.muskegon.mi.us/886/Treasurer",
+          "quote": "Property is sold at public auction approximately two and a half years after it becomes delinquent."
         }
       ]
     },

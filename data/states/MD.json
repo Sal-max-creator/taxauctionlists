@@ -158,6 +158,216 @@
           "quote": "The interest rate for owner-occupied properties will be ten percent (10%) per annum."
         }
       ]
+    },
+    {
+      "county": "Harford",
+      "slug": "harford",
+      "office": "Harford County Department of the Treasury",
+      "phone": "(410) 638-3269 x1325",
+      "address": "220 South Main Street, Bel Air, MD 21014",
+      "website": "https://www.harfordcountymd.gov/m/faq?cat=100",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Harford County tax sale auction site",
+        "url": "https://harford.marylandtaxsale.com"
+      },
+      "schedule_rule": "the Tax Sale that occurs in the County the 3rd Monday in June each year.",
+      "sales": [],
+      "next_sale_note": "2027 date and terms not yet posted. The most recent terms we read are for the June 16, 2025 sale.",
+      "how_to_bid": "Per the county's 2025 Terms of Sale (check for a newer version before relying on it): an online public auction at harford.marylandtaxsale.com; bidders registered between May 16 and June 6, 2025 by noon with a $100 refundable fee, and winning bidders paid a $10.00 auctioneer fee. Interest on redemption is 12% a year on the amount the purchaser paid on the day of the sale.",
+      "sources": [
+        {
+          "url": "https://www.harfordcountymd.gov/m/faq?cat=100",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notice page says only 'Copyright © 2015 Harford County Government. All rights reserved.' The Disclaimer page covers liability and external links only. No reuse restriction found.",
+          "terms_url": "https://www.harfordcountymd.gov/1686"
+        },
+        {
+          "url": "https://harfordcountymd.gov/DocumentCenter/View/28612/Terms-of-Sale-2025-PDF",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.harfordcountymd.gov/1686"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.harfordcountymd.gov/m/faq?cat=100",
+          "quote": "in preparation for the Tax Sale that occurs in the County the 3rd Monday in June each year."
+        },
+        {
+          "url": "https://www.harfordcountymd.gov/m/faq?cat=100",
+          "quote": "The current rate is 12% on the amount paid the day of Tax Sale by the purchaser."
+        },
+        {
+          "url": "https://harfordcountymd.gov/DocumentCenter/View/28612/Terms-of-Sale-2025-PDF",
+          "quote": "This is an online public auction."
+        }
+      ]
+    },
+    {
+      "county": "Carroll",
+      "slug": "carroll",
+      "office": "Carroll County Collections Office",
+      "phone": "(410) 386-2965",
+      "address": "not stated",
+      "website": "https://ccgprod1.carrollcountymd.gov/government/directory/comptroller/collectionstaxes/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Carroll County, MD Official Tax Certificate Auction Site (RealAuction)",
+        "url": "https://carroll.marylandtaxsale.com"
+      },
+      "schedule_rule": "Carroll County conducts an online Tax Sale in June of each year with RealAuction.com",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held June 30, 2026.",
+      "how_to_bid": "Per the 2026 Terms of Sale: an online public auction at carroll.marylandtaxsale.com. All bidders must pre-register as set out in the Tax Sale Notice; late registrations are not accepted. Payment is by ACH debit, due by 3:00 p.m. on the day of the sale. Bids are capped at four times the assessed value. Interest: 14% a year for non-owner-occupied property, 10% for owner-occupied. The registration fee and deposit, if any, are not stated in the terms.",
+      "sources": [
+        {
+          "url": "https://ccgprod1.carrollcountymd.gov/government/directory/comptroller/collectionstaxes/",
+          "read_on": "2026-10-27",
+          "terms": "User Terms page covers only material users send to the County (granting the County a license to reproduce it). No restriction on reuse of site information found.",
+          "terms_url": "https://carrollcountymd.gov/policies-forms/user-terms"
+        },
+        {
+          "url": "https://www.carrollcountymd.gov/media/ks2dvxqc/tax-sale-terms-2026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://carrollcountymd.gov/policies-forms/user-terms"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://ccgprod1.carrollcountymd.gov/government/directory/comptroller/collectionstaxes/",
+          "quote": "Carroll County conducts an online Tax Sale in June of each year with RealAuction.com"
+        },
+        {
+          "url": "https://www.carrollcountymd.gov/media/ks2dvxqc/tax-sale-terms-2026.pdf",
+          "quote": "This is an online public auction."
+        },
+        {
+          "url": "https://www.carrollcountymd.gov/media/ks2dvxqc/tax-sale-terms-2026.pdf",
+          "quote": "Late registrations will not be accepted."
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Washington County Treasurer's Office",
+      "phone": "240-313-2110",
+      "address": "Washington County Office Building, 35 West Washington Street, Suite 102, Hagerstown, MD 21740-4868",
+      "website": "https://washco-md.net/?p=85342",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The sale will be conducted each year on the first Tuesday in June.",
+      "sales": [],
+      "next_sale_note": "2027 notice not yet posted. The 2026 sale was held June 2, 2026 at 9:00am.",
+      "how_to_bid": "In-person auction beginning at 9:00am in the rear of the Washington County Office Building, 35 West Washington Street, Hagerstown. Bidders must pre-register; forms are posted on the county website each April 23rd and registration closes at 3:00pm on the Friday before the sale. The 2026 notice required payment of the opening bid amount by 2:00pm on the day of sale. Redemption interest is 6% a year. A bidder registration fee or deposit is not stated.",
+      "sources": [
+        {
+          "url": "https://washco-md.net/?p=85342",
+          "read_on": "2026-10-27",
+          "terms": "no terms page found. Footer shows '2026 Washington County. All Rights Reserved.' and the page says the County does not warrant the accuracy of the information. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.washco-md.net/wp-content/uploads/Newspaper-2026-AD.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://washco-md.net/?p=85342",
+          "quote": "The sale will be conducted each year on the first Tuesday in June."
+        },
+        {
+          "url": "https://washco-md.net/?p=85342",
+          "quote": "Registration closes at 3:00pm on the Friday prior to tax sale."
+        },
+        {
+          "url": "https://www.washco-md.net/wp-content/uploads/Newspaper-2026-AD.pdf",
+          "quote": "Tuesday, June 2, 2026 beginning at 9:00am"
+        }
+      ]
+    },
+    {
+      "county": "Cecil",
+      "slug": "cecil",
+      "office": "Cecil County Government (tax sale FAQ)",
+      "phone": "410-996-5200",
+      "address": "200 Chesapeake Blvd, Elkton, MD 21921",
+      "website": "https://www.cecilcountymd.gov/m/faq?cat=20",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": "The tax sale is held annually online via the Real Auction website.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county FAQ gives registration and bidding days (May and early June) without a year.",
+      "how_to_bid": "Per the county FAQ: bidding is online through the Real Auction website, linked from the FAQ as the county's official tax certificate auction site. There is a $100 nonrefundable bidder registration fee. The taxes, interest and fees are due by 4 pm on the day of the sale via ACH, plus any bid premium; the balance of the bid is due on foreclosure. The county uses the bid premium method: if a bid exceeds 40% of the property's full cash value, the bidder pays a 20% premium on the excess, returned without interest if the certificate is redeemed or foreclosed within 2 years. Unsold liens may be bought over the counter.",
+      "sources": [
+        {
+          "url": "https://www.cecilcountymd.gov/m/faq?cat=20",
+          "read_on": "2026-10-27",
+          "terms": "No terms-of-use or disclaimer page linked. Copyright Notices page says only 'All content © 2006-2026 Cecil County, MD and its representatives. All rights reserved.' No reuse restriction found.",
+          "terms_url": "https://www.cecilcountymd.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cecilcountymd.gov/m/faq?cat=20",
+          "quote": "The tax sale is held annually online via the Real Auction website."
+        },
+        {
+          "url": "https://www.cecilcountymd.gov/m/faq?cat=20",
+          "quote": "There is a $100 nonrefundable bidder registration fee."
+        }
+      ]
+    },
+    {
+      "county": "Calvert",
+      "slug": "calvert",
+      "office": "Calvert County Treasurer's Office",
+      "phone": "410-535-1600",
+      "address": "150 Main Street, Prince Frederick, MD 20678",
+      "website": "https://calvertcountymd.gov/301/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Calvert County Tax Sale is held annually",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page lists 2026 tax sale results and says the bidder registration form will be posted when available.",
+      "how_to_bid": "The Treasurer's Office holds an annual public auction. Eligible properties are posted on a county GIS map and in local newspapers at least 30 days before the sale; the bidder registration form is posted on the county page when available. A successful bidder whose certificate is redeemed is reimbursed taxes and costs plus 10% annual interest. Format, deposit and registration deadline are not stated.",
+      "sources": [
+        {
+          "url": "https://calvertcountymd.gov/301/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "No terms-of-use or disclaimer page linked. Copyright Notices page says only 'All content © 2006-2026 Calvert County, MD and its representatives. All rights reserved.' No reuse restriction found.",
+          "terms_url": "https://calvertcountymd.gov/site/copyright"
+        },
+        {
+          "url": "https://calvertcountymd.gov/Faq.aspx?TID=15",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://calvertcountymd.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://calvertcountymd.gov/301/Tax-Sale-Information",
+          "quote": "The Calvert County Tax Sale is held annually"
+        },
+        {
+          "url": "https://calvertcountymd.gov/Faq.aspx?TID=15",
+          "quote": "You are reimbursed the taxes and cost you have paid, plus 10% annual interest."
+        }
+      ],
+      "notes": {
+        "phone_note": "The page lists 410-535-1600 and 301-855-1243 without saying which is the Treasurer's Office."
+      }
     }
   ]
 }

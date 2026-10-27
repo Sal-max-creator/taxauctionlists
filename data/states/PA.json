@@ -577,6 +577,96 @@
           "quote": "2027 Upset Sale information is unavailable at this time."
         }
       ]
+    },
+    {
+      "county": "Westmoreland",
+      "slug": "westmoreland",
+      "office": "Westmoreland County Tax Claim Bureau",
+      "phone": "(724) 830-3428",
+      "address": null,
+      "website": "https://www.westmorelandcountypa.gov/166/Tax-Sale-Information",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Each September we hold an annual upset sale for properties owing two years prior taxes.",
+      "sales": [],
+      "next_sale_note": "The 2026 Annual Upset Sale (Monday, September 14, 2026, 10:00 AM, Westmoreland County Courthouse, Greensburg) and the judicial sale listed for October 1, 2026 are past. No 2027 dates are posted yet.",
+      "how_to_bid": "Sales are held in person at the Westmoreland County Courthouse in Greensburg, and you must be present on the day of sale to buy. All prospective bidders must pre-register in person with the Tax Claim Bureau at least 10 days before the sale (Act 33); registrations are not accepted by mail or email and open only after the required advertisement is published. The full amount of the bid is due the day of the sale (by 3:30 pm), plus a $25.00 deed preparation fee per bid. Anyone except the property owners may bid on repository properties, and anyone may put their name in the files within 10 calendar days after each judicial sale for later bid-off sales. Office hours are Monday to Friday, 8:30 AM to 4:00 PM.",
+      "sources": [
+        {
+          "url": "https://www.westmorelandcountypa.gov/166/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright page: 'All content © 2006-2026 Westmoreland County, PA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found.",
+          "terms_url": "https://www.westmorelandcountypa.gov/site/copyright"
+        },
+        {
+          "url": "https://www.westmorelandcountypa.gov/165/Annual-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.westmorelandcountypa.gov/site/copyright"
+        },
+        {
+          "url": "https://www.westmorelandcountypa.gov/169/Judicial-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.westmorelandcountypa.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.westmorelandcountypa.gov/166/Tax-Sale-Information",
+          "quote": "Each September we hold an annual upset sale for properties owing two years prior taxes."
+        },
+        {
+          "url": "https://www.westmorelandcountypa.gov/165/Annual-Tax-Sale",
+          "quote": "All prospective bidders must pre-register as per Act 33 with the Tax Claim Bureau at least 10 days prior to the sale."
+        },
+        {
+          "url": "https://www.westmorelandcountypa.gov/169/Judicial-Sales",
+          "quote": "Registrations will NOT be accepted by mail or email."
+        }
+      ]
+    },
+    {
+      "county": "Cumberland",
+      "slug": "cumberland",
+      "office": "Cumberland County Tax Claim Bureau",
+      "phone": "717.240.6100 (toll free 1.888.697.0371)",
+      "address": "One Courthouse Square, Rm 107, Carlisle, PA 17013",
+      "website": "https://cumberlandcountypa.gov/2282/County-Repository-Sales",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upset or judicial sale date is posted on the county's sale pages (sale terms and conditions are in linked documents that were not read). The county repository list is marked 'Updated September 2026', and repository bids can be submitted in writing.",
+      "how_to_bid": "Repository sales are completed by submitting a bid in writing on the county's bid form, with payment by certified check or money order, to the Tax Claim Bureau, One Courthouse Square, Rm 107, Carlisle, PA 17013. Upset sale terms, judicial sale conditions, bidder registration forms (individual and entity) and a judicial sale Q&A are posted as documents on the county's upset and judicial sale pages; their contents are not summarized here.",
+      "sources": [
+        {
+          "url": "https://cumberlandcountypa.gov/2282/County-Repository-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Cumberland County and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Footer has no disclaimer, privacy or terms link.",
+          "terms_url": "https://cumberlandcountypa.gov/site/copyright"
+        },
+        {
+          "url": "https://cumberlandcountypa.gov/2735/Upset-Real-Estate-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://cumberlandcountypa.gov/site/copyright"
+        },
+        {
+          "url": "https://cumberlandcountypa.gov/2739/Judicial-Real-Estate-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://cumberlandcountypa.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cumberlandcountypa.gov/2282/County-Repository-Sales",
+          "quote": "Repository Sales are completed by submitting a bid in writing."
+        }
+      ]
     }
   ]
 }

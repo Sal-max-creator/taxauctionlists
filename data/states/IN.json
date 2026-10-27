@@ -2,41 +2,36 @@
   "state": "IN",
   "name": "Indiana",
   "sale_type": "hybrid",
-  "overview": "In Indiana, the county auditor and treasurer offer delinquent parcels at an annual tax sale. Buyers bid at least the minimum bid (delinquent taxes, penalties and sale costs), and the parcel is sold subject to the owner's right of redemption; the winning bidder gets a lien certificate and can seek a tax deed if the property isn't redeemed. Sales must be held within 171 days after the delinquent list is certified to the auditor, so most large counties hold them online between late summer and fall, often through vendors such as GovEase or zeusauction.com. The owner generally has one year to redeem, paying 110% of the minimum bid within six months or 115% after that, plus 5% a year on any overbid. Parcels that don't sell pass to the county commissioners, who can later sell the certificates at a separate commissioners' certificate sale, usually held in spring.",
+  "overview": "In Indiana, the county auditor and treasurer offer delinquent parcels at an annual tax sale. Buyers bid at least the minimum bid (delinquent taxes, penalties and sale costs), and the parcel is sold subject to the owner's right of redemption; the winning bidder gets a lien certificate and can seek a tax deed if the property isn't redeemed. Sales must be held within 171 days after the delinquent list is certified to the auditor, so most large counties hold them online between late summer and fall, often through vendors such as GovEase or zeusauction.com. The owner generally has one year to redeem, paying 110% of the delinquent taxes, special assessments, the next tax installment and sale costs within six months or 115% after that, plus 5% a year on any overbid. Parcels that don't sell pass to the county commissioners, who can later sell the certificates at a separate commissioners' certificate sale, usually held in spring.",
   "overview_sources": [
-    {
-      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
-      "quote": "for delinquent taxes and/or special assessments, subject to the right of redemption.",
-      "read_on": "2026-10-27"
-    },
     {
       "url": "https://lakecountyin.gov/departments/treasurer-taxsaleinfo",
       "quote": "Tax Sales must be held no later than 171 days after the list is certified to the Auditor.",
       "read_on": "2026-10-27"
     },
     {
-      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
-      "quote": "One hundred ten percent (110%) of the amount of the minimum bid",
-      "read_on": "2026-10-27"
-    },
-    {
-      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
-      "quote": "One hundred fifteen percent 115% of the amount of the minimum bid",
-      "read_on": "2026-10-27"
-    },
-    {
-      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
-      "quote": "plus five percent (5%) interest per annum on the amount by which the purchase price exceeds",
-      "read_on": "2026-10-27"
-    },
-    {
-      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
-      "quote": "after the Monroe County Commissioners acquired a lien on the property under IC 6-1.1-24-6",
+      "url": "https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General",
+      "quote": "There is a 1 year period following the Tax Sale during which anyone may \"redeem the property\"",
       "read_on": "2026-10-27"
     },
     {
       "url": "https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General",
-      "quote": "There is a 1 year period following the Tax Sale during which anyone may \"redeem the property\"",
+      "quote": "110% of the amount of the delinquent property taxes, delinquent special assessments",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General",
+      "quote": "115% of the amount of the delinquent property taxes, delinquent special assessments",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General",
+      "quote": "5% per annum on the amount that the purchase price exceeds the delinquent property taxes and special assessments",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://lakecountyin.gov/departments/auditor-taxsales/lake-county-commissioners-tax-sale",
+      "quote": "Parcels that did not sell at the Treasurer's tax sale are certified to the Lake County Board of Commissioners",
       "read_on": "2026-10-27"
     }
   ],
@@ -350,6 +345,74 @@
           "read_on": "2026-10-27",
           "terms": "not found",
           "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Madison",
+      "slug": "madison",
+      "office": "Madison County Auditor's Office",
+      "phone": "765-641-9422 (tax sale assistance)",
+      "address": "Madison County Government Center, 16 East 9th Street, Anderson, IN 46016",
+      "website": "https://www.madisoncounty.in.gov/tax-sale",
+      "sale_type": "hybrid",
+      "format": "unknown",
+      "platform": {
+        "name": "SRI Tax Sale (linked from the county page)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2026 or 2027 tax sale date is posted on the county page. The only dated item is a '03-09-2026 Notice of Commissioners' Certificate Sale' (past). The tax sale listing is on SRI's site.",
+      "how_to_bid": "The county's tax sale page links to the SRI Tax Sale listing for properties offered. Registration, deposits, fees and format are not stated on the county page. For tax sale help, call the county's tax sale contact at 765-641-9422.",
+      "sources": [
+        {
+          "url": "https://www.madisoncounty.in.gov/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer page: information is 'for general information purposes only', with no warranties of completeness or accuracy and reliance 'strictly at your own risk'. Footer: '© Copyright 2026 Madison County Government'. No reuse, redistribution or scraping clause found.",
+          "terms_url": "https://www.madisoncounty.in.gov/disclaimer"
+        }
+      ]
+    },
+    {
+      "county": "Hancock",
+      "slug": "hancock",
+      "office": "Hancock County Treasurer (sale conducted by SRI Inc.)",
+      "phone": "317-477-1105 (Tax Sale Information)",
+      "address": null,
+      "website": "https://hancockin.gov/606/Tax-Sale",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction (SRI Inc.)",
+        "url": "https://zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 online tax sale (Friday, September 18, 2026, payment due Tuesday, September 22, 2026) is past. No 2027 date and no tax certificate sale date are posted.",
+      "how_to_bid": "Hancock County holds an annual tax sale and tax certificate sale online at zeusauction.com, conducted by SRI Inc. Create an account, then register for the Hancock County sale specifically (SRI: 800-800-9588). Parcels close in batches. The minimum bid is the total of all delinquencies, the tax sale fee and the current year taxes. Payment is by cash, cashier's check, certified funds or wire transfer; no personal checks. In 2026, payment was due by noon on the Tuesday after the sale.",
+      "sources": [
+        {
+          "url": "https://hancockin.gov/606/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Hancock County, IN and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Footer also links a Privacy Policy (not read); no disclaimer or terms link.",
+          "terms_url": "https://hancockin.gov/copyright"
+        },
+        {
+          "url": "https://hancockin.gov/177/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see above.",
+          "terms_url": "https://hancockin.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hancockin.gov/177/Tax-Sale",
+          "quote": "Hancock County holds an annual tax sale and tax certificate sale to sell liens against properties with delinquent property taxes."
+        },
+        {
+          "url": "https://hancockin.gov/606/Tax-Sale",
+          "quote": "No personal checks will be accepted."
         }
       ]
     }

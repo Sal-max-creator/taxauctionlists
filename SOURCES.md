@@ -139,6 +139,9 @@ State overview: <https://sco.ca.gov/ardtax_public_auction.html>, <https://sco.ca
 | San Francisco | <https://www.sftreasurer.org/file/2026-public-and-sealed-bid-auction-publication/download> | 2026-10-27 | Same site; Disclaimer page has no reuse restriction; 'Copyright ©2026 All rights reserved.' in page metadata. ([terms](https://sftreasurer.org/disclaimer)) |
 | San Joaquin | <https://www.sanjoaquin.gov/department/ttc/tax/redemption/public-auction> | 2026-10-27 | The county's Terms and Conditions page has no copying, reuse or redistribution language; footer reads '© Copyright 2026 San Joaquin County'. ([terms](https://www.sanjoaquin.gov/terms-and-conditions)) |
 | San Mateo | <https://smcgov.org/media/154158/download?inline=> | 2026-10-27 | County of San Mateo Endorsement Disclaimers page: information on the site 'is considered in the public domain' and 'may be distributed or copied as permitted by law'; some copyrighted material such as photographs may need permission. Footer: 'Copyright © 2026 County of San Mateo. All rights reserved.' ([terms](https://www.smcgov.org/endorsement-disclaimers)) |
+| Solano | <https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk/tax-collector/tax-sale-general-information> | 2026-10-27 | County Disclaimer page covers liability, accuracy, endorsement and external links; it says nothing on copying, reuse or redistribution of site content. Footer: '© 2026 Solano County, California'. ([terms](https://www.solanocounty.gov/disclaimer)) |
+| Sonoma | <https://sonomacounty.gov/acttc/tax-defaulted-property-auctions> | 2026-10-27 | Terms of Use (Ownership): information on the site 'is considered in the public domain' and 'may be distributed or copied as permitted by law'; some copyrighted data such as photographs may need permission. Footer: '©2022 County of Sonoma. All rights reserved.' ([terms](https://sonomacounty.gov/terms-of-use)) |
+| Sonoma | <https://sonomacounty.gov/administrative-support-and-fiscal-services/auditor-controller-treasurer-tax-collector/divisions/revenue-accounting/tax-defaulted-property-auctions/tax-defaulted-property-auctions-faqs> | 2026-10-27 | Same site and Terms of Use. ([terms](https://sonomacounty.gov/terms-of-use)) |
 
 ## Colorado
 
@@ -383,7 +386,7 @@ State overview: <https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-21
 
 ## Indiana
 
-State overview: <https://www.in.gov/counties/monroe/government/auditor/tax-sale>, <https://lakecountyin.gov/departments/treasurer-taxsaleinfo>, <https://www.in.gov/counties/monroe/government/auditor/tax-sale>, <https://www.in.gov/counties/monroe/government/auditor/tax-sale>, <https://www.in.gov/counties/monroe/government/auditor/tax-sale>, <https://www.in.gov/counties/monroe/government/auditor/tax-sale>, <https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General>
+State overview: <https://lakecountyin.gov/departments/treasurer-taxsaleinfo>, <https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General>, <https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General>, <https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General>, <https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General>, <https://lakecountyin.gov/departments/auditor-taxsales/lake-county-commissioners-tax-sale>
 
 | County | Source page | Read on | Reuse terms |
 |---|---|---|---|
@@ -409,6 +412,9 @@ State overview: <https://www.in.gov/counties/monroe/government/auditor/tax-sale>
 | Hendricks | <https://www.co.hendricks.in.us/department/division.php?structureid=191> | 2026-10-27 | not found (no Terms, Disclaimer, Privacy or Copyright link in the fetched content, and a web search found no terms page for the site) |
 | Hendricks | <https://www.co.hendricks.in.us/department/index.php?structureid=25> | 2026-10-27 | not found |
 | Hendricks | <https://www.co.hendricks.in.us/department/index.php?structureid=22> | 2026-10-27 | not found |
+| Madison | <https://www.madisoncounty.in.gov/tax-sale> | 2026-10-27 | Disclaimer page: information is 'for general information purposes only', with no warranties of completeness or accuracy and reliance 'strictly at your own risk'. Footer: '© Copyright 2026 Madison County Government'. No reuse, redistribution or scraping clause found. ([terms](https://www.madisoncounty.in.gov/disclaimer)) |
+| Hancock | <https://hancockin.gov/606/Tax-Sale> | 2026-10-27 | Copyright Notices page: 'All content © 2006-2026 Hancock County, IN and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Footer also links a Privacy Policy (not read); no disclaimer or terms link. ([terms](https://hancockin.gov/copyright)) |
+| Hancock | <https://hancockin.gov/177/Tax-Sale> | 2026-10-27 | Same site; see above. ([terms](https://hancockin.gov/copyright)) |
 
 ## Iowa
 
@@ -752,6 +758,9 @@ State overview: <https://www.ncleg.gov/enactedlegislation/statutes/html/bysectio
 | Johnston | <https://www.johnstonnc.com/tax2/tcontent.cfm?pid=auctions> | 2026-10-27 | No reuse restriction found. Website Disclaimer: 'Any information published on this website is a matter of public record'. Footer: '© 2015-2026 Johnston County Tax Administration Office'. ([terms](https://www.johnstonnc.com/tax2/tcontent.cfm?pid=disclaim)) |
 | Pitt | <https://www.pittcountync.gov/1163/Delinquent-Accounts-Foreclosure-Auctions> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Pitt County, NC and its representatives. All rights reserved.' ([terms](https://www.pittcountync.gov/site/copyright)) |
 | Pitt | <https://www.pittcountync.gov/1165/Tax-Auction-Listings> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Pitt County, NC and its representatives. All rights reserved.' ([terms](https://www.pittcountync.gov/site/copyright)) |
+| New Hanover | <https://www.nhcgov.com/345/Foreclosures> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 New Hanover County, NC and its representatives. All rights reserved.' ([terms](https://www.nhcgov.com/copyright)) |
+| Brunswick | <https://brunswickcountync.gov/493> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Brunswick County, NC and its representatives. All rights reserved.' ([terms](https://brunswickcountync.gov/copyright)) |
+| Catawba | <https://catawbacountync.gov/county-services/tax/online-search/search-foreclosure-sales> | 2026-10-27 | Disclaimer page reserves rights ('Copyright 2020. Catawba County Government. All Rights Reserved.' and 'Any rights not expressly granted herein are reserved.'); its posting rules apply to forum use. No ban on reuse or redistribution of the information found. ([terms](https://catawbacountync.gov/disclaimer/)) |
 
 ## North Dakota
 
@@ -851,6 +860,8 @@ State overview: <https://www.oregonlegislature.gov/bills_laws/ors/ors312.html>, 
 | Marion | <https://www.co.marion.or.us/FIN/pages/propertyinfo.aspx> | 2026-10-27 | Disclaimer & Privacy Statement has only '2026 Marion County. All Rights Reserved' and says the authors' views 'shall not be used for advertising or product endorsement purposes.' No restriction on copying or reusing site content found. ([terms](https://www.co.marion.or.us/Pages/disclaimer.aspx)) |
 | Marion | <https://www.co.marion.or.us/FIN/Documents/November%2017%2c%202026%20Public%20Auction%20Rules.pdf> | 2026-10-27 | Same site; no reuse restriction found. ([terms](https://www.co.marion.or.us/Pages/disclaimer.aspx)) |
 | Yamhill | <https://www.yamhillcounty.gov/637/Tax-Foreclosed-Property> | 2026-10-27 | Copyright Notices page reads 'All content © 2006-2026 Yamhill County, OR and its representatives. All rights reserved.' No other statement on copying, reuse or redistribution found; no separate terms or legal link in the footer. ([terms](https://www.yamhillcounty.gov/copyright)) |
+| Josephine | <https://www.josephinecounty.gov/departments/property_management/index.php> | 2026-10-27 | No terms page found: the footer has no terms, disclaimer, legal or privacy link; it shows only the text 'Copyright © 2026 Josephine County, OR'. |
+| Josephine | <https://www.josephinecounty.gov/departments/property_management/auction_of_county_properties/financing_and_terms_of_sale.php> | 2026-10-27 | Same site; no terms page found. |
 
 ## Pennsylvania
 
@@ -891,6 +902,12 @@ State overview: <https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PD
 | Dauphin | <https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/repository-sale/necessary-forms> | 2026-10-27 | Same site; see above. ([terms](https://www.dauphincounty.gov/website-policies)) |
 | Dauphin | <https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/judicial-sale> | 2026-10-27 | Same site; see above. ([terms](https://www.dauphincounty.gov/website-policies)) |
 | Dauphin | <https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/upset-sale> | 2026-10-27 | Same site; see above. ([terms](https://www.dauphincounty.gov/website-policies)) |
+| Westmoreland | <https://www.westmorelandcountypa.gov/166/Tax-Sale-Information> | 2026-10-27 | Copyright page: 'All content © 2006-2026 Westmoreland County, PA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. ([terms](https://www.westmorelandcountypa.gov/site/copyright)) |
+| Westmoreland | <https://www.westmorelandcountypa.gov/165/Annual-Tax-Sale> | 2026-10-27 | Same site; see above. ([terms](https://www.westmorelandcountypa.gov/site/copyright)) |
+| Westmoreland | <https://www.westmorelandcountypa.gov/169/Judicial-Sales> | 2026-10-27 | Same site; see above. ([terms](https://www.westmorelandcountypa.gov/site/copyright)) |
+| Cumberland | <https://cumberlandcountypa.gov/2282/County-Repository-Sales> | 2026-10-27 | Copyright Notices page: 'All content © 2006-2026 Cumberland County and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Footer has no disclaimer, privacy or terms link. ([terms](https://cumberlandcountypa.gov/site/copyright)) |
+| Cumberland | <https://cumberlandcountypa.gov/2735/Upset-Real-Estate-Tax-Sale> | 2026-10-27 | Same site; see above. ([terms](https://cumberlandcountypa.gov/site/copyright)) |
+| Cumberland | <https://cumberlandcountypa.gov/2739/Judicial-Real-Estate-Tax-Sale> | 2026-10-27 | Same site; see above. ([terms](https://cumberlandcountypa.gov/site/copyright)) |
 
 ## Rhode Island
 
@@ -961,6 +978,8 @@ State overview: <https://www.ctas.tennessee.edu/eli/delinquent-tax-suit>, <https
 | Wilson | <https://wilcoclerkandmaster.com/court-sales/> | 2026-10-27 | No terms of use or disclaimer page; footer links a Privacy Policy that covers only personal data, plus Rules of Conduct, and shows '(c) Wilson County Clerk & Master. All Rights Reserved.' (copyright-only footer). No reuse restriction stated. ([terms](https://wilcoclerkandmaster.com/privacy-policy/)) |
 | Wilson | <https://wilcoclerkandmaster.com/> | 2026-10-27 | same as above ([terms](https://wilcoclerkandmaster.com/privacy-policy/)) |
 | Sevier | <https://www.seviercountytn.gov/government/county_officials/clerk___master.php> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer; only an unlinked '(c) Copyright 2026 Sevier County' line. No reuse restriction stated. |
+| Maury | <https://www.maurycounty-tn.gov/210/Clerk-Master> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Maury County, TN and its representatives. All rights reserved.' ([terms](https://www.maurycounty-tn.gov/site/copyright)) |
+| Maury | <https://maurycounty-tn.gov/Calendar.aspx?EID=2329> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Maury County, TN and its representatives. All rights reserved.' ([terms](https://www.maurycounty-tn.gov/site/copyright)) |
 
 ## Texas
 

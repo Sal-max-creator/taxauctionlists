@@ -332,6 +332,46 @@
           "quote": "no set time of year when auctions occur"
         }
       ]
+    },
+    {
+      "county": "Josephine",
+      "slug": "josephine",
+      "office": "Josephine County Property Management",
+      "phone": "(541) 474-5220",
+      "address": "500 NW 6th Street, Dept. 13, Grants Pass, OR 97526",
+      "website": "https://www.josephinecounty.gov/departments/property_management/index.php",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2026 or 2027 auction date posted; the most recent auction listed is September 17, 2025.",
+      "how_to_bid": "Surplus (tax-foreclosed) lands are sold at a public sealed-bid auction to the highest and best bidder at or above the minimum bid, under ORS 275.110 and by order of the Board of Commissioners; Sheriff's auction notices run in the newspaper for four consecutive weeks beforehand. For properties under $20,000, payment is cash or cash equivalents with a 20% deposit of the bid offer; for $20,000 or more, 20% cash down at the sale with the balance on a Land Sale Contract of 3 to 5 years in equal monthly installments (9% per annum administration fee). Registration steps not stated. Sign up for sale notices through the county's Citizen Request Center.",
+      "sources": [
+        {
+          "url": "https://www.josephinecounty.gov/departments/property_management/index.php",
+          "read_on": "2026-10-27",
+          "terms": "No terms page found: the footer has no terms, disclaimer, legal or privacy link; it shows only the text 'Copyright © 2026 Josephine County, OR'."
+        },
+        {
+          "url": "https://www.josephinecounty.gov/departments/property_management/auction_of_county_properties/financing_and_terms_of_sale.php",
+          "read_on": "2026-10-27",
+          "terms": "Same site; no terms page found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.josephinecounty.gov/departments/property_management/index.php",
+          "quote": "Auctions are held in accordance with ORS 275.110 and by Order of the Josephine County Board of Commissioners."
+        },
+        {
+          "url": "https://www.josephinecounty.gov/departments/property_management/auction_of_county_properties/financing_and_terms_of_sale.php",
+          "quote": "cash or cash equivalents only, with a required deposit of 20% of the bid offer."
+        }
+      ],
+      "notes": {
+        "format_note": "The county describes a public, sealed bid auction but does not say whether bids are delivered in person or by mail, so format is 'unknown'."
+      }
     }
   ]
 }

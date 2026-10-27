@@ -1,0 +1,101 @@
+{
+  "state": "DC",
+  "name": "District of Columbia",
+  "sale_type": "lien",
+  "overview": "In the District of Columbia there are no county sales: the Office of Tax and Revenue (OTR) holds one Annual Tax Lien Sale for real property with delinquent taxes, and the buyer gets a tax lien (certificate of sale), not the property. The 2026 sale was held in person at OTR's office on August 19 and 20, 2026, with a minimum deposit of 20 percent of the purchase price and the balance due within five business days. Liens not sold to bidders are bid off to the District and can then be bought over the counter online on weekdays. The lien earns interest of 1.5 percent per month on the sale amount; the owner can redeem until a court issues a final order in a foreclosure case, which the buyer may start six months after the last day of the sale if the taxes remain unpaid.",
+  "overview_sources": [
+    {
+      "url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf",
+      "quote": "August 19th and 20th, 2026",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf",
+      "quote": "within five (5) business days after the last day of the Tax Sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf",
+      "quote": "1.5% per month or portion thereof on the sale amount, exclusive of surplus",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf",
+      "quote": "beginning six (6) months after the last day of the sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf",
+      "quote": "at any time prior to the issuance of a final order",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://otr.cfo.dc.gov/page/real-property-tax-sale",
+      "quote": "Such tax liens can now be purchased for the amount for which the real property was bid-off to the District",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://otr.cfo.dc.gov/page/real-property-tax-sale",
+      "quote": "OTC tax liens may be purchased online Monday through Friday (excluding holidays), from 8 am to 3 pm.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "District of Columbia",
+      "slug": "district-of-columbia",
+      "office": "Office of Tax and Revenue (OTR), Office of the Chief Financial Officer",
+      "phone": "(202) 727-4TAX (4829)",
+      "address": "1101 4th Street, SW, Suite 270 West, Washington, DC 20024",
+      "website": "https://otr.cfo.dc.gov/page/real-property-tax-lien-sale",
+      "sale_type": "lien",
+      "format": "both",
+      "platform": null,
+      "schedule_rule": "OTC tax liens may be purchased online Monday through Friday (excluding holidays), from 8 am to 3 pm.",
+      "sales": [],
+      "next_sale_note": "2027 Annual Tax Lien Sale date not yet posted. The 2026 annual sale (August 19-20, 2026, in person at 1101 4th St SW) is over. Liens bid off to the District can be bought over the counter online on weekdays, with block-out periods around the annual sale.",
+      "how_to_bid": "Annual sale (2026 rules): register at MyTax.DC.gov, bring a minimum deposit of 20% of your total purchase budget, bid in person with your number card, and pay the balance within five business days after the last day of the sale. Over the counter: buy liens bid off to the District online Monday through Friday, 8 am to 3 pm, and pay in full the same day at OTR's Cashier's Office or by wire. OTR posts a buyer's book, FAQ and sale list on its tax lien sale page.",
+      "sources": [
+        {
+          "url": "https://otr.cfo.dc.gov/page/real-property-tax-lien-sale",
+          "read_on": "2026-10-27",
+          "terms": "District website Terms and Conditions: 'content on this site is licensed under a Creative Commons Attribution 3.0 License' (District-produced material is not public domain, but is CC BY licensed). Reuse allowed with attribution.",
+          "terms_url": "https://dc.gov/page/terms-and-conditions-use"
+        },
+        {
+          "url": "https://otr.cfo.dc.gov/page/real-property-tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://dc.gov/page/terms-and-conditions-use"
+        },
+        {
+          "url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above (OTR document linked from the tax lien sale page)",
+          "terms_url": "https://dc.gov/page/terms-and-conditions-use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf",
+          "quote": "August 19th and 20th, 2026"
+        },
+        {
+          "url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf",
+          "quote": "Begins August 3rd, 2026, through August 20th, 2026, or until all properties advertised for that day are sold."
+        },
+        {
+          "url": "https://otr.cfo.dc.gov/page/real-property-tax-sale",
+          "quote": "Payment in full of the bid-off lien amount is due on the same day of the OTC tax lien purchase."
+        },
+        {
+          "url": "https://otr.cfo.dc.gov/page/real-property-tax-sale",
+          "quote": "Payment may be made at OTR's Cashier's Office or via electronic wire."
+        }
+      ],
+      "notes": {
+        "format_note": "'both': the 2026 annual sale was in person at OTR (bidders get a number card); over-the-counter liens are bought online."
+      }
+    }
+  ]
+}

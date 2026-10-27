@@ -1,0 +1,266 @@
+{
+  "state": "CA",
+  "name": "California",
+  "sale_type": "deed",
+  "overview": "In California the county tax collector sells the tax-defaulted property itself, not a lien, and a public auction to the highest bidder is the most common way. The tax collector gains the power to sell once property has been tax-defaulted for five years, or three years for nonresidential commercial property. The owner can still redeem by paying the defaulted taxes until the close of business on the last business day before the sale begins. If the property sells, the former owner has the right to claim any excess proceeds.",
+  "overview_sources": [
+    {
+      "url": "https://sco.ca.gov/ardtax_public_auction.html",
+      "quote": "Public auctions, the most common way of selling tax-defaulted property, are conducted by the county tax collector.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://sco.ca.gov/ardtax_public_auction.html",
+      "quote": "The auction is conducted by the county tax collector, and the property is sold to the highest bidder.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=3691",
+      "quote": "Five years or more, or three years or more in the case of nonresidential commercial property",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.sco.ca.gov/Files-ARD-Tax-Info/Tax-Collector-Ref-Man/sco8-05-4.pdf",
+      "quote": "YOUR RIGHT OF REDEMPTION WILL TERMINATE AT THE CLOSE OF BUSINESS ON THE LAST BUSINESS DAY PRIOR TO THE COMMENCEMENT DATE OF THE TAX SALE.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.sco.ca.gov/Files-ARD-Tax-Info/Tax-Collector-Ref-Man/sco8-05-4.pdf",
+      "quote": "If it is sold, you have the right to claim excess proceeds",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Los Angeles",
+      "slug": "los-angeles",
+      "office": "Los Angeles County Treasurer and Tax Collector",
+      "phone": null,
+      "address": null,
+      "website": "https://ttc.lacounty.gov/schedule-of-upcoming-auctions/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-05",
+          "end_date": "2026-12-08",
+          "time": "Starts 3:00 P.M. Pacific Time Saturday; ends 12:00 P.M. Pacific Time Tuesday, December 8",
+          "label": "Follow-Up Online Auction (2026B)",
+          "deposit": "Amount not stated on the schedule page; open an auction trust account or deposit funds with GovEase by Tuesday, December 1, 2026, 1:00 P.M. Pacific Time",
+          "registration_deadline": "Last day to register: Tuesday, December 1, 2026, 1:00 P.M. Pacific Time (registration opens Friday, November 6, 2026)",
+          "register_by": "2026-12-01",
+          "note": "Last day for owners to redeem: Friday, December 4, 2026, 5:00 P.M. PT. Final day to pay off purchased properties: Friday, December 11, 2026, 1:00 P.M. PT.",
+          "source_url": "https://ttc.lacounty.gov/schedule-of-upcoming-auctions/",
+          "quote": "Saturday, December 05, 2026 at 3:00 P.M. Pacific Time"
+        },
+        {
+          "date": "2026-12-16",
+          "end_date": "2026-12-17",
+          "time": "not stated",
+          "label": "2026C Online Sealed Bid Auction (unusable parcels, eligible bidders only)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated; the county mails a Bidder's Packet to eligible bidders",
+          "note": "164 'unusable' parcels (small lots, narrow strips, landlocked) offered under R&TC 3692(c) to owners of contiguous parcels; minimum price $250; the winner must combine the parcel with their own parcel. Conducted online by GovEase. Source is the Treasurer and Tax Collector's September 1, 2026 letter to the Board of Supervisors.",
+          "source_url": "https://file.lacounty.gov/SDSInter/bos/supdocs/220237.pdf",
+          "quote": "beginning Wednesday, December 16, 2026, and ending Thursday, December 17, 2026"
+        }
+      ],
+      "next_sale_note": "The October 2026B online auction (October 17-20, 2026) is past; its follow-up auction and the 2026C sealed bid auction are listed above.",
+      "how_to_bid": "Register with GovEase, which handles bidder registration and accepts all deposits for the county's online auctions. You must register to bid. The minimum bid is the amount needed to pay off taxes, fees and costs. Title passes when the Registrar-Recorder records the Tax Deed to the purchaser, about 60 to 70 days after the auction. For the 2026A auction the county required a deposit of $5,000 or 10 percent of the bidder's spend limit, whichever is greater; the deposit for the December follow-up auction is not stated on the schedule page.",
+      "sources": [
+        {
+          "url": "https://ttc.lacounty.gov/schedule-of-upcoming-auctions/",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use say the content is protected by copyright, the County 'expressly reserve[s] all rights' and access confers no license; they also bar robots or spiders other than normal browsers. No explicit ban on reuse, redistribution or commercial use. We record dates and link to the county; nothing is copied beyond short quotes.",
+          "terms_url": "https://ttc.lacounty.gov/terms-of-use/"
+        },
+        {
+          "url": "https://ttc.lacounty.gov/auction-frequently-asked-questions/",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use say the content is protected by copyright, the County 'expressly reserve[s] all rights' and access confers no license; they also bar robots or spiders other than normal browsers. No explicit ban on reuse, redistribution or commercial use. We record dates and link to the county; nothing is copied beyond short quotes.",
+          "terms_url": "https://ttc.lacounty.gov/terms-of-use/"
+        },
+        {
+          "url": "https://ttc.lacounty.gov/wp-content/uploads/2026/03/2026A-Terms-and-Conditions.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use say the content is protected by copyright, the County 'expressly reserve[s] all rights' and access confers no license; they also bar robots or spiders other than normal browsers. No explicit ban on reuse, redistribution or commercial use. We record dates and link to the county; nothing is copied beyond short quotes.",
+          "terms_url": "https://ttc.lacounty.gov/terms-of-use/"
+        },
+        {
+          "url": "https://file.lacounty.gov/SDSInter/bos/supdocs/220237.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Board of Supervisors public document; no reuse terms found in the document.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://ttc.lacounty.gov/schedule-of-upcoming-auctions/",
+          "quote": "Interested bidders will need to register with GovEase, which will handle bidder registration and accept all deposits."
+        },
+        {
+          "url": "https://ttc.lacounty.gov/auction-frequently-asked-questions/",
+          "quote": "The minimum bid is the amount necessary to pay off taxes, fees and costs."
+        },
+        {
+          "url": "https://ttc.lacounty.gov/wp-content/uploads/2026/03/2026A-Terms-and-Conditions.pdf",
+          "quote": "A bid deposit of $5000, or 10 percent of the spend limit that you set, whichever is greater, is required to bid."
+        },
+        {
+          "url": "https://file.lacounty.gov/SDSInter/bos/supdocs/220237.pdf",
+          "quote": "Contract vendor, GovEase, will conduct the online sealed bid auction."
+        }
+      ],
+      "notes": {
+        "terms_note": "The Terms of Use for the separate Chapter 8 Web Portal (an agency-only portal) restrict sharing of that portal's data; no data from that portal is used here. The public site's own Terms of Use page could not be read."
+      }
+    },
+    {
+      "county": "San Diego",
+      "slug": "san-diego",
+      "office": "San Diego County Treasurer-Tax Collector",
+      "phone": "1-877-829-4732",
+      "address": "San Diego County Admin. Center, 1600 Pacific Hwy, Room 162, San Diego, CA 92101",
+      "website": "https://www.sdttc.com/content/ttc/en/tax-collection/property-tax-sales.html",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Grant Street Group",
+        "url": "https://sdttc.mytaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted: 'Tax Sale Auction Closed, next auction To Be Announced 2027.' The 2026 auction ran March 13-18, 2026 (past).",
+      "how_to_bid": "2026 terms: register as a bidder and pay a $1,000.00 advance bid deposit plus a non-refundable $35.00 processing fee before the deadline. The auction is conducted online by Grant Street Group at sdttc.mytaxsale.com. The highest bidder pays in full within five business days of the close of the auction by wire transfer or bank-issued cashier's check. Title passes when a Tax Deed is recorded.",
+      "sources": [
+        {
+          "url": "https://www.sdttc.com/content/ttc/en/tax-collection/property-tax-sales.html",
+          "read_on": "2026-10-27",
+          "terms": "No reuse or copying restriction found; the Online Security page links only to the County's security and privacy policies.",
+          "terms_url": "https://www.sdttc.com/content/ttc/en/about-us/online-security.html"
+        },
+        {
+          "url": "https://www.sdttc.com/content/ttc/en/tax-collection/property-tax-sales/terms-conditions.html",
+          "read_on": "2026-10-27",
+          "terms": "Property information is provided 'for general reference only' and should be verified; no reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.sdttc.com/content/ttc/en/about-us/news/2026-county-treasurer-highlights-interesting-properties-as-auction-bidder-registration-closes-thursday.html",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sdttc.com/content/ttc/en/tax-collection/property-tax-sales/terms-conditions.html",
+          "quote": "A $1,000.00 advance bid deposit and a non-refundable $35.00 bid deposit processing fee"
+        },
+        {
+          "url": "https://www.sdttc.com/content/ttc/en/tax-collection/property-tax-sales/terms-conditions.html",
+          "quote": "The highest bidder for each property shall pay in full within five (5) business days from the close of the auction."
+        },
+        {
+          "url": "https://www.sdttc.com/content/ttc/en/tax-collection/property-tax-sales/terms-conditions.html",
+          "quote": "Title to the property does not pass to the purchaser until a Tax Deed is recorded."
+        }
+      ]
+    },
+    {
+      "county": "Orange",
+      "slug": "orange",
+      "office": "Orange County Treasurer-Tax Collector",
+      "phone": "(714) 834-3411",
+      "address": "601 N. Ross Street, Santa Ana (County Service Center); mail: P.O. Box 1438, Santa Ana, CA 92702-1438",
+      "website": "https://octreasurer.gov/taxauction",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/Orange"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date is posted. The auction page says: 'The most recent Orange County Tax-Defaulted property tax auction was on June 25, 2025.'",
+      "how_to_bid": "Bidders must be 18 or older, register for the sale and submit a bid deposit before bidding on the internet auction (amount not stated on the page). Registration is needed to bid but not to view parcel information. The highest bidder pays in full within five business days of the close of the auction, in cash at the Treasurer-Tax Collector's office or by cashier's check mailed to the P.O. box. Questions: TaxAuction@octreasurer.gov.",
+      "sources": [
+        {
+          "url": "https://octreasurer.gov/taxauction",
+          "read_on": "2026-10-27",
+          "terms": "TTC disclaimer gives no accuracy warranty and has no copyright, reuse or redistribution restriction; it says only that trade-name references may not be used for advertising or endorsement.",
+          "terms_url": "https://octreasurer.gov/info-contact-us/disclaimer"
+        },
+        {
+          "url": "https://octreasurer.gov/PublicNotices",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://octreasurer.gov/info-contact-us/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://octreasurer.gov/taxauction",
+          "quote": "All bidders must register for the sale and submit a deposit in order to participate in this tax sale."
+        },
+        {
+          "url": "https://octreasurer.gov/taxauction",
+          "quote": "The highest bidder for each property shall pay in full within five (5) business days from the close of the auction."
+        }
+      ]
+    },
+    {
+      "county": "Riverside",
+      "slug": "riverside",
+      "office": "Riverside County Treasurer-Tax Collector",
+      "phone": "(951) 955-3900",
+      "address": "P.O. Box 12005, Riverside, CA 92502-2205",
+      "website": "https://countytreasurer.org/tax-collector/tax-sale-information",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 annual sale ran Thursday, April 23 to Tuesday, April 28, 2026, on Bid4Assets (past).",
+      "how_to_bid": "Tax-defaulted real property is sold at online public auctions; the county has no tax lien certificates or over-the-counter sales. The county's 2024 announcement required a single refundable $2,500 deposit plus a $35 processing fee by wire transfer, certified check or cashier's check before the sale; current deposit terms were not found on the county pages read.",
+      "sources": [
+        {
+          "url": "https://countytreasurer.org/tax-collector/tax-sale-information",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms or disclaimer page found; footer reads '©2026 Office of the Treasurer-Tax Collector, Riverside County, California. All rights reserved.'",
+          "terms_url": null
+        },
+        {
+          "url": "https://rivco.gov/node/6751",
+          "read_on": "2026-10-27",
+          "terms": "County news release; footer copyright notice only, no reuse terms found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://countytreasurer.org/node/826",
+          "read_on": "2026-10-27",
+          "terms": "same as the tax sale information page",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://countytreasurer.org/tax-collector/tax-sale-information",
+          "quote": "there are no tax lien certificates or over the counter sales."
+        },
+        {
+          "url": "https://rivco.gov/node/6751",
+          "quote": "Thursday, April 23, 2026"
+        }
+      ]
+    }
+  ]
+}

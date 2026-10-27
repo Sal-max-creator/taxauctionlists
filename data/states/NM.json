@@ -1,0 +1,301 @@
+{
+  "state": "NM",
+  "name": "New Mexico",
+  "sale_type": "deed",
+  "overview": "In New Mexico the state, not the county, sells real property for delinquent property taxes: the Taxation and Revenue Department's Property Tax Division (PTD) holds public auctions county by county. There is no set schedule, and the PTD does not hold a sale in every one of the 33 counties each year. Bidding is oral and in person, starting from a minimum bid equal to the taxes, penalty, interest and costs due, and the state issues a tax deed equivalent to a quitclaim deed. New Mexico has no right of redemption for former owners after the sale, but a former owner has two years to challenge the sale in court; all sales are final.",
+  "overview_sources": [
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "quote": "There is not a set schedule for public auction sales.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "quote": "PTD does not hold sales in all 33 counties each year.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "quote": "The minimum bid is based on the total of taxes, penalty, interest and costs due.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "quote": "The state issues a tax deed equivalent to a quitclaim deed.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "quote": "The State of New Mexico does not have a Right of Redemption for former owners.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "quote": "has the right to challenge the sale through court under Section 7-38-70 NMSA 1978.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "quote": "There are no refunds, and all sales are final.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Bernalillo",
+      "slug": "bernalillo",
+      "office": "New Mexico Taxation and Revenue Department, Property Tax Division (Delinquent Bureau) (state agency; runs the sale for the county)",
+      "phone": "(505) 827-0883",
+      "address": "not stated",
+      "website": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming Bernalillo County sale posted. As of 2026-10-27 the Property Tax Division's auction schedule lists only San Miguel County (Nov 19, 2026); the Division says there is no set schedule and it does not hold sales in every county each year.",
+      "how_to_bid": "Register at the auction on sale day (registration opens at 8 a.m. and closes at 10 a.m. when the auction starts). Bidding is oral; bidders must be present or represented by an agent. The minimum bid is the total of taxes, penalty, interest and costs due. Payment by cashier's check, money order, or personal or company check only with a letter of guarantee. The state issues a tax deed equivalent to a quitclaim deed; sales are final with no refunds.",
+      "sources": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "read_on": "2026-10-27",
+          "terms": "No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final).",
+          "terms_url": "https://www.tax.newmexico.gov/about-us/site-policies-accessibility/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "There is not a set schedule for public auction sales."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "PTD does not hold sales in all 33 counties each year."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The registration at the auction begins at 8 a.m. and will close immediately at 10 a.m. when the auction starts."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Bidding is on an oral basis, and bidders must be physically present or be represented by an agent."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The minimum bid is based on the total of taxes, penalty, interest and costs due."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Personal or company checks are unacceptable without the letter of guarantee."
+        }
+      ]
+    },
+    {
+      "county": "Doña Ana",
+      "slug": "dona-ana",
+      "office": "New Mexico Taxation and Revenue Department, Property Tax Division (Delinquent Bureau) (state agency; runs the sale for the county)",
+      "phone": "(505) 827-0883",
+      "address": "not stated",
+      "website": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming Doña Ana County sale posted. As of 2026-10-27 the Property Tax Division's auction schedule lists only San Miguel County (Nov 19, 2026); the Division says there is no set schedule and it does not hold sales in every county each year.",
+      "how_to_bid": "Register at the auction on sale day (registration opens at 8 a.m. and closes at 10 a.m. when the auction starts). Bidding is oral; bidders must be present or represented by an agent. The minimum bid is the total of taxes, penalty, interest and costs due. Payment by cashier's check, money order, or personal or company check only with a letter of guarantee. The state issues a tax deed equivalent to a quitclaim deed; sales are final with no refunds.",
+      "sources": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "read_on": "2026-10-27",
+          "terms": "No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final).",
+          "terms_url": "https://www.tax.newmexico.gov/about-us/site-policies-accessibility/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "There is not a set schedule for public auction sales."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "PTD does not hold sales in all 33 counties each year."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The registration at the auction begins at 8 a.m. and will close immediately at 10 a.m. when the auction starts."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Bidding is on an oral basis, and bidders must be physically present or be represented by an agent."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The minimum bid is based on the total of taxes, penalty, interest and costs due."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Personal or company checks are unacceptable without the letter of guarantee."
+        }
+      ]
+    },
+    {
+      "county": "San Miguel",
+      "slug": "san-miguel",
+      "office": "New Mexico Taxation and Revenue Department, Property Tax Division (Delinquent Bureau) (state agency; runs the sale for the county)",
+      "phone": "(505) 827-0883",
+      "address": "not stated",
+      "website": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-19",
+          "time": "10:00 AM",
+          "label": "Delinquent property tax auction (Property Tax Division)",
+          "deposit": "Not stated; full payment by cashier's check, money order, or personal or company check with a letter of guarantee",
+          "registration_deadline": "Register at the auction on sale day; registration opens at 8 a.m. and closes at 10 a.m. when the auction starts",
+          "list_url": "https://www.tax.newmexico.gov/businesses/wp-content/uploads/sites/4/2026/10/AuctionAdvertisement-San-Miguel-11.19.26-1.pdf",
+          "list_note": "The Division's auction advertisement for this sale (PDF)",
+          "source_url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "San Miguel County 11/19/2026 @ 10:00AM"
+        }
+      ],
+      "how_to_bid": "Register at the auction on sale day (registration opens at 8 a.m. and closes at 10 a.m. when the auction starts). Bidding is oral; bidders must be present or represented by an agent. The minimum bid is the total of taxes, penalty, interest and costs due. Payment by cashier's check, money order, or personal or company check only with a letter of guarantee. The state issues a tax deed equivalent to a quitclaim deed; sales are final with no refunds.",
+      "sources": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "read_on": "2026-10-27",
+          "terms": "No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final).",
+          "terms_url": "https://www.tax.newmexico.gov/about-us/site-policies-accessibility/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "There is not a set schedule for public auction sales."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "PTD does not hold sales in all 33 counties each year."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The registration at the auction begins at 8 a.m. and will close immediately at 10 a.m. when the auction starts."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Bidding is on an oral basis, and bidders must be physically present or be represented by an agent."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The minimum bid is based on the total of taxes, penalty, interest and costs due."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Personal or company checks are unacceptable without the letter of guarantee."
+        }
+      ]
+    },
+    {
+      "county": "Sandoval",
+      "slug": "sandoval",
+      "office": "New Mexico Taxation and Revenue Department, Property Tax Division (Delinquent Bureau) (state agency; runs the sale for the county)",
+      "phone": "(505) 827-0883",
+      "address": "not stated",
+      "website": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming Sandoval County sale posted. As of 2026-10-27 the Property Tax Division's auction schedule lists only San Miguel County (Nov 19, 2026); the Division says there is no set schedule and it does not hold sales in every county each year.",
+      "how_to_bid": "Register at the auction on sale day (registration opens at 8 a.m. and closes at 10 a.m. when the auction starts). Bidding is oral; bidders must be present or represented by an agent. The minimum bid is the total of taxes, penalty, interest and costs due. Payment by cashier's check, money order, or personal or company check only with a letter of guarantee. The state issues a tax deed equivalent to a quitclaim deed; sales are final with no refunds.",
+      "sources": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "read_on": "2026-10-27",
+          "terms": "No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final).",
+          "terms_url": "https://www.tax.newmexico.gov/about-us/site-policies-accessibility/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "There is not a set schedule for public auction sales."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "PTD does not hold sales in all 33 counties each year."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The registration at the auction begins at 8 a.m. and will close immediately at 10 a.m. when the auction starts."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Bidding is on an oral basis, and bidders must be physically present or be represented by an agent."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The minimum bid is based on the total of taxes, penalty, interest and costs due."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Personal or company checks are unacceptable without the letter of guarantee."
+        }
+      ]
+    },
+    {
+      "county": "Santa Fe",
+      "slug": "santa-fe",
+      "office": "New Mexico Taxation and Revenue Department, Property Tax Division (Delinquent Bureau) (state agency; runs the sale for the county)",
+      "phone": "(505) 827-0883",
+      "address": "not stated",
+      "website": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming Santa Fe County sale posted. As of 2026-10-27 the Property Tax Division's auction schedule lists only San Miguel County (Nov 19, 2026); the Division says there is no set schedule and it does not hold sales in every county each year.",
+      "how_to_bid": "Register at the auction on sale day (registration opens at 8 a.m. and closes at 10 a.m. when the auction starts). Bidding is oral; bidders must be present or represented by an agent. The minimum bid is the total of taxes, penalty, interest and costs due. Payment by cashier's check, money order, or personal or company check only with a letter of guarantee. The state issues a tax deed equivalent to a quitclaim deed; sales are final with no refunds.",
+      "sources": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "read_on": "2026-10-27",
+          "terms": "No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final).",
+          "terms_url": "https://www.tax.newmexico.gov/about-us/site-policies-accessibility/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "There is not a set schedule for public auction sales."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "PTD does not hold sales in all 33 counties each year."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The registration at the auction begins at 8 a.m. and will close immediately at 10 a.m. when the auction starts."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Bidding is on an oral basis, and bidders must be physically present or be represented by an agent."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "The minimum bid is based on the total of taxes, penalty, interest and costs due."
+        },
+        {
+          "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/",
+          "quote": "Personal or company checks are unacceptable without the letter of guarantee."
+        }
+      ]
+    }
+  ]
+}

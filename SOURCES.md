@@ -16,6 +16,20 @@ Rules: sale dates come only from county or state government pages, or legally re
 
 Hosts the validator refuses as a sale source: `realauction.com`, `realtaxdeed.com`, `realtaxlien.com`, `realforeclose.com`, `bid4assets.com`, `govease.com`, `zeusauction.com`, `sriservices.com`, `lienhub.com`, `grantstreet.com`, `govdeals.com`, `newjerseytaxsale.com`, `sheriffsaleauction.ohio.gov`, `sheriffsaleauctions.com`, `coloradotaxsale.com`, `arizonataxsale.com`, `deedauction.net`, `clerkauction.com`, `itm.leoncountyfl.gov`, `sdat.dat.maryland.gov`.
 
+## Alabama
+
+State overview: <https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2022RS/PrintFiles/HB371-Enr.pdf>, <https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2022RS/PrintFiles/HB371-Enr.pdf>, <https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2022RS/PrintFiles/HB371-Enr.pdf>, <https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2022RS/PrintFiles/HB371-Enr.pdf>, <https://revenue.alabama.gov/?p=38864>, <https://revenue.alabama.gov/?p=38864>, <https://revenue.alabama.gov/?p=38864>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Jefferson | <https://paca.jccal.org/660/Tax-Lien-Info> | 2026-10-27 | not found (CivicPlus site; no disclaimer or terms link in page content) |
+| Jefferson | <https://paca.jccal.org/1019/2025-Tax-Delinquent-Parcels---Bessemer-D> | 2026-10-27 | not found |
+| Jefferson | <https://paca.jccal.org/572/Contact-Information> | 2026-10-27 | not found |
+| Mobile | <https://mobilecopropertytax.com/tax-sale-questions/> | 2026-10-27 | not found (footer links only a privacy policy and refund policy; no terms of use) |
+| Madison | <https://madisoncountyal.gov/departments/tax-collector/tax-sale> | 2026-10-27 | not found (no disclaimer or terms link in page content; site terms not checked because the fetch budget ran out) |
+| Baldwin | <https://baldwincountyal.gov/government/revenue-commission/tax-lien-auction> | 2026-10-27 | No terms-of-use link; footer says 'All rights reserved.' The page's disclaimer only tells bidders to research properties themselves. No reuse restriction found. |
+| Tuscaloosa | <https://www.tuscco.com/tax-collector/tax-lien-sale/frequently-asked-questions/> | 2026-10-27 | Terms of Use: copyright 'All rights reserved' and 'Any rights not expressly granted herein are reserved'; bars obtaining materials through means not intentionally made available. No clause forbidding reuse or redistribution of public information. Restate facts, don't copy pages wholesale. ([terms](https://www.tuscco.com/terms-of-use/)) |
+
 ## Arizona
 
 State overview: <https://www.to.pima.gov/static/files/TaxLienSaleBooklet.pdf>, <https://treasurer.pinal.gov/TaxLienBooklet.pdf>, <https://treasurer.pinal.gov/TaxLienBooklet.pdf>, <https://treasurer.pinal.gov/TaxLienBooklet.pdf>, <https://www.to.pima.gov/static/files/TaxLienSaleBooklet.pdf>, <https://www.to.pima.gov/static/files/TaxLienSaleBooklet.pdf>
@@ -46,6 +60,44 @@ State overview: <https://www.to.pima.gov/static/files/TaxLienSaleBooklet.pdf>, <
 | Yuma | <https://www.yumacountyaz.gov/government/treasurer> | 2026-10-27 | same as above ([terms](https://www.yumacountyaz.gov/government/about-this-website)) |
 | Yuma | <https://www.yumacountyaz.gov/home/showpublisheddocument/56363/638717681934600000> | 2026-10-27 | same as above (2025 sale booklet) ([terms](https://www.yumacountyaz.gov/government/about-this-website)) |
 
+## Arkansas
+
+State overview: <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Buyers>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Benton | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only' and the State makes no warranties as to accuracy. No copying, reuse or redistribution restriction found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Benton | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Benton | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Pulaski | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only' and the State makes no warranties as to accuracy. No copying, reuse or redistribution restriction found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Pulaski | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Pulaski | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Sebastian | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only' and the State makes no warranties as to accuracy. No copying, reuse or redistribution restriction found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Sebastian | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Sebastian | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Washington | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only' and the State makes no warranties as to accuracy. No copying, reuse or redistribution restriction found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Washington | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Washington | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+
+## California
+
+State overview: <https://sco.ca.gov/ardtax_public_auction.html>, <https://sco.ca.gov/ardtax_public_auction.html>, <https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=RTC&sectionNum=3691>, <https://www.sco.ca.gov/Files-ARD-Tax-Info/Tax-Collector-Ref-Man/sco8-05-4.pdf>, <https://www.sco.ca.gov/Files-ARD-Tax-Info/Tax-Collector-Ref-Man/sco8-05-4.pdf>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Los Angeles | <https://ttc.lacounty.gov/schedule-of-upcoming-auctions/> | 2026-10-27 | Terms of Use say the content is protected by copyright, the County 'expressly reserve[s] all rights' and access confers no license; they also bar robots or spiders other than normal browsers. No explicit ban on reuse, redistribution or commercial use. We record dates and link to the county; nothing is copied beyond short quotes. ([terms](https://ttc.lacounty.gov/terms-of-use/)) |
+| Los Angeles | <https://ttc.lacounty.gov/auction-frequently-asked-questions/> | 2026-10-27 | Terms of Use say the content is protected by copyright, the County 'expressly reserve[s] all rights' and access confers no license; they also bar robots or spiders other than normal browsers. No explicit ban on reuse, redistribution or commercial use. We record dates and link to the county; nothing is copied beyond short quotes. ([terms](https://ttc.lacounty.gov/terms-of-use/)) |
+| Los Angeles | <https://ttc.lacounty.gov/wp-content/uploads/2026/03/2026A-Terms-and-Conditions.pdf> | 2026-10-27 | Terms of Use say the content is protected by copyright, the County 'expressly reserve[s] all rights' and access confers no license; they also bar robots or spiders other than normal browsers. No explicit ban on reuse, redistribution or commercial use. We record dates and link to the county; nothing is copied beyond short quotes. ([terms](https://ttc.lacounty.gov/terms-of-use/)) |
+| Los Angeles | <https://file.lacounty.gov/SDSInter/bos/supdocs/220237.pdf> | 2026-10-27 | Board of Supervisors public document; no reuse terms found in the document. |
+| San Diego | <https://www.sdttc.com/content/ttc/en/tax-collection/property-tax-sales.html> | 2026-10-27 | No reuse or copying restriction found; the Online Security page links only to the County's security and privacy policies. ([terms](https://www.sdttc.com/content/ttc/en/about-us/online-security.html)) |
+| San Diego | <https://www.sdttc.com/content/ttc/en/tax-collection/property-tax-sales/terms-conditions.html> | 2026-10-27 | Property information is provided 'for general reference only' and should be verified; no reuse restriction found. |
+| San Diego | <https://www.sdttc.com/content/ttc/en/about-us/news/2026-county-treasurer-highlights-interesting-properties-as-auction-bidder-registration-closes-thursday.html> | 2026-10-27 | not found |
+| Orange | <https://octreasurer.gov/taxauction> | 2026-10-27 | TTC disclaimer gives no accuracy warranty and has no copyright, reuse or redistribution restriction; it says only that trade-name references may not be used for advertising or endorsement. ([terms](https://octreasurer.gov/info-contact-us/disclaimer)) |
+| Orange | <https://octreasurer.gov/PublicNotices> | 2026-10-27 | same as above ([terms](https://octreasurer.gov/info-contact-us/disclaimer)) |
+| Riverside | <https://countytreasurer.org/tax-collector/tax-sale-information> | 2026-10-27 | No reuse terms or disclaimer page found; footer reads '©2026 Office of the Treasurer-Tax Collector, Riverside County, California. All rights reserved.' |
+| Riverside | <https://rivco.gov/node/6751> | 2026-10-27 | County news release; footer copyright notice only, no reuse terms found. |
+| Riverside | <https://countytreasurer.org/node/826> | 2026-10-27 | same as the tax sale information page |
+
 ## Colorado
 
 State overview: <https://www.douglasco.gov/documents/tax-sale-faq.pdf/>, <https://www.douglasco.gov/documents/tax-sale-faq.pdf/>, <https://www.douglasco.gov/documents/tax-sale-faq.pdf/>, <https://www.douglasco.gov/documents/tax-sale-faq.pdf/>, <https://www.douglasco.gov/treasurer/tax-lien-sale-information/>
@@ -69,6 +121,16 @@ State overview: <https://www.douglasco.gov/documents/tax-sale-faq.pdf/>, <https:
 | Eagle | <https://www.eaglecounty.us/departments___services/office_of_the_treasurer/tax_lien_sale.php> | 2026-10-27 | No terms, disclaimer or copyright link in the footer; the page says the delinquent lists 'are provided for informational purposes only.' No reuse restriction found. |
 | Garfield | <https://www.garfieldcountyco.gov/treasurer/tax-lien-sale/> | 2026-10-27 | Privacy policy: 'All content on Garfield County websites is Copyright (c) 2011 by Garfield County, Colorado. All Rights Reserved.' plus accuracy disclaimers and linking/framing rules; no explicit ban on reuse or redistribution of the information. ([terms](https://www.garfieldcountyco.gov/attorney/privacy-policy/)) |
 | Mesa | <https://www.mesacounty.us/departments-and-services/treasurer/tax-sale-information> | 2026-10-27 | Footer: '(c) 2026 Mesa County, Colorado'. Privacy policy has no reuse or redistribution restriction (notes stored information may be purchased by private individuals and entities). ([terms](https://www.mesacounty.us/contact-us/privacy-policy)) |
+
+## District of Columbia
+
+State overview: <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf>, <https://otr.cfo.dc.gov/page/real-property-tax-sale>, <https://otr.cfo.dc.gov/page/real-property-tax-sale>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| District of Columbia | <https://otr.cfo.dc.gov/page/real-property-tax-lien-sale> | 2026-10-27 | District website Terms and Conditions: 'content on this site is licensed under a Creative Commons Attribution 3.0 License' (District-produced material is not public domain, but is CC BY licensed). Reuse allowed with attribution. ([terms](https://dc.gov/page/terms-and-conditions-use)) |
+| District of Columbia | <https://otr.cfo.dc.gov/page/real-property-tax-sale> | 2026-10-27 | same as above ([terms](https://dc.gov/page/terms-and-conditions-use)) |
+| District of Columbia | <https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/page_content/attachments/Updated%202026%20Tax%20Sale%20FAQ_V7.16.26.pdf> | 2026-10-27 | same as above (OTR document linked from the tax lien sale page) ([terms](https://dc.gov/page/terms-and-conditions-use)) |
 
 ## Florida
 
@@ -274,6 +336,66 @@ State overview: <https://www.legis.iowa.gov/docs/code/2025/446.7.pdf>, <https://
 | Black Hawk | <https://blackhawkcounty.iowa.gov/335/Tax-Sale> | 2026-10-27 | Copyright notice: 'All content © 2006-2026 Black Hawk County IA and its representatives. All rights reserved.' No explicit scraping or commercial-use clause found. ([terms](https://blackhawkcounty.iowa.gov/site/copyright)) |
 | Black Hawk | <https://www.blackhawkcounty.iowa.gov/336/Terms-Conditions> | 2026-10-27 | Same county copyright notice (all rights reserved). ([terms](https://blackhawkcounty.iowa.gov/site/copyright)) |
 
+## Louisiana
+
+State overview: <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://legis.la.gov/legis/Law.aspx?d=206555>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| East Baton Rouge | <https://www.ebrso.org/ebrso-tax-payments/> | 2026-10-27 | No terms or copyright page found; the page's NOTICE says its answers are general information, not legal advice. No reuse restriction found. |
+| Jefferson | <https://jpso.com/m/faq?cat=18> | 2026-10-27 | Copyright Notices page: 'All content © 2006-2026 Jefferson Parish Sheriff's Office, LA and its representatives. All rights reserved.' No clause restricting copying or reuse found. ([terms](https://jpso.com/site/copyright)) |
+| St. Tammany | <https://www.stpso.com/how-do-i/property-tax> | 2026-10-27 | No disclaimer, terms or copyright link found on the site (Revize footer only). No reuse restriction found. |
+| St. Tammany | <https://www.stpso.com/news_detail_T6_R258.php> | 2026-10-27 | Same site; no terms page found. |
+| Orleans | <https://nola.gov/next/treasury/topics/tax-sales-adjudications/> | 2026-10-27 | Site Policies: 'The content of NOLA.gov's webpages is copyrighted, and contains some third party images/graphics'; users 'should presume the need to obtain permission from the copyright holder' before reproducing images or graphics. No warranty of accuracy. No clause barring reuse of the facts listed here. ([terms](https://nola.gov/site/)) |
+
+## Maryland
+
+State overview: <https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-808&enactments=false>, <https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-820&enactments=false>, <https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-820&enactments=false>, <https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-833&enactments=false>, <https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-833&enactments=false>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Anne Arundel | <https://www.aacounty.org/finance/tax-sale> | 2026-10-27 | Website Terms say the site 'is intended for use by the general public for viewing and retrieving information only.' No copying, reuse or redistribution restriction found. ([terms](https://www.aacounty.org/terms-and-conditions-use)) |
+| Baltimore City | <https://www.baltimorecity.gov/tax-sale> | 2026-10-27 | No terms-of-use page linked; privacy policy shows 'Copyright © 2026 City of Baltimore. All rights reserved.' No reuse restriction found. ([terms](https://www.baltimorecity.gov/privacy-policy)) |
+| Baltimore City | <https://www.baltimorecity.gov/tax-sale/our-work/tax-sale-process> | 2026-10-27 | same as above ([terms](https://www.baltimorecity.gov/privacy-policy)) |
+| Prince George's | <https://taxsale.princegeorgescountymd.gov/> | 2026-10-27 | not found (no terms or disclaimer link; footer shows only '© 2026 Prince George's County'). No reuse restriction found. |
+| Prince George's | <https://taxsale.princegeorgescountymd.gov/BiddingRules.aspx> | 2026-10-27 | same as above |
+
+## Michigan
+
+State overview: <https://www.michigan.gov/taxes/property/property-tax-forfeiture-and-foreclosure>, <https://www.michigan.gov/taxes/property/property-tax-forfeiture-and-foreclosure>, <https://www.legislature.mi.gov/documents/mcl/pdf/mcl-211-78m.pdf>, <https://www.legislature.mi.gov/documents/mcl/pdf/mcl-211-78m.pdf>, <https://www.legislature.mi.gov/documents/mcl/pdf/mcl-211-78m.pdf>, <https://www.legislature.mi.gov/documents/mcl/pdf/mcl-211-78m.pdf>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Macomb | <https://www.macombgov.org/departments/treasurers-office/tax-foreclosure/auction-and-claims> | 2026-10-27 | Macomb County terms: 'Users may freely print any information that they obtain from the County website for informational or personal use only.' Documents 'may not be modified'; county seal may not be reproduced. Accuracy not guaranteed. No explicit ban on redistributing facts; restate facts, don't copy documents. ([terms](https://www.macombgov.org/terms-use-privacy-policy)) |
+| Oakland | <https://www.oaklandcountymi.gov/government/oakland-county-treasurer-s-office/land-sale> | 2026-10-27 | Oakland County Web Site Terms: 'Users may freely print any information that they obtain from the County Web site.' 'Use of documents from this server is for informational or personal use only.' No modifications; logos and site design may not be copied. Accuracy not guaranteed. Restate facts, don't copy documents. ([terms](https://www.oaklandcountymi.gov/government/terms-of-use)) |
+
+## Missouri
+
+State overview: <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.170>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.170>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.290>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.340>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.340>, <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.340>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Clay | <https://www.claycountymo.gov/552/Tax-Sale> | 2026-10-27 | Copyright notice only: 'All content © 2006-2026 Clay County, MO and its representatives. All rights reserved.' No clause limiting use or barring copying of public information found. Restate facts, don't copy pages wholesale. ([terms](https://www.claycountymo.gov/copyright)) |
+| Greene | <https://greenecountymo.gov/collector/tax_sale/faq.php> | 2026-10-27 | Greene County Terms of Use contain no copying or reuse clause; the county may restrict 'attempts to mirror web site data using automated data retrieval programs'. Materials are 'not official copies of documents' and not guaranteed current. ([terms](https://greenecountymo.gov/about/term_of_use.php)) |
+| Jackson | <https://www.jacksongov.org/Government/Departments/Collection/Delinquent-Land-Tax-Sale> | 2026-10-27 | Website Disclaimer has no copying or reuse clause; it says the county cannot guarantee accuracy and provides information 'as is'. Footer '© 2026 Jackson County MO.' ([terms](https://www.jacksongov.org/Our-Web-Policies)) |
+| St. Louis City | <https://www.stlouis-mo.gov/government/departments/sheriff/land-tax/index.cfm> | 2026-10-27 | City website policies contain no copying or reuse clause; footer reads '© 2011 - 2026 City of St. Louis'. Accuracy disclaimer covers linked third-party sites. ([terms](https://www.stlouis-mo.gov/government/departments/information-technology/web-development/website-policies.cfm)) |
+| St. Louis City | <https://www.stlouis-mo.gov/government/departments/sheriff/land-tax/land-tax-sales.cfm> | 2026-10-27 | same as above ([terms](https://www.stlouis-mo.gov/government/departments/information-technology/web-development/website-policies.cfm)) |
+| St. Louis City | <https://www.stlouis-mo.gov/government/departments/collector/real-estate-tax/property-sales.cfm> | 2026-10-27 | same as above ([terms](https://www.stlouis-mo.gov/government/departments/information-technology/web-development/website-policies.cfm)) |
+
+## Nebraska
+
+State overview: <https://nebraskalegislature.gov/laws/statutes.php?statute=77-1801>, <https://nebraskalegislature.gov/laws/statutes.php?statute=77-1807>, <https://nebraskalegislature.gov/laws/statutes.php?statute=77-1818>, <https://nebraskalegislature.gov/laws/statutes.php?statute=77-1824>, <https://nebraskalegislature.gov/laws/statutes.php?statute=45-104.01>, <https://nebraskalegislature.gov/laws/statutes.php?statute=77-1837>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Lancaster | <https://www.lancaster.ne.gov/DocumentCenter/View/640/Tax-Sale-Information-PDF> | 2026-10-27 | Copyright page: 'All content © 2006-2026 Lancaster County, NE and its representatives. All rights reserved.' No clause on copying or reuse found. ([terms](https://www.lancaster.ne.gov/Copyright)) |
+| Lancaster | <https://www.lancaster.ne.gov/DocumentCenter/View/641/Tax-Sale-Purchasing-Information-PDF> | 2026-10-27 | Same county site copyright notice. ([terms](https://www.lancaster.ne.gov/Copyright)) |
+| Sarpy | <https://www.sarpy.gov/981/Tax-Sale-Information> | 2026-10-27 | Copyright Notices page: 'All content © 2006-2026 Sarpy County, NE and its representatives. All rights reserved.' No clause on copying or reuse found. ([terms](https://www.sarpy.gov/copyright)) |
+| Hall | <https://files.hallcountyne.gov/departments/treasurer/index.php> | 2026-10-27 | Website Disclaimer: 'The records on this site are unofficial records made available for informational purposes only.' No warranty of accuracy. No clause restricting copying or reuse. ([terms](https://files.hallcountyne.gov/government/board_of_commissioners/site_disclaimer.php)) |
+| Hall | <https://reports.hallcountyne.gov/Treasurer/Delinquent/TAX%20SALE%20CERT%20INVESTOR%20INSTRUCTIONS%202025.pdf> | 2026-10-27 | Same county disclaimer (accuracy only). ([terms](https://files.hallcountyne.gov/government/board_of_commissioners/site_disclaimer.php)) |
+| Scotts Bluff | <https://scottsbluffcountyne.gov/treasurer-office/public-tax-sale-information/> | 2026-10-27 | Disclaimer and Terms of Service: the county 'makes no warranties, either expressed or implied, concerning the accuracy, completeness, reliability'; users agree to indemnify the county. No clause on copying, reuse or redistribution. ([terms](https://scottsbluffcountyne.gov/?p=2323)) |
+| Scotts Bluff | <https://scottsbluffcountyne.gov/treasurer-office/real-estate-taxes/> | 2026-10-27 | Same county site terms. ([terms](https://scottsbluffcountyne.gov/?p=2323)) |
+
 ## New Jersey
 
 State overview: <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf>, <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf>, <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf>, <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf>, <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf>, <https://www.newarknj.gov/FAQ.aspx?QID=73>
@@ -300,6 +422,44 @@ State overview: <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/element
 | Toms River Township (Ocean County) | <https://tomsrivertownship.com/224/Tax-Collector> | 2026-10-27 | No reuse terms; copyright page says only 'All content © 2006-2026 Toms River Township, NJ and its representatives. All rights reserved.' ([terms](https://tomsrivertownship.com/Copyright)) |
 | Clifton (Passaic County) | <https://www.cliftonnj.org/162/Tax-Collector> | 2026-10-27 | No reuse terms; the disclaimer page says only 'Please contact us for information about our disclaimer.' ([terms](https://www.cliftonnj.org/disclaimer)) |
 | Clifton (Passaic County) | <https://cliftonnj.org/DocumentCenter/View/30677/50-day-Revised-tax-sale-listing-91526?bidId=> | 2026-10-27 | Same site; see disclaimer note above. ([terms](https://www.cliftonnj.org/disclaimer)) |
+
+## New Mexico
+
+State overview: <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/>, <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/>, <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/>, <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/>, <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/>, <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/>, <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Bernalillo | <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/> | 2026-10-27 | No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final). ([terms](https://www.tax.newmexico.gov/about-us/site-policies-accessibility/)) |
+| Doña Ana | <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/> | 2026-10-27 | No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final). ([terms](https://www.tax.newmexico.gov/about-us/site-policies-accessibility/)) |
+| San Miguel | <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/> | 2026-10-27 | No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final). ([terms](https://www.tax.newmexico.gov/about-us/site-policies-accessibility/)) |
+| Sandoval | <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/> | 2026-10-27 | No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final). ([terms](https://www.tax.newmexico.gov/about-us/site-policies-accessibility/)) |
+| Santa Fe | <https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/> | 2026-10-27 | No reuse or copying restriction. The Department's Site Policies page asks only that linking sites not frame its pages, present its content as their own, or imply endorsement; the auction Terms of Sale cover the sale itself (property sold 'as is', all sales final). ([terms](https://www.tax.newmexico.gov/about-us/site-policies-accessibility/)) |
+
+## New York
+
+State overview: <https://nysenate.gov/legislation/laws/RPT/1110>, <https://nysenate.gov/legislation/laws/RPT/1123>, <https://nysenate.gov/legislation/laws/RPT/1166>, <https://nysenate.gov/legislation/laws/RPT/1166>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Nassau | <https://www.nassaucountyny.gov/527/Annual-Tax-Lien-Sale> | 2026-10-27 | County disclaimer gives no accuracy warranty and says risk from use of the information rests with the user; no reuse restriction in the disclaimer text. It links to a separate Copyright Notices page that could not be read. ([terms](https://www.nassaucountyny.gov/1985/Disclaimer)) |
+| Erie | <https://www3.erie.gov/ecrpts/node/16> | 2026-10-27 | not found (no disclaimer or terms link in page content) |
+| Erie | <https://www3.erie.gov/ecrpts/sites/www3.erie.gov.ecrpts/files/2026-07/notice-of-sale-in-rem-173-as-of-7-8-26.pdf> | 2026-10-27 | not found |
+| Erie | <https://www3.erie.gov/ecrpts/sites/www3.erie.gov.ecrpts/files/2026-08/terms-of-sale-2026.pdf> | 2026-10-27 | not found |
+| Monroe | <https://www.monroecounty.gov/files/finance/auction-2026/Notice%20of%20Sale.pdf> | 2026-10-27 | not found (PDF legal notice; county site terms not read) |
+| Onondaga | <https://onondaga.gov/rpts/auction/> | 2026-10-27 | County website 'Warranties' section: provided 'AS IS', no warranty as to accuracy, information is for informational purposes only; no copying or reuse restriction found. ([terms](https://onondaga.gov/privacy/)) |
+
+## North Carolina
+
+State overview: <https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html>, <https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html>, <https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html>, <https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html>, <https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html>, <https://www.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-375.html>, <https://www.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-375.html>, <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1/GS_1-339.25.html>, <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1/GS_1-339.25.html>, <https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1/GS_1-339.25.html>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Mecklenburg | <https://tax.mecknc.gov/service/rem-foreclosures> | 2026-10-27 | No general reuse restriction found. Privacy and Legal Notices restrict only the County Seal and logos: 'none of these images may be used in any form whatsoever without the expressed written consent of their respective owner(s).' ([terms](https://www.mecknc.gov/Policies/Privacy-and-Legal-Notices)) |
+| Wake | <https://wake.gov/departments-government/tax-administration/real-estate/foreclosures> | 2026-10-27 | No reuse restriction found. Disclaimers page: 'All information contained within the Wake County website is public record.' Footer: 'Copyright © 2026. All rights reserved.' Logo use needs written permission. ([terms](https://www.wake.gov/disclaimers)) |
+| Forsyth | <https://www.forsyth.cc/tax/foreclosure.aspx> | 2026-10-27 | No disclaimer or terms link found (footer has only Accessibility); footer: 'Copyright © 2026 Forsyth County, North Carolina.' |
+| Forsyth | <https://www.forsyth.cc/tax/foreclosure_prop.aspx> | 2026-10-27 | No disclaimer or terms link found (footer has only Accessibility); footer: 'Copyright © 2026 Forsyth County, North Carolina.' |
+| Forsyth | <https://forsyth.cc/tax/foreclosure_faq.aspx> | 2026-10-27 | No disclaimer or terms link found (footer has only Accessibility); footer: 'Copyright © 2026 Forsyth County, North Carolina.' |
+| Durham | <https://dconc.gov/county-departments/departments-f-z/tax-administration/foreclosure> | 2026-10-27 | No reuse restriction found. Legal Notices: 'The materials are provided for public use on computer systems located within Durham County.' and references to commercial products 'shall not be used for advertising or product endorsement purposes.' ([terms](https://www.dconc.gov/about-dco/website-help/legal-notices)) |
 
 ## Ohio
 
@@ -342,6 +502,15 @@ State overview: <https://codes.ohio.gov/orc/section-5721.19>, <https://codes.ohi
 | Clermont | <https://clermontsheriff.org/media/SheriffSalesInfo/delinquent-tax-sale-frequently-asked-questions.pdf> | 2026-10-27 | Same Sheriff Security and Privacy Policy. ([terms](https://clermontsheriff.org/security-and-privacy-policy)) |
 | Clermont | <https://clermontsheriff.org/media/SheriffSalesInfo/terms-of-sale.pdf> | 2026-10-27 | Same Sheriff Security and Privacy Policy. ([terms](https://clermontsheriff.org/security-and-privacy-policy)) |
 
+## Oklahoma
+
+State overview: <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF>, <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF>, <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF>, <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF>, <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF>, <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.PDF>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Oklahoma | <https://oklahomacounty.org/Treasurer> | 2026-10-27 | Terms of Use page has no copying, reuse or redistribution restriction (it covers privacy of submitted personal data only). ([terms](https://oklahomacounty.org/Terms-of-Use)) |
+| Oklahoma | <https://docs.oklahomacounty.org/treasurer/ImportantDates.asp> | 2026-10-27 | Same county; no reuse restriction found. ([terms](https://oklahomacounty.org/Terms-of-Use)) |
+
 ## Pennsylvania
 
 State overview: <https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PDF>, <https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PDF>, <https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PDF>, <https://buckscounty.gov/1955/Upset-and-Judicial-Sales>, <https://phillysheriff.com/conditions-of-sale-for-tax-sales/>
@@ -381,6 +550,41 @@ State overview: <https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PD
 | Dauphin | <https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/repository-sale/necessary-forms> | 2026-10-27 | Same site; see above. ([terms](https://www.dauphincounty.gov/website-policies)) |
 | Dauphin | <https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/judicial-sale> | 2026-10-27 | Same site; see above. ([terms](https://www.dauphincounty.gov/website-policies)) |
 | Dauphin | <https://www.dauphincounty.gov/government/support-services/property-taxes/tax-claim/upset-sale> | 2026-10-27 | Same site; see above. ([terms](https://www.dauphincounty.gov/website-policies)) |
+
+## South Carolina
+
+State overview: <https://www.scstatehouse.gov/code/t12c051.php>, <https://www.scstatehouse.gov/code/t12c051.php>, <https://www.scstatehouse.gov/code/t12c051.php>, <https://www.scstatehouse.gov/code/t12c051.php>, <https://www.scstatehouse.gov/code/t12c051.php>, <https://greenvillecountysc.gov/TaxCollector/TaxSaleProcedures.aspx>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Greenville | <https://greenvillecountysc.gov/TaxCollector/> | 2026-10-27 | No reuse or copying restriction found; footer says 'All rights reserved'. The Legal Notice's ownership language covers comments users submit, not site content. ([terms](https://greenvillecountysc.gov/LegalNotice.aspx)) |
+| Greenville | <https://greenvillecountysc.gov/TaxCollector/pdf/TaxSale.pdf> | 2026-10-27 | same as above ([terms](https://greenvillecountysc.gov/LegalNotice.aspx)) |
+| Greenville | <https://greenvillecountysc.gov/TaxCollector/TaxSaleProcedures.aspx> | 2026-10-27 | same as above ([terms](https://greenvillecountysc.gov/LegalNotice.aspx)) |
+| Greenville | <https://greenvillecountysc.gov/TaxCollector/TaxSaleFAQ.aspx> | 2026-10-27 | same as above ([terms](https://greenvillecountysc.gov/LegalNotice.aspx)) |
+| Richland | <https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale> | 2026-10-27 | No reuse or copying restriction found in the Disclaimer; its ownership language covers comments users submit, not site content. ([terms](https://www.richlandcountysc.gov/Disclaimer)) |
+| Horry | <https://www.horrycountysc.gov/departments/treasurer/delinquent-tax/> | 2026-10-27 | Terms of Use: 'All contents of the Horry County Government Web Site are: ©2022 by Horry County Government - All rights reserved.' and 'Any rights not expressly granted herein are reserved.' No explicit ban on copying or reusing facts found; no personal/non-commercial-use clause. ([terms](https://www.horrycountysc.gov/terms/)) |
+| Horry | <https://www.horrycountysc.gov/media/abgkgrll/bidder-tax-sale-information.pdf> | 2026-10-27 | same as above ([terms](https://www.horrycountysc.gov/terms/)) |
+| Spartanburg | <https://www.spartanburgcounty.gov/640/2025-Tax-Sale-Info> | 2026-10-27 | No reuse terms found; copyright page footer: 'All content © 2006-2026 Spartanburg County, SC and its representatives. All rights reserved.' ([terms](https://www.spartanburgcounty.gov/copyright)) |
+| Spartanburg | <https://www.spartanburgcounty.gov/1206/Notice-to-Bidders-of-Terms-and-Condition> | 2026-10-27 | same as above ([terms](https://www.spartanburgcounty.gov/copyright)) |
+| Spartanburg | <https://www.spartanburgcounty.gov/1205/Bidder-Registration-Procedures> | 2026-10-27 | same as above ([terms](https://www.spartanburgcounty.gov/copyright)) |
+| Spartanburg | <https://www.spartanburgcounty.gov/m/faq?cat=36> | 2026-10-27 | same as above ([terms](https://www.spartanburgcounty.gov/copyright)) |
+| Lexington | <https://www.lex-co.sc.gov/departments/treasurer/delinquent-taxes> | 2026-10-27 | No reuse restriction found. Disclaimer: 'does not make any representations concerning the user's rights, if any, to further duplicate the information'; footer 'Copyright © State of South Carolina'. ([terms](https://www.lex-co.sc.gov/disclaimer)) |
+| Lexington | <https://www.lex-co.sc.gov/sites/lexco/files/Documents/Lexington%20County/Departments/Treasurer/Delinquent/2026%20Real%20Estate%20Header.pdf> | 2026-10-27 | same as above ([terms](https://www.lex-co.sc.gov/disclaimer)) |
+
+## Tennessee
+
+State overview: <https://www.ctas.tennessee.edu/eli/delinquent-tax-suit>, <https://www.tn.gov/content/dam/tn/attorneygeneral/opinions/documents/2005/op05-156.pdf>, <https://www.tn.gov/content/dam/tn/attorneygeneral/opinions/documents/2005/op05-156.pdf>, <https://ctas.tennessee.edu/eli/redemption>, <https://ctas.tennessee.edu/eli/redemption>, <https://ctas.tennessee.edu/eli/redemption>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Shelby | <https://www.shelbycountytn.gov/330/Tax-Sale-Information> | 2026-10-27 | No terms link on the page. The Chancery Court Clerk's disclaimer covers warranties, data accuracy and liability and says data from its Internet service 'is not for official use'; it has no copying or reuse restriction. ([terms](https://www.shelbycountytn.gov/DocumentCenter/View/650)) |
+| Shelby | <https://www.shelbycountytn.gov/DocumentCenter/View/42037/CandM-Info-On-Tax-Sale-Process-v2024> | 2026-10-27 | same as above ([terms](https://www.shelbycountytn.gov/DocumentCenter/View/650)) |
+| Knox | <https://trustee.knoxcounty.org/services/tax-sale> | 2026-10-27 | Knox County privacy policy/disclaimer says information is provided 'as a service to the public' and should not be relied on for legal action; no copying or reuse restriction found. ([terms](https://knoxcounty.org/privacy-policy/)) |
+| Knox | <https://trustee.knoxcounty.org/assets/pdfs/TS25_CM_Terms and Conditions_pdf.pdf> | 2026-10-27 | same as above ([terms](https://knoxcounty.org/privacy-policy/)) |
+| Hamilton | <https://www.hamiltontn.gov/Clerkmasterforms/taxsale/2026TaxSale/TAX%20SALE%20INFORMATION%202026.pdf> | 2026-10-27 | County Website Disclaimer: provided 'as is', reliance at the user's own risk; footer 'All Rights Reserved'. No copying or reuse restriction found. ([terms](https://www.hamiltontn.gov/policies.aspx)) |
+| Hamilton | <https://www.hamiltonTN.gov/Chancery_RulesFees.aspx> | 2026-10-27 | same as above ([terms](https://www.hamiltontn.gov/policies.aspx)) |
+| Montgomery | <https://montgomerytn.gov/chancery/tax-sale> | 2026-10-27 | not found (footer links only an accessibility statement) |
+| Montgomery | <https://montgomerytn.gov/trustee/tax-sale> | 2026-10-27 | not found (footer links only an accessibility statement) |
 
 ## Texas
 
@@ -452,3 +656,16 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 | Taylor | <https://taylor-cad.org/announcements/> | 2026-10-27 | No terms or disclaimer page found; footer reads '© 2024 Copyright Taylor Central Appraisal District - Official Site'. Restate facts only. |
 | Taylor | <https://taylor-cad.org/wp-content/uploads/2025/08/Tax-Sale-FAQs.pdf> | 2026-10-27 | not found (FAQ PDF) |
 | Wichita | <https://wichitacountysheriffsoffice.org/?p=143> | 2026-10-27 | No terms of use or disclaimer found; footer reads '© All Rights Reserved Wichita County'. No reuse or redistribution clause found. Restate facts only. |
+
+## Utah
+
+State overview: <https://le.utah.gov/~2023/bills/sbillenr/SB0115.pdf>, <https://le.utah.gov/~2023/bills/sbillenr/SB0115.pdf>, <https://le.utah.gov/~2021/bills/hbillint/HB0122.htm>, <https://le.utah.gov/~2021/bills/hbillint/HB0122.htm>
+
+| County | Source page | Read on | Reuse terms |
+|---|---|---|---|
+| Cache | <https://cachecounty.gov/tax-administration/tax-sale.html> | 2026-10-27 | No reuse terms found; footer shows '© 2026 Cache County' and the privacy policy has no copying or reuse restriction. ([terms](https://cachecounty.gov/privacy.html)) |
+| Cache | <https://www.cachecounty.gov/tax-administration/tax-sale/tax-sale-general-information.html> | 2026-10-27 | Same site; no reuse restriction found. ([terms](https://cachecounty.gov/privacy.html)) |
+| Davis | <https://www.daviscountyutah.gov/controller/tax-administration/delinquent-tax-sale> | 2026-10-27 | No reuse terms found; site shows 'Copyright © Davis County Government. All Rights Reserved' and the privacy policy has no copying or reuse restriction. ([terms](https://www.daviscountyutah.gov/privacy-policy)) |
+| Davis | <https://www.daviscountyutah.gov/controller/tax-administration-group/tax-sale/tax-sale-faq> | 2026-10-27 | Same site; no reuse restriction found. ([terms](https://www.daviscountyutah.gov/privacy-policy)) |
+| Utah | <https://auditor.utahcounty.gov/may-tax-sale> | 2026-10-27 | Utah County Terms of Use: 'Anyone may view, copy or distribute information found within these web pages ... for personal or informational use without owing an obligation to the County ... if the documents are not modified in any respect.' No prohibition on reuse found. ([terms](https://www.utahcounty.gov/terms-of-use)) |
+| Washington | <https://www.washco.utah.gov/departments/auditor/tax-sale/> | 2026-10-27 | No reuse terms found; footer shows '© 2004-2026 Washington County' and 'All Rights Reserved'; the privacy policy has no copying or reuse restriction. ([terms](https://www.washco.utah.gov/services-resources/privacy-policy/)) |

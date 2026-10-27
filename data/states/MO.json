@@ -1,0 +1,193 @@
+{
+  "state": "MO",
+  "name": "Missouri",
+  "sale_type": "lien",
+  "overview": "Under Missouri law the county collector offers land with delinquent taxes at a public auction each year on the fourth Monday in August, starting at 10 o'clock, at or near the courthouse; the collector may also run it online at the same time. After payment the collector gives the buyer a certificate of purchase rather than a deed. The owner has an absolute right to redeem during the following year by paying the amount due plus interest at the rate in the certificate, not more than ten percent a year, and the right to redeem ends when the buyer gets the deed.",
+  "overview_sources": [
+    {
+      "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=140.170",
+      "quote": "on the fourth Monday in August next thereafter, commencing at ten o'clock of said day",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=140.170",
+      "quote": "Such auction may also be conducted by electronic media, including the internet, at the same time",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=140.290",
+      "quote": "After payment shall have been made the county collector shall give the purchaser a certificate in writing",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=140.340",
+      "quote": "shall have the absolute right to redeem the same at any time during the one year next ensuing",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=140.340",
+      "quote": "together with interest at the rate specified in such certificate, not to exceed ten percent annually",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=140.340",
+      "quote": "until such time as the tax sale purchaser acquires the deed, at which time the right to redeem shall expire",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Clay",
+      "slug": "clay",
+      "office": "Clay County Collector's Office",
+      "phone": "816-407-3200 (tax sale email: taxsale@claycountymo.gov)",
+      "address": "1 Courthouse Sq. Liberty, MO 64068",
+      "website": "https://www.claycountymo.gov/552/Tax-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale began online at 10:00 AM CST on August 24, 2026 (past).",
+      "how_to_bid": "Register with GovEase (registration opened in late July for the 2026 sale) and get a completed, notarized, original Tax Sale Affidavit and Statement of Non-Delinquency to the Collector's office before registration closes. Properties are offered one at a time in the order they are published. A bidder deposit is not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.claycountymo.gov/552/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: 'All content © 2006-2026 Clay County, MO and its representatives. All rights reserved.' No clause limiting use or barring copying of public information found. Restate facts, don't copy pages wholesale.",
+          "terms_url": "https://www.claycountymo.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.claycountymo.gov/552/Tax-Sale",
+          "quote": "The tax sale shall commence online at GovEase.com at 10:00AM CST on August 24, 2026."
+        }
+      ]
+    },
+    {
+      "county": "Greene",
+      "slug": "greene",
+      "office": "Greene County Collector of Revenue",
+      "phone": "not stated",
+      "address": "not stated (sale held at the Greene County Historic Courthouse, 940 N Boonville Ave, Springfield, MO, Room 212)",
+      "website": "https://greenecountymo.gov/collector/tax_sale/faq.php",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Fourth Monday of August, 10 AM",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the 2026 sale is past.",
+      "how_to_bid": "Bidder registration opens August 1 and closes on the Thursday before the sale. Bidders must be Missouri residents or registered Missouri businesses and must not owe delinquent personal property or real estate taxes. Winning bids are paid by cashier's check before 3:30 PM on the sale day (no cash, cards, ACH or personal or business checks). Owners can redeem for one year after a standard sale and 90 days after a Third Offer sale; Post-Third Offer sales have no redemption period.",
+      "sources": [
+        {
+          "url": "https://greenecountymo.gov/collector/tax_sale/faq.php",
+          "read_on": "2026-10-27",
+          "terms": "Greene County Terms of Use contain no copying or reuse clause; the county may restrict 'attempts to mirror web site data using automated data retrieval programs'. Materials are 'not official copies of documents' and not guaranteed current.",
+          "terms_url": "https://greenecountymo.gov/about/term_of_use.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://greenecountymo.gov/collector/tax_sale/faq.php",
+          "quote": "Fourth Monday of August, 10 AM"
+        }
+      ],
+      "notes": {
+        "format_note": "The FAQ says the sale is held in Room 212 of the Historic Courthouse and is open for public viewing; it does not say whether bidding is in person or online."
+      }
+    },
+    {
+      "county": "Jackson",
+      "slug": "jackson",
+      "office": "Jackson County Collection Department (sales conducted by the Circuit Court Administrator)",
+      "phone": "816-881-3232",
+      "address": "Jackson County Courthouse, 415 E 12th Street, Kansas City, MO 64106",
+      "website": "https://www.jacksongov.org/Government/Departments/Collection/Delinquent-Land-Tax-Sale",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The August 2026 delinquent land tax sale was canceled ('No properties will be sold as part of the August 2026 tax sale.'). No later date posted.",
+      "how_to_bid": "Pre-register at least 10 days before the scheduled auction by sending the registration form to the Department of Civil Process, 1305 Locust, 2nd floor, Kansas City, MO 64106 (816-881-3696, DLTEmail@courts.mo.gov). Properties are auctioned at the courthouses by calling out their legal descriptions, sold as is, and all sales are final. Deposit and payment terms for bidders are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.jacksongov.org/Government/Departments/Collection/Delinquent-Land-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Website Disclaimer has no copying or reuse clause; it says the county cannot guarantee accuracy and provides information 'as is'. Footer '© 2026 Jackson County MO.'",
+          "terms_url": "https://www.jacksongov.org/Our-Web-Policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.jacksongov.org/Government/Departments/Collection/Delinquent-Land-Tax-Sale",
+          "quote": "No properties will be sold as part of the August 2026 tax sale."
+        },
+        {
+          "url": "https://www.jacksongov.org/Government/Departments/Collection/Delinquent-Land-Tax-Sale",
+          "quote": "generally conducts two delinquent tax sales each year, one at each of the Courthouses."
+        },
+        {
+          "url": "https://www.jacksongov.org/Government/Departments/Collection/Delinquent-Land-Tax-Sale",
+          "quote": "must pre-register at least 10 days before the scheduled auction."
+        }
+      ],
+      "notes": {
+        "list_note": "Land tax sale property list (county GIS): https://jcgis.jacksongov.org/collections/dlt/sales.html"
+      }
+    },
+    {
+      "county": "St. Louis City",
+      "slug": "st-louis-city",
+      "office": "Office of the Sheriff, City of St. Louis (Land Tax Sales)",
+      "phone": "(314) 622-4851",
+      "address": "10 N. Tucker Blvd, 8th Floor, Civil Courts Building, St. Louis, MO 63101",
+      "website": "https://www.stlouis-mo.gov/government/departments/sheriff/land-tax/index.cfm",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The City of St. Louis holds land tax sales several times a year.",
+      "sales": [],
+      "next_sale_note": "Land tax sales have concluded for the year. The last 2026 sale on the Collector's schedule was Sale 240 (October 6, 2026). 2027 dates not yet posted.",
+      "how_to_bid": "Pre-register online at least 10 days before the sale (one application per person or business); the Sheriff checks that the bidder has no delinquent city property taxes, unpaid special tax bills or pending building or housing code violations. Approved bidders get an email and pick up a bidder number on the first sale day with a valid State ID. Sales begin at 9:00 am outdoors on the 11th Street side of the Civil Courts Building, and bidding starts at the taxes owed. Pay by cashier's check or money order to 'Sheriff City of St. Louis' by 2:00 PM on the sale day, with a separate $150.00 payment per parcel; cash is no longer accepted.",
+      "sources": [
+        {
+          "url": "https://www.stlouis-mo.gov/government/departments/sheriff/land-tax/index.cfm",
+          "read_on": "2026-10-27",
+          "terms": "City website policies contain no copying or reuse clause; footer reads '© 2011 - 2026 City of St. Louis'. Accuracy disclaimer covers linked third-party sites.",
+          "terms_url": "https://www.stlouis-mo.gov/government/departments/information-technology/web-development/website-policies.cfm"
+        },
+        {
+          "url": "https://www.stlouis-mo.gov/government/departments/sheriff/land-tax/land-tax-sales.cfm",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.stlouis-mo.gov/government/departments/information-technology/web-development/website-policies.cfm"
+        },
+        {
+          "url": "https://www.stlouis-mo.gov/government/departments/collector/real-estate-tax/property-sales.cfm",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.stlouis-mo.gov/government/departments/information-technology/web-development/website-policies.cfm"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.stlouis-mo.gov/government/departments/sheriff/land-tax/index.cfm",
+          "quote": "Land tax sales have concluded for the year. Check back next year for sale dates."
+        },
+        {
+          "url": "https://www.stlouis-mo.gov/government/departments/sheriff/land-tax/index.cfm",
+          "quote": "Potential bidders must pre-register online to receive a bid number."
+        },
+        {
+          "url": "https://www.stlouis-mo.gov/government/departments/collector/real-estate-tax/property-sales.cfm",
+          "quote": "The Collector of Revenue processes the payments for all Real Estate parcels within the City of St. Louis."
+        }
+      ]
+    }
+  ]
+}

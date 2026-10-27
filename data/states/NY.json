@@ -1,0 +1,204 @@
+{
+  "state": "NY",
+  "name": "New York",
+  "sale_type": "deed",
+  "overview": "In New York, unpaid property taxes become a lien that the tax district (usually the county) enforces through an in rem foreclosure proceeding under Article 11 of the Real Property Tax Law. The owner can redeem by paying the lien before the redemption period ends, which by default expires two years after the lien date. If the property is not redeemed, the enforcing officer files a petition of foreclosure, and once the tax district holds title it may sell and convey the property. No governing-body approval is needed when the property is sold at public auction to the highest bidder.",
+  "overview_sources": [
+    {
+      "url": "https://nysenate.gov/legislation/laws/RPT/1110",
+      "quote": "The redemption period shall expire two years after lien date.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://nysenate.gov/legislation/laws/RPT/1123",
+      "quote": "the enforcing officer shall execute a petition of foreclosure",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://nysenate.gov/legislation/laws/RPT/1166",
+      "quote": "such tax district or enforcing officer is hereby authorized to sell and convey such real property",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://nysenate.gov/legislation/laws/RPT/1166",
+      "quote": "except that no such approval shall be required when the property is sold at public auction to the highest bidder",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Nassau",
+      "slug": "nassau",
+      "office": "Nassau County Treasurer",
+      "phone": "516-571-2090",
+      "address": null,
+      "website": "https://www.nassaucountyny.gov/527/Annual-Tax-Lien-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "nassau.newyorktaxsale.com",
+        "url": "https://nassau.newyorktaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-02-16",
+          "time": "not stated",
+          "label": "2027 Annual Tax Lien Sale (2026 tax liens)",
+          "deposit": "$175 registration fee and a minimum $5,000 deposit; 10% of the total purchase is due by the end of the sale day, the balance by 3:00pm March 18th, 2027",
+          "registration_deadline": "February 5th, 2027 - Registration requirements and deposit deadline (registration opens and bidding commences January 22nd, 2027)",
+          "register_by": "2027-02-05",
+          "note": "Owners can keep their lien out of the sale by paying the unpaid 2026 taxes, interest, penalties and charges by February 10th, 2027.",
+          "source_url": "https://www.nassaucountyny.gov/527/Annual-Tax-Lien-Sale",
+          "quote": "February 16th, 2027 - Tax Lien Auction"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register on the county's online tax lien auction site (nassau.newyorktaxsale.com), pay the $175 registration fee, place the $5,000 minimum deposit and submit a budget by the deposit deadline. Registration opens January 22nd, 2027. Winning bidders pay 10% of the total purchase by the end of the sale day and the balance by 3:00pm March 18th, 2027.",
+      "sources": [
+        {
+          "url": "https://www.nassaucountyny.gov/527/Annual-Tax-Lien-Sale",
+          "read_on": "2026-10-27",
+          "terms": "County disclaimer gives no accuracy warranty and says risk from use of the information rests with the user; no reuse restriction in the disclaimer text. It links to a separate Copyright Notices page that could not be read.",
+          "terms_url": "https://www.nassaucountyny.gov/1985/Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nassaucountyny.gov/527/Annual-Tax-Lien-Sale",
+          "quote": "registrants must first pay the registration fee ($175)"
+        },
+        {
+          "url": "https://www.nassaucountyny.gov/527/Annual-Tax-Lien-Sale",
+          "quote": "January 22nd, 2027 - Registration opens & bidding commences"
+        },
+        {
+          "url": "https://www.nassaucountyny.gov/527/Annual-Tax-Lien-Sale",
+          "quote": "10% of the total purchase is immediately due by the end of the day."
+        }
+      ]
+    },
+    {
+      "county": "Erie",
+      "slug": "erie",
+      "office": "Erie County Department of Real Property Tax Services",
+      "phone": "(716) 858-8333",
+      "address": "Edward A Rath County Office Building, 95 Franklin Street, Room 100, Buffalo, New York 14202",
+      "website": "https://www3.erie.gov/ecrpts/node/16",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date posted. The August 26, 2026 auction (In Rem 172 and 173, Buffalo Convention Center) is past. In Rem 174 commenced May 5, 2026; no auction date has been posted for it.",
+      "how_to_bid": "2026 terms: the auction is held in person; the minimum bid is $500 and the successful bidder must have the full deposit (the greater of 20% of the bid or $500) at the time of the bid, in cash, certified check or bank check. The balance was due within 30 days. Properties are sold as is and the purchaser receives a Referee's Deed and pays closing costs.",
+      "sources": [
+        {
+          "url": "https://www3.erie.gov/ecrpts/node/16",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer or terms link in page content)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www3.erie.gov/ecrpts/sites/www3.erie.gov.ecrpts/files/2026-07/notice-of-sale-in-rem-173-as-of-7-8-26.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www3.erie.gov/ecrpts/sites/www3.erie.gov.ecrpts/files/2026-08/terms-of-sale-2026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www3.erie.gov/ecrpts/sites/www3.erie.gov.ecrpts/files/2026-07/notice-of-sale-in-rem-173-as-of-7-8-26.pdf",
+          "quote": "AUGUST 26, 2026 at 9:00 a.m. (registration at 8:00 a.m.)"
+        },
+        {
+          "url": "https://www3.erie.gov/ecrpts/sites/www3.erie.gov.ecrpts/files/2026-08/terms-of-sale-2026.pdf",
+          "quote": "A successful bidder must have in his/her possession at the time of the bid the full 20% of the sum bid."
+        },
+        {
+          "url": "https://www3.erie.gov/ecrpts/sites/www3.erie.gov.ecrpts/files/2026-08/terms-of-sale-2026.pdf",
+          "quote": "The County shall prepare and provide a Referee's Deed to the purchaser."
+        }
+      ]
+    },
+    {
+      "county": "Monroe",
+      "slug": "monroe",
+      "office": "Monroe County Department of Finance (Treasury)",
+      "phone": null,
+      "address": "Room B-2, County Office Building, 39 West Main Street, Rochester (redemption payments)",
+      "website": "https://www.monroecounty.gov/files/finance/auction-2026/Notice%20of%20Sale.pdf",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date found. The 2026 foreclosure auction was held September 11, 2026 at the Joseph A. Floreano Rochester Riverside Convention Center (past).",
+      "how_to_bid": "2026 notice: the auction is held in person; bidders must show proof of at least $3,000 in good funds to enter the sale site. Registration forms are available at the sale site on the sale date or can be downloaded from monroecounty.gov in advance. Properties are sold as is, subject to the Terms of Sale in the Judgment of Foreclosure.",
+      "sources": [
+        {
+          "url": "https://www.monroecounty.gov/files/finance/auction-2026/Notice%20of%20Sale.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (PDF legal notice; county site terms not read)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.monroecounty.gov/files/finance/auction-2026/Notice%20of%20Sale.pdf",
+          "quote": "on the 11th day of September, 2026, at 9:30 a.m. (with pre-bidding registration opening at 8:30 a.m.)"
+        },
+        {
+          "url": "https://www.monroecounty.gov/files/finance/auction-2026/Notice%20of%20Sale.pdf",
+          "quote": "All bidders must present proof of a minimum of $3,000 in good funds to gain entry to the sale site."
+        }
+      ]
+    },
+    {
+      "county": "Onondaga",
+      "slug": "onondaga",
+      "office": "Onondaga County Office of Real Property Tax Services",
+      "phone": null,
+      "address": "421 Montgomery Street, 15th floor, Syracuse, NY 13202 (payment location)",
+      "website": "https://onondaga.gov/rpts/auction/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Absolute Auction & Realty",
+        "url": "https://aarauctions.com/servlet/Search.do?auctionId=8618&itemId=226103"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date posted. The 2026 online auction ran Tuesday, October 6 to Thursday, October 8, 2026 (past).",
+      "how_to_bid": "2026 terms: register online through Absolute Auction & Realty; registrants must owe no delinquent taxes and need a government photo ID (and business paperwork and EIN for a business). Bids are taken online only, the minimum opening bid is $100 per parcel and the highest bid wins. The winner pays a down payment of up to $10,000 or 20% of the final bid, whichever is higher, and the balance at the county office by the posted deadline.",
+      "sources": [
+        {
+          "url": "https://onondaga.gov/rpts/auction/",
+          "read_on": "2026-10-27",
+          "terms": "County website 'Warranties' section: provided 'AS IS', no warranty as to accuracy, information is for informational purposes only; no copying or reuse restriction found.",
+          "terms_url": "https://onondaga.gov/privacy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://onondaga.gov/rpts/auction/",
+          "quote": "BEGINS – Tuesday, October 6th, 2026 (Start at 10am)"
+        },
+        {
+          "url": "https://onondaga.gov/rpts/auction/",
+          "quote": "At the close of the auction, the highest bid wins the property."
+        },
+        {
+          "url": "https://onondaga.gov/rpts/auction/",
+          "quote": "The minimum bid/opening bid for each parcel will be $100."
+        }
+      ]
+    }
+  ]
+}

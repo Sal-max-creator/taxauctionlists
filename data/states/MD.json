@@ -1,0 +1,163 @@
+{
+  "state": "MD",
+  "name": "Maryland",
+  "sale_type": "lien",
+  "overview": "Maryland sells liens, not property: when real property taxes are in arrears, the tax collector of each county (and Baltimore City) must offer the property at a tax sale, and the buyer receives a certificate of sale. Each county runs its own sale and sets its own date and bidding rules, so check the county entries below. The owner can redeem by paying the sale amount plus interest, which state law sets at 6% a year unless a county fixes its own rate by local law. The certificate holder may file to foreclose the right of redemption 6 months after the sale (9 months for owner-occupied homes), and the certificate is void unless foreclosure is filed within 2 years.",
+  "overview_sources": [
+    {
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-808&enactments=false",
+      "quote": "the collector shall proceed to sell and shall sell under this subtitle",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-820&enactments=false",
+      "quote": "6% a year",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-820&enactments=false",
+      "quote": "or as fixed by a law of the County Council",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-833&enactments=false",
+      "quote": "at any time after 6 months from the date of sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtp&section=14-833&enactments=false",
+      "quote": "The certificate is void unless a proceeding to foreclose the right of redemption is filed within 2 years",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Anne Arundel",
+      "slug": "anne-arundel",
+      "office": "Anne Arundel County Office of Finance, Tax Sale Division",
+      "phone": "(410) 222-1735",
+      "address": "44 Calvert Street, Room 110, Annapolis, MD 21401",
+      "website": "https://www.aacounty.org/finance/tax-sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Anne Arundel County Tax Lien Auction Site",
+        "url": "https://annearundel.marylandtaxsale.com/"
+      },
+      "schedule_rule": "The tax sale is held on a date in June as determined by the Controller.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held in June; the county page lists the 2026 remaining liens.",
+      "how_to_bid": "The county's Tax Sale page links to its Tax Lien Auction Site for bidding; registration steps, deadlines and deposits are not stated on the county page. A redeeming owner pays interest at 1.5% per month (18% per year) on the total tax sale price.",
+      "sources": [
+        {
+          "url": "https://www.aacounty.org/finance/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "Website Terms say the site 'is intended for use by the general public for viewing and retrieving information only.' No copying, reuse or redistribution restriction found.",
+          "terms_url": "https://www.aacounty.org/terms-and-conditions-use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.aacounty.org/finance/tax-sale",
+          "quote": "The tax sale is held on a date in June as determined by the Controller."
+        },
+        {
+          "url": "https://www.aacounty.org/finance/tax-sale",
+          "quote": "Please contact our Tax Sale Department at (410) 222-1735."
+        }
+      ],
+      "notes": {
+        "format_note": "'online' is based on the county page linking to a 'Tax Lien Auction Site'; the page itself does not describe the format."
+      }
+    },
+    {
+      "county": "Baltimore City",
+      "slug": "baltimore-city",
+      "office": "City of Baltimore, Tax Sale Information (Department of Finance collections)",
+      "phone": "(410) 396-3000",
+      "address": "City Hall - Room 250, 100 N. Holliday St, Baltimore, MD 21202",
+      "website": "https://www.baltimorecity.gov/tax-sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": "The annual tax sale is normally held during the third week in May.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted on the City's tax sale pages.",
+      "how_to_bid": "The City holds a public online auction. The City's pages we read do not name the platform, registration deadline, deposit or bidding steps; contact the tax sale office (baltimorecitycollections@baltimorecity.gov).",
+      "sources": [
+        {
+          "url": "https://www.baltimorecity.gov/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "No terms-of-use page linked; privacy policy shows 'Copyright © 2026 City of Baltimore. All rights reserved.' No reuse restriction found.",
+          "terms_url": "https://www.baltimorecity.gov/privacy-policy"
+        },
+        {
+          "url": "https://www.baltimorecity.gov/tax-sale/our-work/tax-sale-process",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.baltimorecity.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.baltimorecity.gov/tax-sale",
+          "quote": "The city holds a public online auction."
+        },
+        {
+          "url": "https://www.baltimorecity.gov/tax-sale/our-work/tax-sale-process",
+          "quote": "The annual tax sale is normally held during the third week in May."
+        }
+      ]
+    },
+    {
+      "county": "Prince George's",
+      "slug": "prince-georges",
+      "office": "Prince George's County tax sale (county tax sale website)",
+      "phone": "not stated (email TAXSALE@CO.PG.MD.US)",
+      "address": "not stated",
+      "website": "https://taxsale.princegeorgescountymd.gov/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Prince George's County tax sale website",
+        "url": "https://taxsale.princegeorgescountymd.gov/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 online sale is over (bidding opened May 4, 2026; accounts awarded May 11, 2026), and unsold county-held certificates were offered by email from June 10, 2026.",
+      "how_to_bid": "Per the 2026 Bidding Rules: an Internet-based sealed direct-bid auction using the high-bid premium method, not a live in-person auction. Bidders register on the county tax sale website (no mail-in or email registration), upload an IRS W-9, and pay a non-refundable $150 registration fee and a $1,000 deposit by ACH debit. Bids are entered on the website as a dollar amount or a bid factor; payment is by wire or cashier's check by 3:00 p.m. the day after the sale. Interest: 10% per year for owner-occupied property, 20% for other property.",
+      "sources": [
+        {
+          "url": "https://taxsale.princegeorgescountymd.gov/",
+          "read_on": "2026-10-27",
+          "terms": "not found (no terms or disclaimer link; footer shows only '© 2026 Prince George's County'). No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://taxsale.princegeorgescountymd.gov/BiddingRules.aspx",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://taxsale.princegeorgescountymd.gov/BiddingRules.aspx",
+          "quote": "this is not a live, in-person auction."
+        },
+        {
+          "url": "https://taxsale.princegeorgescountymd.gov/BiddingRules.aspx",
+          "quote": "A non-refundable registration fee of $150.00 and a deposit of $1,000 must be paid via ACH debit."
+        },
+        {
+          "url": "https://taxsale.princegeorgescountymd.gov/",
+          "quote": "Prince George's County tax sale certificates will be available for purchase by email only starting June 10, 2026."
+        },
+        {
+          "url": "https://taxsale.princegeorgescountymd.gov/",
+          "quote": "The interest rate for owner-occupied properties will be ten percent (10%) per annum."
+        }
+      ]
+    }
+  ]
+}

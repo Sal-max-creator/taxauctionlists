@@ -1,0 +1,268 @@
+{
+  "state": "AL",
+  "name": "Alabama",
+  "sale_type": "hybrid",
+  "overview": "In Alabama each county's tax collecting official (the revenue commissioner or tax collector) decides how to collect delinquent property taxes: by selling the property itself at a public tax sale, or by selling the county's tax liens at a public auction. Under the tax-sale method, the Alabama Department of Revenue says a public tax auction is held every year, usually around the first Monday in May, and the owner may redeem within 3 years of the sale by paying the taxes, fees and interest at 12% per annum. Under the tax-lien method, the official auctions delinquent tax liens, the certificate earns the interest rate the buyer bid at the auction, and the holder may not file to foreclose until three years after the auction.",
+  "overview_sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2022RS/PrintFiles/HB371-Enr.pdf",
+      "quote": "shall have the sole authority to decide whether his or her county shall utilize the sale of a tax lien",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2022RS/PrintFiles/HB371-Enr.pdf",
+      "quote": "shall conduct a public auction for the sale and transfer of delinquent tax liens",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2022RS/PrintFiles/HB371-Enr.pdf",
+      "quote": "the interest rate per annum as bid on by the purchaser at the tax lien auction",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2022RS/PrintFiles/HB371-Enr.pdf",
+      "quote": "not less than three years after the auction or sale of a tax lien",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://revenue.alabama.gov/?p=38864",
+      "quote": "A public tax auction is held every year usually the first Monday in May.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://revenue.alabama.gov/?p=38864",
+      "quote": "You may redeem your property within 3 years of sale.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://revenue.alabama.gov/?p=38864",
+      "quote": "at the rate of 12% per annum",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Jefferson",
+      "slug": "jefferson",
+      "office": "Jefferson County Tax Collector (Birmingham) and Assistant Tax Collector (Bessemer Division)",
+      "phone": "205-325-5171 (Birmingham); 205-481-4110 (Bessemer)",
+      "address": "Birmingham: Jefferson County Courthouse, 716 Richard Arrington Jr. Blvd N, A-100 North Annex, Birmingham, AL 35203; Bessemer: Bessemer Courthouse, 1801 3rd Avenue N, Room 109, Bessemer, AL 35020",
+      "website": "https://paca.jccal.org/660/Tax-Lien-Info",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The Bessemer Division's 2025 Tax Lien Auction page gives an auction beginning May 5th from 8:30 AM to 4:00 PM (past).",
+      "how_to_bid": "The Tax Collector adopted the tax lien auction format starting with the 2021 tax year. The Bessemer Division page sends bidders to GovEase to register for the tax lien auction. Deposit, payment and interest terms are not stated on the county pages.",
+      "sources": [
+        {
+          "url": "https://paca.jccal.org/660/Tax-Lien-Info",
+          "read_on": "2026-10-27",
+          "terms": "not found (CivicPlus site; no disclaimer or terms link in page content)",
+          "terms_url": null
+        },
+        {
+          "url": "https://paca.jccal.org/1019/2025-Tax-Delinquent-Parcels---Bessemer-D",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://paca.jccal.org/572/Contact-Information",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://paca.jccal.org/1019/2025-Tax-Delinquent-Parcels---Bessemer-D",
+          "quote": "beginning May 5th from 8:30 AM to 4:00 PM and continue day to day until all liens are offered for auction."
+        },
+        {
+          "url": "https://paca.jccal.org/1019/2025-Tax-Delinquent-Parcels---Bessemer-D",
+          "quote": "To register for the 2025 Tax Lien Auction please visit www.govease.com."
+        },
+        {
+          "url": "https://paca.jccal.org/660/Tax-Lien-Info",
+          "quote": "2021 tax year and shall remain in full force and effect this date forward"
+        }
+      ],
+      "notes": {
+        "format_note": "Registration is through GovEase, an online platform, but the county pages do not state whether bidding is online."
+      }
+    },
+    {
+      "county": "Mobile",
+      "slug": "mobile",
+      "office": "Mobile County Revenue Commission",
+      "phone": "(251) 574 8530",
+      "address": "3925 Michael Blvd Suite G, Mobile, AL 36609 (mail: PO Box 1169, Mobile, AL 36633-1169)",
+      "website": "https://mobilecopropertytax.com/tax-sale-questions/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The newest list is the Tax Year 2025 Official Tax Lien Auction list dated 3.31.2026, for the spring 2026 auction (past).",
+      "how_to_bid": "Delinquent properties are offered at a Mobile County Revenue Commission public auction. The county's FAQ says the owner has three years to redeem through the Land Redemption Department and that the interest rate on tax sale property is 12% annually compounded daily. Registration, deposit and format are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://mobilecopropertytax.com/tax-sale-questions/",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer links only a privacy policy and refund policy; no terms of use)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://mobilecopropertytax.com/tax-sale-questions/",
+          "quote": "at a Mobile County Revenue Commission public auction"
+        },
+        {
+          "url": "https://mobilecopropertytax.com/tax-sale-questions/",
+          "quote": "The interest rate on tax sale property is 12% annually compounded daily."
+        },
+        {
+          "url": "https://mobilecopropertytax.com/tax-sale-questions/",
+          "quote": "As the property owner, you are given a period of three (3) years to redeem the property with this office."
+        }
+      ],
+      "notes": {
+        "list_note": "Past list: https://mobilecopropertytax.com/wp-content/uploads/TY-2025-Official-Tax-Lien-List-alphabetical-3.31.2026.xlsx"
+      }
+    },
+    {
+      "county": "Madison",
+      "slug": "madison",
+      "office": "Madison County Tax Collector",
+      "phone": "256-532-3370",
+      "address": "not stated",
+      "website": "https://madisoncountyal.gov/departments/tax-collector/tax-sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "First Week of May each year-Tax Lien Sale & Auction-Online Only.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted.",
+      "how_to_bid": "Online-only tax lien auction on GovEase. Registration opens 30 days before the auction and applications are made through GovEase. Bids run from a 12% maximum down to 0% (simple interest per annum, prorated monthly). Payment in full by cash, certified funds or wire is due at least one hour before the end of sale day; credit cards are not accepted. Interest stops on the day of redemption, and a lien expires if foreclosure is not started within ten years.",
+      "sources": [
+        {
+          "url": "https://madisoncountyal.gov/departments/tax-collector/tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (no disclaimer or terms link in page content; site terms not checked because the fetch budget ran out)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://madisoncountyal.gov/departments/tax-collector/tax-sale",
+          "quote": "Registration begins 30 days prior to Auction."
+        },
+        {
+          "url": "https://madisoncountyal.gov/departments/tax-collector/tax-sale",
+          "quote": "The maximum bid is 12% simple interest per annum prorated monthly."
+        },
+        {
+          "url": "https://madisoncountyal.gov/departments/tax-collector/tax-sale",
+          "quote": "Payment IN FULL is required at least one hour before the end of the Sale Day."
+        }
+      ]
+    },
+    {
+      "county": "Baldwin",
+      "slug": "baldwin",
+      "office": "Baldwin County Revenue Commission",
+      "phone": "(251) 937-0245",
+      "address": "not stated",
+      "website": "https://baldwincountyal.gov/government/revenue-commission/tax-lien-auction",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 auction began March 24, 2026 (past).",
+      "how_to_bid": "Online tax lien auction on GovEase; register on GovEase and submit a 10% deposit. Bidding on each lien starts at no more than 12% interest and drops in 1% steps toward 0%; each lien is open 30 seconds, and ties at 0% are broken by a random number generator. Pay GovEase by e-check, ACH or wire no later than one hour before close of business on the final day. Redemptions go through the Revenue Commissioner's office in certified funds, with a $10 redemption fee.",
+      "sources": [
+        {
+          "url": "https://baldwincountyal.gov/government/revenue-commission/tax-lien-auction",
+          "read_on": "2026-10-27",
+          "terms": "No terms-of-use link; footer says 'All rights reserved.' The page's disclaimer only tells bidders to research properties themselves. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://baldwincountyal.gov/government/revenue-commission/tax-lien-auction",
+          "quote": "March 24, 2026"
+        },
+        {
+          "url": "https://baldwincountyal.gov/government/revenue-commission/tax-lien-auction",
+          "quote": "Auction starts at 8:30 AM (CST) and will continue until 4:30 PM (CST) each day until the auction is complete."
+        },
+        {
+          "url": "https://baldwincountyal.gov/government/revenue-commission/tax-lien-auction",
+          "quote": "The beginning interest rate bid shall not exceed a rate of 12%."
+        },
+        {
+          "url": "https://baldwincountyal.gov/government/revenue-commission/tax-lien-auction",
+          "quote": "Redemption payments must be made in certified funds (cash, cashier's check, money order)."
+        }
+      ]
+    },
+    {
+      "county": "Tuscaloosa",
+      "slug": "tuscaloosa",
+      "office": "Tuscaloosa County Tax Collector",
+      "phone": "(205) 464-8230",
+      "address": "714 Greensboro Ave, Room 124, Tuscaloosa, AL 35401",
+      "website": "https://www.tuscco.com/tax-collector/tax-lien-sale/frequently-asked-questions/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated upcoming auction posted. The FAQ places the auction in the last week of April, running 10:00 AM to 2:00 PM (CST).",
+      "how_to_bid": "Online-only tax lien auction on GovEase; no bids by mail, phone or fax. Registration opens three weeks before the auction. Bidding starts at no more than 12% interest and drops in 1% steps to 0%. Winning bidders pay GovEase in full after the auction; each lien carries $45 in fees. Liens can be redeemed any time before a foreclosure judgment, and a certificate expires if foreclosure is not started within 10 years.",
+      "sources": [
+        {
+          "url": "https://www.tuscco.com/tax-collector/tax-lien-sale/frequently-asked-questions/",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use: copyright 'All rights reserved' and 'Any rights not expressly granted herein are reserved'; bars obtaining materials through means not intentionally made available. No clause forbidding reuse or redistribution of public information. Restate facts, don't copy pages wholesale.",
+          "terms_url": "https://www.tuscco.com/terms-of-use/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tuscco.com/tax-collector/tax-lien-sale/frequently-asked-questions/",
+          "quote": "Auction starts at 10:00 AM (CST) and will continue until 2:00 PM (CST) until the auction is complete."
+        },
+        {
+          "url": "https://www.tuscco.com/tax-collector/tax-lien-sale/frequently-asked-questions/",
+          "quote": "Bidder registration will be available three weeks prior to the tax lien auction."
+        },
+        {
+          "url": "https://www.tuscco.com/tax-collector/tax-lien-sale/frequently-asked-questions/",
+          "quote": "The beginning interest rate bid shall not exceed a rate of 12%."
+        },
+        {
+          "url": "https://www.tuscco.com/tax-collector/tax-lien-sale/frequently-asked-questions/",
+          "quote": "Redemptions can be made any time following the close of the auction, before judgment of foreclosure is entered."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "state": "MS",
+  "name": "Mississippi",
+  "sale_type": "lien",
+  "overview": "Mississippi sells tax liens, not the land itself, on property with unpaid ad valorem taxes. Each county tax collector holds an annual tax sale under Mississippi Code Sections 27-41-49 to 27-41-89; DeSoto County says that, like most counties, it holds the sale on the last Monday in August each year. Several large counties, including DeSoto and Jackson, now run the sale online through GovEase. After the sale the owner has two years from the purchase date to redeem by paying the taxes plus interest of 1.5% per month; if the property is not redeemed within two years, the purchaser can acquire it.",
+  "overview_sources": [
+    {
+      "url": "https://desotocountyms.gov/508/Tax-Sale",
+      "quote": "DeSoto County, like most counties, holds their Tax Sale on the last Monday in August each year.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://desotocountyms.gov/508/Tax-Sale",
+      "quote": "Mississippi Code Section 27-41-49 to 27-41-89.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes",
+      "quote": "The tax lien sale is held online beginning August 31st.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://desotocountyms.gov/690/Tax-Sale-Information",
+      "quote": "uses an online bidding platform with the assistance of GovEase",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes",
+      "quote": "the owner of the property has two years from the purchase date to pay the taxes plus the interest (1.5% per month)",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "DeSoto",
+      "slug": "desoto",
+      "office": "DeSoto County Tax Collector",
+      "phone": "662-469-8030",
+      "address": "365 Losher Street, Suite 110, Hernando, MS 38632",
+      "website": "https://desotocountyms.gov/690/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "The DeSoto County Tax Collector holds their Tax Sale on the last Monday in August each year.",
+      "sales": [],
+      "next_sale_note": "The 2026 sale (last Monday in August 2026) has passed and its results list is posted. No dated 2027 notice yet. The county also posted a 2025 special sale held 10.06.2025; no 2026 special sale is listed.",
+      "how_to_bid": "The sale is online through GovEase; the county links a bidder registration information sheet (https://desotocountyms.gov/DocumentCenter/View/5708) and GovEase help and training. Once a parcel is sold, the receipt becomes payable in the Chancery Clerk's Delinquent Tax department. Deposit, fees and registration deadline not stated.",
+      "sources": [
+        {
+          "url": "https://desotocountyms.gov/690/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 DeSoto County, MS and its representatives. All rights reserved.' No terms-of-use or disclaimer page and no clause forbidding reuse or redistribution of public information. Restate facts, don't copy pages wholesale.",
+          "terms_url": "https://desotocountyms.gov/site/copyright"
+        },
+        {
+          "url": "https://desotocountyms.gov/508/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 DeSoto County, MS and its representatives. All rights reserved.' No terms-of-use or disclaimer page and no clause forbidding reuse or redistribution of public information. Restate facts, don't copy pages wholesale.",
+          "terms_url": "https://desotocountyms.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://desotocountyms.gov/690/Tax-Sale-Information",
+          "quote": "uses an online bidding platform with the assistance of GovEase"
+        },
+        {
+          "url": "https://desotocountyms.gov/690/Tax-Sale-Information",
+          "quote": "Once a parcel is sold at the Tax Sale, the receipt becomes payable in the Chancery Clerk's Delinquent Tax department."
+        },
+        {
+          "url": "https://desotocountyms.gov/508/Tax-Sale",
+          "quote": "DeSoto County, like most counties, holds their Tax Sale on the last Monday in August each year."
+        }
+      ]
+    },
+    {
+      "county": "Harrison",
+      "slug": "harrison",
+      "office": "Harrison County Tax Collector",
+      "phone": "228-865-4039 or 228-865-4040 #3",
+      "address": "1801 23rd Avenue, Gulfport, MS 39501 (also 730 Dr. Martin Luther King Jr. Blvd, Biloxi; mailing P.O. Box 1270, Gulfport, MS 39502)",
+      "website": "https://harrisoncountyms.gov/government/tax_collector/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": {
+        "name": "GovEase",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted on the Tax Collector page. Unpaid taxes go to the annual Tax Sale; the county's 'Tax Sale/GovEase' page could not be read.",
+      "how_to_bid": "not stated on a readable page. The Tax Collector's menu links a 'Tax Sale/GovEase' page, which suggests the sale runs on GovEase, but that page did not load.",
+      "sources": [
+        {
+          "url": "https://harrisoncountyms.gov/government/tax_collector/",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer, terms-of-use or privacy link on the page (Revize site). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://harrisoncountyms.gov/government/tax_collector/",
+          "quote": "Any payments not received by 5pm Friday before Tax Sale will be considered delinquent and will go to the annual Tax Sale."
+        },
+        {
+          "url": "https://harrisoncountyms.gov/government/tax_collector/",
+          "quote": "Please call 228-865-4039 or 228-865-4040 #3"
+        }
+      ],
+      "notes": {
+        "format_note": "Format left 'unknown': the tax sale page (https://harrisoncountyms.gov/government/tax_collector/tax_sale_govease.php) returned an error, so the GovEase format was not confirmed."
+      }
+    },
+    {
+      "county": "Jackson",
+      "slug": "jackson",
+      "office": "Jackson County Tax Collector",
+      "phone": "228-769-3074",
+      "address": "2915 Canty Street, Pascagoula, MS 39567-4239",
+      "website": "https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "http://www.govease.com/auctions"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held online beginning August 31, 2026 (past): \"The tax lien sale is held online beginning August 31st.\"",
+      "how_to_bid": "Register online with GovEase (registration opened August 3rd for the 2026 sale) and take its free online training. All deposits are made through GovEase; no deposits are taken at county offices, and credit card transactions carry a convenience fee. Bidders can enter maximum bids ahead of time; the sale usually lasts five to seven days. Taxes not paid by the last Friday before the sale are auctioned. If the owner redeems within two years, the purchaser is repaid the lien amount plus 1.5% per month interest (not on the overbid); end-of-sale processing goes through the Chancery Clerk.",
+      "sources": [
+        {
+          "url": "https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes",
+          "read_on": "2026-10-27",
+          "terms": "Footer links a Copyright Notices page (https://www.co.jackson.ms.us/site/copyright), which could not be read (fetch budget ran out); no terms-of-use or disclaimer link and no reuse restriction seen on the page.",
+          "terms_url": "https://www.co.jackson.ms.us/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes",
+          "quote": "All deposits will be done through Govease, no deposits will be taken at our local offices."
+        },
+        {
+          "url": "https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes",
+          "quote": "Online Registration begins August 3rd."
+        },
+        {
+          "url": "https://www.co.jackson.ms.us/376/Annual-Sale-of-Delinquent-Taxes",
+          "quote": "the owner of the property has two years from the purchase date to pay the taxes plus the interest (1.5% per month)"
+        }
+      ]
+    }
+  ]
+}

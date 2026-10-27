@@ -1,0 +1,236 @@
+{
+  "state": "WV",
+  "name": "West Virginia",
+  "sale_type": "lien",
+  "overview": "West Virginia sells tax liens on real estate whose property taxes stay delinquent. By September 10 each year the county sheriff prepares a list of delinquent lands, and the tax liens on them are certified to the State Auditor on October 31. The Auditor then sells each certified tract's tax lien at public auction at the county courthouse, within 90 days after certification, to the highest bidder for at least the taxes, interest and charges due. Under W. Va. Code §11A-3-56 the owner may redeem at any time before a tax deed is issued, paying interest at one percent per month from the date of sale; an unredeemed purchaser can then pursue a tax deed.",
+  "overview_sources": [
+    {
+      "url": "https://code.wvlegislature.gov/11A-3-2/",
+      "quote": "On or before the September 10 of each year, the sheriff shall prepare a second list of delinquent lands,",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://code.wvlegislature.gov/11A-3-2/",
+      "quote": "for disposition pursuant to West Virginia Code §11A-3-44 on the 31st day of October",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://code.wvlegislature.gov/11A-3-2/",
+      "quote": "Upon certification to the Auditor, tax liens on each unredeemed tract or lot, or each unredeemed part thereof",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://code.wvlegislature.gov/11A-3-45/",
+      "quote": "Each tract or lot certified by the Auditor pursuant to §11A-3-44 of this code shall be sold by him or her at public auction",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://code.wvlegislature.gov/11A-3-45/",
+      "quote": "within 90 days after the Auditor has certified the lands as required by §11A-3-44 of this code.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://code.wvlegislature.gov/email/11a-3/",
+      "quote": "may redeem at any time before a tax deed is issued therefor",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://code.wvlegislature.gov/email/11a-3/",
+      "quote": "at the rate of one percent per month from the date of sale",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Kanawha",
+      "slug": "kanawha",
+      "office": "West Virginia State Auditor's Office, County Collections Division",
+      "phone": "304-558-2251 (toll free 877-982-9148)",
+      "address": "1900 Kanawha Blvd. East, Building 1, Room W-100, Charleston, WV 25305; sales are held at the Kanawha County courthouse under W. Va. Code §11A-3-45",
+      "website": "https://www.wvsao.gov/CountyCollections/Default",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale posted. The State Auditor's County Collections page says: \"There are no land sale listings currently available.\" By statute, liens are certified to the Auditor on October 31 and sold within 90 days after certification, but no Kanawha County date has been published.",
+      "how_to_bid": "Bidders pre-register with the State Auditor's County Collections Division; pre-registration covers all counties for one year, and multiple companies must register individually. Each tract or lot is sold to the highest bidder at public auction at the county courthouse. Payment is by check or money order payable to the sheriff of the county, delivered before the close of business on the day of the sale. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use page (https://www.wvsao.gov/Legal/TermsOfUse.aspx) could not be read: the site's robots rules refused it. No reuse restriction appears on the County Collections page itself.",
+          "terms_url": "https://www.wvsao.gov/Legal/TermsOfUse.aspx"
+        },
+        {
+          "url": "https://code.wvlegislature.gov/11A-3-45/",
+          "read_on": "2026-10-27",
+          "terms": "West Virginia Code on the Legislature's site; public law. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "There are no land sale listings currently available."
+        },
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "Pre-registration will allow the bidder(s) to sign up one time per year for all counties within the state."
+        },
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "The payment for any tract or lot purchased at a sale shall be made by check or money order payable to the sheriff"
+        },
+        {
+          "url": "https://code.wvlegislature.gov/11A-3-45/",
+          "quote": "at the courthouse of the county to the highest eligible bidder during the courthouse’s normal operating hours on any business working day"
+        }
+      ],
+      "notes": {
+        "conflict_note": "The Kanawha County Sheriff's collection-enforcement page (https://www.kanawhasheriff.us/tax-2/collection-enforcement/) still says 'Every year, in November, the Sheriff conducts the annual ritual of auctioning any delinquent real estate tax liens.' Its newest sale list found was dated Nov. 15, 2021. Current W. Va. Code §11A-3-2 has the liens certified to the Auditor instead, so that page is treated as outdated and not used as a schedule."
+      }
+    },
+    {
+      "county": "Berkeley",
+      "slug": "berkeley",
+      "office": "West Virginia State Auditor's Office, County Collections Division",
+      "phone": "304-558-2251 (toll free 877-982-9148)",
+      "address": "1900 Kanawha Blvd. East, Building 1, Room W-100, Charleston, WV 25305; sales are held at the Berkeley County courthouse under W. Va. Code §11A-3-45",
+      "website": "https://www.wvsao.gov/CountyCollections/Default",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale posted. The State Auditor's County Collections page says: \"There are no land sale listings currently available.\" By statute, liens are certified to the Auditor on October 31 and sold within 90 days after certification, but no Berkeley County date has been published.",
+      "how_to_bid": "Bidders pre-register with the State Auditor's County Collections Division; pre-registration covers all counties for one year, and multiple companies must register individually. Each tract or lot is sold to the highest bidder at public auction at the county courthouse. Payment is by check or money order payable to the sheriff of the county, delivered before the close of business on the day of the sale. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use page (https://www.wvsao.gov/Legal/TermsOfUse.aspx) could not be read: the site's robots rules refused it. No reuse restriction appears on the County Collections page itself.",
+          "terms_url": "https://www.wvsao.gov/Legal/TermsOfUse.aspx"
+        },
+        {
+          "url": "https://code.wvlegislature.gov/11A-3-45/",
+          "read_on": "2026-10-27",
+          "terms": "West Virginia Code on the Legislature's site; public law. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "There are no land sale listings currently available."
+        },
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "Pre-registration will allow the bidder(s) to sign up one time per year for all counties within the state."
+        },
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "The payment for any tract or lot purchased at a sale shall be made by check or money order payable to the sheriff"
+        },
+        {
+          "url": "https://code.wvlegislature.gov/11A-3-45/",
+          "quote": "at the courthouse of the county to the highest eligible bidder during the courthouse’s normal operating hours on any business working day"
+        }
+      ]
+    },
+    {
+      "county": "Monongalia",
+      "slug": "monongalia",
+      "office": "West Virginia State Auditor's Office, County Collections Division",
+      "phone": "304-558-2251 (toll free 877-982-9148)",
+      "address": "1900 Kanawha Blvd. East, Building 1, Room W-100, Charleston, WV 25305; sales are held at the Monongalia County courthouse under W. Va. Code §11A-3-45",
+      "website": "https://www.wvsao.gov/CountyCollections/Default",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale posted. The State Auditor's County Collections page says: \"There are no land sale listings currently available.\" By statute, liens are certified to the Auditor on October 31 and sold within 90 days after certification, but no Monongalia County date has been published.",
+      "how_to_bid": "Bidders pre-register with the State Auditor's County Collections Division; pre-registration covers all counties for one year, and multiple companies must register individually. Each tract or lot is sold to the highest bidder at public auction at the county courthouse. Payment is by check or money order payable to the sheriff of the county, delivered before the close of business on the day of the sale. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use page (https://www.wvsao.gov/Legal/TermsOfUse.aspx) could not be read: the site's robots rules refused it. No reuse restriction appears on the County Collections page itself.",
+          "terms_url": "https://www.wvsao.gov/Legal/TermsOfUse.aspx"
+        },
+        {
+          "url": "https://code.wvlegislature.gov/11A-3-45/",
+          "read_on": "2026-10-27",
+          "terms": "West Virginia Code on the Legislature's site; public law. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "There are no land sale listings currently available."
+        },
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "Pre-registration will allow the bidder(s) to sign up one time per year for all counties within the state."
+        },
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "The payment for any tract or lot purchased at a sale shall be made by check or money order payable to the sheriff"
+        },
+        {
+          "url": "https://code.wvlegislature.gov/11A-3-45/",
+          "quote": "at the courthouse of the county to the highest eligible bidder during the courthouse’s normal operating hours on any business working day"
+        }
+      ]
+    },
+    {
+      "county": "Cabell",
+      "slug": "cabell",
+      "office": "West Virginia State Auditor's Office, County Collections Division",
+      "phone": "304-558-2251 (toll free 877-982-9148)",
+      "address": "1900 Kanawha Blvd. East, Building 1, Room W-100, Charleston, WV 25305; sales are held at the Cabell County courthouse under W. Va. Code §11A-3-45",
+      "website": "https://www.wvsao.gov/CountyCollections/Default",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale posted. The State Auditor's County Collections page says: \"There are no land sale listings currently available.\" By statute, liens are certified to the Auditor on October 31 and sold within 90 days after certification, but no Cabell County date has been published.",
+      "how_to_bid": "Bidders pre-register with the State Auditor's County Collections Division; pre-registration covers all counties for one year, and multiple companies must register individually. Each tract or lot is sold to the highest bidder at public auction at the county courthouse. Payment is by check or money order payable to the sheriff of the county, delivered before the close of business on the day of the sale. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use page (https://www.wvsao.gov/Legal/TermsOfUse.aspx) could not be read: the site's robots rules refused it. No reuse restriction appears on the County Collections page itself.",
+          "terms_url": "https://www.wvsao.gov/Legal/TermsOfUse.aspx"
+        },
+        {
+          "url": "https://code.wvlegislature.gov/11A-3-45/",
+          "read_on": "2026-10-27",
+          "terms": "West Virginia Code on the Legislature's site; public law. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "There are no land sale listings currently available."
+        },
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "Pre-registration will allow the bidder(s) to sign up one time per year for all counties within the state."
+        },
+        {
+          "url": "https://www.wvsao.gov/CountyCollections/Default",
+          "quote": "The payment for any tract or lot purchased at a sale shall be made by check or money order payable to the sheriff"
+        },
+        {
+          "url": "https://code.wvlegislature.gov/11A-3-45/",
+          "quote": "at the courthouse of the county to the highest eligible bidder during the courthouse’s normal operating hours on any business working day"
+        }
+      ]
+    }
+  ]
+}

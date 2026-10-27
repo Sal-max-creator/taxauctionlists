@@ -3,7 +3,7 @@
   "domain": "taxauctionlists.com",
   "url": "https://taxauctionlists.com",
   "tagline": "Free county tax sale calendar",
-  "public": false,
+  "public": true,
   "signupEndpoint": "/api/subscribe",
   "disclaimer": "Information only, not investment or legal advice. Sale dates, terms and deadlines change; always confirm with the county before you register or bid.",
   "paid": {

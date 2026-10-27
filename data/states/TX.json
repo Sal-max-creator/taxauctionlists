@@ -1117,6 +1117,385 @@
           "quote": "Mail in your completed form with payment no less than 10 days prior to the sale to ensure that you are eligible to bid."
         }
       ]
+    },
+    {
+      "county": "Johnson",
+      "slug": "johnson",
+      "office": "Johnson County Constables (Constable Sale page)",
+      "phone": "(817) 556-6163 (Constable's Office, to check withdrawn properties); (817) 558-0122 (Tax Assessor Collector's Office)",
+      "address": "Constable's Office, Room 112 (street address not stated on the page)",
+      "website": "https://www.johnsoncountytx.org/public-safety/constables/constable-sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "AT APPROXIMATELY 10:00 A.M. IN THE MORNING ON THE FIRST TUESDAY OF THE MONTH.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "The constable page still shows the February 3, 2026 sale; no later sale date or property list is posted.",
+      "how_to_bid": "Come to the Constable's Office, Room 112, to register before 10:00 AM on sale day. Buyers must give the officers conducting the sale a copy of the written authorization (statement) from the Johnson County Tax Assessor Collector's Office; the statement costs $10.00 and takes about two weeks. Sales are as is, to the highest bidder. Payment method and deposit are not stated. Call the Constable's Office to check for withdrawn properties.",
+      "sources": [
+        {
+          "url": "https://www.johnsoncountytx.org/public-safety/constables/constable-sale",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use, disclaimer or privacy page linked; site footer reads '© 2025 Johnson County, TX. All Rights Reserved.' No reuse or redistribution clause found. Restate facts only.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.johnsoncountytx.org/government/county-clerk/land-records-vitals/foreclosure-sales",
+          "read_on": "2026-10-27",
+          "terms": "same as above (County Clerk page; says the Clerk's Office has no involvement in Constable's Tax Sales)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.johnsoncountytx.org/public-safety/constables/constable-sale",
+          "quote": "AT APPROXIMATELY 10:00 A.M. IN THE MORNING ON THE FIRST TUESDAY OF THE MONTH."
+        },
+        {
+          "url": "https://www.johnsoncountytx.org/public-safety/constables/constable-sale",
+          "quote": "There will be a Constable sale on February 3rd, 2026 at 10:00 AM."
+        },
+        {
+          "url": "https://www.johnsoncountytx.org/public-safety/constables/constable-sale",
+          "quote": "you will need to come to the Constable's Office, Room 112, to register prior to 10:00AM on the day of the sale."
+        },
+        {
+          "url": "https://www.johnsoncountytx.org/public-safety/constables/constable-sale",
+          "quote": "There will be a cost of $10.00 to cover the cost of issuing the Statement."
+        }
+      ]
+    },
+    {
+      "county": "Parker",
+      "slug": "parker",
+      "office": "Parker County Constable (Constable Sale page)",
+      "phone": "(682) 294-1044",
+      "address": "1 Courthouse Square, Weatherford, TX 76086 (county address)",
+      "website": "https://www.parkercountytx.gov/517/Constable-Sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The latest notice posted on the Constable Sale page is for June 2, 2026; no later sale is posted.",
+      "how_to_bid": "Bidders must be present at the sale. Property is sold for cash; cashier's checks or money orders payable to Parker County Constable are accepted, in the exact amount, due no later than 4 pm on the sale date. A posted 2026 notice placed the sale at the South Door of the District Court Building, 117 Fort Worth Highway, Weatherford, from 10:00 AM. Call the office to check for withdrawn properties. Registration and deposit are not stated.",
+      "sources": [
+        {
+          "url": "https://www.parkercountytx.gov/517/Constable-Sale",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2026 Parker County, TX and its representatives. All rights reserved.' No reuse or redistribution clause found. Restate facts only.",
+          "terms_url": "https://www.parkercountytx.gov/site/copyright"
+        },
+        {
+          "url": "https://www.parkercountytx.gov/DocumentCenter/View/13282/Updated-March-10-2026-Notice-of-Constable-Tax-Sale-Scheduled-for-April-7-2026",
+          "read_on": "2026-10-27",
+          "terms": "not found (sale notice PDF); site terms as above",
+          "terms_url": "https://www.parkercountytx.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.parkercountytx.gov/517/Constable-Sale",
+          "quote": "Money is due no later than 4 pm on the date of sale."
+        },
+        {
+          "url": "https://www.parkercountytx.gov/517/Constable-Sale",
+          "quote": "All property is sold for cash; however, we will accept cashier’s checks or money orders"
+        },
+        {
+          "url": "https://www.parkercountytx.gov/517/Constable-Sale",
+          "quote": "CONSTABLE SALE JUNE 2, 2026"
+        },
+        {
+          "url": "https://www.parkercountytx.gov/DocumentCenter/View/13282/Updated-March-10-2026-Notice-of-Constable-Tax-Sale-Scheduled-for-April-7-2026",
+          "quote": "at the South Door of the District Court Building, at 117 Fort Worth Highway of the Courthouse of the said County, in the City of Weatherford, Texas"
+        }
+      ]
+    },
+    {
+      "county": "Kaufman",
+      "slug": "kaufman",
+      "office": "Kaufman County Tax Assessor (sales conducted online by the Kaufman County Sheriff's Office)",
+      "phone": "469-376-4100",
+      "address": "Kaufman County Justice Center (Main Courthouse), 1902 E. US Highway 175, Kaufman, TX 75142",
+      "website": "https://kaufmancounty.net/532/Tax-SalesAuctions",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (sheriffsaleauctions.com)",
+        "url": "https://kaufman.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": "Online Tax Sales are held on the first Tuesday of every month if there is property to sell starting at 10 a.m.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No dated sale or property list is posted on the county page; properties appear on the online sale site, and there is no sale in months with nothing to sell.",
+      "how_to_bid": "Register on the online sale site linked from the county page, pay the online deposit and fill out the required forms there; bidders can research listed parcels and place proxy bids before the sale. Bidding starts at taxes due plus interest, penalties and sale costs. Deposit amount and final payment terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://kaufmancounty.net/532/Tax-SalesAuctions",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2026 Kaufman County, TX and its representatives. All rights reserved.' No reuse or redistribution clause found. Restate facts only.",
+          "terms_url": "https://kaufmancounty.net/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://kaufmancounty.net/532/Tax-SalesAuctions",
+          "quote": "Online Tax Sales are held on the first Tuesday of every month if there is property to sell starting at 10 a.m."
+        },
+        {
+          "url": "https://kaufmancounty.net/532/Tax-SalesAuctions",
+          "quote": "Bidders can pay their online deposit and fill out all required forms to participate directly on this site."
+        },
+        {
+          "url": "https://kaufmancounty.net/532/Tax-SalesAuctions",
+          "quote": "If there are no properties to sell at this time there will not be a sale on those Tuesdays."
+        }
+      ]
+    },
+    {
+      "county": "Comal",
+      "slug": "comal",
+      "office": "Comal County Tax Office (online sales; payment to the Comal County Sheriff's Office)",
+      "phone": "830-221-1100 (county main line); MVBA 830-221-1351 for sale questions",
+      "address": "150 N. Seguin Avenue, New Braunfels, Texas 78130 (county mailbox)",
+      "website": "https://www.comalcounty.gov/371/Tax-Sales",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "MVBA Tax Sales (county's tax attorney firm)",
+        "url": "https://www.mvbataxsales.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "not stated",
+          "label": "Online tax sale (last 2026 sale)",
+          "deposit": "None stated; payment in full by cashier's check or money order payable to Comal County Sheriff's Office, received within 24 hours of the close of the sale (2022 Tax Sale Rules)",
+          "registration_deadline": "Register on the MVBA website before 5 pm on the day prior to the sale (county Tax Sales page)",
+          "source_url": "https://www.comalcounty.gov/371/Tax-Sales",
+          "quote": "The last 2026 tax sale is scheduled for November 3rd."
+        },
+        {
+          "date": "2027-03-02",
+          "time": "not stated",
+          "label": "Online tax sale (tentative)",
+          "deposit": "None stated; payment in full by cashier's check or money order payable to Comal County Sheriff's Office, received within 24 hours of the close of the sale (2022 Tax Sale Rules)",
+          "registration_deadline": "Register on the MVBA website before 5 pm on the day prior to the sale (county Tax Sales page)",
+          "source_url": "https://www.comalcounty.gov/371/Tax-Sales",
+          "quote": "The 2027 tax sales are tentatively scheduled for March 2nd, June 1st, August 3rd, and November 2nd.",
+          "note": "County says the 2027 dates are tentative."
+        },
+        {
+          "date": "2027-06-01",
+          "time": "not stated",
+          "label": "Online tax sale (tentative)",
+          "deposit": "None stated; payment in full by cashier's check or money order payable to Comal County Sheriff's Office, received within 24 hours of the close of the sale (2022 Tax Sale Rules)",
+          "registration_deadline": "Register on the MVBA website before 5 pm on the day prior to the sale (county Tax Sales page)",
+          "source_url": "https://www.comalcounty.gov/371/Tax-Sales",
+          "quote": "The 2027 tax sales are tentatively scheduled for March 2nd, June 1st, August 3rd, and November 2nd.",
+          "note": "County says the 2027 dates are tentative."
+        },
+        {
+          "date": "2027-08-03",
+          "time": "not stated",
+          "label": "Online tax sale (tentative)",
+          "deposit": "None stated; payment in full by cashier's check or money order payable to Comal County Sheriff's Office, received within 24 hours of the close of the sale (2022 Tax Sale Rules)",
+          "registration_deadline": "Register on the MVBA website before 5 pm on the day prior to the sale (county Tax Sales page)",
+          "source_url": "https://www.comalcounty.gov/371/Tax-Sales",
+          "quote": "The 2027 tax sales are tentatively scheduled for March 2nd, June 1st, August 3rd, and November 2nd.",
+          "note": "County says the 2027 dates are tentative."
+        },
+        {
+          "date": "2027-11-02",
+          "time": "not stated",
+          "label": "Online tax sale (tentative)",
+          "deposit": "None stated; payment in full by cashier's check or money order payable to Comal County Sheriff's Office, received within 24 hours of the close of the sale (2022 Tax Sale Rules)",
+          "registration_deadline": "Register on the MVBA website before 5 pm on the day prior to the sale (county Tax Sales page)",
+          "source_url": "https://www.comalcounty.gov/371/Tax-Sales",
+          "quote": "The 2027 tax sales are tentatively scheduled for March 2nd, June 1st, August 3rd, and November 2nd.",
+          "note": "County says the 2027 dates are tentative."
+        }
+      ],
+      "next_sale_note": "The county posts sale dates on its Tax Sales page; no property list is posted there (the list is on the MVBA site).",
+      "how_to_bid": "Read the Comal County Online Tax Sale Rules, then register on the MVBA tax sale website before 5 pm the day before the sale; individuals upload a government ID and businesses show bidding authority. Pay the full bid by cashier's check or money order payable to Comal County Sheriff's Office, delivered in person or overnight so it is received within 24 hours of the sale's close. The buyer may be asked for a written statement from the Tax Office before the deed is issued; deeds are Sheriff's Deeds without warranty. Properties can be withdrawn at any time.",
+      "sources": [
+        {
+          "url": "https://www.comalcounty.gov/371/Tax-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2026 Comal County, TX and its representatives. All rights reserved.' No reuse or redistribution clause found. Restate facts only.",
+          "terms_url": "https://www.comalcounty.gov/copyright"
+        },
+        {
+          "url": "https://www.comalcounty.gov/DocumentCenter/View/2821/Comal-County-Tax-Sale-Rules-02-16-2022-PDF",
+          "read_on": "2026-10-27",
+          "terms": "not found (rules PDF dated 2022); site terms as above",
+          "terms_url": "https://www.comalcounty.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.comalcounty.gov/371/Tax-Sales",
+          "quote": "To bid, you must register on the MVBA website before 5 pm on the day prior to the sale."
+        },
+        {
+          "url": "https://www.comalcounty.gov/DocumentCenter/View/2821/Comal-County-Tax-Sale-Rules-02-16-2022-PDF",
+          "quote": "The property will be sold at online auction."
+        },
+        {
+          "url": "https://www.comalcounty.gov/DocumentCenter/View/2821/Comal-County-Tax-Sale-Rules-02-16-2022-PDF",
+          "quote": "received within twenty-four hours from the close of the tax sale"
+        }
+      ]
+    },
+    {
+      "county": "Potter",
+      "slug": "potter",
+      "office": "Potter County Tax Assessor / Collector (Thomas Warren); sales by the Potter County Sheriff's Office",
+      "phone": "(806) 342-2600",
+      "address": "900 S. Polk St, Suite 106 (Santa Fe Building), Amarillo, TX",
+      "website": "https://www.pottercountytax.com/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-01",
+          "time": "10:00 AM, 11th Floor Auditorium, Santa Fe Building (900 S. Polk St, Amarillo)",
+          "label": "Sheriff Sale (delinquent tax properties)",
+          "deposit": "None stated; per the last posted list, payment is due by 3:00 PM on sale day at the Sheriff's Office Civil Division",
+          "registration_deadline": "not stated",
+          "source_url": "https://www.pottercountytax.com/",
+          "quote": "Our next Sheriff Sale will be Tuesday, December 1st, 2026",
+          "note": "The property list linked from the Tax Office site is still the September 1, 2026 list."
+        }
+      ],
+      "next_sale_note": "No property list for the December 1, 2026 sale is posted yet.",
+      "how_to_bid": "Attend the sale in the 11th floor auditorium of the Santa Fe Building at 10 AM. Per the last posted list, bidders must be 18 or older, all sales are final, properties are sold subject to current-year taxes, and payment is due by 3:00 PM on sale day at the Potter County Sheriff's Office Civil Division, 900 S Polk St, 12th Floor, Suite 1212. Payment form and written-statement rules are not stated.",
+      "sources": [
+        {
+          "url": "https://www.pottercountytax.com/",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer found; footer shows '©2026 Potter County'; privacy policy has no reuse clause. Restate facts only.",
+          "terms_url": "https://www.pottercountytax.com/privacy-policy"
+        },
+        {
+          "url": "https://www.pottercountytax.com/faq",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.pottercountytax.com/privacy-policy"
+        },
+        {
+          "url": "https://www.pottercountytax.com/media/Sept%20Sheriff%20Sale%208%2019%2026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (sale list PDF; says the list is provided as a courtesy)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pottercountytax.com/",
+          "quote": "11th Floor Auditorium Santa Fe Building @ 10 AM"
+        },
+        {
+          "url": "https://www.pottercountytax.com/media/Sept%20Sheriff%20Sale%208%2019%2026.pdf",
+          "quote": "BY 3:00 P.M. THE DAY OF THE SALE"
+        },
+        {
+          "url": "https://www.pottercountytax.com/media/Sept%20Sheriff%20Sale%208%2019%2026.pdf",
+          "quote": "18 YEARS OF AGE TO BID AND/OR PURCHASE PROPERTY"
+        }
+      ]
+    },
+    {
+      "county": "Taylor",
+      "slug": "taylor",
+      "office": "Taylor County Sheriff's Office - Civil, with the Central Appraisal District of Taylor County",
+      "phone": "(325) 676-9381 (Taylor Central Appraisal District)",
+      "address": "Sheriff's Office: 301 Oak Street, Suite 200, Abilene, TX 79602; Appraisal District: 1534 S. Treadaway Blvd., Abilene, TX 79602",
+      "website": "https://www.taylorcounty.texas.gov/259/Civil",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Quarterly Sales, held the first Tuesday in March, June, September & December",
+      "sales": [],
+      "next_sale_note": "The latest posted sale was September 1, 2026; no December 2026 sale list is posted on the Appraisal District site.",
+      "how_to_bid": "Sales start at 10:00 am in the Taylor County Courthouse lobby, 300 Oak Street, Abilene. Register with the person conducting the sale and show a valid driver's license. Pay by cash or cashier's check by 5:00 pm on the sale date; buyers get a Sheriff's Deed without warranty. Sale lists are posted at the courthouse and on the Central Appraisal District's website. Deposit and written-statement rules are not stated.",
+      "sources": [
+        {
+          "url": "https://www.taylorcounty.texas.gov/259/Civil",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2026 Taylor County, TX and its representatives. All rights reserved.' No reuse or redistribution clause found. Restate facts only.",
+          "terms_url": "https://www.taylorcounty.texas.gov/site/copyright"
+        },
+        {
+          "url": "https://taylor-cad.org/announcements/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer page found; footer reads '© 2024 Copyright Taylor Central Appraisal District - Official Site'. Restate facts only.",
+          "terms_url": null
+        },
+        {
+          "url": "https://taylor-cad.org/wp-content/uploads/2025/08/Tax-Sale-FAQs.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (FAQ PDF)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.taylorcounty.texas.gov/259/Civil",
+          "quote": "Location: Taylor County Courthouse Lobby, 300 Oak Street"
+        },
+        {
+          "url": "https://taylor-cad.org/wp-content/uploads/2025/08/Tax-Sale-FAQs.pdf",
+          "quote": "The sale begins at 10:00 am."
+        },
+        {
+          "url": "https://taylor-cad.org/wp-content/uploads/2025/08/Tax-Sale-FAQs.pdf",
+          "quote": "must pay for their property BY 5:00 pm on the date of the sale"
+        }
+      ]
+    },
+    {
+      "county": "Wichita",
+      "slug": "wichita",
+      "office": "Wichita County Sheriff's Office",
+      "phone": "not stated",
+      "address": "2815 Central E Fwy, Wichita Falls, TX 76302 (site footer); sales at 900 7th Street, Wichita Falls, TX 76301",
+      "website": "https://wichitacountysheriffsoffice.org/?p=143",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Sales are held the first Tuesday of the month between the hours of 10:00 a.m. and 4:00 p.m.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted online; the property list is posted on the bulletin board outside the Sheriff's Office and published in local newspapers for three weeks before each sale.",
+      "how_to_bid": "Sales are on the court house steps on the south side of the building at 900 7th Street, Wichita Falls. Sign in before bidding; no sealed, internet or phone bids. The successful bidder must be at the Sheriff's Office front desk by 3:00 p.m. to pay by cashier's check or money order only (no cash or personal checks), and must get a Tax Certificate from the Wichita Co. Tax Office at 600 Scott St. showing no taxes owed. Deposit is not stated.",
+      "sources": [
+        {
+          "url": "https://wichitacountysheriffsoffice.org/?p=143",
+          "read_on": "2026-10-27",
+          "terms": "No terms of use or disclaimer found; footer reads '© All Rights Reserved Wichita County'. No reuse or redistribution clause found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://wichitacountysheriffsoffice.org/?p=143",
+          "quote": "on the court house steps on the south side of the building."
+        },
+        {
+          "url": "https://wichitacountysheriffsoffice.org/?p=143",
+          "quote": "If you wish to bid on a particular piece of property at the sale, you must first sign in."
+        },
+        {
+          "url": "https://wichitacountysheriffsoffice.org/?p=143",
+          "quote": "PAYMENT MUST BE EITHER CASHIER’S CHECK OR MONEY ORDER."
+        }
+      ]
     }
   ]
 }

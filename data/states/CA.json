@@ -469,6 +469,84 @@
           "quote": "Tax sales are typically held online in August, with information posted in advance."
         }
       ]
+    },
+    {
+      "county": "Solano",
+      "slug": "solano",
+      "office": "Solano County Treasurer-Tax Collector-County Clerk",
+      "phone": null,
+      "address": null,
+      "website": "https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk/tax-collector/tax-sale-general-information",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Grant Street Group",
+        "url": "https://solano.mytaxsale.com"
+      },
+      "schedule_rule": "Tax sales are generally held in May or June of each year via an online tax auction service.",
+      "sales": [],
+      "next_sale_note": "No 2027 date posted yet; the June 17–18, 2026 reoffer sale has passed. The county says specific dates and parcels are posted as they become available.",
+      "how_to_bid": "Register as a bidder at solano.mytaxsale.com (Grant Street, the auction platform). The county says bidding and participation rules are set before each sale and asks bidders to read its Terms of Sale page, physically inspect properties and run a title search at their own expense. Deposit, registration deadline, auction times and the tax collector's phone and address are not stated on the tax sale page.",
+      "sources": [
+        {
+          "url": "https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk/tax-collector/tax-sale-general-information",
+          "read_on": "2026-10-27",
+          "terms": "County Disclaimer page covers liability, accuracy, endorsement and external links; it says nothing on copying, reuse or redistribution of site content. Footer: '© 2026 Solano County, California'.",
+          "terms_url": "https://www.solanocounty.gov/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk/tax-collector/tax-sale-general-information",
+          "quote": "Tax sales are generally held in May or June of each year via an online tax auction service."
+        },
+        {
+          "url": "https://www.solanocounty.gov/government/treasurer-tax-collector-county-clerk/tax-collector/tax-sale-general-information",
+          "quote": "The Solano County tax sale reoffer will be held from June 17 – 18, 2026."
+        }
+      ]
+    },
+    {
+      "county": "Sonoma",
+      "slug": "sonoma",
+      "office": "Sonoma County Auditor-Controller-Treasurer-Tax Collector, Revenue Accounting Division",
+      "phone": "(707) 565-2281",
+      "address": "585 Fiscal Drive, Suite 100, Santa Rosa, CA 95403",
+      "website": "https://sonomacounty.gov/acttc/tax-defaulted-property-auctions",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/sonoma"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction posted; the most recent was the November 2025 auction. The county page does not say how often auctions are held.",
+      "how_to_bid": "Auctions run online through Bid4Assets, which handles bidder registration and bids; the Tax Collector's office does not register bidders or accept bids. Instructions are at bid4assets.com/sonoma. Successful bidders pay by cashier's check, wire transfer or electronic funds transfer, and a bidder who fails to complete a purchase forfeits any deposit. The property list is published in the Press Democrat three times, once weekly, before the auction. Properties are sold as is and all sales are final; deposit amount not stated.",
+      "sources": [
+        {
+          "url": "https://sonomacounty.gov/acttc/tax-defaulted-property-auctions",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use (Ownership): information on the site 'is considered in the public domain' and 'may be distributed or copied as permitted by law'; some copyrighted data such as photographs may need permission. Footer: '©2022 County of Sonoma. All rights reserved.'",
+          "terms_url": "https://sonomacounty.gov/terms-of-use"
+        },
+        {
+          "url": "https://sonomacounty.gov/administrative-support-and-fiscal-services/auditor-controller-treasurer-tax-collector/divisions/revenue-accounting/tax-defaulted-property-auctions/tax-defaulted-property-auctions-faqs",
+          "read_on": "2026-10-27",
+          "terms": "Same site and Terms of Use.",
+          "terms_url": "https://sonomacounty.gov/terms-of-use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sonomacounty.gov/administrative-support-and-fiscal-services/auditor-controller-treasurer-tax-collector/divisions/revenue-accounting/tax-defaulted-property-auctions/tax-defaulted-property-auctions-faqs",
+          "quote": "Bid4Assets is handling the bidder registration process for this sale"
+        },
+        {
+          "url": "https://sonomacounty.gov/acttc/tax-defaulted-property-auctions",
+          "quote": "ALL SALES ARE FINAL."
+        }
+      ]
     }
   ]
 }

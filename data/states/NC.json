@@ -433,6 +433,109 @@
           "quote": "A new bidder must increase the price by at least 5% or $750, whichever is greater."
         }
       ]
+    },
+    {
+      "county": "New Hanover",
+      "slug": "new-hanover",
+      "office": "New Hanover County Tax Department (sales by a Commissioner; questions on the listed lots go to Kania Law Firm, P.A.)",
+      "phone": "910-798-7311",
+      "address": "230 Government Center Drive, Wilmington, NC 28403",
+      "website": "https://www.nhcgov.com/345/Foreclosures",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted. The last sale listed on the page was May 22, 2026 (three vacant lots, civil no. 23CVS000524-640), which the page says are still available to bid on; contact Kania Law Firm, P.A. at 828-252-8010, Ext. 115.",
+      "how_to_bid": "Bid at the public sale on the front steps of the New Hanover County District Courthouse, 316 Princess Street, Wilmington. The highest bidder pays a deposit of 5% of the bid or $750, whichever is greater, at the end of the sale, in cash or certified bank check only. Bids stay open for ten days for upset bids, which must beat the reported price by 5% and by at least $750 and are filed in person, by certified bank check, with the New Hanover County Clerk of Superior Court (Civil Records Division, 910-772-6603). After confirmation the final bidder pays the balance by certified bank check, records the deed at the Register of Deeds and pays the current year's taxes.",
+      "sources": [
+        {
+          "url": "https://www.nhcgov.com/345/Foreclosures",
+          "read_on": "2026-10-27",
+          "terms": "Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 New Hanover County, NC and its representatives. All rights reserved.'",
+          "terms_url": "https://www.nhcgov.com/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nhcgov.com/345/Foreclosures",
+          "quote": "All sales are conducted on the front steps of the New Hanover County District Courthouse"
+        },
+        {
+          "url": "https://www.nhcgov.com/345/Foreclosures",
+          "quote": "Sale Date: May 22, 2026"
+        },
+        {
+          "url": "https://www.nhcgov.com/345/Foreclosures",
+          "quote": "Please contact Kania Law Firm, P.A. at 828-252-8010, Ext. 115 for further information."
+        }
+      ]
+    },
+    {
+      "county": "Brunswick",
+      "slug": "brunswick",
+      "office": "Brunswick County Government (Tax Foreclosures)",
+      "phone": "800-442-7033",
+      "address": "30 Government Center Drive NE, Bolivia, NC 28422",
+      "website": "https://brunswickcountync.gov/493",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted on the county's Tax Foreclosures page; it lists properties for the next auction and points to the county's Legal Notices for sale notices.",
+      "how_to_bid": "Attend the auction in person on the steps of the Brunswick County Courthouse in Bolivia, rain or shine. Winning bidders pay a 5% deposit right after the auction in cash, certified bank check, bank cashier's check or money order (no personal checks, no county financing). A 10-day upset bid period follows; an upset bid must beat the previous bid by 5% or $750, whichever is greater, and is paid to the Clerk of Court at the courthouse. The winning bidder has one week from notification to pay in full and receives a commissioner's deed to record with the Register of Deeds. Properties are sold as is and all sales are final.",
+      "sources": [
+        {
+          "url": "https://brunswickcountync.gov/493",
+          "read_on": "2026-10-27",
+          "terms": "Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Brunswick County, NC and its representatives. All rights reserved.'",
+          "terms_url": "https://brunswickcountync.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://brunswickcountync.gov/493",
+          "quote": "Each Tax Foreclosure Auction takes place on the steps of the Brunswick County Courthouse in Bolivia, NC, rain or shine."
+        },
+        {
+          "url": "https://brunswickcountync.gov/493",
+          "quote": "The minimum upset bid must exceed the previous bid by 5% or $750 whichever is greater."
+        }
+      ]
+    },
+    {
+      "county": "Catawba",
+      "slug": "catawba",
+      "office": "Catawba County Tax Administration (sales conducted by outside law firms: Zacchaeus Legal Services and The Kania Law Firm)",
+      "phone": "(828) 465-8200",
+      "address": "25 Government Drive, Newton, NC 28658",
+      "website": "https://catawbacountync.gov/county-services/tax/online-search/search-foreclosure-sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The page lists three Zacchaeus Legal Services sales dated October 13, 2026 (already past); The Kania Law Firm shows no sales scheduled.",
+      "how_to_bid": "Bid in person at the public auction on the front steps of the Catawba County Justice Center, 100 Government Drive, Newton. The winning bidder pays a 20% cash deposit right after the sale, then the balance plus recording fees and revenue stamps before the sale is confirmed. Bids stay open ten days for upset bids, which must beat the reported price by 5% and by at least $750, paid by certified bank check to the Clerk of Superior Court and filed in person (Civil Records Division, (828) 695-6100). Sale time is not stated.",
+      "sources": [
+        {
+          "url": "https://catawbacountync.gov/county-services/tax/online-search/search-foreclosure-sales",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer page reserves rights ('Copyright 2020. Catawba County Government. All Rights Reserved.' and 'Any rights not expressly granted herein are reserved.'); its posting rules apply to forum use. No ban on reuse or redistribution of the information found.",
+          "terms_url": "https://catawbacountync.gov/disclaimer/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://catawbacountync.gov/county-services/tax/online-search/search-foreclosure-sales",
+          "quote": "All sales are conducted on the front steps of the Catawba County Justice Center"
+        },
+        {
+          "url": "https://catawbacountync.gov/county-services/tax/online-search/search-foreclosure-sales",
+          "quote": "The upset bid must exceed the reported sale price by 5%"
+        }
+      ]
     }
   ]
 }

@@ -532,6 +532,48 @@
           "quote": "The Clerk and Master files civil matters in Chancery Court, collects delinquent taxes, and handles auctions to recover delinquent property taxes."
         }
       ]
+    },
+    {
+      "county": "Maury",
+      "slug": "maury",
+      "office": "Maury County Clerk & Master (Chancery Court)",
+      "phone": "931-381-3690",
+      "address": "1 Public Square, Columbia, TN 38401",
+      "website": "https://www.maurycounty-tn.gov/210/Clerk-Master",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The county calendar's last listed online tax sale was on GovEase, with registration opening February 3, 2026 and pre-bidding from March 2; no later date posted.",
+      "how_to_bid": "The Chancery Court collects delinquent property taxes for Maury County and the cities of Columbia, Mount Pleasant and Spring Hill. The 2026 sale was held online on GovEase, where bidders create an account and register. Deposit, payment and redemption terms are not stated on the county pages.",
+      "sources": [
+        {
+          "url": "https://www.maurycounty-tn.gov/210/Clerk-Master",
+          "read_on": "2026-10-27",
+          "terms": "Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Maury County, TN and its representatives. All rights reserved.'",
+          "terms_url": "https://www.maurycounty-tn.gov/site/copyright"
+        },
+        {
+          "url": "https://maurycounty-tn.gov/Calendar.aspx?EID=2329",
+          "read_on": "2026-10-27",
+          "terms": "Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Maury County, TN and its representatives. All rights reserved.'",
+          "terms_url": "https://www.maurycounty-tn.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.maurycounty-tn.gov/210/Clerk-Master",
+          "quote": "The Chancery Court also collects delinquent property taxes for Maury County"
+        },
+        {
+          "url": "https://maurycounty-tn.gov/Calendar.aspx?EID=2329",
+          "quote": "We are excited to announce that the Maury County TN sale will be held online."
+        }
+      ]
     }
   ]
 }

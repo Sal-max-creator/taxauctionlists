@@ -1,0 +1,324 @@
+{
+  "state": "SC",
+  "name": "South Carolina",
+  "sale_type": "redeemable deed",
+  "overview": "In South Carolina each county's official in charge of collecting delinquent taxes (usually the Delinquent Tax Collector or Treasurer) sells tax-delinquent real estate at a public auction at the courthouse or another convenient place in the county, after advertising it under the heading \"Delinquent Tax Sale\"; most counties hold one sale a year in the fall. The winning bid must be paid in full on the day of the sale by cash, cashier's check, certified check or money order. The owner, or a mortgage or judgment creditor, may redeem the property within twelve months from the date of the sale by paying the taxes, costs and interest on the bid amount of 3% in the first three months, 6% in months four to six, 9% in months seven to nine and 12% in the last three months, capped at the amount of the bid. If the property is not redeemed, the official makes a tax title to the purchaser.",
+  "overview_sources": [
+    {
+      "url": "https://www.scstatehouse.gov/code/t12c051.php",
+      "quote": "at public auction at the courthouse or other convenient place",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.scstatehouse.gov/code/t12c051.php",
+      "quote": "payable in full by cash, cashier's check, certified check, or money order on the date of the sale",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.scstatehouse.gov/code/t12c051.php",
+      "quote": "may within twelve months from the date of the delinquent tax sale redeem each item of real estate",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.scstatehouse.gov/code/t12c051.php",
+      "quote": "three percent of the bid amount",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.scstatehouse.gov/code/t12c051.php",
+      "quote": "shall make a tax title to the purchaser",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://greenvillecountysc.gov/TaxCollector/TaxSaleProcedures.aspx",
+      "quote": "may redeem each item of real estate within twelve months from the date of the delinquent tax sale.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Greenville",
+      "slug": "greenville",
+      "office": "Greenville County Tax Collector's Office",
+      "phone": "864.467.7050",
+      "address": "301 University Ridge, Suite S-1100, Greenville, SC 29601",
+      "website": "https://greenvillecountysc.gov/TaxCollector/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was October 19 - 20, 2026 at the Greenville Convention Center (past): 'October 19 - 20, 2026'.",
+      "how_to_bid": "Register in advance (registration opens at least 30 days before the sale; no onsite registration on sale day) using the county's online bidder registration, and bring photo ID. Bids are made in person at the public auction at the Greenville Convention Center, 1 Exposition Drive; properties are sold in alphabetical order by the defaulting taxpayer's last name, opening at the delinquent taxes, penalties and costs. The winning bid must be paid in full the day of the sale in cash, postal money order, cashier's check or certified check; failing to pay can bring a $500 per-property charge.",
+      "sources": [
+        {
+          "url": "https://greenvillecountysc.gov/TaxCollector/",
+          "read_on": "2026-10-27",
+          "terms": "No reuse or copying restriction found; footer says 'All rights reserved'. The Legal Notice's ownership language covers comments users submit, not site content.",
+          "terms_url": "https://greenvillecountysc.gov/LegalNotice.aspx"
+        },
+        {
+          "url": "https://greenvillecountysc.gov/TaxCollector/pdf/TaxSale.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://greenvillecountysc.gov/LegalNotice.aspx"
+        },
+        {
+          "url": "https://greenvillecountysc.gov/TaxCollector/TaxSaleProcedures.aspx",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://greenvillecountysc.gov/LegalNotice.aspx"
+        },
+        {
+          "url": "https://greenvillecountysc.gov/TaxCollector/TaxSaleFAQ.aspx",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://greenvillecountysc.gov/LegalNotice.aspx"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://greenvillecountysc.gov/TaxCollector/pdf/TaxSale.pdf",
+          "quote": "October 19 - 20, 2026"
+        },
+        {
+          "url": "https://greenvillecountysc.gov/TaxCollector/",
+          "quote": "There will be no onsite registration on the day of the sale."
+        },
+        {
+          "url": "https://greenvillecountysc.gov/TaxCollector/TaxSaleProcedures.aspx",
+          "quote": "The tax sale is conducted as a public auction at the Greenville Convention Center, 1 Exposition Drive,"
+        },
+        {
+          "url": "https://greenvillecountysc.gov/TaxCollector/TaxSaleFAQ.aspx",
+          "quote": "The winning bid must be paid in full the day of the sale."
+        },
+        {
+          "url": "https://greenvillecountysc.gov/TaxCollector/TaxSaleFAQ.aspx",
+          "quote": "Bids must be made in person."
+        }
+      ]
+    },
+    {
+      "county": "Richland",
+      "slug": "richland",
+      "office": "Richland County Treasurer (Office of Kendra Dove)",
+      "phone": "803-576-2250",
+      "address": "2020 Hampton St., Columbia, SC 29204",
+      "website": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "end_date": "2026-11-03",
+          "time": "10:00 AM (continues at 9:00 AM Tuesday, November 3, 2026 if not concluded)",
+          "label": "Richland County delinquent tax sale",
+          "deposit": "None stated; full payment of the winning bid on the sale date(s) in cash, certified bank cashier's check or bank wire",
+          "registration_deadline": "All bidders must be registered by October 26th and their $50.00 fee paid (online registration only; no in-person registration)",
+          "list_url": "https://www.richlandcountysc.gov/files/assets/county/v/4/treasurer/documents/real-estate10_23_2026.xlsx",
+          "list_note": "County real estate list (Excel, updated weekly; this file dated 10/23/2026). Mobile home lists and a map are linked from the tax sale page.",
+          "note": "Held at Richland County Township Auditorium, 1703 Taylor St., Columbia, SC 29201. Payments to keep a property out of the sale were due by 5 p.m. Friday, October 30, 2026.",
+          "source_url": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
+          "quote": "Monday, November 2, 2026 beginning at 10 a.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register online through the county's tax sale bidder registration and pay the $50.00 fee by the deadline (no in-person registration). The sale is an in-person auction at the Township Auditorium; property is sold as is, for cash, to the highest bidder, with bidding opening at the delinquent taxes, costs of sale and current-year taxes. Full payment of a winning bid is required on the sale date(s) in cash, certified bank cashier's check or bank wire; bids are final and a failure to pay brings a $500.00 fine per bid plus court costs.",
+      "sources": [
+        {
+          "url": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "No reuse or copying restriction found in the Disclaimer; its ownership language covers comments users submit, not site content.",
+          "terms_url": "https://www.richlandcountysc.gov/Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
+          "quote": "If the sale is not concluded on that day, it will continue at 9 a.m., Tuesday, November 3, 2026,"
+        },
+        {
+          "url": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
+          "quote": "All bidders must be registered by October 26th and their $50.00 fee paid or they will not be allowed to bid."
+        },
+        {
+          "url": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
+          "quote": "Full payment of your winning bid is required on the date(s) of the tax sale"
+        },
+        {
+          "url": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
+          "quote": "The property described herein will be sold at the Richland County Township Auditorium, 1703 Taylor St., Columbia, SC 29201,"
+        }
+      ]
+    },
+    {
+      "county": "Horry",
+      "slug": "horry",
+      "office": "Treasurer of Horry County - Delinquent Tax Department",
+      "phone": "843-915-5472",
+      "address": "1301 Second Avenue, Conway, SC 29526 (mail: P.O. Box 1828, Conway, SC 29528)",
+      "website": "https://www.horrycountysc.gov/departments/treasurer/delinquent-tax/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Sale time, date and location will be listed in newspaper advertisement in November.",
+      "sales": [],
+      "next_sale_note": "2026 sale date not yet posted on the county page; the county says the time, date and location will be in a newspaper advertisement in November. 2026 delinquent lists (dated 10.23.26) are posted.",
+      "how_to_bid": "Submit the 2026 Bidder Application linked from the Delinquent Tax page. Per the county's most recent readable bidder sheet (for the December 3, 2024 sale), registration cost $25.00, the sale was an open bid sale using numbered bidder cards, the opening bid (made for the Forfeited Land Commission) covered delinquent taxes, penalties, costs and current-year taxes, all bids had to be paid at the close of the sale in cash or certified funds, and each sold property carried a $450.00 title search and deed preparation charge. Check the 2026 tax sale information for current terms.",
+      "sources": [
+        {
+          "url": "https://www.horrycountysc.gov/departments/treasurer/delinquent-tax/",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use: 'All contents of the Horry County Government Web Site are: ©2022 by Horry County Government - All rights reserved.' and 'Any rights not expressly granted herein are reserved.' No explicit ban on copying or reusing facts found; no personal/non-commercial-use clause.",
+          "terms_url": "https://www.horrycountysc.gov/terms/"
+        },
+        {
+          "url": "https://www.horrycountysc.gov/media/abgkgrll/bidder-tax-sale-information.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.horrycountysc.gov/terms/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.horrycountysc.gov/departments/treasurer/delinquent-tax/",
+          "quote": "Tax Sale time, date and location will be listed in newspaper advertisement in November."
+        },
+        {
+          "url": "https://www.horrycountysc.gov/departments/treasurer/delinquent-tax/",
+          "quote": "Redemption period is a period of time allowed by the law (12 months from the date of the sale)"
+        },
+        {
+          "url": "https://www.horrycountysc.gov/media/abgkgrll/bidder-tax-sale-information.pdf",
+          "quote": "This is an open bid sale, and bidders must use their numbered bidder cards to place a bid."
+        },
+        {
+          "url": "https://www.horrycountysc.gov/media/abgkgrll/bidder-tax-sale-information.pdf",
+          "quote": "All bids must be paid at the close of the sale."
+        }
+      ],
+      "notes": {
+        "list_note": "Real estate list: https://www.horrycountysc.gov/media/urdazygf/2026-real-estate-delinquent-list-102326.xlsx (county file, 10.23.26). The 2026 tax sale information file is a .docx we could not read."
+      }
+    },
+    {
+      "county": "Spartanburg",
+      "slug": "spartanburg",
+      "office": "Spartanburg County Tax Collector",
+      "phone": "(864) 596-2597",
+      "address": "Administration Building, 366 N Church Street, Spartanburg, SC 29303",
+      "website": "https://www.spartanburgcounty.gov/640/2025-Tax-Sale-Info",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 date not yet posted on the county pages we read; the newest posted sale was November 18th and 19th, 2025 (past).",
+      "how_to_bid": "Complete a Spartanburg County Bidder Registration Form and IRS Form W-9 and submit them to the Tax Collector's office online; there is no charge to register. Bidder numbers are issued at check-in just before the sale. In 2025 the sale was held in person at Spartanburg Memorial Auditorium, opening at the delinquent taxes, penalties, costs and current taxes; all bids had to be paid by cash, cashier's check, certified check or money order by the end of the sale, with a $500.00 charge for each bid not paid on time.",
+      "sources": [
+        {
+          "url": "https://www.spartanburgcounty.gov/640/2025-Tax-Sale-Info",
+          "read_on": "2026-10-27",
+          "terms": "No reuse terms found; copyright page footer: 'All content © 2006-2026 Spartanburg County, SC and its representatives. All rights reserved.'",
+          "terms_url": "https://www.spartanburgcounty.gov/copyright"
+        },
+        {
+          "url": "https://www.spartanburgcounty.gov/1206/Notice-to-Bidders-of-Terms-and-Condition",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.spartanburgcounty.gov/copyright"
+        },
+        {
+          "url": "https://www.spartanburgcounty.gov/1205/Bidder-Registration-Procedures",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.spartanburgcounty.gov/copyright"
+        },
+        {
+          "url": "https://www.spartanburgcounty.gov/m/faq?cat=36",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.spartanburgcounty.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.spartanburgcounty.gov/640/2025-Tax-Sale-Info",
+          "quote": "Tax Sale Dates are November 18th and 19th, 2025"
+        },
+        {
+          "url": "https://www.spartanburgcounty.gov/m/faq?cat=36",
+          "quote": "There is not a charge for registering to bid."
+        },
+        {
+          "url": "https://www.spartanburgcounty.gov/1206/Notice-to-Bidders-of-Terms-and-Condition",
+          "quote": "All bids must be paid by cash, cashier's check, certified check, or money order by the end of the sale."
+        },
+        {
+          "url": "https://www.spartanburgcounty.gov/1205/Bidder-Registration-Procedures",
+          "quote": "Bidder number will be issued at Bidder check-in immediately before the tax sale begins."
+        }
+      ]
+    },
+    {
+      "county": "Lexington",
+      "slug": "lexington",
+      "office": "Lexington County Treasurer - Delinquent Tax Department",
+      "phone": "(803) 785-8345",
+      "address": "212 South Lake Drive, Suite 101, Lexington, SC 29072",
+      "website": "https://www.lex-co.sc.gov/departments/treasurer/delinquent-taxes",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "time": "10:00 AM",
+          "label": "Lexington County delinquent tax sale",
+          "deposit": "None stated; sold for cash, with immediate compliance",
+          "registration_deadline": "Online bidder registration only, available 09/14/2026 - 10/29/2026",
+          "register_by": "2026-10-29",
+          "list_url": "https://www.lex-co.sc.gov/sites/lexco/files/Documents/Lexington%20County/Departments/Treasurer/Delinquent/REAL%20ESTATE%202026%20AD%20%231.pdf",
+          "list_note": "County real estate advertisement #1; advertisement #2, life estates and mobile home lists are linked from the delinquent taxes page.",
+          "note": "At the Lexington County Barr Road Sports Complex, 213 Barr Road, Lexington, SC 29072. The county says these dates are subject to change.",
+          "source_url": "https://www.lex-co.sc.gov/sites/lexco/files/Documents/Lexington%20County/Departments/Treasurer/Delinquent/2026%20Real%20Estate%20Header.pdf",
+          "quote": "beginning at 10:00 o'clock AM, NOVEMBER 2, 2026"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register online only, during the posted registration window. The property is sold for cash to the highest bidder, with immediate compliance; the starting bid includes the current year's (2026) tax. No tax sale payments are taken in the Delinquent Tax office on sale day, and delinquent tax payments at the sale site are taken only until 10:00 AM.",
+      "sources": [
+        {
+          "url": "https://www.lex-co.sc.gov/departments/treasurer/delinquent-taxes",
+          "read_on": "2026-10-27",
+          "terms": "No reuse restriction found. Disclaimer: 'does not make any representations concerning the user's rights, if any, to further duplicate the information'; footer 'Copyright © State of South Carolina'.",
+          "terms_url": "https://www.lex-co.sc.gov/disclaimer"
+        },
+        {
+          "url": "https://www.lex-co.sc.gov/sites/lexco/files/Documents/Lexington%20County/Departments/Treasurer/Delinquent/2026%20Real%20Estate%20Header.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.lex-co.sc.gov/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lex-co.sc.gov/departments/treasurer/delinquent-taxes",
+          "quote": "ONLINE BIDDER REGISTRATION ONLY. REGISTRATION WILL BE AVAILABLE 09/14/2026 - 10/29/2026."
+        },
+        {
+          "url": "https://www.lex-co.sc.gov/departments/treasurer/delinquent-taxes",
+          "quote": "THESE DATES ARE SUBJECT TO CHANGE."
+        },
+        {
+          "url": "https://www.lex-co.sc.gov/sites/lexco/files/Documents/Lexington%20County/Departments/Treasurer/Delinquent/2026%20Real%20Estate%20Header.pdf",
+          "quote": "The starting bid will include the current year’s (2026) tax."
+        }
+      ]
+    }
+  ]
+}

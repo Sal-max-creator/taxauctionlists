@@ -1,0 +1,238 @@
+{
+  "state": "NC",
+  "name": "North Carolina",
+  "sale_type": "deed",
+  "overview": "North Carolina counties do not sell tax lien certificates; they collect delinquent property taxes by foreclosing on the land and selling the property itself. A county can foreclose either through a court action in the nature of a mortgage foreclosure, where the judgment appoints a commissioner who sells the property by public auction to the highest bidder, or through the in rem method, where the tax collector files a certificate with the clerk of superior court and the sheriff sells the property like other real property sold under execution. After the auction the high bid stays open for upset bids: anyone may raise it by at least five percent, with a minimum increase of $750, and each upset bid starts a new 10-day period. Once the sale is confirmed the commissioner delivers the deed on payment of the price, and the buyer takes the property free and clear of most claims; the owner can stop the foreclosure by paying before the sale is confirmed, but there is no redemption period after it.",
+  "overview_sources": [
+    {
+      "url": "https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html",
+      "quote": "The foreclosure action authorized by this section is in the nature of an action to foreclose a mortgage",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html",
+      "quote": "The judgment shall appoint a commissioner to conduct the sale and shall order that the property be sold in fee simple.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html",
+      "quote": "The sale shall be by public auction to the highest bidder.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html",
+      "quote": "In case of redemption before confirmation of the foreclosure sale,",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.ncleg.gov/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-374.html",
+      "quote": "The judgment of confirmation shall direct the commissioner to deliver the deed upon payment of the purchase price.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-375.html",
+      "quote": "the real property shall be sold by the sheriff in the same manner as other real property is sold under execution",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_105/gs_105-375.html",
+      "quote": "The purchaser at the execution sale acquires title to the property in fee simple free and clear of all claims, rights, interests, and liens.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1/GS_1-339.25.html",
+      "quote": "by a minimum of five percent (5%) thereof,",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1/GS_1-339.25.html",
+      "quote": "but in any event with a minimum increase of seven hundred fifty dollars ($750.00).",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1/GS_1-339.25.html",
+      "quote": "there may be successive upset bids, each of which shall be followed by a period of 10 days for a further upset bid.",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Mecklenburg",
+      "slug": "mecklenburg",
+      "office": "Mecklenburg County Office of the Tax Collector (in rem foreclosures handled by the Office of the County Attorney)",
+      "phone": "980-314-8280",
+      "address": "Valerie C. Woodard Center, 3205 Freedom Dr., Ste 3000, Charlotte, NC 28208",
+      "website": "https://tax.mecknc.gov/service/rem-foreclosures",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sales are posted on the county's In Rem Foreclosures page; the county's printable foreclosure property list is hosted on a file service that refused our reader.",
+      "how_to_bid": "Not stated on the county page beyond these rules: foreclosures are in rem actions under NCGS 105-375, each property is sold as-is and bidders must research it themselves, and bidders must act independently (collusion or bid rigging can be prosecuted under G.S. 75-1). Deposit, upset bid and payment terms are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://tax.mecknc.gov/service/rem-foreclosures",
+          "read_on": "2026-10-27",
+          "terms": "No general reuse restriction found. Privacy and Legal Notices restrict only the County Seal and logos: 'none of these images may be used in any form whatsoever without the expressed written consent of their respective owner(s).'",
+          "terms_url": "https://www.mecknc.gov/Policies/Privacy-and-Legal-Notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://tax.mecknc.gov/service/rem-foreclosures",
+          "quote": "An Assistant County Attorney is assigned to the Office of the Tax Collector to handle tax foreclosures."
+        },
+        {
+          "url": "https://tax.mecknc.gov/service/rem-foreclosures",
+          "quote": "Free and open competition must exist in bidding at all times."
+        }
+      ]
+    },
+    {
+      "county": "Wake",
+      "slug": "wake",
+      "office": "Wake County Department of Tax Administration (sales executed by the Wake County Sheriff's Office)",
+      "phone": "919-856-5400",
+      "address": "not stated",
+      "website": "https://wake.gov/departments-government/tax-administration/real-estate/foreclosures",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale dated yet: the foreclosure list (updated October 22, 2026) shows 'Date of Sale: To Be Announced' for each property. The county updates dates as the Sheriff's Office provides them.",
+      "how_to_bid": "Sales are public auctions run by the Sheriff's Office at the Wake County Courthouse (Salisbury Street entrance); notice is published 20 days before the auction. The successful bidder must make a cash deposit of 10% of the bid. The bid then stays open 10 days for upset bids of at least 5% of the current bid or $750, whichever is greater, filed with the Clerk of Superior Court on the 1st floor of the courthouse. Properties are sold as-is.",
+      "sources": [
+        {
+          "url": "https://wake.gov/departments-government/tax-administration/real-estate/foreclosures",
+          "read_on": "2026-10-27",
+          "terms": "No reuse restriction found. Disclaimers page: 'All information contained within the Wake County website is public record.' Footer: 'Copyright © 2026. All rights reserved.' Logo use needs written permission.",
+          "terms_url": "https://www.wake.gov/disclaimers"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://wake.gov/departments-government/tax-administration/real-estate/foreclosures",
+          "quote": "North Carolina does not sell tax lien certificates"
+        },
+        {
+          "url": "https://wake.gov/departments-government/tax-administration/real-estate/foreclosures",
+          "quote": "The successful bidder at this sale is required to make a cash deposit of 10% of the bid."
+        },
+        {
+          "url": "https://wake.gov/departments-government/tax-administration/real-estate/foreclosures",
+          "quote": "The minimum amount accepted for an upset bid is 5% of the current bid amount, or $750, whichever is greater."
+        },
+        {
+          "url": "https://wake.gov/departments-government/tax-administration/real-estate/foreclosures",
+          "quote": "Upset bids are made with the Clerk of Superior Court, located on the 1st Floor of the Wake County Courthouse."
+        }
+      ]
+    },
+    {
+      "county": "Forsyth",
+      "slug": "forsyth",
+      "office": "Forsyth County Tax Administration (Tax Collector, through an outside foreclosure attorney)",
+      "phone": "336 703 2300",
+      "address": "201 North Chestnut Street, Winston-Salem, NC 27101",
+      "website": "https://www.forsyth.cc/tax/foreclosure.aspx",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-06",
+          "time": "12:00 PM",
+          "label": "Forsyth County tax foreclosure auction",
+          "deposit": "5% - 20% of the highest bid, as set out in the Notice of Sale (cash, money orders or certified funds)",
+          "registration_deadline": "not stated",
+          "list_url": "https://www.forsyth.cc/tax/foreclosure_prop.aspx",
+          "list_note": "County list of foreclosure sale properties; five properties show the November 6, 2026 sale.",
+          "note": "Rescheduled from October 9. At the Forsyth County Courthouse, 2nd floor, 175 N. Chestnut St., Winston-Salem.",
+          "source_url": "https://www.forsyth.cc/tax/foreclosure_prop.aspx",
+          "quote": "The Tax Foreclosure Auction scheduled for October 9th has been rescheduled for November 6, 2026."
+        }
+      ],
+      "next_sale_note": "Sale dates are set as needed.",
+      "how_to_bid": "Attend the auction in person; only bids from auction attendees are accepted. The high bidder pays a deposit of 5% - 20% of the bid (per the Notice of Sale) in cash, money order or certified funds. Upset bids of at least 5% over the last bid (minimum increase $750) are filed in person at the Civil Department, 1st floor, Forsyth County Courthouse, with the court case number, during the 10-day upset period. Final payment is due at the foreclosure attorney's office on delivery of the Commissioner's Deed, no later than 30 days after the upset period ends. Properties are sold as is.",
+      "sources": [
+        {
+          "url": "https://www.forsyth.cc/tax/foreclosure.aspx",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms link found (footer has only Accessibility); footer: 'Copyright © 2026 Forsyth County, North Carolina.'",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.forsyth.cc/tax/foreclosure_prop.aspx",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms link found (footer has only Accessibility); footer: 'Copyright © 2026 Forsyth County, North Carolina.'",
+          "terms_url": null
+        },
+        {
+          "url": "https://forsyth.cc/tax/foreclosure_faq.aspx",
+          "read_on": "2026-10-27",
+          "terms": "No disclaimer or terms link found (footer has only Accessibility); footer: 'Copyright © 2026 Forsyth County, North Carolina.'",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.forsyth.cc/tax/foreclosure_prop.aspx",
+          "quote": "Under and by virtue of an order of the Superior Court of Forsyth County, NC, the undersigned Tax Collector,"
+        },
+        {
+          "url": "https://forsyth.cc/tax/foreclosure_faq.aspx",
+          "quote": "Foreclosure Sales require a 5% - 20% of the highest bid (as set out in the Notice of Sale)."
+        },
+        {
+          "url": "https://forsyth.cc/tax/foreclosure_faq.aspx",
+          "quote": "Foreclosure upset bids require a 5% increase over the last bid, with a minimum increase of $750."
+        },
+        {
+          "url": "https://forsyth.cc/tax/foreclosure_faq.aspx",
+          "quote": "For foreclosure sales, a Commissioner's Deed will be issued."
+        }
+      ]
+    },
+    {
+      "county": "Durham",
+      "slug": "durham",
+      "office": "Durham County Tax Administration (sales conducted by a court-appointed Commissioner)",
+      "phone": "not stated",
+      "address": "Sales held in the lobby of the Durham County Judicial Building, 510 Dillard Street, Durham, NC; office address not stated",
+      "website": "https://dconc.gov/county-departments/departments-f-z/tax-administration/foreclosure",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Sales are held on the second Tuesday of every month at 12:00pm.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No dated upcoming sale is posted; the only dated sale on the page (December 10, 2024) is past.",
+      "how_to_bid": "Attend the sale in the lobby of the Durham County Judicial Building. The high bidder pays a deposit of 10% of the bid on sale day (a personal check must be replaced with cash or certified funds within two hours). Upset bids of 5% or $750.00, whichever is greater, are filed with the Clerk of Court, and each starts a new 10-day period. The final high bidder must pay the balance within three business days or lose the deposit. Properties are sold as-is.",
+      "sources": [
+        {
+          "url": "https://dconc.gov/county-departments/departments-f-z/tax-administration/foreclosure",
+          "read_on": "2026-10-27",
+          "terms": "No reuse restriction found. Legal Notices: 'The materials are provided for public use on computer systems located within Durham County.' and references to commercial products 'shall not be used for advertising or product endorsement purposes.'",
+          "terms_url": "https://www.dconc.gov/about-dco/website-help/legal-notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://dconc.gov/county-departments/departments-f-z/tax-administration/foreclosure",
+          "quote": "The sale is conducted by a Commissioner appointed by the Court, usually Mr. R. Douglas Davis."
+        },
+        {
+          "url": "https://dconc.gov/county-departments/departments-f-z/tax-administration/foreclosure",
+          "quote": "A deposit of ten percent (10%) of the successful bid will be required the day of the sale."
+        },
+        {
+          "url": "https://dconc.gov/county-departments/departments-f-z/tax-administration/foreclosure",
+          "quote": "Upset bids of 5% or $750.00, whichever is greater, are received by the Clerk of court for each property."
+        }
+      ]
+    }
+  ]
+}

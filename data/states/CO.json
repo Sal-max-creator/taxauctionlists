@@ -32,6 +32,183 @@
   ],
   "counties": [
     {
+      "county": "Adams",
+      "slug": "adams",
+      "office": "Adams County Treasurer & Public Trustee (Treasurer Division)",
+      "phone": "303.659.2120 | 800.824.7842 (tax lien questions: 720.523.6160)",
+      "address": "4430 South Adams County Parkway, Brighton, Colorado 80601",
+      "website": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (coloradotaxsale.com)",
+        "url": "https://adams.coloradotaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-26",
+          "label": "2026 Tax Lien Sale (live sale window)",
+          "registration_deadline": "Oct 19 to 30, 2026",
+          "source_url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
+          "quote": "Live Tax Sale: October 26-November 6, 2026",
+          "end_date": "2026-11-06",
+          "register_by": "2026-10-30"
+        }
+      ],
+      "next_sale_note": "Sale already in progress (opened 2026-10-26).",
+      "how_to_bid": "The sale is an internet tax sale. Register and bid at the county's auction site (adams.coloradotaxsale.com). Bonus bids (premiums) are not returned, and the statutory redemption interest rate is 13% from October 1, 2026.",
+      "sources": [
+        {
+          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
+          "read_on": "2026-10-27",
+          "terms": "No Disclaimer/Terms page linked. Privacy Policy has only '© 2026 Adams County Government. All Rights Reserved.' and no explicit reuse or scraping terms.",
+          "terms_url": "https://adamscountyco.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
+          "quote": "The Tax Lien Sale is an internet tax sale."
+        },
+        {
+          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
+          "quote": "The Statutory Redemption Interest rate has been updated to 13%, effective October 1, 2026."
+        },
+        {
+          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
+          "quote": "Bonus bids (premiums) are not returned."
+        },
+        {
+          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
+          "quote": "For additional information regarding tax lien sales call 720.523.6160."
+        }
+      ]
+    },
+    {
+      "county": "Boulder",
+      "slug": "boulder",
+      "office": "Boulder County Treasurer's Office",
+      "phone": "303-441-3520",
+      "address": "1325 Pearl St., Boulder, CO 80302",
+      "website": "https://bouldercounty.gov/property-and-land/treasurer/taxes/tax-lien-sale/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-13",
+          "time": "8:30 AM, Boulder County Courthouse, 1325 Pearl St., Third Floor (venue from the county FAQ)",
+          "label": "2026 Tax Lien Sale",
+          "deposit": "None stated",
+          "registration_deadline": "In person on sale day from 7:30 AM; bring a signed IRS W-9",
+          "source_url": "https://bouldercounty.gov/property-and-land/treasurer/taxes/tax-lien-sale/",
+          "quote": "Our tax lien sale will be held Nov. 13, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register in person on sale day (registration opens at 7:30 a.m.) with your name, mailing address, Social Security or tax ID number and a signed IRS W-9. Bidding is open premium bidding, not rotational. The county says liens sold in 2026 earn 13% a year. It also lists an optional information briefing as 'Monday, Nov. 3' at 6 p.m.; Nov. 3, 2026 is a Tuesday and Election Day, so confirm before going.",
+      "sources": [
+        {
+          "url": "https://bouldercounty.gov/property-and-land/treasurer/taxes/tax-lien-sale/",
+          "read_on": "2026-10-27",
+          "terms": "Footer: 'Copyright © 2026. Boulder County, CO. All Rights Reserved.' No explicit reuse, redistribution or scraping clause found.",
+          "terms_url": "https://bouldercounty.gov/privacy-policy/"
+        },
+        {
+          "url": "https://bouldercounty.gov/property-and-land/treasurer/taxes/tax-lien-sale/frequently-asked-questions/",
+          "read_on": "2026-10-27",
+          "terms": "Footer: 'Copyright © 2026. Boulder County, CO. All Rights Reserved.' No explicit reuse, redistribution or scraping clause found.",
+          "terms_url": "https://bouldercounty.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://bouldercounty.gov/property-and-land/treasurer/taxes/tax-lien-sale/",
+          "quote": "The sale begins at 8:30 a.m."
+        },
+        {
+          "url": "https://bouldercounty.gov/property-and-land/treasurer/taxes/tax-lien-sale/frequently-asked-questions/",
+          "quote": "Registration opens at 7:30 a.m. on the day of the sale."
+        },
+        {
+          "url": "https://bouldercounty.gov/property-and-land/treasurer/taxes/tax-lien-sale/",
+          "quote": "The interest rate for liens sold in 2026 is 13% per year."
+        }
+      ]
+    },
+    {
+      "county": "Douglas",
+      "slug": "douglas",
+      "office": "Douglas County Treasurer",
+      "phone": "303-660-7455",
+      "address": "100 Third Street Castle Rock, CO 80104",
+      "website": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "SRI Incorporated (Zeus Auction)",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "label": "2026 Internet Tax Lien Sale",
+          "source_url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
+          "quote": "The 2026 Internet Tax Lien Sale will be held Nov 5th, 2026",
+          "time": "Bidding opens 8:00 AM MT (county auction rules, not dated 2026)",
+          "deposit": "None required (county auction rules, not dated 2026)",
+          "registration_deadline": "Not stated; the county rules say the auction site opens for registration three weeks before the sale"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The sale runs online through SRI's Zeus Auction site. The minimum bid is the delinquent taxes, interest, advertising and fees. Bidders can bid a premium above that, but premiums are never returned and earn no interest. Winning bids are paid by ACH from the bank account given at registration.",
+      "sources": [
+        {
+          "url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
+          "read_on": "2026-10-27",
+          "terms": "No Disclaimer/Terms link. Privacy Policy footer: 'Copyright © 2026 Douglas County Government'. No explicit reuse, redistribution or scraping terms.",
+          "terms_url": "https://www.douglasco.gov/privacy-policy/"
+        },
+        {
+          "url": "https://www.douglasco.gov/documents/tax-sale-faq.pdf/",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.douglasco.gov/documents/tax-sale-auction-information.pdf/",
+          "read_on": "2026-10-27",
+          "terms": "not found (county PDF; site footer copyright Douglas County Government, no reuse clause)",
+          "terms_url": "https://www.douglasco.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
+          "quote": "Douglas County uses SRI Incorporated (www.zeusauction.com) for the internet tax sale."
+        },
+        {
+          "url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
+          "quote": "Premiums are never returned and draw no interest, they should be considered a cost of securing the tax lien."
+        },
+        {
+          "url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
+          "quote": "The annual interest rate is set at nine points above the federal discount rate as of Sept. 1."
+        },
+        {
+          "url": "https://www.douglasco.gov/documents/tax-sale-auction-information.pdf/",
+          "quote": "A deposit is not required to participate in the internet tax sale."
+        },
+        {
+          "url": "https://www.douglasco.gov/documents/tax-sale-auction-information.pdf/",
+          "quote": "DAY OF SALE - BIDDING OPENS AT 8:00 AM (MOUNTAIN TIME)"
+        }
+      ]
+    },
+    {
       "county": "El Paso",
       "slug": "el-paso",
       "office": "El Paso County Treasurer",
@@ -145,113 +322,6 @@
       ]
     },
     {
-      "county": "Adams",
-      "slug": "adams",
-      "office": "Adams County Treasurer & Public Trustee (Treasurer Division)",
-      "phone": "303.659.2120 | 800.824.7842 (tax lien questions: 720.523.6160)",
-      "address": "4430 South Adams County Parkway, Brighton, Colorado 80601",
-      "website": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
-      "sale_type": "lien",
-      "format": "online",
-      "platform": {
-        "name": "RealAuction (coloradotaxsale.com)",
-        "url": "https://adams.coloradotaxsale.com/"
-      },
-      "schedule_rule": null,
-      "sales": [
-        {
-          "date": "2026-10-26",
-          "label": "2026 Tax Lien Sale (live sale window)",
-          "registration_deadline": "Oct 19 to 30, 2026",
-          "source_url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
-          "quote": "Live Tax Sale: October 26-November 6, 2026",
-          "end_date": "2026-11-06",
-          "register_by": "2026-10-30"
-        }
-      ],
-      "next_sale_note": "Sale already in progress (opened 2026-10-26).",
-      "how_to_bid": "The sale is an internet tax sale. Register and bid at the county's auction site (adams.coloradotaxsale.com). Bonus bids (premiums) are not returned, and the statutory redemption interest rate is 13% from October 1, 2026.",
-      "sources": [
-        {
-          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
-          "read_on": "2026-10-27",
-          "terms": "No Disclaimer/Terms page linked. Privacy Policy has only '© 2026 Adams County Government. All Rights Reserved.' and no explicit reuse or scraping terms.",
-          "terms_url": "https://adamscountyco.gov/privacy-policy/"
-        }
-      ],
-      "evidence": [
-        {
-          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
-          "quote": "The Tax Lien Sale is an internet tax sale."
-        },
-        {
-          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
-          "quote": "The Statutory Redemption Interest rate has been updated to 13%, effective October 1, 2026."
-        },
-        {
-          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
-          "quote": "Bonus bids (premiums) are not returned."
-        },
-        {
-          "url": "https://adamscountyco.gov/our-county/elected-officials/treasurer-public-trustee/treasurer-division/tax-lien-sale/",
-          "quote": "For additional information regarding tax lien sales call 720.523.6160."
-        }
-      ]
-    },
-    {
-      "county": "Douglas",
-      "slug": "douglas",
-      "office": "Douglas County Treasurer",
-      "phone": "303-660-7455",
-      "address": "100 Third Street Castle Rock, CO 80104",
-      "website": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
-      "sale_type": "lien",
-      "format": "online",
-      "platform": {
-        "name": "SRI Incorporated (Zeus Auction)",
-        "url": "https://www.zeusauction.com/"
-      },
-      "schedule_rule": null,
-      "sales": [
-        {
-          "date": "2026-11-05",
-          "label": "2026 Internet Tax Lien Sale",
-          "source_url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
-          "quote": "The 2026 Internet Tax Lien Sale will be held Nov 5th, 2026"
-        }
-      ],
-      "next_sale_note": null,
-      "how_to_bid": "The sale runs online through SRI's Zeus Auction site. The minimum bid is the delinquent taxes, interest, advertising and fees. Bidders can bid a premium above that, but premiums are never returned and earn no interest. Winning bids are paid by ACH from the bank account given at registration.",
-      "sources": [
-        {
-          "url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
-          "read_on": "2026-10-27",
-          "terms": "No Disclaimer/Terms link. Privacy Policy footer: 'Copyright © 2026 Douglas County Government'. No explicit reuse, redistribution or scraping terms.",
-          "terms_url": "https://www.douglasco.gov/privacy-policy/"
-        },
-        {
-          "url": "https://www.douglasco.gov/documents/tax-sale-faq.pdf/",
-          "read_on": "2026-10-27",
-          "terms": "not found",
-          "terms_url": null
-        }
-      ],
-      "evidence": [
-        {
-          "url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
-          "quote": "Douglas County uses SRI Incorporated (www.zeusauction.com) for the internet tax sale."
-        },
-        {
-          "url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
-          "quote": "Premiums are never returned and draw no interest, they should be considered a cost of securing the tax lien."
-        },
-        {
-          "url": "https://www.douglasco.gov/treasurer/tax-lien-sale-information/",
-          "quote": "The annual interest rate is set at nine points above the federal discount rate as of Sept. 1."
-        }
-      ]
-    },
-    {
       "county": "Larimer",
       "slug": "larimer",
       "office": "Larimer County Treasurer & Public Trustee Office",
@@ -301,6 +371,51 @@
             "registration_deadline": "Registration is completed on the day of the event and will begin at 7:30 a.m.",
             "source_url": "https://www.larimer.gov/treasurer/thirdparty/liens/sale",
             "quote": "The 2026 Tax Lien Sale will be held on November 19, 2026 in the Thomas McKee 4-H Community Building located at"
+          }
+        ]
+      }
+    },
+    {
+      "county": "Weld",
+      "slug": "weld",
+      "office": "Weld County Treasurer's Office",
+      "phone": "(970) 400-3290",
+      "address": "P.O. Box 458, Greeley, CO 80632",
+      "website": "https://www.weld.gov/Government/Departments/Treasurer-Public-Trustee/Treasurer/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction",
+        "url": "https://weld.coloradotaxsale.com/"
+      },
+      "sales": [],
+      "next_sale_note": null,
+      "sources": [
+        {
+          "url": "https://www.weld.gov/Government/Departments/Treasurer-Public-Trustee/Treasurer/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "RESTRICTIVE: Weld County's disclaimer says 'Using or modifying this site's information for personal or commercial purposes is prohibited' and 'Weld County retains all rights to the information provided by this site.'",
+          "terms_url": "https://www.weld.gov/Government/Departments/Finance-and-Administration/Privacy-Statement-and-Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.weld.gov/Government/Departments/Finance-and-Administration/Privacy-Statement-and-Disclaimer",
+          "quote": "Using or modifying this site's information for personal or commercial purposes is prohibited"
+        }
+      ],
+      "link_only": {
+        "reason": "Weld County's disclaimer prohibits using the site's information for personal or commercial purposes."
+      },
+      "notes": {
+        "withheld_sales": [
+          {
+            "date": "2026-11-05",
+            "label": "Tax Lien Sale (online, RealAuction)",
+            "registration_deadline": "New investors: Oct 9, 8 a.m. to Oct 31, 2 p.m. (Oct 31, 2026 is a Saturday)",
+            "deposit": "minimum 10% of planned spend",
+            "source_url": "https://www.weld.gov/Government/Departments/Treasurer-Public-Trustee/Treasurer/Tax-Sale-Information",
+            "quote": "The next tax lien sale will be November 5, 2026."
           }
         ]
       }

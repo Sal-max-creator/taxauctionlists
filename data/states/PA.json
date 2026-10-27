@@ -256,7 +256,7 @@
       },
       "schedule_rule": "The Office of the Philadelphia Sheriff conducts several Sheriff Sales each month.",
       "sales": [],
-      "next_sale_note": "No specific upcoming tax sale dates are posted on phillysheriff.com. Its upcoming-sales calendar links to officeofphiladelphiasheriff.com, which could not be read (blocked to automated fetch).",
+      "next_sale_note": "No sale schedule is posted. The Sheriff's listing pages show tax-sale properties dated Nov 10, Nov 13, Nov 18, Dec 11 and Dec 16, 2026, all marked Postponed as of Oct 27, 2026, so we don't list those dates.",
       "how_to_bid": "Tax sales are held online on Bid4Assets. Bidders complete Bid4Assets registration and post a $1,500.00 deposit plus a $35.00 processing fee. The 10% down payment is due the day after the auction and the balance by 5:00 PM on the 15th calendar day after it.",
       "sources": [
         {

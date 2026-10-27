@@ -48,8 +48,11 @@ Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloud
     "sale_type": "deed", "format": "online",                 // online | in person | both | unknown
     "platform": { "name": "RealAuction", "url": "..." },     // link only
     "schedule_rule": "verbatim recurring rule or null",
+    "recurs": "monthly",                                     // optional: weekly | monthly, lists it under recurring sales in the Alerts email
     "sales": [{ "date": "2026-11-05", "time": "10:00 AM", "label": "...", "deposit": "...",
-                "registration_deadline": "...", "source_url": "...", "quote": "..." }],
+                "registration_deadline": "...", "register_by": "2026-10-30",   // register_by: optional ISO date for the email's deadline list
+                "list_url": "...", "list_note": "...",                         // optional: the county's own parcel list (never a link-only host)
+                "note": "...", "source_url": "...", "quote": "..." }],
     "next_sale_note": "e.g. 2027 date not yet posted",
     "how_to_bid": "...",
     "sources": [{ "url": "...", "read_on": "2026-10-27", "terms": "...", "terms_url": "..." }]
@@ -87,6 +90,7 @@ Buttondown needs its paid subscriptions add-on for this and has no Stripe test m
 ### Sending the weekly email
 
 1. After the Monday source check issue is reviewed and `data/states/` is updated, run `npm run alert-draft` (options: `--days 45`, `--since <git ref>`; by default it compares with the commit from 7 days ago).
+   Save each issue as `drafts/alerts/YYYY-MM-DD.md` (`npm run alert-draft > drafts/alerts/2026-10-27.md`) so the PR shows what will go out.
 2. Read it, fix anything the script can't know (cancellations announced elsewhere, notes), and attach parcel lists by hand: a spreadsheet only where the county's terms allow reuse, a link to the county's own list otherwise, nothing copied from link-only sources.
 3. Paste it into a new Buttondown email and, under Send > Audience, pick **Premium** so only paying subscribers get it.
 

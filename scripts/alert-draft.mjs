@@ -85,9 +85,9 @@ if (ref) {
 }
 
 // --- Draft ---
-const weekOut = new Date(Date.parse(`${now}T00:00:00Z`) + 7 * 864e5).toISOString().slice(0, 10);
-const deadlines = upcoming
-  .filter((s) => s.register_by && s.register_by >= now && s.register_by <= weekOut)
+// Deadlines use every future sale, so a sale just past the window still shows if you must register inside it.
+const deadlines = flattenSales(states)
+  .filter((s) => s.register_by && s.register_by >= now && s.register_by <= until)
   .sort((a, b) => a.register_by.localeCompare(b.register_by));
 const datedCounties = new Set(upcoming.map((s) => `${s.stateCode}/${s.countySlug}`));
 const recurring = states.flatMap((st) =>
@@ -99,15 +99,15 @@ const lines = [];
 lines.push(`# Tax sales for the week of ${fmt(now)}`, "");
 lines.push(`Every dated sale from ${fmt(now)} to ${fmt(until)}, and what changed since last week. Each line links to the county page it came from.`, "");
 
-lines.push("## Registration deadlines in the next 7 days", "");
-if (!deadlines.length) lines.push("No registration deadlines in the next 7 days.", "");
+lines.push(`## Registration deadlines in the next ${days} days`, "");
+if (!deadlines.length) lines.push(`No registration deadlines in the next ${days} days.`, "");
 for (const s of deadlines) {
-  lines.push(`- **${fmt(s.register_by)}**: [${s.county}, ${s.stateCode}](${siteUrl}${s.countyUrl}), ${s.label || "sale"} on ${fmt(s.date)}. ${s.registration_deadline || ""}`.trimEnd());
+  lines.push(`- **${fmt(s.register_by)}**: [${s.county}, ${s.stateCode}](${siteUrl}${s.countyUrl}), ${s.label || "sale"} on ${fmt(s.date)}${s.end_date ? ` to ${fmt(s.end_date)}` : ""}. ${s.registration_deadline || ""}`.trimEnd());
 }
 if (deadlines.length) lines.push("");
 
 lines.push("## What changed", "");
-if (!ref) lines.push("_No earlier commit to compare with. Fill this in by hand._", "");
+if (!ref) lines.push("Nothing to compare with yet. This is the first week we have on record.", "");
 else if (!changes.length) lines.push("No sales were added, moved or cancelled since last week.", "");
 else lines.push(...changes, "");
 

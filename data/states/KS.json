@@ -160,6 +160,151 @@
       "notes": {
         "fallback": "Added in place of Wyandotte County, whose official tax sale pages only show 2021 and 2024 sales."
       }
+    },
+    {
+      "county": "Leavenworth",
+      "slug": "leavenworth",
+      "office": "Leavenworth County Counselor's Office",
+      "phone": "913-364-5785",
+      "address": "300 Walnut Street, Leavenworth, KS 66048",
+      "website": "https://www.leavenworthcounty.gov/information/tax_sale/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale scheduled. The county page says \"NONE SCHEDULED AT THIS TIME\"; the most recent tax sale was June 15, 2026 (past). The auction list PDF is posted on the county page as auction dates are scheduled.",
+      "how_to_bid": "Properties are sold at public auction to the highest qualified bidder; minimum bids may apply. Bidders register (in advance or on sale day, 8:15 to 9:45 A.M.) to confirm they are legally qualified, and may complete a bidder declaration form beforehand. Purchases are paid in full on sale day, cash, cashier's check or money order only, plus the deed filing fee. Format (in person or online) and deposit are not stated.",
+      "sources": [
+        {
+          "url": "https://www.leavenworthcounty.gov/information/tax_sale/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, legal or privacy link found in the site footer; footer reads '© Leavenworth County, KS. All Rights Reserved.' No ban on reuse or redistribution found.",
+          "terms_url": "https://www.leavenworthcounty.gov/information/tax_sale/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.leavenworthcounty.gov/information/tax_sale/",
+          "quote": "NONE SCHEDULED AT THIS TIME"
+        },
+        {
+          "url": "https://www.leavenworthcounty.gov/information/tax_sale/",
+          "quote": "Only cash, cashier's check, or money order will be accepted."
+        }
+      ]
+    },
+    {
+      "county": "Riley",
+      "slug": "riley",
+      "office": "Riley County Counselor (County Counselor and Administrative Services)",
+      "phone": "785-565-6844",
+      "address": "Courthouse Plaza East, 115 N 4th Street, 3rd Floor West, Manhattan, KS 66502",
+      "website": "https://www.rileycountyks.gov/index.asp?NID=59",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 tax foreclosure auction was held Friday, June 26, 2026, in the lower level training room of the Riley County Public Works building, 6215 Tuttle Creek Boulevard (past).",
+      "how_to_bid": "For the 2026 sale: register by 5:00 pm one week before the auction; the registered person must bid in person (no proxy bidding). Properties go to the highest qualified bidder with no minimum bid, and an accepted bid is binding. Pay by 12:00 noon on sale day by check payable to the Clerk of the District Court, or debit/credit card (2.5% fee); no cash. Recording fees are $21 plus $17 per page after the first. No deposit is stated.",
+      "sources": [
+        {
+          "url": "https://www.rileycountyks.gov/index.asp?NID=59",
+          "read_on": "2026-10-27",
+          "terms": "No terms, copyright or disclaimer link in the site footer or site map; the only policy page, the Privacy Policy, covers the Health Department's handling of personal health information only. No ban on reuse or redistribution found.",
+          "terms_url": "https://www.rileycountyks.gov/311/Privacy-Policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.rileycountyks.gov/index.asp?NID=59",
+          "quote": "held on Friday, June 26, 2026 in the Riley County Public Works building"
+        },
+        {
+          "url": "https://www.rileycountyks.gov/index.asp?NID=59",
+          "quote": "The registration deadline is 5:00 pm one week prior to the date of the Auction."
+        },
+        {
+          "url": "https://www.rileycountyks.gov/index.asp?NID=59",
+          "quote": "No proxy bidding will be allowed."
+        },
+        {
+          "url": "https://www.rileycountyks.gov/index.asp?NID=59",
+          "quote": "All properties must be paid for by 12:00 noon on the day of the sale."
+        }
+      ]
+    },
+    {
+      "county": "Reno",
+      "slug": "reno",
+      "office": "Reno County (tax sale contact line; office not named on the county notice)",
+      "phone": "620-694-2926",
+      "address": null,
+      "website": "https://www.renocountyks.gov/reno-county-tax-sale-will-be-on-thursday-october-30th",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "White Oak Homes (county's auction site for the 2025 sale)",
+        "url": "https://www.whiteoakhomesks.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 date not yet posted on the county site. The most recent posted sale was the Reno County Tax Sale at 9 am on Thursday, October 30, 2025, held as an online auction (past); properties could be redeemed until October 29, 2025.",
+      "how_to_bid": "For the 2025 sale the county directed bidders to the online auction at whiteoakhomesks.com (Auction tab) and to its bidder instructions; the property list was posted on the county's Legal Notices and Bids page. Registration, deposit and payment terms for the next sale are not stated.",
+      "sources": [
+        {
+          "url": "https://www.renocountyks.gov/reno-county-tax-sale-will-be-on-thursday-october-30th",
+          "read_on": "2026-10-27",
+          "terms": "County Disclaimer page has no copyright or reuse restriction; it includes a K.S.A. 45-220 certification not to use name or address lists derived from public records to sell property or services to the persons listed. No ban on republishing sale information found.",
+          "terms_url": "https://www.renocountyks.gov/Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.renocountyks.gov/reno-county-tax-sale-will-be-on-thursday-october-30th",
+          "quote": "The Reno County Tax Sale will be held at 9 am on Thursday, October 30th, 2025."
+        }
+      ]
+    },
+    {
+      "county": "Saline",
+      "slug": "saline",
+      "office": "Saline County Treasurer's Office",
+      "phone": "785-309-5860",
+      "address": null,
+      "website": "https://www.salinecountyks.gov/tax-foreclosures",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date set. The county page says \"When a sale date is set, it will be listed on this webpage.\" A pending tax foreclosure (Petition 2026-CV-32, filed 5 February 2026) is posted with its sale date blank.",
+      "how_to_bid": "Properties that are not redeemed are sold by auction. The buyer or the buyer's representative must be present to bid, and payment is due at the close of the sale; owners and their relatives may not bid. Registration and deposit are not stated.",
+      "sources": [
+        {
+          "url": "https://www.salinecountyks.gov/tax-foreclosures",
+          "read_on": "2026-10-27",
+          "terms": "Site Terms & Privacy Policy has no copyright notice or reuse terms; its accuracy disclaimer covers linked external sites. No ban on reuse or redistribution found.",
+          "terms_url": "https://salinecountyks.gov/site-terms-privacy-policy"
+        },
+        {
+          "url": "https://www.salinecountyks.gov/media/Treasurer/tax%20foreclosure%20notice%20of%20sale/2026-CV-32%20Foreclosure.pdf",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://salinecountyks.gov/site-terms-privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.salinecountyks.gov/tax-foreclosures",
+          "quote": "When a sale date is set, it will be listed on this webpage."
+        },
+        {
+          "url": "https://www.salinecountyks.gov/tax-foreclosures",
+          "quote": "The buyer or buyer's representative must be present to bid and payment must be made at close of sale."
+        }
+      ]
     }
   ]
 }

@@ -24,7 +24,7 @@ eleventyComputed:
 {% if c.upcoming.length %}
   {% for s in c.upcoming %}
   <dl class="facts">
-    <dt>Date</dt><dd><strong>{{ s.date | longDate }}</strong>{% if s.end_date %} to <strong>{{ s.end_date | longDate }}</strong>{% endif %}{% if s.time %}, {{ s.time }}{% endif %}</dd>
+    <dt>Date</dt><dd><strong>{{ s.date | longDate }}</strong>{% if s.end_date %} to <strong>{{ s.end_date | longDate }}</strong>{% endif %}{% if s.time and s.time != "not stated" %}, {{ s.time }}{% endif %}</dd>
     <dt>Sale</dt><dd>{{ s.label }}</dd>
     {% if s.deposit %}<dt>Deposit</dt><dd>{{ s.deposit }}</dd>{% endif %}
     {% if s.registration_deadline %}<dt>Register by</dt><dd>{{ s.registration_deadline }}</dd>{% endif %}

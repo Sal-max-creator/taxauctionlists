@@ -178,6 +178,144 @@
           "quote": "Minimum deposits based upon a percentage of the bid price may be required on the sale date"
         }
       ]
+    },
+    {
+      "county": "Henrico",
+      "slug": "henrico",
+      "office": "Henrico County Department of Finance, Treasury Division",
+      "phone": "(804) 501-4729 (Finance main number)",
+      "address": "4301 East Parham Road, Henrico, VA 23228 (mailing: P. O. Box 90775, Henrico, VA 23273-0775)",
+      "website": "https://henrico.gov/finance/divisions/treasury-division/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "tacssale.com (online sale site named in the county's fall 2024 calendar listing)",
+        "url": "https://tacssale.com/ui"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming delinquent property tax sale is posted. The most recent county calendar listing found was a fall 2024 online sale (September 30 to October 31, 2024).",
+      "how_to_bid": "The Treasury Division collects delinquent real estate taxes. The county's fall 2024 calendar listing said that sale was conducted online at tacssale.com/ui. Deposit, registration and bidding steps are not stated on the county pages read.",
+      "sources": [
+        {
+          "url": "https://henrico.gov/finance/divisions/treasury-division/",
+          "read_on": "2026-10-27",
+          "terms": "Footer links only to a Privacy Policy, which is mostly about personal data; it bars framing henrico.gov pages without written permission and shows '(c) 1996-2026. henrico.gov is the official site for Henrico County, Virginia'. No clause forbidding reuse or redistribution of content found.",
+          "terms_url": "https://henrico.gov/privacy-policy/"
+        },
+        {
+          "url": "https://henrico.gov/calendar/2024-09-30",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://henrico.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://henrico.gov/finance/divisions/treasury-division/",
+          "quote": "Collecting delinquent real estate and personal property taxes"
+        },
+        {
+          "url": "https://henrico.gov/calendar/2024-09-30",
+          "quote": "The Sale date range: Monday, 09/30/2024 through Thursday, 10/31/2024."
+        },
+        {
+          "url": "https://henrico.gov/calendar/2024-09-30",
+          "quote": "The Sale is conducted online at tacssale.com/ui"
+        }
+      ]
+    },
+    {
+      "county": "Norfolk (city)",
+      "slug": "norfolk",
+      "office": "City of Norfolk Treasurer (delinquent tax sales handled by outside attorneys: F. Sullivan Callahan, Robert Reed and Jason Dunn)",
+      "phone": "757-623-5000 (F. Sullivan Callahan); 757-625-1214 (Robert Reed); 757-937-0872 (Jason Dunn)",
+      "address": "Attorneys: 327 Duke St., Norfolk, VA 23510; 555 Main St. 14th Floor, Norfolk, VA 23510; 303 34th Street, Unit 6, Virginia Beach, VA 23451. Treasurer's address not stated on the FAQ page.",
+      "website": "https://norfolk.gov/m/faq?cat=48",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "VA Auction Company (private auctioneer the city's FAQ points to)",
+        "url": "https://www.vaauctionco.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date is posted on the city's own pages; the city FAQ says upcoming auction dates and parcels are posted on the auction company's site.",
+      "how_to_bid": "The city FAQ directs all questions about buying real estate sold for delinquent taxes to the three attorneys listed and says the next public auction, with its parcels, is posted on the VA Auction Company site. Deposit, location, registration and bidding steps are not stated on the city page.",
+      "sources": [
+        {
+          "url": "https://norfolk.gov/m/faq?cat=48",
+          "read_on": "2026-10-27",
+          "terms": "Only terms page found is the city Privacy Policy, which covers personal data and says the information presented 'is not meant to be a contract'; it is silent on reuse. No clause forbidding reuse or redistribution of content found.",
+          "terms_url": "https://norfolk.gov/933"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://norfolk.gov/m/faq?cat=48",
+          "quote": "All questions regarding the sale of real estate for payment of delinquent taxes may be directed to:"
+        },
+        {
+          "url": "https://norfolk.gov/m/faq?cat=48",
+          "quote": "Any upcoming auction dates will be posted on this site along with the parcels up for sale."
+        }
+      ]
+    },
+    {
+      "county": "Spotsylvania",
+      "slug": "spotsylvania",
+      "office": "Spotsylvania County Treasurer (land sales for unpaid real estate taxes handled by Sands Anderson PC, office of Margaret F. Hardy)",
+      "phone": "540-373-2504 (Margaret F. Hardy, Sands Anderson PC); 540-507-7000 (county)",
+      "address": "Sands Anderson PC: 725 Jackson Street, Suite 217, Fredericksburg, VA 22401. Auctions at the Holbert Building, 9104 Courthouse Road, Spotsylvania, VA 22553.",
+      "website": "https://www.spotsylvania.va.us/435/Public-Treasurers-Land-Sale-Information",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": {
+        "name": "Virginia Auction Co. (auctioneer for the Treasurer's Indian Acres lot sales)",
+        "url": "https://www.vaauctionco.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No current auction is posted. The last legal notice found was for a Treasurer's sale on October 1, 2026, which has passed.",
+      "how_to_bid": "Properties delinquent on December 31 following the second anniversary of the due date may be eligible for land sale, handled by Sands Anderson PC; call the office of Margaret F. Hardy. The county page lists auctions at the Holbert Building, 9104 Courthouse Road. Under the Treasurer's October 2026 legal notice (Indian Acres lots), the winning bidder paid the bid price, a 15% buyer's premium and a $150 fee to Virginia Auction Co., in full on sale day by cash, cashier's check or money order; property is sold as is. Registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://www.spotsylvania.va.us/435/Public-Treasurers-Land-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Footer links only to a Privacy Policy, which covers personal data and has a third-party link disclaimer; no copyright notice or clause forbidding reuse or redistribution found.",
+          "terms_url": "https://www.spotsylvania.va.us/site/privacy"
+        },
+        {
+          "url": "https://www.spotsylvania.va.us/412/Delinquent-Real-Estate-Taxes-Land-Sale-E",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.spotsylvania.va.us/site/privacy"
+        },
+        {
+          "url": "https://www.spotsylvania.va.us/DocumentCenter/View/42159/10126---IA-Legal-Ad",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.spotsylvania.va.us/site/privacy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.spotsylvania.va.us/435/Public-Treasurers-Land-Sale-Information",
+          "quote": "No current auction at this time."
+        },
+        {
+          "url": "https://www.spotsylvania.va.us/412/Delinquent-Real-Estate-Taxes-Land-Sale-E",
+          "quote": "Spotsylvania County has an agreement with the firm of Sands Anderson PC"
+        },
+        {
+          "url": "https://www.spotsylvania.va.us/DocumentCenter/View/42159/10126---IA-Legal-Ad",
+          "quote": "Thursday, October 1st, 2026 at 11:00 AM"
+        },
+        {
+          "url": "https://www.spotsylvania.va.us/DocumentCenter/View/42159/10126---IA-Legal-Ad",
+          "quote": "Properties shall be paid in full the day of the sale by Cash, Cashier's check, or Money order."
+        }
+      ]
     }
   ]
 }

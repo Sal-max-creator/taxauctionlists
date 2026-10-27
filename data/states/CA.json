@@ -297,6 +297,178 @@
           "quote": "A $5,000 deposit is required to register."
         }
       ]
+    },
+    {
+      "county": "Contra Costa",
+      "slug": "contra-costa",
+      "office": "Contra Costa County Treasurer-Tax Collector",
+      "phone": null,
+      "address": "625 Court St, Room 100, Martinez, CA 94553 (mailing address, Attention: Redemption)",
+      "website": "https://www.contracosta.ca.gov/10611",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Online auction platform (not named on the current page; registration details at www.cctax.us; an older county page names GovEase)",
+        "url": null
+      },
+      "schedule_rule": "Typically, our sales are held in late February and May on an online auction platform.",
+      "sales": [],
+      "next_sale_note": "No 2027 date posted yet. The county posts property lists on www.cctax.us in mid to late January and mid to late April, with the tentative date and time on that registration site.",
+      "how_to_bid": "Register through the county's online auction platform before making any deposit. A single $5,000.00 deposit and a non-refundable registration fee (amount not stated) are required to be approved to bid; deposits are due no later than the Friday two weeks before the sale begins. Sealed or mailed bids are not accepted. Minimum bids are listed per parcel and bids rise in $100 increments. Winning bids must be paid in full through the platform within 24 hours by close of the tax sale. Phone not stated.",
+      "sources": [
+        {
+          "url": "https://www.contracosta.ca.gov/10611",
+          "read_on": "2026-10-27",
+          "terms": "The county's Terms of Use page has disclaimers and a privacy notice and no copying, reuse or redistribution restriction. The footer's separate Legal Notices page (/1867/Legal-Notices) refused our browser with a site block, so it could not be read.",
+          "terms_url": "https://www.contracosta.ca.gov/4809/Terms-of-Use"
+        },
+        {
+          "url": "https://www.contracosta.ca.gov/2218",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; see the Terms of Use note above.",
+          "terms_url": "https://www.contracosta.ca.gov/4809/Terms-of-Use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.contracosta.ca.gov/10611",
+          "quote": "Typically, our sales are held in late February and May on an online auction platform."
+        },
+        {
+          "url": "https://www.contracosta.ca.gov/10611",
+          "quote": "A single $5,000.00 deposit and a registration fee is required to get approved to bid in the auction."
+        }
+      ]
+    },
+    {
+      "county": "San Francisco",
+      "slug": "san-francisco",
+      "office": "City and County of San Francisco, Office of the Treasurer & Tax Collector",
+      "phone": "(415) 701-2311",
+      "address": null,
+      "website": "https://sftreasurer.org/property/auction",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "mytaxsale.com",
+        "url": "https://sanfrancisco.mytaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-14",
+          "end_date": "2026-12-16",
+          "time": "8am (closes Wednesday, December 16 at 7pm)",
+          "label": "2026 Supplemental Auction (online)",
+          "deposit": "$100,000 deposit required to participate",
+          "registration_deadline": "not stated yet; the county says registration information will be posted on the auction page as it becomes available",
+          "note": "Minimum starting bid $500,000. The county says the auction is expected to take place on these dates.",
+          "source_url": "https://sftreasurer.org/property/auction",
+          "quote": "Monday, December 14, 2026 at 8am through Wednesday, December 16, 2026 at 7pm."
+        }
+      ],
+      "next_sale_note": "The April 20-23, 2026 public auction is past. No 2027 date posted yet.",
+      "how_to_bid": "The auction is held online at sanfrancisco.mytaxsale.com, and only bids submitted via the Internet are accepted. For the 2026 Supplemental Auction a $100,000 deposit is required and the minimum starting bid is $500,000; registration steps will be posted on the county's auction page. (For the April 2026 sale the county required a refundable $5,000 deposit plus a non-refundable $35 processing fee.) Questions go to the Treasurer & Tax Collector's Help Center or (415) 701-2311.",
+      "sources": [
+        {
+          "url": "https://sftreasurer.org/property/auction",
+          "read_on": "2026-10-27",
+          "terms": "The site's Disclaimer page has no copying, reuse or redistribution restriction; the only copyright text is page metadata reading 'Copyright ©2026 All rights reserved.'",
+          "terms_url": "https://sftreasurer.org/disclaimer"
+        },
+        {
+          "url": "https://www.sftreasurer.org/file/2026-public-and-sealed-bid-auction-publication/download",
+          "read_on": "2026-10-27",
+          "terms": "Same site; Disclaimer page has no reuse restriction; 'Copyright ©2026 All rights reserved.' in page metadata.",
+          "terms_url": "https://sftreasurer.org/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sftreasurer.org/property/auction",
+          "quote": "A $100,000 deposit will be required to participate, and the minimum starting bid will be $500,000."
+        },
+        {
+          "url": "https://www.sftreasurer.org/file/2026-public-and-sealed-bid-auction-publication/download",
+          "quote": "Only bids submitted via the Internet will be accepted."
+        }
+      ]
+    },
+    {
+      "county": "San Joaquin",
+      "slug": "san-joaquin",
+      "office": "San Joaquin County Treasurer-Tax Collector",
+      "phone": "(209) 468-2133",
+      "address": "44 North San Joaquin Street, First Floor, Suite 150 Stockton, CA 95202",
+      "website": "https://www.sanjoaquin.gov/department/ttc/tax/redemption/public-auction",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-03-17",
+          "end_date": "2027-03-18",
+          "time": "8:00 a.m. and closing at various times",
+          "label": "Tax-defaulted property public internet auction",
+          "deposit": "$5,000 plus $35 non-refundable Bid4Assets processing fee",
+          "registration_deadline": "Create a free Bid4Assets account; the deposit must be received no later than 1:00 p.m. Pacific one week prior to the tax sale",
+          "note": "The county says the auction link will be provided at a later date.",
+          "source_url": "https://www.sanjoaquin.gov/department/ttc/tax/redemption/public-auction",
+          "quote": "March 17-18, 2027"
+        }
+      ],
+      "next_sale_note": "The March 11-12, 2026 auction is past.",
+      "how_to_bid": "Bidding is online through Bid4Assets (link to be provided by the county later). Create a free Bid4Assets account and send a $5,000 deposit plus a $35 non-refundable Bid4Assets processing fee, received no later than 1:00 p.m. Pacific one week before the sale; bidders must be at least 18. No bid below the minimum is accepted, and bidding goes up in increments of $100 or higher until the parcel is sold to the highest bidder. Questions: (209) 468-2133 or tax@sjgov.org, 8:30 a.m. to 4:30 p.m. weekdays.",
+      "sources": [
+        {
+          "url": "https://www.sanjoaquin.gov/department/ttc/tax/redemption/public-auction",
+          "read_on": "2026-10-27",
+          "terms": "The county's Terms and Conditions page has no copying, reuse or redistribution language; footer reads '© Copyright 2026 San Joaquin County'.",
+          "terms_url": "https://www.sanjoaquin.gov/terms-and-conditions"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sanjoaquin.gov/department/ttc/tax/redemption/public-auction",
+          "quote": "a deposit of $5,000 (plus $35 non-refundable Bid4Assets processing fee) is required to bid"
+        }
+      ]
+    },
+    {
+      "county": "San Mateo",
+      "slug": "san-mateo",
+      "office": "San Mateo County Treasurer-Tax Collector",
+      "phone": null,
+      "address": null,
+      "website": "https://smcgov.org/media/154158/download?inline=",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Grant Street Group",
+        "url": "https://sanmateo.mytaxsale.com/"
+      },
+      "schedule_rule": "Tax sales are typically held online in August, with information posted in advance.",
+      "sales": [],
+      "next_sale_note": "No 2027 date posted yet; the county's tax sale FAQ says sales are typically held online in August.",
+      "how_to_bid": "Register at sanmateo.mytaxsale.com (Grant Street, the auction platform). A deposit is required (amount not stated) and is applied to your purchase if you win; unsuccessful bidders receive a refund within about 10 business days. Legal title to tax-defaulted property can only be obtained by being the highest bidder at the tax sale. Tax collector phone and registration deadline not stated in the FAQ.",
+      "sources": [
+        {
+          "url": "https://smcgov.org/media/154158/download?inline=",
+          "read_on": "2026-10-27",
+          "terms": "County of San Mateo Endorsement Disclaimers page: information on the site 'is considered in the public domain' and 'may be distributed or copied as permitted by law'; some copyrighted material such as photographs may need permission. Footer: 'Copyright © 2026 County of San Mateo. All rights reserved.'",
+          "terms_url": "https://www.smcgov.org/endorsement-disclaimers"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://smcgov.org/media/154158/download?inline=",
+          "quote": "Tax sales are typically held online in August, with information posted in advance."
+        }
+      ]
     }
   ]
 }

@@ -79,6 +79,35 @@
       }
     },
     {
+      "county": "Campbell",
+      "slug": "campbell",
+      "office": "Campbell County Clerk (Delinquent Tax Department)",
+      "phone": "859 292-3845",
+      "address": "1098 Monmouth Street, Newport, KY 41071 (also 8330 W. Main St., Alexandria, KY 41001)",
+      "website": "https://campbellcountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was Wednesday, August 12, 2026 (past).",
+      "how_to_bid": "Unpaid certificates may be sold to registered third-party purchasers. The page read does not state the registration deadline, fees, deposit, sale location or how the purchase order is set; contact the Delinquent Tax Department.",
+      "sources": [
+        {
+          "url": "https://campbellcountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-27",
+          "terms": "Only a Privacy & Disability Statement (about personal data and accommodations; read, no reuse clause) and a footer line 'Site Designed by Software Management, LLC. © 2026.' No terms or disclaimer link. No reuse restriction found.",
+          "terms_url": "https://campbellcountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://campbellcountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "The 2026 Campbell County Delinquent Sale will be held Wednesday, August 12, 2026."
+        }
+      ]
+    },
+    {
       "county": "Fayette",
       "slug": "fayette",
       "office": "Fayette County Clerk",
@@ -129,6 +158,35 @@
       "notes": {
         "format_note": "'online' (electronic) is based on the 2024 procedures notice; the current-year notice is not posted."
       }
+    },
+    {
+      "county": "Hardin",
+      "slug": "hardin",
+      "office": "Hardin County Clerk's Office",
+      "phone": "270-765-2171",
+      "address": "150 N. Provident Way, Suite 103, Elizabethtown, KY 42701",
+      "website": "https://hccoky.org/20tax.asp",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was Monday, August 17, 2026 at 8:00 AM (past).",
+      "how_to_bid": "The clerk's page links a registration form for Third Party Purchasers. The registration deadline, fees, sale location and how the purchase order is set are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://hccoky.org/20tax.asp",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: '©2026 Hardin County Clerk's Office. All rights reserved.' Footer has no terms, disclaimer or privacy link (it links Open records information). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hccoky.org/20tax.asp",
+          "quote": "The tax sale will be held on Monday, August 17, 2026 at 8:00:00 AM."
+        }
+      ]
     },
     {
       "county": "Jefferson",
@@ -218,6 +276,88 @@
         {
           "url": "https://revenue.ky.gov/ClerkNetwork/Documents/Tax%20Sale%20Dates%202026.pdf",
           "quote": "KENTON 7/15/26"
+        }
+      ]
+    },
+    {
+      "county": "Oldham",
+      "slug": "oldham",
+      "office": "Oldham County Clerk (Delinquent Tax Office)",
+      "phone": "502-222-9311",
+      "address": "100 W. Jefferson St. Suite #1, LaGrange, KY 40031",
+      "website": "https://oldhamcountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was August 6, 2026 at 9:00 a.m. EDT (past).",
+      "how_to_bid": "Not a bidding auction: a drawing of all participants sets the order of the sale, held in the Oldham County Fiscal Court Room. For the 2026 sale, all forms, fees and bill lists had to reach the Clerk's Office in LaGrange by July 27, 2026. Nonrefundable registration fee: $10.00 per bill up to $250.00 for the Lottery Sale, or $5.00 per bill up to $250.00 for the Priority Sale. A 25% deposit of the list amount plus the $30 filing fee for each bill is required. Funds by cash or certified check to the Oldham County Clerk, due by 4:00 p.m. on the sale day.",
+      "sources": [
+        {
+          "url": "https://oldhamcountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-27",
+          "terms": "The clerk's 'Internet Access System Disclaimer' covers the paid online records-search service (subscribers may not share accounts or use them to offer a public information service) and says the information is not warranted correct or complete. It does not restrict reuse of the clerk's public delinquent-tax pages. Footer: Privacy & Disability Statement; 'Site Provided By Software Management, LLC © 2025'.",
+          "terms_url": "https://oldhamcountyclerk.ky.gov/internet-access-system-disclaimer/"
+        },
+        {
+          "url": "https://oldhamcountyclerk.ky.gov/wp-content/uploads/2026/04/DELINQUENT-TAX-BILL-SALE-PROCEEDURES.pdf",
+          "read_on": "2026-10-27",
+          "terms": "see the clerk's site above",
+          "terms_url": "https://oldhamcountyclerk.ky.gov/internet-access-system-disclaimer/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oldhamcountyclerk.ky.gov/wp-content/uploads/2026/04/DELINQUENT-TAX-BILL-SALE-PROCEEDURES.pdf",
+          "quote": "The sale date is August 6, 2026 and will begin at 9:00 a.m. EDT."
+        },
+        {
+          "url": "https://oldhamcountyclerk.ky.gov/wp-content/uploads/2026/04/DELINQUENT-TAX-BILL-SALE-PROCEEDURES.pdf",
+          "quote": "We will hold a drawing of all participants to determine the order of the sale."
+        }
+      ]
+    },
+    {
+      "county": "Warren",
+      "slug": "warren",
+      "office": "Warren County Clerk",
+      "phone": "not stated on the pages read",
+      "address": "429 E 10th St, Suite 100, Bowling Green, KY 42101 (mail: PO Box 478, Bowling Green KY 42102-0478)",
+      "website": "https://warrencountyclerk.ky.gov/delinquent-taxes",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was August 26, 2026 at 9:00 a.m. CST (past).",
+      "how_to_bid": "Third-party purchasers register with the clerk by the posted deadline (August 17, 2026 at 4:30 p.m. CST for the 2026 sale) by mailing or bringing in original signed forms (no email or fax) with an alphabetical list of the certificates they want. Fees: $5 per priority certificate and $10 per current certificate, up to $250, nonrefundable. Deposit: the full amount due on priority certificates plus a $30 recording fee each, plus 25% of the amount due on current certificates, by separate check from the fee. Payment must be cash, cashier's check or certified funds. Most purchasers must also register with the state. How the purchase order is set is not stated.",
+      "sources": [
+        {
+          "url": "https://warrencountyclerk.ky.gov/delinquent-taxes",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer, copyright or privacy link in the page content returned; the page says the website is informational only. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/06/dtaxpurchaseprocess2025bills.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found (PDF)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://warrencountyclerk.ky.gov/delinquent-taxes",
+          "quote": "SALE DATE & TIME: AUGUST 26, 2026 at 9:00 a.m. CST"
+        },
+        {
+          "url": "https://warrencountyclerk.ky.gov/delinquent-taxes",
+          "quote": "REGISTRATION DEADLINE: AUGUST 17, 2026 at 4:30 p.m. CST."
+        },
+        {
+          "url": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/06/dtaxpurchaseprocess2025bills.pdf",
+          "quote": "Payment must be in the form of cash, cashier's check, or certified funds."
         }
       ]
     }

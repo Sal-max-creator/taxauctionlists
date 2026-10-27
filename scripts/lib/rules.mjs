@@ -27,6 +27,10 @@ export const LINK_ONLY_HOSTS = [
   "clerkauction.com",
   "itm.leoncountyfl.gov",
   "sdat.dat.maryland.gov",
+  "mytaxsale.com",
+  "tacssale.com",
+  "vaauctionco.com",
+  "whiteoakhomesks.com",
 ];
 
 export function isLinkOnly(url) {

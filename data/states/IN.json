@@ -1,0 +1,179 @@
+{
+  "state": "IN",
+  "name": "Indiana",
+  "sale_type": "hybrid",
+  "overview": "In Indiana, the county auditor and treasurer offer delinquent parcels at an annual tax sale. Buyers bid at least the minimum bid (delinquent taxes, penalties and sale costs), and the parcel is sold subject to the owner's right of redemption; the winning bidder gets a lien certificate and can seek a tax deed if the property isn't redeemed. Sales must be held within 171 days after the delinquent list is certified to the auditor, so most large counties hold them online between late summer and fall, often through vendors such as GovEase or zeusauction.com. The owner generally has one year to redeem, paying 110% of the minimum bid within six months or 115% after that, plus 5% a year on any overbid. Parcels that don't sell pass to the county commissioners, who can later sell the certificates at a separate commissioners' certificate sale, usually held in spring.",
+  "overview_sources": [
+    {
+      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
+      "quote": "for delinquent taxes and/or special assessments, subject to the right of redemption.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://lakecountyin.gov/departments/treasurer-taxsaleinfo",
+      "quote": "Tax Sales must be held no later than 171 days after the list is certified to the Auditor.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
+      "quote": "One hundred ten percent (110%) of the amount of the minimum bid",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
+      "quote": "One hundred fifteen percent 115% of the amount of the minimum bid",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
+      "quote": "plus five percent (5%) interest per annum on the amount by which the purchase price exceeds",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.in.gov/counties/monroe/government/auditor/tax-sale",
+      "quote": "after the Monroe County Commissioners acquired a lien on the property under IC 6-1.1-24-6",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General",
+      "quote": "There is a 1 year period following the Tax Sale during which anyone may \"redeem the property\"",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Lake",
+      "slug": "lake",
+      "office": "Lake County Treasurer",
+      "phone": "219-755-3760",
+      "address": "2293 N. Main Street, Crown Point, IN 46307",
+      "website": "https://lakecountyin.gov/departments/treasurer-taxsaleinfo",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "zeusauction.com (treasurer tax sale); onyxelectronics.com (commissioners tax sale)",
+        "url": null
+      },
+      "schedule_rule": "Tax Sales must be held no later than 171 days after the list is certified to the Auditor.",
+      "sales": [],
+      "next_sale_note": "The 2026 Treasurer Tax Sale (Sept 4-8, 2026, online at zeusauction.com) and the 2026 Commissioners Tax Sale (May 4-7, 2026, via onyxelectronics.com) have both already taken place. No 2027 dates are posted.",
+      "how_to_bid": "The sale is conducted entirely online, with no in-person sale. Bidders register on the vendor's auction website during the posted window and pay a non-refundable $100 paddle fee for the treasurer sale; the commissioners sale charged $600 ($100 paddle fee plus $500 applied toward the minimum bid).",
+      "sources": [
+        {
+          "url": "https://lakecountyin.gov/departments/treasurer-taxsaleinfo",
+          "read_on": "2026-10-27",
+          "terms": "No Terms of Use or Disclaimer page found; footer has '© 2025 Lake County, Indiana. All rights reserved.' and a Privacy Policy with no clause on copying, scraping or reuse.",
+          "terms_url": "https://lakecountyin.gov/privacy-policy"
+        },
+        {
+          "url": "https://lakecountyin.gov/news-events/events/2026-lake-county-treasurer-tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above.",
+          "terms_url": "https://lakecountyin.gov/privacy-policy"
+        },
+        {
+          "url": "https://lakecountyin.gov/departments/auditor-taxsales/lake-county-commissioners-tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "Same site as above.",
+          "terms_url": "https://lakecountyin.gov/privacy-policy"
+        }
+      ]
+    },
+    {
+      "county": "Allen",
+      "slug": "allen",
+      "office": "Allen County Auditor's Office",
+      "phone": "(260) 449-7241",
+      "address": null,
+      "website": "https://www.allencounty.in.gov/270/Tax-Sale",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "GovEase (liveauctions.govease.com, per county info sheet)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 tax sale has already taken place (\"The 2026 Tax Sale will be held September 16, 2026\"). No 2027 date or commissioners' certificate sale is posted.",
+      "how_to_bid": "The sale runs online only through GovEase. Bidders create an account, complete the online registration documents (an IRS W-9 is required) and wait for approval, and can enter maximum bids ahead of time. Winners pay by noon on the next business day.",
+      "sources": [
+        {
+          "url": "https://www.allencounty.in.gov/270/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (CivicPlus footer shows Accessibility, ADA Policy, Title VI, Site Map, Contact Us; no Disclaimer/Terms/Copyright link)",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.allencounty.in.gov/DocumentCenter/View/14415/26TSINFO-General",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.allencounty.in.gov/321/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (page content is stale: 2024 sale)",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Hamilton",
+      "slug": "hamilton",
+      "office": "Auditor's Office",
+      "phone": "317-774-2580 (listed for Sadie Eldridge)",
+      "address": "33 N 9th Street, Suite 214, Noblesville, IN 46060",
+      "website": "https://www.hamiltoncounty.in.gov/452/",
+      "sale_type": "hybrid",
+      "format": "in person",
+      "platform": {
+        "name": "SRI (www.sriservices.com named for location updates)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 sale has already taken place (\"The Hamilton County Tax Sale will be held on Thursday, October 8, 2026, at 10:00 AM\", Second Floor Historic Courtroom, 33 North 9th Street, Noblesville). No 2027 date or commissioners' certificate sale is posted.",
+      "how_to_bid": "The page lists the sale at a physical courtroom and links to a separate bidder registration page, which we did not read. Owners can avoid the sale by paying the Treasurer in full by noon on the day before the sale.",
+      "sources": [
+        {
+          "url": "https://www.hamiltoncounty.in.gov/452/",
+          "read_on": "2026-10-27",
+          "terms": "Terms of Use: no explicit clause on copying or scraping; county 'warrants' no accuracy and anyone relying on the information 'does so at his or her own risk'. Copyright notice: 'All content © 2006-2026 Hamilton County, IN and its representatives. All rights reserved.' The county's tax sale listing app (secure2.hamiltoncounty.in.gov/TaxSale) has a separate GIS Usage Agreement, which we did not read.",
+          "terms_url": "https://www.hamiltoncounty.in.gov/125"
+        }
+      ]
+    },
+    {
+      "county": "Marion",
+      "slug": "marion",
+      "office": "Marion County Treasurer",
+      "phone": null,
+      "address": "Room 1022 City-County Building 200 E Washington Street Indianapolis, IN 46204",
+      "website": "https://www.indy.gov/activity/prepare-for-a-tax-sale",
+      "sale_type": "hybrid",
+      "format": "online",
+      "platform": {
+        "name": "GovEase (registration, per 2025 procedures document)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Unverified: indy.gov tax sale pages render by script and returned no content to our fetch. The only official document we could read is the 2025 procedures (sale Oct 6-10, 2025). No 2026 or 2027 date was confirmed.",
+      "how_to_bid": "According to the 2025 procedures, bidders register at Govease.com for a bidder number and post a $2,500 deposit for the regular sale. Parcels are offered in item order and go to the highest bidder at or above the minimum bid, and all sales are final. Confirm current rules on indy.gov.",
+      "sources": [
+        {
+          "url": "https://us-east-1-indy.graphassets.com/ActDBC5rvRWeCZlNNnLrDz/cmcuqak0p0fyx07lj60dyqcq6",
+          "read_on": "2026-10-27",
+          "terms": "not found (PDF on indy.gov's asset host; titled 'MARION COUNTY, INDIANA 2025 ONLINE TAX SALE INFORMATION AND PROCEDURES')",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.indy.gov/activity/prepare-for-a-tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (page content not readable without JavaScript)",
+          "terms_url": null
+        }
+      ]
+    }
+  ]
+}

@@ -36,13 +36,18 @@ for (const { file, data } of readStateFiles()) {
     for (const sale of c.sales || []) {
       const sw = (msg) => cw(`sale ${sale.date}: ${msg}`);
       if (!/^\d{4}-\d{2}-\d{2}$/.test(sale.date || "") || Number.isNaN(Date.parse(sale.date))) errors.push(sw("bad date"));
+      if (sale.end_date && (!/^\d{4}-\d{2}-\d{2}$/.test(sale.end_date) || sale.end_date < sale.date)) errors.push(sw("bad end_date"));
       if (!sale.source_url) errors.push(sw("no source_url"));
       else if (isLinkOnly(sale.source_url)) errors.push(sw(`source is link-only: ${sale.source_url}`));
       else if (!sourceUrls.has(sale.source_url)) errors.push(sw(`source_url not listed in county sources: ${sale.source_url}`));
       if (!sale.quote) errors.push(sw("no quote from the source"));
       if (!sale.label) warnings.push(sw("no label"));
     }
-    if (!(c.sales || []).length && !c.schedule_rule && !c.next_sale_note) warnings.push(cw("no sales, schedule or next-sale note"));
+    if (c.link_only) {
+      if (!c.link_only.reason) errors.push(cw("link_only needs a reason"));
+      if ((c.sales || []).length || c.schedule_rule || c.how_to_bid) errors.push(cw("link_only county must not copy sales, schedule or how-to-bid text"));
+    }
+    if (!c.link_only && !(c.sales || []).length && !c.schedule_rule && !c.next_sale_note) warnings.push(cw("no sales, schedule or next-sale note"));
   }
 }
 

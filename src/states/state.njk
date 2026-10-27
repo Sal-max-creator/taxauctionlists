@@ -32,7 +32,7 @@ eleventyComputed:
       <td><a href="{{ c.url }}">{{ c.county }}</a></td>
       <td><span class="tag tag-{{ c.sale_type | replace(' ', '-') }}">{{ c.sale_type }}</span></td>
       <td>{{ c.format | capitalize }}{% if c.platform and c.platform.name %}<br><span class="muted">{{ c.platform.name }}</span>{% endif %}</td>
-      <td>{% if c.upcoming.length %}{{ c.upcoming[0].date | longDate }}{% elif c.schedule_rule %}{{ c.schedule_rule }}{% else %}<span class="muted">{{ c.next_sale_note or "Not yet posted" }}</span>{% endif %}</td>
+      <td>{% if c.link_only %}<a href="{{ c.sources[0].url }}" rel="nofollow noopener">See county site</a>{% elif c.upcoming.length %}{{ c.upcoming[0].date | longDate }}{% elif c.schedule_rule %}{{ c.schedule_rule }}{% else %}<span class="muted">{{ c.next_sale_note or "Not yet posted" }}</span>{% endif %}</td>
       <td class="nowrap">{{ c.lastChecked | shortDate }}</td>
     </tr>
   {% endfor %}

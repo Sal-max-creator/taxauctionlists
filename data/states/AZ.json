@@ -1,0 +1,274 @@
+{
+  "state": "AZ",
+  "name": "Arizona",
+  "sale_type": "lien",
+  "overview": "Arizona sells tax lien certificates (Certificates of Purchase) on real property with delinquent property taxes, not the property itself. Each county treasurer runs one sale a year in February, and in the large counties it is held online through a third-party vendor (RealAuction's arizonataxsale.com sites). Bidders bid down the interest rate they will accept, starting at a 16% maximum, and the owner can redeem at any time by paying the taxes plus that interest. If the lien isn't redeemed, the holder must wait three years from the sale before starting a foreclosure action in court to get title.",
+  "overview_sources": [
+    {
+      "url": "https://www.to.pima.gov/static/files/TaxLienSaleBooklet.pdf",
+      "quote": "The Pima County Tax Lien Sale is held annually in February (A.R.S. 42-18112).",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://treasurer.pinal.gov/TaxLienBooklet.pdf",
+      "quote": "shall be awarded to the bidder who offers to accept the lowest rate of interest.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://treasurer.pinal.gov/TaxLienBooklet.pdf",
+      "quote": "The interest on a certificate ranges from 0 to 16%.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://treasurer.pinal.gov/TaxLienBooklet.pdf",
+      "quote": "the property owner has a right to redeem the tax lien AT ANY TIME.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.to.pima.gov/static/files/TaxLienSaleBooklet.pdf",
+      "quote": "the investor must hold the tax lien certificate for a minimum of three (3) years",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.to.pima.gov/static/files/TaxLienSaleBooklet.pdf",
+      "quote": "A foreclosure action in a Pima County court of competent jurisdiction can order a transfer of title",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Maricopa",
+      "slug": "maricopa",
+      "office": "Maricopa County Treasurer's Office",
+      "phone": "(602) 506-8511",
+      "address": "301 West Jefferson Street, Suite 100, Phoenix, AZ 85003-2199",
+      "website": "https://treasurer.maricopa.gov/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Arizona tax sale (RealAuction)",
+        "url": null
+      },
+      "schedule_rule": "Tax Lien Calendar entry: \"February\" / \"Online auction\" (no day given)",
+      "sales": [],
+      "next_sale_note": "2027 sale date not yet posted. The county's tax lien page still shows the past sale (\"The Tax Lien Sale will be held on February 4, 2025.\"), and its research brochure gives only the month (February).",
+      "how_to_bid": "The county's tax lien page sends bidders to the Arizona tax sale site to register and take part. The county's research brochure lists the sale as a February online auction. The pages fetched did not give deposit or bidding mechanics.",
+      "sources": [
+        {
+          "url": "https://treasurer.maricopa.gov/TaxLienWeb",
+          "read_on": "2026-10-27",
+          "terms": "Disclaimer/Terms of Use text on the page covers accuracy and liability only ('The Maricopa County Treasurer's Office hereby disclaims liability for any damages, direct or indirect, arising from use'); nothing on copying, redistribution or commercial reuse.",
+          "terms_url": "https://treasurer.maricopa.gov/TaxLienWeb"
+        },
+        {
+          "url": "https://www.treasurer.maricopa.gov/PDFs/ResearchMaterial.pdf",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://treasurer.maricopa.gov/TaxLienWeb",
+          "quote": "Visit Arizona tax sale to register and participate."
+        },
+        {
+          "url": "https://www.treasurer.maricopa.gov/PDFs/ResearchMaterial.pdf",
+          "quote": "February"
+        },
+        {
+          "url": "https://www.treasurer.maricopa.gov/PDFs/ResearchMaterial.pdf",
+          "quote": "Online auction"
+        },
+        {
+          "url": "https://www.treasurer.maricopa.gov/PDFs/ResearchMaterial.pdf",
+          "quote": "(602) 506-8511"
+        }
+      ]
+    },
+    {
+      "county": "Pima",
+      "slug": "pima",
+      "office": "Pima County Treasurer",
+      "phone": "520-724-8341",
+      "address": "240 North Stone Avenue, Tucson, AZ 85701-1199",
+      "website": "https://www.to.pima.gov/taxLienSale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction.com",
+        "url": "https://pima.arizonataxsale.com/"
+      },
+      "schedule_rule": "The Pima County Tax Lien Sale is held annually in February (A.R.S. 42-18112).",
+      "sales": [],
+      "next_sale_note": "2027 sale date not yet posted. The last posted sale was 2/26/2026 (past).",
+      "how_to_bid": "Register on the county's RealAuction site during the posted registration window, then bid on liens offered in batches by sequence number. You bid the interest rate you'll accept, starting at 16% and going down in 1% steps (0% is accepted), and pay the full amount by the date in the bidding rules.",
+      "sources": [
+        {
+          "url": "https://www.to.pima.gov/taxLienSale/",
+          "read_on": "2026-10-27",
+          "terms": "No Disclaimer/Terms link found on the treasurer site; footer shows '© 2026 Pima County Treasurer's Office'. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.to.pima.gov/static/files/TaxLienSaleBooklet.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Booklet has Disclaimer and County Attorney Disclaimer sections about investment risk and accuracy ('provided for informational purposes only'); no copying or redistribution restriction found.",
+          "terms_url": "https://www.to.pima.gov/static/files/TaxLienSaleBooklet.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.to.pima.gov/taxLienSale/",
+          "quote": "The 2026 Tax Lien Sale will be held online and hosted by RealAuction.com."
+        },
+        {
+          "url": "https://www.to.pima.gov/taxLienSale/",
+          "quote": "The bidding will start at 16% and must be in 1% increments."
+        },
+        {
+          "url": "https://www.to.pima.gov/taxLienSale/",
+          "quote": "will occur on 2/26/2026, the first group closes at 8:00 AM MST and the last ends at 12:00 PM MST."
+        }
+      ]
+    },
+    {
+      "county": "Pinal",
+      "slug": "pinal",
+      "office": "Pinal County Treasurer",
+      "phone": "520- 866-6425",
+      "address": "P.O. Box 729, Florence, AZ 85132 (mailing address)",
+      "website": "https://treasurer.pinal.gov/ParcelInquiry/Main/TaxLienSale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Real Auction",
+        "url": "https://pinal.arizonataxsale.com/"
+      },
+      "schedule_rule": "The Online Tax Lien Sale will be open to the public each year in February for purchase of tax lien certificates.",
+      "sales": [],
+      "next_sale_note": "2027 sale date not yet posted.",
+      "how_to_bid": "The online sale opens about two weeks before the sale for viewing, new bidder registration and bidding on the Real Auction site. Bidders must be registered and have their initial deposit in by wire or ACH one day before the sale; the treasurer's office takes no deposits. The booklet says the deposit is $500 or 10% of the expected bid, whichever is greater, and the lien goes to the lowest interest-rate bid.",
+      "sources": [
+        {
+          "url": "https://treasurer.pinal.gov/ParcelInquiry/Main/TaxLienSale",
+          "read_on": "2026-10-27",
+          "terms": "No reuse restriction on the page; it has accuracy/warranty disclaimers only ('Pinal County makes no representation or warranty that a property is usable or marketable.').",
+          "terms_url": null
+        },
+        {
+          "url": "https://treasurer.pinal.gov/TaxLienBooklet.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Booklet (dated 01/14/2021) says 'This Booklet is provided for informational purposes only and grants no rights to tax lien purchasers.' No copying restriction.",
+          "terms_url": null
+        },
+        {
+          "url": "https://explore.pinal.gov/1063/Terms-of-Use-Policy",
+          "read_on": "2026-10-27",
+          "terms": "County-wide Terms of Use Policy: nothing on copying, redistribution, commercial use or scraping found (only an External Links section).",
+          "terms_url": "https://explore.pinal.gov/1063/Terms-of-Use-Policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://treasurer.pinal.gov/ParcelInquiry/Main/TaxLienSale",
+          "quote": "have their initial deposit submitted via Wire or ACH"
+        },
+        {
+          "url": "https://treasurer.pinal.gov/ParcelInquiry/Main/TaxLienSale",
+          "quote": "No deposits will be accepted at the Treasurer's office."
+        },
+        {
+          "url": "https://treasurer.pinal.gov/TaxLienBooklet.pdf",
+          "quote": "All bidders are required to deposit $500 or 10% of anticipated bid, whichever is greater."
+        },
+        {
+          "url": "https://treasurer.pinal.gov/TaxLienBooklet.pdf",
+          "quote": "The sale will be conducted online by a third party vendor."
+        }
+      ]
+    },
+    {
+      "county": "Mohave",
+      "slug": "mohave",
+      "office": "Mohave County Treasurer",
+      "phone": "928-753-0737",
+      "address": "700 W. Beale Street, Kingman, AZ 86401",
+      "website": "https://www.mohave.gov/departments/treasurer/tax-liens/tax-lien-sale/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": {
+        "name": "Real Auction",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 sale date not yet posted. The county page covers the 2026 sale (2024 delinquent taxes) and gives no dates.",
+      "how_to_bid": "Every bidder, including those with existing bidder numbers, must register again each year. Each certificate carries a $10.00 non-refundable county fee, and Real Auction charges a $5.00 winning-bidder fee per parcel. All purchases are final.",
+      "sources": [
+        {
+          "url": "https://www.mohave.gov/departments/treasurer/tax-liens/tax-lien-sale/",
+          "read_on": "2026-10-27",
+          "terms": "No Terms of Use page found. The Privacy Policy has no restriction on copying website content, but quotes A.R.S. 11-251.17 restricting use of the county seal without Board of Supervisors approval.",
+          "terms_url": "https://www.mohave.gov/common-links/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mohave.gov/departments/treasurer/tax-liens/tax-lien-sale/",
+          "quote": "MOHAVE COUNTY 2026 TAX LIEN SALE"
+        },
+        {
+          "url": "https://www.mohave.gov/departments/treasurer/tax-liens/tax-lien-sale/",
+          "quote": "All bidders, including those having current bidder numbers, must register."
+        },
+        {
+          "url": "https://www.mohave.gov/departments/treasurer/tax-liens/tax-lien-sale/",
+          "quote": "ALL PURCHASES MADE AT THE AUCTION ARE FINAL, NO EXCEPTIONS"
+        }
+      ]
+    },
+    {
+      "county": "Yavapai",
+      "slug": "yavapai",
+      "office": "Yavapai County Treasurer's Office",
+      "phone": null,
+      "address": null,
+      "website": "https://www.yavapaiaz.gov/Mapping-and-Properties/Property-Taxes/Treasurers-Office",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Arizona tax sale (RealAuction)",
+        "url": "https://yavapai.arizonataxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 sale date not yet posted. The treasurer's News page still shows the 2025 auction (finalized February 11, 2025).",
+      "how_to_bid": "The treasurer runs the annual tax lien sale and issues Certificates of Purchase. Registration, deposits and the list of available items are handled on the county's online auction site, with deposits due before the auction closes.",
+      "sources": [
+        {
+          "url": "https://www.yavapaiaz.gov/Mapping-and-Properties/Property-Taxes/Treasurers-Office/News",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.yavapaiaz.gov/Mapping-and-Properties/Property-Taxes/Treasurers-Office",
+          "read_on": "2026-10-27",
+          "terms": "not found (Yavapai investor FAQ PDFs refused automated fetch: robots disallowed)",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.yavapaiaz.gov/Mapping-and-Properties/Property-Taxes/Treasurers-Office/News",
+          "quote": "To register or view the list of available items, please visit https://yavapai.arizonataxsale.com/"
+        },
+        {
+          "url": "https://www.yavapaiaz.gov/Mapping-and-Properties/Property-Taxes/Treasurers-Office",
+          "quote": "The Treasurer also conducts the annual tax lien sale and in conjunction with that sale, he issues Certificates of Purchase."
+        }
+      ]
+    }
+  ]
+}

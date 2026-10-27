@@ -17,7 +17,7 @@
   <tbody>
   {% for s in rows %}
     <tr data-state="{{ s.stateCode }}" data-type="{{ s.saleType }}" data-format="{{ s.format }}">
-      <td class="nowrap"><strong>{{ s.date | longDate }}</strong>{% if s.time %}<br><span class="muted">{{ s.time }}</span>{% endif %}</td>
+      <td class="nowrap"><strong>{{ s.date | longDate }}</strong>{% if s.end_date %}<br>to {{ s.end_date | longDate }}{% endif %}{% if s.time %}<br><span class="muted">{{ s.time }}</span>{% endif %}</td>
       {% if showState %}<td><a href="{{ s.stateUrl }}">{{ s.stateName }}</a></td>{% endif %}
       <td><a href="{{ s.countyUrl }}">{{ s.county }}</a></td>
       <td>{{ s.label }}</td>

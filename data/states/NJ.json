@@ -1,0 +1,220 @@
+{
+  "state": "NJ",
+  "name": "New Jersey",
+  "sale_type": "lien",
+  "overview": "New Jersey sells tax sale certificates, which are liens on the property, not the property itself. Each of the state's 566 municipalities must hold at least one tax sale a year, run by its own tax collector; many now hold them as online auctions, and some also hold an 'accelerated' sale late in the year for current-year charges unpaid after November 10. Certificates earn interest of up to 18 percent. Bidders compete by bidding the interest rate down and then by offering a premium, which the municipality holds on deposit for up to five years. If the owner does not redeem, the certificate holder can start foreclosure in Superior Court after two years.",
+  "overview_sources": [
+    {
+      "url": "https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf",
+      "quote": "At the tax sale, title to the delinquent property itself is not sold. What is sold is a tax sale certificate, a lien on the property.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf",
+      "quote": "New Jersey law requires all 566 municipalities to hold at least one tax sale per year",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf",
+      "quote": "Tax sale certificates can earn interest of up to 18 per cent, depending on the winning percentage bid at the auction.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf",
+      "quote": "The winning bidder is the one who bids the lowest percentage of interest or bids the highest premium.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/elements_of_tax_sales_nj.pdf",
+      "quote": "After two years, a lien holder can begin proceedings in Superior Court to foreclose on the property.",
+      "read_on": "2026-10-27"
+    },
+    {
+      "url": "https://www.newarknj.gov/FAQ.aspx?QID=73",
+      "quote": "after the statutory due date (November 10th), the municipality may enforce the collection of those charges",
+      "read_on": "2026-10-27"
+    }
+  ],
+  "counties": [
+    {
+      "county": "Lakewood Township (Ocean County)",
+      "slug": "lakewood-township-ocean",
+      "office": "Tax Collector, Township of Lakewood",
+      "phone": "732-364-2500",
+      "address": "231 Third Street, Municipal Building, Lakewood, NJ 08701",
+      "website": "https://www.lakewoodnj.gov/department/tax-collector",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "newjerseytaxsale.com (vendor site; vendor not named on the township page)",
+        "url": "https://lakewood.newjerseytaxsale.com/"
+      },
+      "sales": [],
+      "next_sale_note": null,
+      "sources": [
+        {
+          "url": "https://www.lakewoodnj.gov/department/tax-collector",
+          "read_on": "2026-10-27",
+          "terms": "RESTRICTIVE: website disclaimer says 'The information provided herewith is solely for your own use and cannot be sold.'",
+          "terms_url": "https://www.lakewoodnj.gov/disclaimer"
+        },
+        {
+          "url": "https://www.lakewoodnj.gov/images/db/u-1-4151-Notice-of-Online-Tax-Sale-2026.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see disclaimer above.",
+          "terms_url": "https://www.lakewoodnj.gov/disclaimer"
+        },
+        {
+          "url": "https://www.lakewoodnj.gov/images/db/u-1-9494-ON-LINE-TAX-SALE-AD-2026-10.22.26.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same site; see disclaimer above.",
+          "terms_url": "https://www.lakewoodnj.gov/disclaimer"
+        }
+      ],
+      "link_only": {
+        "reason": "Lakewood Township's disclaimer says its information is solely for your own use and cannot be sold."
+      },
+      "notes": {
+        "withheld_sales": [
+          {
+            "date": "2026-10-28",
+            "label": "Online Tax Sale (2025 and prior year delinquent taxes, water/sewer and other municipal charges)",
+            "source_url": "https://www.lakewoodnj.gov/department/tax-collector",
+            "quote": "Tax Sale Date is October 28, 2026 (See the attached for link & more information)"
+          }
+        ]
+      }
+    },
+    {
+      "county": "Middletown Township (Monmouth County)",
+      "slug": "middletown-township-monmouth",
+      "office": "Finance Department, Tax Collection",
+      "phone": "732-615-2086",
+      "address": "1 Kings Highway, Middletown, NJ 07748",
+      "website": "https://www.middletownnj.org/278/Tax-Collection",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Real Auction",
+        "url": "https://middletown.newjerseytaxsale.com/index.cfm?folder=showDocument&documentName=FAQ"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-17",
+          "label": "2026 Accelerated Tax Sale (electronic)",
+          "source_url": "https://www.middletownnj.org/278/Tax-Collection",
+          "quote": "Tax Sale Date: December 17, 2026"
+        }
+      ],
+      "next_sale_note": "Start time not stated. The page says payments must arrive by November 10, 2026 at 3:45 PM to avoid the sale.",
+      "how_to_bid": "The sale is electronic, run on the township's newjerseytaxsale.com site. The township refers questions about registration, training, bidding and deposits to Real Auction customer service (954-734-7401 or 877-361-7325).",
+      "sources": [
+        {
+          "url": "https://www.middletownnj.org/278/Tax-Collection",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer links only a Privacy Policy and Accessibility page)",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Freehold Township (Monmouth County)",
+      "slug": "freehold-township-monmouth",
+      "office": "Township of Freehold (Tax Sale)",
+      "phone": "732-294-2000",
+      "address": "One Municipal Plaza, Freehold, NJ 07728",
+      "website": "https://www.twp.freehold.nj.us/573/Tax-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "newjerseytaxsale.com (vendor site; vendor not named on the township page)",
+        "url": "https://freeholdtownship.newjerseytaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-08",
+          "time": "8:00 am",
+          "label": "Online Tax Sale",
+          "source_url": "https://www.twp.freehold.nj.us/573/Tax-Sale",
+          "quote": "on-line auction on December 8, 2026 – 8:00 am"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The sale is an online auction. The township points bidders to its newjerseytaxsale.com page for parcel listings, amounts due and bidding instructions, which it says can be viewed free of charge.",
+      "sources": [
+        {
+          "url": "https://www.twp.freehold.nj.us/573/Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer links only Site Map, Contact Us, Privacy Policy and other non-terms pages)",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Edison Township (Middlesex County)",
+      "slug": "edison-township-middlesex",
+      "office": "The Office of the Tax Collector",
+      "phone": "(732) 248-7228",
+      "address": "100 Municipal Blvd., Edison NJ 08817",
+      "website": "https://edisonnj.gov/departments/finance/tax_collector.php",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2026 sale date posted. The township's Accelerated Tax Sale page still shows its last sale, Monday December 15th, 2025 at 9:00 a.m. in Town Hall / Council Chambers.",
+      "how_to_bid": "Based on the most recent accelerated sale notice, the sale is held in person at Town Hall; bidders must submit pre-registration / bidder information sheets in advance, and only cash, money order or cashier's check are accepted.",
+      "sources": [
+        {
+          "url": "https://www.edisonnj.org/departments/finance/accelerated_tax_sale.php",
+          "read_on": "2026-10-27",
+          "terms": "not found (footer shows only '© Copyright 2026 Township of Edison. All Rights Reserved.')",
+          "terms_url": null
+        },
+        {
+          "url": "https://edisonnj.gov/departments/finance/tax_collector.php",
+          "read_on": "2026-10-27",
+          "terms": "not found (copyright notice only, see above)",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Newark (Essex County)",
+      "slug": "newark-essex",
+      "office": "Revenue Collections (Department of Finance)",
+      "phone": "973-733-3791",
+      "address": null,
+      "website": "https://newarknj.gov/departments/finance",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": "Accelerated Tax Sale: When current year's taxes and/or other municipal charges remain owing and due after the statutory due date (November 10th), the municipality may enforce the collection of those charges",
+      "sales": [],
+      "next_sale_note": "No 2026 sale date posted on newarknj.gov. The most recent sale alert found was for an online auction on Friday, December 6, 2024 at 8:00 am. Format 'online' is based on that 2024 alert.",
+      "how_to_bid": "The city sells tax lien certificates for unpaid taxes and municipal charges, both in a standard sale for prior years and in an accelerated sale for current-year charges unpaid after November 10. Its last posted sale was an online auction; the city site gives no bidder registration details.",
+      "sources": [
+        {
+          "url": "https://newarknj.gov/departments/finance",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.newarknj.gov/FAQ.aspx?QID=73",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        },
+        {
+          "url": "https://newarknj.gov/alerts/2024-tax-sale-for-delinquent-2023-and-other-municipal-charges-through-an-online-auction-to-be-conducted-friday-december-6-2024-at-8-00-am",
+          "read_on": "2026-10-27",
+          "terms": "not found",
+          "terms_url": null
+        }
+      ]
+    }
+  ]
+}

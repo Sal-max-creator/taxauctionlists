@@ -7,6 +7,7 @@ import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 import { readStateFiles, allSources, flattenSales, loadStates, today } from "./lib/data.mjs";
+import { forbidsAutomation } from "./lib/rules.mjs";
 
 const args = Object.fromEntries(
   process.argv.slice(2).reduce((pairs, arg, i, all) => (arg.startsWith("--") ? [...pairs, [arg.slice(2), all[i + 1]]] : pairs), []),
@@ -103,7 +104,13 @@ for (const src of sources) {
   const prev = previous[src.url];
   const result = { ...src, status: "unchanged" };
   try {
-    if (!(await allowedByRobots(src.url))) {
+    if (src.linkOnly) {
+      result.status = "skipped";
+      result.note = "link-only source (terms bar commercial reuse); check by hand";
+    } else if (forbidsAutomation(src.url)) {
+      result.status = "skipped";
+      result.note = "site terms forbid automated tools; check by hand";
+    } else if (!(await allowedByRobots(src.url))) {
       result.status = "skipped";
       result.note = "robots.txt disallows automated checks; check by hand";
     } else {

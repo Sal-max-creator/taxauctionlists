@@ -11,6 +11,14 @@ export const LINK_ONLY_HOSTS = [
   "sriservices.com",
   "lienhub.com",
   "grantstreet.com",
+  "govdeals.com",
+  "newjerseytaxsale.com",
+  "sheriffsaleauction.ohio.gov",
+  "sheriffsaleauctions.com",
+  "coloradotaxsale.com",
+  "arizonataxsale.com",
+  "deedauction.net",
+  "clerkauction.com",
   "itm.leoncountyfl.gov",
   "sdat.dat.maryland.gov",
 ];
@@ -23,4 +31,18 @@ export function isLinkOnly(url) {
     return false;
   }
   return LINK_ONLY_HOSTS.some((h) => host === h || host.endsWith(`.${h}`));
+}
+
+// Hosts whose terms forbid automated tools or spiders. We may cite them, but the weekly
+// checker never fetches them; it lists them for a manual look instead.
+export const NO_AUTOMATION_HOSTS = ["iowataxandtags.org"];
+
+export function forbidsAutomation(url) {
+  let host;
+  try {
+    host = new URL(url).hostname.toLowerCase();
+  } catch {
+    return false;
+  }
+  return NO_AUTOMATION_HOSTS.some((h) => host === h || host.endsWith(`.${h}`));
 }

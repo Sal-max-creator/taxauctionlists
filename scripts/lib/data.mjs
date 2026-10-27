@@ -25,7 +25,7 @@ export function loadStates() {
       const counties = (data.counties || [])
         .map((c) => {
           const checks = (c.sources || []).map((s) => s.read_on).filter(Boolean).sort();
-          const sales = (c.sales || []).filter((s) => s.date >= now).sort((a, b) => a.date.localeCompare(b.date));
+          const sales = (c.sales || []).filter((s) => (s.end_date || s.date) >= now).sort((a, b) => a.date.localeCompare(b.date));
           return {
             ...c,
             stateCode: data.state,
@@ -68,6 +68,7 @@ export function allSources(states = readStateFiles().map((f) => f.data)) {
   const add = (url, info) => {
     if (!url) return;
     const entry = map.get(url) || { url, terms: null, terms_url: null, read_on: null, backs: [] };
+    if (info.linkOnly) entry.linkOnly = true;
     if (info.terms && !entry.terms) entry.terms = info.terms;
     if (info.terms_url && !entry.terms_url) entry.terms_url = info.terms_url;
     if (info.read_on && (!entry.read_on || info.read_on > entry.read_on)) entry.read_on = info.read_on;
@@ -77,7 +78,7 @@ export function allSources(states = readStateFiles().map((f) => f.data)) {
   for (const st of states) {
     for (const s of st.overview_sources || []) add(s.url, { backs: `${st.name} overview`, read_on: s.read_on });
     for (const c of st.counties || []) {
-      for (const s of c.sources || []) add(s.url, { ...s, backs: `${c.county}, ${st.state}` });
+      for (const s of c.sources || []) add(s.url, { ...s, linkOnly: Boolean(c.link_only), backs: `${c.county}, ${st.state}` });
       for (const sale of c.sales || []) add(sale.source_url, { backs: `${c.county}, ${st.state}: ${sale.label || "sale"} ${sale.date}` });
     }
   }

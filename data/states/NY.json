@@ -307,6 +307,174 @@
           "quote": "The online registration cut off deadline is on Tuesday, September 8."
         }
       ]
+    },
+    {
+      "county": "Schenectady",
+      "slug": "schenectady",
+      "office": "Schenectady County (the county announcement does not name the department)",
+      "phone": null,
+      "address": "620 State Street, Schenectady, NY 12305",
+      "website": "https://www.schenectadycountyny.gov/news/schenectady-county-announces-foreclosed-property-auction-3",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "collarcityauctions.com (online auction site the county announcement links to)",
+        "url": "https://collarcityauctions.com/servlet/Search.do?auctionId=1168"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date posted. The latest county announcement (October 7, 2025) was for an online auction of 20 foreclosed properties that closed Friday, October 24, 2025 (past).",
+      "how_to_bid": "The county announcement says the foreclosed properties are auctioned online and that all auction information is on the linked auction site. Deposit, registration and bidding steps are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.schenectadycountyny.gov/news/schenectady-county-announces-foreclosed-property-auction-3",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice only: footer reads '©2024 Copyright Schenectady County, NY'. The footer has no terms or disclaimer link; the Privacy Policy covers website privacy only (data collected, cookies, links) and says nothing about reusing site content.",
+          "terms_url": "https://www.schenectadycountyny.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.schenectadycountyny.gov/news/schenectady-county-announces-foreclosed-property-auction-3",
+          "quote": "Schenectady County announced that 20 foreclosed properties will be auctioned off online"
+        },
+        {
+          "url": "https://www.schenectadycountyny.gov/news/schenectady-county-announces-foreclosed-property-auction-3",
+          "quote": "from now until Friday, October 24, 2025 at 11:00 a.m."
+        }
+      ]
+    },
+    {
+      "county": "Oswego",
+      "slug": "oswego",
+      "office": "Office of the Oswego County Treasurer",
+      "phone": "315-349-8393",
+      "address": "46 E. Bridge St., Oswego, New York 13126",
+      "website": "https://www.oswegocountyny.gov/departments/finance_and_personnel/county_treasurer/index.php",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction date is posted on the Treasurer's page; it points to the county's Annual Property Tax Auction hub page, which did not show a date when read.",
+      "how_to_bid": "The Treasurer's page says the office conducts county tax-property auctions and sends bidders to the county's Oswego County Tax Auction hub page (tax-sale-oswegogis.hub.arcgis.com) for the annual property tax auction. Format, deposit, registration and bidding steps are not stated on the pages read.",
+      "sources": [
+        {
+          "url": "https://www.oswegocountyny.gov/departments/finance_and_personnel/county_treasurer/index.php",
+          "read_on": "2026-10-27",
+          "terms": "Footer reads 'Oswego County - Copyright 2024'. The 'Privacy Policy and Terms of Use' page has accuracy disclaimers ('Oswego County makes no warranties about the accuracy, reliability, completeness, or timeliness of its website.') but no clause on reuse, reproduction or redistribution.",
+          "terms_url": "https://www.oswegocountyny.gov/privacy_policy/index.php"
+        },
+        {
+          "url": "https://tax-sale-oswegogis.hub.arcgis.com/",
+          "read_on": "2026-10-27",
+          "terms": "No terms or disclaimer text on the hub page; county site terms as above.",
+          "terms_url": "https://www.oswegocountyny.gov/privacy_policy/index.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.oswegocountyny.gov/departments/finance_and_personnel/county_treasurer/index.php",
+          "quote": "Property tax collection and management, conducts county tax-property auctions"
+        },
+        {
+          "url": "https://tax-sale-oswegogis.hub.arcgis.com/",
+          "quote": "Hub page for the annual Oswego County tax delinquent property auction."
+        }
+      ]
+    },
+    {
+      "county": "Jefferson",
+      "slug": "jefferson",
+      "office": "Jefferson County Attorney's Office, Tax Enforcement",
+      "phone": "(315) 785-5116",
+      "address": "175 Arsenal Street, 4th Floor, Watertown, NY 13601",
+      "website": "https://www.jeffersoncountyny.gov/annual-jefferson-county-tax-foreclosure-auction",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": "Auction is held annually in June.",
+      "sales": [],
+      "next_sale_note": "No exact date posted. The county page lists the 2027 Real Property Tax Foreclosure Auction as 'Tentatively June 2027', held as a virtual online auction.",
+      "how_to_bid": "Virtual online auction. The county page's link to the property list is marked as not active yet; questions go to Tax Enforcement at (315) 785-5116. Auction company, deposit, registration and bidding steps are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.jeffersoncountyny.gov/annual-jefferson-county-tax-foreclosure-auction",
+          "read_on": "2026-10-27",
+          "terms": "no terms page found (the footer has no terms, disclaimer, privacy or copyright link, only a 'Website By EvoGov' credit; the page metadata carries 'Copyright 2026 - Jefferson County New York'). Nothing on the page restricts reuse.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.jeffersoncountyny.gov/annual-jefferson-county-tax-foreclosure-auction",
+          "quote": "When: Tentatively June 2027"
+        },
+        {
+          "url": "https://www.jeffersoncountyny.gov/annual-jefferson-county-tax-foreclosure-auction",
+          "quote": "Where: Virtual Online Auction"
+        },
+        {
+          "url": "https://www.jeffersoncountyny.gov/annual-jefferson-county-tax-foreclosure-auction",
+          "quote": "Auction is held annually in June."
+        }
+      ]
+    },
+    {
+      "county": "Sullivan",
+      "slug": "sullivan",
+      "office": "Sullivan County Treasurer",
+      "phone": "845-807-0200",
+      "address": "County Government Center, 100 North Street, PO Box 5012, Monticello, NY 12701",
+      "website": "https://sullivanny.gov/Departments/Treasurer",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "aarauctions.com (online auction site linked from the county's 2026 notice)",
+        "url": "https://aarauctions.com/servlet/Search.do?auctionId=8250"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date posted. The 2026 online auction ran September 14 to 16, 2026 (past). The county's 2026 auction page says parcels whose buyers did not close by October 16, 2026 'will then be scheduled for a subsequent auction later this year', but no date is posted.",
+      "how_to_bid": "Online only. For 2026 the county urged bidders to register by the auction's opening at the linked auction site and to receive a packet by email explaining the terms and conditions; a bidders' seminar was available online. All sales are subject to final approval by the Sullivan County Legislature. Deposit and buyer premium are not stated on the county pages.",
+      "sources": [
+        {
+          "url": "https://sullivanny.gov/Departments/Treasurer",
+          "read_on": "2026-10-27",
+          "terms": "Copyright footer only, with 'All rights reserved': '© 2026 Copyright Sulllivan County. All rights reserved.' The footer has no terms, disclaimer, privacy or legal link; nothing found forbids republishing sale dates.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.sullivanny.gov/news/tax-foreclosure-auction-set-september-14-16",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.sullivanny.gov/Departments/Treasurer/Foreclosures/2026TaxAuction",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sullivanny.gov/news/tax-foreclosure-auction-set-september-14-16",
+          "quote": "will be held online only from Monday, September 14 through Wednesday, September 16."
+        },
+        {
+          "url": "https://www.sullivanny.gov/news/tax-foreclosure-auction-set-september-14-16",
+          "quote": "Bidding opens September 14 at 10 a.m. and concludes September 16 at 10 a.m."
+        },
+        {
+          "url": "https://www.sullivanny.gov/news/tax-foreclosure-auction-set-september-14-16",
+          "quote": "All sales are subject to final approval by the Sullivan County Legislature."
+        },
+        {
+          "url": "https://www.sullivanny.gov/Departments/Treasurer/Foreclosures/2026TaxAuction",
+          "quote": "The parcel will then be scheduled for a subsequent auction later this year."
+        }
+      ]
     }
   ]
 }

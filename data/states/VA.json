@@ -316,6 +316,146 @@
           "quote": "Properties shall be paid in full the day of the sale by Cash, Cashier's check, or Money order."
         }
       ]
+    },
+    {
+      "county": "Hanover",
+      "slug": "hanover",
+      "office": "Hanover County Treasurer's Office, Collections Division",
+      "phone": "804-365-6000",
+      "address": null,
+      "website": "https://www.hanovercounty.gov/377/Delinquent-Tax-Sale",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "forsaleatauction.biz (online auction site named on the county page)",
+        "url": "https://www.forsaleatauction.biz/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction date posted. The county page says dates are posted on the County calendar once set and lists are not available until 3 weeks before an auction; the calendar showed no tax sale events when read.",
+      "how_to_bid": "The county page says Hanover holds at least two real estate auctions a year, on the steps of the Hanover County Board Room or online at forsaleatauction.biz; bidders can sign up there and at taxva.com for notices. The highest bidder normally pays a deposit of 25% of the bid or $1,000, whichever is higher, plus a 10% buyer's premium, in certified funds or by wire. Sales are subject to Circuit Court confirmation; the buyer gets a special warranty deed. Bidders may not owe delinquent Hanover County taxes.",
+      "sources": [
+        {
+          "url": "https://www.hanovercounty.gov/377/Delinquent-Tax-Sale",
+          "read_on": "2026-10-27",
+          "terms": "no terms page found (the footer has no terms, disclaimer, privacy or copyright link, only quick links and a 'Government Websites by CivicPlus' credit). Nothing on the page restricts reuse.",
+          "terms_url": null
+        }
+      ]
+    },
+    {
+      "county": "Roanoke",
+      "slug": "roanoke",
+      "office": "Roanoke County Treasurer's Office",
+      "phone": "540-772-2056",
+      "address": "P.O. Box 29800, Roanoke, VA 24018-0798 (county mailing address). Sales held at the Roanoke County Administration Center, 5204 Bernard Drive SW, Roanoke, VA 24018.",
+      "website": "https://roanokecountyva.gov/397/Judicial-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": {
+        "name": "Woltz and Associates (auctioneer named by the county)",
+        "url": "https://www.woltz.com/auctions/1069/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Next judicial sale date is TBD on the county page. The last scheduled sale, September 25, 2026 at 10 a.m., has passed.",
+      "how_to_bid": "Judicial sales are held as live auctions in the Board of Supervisors Meeting Room, Roanoke County Administration Center, conducted by Woltz and Associates; the county page sends bidders to the auctioneer for photos and sale terms and posts a 'Lands Delinquent and Subject to Sale' PDF list. Deposit, payment and registration are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://roanokecountyva.gov/397/Judicial-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright notice with 'All rights reserved': 'All content © 2006-2026 Roanoke County, VA and its representatives. All rights reserved.' The Copyright Notices page has no clause on reuse, reproduction or permission; nothing found forbids republishing sale dates.",
+          "terms_url": "https://roanokecountyva.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://roanokecountyva.gov/397/Judicial-Sales",
+          "quote": "The next Judicial Sale, conducted as an auction, will be held on TBD."
+        },
+        {
+          "url": "https://roanokecountyva.gov/397/Judicial-Sales",
+          "quote": "A Judicial Sale for Delinquent Lands is scheduled for September 25, 2026, 10 a.m. at:"
+        },
+        {
+          "url": "https://roanokecountyva.gov/397/Judicial-Sales",
+          "quote": "Woltz and Associates will conduct the Real Estate Auction for Parcels Approved for Sale."
+        }
+      ]
+    },
+    {
+      "county": "Fauquier",
+      "slug": "fauquier",
+      "office": "Fauquier County Treasurer's Office (sales handled by Mary Catherine Anderson, Treasurer's Counsel & Special Commissioner of Sale)",
+      "phone": "(540) 422-8193",
+      "address": "10 Courthouse Sq., First Floor, Warrenton, VA 20186. Public auctions at the Fauquier County Circuit Court, 40 Culpeper Street, Warrenton, VA.",
+      "website": "https://www.fauquiercounty.gov/government/departments-h-z/treasurer-s-office/judicial-tax-sale",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held periodically without any regularity.",
+      "sales": [],
+      "next_sale_note": "No sale date posted yet. The Treasurer's page says that on October 26, 2026, or as soon after as practicable, the county would start court proceedings to sell five parcels for delinquent taxes; a sale date follows once the court appoints a special commissioner. The last sale was a public auction at noon on Friday, January 9, 2026 (past).",
+      "how_to_bid": "Real estate at least three years tax delinquent is sold by court order through a Special Commissioner. Private offers may be made to the Special Commissioner before a deadline; if none qualifies, a public auction is held at the Circuit Court. A deposit of $1,000 or 10% of the price, whichever is greater, must accompany offers and highest bids, by cashier's check only (no cash); the balance is due within 30 days of Court approval. Property is sold as is. Registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://www.fauquiercounty.gov/government/departments-h-z/treasurer-s-office/judicial-tax-sale",
+          "read_on": "2026-10-27",
+          "terms": "Checked in a browser: the site footer has accessibility, FOIA rights and sitemap links but no terms, disclaimer or copyright notice. No terms page found and nothing on the pages read restricts reuse."
+        },
+        {
+          "url": "https://www.fauquiercounty.gov/government/departments-a-g/county-attorney/tax-sales",
+          "read_on": "2026-10-27",
+          "terms": "Checked in a browser: the site footer has accessibility, FOIA rights and sitemap links but no terms, disclaimer or copyright notice. No terms page found and nothing on the pages read restricts reuse."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.fauquiercounty.gov/government/departments-h-z/treasurer-s-office/judicial-tax-sale",
+          "quote": "The public auction will be held at noon on Friday, January 9, 2026"
+        },
+        {
+          "url": "https://www.fauquiercounty.gov/government/departments-h-z/treasurer-s-office/judicial-tax-sale",
+          "quote": "A deposit of $1,000.00 or 10% of the purchase price, whichever is greater, must accompany all private offers and highest bids."
+        },
+        {
+          "url": "https://www.fauquiercounty.gov/government/departments-a-g/county-attorney/tax-sales",
+          "quote": "Tax sales are held periodically without any regularity."
+        }
+      ]
+    },
+    {
+      "county": "Frederick",
+      "slug": "frederick",
+      "office": "Frederick County Treasurer",
+      "phone": null,
+      "address": null,
+      "website": "https://fcva.us/departments/treasurer/tax-sales",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted. The county page lists parcels still being pursued and says the date and time will be posted there once the Court orders the sale. The most recent sale listed was July 21, 2026 at 11:30 am on the steps of the Joint Judicial Center (past).",
+      "how_to_bid": "The county offers delinquent tax properties for sale under Va. Code § 58.1-3965 and lists the parcels in its 2024 and 2018 proceedings on the Treasurer's Tax Sales page; owners may redeem before the sale by paying all accumulated taxes. Location, deposit, registration and bidding steps are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://fcva.us/departments/treasurer/tax-sales",
+          "read_on": "2026-10-27",
+          "terms": "The county's Website Disclaimer says information is provided as is with no warranty of accuracy, and says nothing about reusing or republishing site content. No copyright notice in the footer.",
+          "terms_url": "https://www.fcva.us/services/website-disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://fcva.us/departments/treasurer/tax-sales",
+          "quote": "The County of Frederick offers delinquent tax properties for sale."
+        },
+        {
+          "url": "https://fcva.us/departments/treasurer/tax-sales",
+          "quote": "The date and time for sale will be posted on this site when the sale has been ordered by the Court."
+        }
+      ]
     }
   ]
 }

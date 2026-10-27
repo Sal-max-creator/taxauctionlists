@@ -252,6 +252,155 @@
       "notes": {
         "schedule_rule_adjourned": "on the 3rd Monday of each month"
       }
+    },
+    {
+      "county": "Woodbury",
+      "slug": "woodbury",
+      "office": "Woodbury County Treasurer's Office",
+      "phone": "712-279-6495",
+      "address": "County Courthouse 620 Douglas Street. Sioux City, Iowa 51101",
+      "website": "https://www.woodburycountyiowa.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": null
+      },
+      "schedule_rule": "The Annual Tax Sale takes place the 3rd Monday in June each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 annual sale was Monday, June 15, 2026, online (past). The page also lists adjourned-sale and public-bidder parcels; call the Treasurer (712-279-6495) for adjourned parcels and the Board of Supervisors (712-279-6525) for public-bidder parcels.",
+      "how_to_bid": "Register and bid through GovEase, the platform the Treasurer's page links to; the sale is online from 9:00 a.m. to 10:30 a.m. Per the 2026 terms, pay a non-refundable $43.00 registration fee through GovEase; bids are 'bid downs' in whole percentage points from 99% to 1%, with random selection to break ties, and payment was due by 4:00 p.m. on sale day through GovEase. The investor is responsible for all research on parcels. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.woodburycountyiowa.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or legal link in the footer; footer copyright only: '©2026 Woodbury County, Iowa'. No reuse clause found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.woodburycountyiowa.gov/files/treasurer/woodbury_county_terms_conditions_55199.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Same county site; copyright footer only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.woodburycountyiowa.gov/treasurer/tax_sale/",
+          "quote": "The tax sale is an online event that is held on the 3rd Monday of June at 9:00 a.m. to 10:30 a.m."
+        },
+        {
+          "url": "https://www.woodburycountyiowa.gov/files/treasurer/woodbury_county_terms_conditions_55199.pdf",
+          "quote": "Pay a non-refundable $43.00 registration fee through Govease.com."
+        }
+      ]
+    },
+    {
+      "county": "Story",
+      "slug": "story",
+      "office": "Story County Treasurer",
+      "phone": "(515) 382-7330",
+      "address": "900 6th St, P.O. Box 498, Nevada, IA 50201",
+      "website": "https://storycountyiowa.gov/DocumentCenter/View/16668/Terms-and-Conditions-2025",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's terms document (filed as 'Terms and Conditions 2025' but dated for 2026) set the annual sale for Monday, June 15, 2026 at 9:00 a.m. (past). Adjourned sales: 'An adjourned tax sale will be held any business day following the annual tax sale' when bidders are present and parcels remain.",
+      "how_to_bid": "All bids are placed online through iowataxauction.com; the sale is also held in the Public Meeting Room on the second floor of the Story County Administrative Building, 900 Sixth St., Nevada. Per the 2026 terms, registration ran May 18 to June 11, 2026 with a non-refundable $36.00 registration fee by ACH debit. Each parcel starts at a 100% undivided interest and the certificate goes to the bidder who designates the smallest percentage when the sale closes at 10:30 a.m. The total due is collected by ACH debit from the registration account. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://storycountyiowa.gov/DocumentCenter/View/16668/Terms-and-Conditions-2025",
+          "read_on": "2026-10-27",
+          "terms": "County Disclaimer page: 'Copyright (c) Story County, Iowa.' and 'Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License'. Reuse allowed.",
+          "terms_url": "https://storycountyiowa.gov/844/Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://storycountyiowa.gov/DocumentCenter/View/16668/Terms-and-Conditions-2025",
+          "quote": "All bids must be placed online through the auction site, which can be accessed by going to www.iowataxauction.com."
+        },
+        {
+          "url": "https://storycountyiowa.gov/DocumentCenter/View/16668/Terms-and-Conditions-2025",
+          "quote": "Pay a non-refundable $36.00 registration fee via ACH debit."
+        }
+      ],
+      "notes": {
+        "format_note": "Bids are online only, but the terms also name an in-person meeting room for the sale; 'online' used because all bids go through the auction site."
+      }
+    },
+    {
+      "county": "Pottawattamie",
+      "slug": "pottawattamie",
+      "office": "Pottawattamie County Treasurer",
+      "phone": "(712) 328-5627",
+      "address": "not stated",
+      "website": "https://pottcounty-ia.gov/treasurer/real_estate/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Annual Tax Sale takes place in June of each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's real estate page gives no specific sale date or adjourned-sale dates.",
+      "how_to_bid": "The page has a Tax Sale Registration button and refers to an auction website (not named) where copies of the parcel list are posted; parcels are listed in parcel-number order with sequence numbers for bidding, under open competitive bidding per Iowa Code Chapter 446. The investor is responsible for all research on parcels. Fees, deposit and registration deadline: not stated.",
+      "sources": [
+        {
+          "url": "https://pottcounty-ia.gov/treasurer/real_estate/",
+          "read_on": "2026-10-27",
+          "terms": "Website Privacy, Legal & Linking Policy: accuracy disclaimer only, plus linking sites 'shall not capture Pottawattamie County website pages within frames' or 'present Pottawattamie County website content as its own'. No clause banning reuse or redistribution; no copyright notice.",
+          "terms_url": "https://www.pottcounty-ia.gov/policies/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://pottcounty-ia.gov/treasurer/real_estate/",
+          "quote": "The Annual Tax Sale takes place in June of each year."
+        },
+        {
+          "url": "https://pottcounty-ia.gov/treasurer/real_estate/",
+          "quote": "The investor is responsible for all research on parcels available for auction."
+        }
+      ],
+      "notes": {
+        "phone_note": "The page gives (712) 328-5627 for redemption fund information; no other Treasurer phone or address was shown."
+      }
+    },
+    {
+      "county": "Warren",
+      "slug": "warren",
+      "office": "Warren County Treasurer's Office",
+      "phone": "515/690-9240",
+      "address": "P.O. Box 217, Indianola, IA 50125",
+      "website": "https://www.warrencountyia.gov/wp-content/uploads/2026/05/2026-Online-Tax-Sale-Terms.pdf",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 annual sale was held online on Monday, June 15, 2026 at 8:30 a.m. (past). Parcels not sold are offered in adjourned sales held daily at the Treasurer's office, Administration Building, 301 N. Buxton, Suite 102, Indianola.",
+      "how_to_bid": "Per the 2026 online tax sale terms: register and bid through GovEase; registration ran May 18 to June 5, 2026 with a non-refundable $40.00 registration fee by online e-check. Bidders bid downward a percentage of undivided interest starting from 100%. The total due is collected by ACH debit from the account used for the registration fee; a dishonored payment must be replaced with guaranteed funds within five business days of notice. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.warrencountyia.gov/wp-content/uploads/2026/05/2026-Online-Tax-Sale-Terms.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Privacy & Linking Policy footer: 'Copyright © 2026 Warren County, Iowa. All Rights Reserved.' No clause on reuse or redistribution found.",
+          "terms_url": "https://www.warrencountyia.gov/privacy-and-linking-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.warrencountyia.gov/wp-content/uploads/2026/05/2026-Online-Tax-Sale-Terms.pdf",
+          "quote": "will hold the 2026 annual Tax Sale online on Monday, June 15, 2026, beginning at 8:30a.m."
+        }
+      ]
     }
   ]
 }

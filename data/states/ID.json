@@ -422,6 +422,45 @@
           "quote": "in the first-floor foyer, of the Courthouse at 700 Bank Street, Wallace, ID."
         }
       ]
+    },
+    {
+      "county": "Owyhee",
+      "slug": "owyhee",
+      "office": "Owyhee County Treasurer's Office",
+      "phone": "208-495-1158",
+      "address": "20381 State Highway 78, Murphy, ID 83650 (mail: P.O. Box 128, Murphy, ID 83650)",
+      "website": "https://owyheecounty.net/treasurer/tax-deed/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date is posted.",
+      "how_to_bid": "Auctions are held at the Owyhee County Courthouse in Courtroom 2, 20381 State Hwy. 78, Murphy. The county commissioners set a minimum bid from Treasurer and Assessor information; it also covers taxes owed with penalty and interest, fees, certifications, special assessments, publication costs and recording fees. The county issues a Quit Claim Deed after the sale. Payment methods, deposit and bidding steps are not stated.",
+      "sources": [
+        {
+          "url": "https://owyheecounty.net/treasurer/tax-deed/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer (only Employee Portal, Owyhee County Code and a copyright notice with a web designer credit). No terms page found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://owyheecounty.net/?p=139",
+          "read_on": "2026-10-28",
+          "terms": "Same site footer; no terms page found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://owyheecounty.net/treasurer/tax-deed/",
+          "quote": "The auctions are held in Murphy, Idaho at the Owyhee County Courthouse in Courtroom 2, 20381 State Hwy. 78."
+        },
+        {
+          "url": "https://owyheecounty.net/?p=139",
+          "quote": "Owyhee County issues a Quit Claim Deed upon the sale of property taken through tax deed."
+        }
+      ]
     }
   ]
 }

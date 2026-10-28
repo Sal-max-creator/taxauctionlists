@@ -417,6 +417,146 @@
           "quote": "All sales are final, and no refunds or exchanges are permitted."
         }
       ]
+    },
+    {
+      "county": "Hennepin",
+      "slug": "hennepin",
+      "office": "Hennepin County Tax-forfeited land",
+      "phone": "612-348-3734",
+      "address": "Not stated on the tax-forfeited land page (it links to the county locations list).",
+      "website": "https://www.hennepincounty.gov/services/property/tax-forfeited-land",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "Hennepin County tax-forfeited land inventory site",
+        "url": "https://public-hennepin.epropertyplus.com/"
+      },
+      "schedule_rule": "This sale is held approximately 4 ½ months after forfeiture and lasts 30 days.",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted. The county lists properties for sale on its tax-forfeited land inventory site and sells by traditional real estate, online auction and over the counter.",
+      "how_to_bid": "Properties for sale are listed on the county's tax-forfeited land inventory site. The county first offers a property at an estimated market value sale (about 4 1/2 months after forfeiture, lasting 30 days), then at a minimum bid price sale if it didn't sell. Methods of sale are traditional real estate, online auction and over the counter. The county page links an auction process video series and a Before you bid checklist. Registration and deposit terms are not stated. Email tflinfo@hennepin.us; office hours M-F, 8 a.m. to 4:30 p.m.",
+      "sources": [
+        {
+          "url": "https://www.hennepincounty.gov/services/property/tax-forfeited-land",
+          "read_on": "2026-10-28",
+          "terms": "No terms of use or disclaimer link on the site footer. The Privacy and security on county websites page covers visitor data, cookies and security only, with no reuse or republishing restriction. Footer copyright only: '© Copyright 2026 Hennepin County. All rights reserved'.",
+          "terms_url": "https://www.hennepincounty.gov/government/about/policies/privacy-security-on-county-websites"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hennepincounty.gov/services/property/tax-forfeited-land",
+          "quote": "This sale is held approximately 4 ½ months after forfeiture and lasts 30 days."
+        },
+        {
+          "url": "https://www.hennepincounty.gov/services/property/tax-forfeited-land",
+          "quote": "Properties for sale are listed on our tax-forfeited land inventory site."
+        }
+      ]
+    },
+    {
+      "county": "Wright",
+      "slug": "wright",
+      "office": "Wright County Finance & Taxpayer Services",
+      "phone": "763-682-3900",
+      "address": "3650 Braddock Avenue NE, Buffalo, MN 55313",
+      "website": "https://www.wrightcountymn.gov/1540/Tax-Forfeiture",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com/sms/wrightcore,mn/browse/cataucs?catid=15"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "time": null,
+          "label": "Tax forfeiture online auction (opens for bidding)",
+          "deposit": null,
+          "registration_deadline": "Not stated",
+          "note": "Online on Public Surplus. The county page says the auction ends 11/8/2026 at 9:00 PM. A 3% state assurance fee is collected at the time of sale, plus recording, deed and online auction fees.",
+          "source_url": "https://www.wrightcountymn.gov/1540/Tax-Forfeiture",
+          "quote": "Our next Tax Forfeiture online auction is open for bidding on 11/2/2026."
+        }
+      ],
+      "next_sale_note": "The auction opens for bidding on Nov. 2, 2026 and ends Nov. 8, 2026 at 9:00 PM.",
+      "how_to_bid": "Bid online on Public Surplus during the auction window. The county collects a 3% assurance fee for the State of Minnesota in full at the time of sale; recording fees, deed fees/taxes and third-party online auction fees are explained at payment. Registration and deposit requirements are not stated. Questions go to the Wright County Taxpayer Services Team (763-682-3900 or 800-362-3667).",
+      "sources": [
+        {
+          "url": "https://www.wrightcountymn.gov/1540/Tax-Forfeiture",
+          "read_on": "2026-10-28",
+          "terms": "The Website Disclaimer and Privacy Policy covers accuracy only ('the County does not guarantee the information on the Site is always complete and accurate'; 'use this site for informational purposes only') and states no reuse or republishing restriction. The Copyright Notices page says only 'All content © 2006-2026 Wright County, MN and its representatives. All rights reserved.' The 'Terms and Conditions' link on the Tax Forfeiture page is the county's terms and conditions of sale, not website terms.",
+          "terms_url": "https://www.wrightcountymn.gov/672/Website-Disclaimer-and-Privacy-Policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wrightcountymn.gov/1540/Tax-Forfeiture",
+          "quote": "The auction will end on 11/8/2026 at 9:00 PM."
+        }
+      ]
+    },
+    {
+      "county": "Clay",
+      "slug": "clay",
+      "office": "Clay County Auditor's Office (Property Taxes, Licenses, and Elections)",
+      "phone": "218-299-5012",
+      "address": "PO Box 280, Moorhead, MN 56560",
+      "website": "https://claycountymn.gov/290/Forfeiture-Property-for-Sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com/sms/browse/home"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-09",
+          "time": "8:00 AM",
+          "label": "Online tax-forfeited property sale",
+          "deposit": null,
+          "registration_deadline": "Registration is required on the Public Surplus auction site",
+          "note": "Closes December 9, 2026 at 4:30 PM. Sales are cash only on individual parcels.",
+          "source_url": "https://claycountymn.gov/290/Forfeiture-Property-for-Sale",
+          "quote": "The online sale will commence on November 9th, 2026 at 8:00 AM and will close on December 9th, 2026 at 4:30 PM."
+        },
+        {
+          "date": "2026-12-14",
+          "time": "8:00 AM",
+          "label": "2nd online auction (parcels not sold in the first sale)",
+          "deposit": null,
+          "registration_deadline": "Registration is required on the Public Surplus auction site",
+          "note": "The county page says it closes December 27, 2026 at 4:30 PM.",
+          "source_url": "https://claycountymn.gov/290/Forfeiture-Property-for-Sale",
+          "quote": "Any parcels not sold will be offered again during a 2nd online auction starting on December 14, 2026 at 8AM"
+        }
+      ],
+      "next_sale_note": "Online sale Nov. 9 to Dec. 9, 2026; unsold parcels go to a 2nd online auction Dec. 14 to Dec. 27, 2026, then over the counter at the Auditor's Office.",
+      "how_to_bid": "Register and bid on the Public Surplus auction site. Sales are cash only on individual parcels; pay by cashier's check, certified check, personal check or money order payable to the Clay County Auditor (certified funds for bidders with a prior NSF payment). Winning bidders are emailed a Buyer/Deed Registration Form, due back within 5 days of the auction's close. Parcels left unsold are available over the counter at the Auditor's Office. No deposit is stated.",
+      "sources": [
+        {
+          "url": "https://claycountymn.gov/290/Forfeiture-Property-for-Sale",
+          "read_on": "2026-10-28",
+          "terms": "County Disclaimer covers accuracy only ('Any person or entity that relies on any information obtained from this website does so at his or her own risk.') and says GIS information 'is in the public domain and may be copied without permission'. No restriction on reuse or republishing.",
+          "terms_url": "https://claycountymn.gov/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://claycountymn.gov/290/Forfeiture-Property-for-Sale",
+          "quote": "and will close on December 27, 2026 at 4:30PM."
+        },
+        {
+          "url": "https://claycountymn.gov/290/Forfeiture-Property-for-Sale",
+          "quote": "Sales shall be cash only on individual parcels."
+        }
+      ],
+      "notes": {
+        "registration_note": "The page also says 'Registration is required on the day of the auction.' in its Sale Information section, which it does not reconcile with Public Surplus registration.",
+        "platform_note": "The page names the Public Surplus auction site; the fetched text did not give its link."
+      }
     }
   ]
 }

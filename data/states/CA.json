@@ -593,6 +593,56 @@
           "quote": "ALL SALES ARE FINAL."
         }
       ]
+    },
+    {
+      "county": "Shasta",
+      "slug": "shasta",
+      "office": "Shasta County Treasurer-Tax Collector-Public Administrator",
+      "phone": "530-225-5511",
+      "address": "1450 Court Street, Room 227, Redding, CA 96001 (mail: P.O. Box 991830, Redding, CA 96099-1830)",
+      "website": "https://www.shastacounty.gov/media/78056",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/Shasta"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction posted. The county's most recent Notice of Public Auction was for an online auction on Friday, February 27, 2026, which has passed; no later date found. The county's auction FAQ says a notice is published about two months before a scheduled auction.",
+      "how_to_bid": "Online auction through Bid4Assets; registration is required on the Bid4Assets website. Bidders place a $5,000.00 deposit (certified check or wire transfer), which covers bidding on every item. Payment is usually due within 3 days after the sale ends, through Bid4Assets, by certified check or wire transfer; no personal checks. Property is sold for not less than the minimum bid in the published notice.",
+      "sources": [
+        {
+          "url": "https://www.shastacounty.gov/media/78056",
+          "read_on": "2026-10-28",
+          "terms": "Shasta County Legal Disclaimers page: covers liability, indemnification, accuracy ('Shasta County provides this information on an \"as is\" basis.'), endorsement, links, continuity of service and choice of law; no clause restricting copying, reuse or redistribution.",
+          "terms_url": "https://www.shastacounty.gov/node/3987"
+        },
+        {
+          "url": "https://www.shastacounty.gov/sites/default/files/fileattachments/tax_collector/page/2687/generaltaxauctioninformation_faq.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Same site and Legal Disclaimers.",
+          "terms_url": "https://www.shastacounty.gov/node/3987"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.shastacounty.gov/media/78056",
+          "quote": "The public online auction sale will be conducted at 5:00 a.m. PST on Friday, February 27, 2026"
+        },
+        {
+          "url": "https://www.shastacounty.gov/sites/default/files/fileattachments/tax_collector/page/2687/generaltaxauctioninformation_faq.pdf",
+          "quote": "You will be required to place a $5,000.00 deposit."
+        },
+        {
+          "url": "https://www.shastacounty.gov/sites/default/files/fileattachments/tax_collector/page/2687/generaltaxauctioninformation_faq.pdf",
+          "quote": "Payment is usually due within 3 days after the tax sales ends."
+        },
+        {
+          "url": "https://www.shastacounty.gov/sites/default/files/fileattachments/tax_collector/page/2687/generaltaxauctioninformation_faq.pdf",
+          "quote": "Registration is required on the Bid4Assets website."
+        }
+      ]
     }
   ]
 }

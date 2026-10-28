@@ -751,6 +751,204 @@
           "quote": "The Collector shall enforce the lien through a publicly held tax sale."
         }
       ]
+    },
+    {
+      "county": "North Wildwood (Cape May County)",
+      "slug": "north-wildwood-cape-may",
+      "office": "Office of the Tax Collector, City of North Wildwood",
+      "phone": "(609) 522-2030",
+      "address": "901 Atlantic Avenue, North Wildwood, NJ 08260",
+      "website": "https://northwildwood.com/departments/tax-collector/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Tax Sale is held the last week of December.",
+      "sales": [],
+      "next_sale_note": "2026 date not yet posted. The city holds an accelerated sale each year for current-year delinquent tax and sewer; charges still delinquent as of November 11 are listed for sale.",
+      "how_to_bid": "Accelerated annual tax sale of tax sale certificates (liens), not title to the property. The city page does not state the time, place, online platform, registration, or deposit. Payments are by cash, money order or certified check only. Taxes keep accruing after the sale and lienholders may pay later delinquent tax and sewer balances; if a certificate stays open two years the holder can start proceedings in Superior Court.",
+      "sources": [
+        {
+          "url": "https://northwildwood.com/departments/tax-collector/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; footer shows only '© Copyright | City of North Wildwood | All Rights Reserved' with a JoyceMedia.com web-design credit link (no vendor terms). No reuse ban found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://northwildwood.com/departments/tax-collector/",
+          "quote": "The City of North Wildwood holds an Accelerated Tax Sale each year to collect current year delinquent tax and/or sewer."
+        },
+        {
+          "url": "https://northwildwood.com/departments/tax-collector/",
+          "quote": "All payments must be made by cash, money order or certified check."
+        },
+        {
+          "url": "https://northwildwood.com/departments/tax-collector/",
+          "quote": "What is sold is a tax sale certificate, a lien on the property."
+        },
+        {
+          "url": "https://northwildwood.com/departments/tax-collector/",
+          "quote": "Taxes continue to accrue on the property after the sale of the certificate."
+        }
+      ]
+    },
+    {
+      "county": "Asbury Park (Monmouth County)",
+      "slug": "asbury-park-monmouth",
+      "office": "Tax & Sewer Collections, City of Asbury Park",
+      "phone": "732-502-5198",
+      "address": "1 Municipal Plaza, 1st Floor North, Asbury Park, NJ 07712",
+      "website": "https://www.cityofasburypark.com/226/Tax-Sewer-Collections",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The date of the accelerated tax sale will be announced and is usually in mid-December.",
+      "sales": [],
+      "next_sale_note": "2026 date not yet posted. The city runs an accelerated sale in the same year the taxes are due; properties with delinquencies starting November 11 are included, and sale information is also published in a local newspaper.",
+      "how_to_bid": "Accelerated annual tax sale. The city page does not state the time, place, online platform, registration, or deposit. Tax sale and lien payments must be made by cash, certified check, or money order. Owners avoid the sale by paying all municipal charges by November 10 with guaranteed funds.",
+      "sources": [
+        {
+          "url": "https://www.cityofasburypark.com/226/Tax-Sewer-Collections",
+          "read_on": "2026-10-28",
+          "terms": "CivicPlus site; the Copyright page shows only 'All content © 2006-2026 Asbury Park, NJ and its representatives. All rights reserved.' and the CivicPlus copyright line; no terms, disclaimer or privacy link in the footer. No reuse ban found. Restate facts only. The page's 2025 tax sale list PDF is not cited.",
+          "terms_url": "https://www.cityofasburypark.com/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cityofasburypark.com/226/Tax-Sewer-Collections",
+          "quote": "The City of Asbury Park conducts an accelerated tax sale."
+        },
+        {
+          "url": "https://www.cityofasburypark.com/226/Tax-Sewer-Collections",
+          "quote": "Starting November 11th, any properties with delinquencies will be included in the accelerated tax sale."
+        },
+        {
+          "url": "https://www.cityofasburypark.com/226/Tax-Sewer-Collections",
+          "quote": "Tax sale and lien payments must be made by cash, certified check, or money order."
+        },
+        {
+          "url": "https://www.cityofasburypark.com/226/Tax-Sewer-Collections",
+          "quote": "To avoid the tax sale process, property owners must pay all municipal charges by November 10th."
+        }
+      ]
+    },
+    {
+      "county": "Hackensack (Bergen County)",
+      "slug": "hackensack-bergen",
+      "office": "Tax Collector, City of Hackensack",
+      "phone": "201-646-3927",
+      "address": "65 Central Ave, Hackensack, NJ 07601",
+      "website": "https://www.hackensack.org/tax-collector",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-21",
+          "time": "not stated",
+          "label": "2026 Accelerated Tax Lien Sale",
+          "deposit": "not stated",
+          "registration_deadline": "Bidders must register before the sale with a Bidder Information Sheet and a W-9; no deadline date stated",
+          "note": "Unpaid taxes and charges enter the accelerated tax sale process on November 11. Sale time, place and whether it is online or in person are not stated on the city page.",
+          "source_url": "https://www.hackensack.org/tax-collector",
+          "quote": "Our 2026 Accelerated Tax Lien Sale will be held on December 21, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Every bidder must register before the sale by completing a Bidder Information Sheet (sent with a W-9 to the Tax Collector's office); the bidder number is sent back as confirmation of registration. The owner is not evicted and may keep occupying the property; redemption requests go to the Tax Collector in writing. Sale time, location or online platform, deposit and payment rules are not stated on the city page; bidding questions go to the Tax Collector's office at 201-646-3927.",
+      "sources": [
+        {
+          "url": "https://www.hackensack.org/tax-collector",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the footer has no terms, disclaimer, privacy or legal link, only '© City of Hackensack, All Rights Reserved.' No reuse ban found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hackensack.org/tax-collector",
+          "quote": "All unpaid taxes and charges will be subject to our Accelerated Tax Sale proceedings beginning November 11th."
+        },
+        {
+          "url": "https://www.hackensack.org/tax-collector",
+          "quote": "All potential bidders must register PRIOR TO THE SALE by completing a Bidder Information Sheet"
+        },
+        {
+          "url": "https://www.hackensack.org/tax-collector",
+          "quote": "You will receive your bidder number as confirmation of registration."
+        },
+        {
+          "url": "https://www.hackensack.org/tax-collector",
+          "quote": "The taxpayer is not evicted and may continue to occupy the property."
+        },
+        {
+          "url": "https://www.hackensack.org/tax-collector",
+          "quote": "All lien redemption requests must be submitted to this office in writing."
+        }
+      ]
+    },
+    {
+      "county": "Ridgefield Park (Bergen County)",
+      "slug": "ridgefield-park-bergen",
+      "office": "Tax Collector, Village of Ridgefield Park",
+      "phone": "201-641-4950",
+      "address": "234 Main Street, Ridgefield Park, NJ 07660",
+      "website": "https://www.ridgefieldpark.org/227",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-11",
+          "time": "11:00 AM",
+          "label": "2026 Tax Sale",
+          "deposit": "not stated",
+          "registration_deadline": "No preregistration; bring all documentation the day of the sale",
+          "note": "Held at the Municipal Building, 234 Main St, Ridgefield Park (third floor). Liens are paid by money order or certified check before the sale ends, with separate checks for premiums.",
+          "source_url": "https://www.ridgefieldpark.org/227",
+          "quote": "Friday, December 11th, 2026 at 11 am"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "In-person sale at the Municipal Building, 234 Main St. No preregistration: bring all documentation (a completed W-9 is advised) on the day of the sale. Bids are interest rates starting at 18% per annum and going down in whole percentage points to 0%; once the bid reaches 0%, bidding moves to premiums starting at $100 and rising in $100 steps. Liens are paid by money order or certified check before the sale ends, with separate checks for premiums. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.ridgefieldpark.org/227",
+          "read_on": "2026-10-28",
+          "terms": "Copyright page reads only 'All content © 2006-2026 Ridgefield Park, NJ and its representatives. All rights reserved.' and the CivicPlus copyright line; no terms or disclaimer link in the footer (privacy and accessibility pages also linked). No reuse ban found. Restate facts only.",
+          "terms_url": "https://www.ridgefieldpark.org/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ridgefieldpark.org/227",
+          "quote": "Municipal Building located at 234 Main St, Ridgefield Park, New Jersey."
+        },
+        {
+          "url": "https://www.ridgefieldpark.org/227",
+          "quote": "Preregistration is not required, bring all documentation the day of the sale."
+        },
+        {
+          "url": "https://www.ridgefieldpark.org/227",
+          "quote": "Bids are to be received in percentages starting at 18% per annum and work downward to 0%."
+        },
+        {
+          "url": "https://www.ridgefieldpark.org/227",
+          "quote": "Should the bid reach 0% premium, bids will start at $100 and increase in $100 increments."
+        },
+        {
+          "url": "https://www.ridgefieldpark.org/227",
+          "quote": "Payment for liens purchased shall be made via money order or certified check only prior to the conclusion of the sale."
+        },
+        {
+          "url": "https://www.ridgefieldpark.org/227",
+          "quote": "Separate checks are required for Premiums."
+        }
+      ]
     }
   ]
 }

@@ -469,6 +469,52 @@
           "quote": "WILL SELL AT A PRIVATE SALE on WEDNESDAY, APRIL 15, 2026"
         }
       ]
+    },
+    {
+      "county": "Ewing Township (Mercer County)",
+      "slug": "ewing-mercer",
+      "office": "Tax Collector's Office, Ewing Township",
+      "phone": "(609) 883-2900, ext. 7607 for tax lien questions",
+      "address": "Ewing Municipal Building, 2 Jake Garzio Drive, Ewing, NJ 08628",
+      "website": "https://ewingnj.org/tax-sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "ewing.newjerseytaxsale.com",
+        "url": "https://ewing.newjerseytaxsale.com/"
+      },
+      "schedule_rule": "The Township of Ewing holds an annual Tax Sale for any municipal charges for the current fiscal year",
+      "sales": [],
+      "next_sale_note": "2026 date not yet posted. The township's last sale (2025 delinquent taxes and sewer) was held on December 30, 2025.",
+      "how_to_bid": "Online auction on the township's official tax auction site, where bidding instructions and listings are posted. The township page says interest rates for liens sold may be as high as 18%, with additional penalties of 2, 4 or 6% depending on the lien amount, and liens must be redeemed in full with guaranteed funds through the Tax Collector's office. Deposit and registration not stated.",
+      "sources": [
+        {
+          "url": "https://ewingnj.org/tax-sale",
+          "read_on": "2026-10-28",
+          "terms": "Policies page holds only a privacy policy and a mobile-app disclaimer (third-party links, advertising, public records); no copyright notice and no clause on reuse, redistribution, commercial use or automated access. No terms or disclaimer link in the site footer.",
+          "terms_url": "https://ewingnj.org/policies"
+        },
+        {
+          "url": "https://ewingnj.org/government/news/1963-public-notice-of-annual-ewing-township-tax-sale",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see above.",
+          "terms_url": "https://ewingnj.org/policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://ewingnj.org/tax-sale",
+          "quote": "The Tax Sale for 2025 delinquent taxes and sewer will be held on December 30, 2025"
+        },
+        {
+          "url": "https://ewingnj.org/tax-sale",
+          "quote": "The Tax Sale is held via an Online Auction."
+        },
+        {
+          "url": "https://ewingnj.org/tax-sale",
+          "quote": "Interest rates for liens sold may be as high as 18%."
+        }
+      ]
     }
   ]
 }

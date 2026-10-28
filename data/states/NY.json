@@ -580,6 +580,54 @@
           "quote": "those parcels sold at the Delinquent Tax Auction held on September 3-10, 2025"
         }
       ]
+    },
+    {
+      "county": "Livingston",
+      "slug": "livingston",
+      "office": "Livingston County (Government Center)",
+      "phone": "585-243-7000",
+      "address": "6 Court Street, Geneseo, NY 14454",
+      "website": "https://www.livingstoncountyny.gov/m/newsflash/home/detail/1825",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "6:00 PM",
+          "label": "Foreclosed Real Property Tax Auction",
+          "deposit": "All deposits must be paid in cash or by certified check or equivalent; personal checks will not be accepted. Deposit amount not stated.",
+          "registration_deadline": "Register at the door with a valid New York State driver's license or other acceptable identification.",
+          "note": "In person at the Livingston County Highway Facility, 4389 Gypsy Lane, Mount Morris, N.Y., 14510. Conducted by Thomas P. Wamp / Pirrung Auctioneers Inc. The county posts an auction booklet with parcel descriptions and photos on its Document Center.",
+          "source_url": "https://www.livingstoncountyny.gov/m/newsflash/home/detail/1825",
+          "quote": "Livingston County will hold a foreclosed real property tax auction on Thursday, Nov. 5, 2026, at 6:00 p.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Attend the in-person auction at the Livingston County Highway Facility in Mount Morris and register at the door with a valid New York State driver's license or other acceptable identification. Properties go to the highest bidder. Deposits must be paid in cash or by certified check or equivalent; personal checks are not accepted. Deposit amount and buyer's premium not stated.",
+      "sources": [
+        {
+          "url": "https://www.livingstoncountyny.gov/m/newsflash/home/detail/1825",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page says only 'All content © 2006-2026 Livingston County, NY and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' No clause on reuse, redistribution or commercial use.",
+          "terms_url": "https://www.livingstoncountyny.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.livingstoncountyny.gov/m/newsflash/home/detail/1825",
+          "quote": "Prospective bidders must register at the door and show a valid New York State driver's license"
+        },
+        {
+          "url": "https://www.livingstoncountyny.gov/m/newsflash/home/detail/1825",
+          "quote": "All deposits must be paid in cash or by certified check or equivalent."
+        },
+        {
+          "url": "https://www.livingstoncountyny.gov/m/newsflash/home/detail/1825",
+          "quote": "The auction will be conducted by Thomas P. Wamp / Pirrung Auctioneers Inc., licensed real estate brokers."
+        }
+      ]
     }
   ]
 }

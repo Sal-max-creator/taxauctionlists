@@ -672,6 +672,52 @@
           "quote": "Registration for prospective auction bidders will begin at 8 a.m., and the auction is scheduled to start at 10 a.m."
         }
       ]
+    },
+    {
+      "county": "Tompkins",
+      "slug": "tompkins",
+      "office": "Tompkins County Finance Department",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://www.tompkinscountyny.gov/All-Departments/Finance-Department/Auction",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Reynolds Auction",
+        "url": "https://www.reynoldsauction.com/"
+      },
+      "schedule_rule": "REAL PROPERTY TAX FORECLOSURE PUBLIC AUCTIONS are held once per year.",
+      "sales": [],
+      "next_sale_note": "No 2027 auction date posted. The county's Auction page says the list of parcels to be auctioned is available after June 15 (marked 'Subject to change') on Reynolds Auction. The most recent auction announcement read (May 9, 2025) was for an online auction June 12-23, 2025 (past).",
+      "how_to_bid": "The county's annual real property tax foreclosure auction is run online through Reynolds Auction, where the parcel list is posted (after June 15, subject to change) under 'Tompkins County Real Property Tax Foreclosure Auction'. The Finance Department runs the auction. Deposit, buyer's premium, registration and payment terms are not stated on the county pages read; the county points to its yearly auction notice and the auction listing for details.",
+      "sources": [
+        {
+          "url": "https://www.tompkinscountyny.gov/All-Departments/Finance-Department/Auction",
+          "read_on": "2026-10-28",
+          "terms": "Disclaimer and Privacy Policy read: an information disclaimer (no representations as to accuracy, completeness or currency; no warranty) and a links disclaimer. No clause on reuse, reproduction, redistribution, commercial use or automated access. Footer: '© 2026 Tompkins County | Powered by Granicus' (copyright-only).",
+          "terms_url": "https://www.tompkinscountyny.gov/About/Disclaimer-and-Privacy-Policy"
+        },
+        {
+          "url": "https://www.tompkinscountyny.gov/News-articles/2025-Property-Tax-Foreclosure-Auction",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.tompkinscountyny.gov/About/Disclaimer-and-Privacy-Policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tompkinscountyny.gov/All-Departments/Finance-Department/Auction",
+          "quote": "REAL PROPERTY TAX FORECLOSURE PUBLIC AUCTIONS are held once per year."
+        },
+        {
+          "url": "https://www.tompkinscountyny.gov/News-articles/2025-Property-Tax-Foreclosure-Auction",
+          "quote": "This year's auction will take place online from June 12-23."
+        },
+        {
+          "url": "https://www.tompkinscountyny.gov/News-articles/2025-Property-Tax-Foreclosure-Auction",
+          "quote": "Parcels for auction will be available online at Reynolds Auction."
+        }
+      ]
     }
   ]
 }

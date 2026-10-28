@@ -207,6 +207,9 @@ State overview: <https://www.douglasco.gov/documents/tax-sale-faq.pdf/>, <https:
 | Morgan | <https://morgancounty.colorado.gov/elected-officials/treasurer-and-public-trustee/tax-lien-sale> | 2026-10-28 | Same site; see above. ([terms](https://www.colorado.gov/general-notices)) |
 | Fremont | <https://fremontcountyco.gov/treasurer/tax-lien-sale-information> | 2026-10-28 | No terms, disclaimer, legal or privacy link; footer has only 'Copyright © 2026 Fremont County. All rights reserved.' (no link), Contact Webmaster and Accessibility. No reuse restriction found. |
 | Fremont | <https://fremontcountyco.gov/sites/default/files/Tax_Lien_Sale_Information.pdf> | 2026-10-28 | Same site; see above (undated county info sheet). |
+| Gunnison | <https://www.gunnisoncounty.org/213/Online-Tax-Lien-Sale> | 2026-10-28 | No terms, disclaimer, legal or copyright link in the footer. The footer's Personal Data Privacy Policy (Policy #1.2.11.3, a PDF) covers only collection and handling of personal data; it has no reuse, redistribution, commercial-use or scraping clause. ([terms](https://gunnisoncounty.org/DocumentCenter/View/6794)) |
+| Routt | <https://www.co.routt.co.us/DocumentCenter/View/20540/Routt-County-2026-Delinquent-Tax-List> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Routt County, CO and its representatives. All rights reserved.' (plus CivicPlus CMS copyright). No terms, disclaimer or privacy link; no reuse, redistribution, personal-use or resale clause found. ([terms](https://www.co.routt.co.us/copyright)) |
+| Teller | <https://tellercounty.gov/987/2026-Tax-Lien-Sale-Rules> | 2026-10-28 | Privacy Policy and Site Disclaimer (Intellectual Property Rights): site content 'is the property of Teller County or its content suppliers' and digital assets fall under the county's proprietary rights. No explicit reuse, redistribution, personal-use, resale or scraping clause. ([terms](https://tellercounty.gov/privacy)) |
 
 ## Connecticut
 
@@ -531,6 +534,9 @@ State overview: <https://www.legis.iowa.gov/docs/code/2025/446.7.pdf>, <https://
 | Cerro Gordo | <https://cerrogordo.gov/files/treasurer/notice_to_tax_sale_purchasers_2026_11816.pdf> | 2026-10-28 | Same county site; copyright footer only. |
 | Clinton | <https://www.clintoncounty-ia.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Clinton County, Iowa' (site powered by Neapolitan Labs, vendor home-page link only). Page notes: 'The following summary is provided for reference only.' No reuse clause found. |
 | Muscatine | <https://muscatinecountyiowa.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '© 2026 Muscatine County' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found. |
+| Boone | <https://www.boonecounty.iowa.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Boone County, Iowa' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found. |
+| Marshall | <https://marshallcountyia.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer (only Accessibility and Title VI links); footer copyright only: '©2026 Marshall County, Iowa'. No reuse clause found. |
+| Wapello | <https://www.wapellocounty.org/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer (Contact Us and a Neapolitan Labs vendor home-page link only); footer copyright only: '©2026 Wapello County, Iowa'. No reuse clause found. |
 
 ## Kansas
 
@@ -551,6 +557,7 @@ State overview: <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html>
 | Geary | <https://www.gearycounty.gov/192/Tax-Sale-General-Information> | 2026-10-27 | Copyright Notices page reads 'All content © 2006-2026 Geary County, KS and its representatives. All rights reserved.' (copyright notice only). No ban on reuse or redistribution found. ([terms](https://www.gearycounty.gov/site/copyright)) |
 | McPherson | <https://www.mcphersoncountyks.us/250/Tax-Foreclosure-Sale> | 2026-10-28 | Copyright Notices page reads 'All content © 2006-2026 McPherson and its representatives. All rights reserved.' (copyright notice only). No ban on reuse or redistribution found. ([terms](https://www.mcphersoncountyks.us/site/copyright)) |
 | Montgomery | <https://www.mgcountyks.org/CivicAlerts.aspx?AID=22> | 2026-10-28 | no terms page found: the page footer shows only 'Government Websites by CivicPlus®' and no copyright, disclaimer, terms, legal or privacy link. No reuse restriction stated. |
+| Cowley | <https://www.cowleycountyks.gov/352/Tax-Sales> | 2026-10-28 | Footer links Copyright Notices and Privacy Policy; the Copyright Notices page showed only the footer text 'All content © 2006-2026 Cowley County, KS and its representatives. All rights reserved.' No reuse, redistribution or automation restriction found. ([terms](https://www.cowleycountyks.gov/copyright)) |
 
 ## Kentucky
 
@@ -783,6 +790,8 @@ State overview: <https://nebraskalegislature.gov/laws/statutes.php?statute=77-18
 | Lincoln | <https://lincolncountyne.gov/treasurer/> | 2026-10-27 | Legal page holds only a copyright line: '© Copyright – Lincoln County, Nebraska'. No clause on reuse, reproduction or redistribution found. ([terms](https://lincolncountyne.gov/legal/)) |
 | Adams | <https://adamscountyne.gov/treasurer/57-tax-sales> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: 'Copyright © 2013 - 2026 Adams County' (site by Careytech Studios, vendor home-page link only). No reuse clause found. |
 | Otoe | <https://otoecountyne.gov/departments/treasurer/public_tax_sale.php> | 2026-10-28 | no terms page found: footer has no terms, disclaimer, legal, copyright or privacy link (only 'Powered by Revize' vendor home-page and CMS login links). |
+| York | <https://www.yorkcounty.ne.gov/county-treasurer.html> | 2026-10-28 | Footer links only a Privacy Policy (effective 1/1/25) about visitor data, Google Analytics and cookies, and Accessibility; no terms, disclaimer or copyright link and no reuse, redistribution or scraping clause. ([terms](https://www.yorkcounty.ne.gov/privacy-policy.html)) |
+| York | <https://www.yorkcounty.ne.gov/uploads/1/4/5/5/145507130/instructions_on_purchasing_25.pdf> | 2026-10-28 | Same site; see above (undated county instructions). |
 
 ## Nevada
 
@@ -1274,6 +1283,10 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 | Wichita | <https://wichitacountysheriffsoffice.org/?p=143> | 2026-10-27 | No terms of use or disclaimer found; footer reads '© All Rights Reserved Wichita County'. No reuse or redistribution clause found. Restate facts only. |
 | Victoria | <https://www.victoriacountytx.gov/page/tax.office.tax.sale.properties> | 2026-10-27 | Copyright Notices page shows only 'All content © 2006-2026 Victoria County, TX and its representatives. All rights reserved.' (plus the CivicPlus CMS copyright). No reuse or redistribution clause found; footer has no separate terms or disclaimer link. Restate facts only. ([terms](https://www.victoriacountytx.gov/copyright)) |
 | Randall | <https://www.randallcounty.gov/293/Sheriff-Sale> | 2026-10-28 | Disclaimer says users may view and use the website contents 'only for lawful purposes' ('All other uses are prohibited'), information is provided 'as is' and accuracy is not guaranteed. No ban on reproduction or redistribution; restate facts only. ([terms](https://www.randallcounty.gov/disclaimer)) |
+| Caldwell | <https://caldwellcad.org/sheriffs-tax-sale/> | 2026-10-28 | No terms, disclaimer or legal link found; footer has only '© 2024 Copyright Caldwell County Appraisal District - Official Site'. No reuse or redistribution clause found. Restate facts only. |
+| Caldwell | <https://caldwellcad.org/wp-content/uploads/2026/10/Sheriffs-Tax-Sale.pdf> | 2026-10-28 | No terms, disclaimer or legal link found; footer has only '© 2024 Copyright Caldwell County Appraisal District - Official Site'. No reuse or redistribution clause found. Restate facts only. |
+| Caldwell | <https://newtools.cira.state.tx.us/page/caldwell.SheriffsTaxSale> | 2026-10-28 | County page (Texas Association of Counties CIRA hosting) has no terms, disclaimer or legal link; the copyright line is an unfilled template. No reuse clause found. Restate facts only. |
+| Henderson | <https://www.henderson-county.com/207/County-Tax-Assessor-Collector> | 2026-10-28 | Copyright Notices page reads 'All content © 2006-2026 Henderson County, TX and its representatives. All rights reserved.' No ban on reproduction or redistribution found. Restate facts only. ([terms](https://www.henderson-county.com/copyright)) |
 
 ## Utah
 
@@ -1351,6 +1364,8 @@ State overview: <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, 
 | Cowlitz | <https://www.co.cowlitz.wa.us/3324/2026-Foreclosure> | 2026-10-28 | Disclaimer page has no reuse language. Copyright Notices page (read in browser 2026-10-28): 'All content © 2006-2026 Cowlitz County, WA and its representatives. All rights reserved.' Copyright-only; no personal or noncommercial limit. ([terms](https://www.co.cowlitz.wa.us/disclaimer)) |
 | Cowlitz | <https://www.co.cowlitz.wa.us/279/Treasurer> | 2026-10-28 | Disclaimer page has no reuse language. Copyright Notices page (read in browser 2026-10-28): 'All content © 2006-2026 Cowlitz County, WA and its representatives. All rights reserved.' Copyright-only; no personal or noncommercial limit. ([terms](https://www.co.cowlitz.wa.us/disclaimer)) |
 | Clallam | <https://clallamcountywa.gov/1077/Tax-Foreclosure-Sales> | 2026-10-28 | Copyright Notices page (read in browser 2026-10-28): 'All content © 2006-2026 Clallam County, WA and its representatives. All rights reserved.' Copyright-only; no personal or noncommercial limit. ([terms](https://clallamcountywa.gov/copyright)) |
+| Kittitas | <https://co.kittitas.wa.us/treasurer/foreclosures.aspx> | 2026-10-28 | Website Disclaimer page does not address reuse, redistribution, commercial use or automated access; footer: 'Copyright © 2026 - Kittitas County - All Rights Reserved.' Copyright-only. ([terms](https://co.kittitas.wa.us/disclaimer.aspx)) |
+| Kittitas | <https://www.co.kittitas.wa.us:443/uploads/documents/treasurer/General Foreclosure Information Handout.pdf> | 2026-10-28 | Website Disclaimer page does not address reuse, redistribution, commercial use or automated access; footer: 'Copyright © 2026 - Kittitas County - All Rights Reserved.' Copyright-only. ([terms](https://co.kittitas.wa.us/disclaimer.aspx)) |
 
 ## West Virginia
 

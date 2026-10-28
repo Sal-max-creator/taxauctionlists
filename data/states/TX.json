@@ -1566,6 +1566,111 @@
           "quote": "You do have to register in order to bid."
         }
       ]
+    },
+    {
+      "county": "Caldwell",
+      "slug": "caldwell",
+      "office": "Caldwell County Sheriff (sale); Caldwell County Appraisal District (tax sale information)",
+      "phone": "512-398-5550 or 512-398-5551 (Caldwell CAD); (512) 686-2462 (Linebarger Goggan Blair & Sampson, LLP); (512) 302-0190 (Perdue Brandon Fielder Collins & Mott, LLP, for Luling ISD properties)",
+      "address": "211 Bufkin Ln, Lockhart, TX 78644 (Caldwell CAD)",
+      "website": "https://caldwellcad.org/sheriffs-tax-sale/",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (sheriffsaleauctions.com)",
+        "url": "https://caldwell.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": "Consistent with statute, all tax sales in Caldwell County are held on the first Tuesday of the month.",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:00 AM (online auction)",
+          "label": "Sheriff's tax sale (online public auction)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "source_url": "https://caldwellcad.org/wp-content/uploads/2026/10/Sheriffs-Tax-Sale.pdf",
+          "quote": "Tuesday, November 3, 2026, beginning at 10:00 a.m. at",
+          "list_url": "https://caldwellcad.org/wp-content/uploads/2026/10/Sheriffs-Tax-Sale.pdf",
+          "list_note": "Current Sheriff's Tax Sale list with maps, posted by Caldwell CAD."
+        }
+      ],
+      "next_sale_note": "Only the November 3, 2026 list was posted when we read the page; no later sale date is posted.",
+      "how_to_bid": "The November 3, 2026 list says the tracts are sold at a Sheriff's Sale through an online public auction, with bids starting at the opening bid shown for each tract. Successful bidders are expected to pay their bid by money order; the CAD page says personal checks may delay the deed filing. The CAD page also says the Commissioners designated the sale location outside the main entrance of the Caldwell County Judicial Center, 1703 S. Colorado Street, Lockhart. Questions go to Linebarger Goggan Blair & Sampson, LLP (or Perdue Brandon Fielder Collins & Mott, LLP for Luling ISD properties). Registration and deposit are not stated.",
+      "sources": [
+        {
+          "url": "https://caldwellcad.org/sheriffs-tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or legal link found; footer has only '© 2024 Copyright Caldwell County Appraisal District - Official Site'. No reuse or redistribution clause found. Restate facts only.",
+          "terms_url": null
+        },
+        {
+          "url": "https://caldwellcad.org/wp-content/uploads/2026/10/Sheriffs-Tax-Sale.pdf",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or legal link found; footer has only '© 2024 Copyright Caldwell County Appraisal District - Official Site'. No reuse or redistribution clause found. Restate facts only.",
+          "terms_url": null
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/page/caldwell.SheriffsTaxSale",
+          "read_on": "2026-10-28",
+          "terms": "County page (Texas Association of Counties CIRA hosting) has no terms, disclaimer or legal link; the copyright line is an unfilled template. No reuse clause found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://caldwellcad.org/sheriffs-tax-sale/",
+          "quote": "Consistent with statute, all tax sales in Caldwell County are held on the first Tuesday of the month."
+        },
+        {
+          "url": "https://caldwellcad.org/sheriffs-tax-sale/",
+          "quote": "Times of the sale should be verified but Caldwell County tax sales are usually held at 10:00 AM."
+        },
+        {
+          "url": "https://caldwellcad.org/sheriffs-tax-sale/",
+          "quote": "Successful bidders at the sale are expected to tender their bid amount in the form of a money order"
+        },
+        {
+          "url": "https://caldwellcad.org/wp-content/uploads/2026/10/Sheriffs-Tax-Sale.pdf",
+          "quote": "All of the property listed below will be sold at a Sheriff’s Sale through an online public auction on"
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/page/caldwell.SheriffsTaxSale",
+          "quote": "Caldwell County Online Sheriff's Tax Sale Auction Site"
+        }
+      ]
+    },
+    {
+      "county": "Henderson",
+      "slug": "henderson",
+      "office": "Henderson County Tax Office (Tax Assessor-Collector)",
+      "phone": "(903) 675-6135 (Tax Office); 903-675-6182 (McCreary, Veselka, Bragg and Allen); 903-597-2897 (Linebarger, Goggan, Blair and Sampson)",
+      "address": "125 N. Prairieville Street, Room 103, Athens, TX 75751",
+      "website": "https://www.henderson-county.com/207/County-Tax-Assessor-Collector",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale dates are posted on the county Tax Office page; the county refers buyers to its delinquent tax attorneys for sale information.",
+      "how_to_bid": "For delinquent tax sale information, contact the county's delinquent tax attorneys: McCreary, Veselka, Bragg and Allen (903-675-6182) or Linebarger, Goggan, Blair and Sampson (903-597-2897). A buyer must present to the officer conducting the sale a written statement from the Tax Assessor-Collector; the page says it costs $10, is valid for 90 days and requires photo ID. Time, location and payment terms are not stated.",
+      "sources": [
+        {
+          "url": "https://www.henderson-county.com/207/County-Tax-Assessor-Collector",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page reads 'All content © 2006-2026 Henderson County, TX and its representatives. All rights reserved.' No ban on reproduction or redistribution found. Restate facts only.",
+          "terms_url": "https://www.henderson-county.com/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.henderson-county.com/207/County-Tax-Assessor-Collector",
+          "quote": "For information on Delinquent Tax Sales, you'll need to contact the delinquent Tax Attorneys below:"
+        },
+        {
+          "url": "https://www.henderson-county.com/207/County-Tax-Assessor-Collector",
+          "quote": "A person purchasing property at the sale will be required to present to the officer who conducts the sale"
+        }
+      ]
     }
   ]
 }

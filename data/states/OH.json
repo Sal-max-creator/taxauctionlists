@@ -1536,6 +1536,61 @@
           "quote": "All properties sold for delinquent land tax must have the complete tax amount paid at the time of sale"
         }
       ]
+    },
+    {
+      "county": "Tuscarawas",
+      "slug": "tuscarawas",
+      "office": "Tuscarawas County Sheriff's Office (Sheriff Sales)",
+      "phone": "330-339-2000",
+      "address": "2295 Reiser Ave SE, New Philadelphia, OH 44663",
+      "website": "https://www.co.tuscarawas.oh.us/government/sheriff/current_sheriff_sales/index.php",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": null,
+      "schedule_rule": "Tax foreclosures: sold in lobby of Tuscarawas County Sheriff's Office on Thursdays at 10:00 AM",
+      "sales": [
+        {
+          "date": "2026-12-03",
+          "time": "10:00 AM",
+          "label": "Sheriff tax foreclosure sale (1 parcel listed, docket 2026 CF 04 0469)",
+          "deposit": "$895.00 (Deposit Required column on the Sheriff's sale list)",
+          "list_url": "https://cms3.revize.com/revize/tuscarawas/_assets_/files/sheriffsale.pdf",
+          "list_note": "Sheriff's downloadable sale list (PDF), linked from the Current Sheriff Sales page.",
+          "note": "Time is from the Sheriff's page rule that tax foreclosures are sold in the lobby of the Sheriff's Office on Thursdays at 10:00 AM.",
+          "source_url": "https://cms3.revize.com/revize/tuscarawas/_assets_/files/sheriffsale.pdf",
+          "quote": "12/03/26"
+        }
+      ],
+      "next_sale_note": "The Sheriff's sale list (PDF) showed one tax foreclosure dated 12/03/26 when read on 2026-10-28.",
+      "how_to_bid": "Mortgage foreclosures are sold online on Thursdays at 9:00 AM; tax foreclosures are sold in the lobby of the Tuscarawas County Sheriff's Office on Thursdays at 10:00 AM. The sale list gives the deposit required for each parcel. Other terms of sale: not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.co.tuscarawas.oh.us/government/sheriff/current_sheriff_sales/index.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: footer shows '© 2026 Tuscarawas County, OH' and 'Powered by Revize.'; no disclaimer, terms or privacy link. Copyright-only; no reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://cms3.revize.com/revize/tuscarawas/_assets_/files/sheriffsale.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Sale list PDF linked from the county site above (served from the county's Revize file host); same terms note.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.tuscarawas.oh.us/government/sheriff/current_sheriff_sales/index.php",
+          "quote": "sold in lobby of Tuscarawas County Sheriff's Office on Thursdays at 10:00 AM"
+        },
+        {
+          "url": "https://www.co.tuscarawas.oh.us/government/sheriff/current_sheriff_sales/index.php",
+          "quote": "sold online on Thursdays at 9:00 AM"
+        },
+        {
+          "url": "https://cms3.revize.com/revize/tuscarawas/_assets_/files/sheriffsale.pdf",
+          "quote": "12/03/26"
+        }
+      ]
     }
   ]
 }

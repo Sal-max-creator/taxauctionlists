@@ -958,6 +958,123 @@
           "quote": "All Repository properties will be sold for no less than $1,200.00."
         }
       ]
+    },
+    {
+      "county": "Blair",
+      "slug": "blair",
+      "office": "Blair County Tax Claim Bureau",
+      "phone": "(814) 317-2361",
+      "address": "423 Allegheny St., Ste. 143, Hollidaysburg, PA 16648",
+      "website": "https://www.blaircountypa.gov/departments/tax-claim",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "not stated",
+      "sales": [],
+      "next_sale_note": "No sale dated after today is posted. The 2026 Judicial Sale was June 17, 2026 and the 2026 Upset Tax Sale was September 16, 2026; the 2027 dates are not yet posted. Repository sale information is on a separate county page (not read).",
+      "how_to_bid": "All bidders must pre-register before any tax sale (the 2026 pre-registration deadlines were about 12 days before each sale). Bidders must be through security and checked in by 8:50 AM, and no late bidders are admitted after the sale starts. Sale location and deposit are not stated on the Tax Claim page; sale conditions and bidder registration forms are posted there. Office hours Mon-Fri, 8am-4pm, except legal holidays.",
+      "sources": [
+        {
+          "url": "https://www.blaircountypa.gov/departments/tax-claim",
+          "read_on": "2026-10-28",
+          "terms": "Terms of Use read: 'All rights reserved.' and 'Any rights not expressly granted herein are reserved.' It bars obtaining materials by means not intentionally made available and using the site in a way that could overburden it; no ban on reuse or redistribution and no personal/noncommercial-only clause found.",
+          "terms_url": "https://www.blaircountypa.gov/departments/terms-of-use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.blaircountypa.gov/departments/tax-claim",
+          "quote": "September 16, 2026 - Upset Tax Sale (Pre-Registration ends September 4, 2026)"
+        },
+        {
+          "url": "https://www.blaircountypa.gov/departments/tax-claim",
+          "quote": "Please note you MUST be through security & checked in by 8:50 AM."
+        }
+      ]
+    },
+    {
+      "county": "Fayette",
+      "slug": "fayette",
+      "office": "Fayette County Tax Claim Bureau",
+      "phone": "724-430-1208",
+      "address": "2 West Main Street, Suite 112, Uniontown, PA 15401",
+      "website": "https://www.fayettecountypa.org/269/Tax-Claim-Bureau",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/"
+      },
+      "schedule_rule": "Repository Sale: We open the envelopes on the first Tuesday of the month at 10:00 a.m.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted. Repository sealed bids are opened on the first Tuesday of each month at 10:00 a.m. The page says the next Judicial Sale 'will be held in June' online at Bid4Assets and the Upset Sale 'will be held in September'; no year or exact date is given. The county repository list was last updated Oct 7, 2026.",
+      "how_to_bid": "Repository: submit a sealed bid (Repository Bid Form and Repository Affidavit on the county page); bids are kept in a lockbox and the envelopes are opened the first Tuesday of the month at 10:00 a.m. The taxing authorities decide to accept or reject a bid. Judicial Sale is held online at Bid4Assets. Registration for all three sales requires a photo I.D.; bids may not be assigned. Deposit and minimum bid are not stated. The county advises consulting an attorney before buying.",
+      "sources": [
+        {
+          "url": "https://www.fayettecountypa.org/269/Tax-Claim-Bureau",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Fayette County, PA and its representatives. All rights reserved.' No reuse, redistribution or automated-access clause found. Footer also has a Privacy Policy (not a terms page).",
+          "terms_url": "https://www.fayettecountypa.org/site/copyright"
+        },
+        {
+          "url": "https://www.fayettecountypa.org/930/Repository-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see copyright notice above.",
+          "terms_url": "https://www.fayettecountypa.org/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.fayettecountypa.org/269/Tax-Claim-Bureau",
+          "quote": "We open the envelopes on the first Tuesday of the month at 10:00 a.m."
+        },
+        {
+          "url": "https://www.fayettecountypa.org/269/Tax-Claim-Bureau",
+          "quote": "Our next Judicial Sale will be held in June on our auction website bid4Assets.com."
+        },
+        {
+          "url": "https://www.fayettecountypa.org/269/Tax-Claim-Bureau",
+          "quote": "Registration for all three sales require a photo I.D."
+        }
+      ]
+    },
+    {
+      "county": "Wayne",
+      "slug": "wayne",
+      "office": "Wayne County Tax Claim",
+      "phone": "570-253-5970 (county central phone)",
+      "address": "Wayne County Courthouse, 925 Court Street, Honesdale, PA 18431",
+      "website": "https://www.waynecountypa.gov/175/Judicial-Tax-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Bureau conducts Judicial Sales in July and/or August.",
+      "sales": [],
+      "next_sale_note": "The 2026 Judicial Sale was Friday, July 24, 2026; the 2027 date is not yet posted.",
+      "how_to_bid": "Pre-register with the Tax Claim office (the 2026 window was June 1 to July 2). Arrive one hour before the Judicial Sale to get a bidder number. Bids start at the costs accrued on each property, and full payment is due on all purchases the day of sale: cash (larger bills), money orders, cashier's checks, or personal check with a letter of credit, payable to Wayne County Tax Claim. Deposit not stated. Office hours Mon-Fri, 8:30 AM to 4:30 PM.",
+      "sources": [
+        {
+          "url": "https://www.waynecountypa.gov/175/Judicial-Tax-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Wayne County, PA and its representatives. All rights reserved.' No reuse, redistribution or automated-access clause found; footer has no terms, disclaimer or privacy link.",
+          "terms_url": "https://www.waynecountypa.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.waynecountypa.gov/175/Judicial-Tax-Sales",
+          "quote": "The Bureau conducts Judicial Sales in July and/or August."
+        },
+        {
+          "url": "https://www.waynecountypa.gov/175/Judicial-Tax-Sales",
+          "quote": "Full payment is required upon all purchases the day of sale."
+        },
+        {
+          "url": "https://www.waynecountypa.gov/175/Judicial-Tax-Sales",
+          "quote": "Bid price starts at the amount of costs accrued on each delinquent property."
+        }
+      ]
     }
   ]
 }

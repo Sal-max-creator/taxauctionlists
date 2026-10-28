@@ -768,6 +768,47 @@
           "quote": "There is no set schedule"
         }
       ]
+    },
+    {
+      "county": "Rowan",
+      "slug": "rowan",
+      "office": "Rowan County Tax Collector's Office, Collections Department",
+      "phone": "704-216-8544 (Collections Department)",
+      "address": "Tax Collector's Office, 402 N Main Street, Suite 101, Salisbury, NC 28144. Sales at the Rowan County Courthouse, 210 North Main Street, Salisbury, NC 28144.",
+      "website": "https://www.rowancountync.gov/212/Foreclosures",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted. The county says sale dates and times are posted on its webpage when foreclosure properties are ready; its foreclosure listings page showed no available properties on 2026-10-28.",
+      "how_to_bid": "You must attend the sale in person at the Rowan County Courthouse, 210 North Main Street, Salisbury, to bid. The county opens bidding at the amount of the delinquent taxes, interest and legal costs. The highest bidder pays the attorney a deposit of 20% of the bid at the time of sale, in cash, certified funds or money order. Upset bids are filed in person with the Clerk of Superior Court at the courthouse and must be 5% over the last high bid, with a minimum increase of $750. Registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://www.rowancountync.gov/212/Foreclosures",
+          "read_on": "2026-10-28",
+          "terms": "Public Rules & Disclaimer page covers public records law and comment moderation on county pages; it says nothing about reuse, redistribution, commercial use or automated access of site content. Footer also has a Copyright Notices link (not read separately).",
+          "terms_url": "https://www.rowancountync.gov/1459/Public-Rules-Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.rowancountync.gov/212/Foreclosures",
+          "quote": "When foreclosure properties are ready, the sale dates and times are posted on our webpage."
+        },
+        {
+          "url": "https://www.rowancountync.gov/212/Foreclosures",
+          "quote": "At the time of sale, if you are the highest bidder the attorney will require a deposit of 20% of the amount of the bid."
+        },
+        {
+          "url": "https://www.rowancountync.gov/212/Foreclosures",
+          "quote": "Upset bids require a 5% increase over the last highest bid, with a minimum increase of $750."
+        },
+        {
+          "url": "https://www.rowancountync.gov/212/Foreclosures",
+          "quote": "The County opens bidding at the amount equal to delinquent taxes, interest, plus legal costs."
+        }
+      ]
     }
   ]
 }

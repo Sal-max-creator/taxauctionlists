@@ -366,25 +366,19 @@
       "office": "Collin County Constables (Precincts 1-4) and Collin County Sheriff's Office",
       "phone": "(972) 548-4419 (Constable Pct. 1); (972) 881-3070 (Constable Pct. 3); (972) 547-5100 (Sheriff's Office)",
       "address": "Constable Pct. 1: Collin County Administration Building, 2300 Bloomdale Rd., Suite 1136, McKinney, TX 75071",
-      "website": "https://www.collincountytx.gov/courts/constables/constable-sales",
+      "website": "https://www.collincountytx.gov/tax-assessor/properties-for-sale",
       "sale_type": "redeemable deed",
       "format": "in person",
       "platform": null,
       "schedule_rule": "The Constable Sale is held the first Tuesday of each month between 10:00 AM and 4:00 PM at the Russell A. Steindam Courts Building, 2100 Bloomdale Rd., McKinney, Texas, 75071.",
       "sales": [],
-      "next_sale_note": "No November 3 or December 1, 2026 sale is posted yet: the county's Constable Sales page showed no current sales on Oct 27 (latest listed sale 1/6/2026). The County Clerk's Public Notices app, where the Sheriff says current sales are listed, could not be read.",
+      "next_sale_note": "No November 3 or December 1, 2026 sale date is posted yet on the county pages listed here; Texas sales are held the first Tuesday of the month.",
       "how_to_bid": "Sales are public auctions on oral bids at the courthouse, 2100 Bloomdale Rd., McKinney. Before getting a deed, a buyer must present an unexpired Written Statement from the Collin County Tax Assessor-Collector showing no delinquent taxes ($10, notarized, valid 90 days). Constables accept cashier's checks, money orders or cash; the Sheriff also accepts cash, cashier's check or money order. Property is sold as is.",
       "sources": [
         {
           "url": "https://www.collincountytx.gov/courts/constables/constable-precinct-1/sale-information",
           "read_on": "2026-10-27",
           "terms": "No reuse terms found. Privacy page disclaims accuracy/warranty ('make no representations as to the accuracy, completeness or suitability of the information'); footer 'Copyright © 2026 Collin County Texas · All Rights Reserved.'",
-          "terms_url": "https://www.collincountytx.gov/privacy"
-        },
-        {
-          "url": "https://www.collincountytx.gov/courts/constables/constable-sales",
-          "read_on": "2026-10-27",
-          "terms": "same as above",
           "terms_url": "https://www.collincountytx.gov/privacy"
         },
         {
@@ -401,10 +395,6 @@
         }
       ],
       "evidence": [
-        {
-          "url": "https://www.collincountytx.gov/courts/constables/constable-sales",
-          "quote": "The Constable Sale is held the first Tuesday of each month"
-        },
         {
           "url": "https://www.collincountytx.gov/courts/constables/constable-precinct-1/sale-information",
           "quote": "The Constable's Office will accept payment by cashier's check, money order or cash."

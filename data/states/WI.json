@@ -455,6 +455,90 @@
           "quote": "a minimum amount of ten percent (10%) of the bid amount as earnest money"
         }
       ]
+    },
+    {
+      "county": "Columbia",
+      "slug": "columbia",
+      "office": "Columbia County Treasurer's Department",
+      "phone": "(608) 742-9613",
+      "address": "112 East Edgewater Street, 1st Floor, Portage, WI 53901 (mail: P.O. Box 198, Portage, WI 53901)",
+      "website": "https://www.co.columbia.wi.us/columbiacounty/treasurer/Treasurer-Home-/Land-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted. The bid deadline for each sale is set in the county's Notice of Sale, which is published in the Portage Daily Register and on the County Treasurer's website. The office keeps an email list for sale notices.",
+      "how_to_bid": "Tax-delinquent foreclosure properties are sold by blind sealed bid to the highest bidder; the county may accept or reject any bid. Submit each bid on the County Bid form in a sealed envelope marked \"Land Sale Bid\" with the parcel number, delivered to the Columbia County Treasurer's Office on or before the date in the Notice of Sale. Bids must be at least the appraised minimum bid shown in the Land Sale Notice, with 10% of the bid as earnest money by certified check, cashier's check, money order or cash. Rejected bidders get their earnest money back within 15 days of the bid opening. The winning bidder pays the balance within 30 days of the county's Notice of Acceptance and receives a quitclaim deed; if the balance isn't paid, the earnest money is forfeited. Bids are not accepted from anyone who owes delinquent property taxes to Columbia County.",
+      "sources": [
+        {
+          "url": "https://www.co.columbia.wi.us/columbiacounty/treasurer/Treasurer-Home-/Land-Sales",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the page footer has only an Accessibility link and the line 'Copyright (c) 2026 Columbia County Treasurer'; no terms, disclaimer, privacy or legal link. Nothing seen restricts reuse, commercial use or automated access."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.columbia.wi.us/columbiacounty/treasurer/Treasurer-Home-/Land-Sales",
+          "quote": "The foreclosure properties are sold by blind-sealed bid to the highest bidder."
+        },
+        {
+          "url": "https://www.co.columbia.wi.us/columbiacounty/treasurer/Treasurer-Home-/Land-Sales",
+          "quote": "Land sales are published in the Portage Daily Register and on the County Treasurer's website."
+        },
+        {
+          "url": "https://www.co.columbia.wi.us/columbiacounty/treasurer/Treasurer-Home-/Land-Sales",
+          "quote": "The bid must be delivered to the Columbia County Treasurer's Office on or before the date designated in the Notice of Sale."
+        },
+        {
+          "url": "https://www.co.columbia.wi.us/columbiacounty/treasurer/Treasurer-Home-/Land-Sales",
+          "quote": "Bids must be at least the amount of the appraisal for Minimum Bid of the parcel."
+        }
+      ]
+    },
+    {
+      "county": "Oconto",
+      "slug": "oconto",
+      "office": "Oconto County Treasurer",
+      "phone": "920-834-6813",
+      "address": "301 Washington Street, Oconto, WI 54153 (county government address)",
+      "website": "https://www.ocontocountywi.gov/417/Land-Sales---Wisconsin-Surplus-Online-Au",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Wisconsin Surplus",
+        "url": "https://www.wisconsinsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county page says there are no land sales at this time. Land sale notices are listed on the county's land sales page and published in the Oconto County Reporter for 3 consecutive weeks.",
+      "how_to_bid": "The Oconto County Treasurer sells land taken by tax foreclosure through Wisconsin Surplus Online Auction Services. The page says there is a bid-closing deadline every month; after an auction closes, the bids go to the county's Administration Committee at its monthly meeting. The winning bidder pays Wisconsin Surplus directly by the deadline on its invoice; if payment isn't received in time, the parcel goes back up for auction. Deposit, minimum bid and buyer fees are not stated on the county page; Wisconsin Surplus (800-383-7653) handles bidding and payment questions, and the Treasurer (920-834-6813) handles questions about the land sale process.",
+      "sources": [
+        {
+          "url": "https://www.ocontocountywi.gov/417/Land-Sales---Wisconsin-Surplus-Online-Au",
+          "read_on": "2026-10-28",
+          "terms": "Footer 'Copyright Notices' page read: it carries only 'Copyright © 2023 Oconto County Government - Oconto Wisconsin', with no clause on reuse, redistribution, commercial use or automated access. No other terms or disclaimer link in the footer.",
+          "terms_url": "https://www.ocontocountywi.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ocontocountywi.gov/417/Land-Sales---Wisconsin-Surplus-Online-Au",
+          "quote": "There are no land sales at this time. Check back at a later date."
+        },
+        {
+          "url": "https://www.ocontocountywi.gov/417/Land-Sales---Wisconsin-Surplus-Online-Au",
+          "quote": "The Oconto County Treasurer utilizes Wisconsin Surplus Online Auction Services for land sales taken by tax foreclosure."
+        },
+        {
+          "url": "https://www.ocontocountywi.gov/417/Land-Sales---Wisconsin-Surplus-Online-Au",
+          "quote": "There is a deadline every month regarding bid closing."
+        },
+        {
+          "url": "https://www.ocontocountywi.gov/417/Land-Sales---Wisconsin-Surplus-Online-Au",
+          "quote": "Land sale notices will be listed on this page and published in the Oconto County Reporter for 3 consecutive weeks."
+        }
+      ]
     }
   ]
 }

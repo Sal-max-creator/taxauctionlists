@@ -689,6 +689,80 @@
           "quote": "Auction will be held on Monday, June 14, 2027 beginning at 9:00 AM."
         }
       ]
+    },
+    {
+      "county": "Caddo",
+      "slug": "caddo",
+      "office": "Caddo County Treasurer",
+      "phone": "405-247-5151",
+      "address": "110 SW 2nd St #104, Anadarko, OK 73005",
+      "website": "https://oktaxrolls.com/county/Caddo",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax resale is held each year on the second Monday of June in the County Treasurer's office between 9 a.m. and 4 p.m.",
+      "sales": [],
+      "next_sale_note": "2027 June resale date not yet posted. The page says the resale is held in the County Treasurer's office between 9 a.m. and 4 p.m.",
+      "how_to_bid": "Property at the tax resale is auctioned to the highest bidder, with bidding starting at all delinquent taxes, penalties, fees and costs; anyone who owes back taxes cannot bid. Unsold property is deeded to the county. County-owned property may later be sold on a bid subject to approval by the Board of County Commissioners: the bidder places a deposit with the Treasurer to cover advertising, the property is auctioned to the highest bidder for cash or certified funds, and the winner pays any further advertising costs and County Clerk recording fees. Tax deed fee (resale or certificate): $10.00. Registration terms not stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Caddo",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc' on the Treasurer's oktaxrolls.com page, plus a notice that errors do not waive tax amounts. No terms of use page and no reuse restriction stated. Copyright-only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Caddo",
+          "quote": "The tax resale is held each year on the second Monday of June in the County Treasurer's office between 9 a.m. and 4 p.m."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Caddo",
+          "quote": "If back taxes are owed you will not be able to bid on properties in the June Resale."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Caddo",
+          "quote": "At the sale, the property is auctioned to the highest bidder for cash or certified funds."
+        }
+      ]
+    },
+    {
+      "county": "Beckham",
+      "slug": "beckham",
+      "office": "Beckham County Treasurer",
+      "phone": "580-928-2589",
+      "address": "P.O. Box 600, Sayre, OK 73662 (mailing; street address not stated)",
+      "website": "https://oktaxrolls.com/county/beckham",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax resale is held each year on the second Monday of June in the County Treasurer's office between 9 a.m. and 4 p.m.",
+      "sales": [],
+      "next_sale_note": "2027 June resale date not yet posted. The page says the resale is held in the County Treasurer's office between 9 a.m. and 4 p.m.",
+      "how_to_bid": "A tax resale is the outright purchase of property on which taxes are delinquent: property is auctioned to the highest bidder, with bidding starting at all delinquent taxes, penalties, fees and costs. Unsold property is deeded to the county and may later be sold on a bid subject to approval by the Board of County Commissioners: the bidder places a deposit with the Treasurer to cover advertising, the property is auctioned to the highest bidder for cash or certified funds, and the winner pays any further advertising costs and County Clerk recording fees (any unused deposit is refunded). Tax deed fee (resale or certificate): $10.00. Registration terms not stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/beckham",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com page, plus a notice that errors do not waive amounts. No terms of use page and no reuse restriction stated. Copyright-only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/beckham",
+          "quote": "The tax resale is held each year on the second Monday of June in the County Treasurer's office between 9 a.m. and 4 p.m."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/beckham",
+          "quote": "Bid begins with the amount of all delinquent taxes, penalties, fees and costs."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/beckham",
+          "quote": "At the sale, the property is auctioned to the highest bidder for cash or certified funds."
+        }
+      ]
     }
   ]
 }

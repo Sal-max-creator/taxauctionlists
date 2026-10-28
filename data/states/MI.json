@@ -428,6 +428,124 @@
           "quote": "The auction will be conducted on the Internet by Auction.com, LLC."
         }
       ]
+    },
+    {
+      "county": "Midland",
+      "slug": "midland",
+      "office": "Midland County Treasurer",
+      "phone": "(989) 832-6850",
+      "address": "220 W Ellsworth Street, Midland, MI 48640-5194",
+      "website": "https://midlandcountymi.gov/treasurer-foreclosure",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county page says the 2026 tax foreclosure auctions have concluded and that 2027 auction information will be available June/July 2027.",
+      "how_to_bid": "In-person open auction; sealed bids are not allowed and an accepted oral bid is a binding contract to buy. Bid numbers are issued from 4:15 p.m. on sale day after the office checks the bidder for delinquent taxes. The minimum bid covers delinquent taxes, interest, fees and costs. Payment is expected the night of the auction by cash, check, certified check, bank approval letter or credit card (2.75% card fee). Winning bidders show a driver's license or state ID and sign the purchaser affidavit. No deposit is stated.",
+      "sources": [
+        {
+          "url": "https://midlandcountymi.gov/treasurer-foreclosure",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer has Contact Us, Our Municipalities and social media links and a '©2026, The County of Midland, MI' copyright line, with no terms, disclaimer, legal or privacy link. Copyright-only; restate facts only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://midlandcountymi.gov/treasurer-foreclosure",
+          "quote": "2026 TAX FORECLOSURE AUCTIONS HAVE CONCLUDED."
+        },
+        {
+          "url": "https://midlandcountymi.gov/treasurer-foreclosure",
+          "quote": "INFORMATION ON TAX FORECLOSURE AUCTIONS FOR 2027 WILL BE AVAILABLE JUNE/JULY 2027."
+        },
+        {
+          "url": "https://midlandcountymi.gov/treasurer-foreclosure",
+          "quote": "Bids must be made in person, sealed bids are not allowed."
+        },
+        {
+          "url": "https://midlandcountymi.gov/treasurer-foreclosure",
+          "quote": "Payment is expected the night of the auction."
+        }
+      ]
+    },
+    {
+      "county": "Isabella",
+      "slug": "isabella",
+      "office": "Isabella County Treasurer",
+      "phone": "(989) 317-4091",
+      "address": "200 N. Main Street, Mount Pleasant, MI 48858",
+      "website": "https://www.isabellacounty.org/departments/treasurer/services/foreclosed-properties/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 tax auction was held August 13, 2026 (past; all properties sold). The county page says the next tax sale will be August 2027; no exact date posted yet.",
+      "how_to_bid": "Not stated on the county page (no platform, registration, deposit or payment details). Contact the Treasurer's office, Monday to Friday 8:00 a.m. to 4:30 p.m.",
+      "sources": [
+        {
+          "url": "https://www.isabellacounty.org/departments/treasurer/services/foreclosed-properties/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only a Privacy Policy and an Accessibility Policy, plus '© 2026 Isabella County Michigan. All Rights Reserved.' The privacy policy has no reuse, redistribution or commercial-use clause. Copyright-only; restate facts only.",
+          "terms_url": "https://www.isabellacounty.org/website-privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.isabellacounty.org/departments/treasurer/services/foreclosed-properties/",
+          "quote": "The next tax sale will be August 2027"
+        },
+        {
+          "url": "https://www.isabellacounty.org/departments/treasurer/services/foreclosed-properties/",
+          "quote": "August 13, 2026"
+        }
+      ]
+    },
+    {
+      "county": "Lapeer",
+      "slug": "lapeer",
+      "office": "Lapeer County Treasurer",
+      "phone": "810-667-0239",
+      "address": "255 Clay St. Ste. 303 (city and ZIP not stated on the page)",
+      "website": "https://www.lapeercountymi.gov/departments/treasurer/index.php",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Tax-Sale.info",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction dates are posted on the county's auction information sheet; it points to the Tax-Sale.info auction site for scheduled dates.",
+      "how_to_bid": "Minimum bid auctions are held online through Tax-Sale.info. Create a free account and provide a $1,000 pre-authorization hold on a major credit card, which serves as a deposit and is collected only if a winner fails to pay. Bids can be placed starting 30 days before the auction date and changed until the start time; once open, bids can be raised but not deleted. Auctions open at 10:00 a.m. and close at 7:00 p.m. on the scheduled date, and winners are emailed payment and paperwork details.",
+      "sources": [
+        {
+          "url": "https://www.lapeercountymi.gov/departments/treasurer/index.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer has Phone Directory, Public Meetings, FOIA, Employment and Board links and a '© 2026 Lapeer County, MI.' line, with no terms, disclaimer or privacy link. The Treasurer's Property Information Policy (June 2, 2025) covers fees for property reports requested by for-profit companies and says the information is public under FOIA; it has no reuse or redistribution ban. Restate facts only.",
+          "terms_url": "https://cms5.revize.com/revize/lapeer/property%20info%20policy.pdf"
+        },
+        {
+          "url": "https://cms5.revize.com/revize/lapeer/Auction%20Info%20Page.pdf",
+          "read_on": "2026-10-28",
+          "terms": "County Treasurer's auction information sheet (linked from the Treasurer page, hosted by the county's website vendor). Same terms as above."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cms5.revize.com/revize/lapeer/Auction%20Info%20Page.pdf",
+          "quote": "All Minimum Bid auctions will be conducted online."
+        },
+        {
+          "url": "https://cms5.revize.com/revize/lapeer/Auction%20Info%20Page.pdf",
+          "quote": "Auctions will open at 10:00 a.m. on the scheduled date."
+        },
+        {
+          "url": "https://cms5.revize.com/revize/lapeer/Auction%20Info%20Page.pdf",
+          "quote": "You will need to create an account and provide a $1000 pre-authorization on a major credit card in order to bid."
+        }
+      ]
     }
   ]
 }

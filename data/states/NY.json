@@ -475,6 +475,111 @@
           "quote": "The parcel will then be scheduled for a subsequent auction later this year."
         }
       ]
+    },
+    {
+      "county": "Cattaraugus",
+      "slug": "cattaraugus",
+      "office": "Cattaraugus County Treasurer",
+      "phone": "not stated on the auction pages (County Center, Little Valley: 716-938-2599)",
+      "address": "not stated on the auction pages (county footer lists County Center, 303 Court Street, Little Valley, NY 14755)",
+      "website": "https://www.cattco.gov/treasurers-office/events-and-auctions",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "CattCoAuction.com (online auction site named on the county's 2026 event page)",
+        "url": "https://www.cattcoauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction posted: the Treasurer's Events & Auctions page says 'There are no events at this time.' In 2026 the annual online property tax auction ran May 20 to June 3, 2026, and a small in-person parcel auction was held in South Dayton on October 8, 2026 (both past).",
+      "how_to_bid": "The annual auction is online: the county's 2026 event page says to view the lots and get a bid number at www.CattCoAuction.com. The county also holds occasional in-person parcel auctions; for the October 2026 South Dayton sale the high bidder had to present a 10% bid deposit at the auction in cash or certified check, and no sale could be completed until the County Legislature approved the high bid (it accepts or rejects within 30 days). Deposit and buyer's premium for the online auction are not stated on the county pages.",
+      "sources": [
+        {
+          "url": "https://www.cattco.gov/treasurers-office/events-and-auctions",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2023 Copyright Cattaraugus County. All rights reserved.' Terms of Use page has accuracy disclaimers ('Please note that the materials may include technical inaccuracies or typographical errors.') and no clause on reuse or redistribution of text. Copyright page: 'Reproduction in whole or in part of any photographs, maps, and illustrations without prior written permission from the copyright holders is strictly prohibited.' (images, maps and illustrations only; none are reproduced here).",
+          "terms_url": "https://www.cattco.gov/legal/terms-use"
+        },
+        {
+          "url": "https://www.cattco.gov/treasurers-office/events-and-auctions/archive",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.cattco.gov/legal/copyright"
+        },
+        {
+          "url": "https://www.cattco.gov/events/2026-spring-online-property-tax-auction-15961",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.cattco.gov/legal/terms-use"
+        },
+        {
+          "url": "https://www.cattco.gov/events/fall-person-parcel-auction-south-dayton-16094",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.cattco.gov/legal/terms-use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cattco.gov/treasurers-office/events-and-auctions",
+          "quote": "There are no events at this time."
+        },
+        {
+          "url": "https://www.cattco.gov/events/2026-spring-online-property-tax-auction-15961",
+          "quote": "The annual online property tax auction starts on May 20 at Noon and ends on Wednesday, June 3, 2026 at 10:00 AM."
+        },
+        {
+          "url": "https://www.cattco.gov/events/2026-spring-online-property-tax-auction-15961",
+          "quote": "View the auction lots, get a bid number and more information at www.CattCoAuction.com"
+        },
+        {
+          "url": "https://www.cattco.gov/events/fall-person-parcel-auction-south-dayton-16094",
+          "quote": "No sale may be completed until the legislature has approved the high bid."
+        }
+      ]
+    },
+    {
+      "county": "Steuben",
+      "slug": "steuben",
+      "office": "Steuben County Finance Office",
+      "phone": "607-664-2488",
+      "address": "not stated for the Finance Office (county footer: 3 East Pulteney Square, Bath, NY 14810)",
+      "website": "https://steubencountyny.gov/m/faq?cat=20",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": "The tax auction has converted to online only and is usually held in the summer.",
+      "sales": [],
+      "next_sale_note": "No 2027 auction date posted on the county pages read. The last auction the county records cite was the Delinquent Tax Auction held September 3-10, 2025.",
+      "how_to_bid": "Online only; the county FAQ says the auction lasts for 7 days, there is a $50 minimum bid, the Notice to Bidders & Terms of Sale and the property list are on the county's Tax Auction page (list books may also be bought at the Finance Office), and bidders without a computer are encouraged to contact the auctioneer as soon as practical. Deposit and registration are not stated on the pages read.",
+      "sources": [
+        {
+          "url": "https://steubencountyny.gov/m/faq?cat=20",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Steuben County, NY and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' The Privacy Policy page has accuracy disclaimers ('Steuben County makes no warranty, guarantee or promise, express or implied, as to the information presented') and says 'Use of images is by express permission of Steuben County only.' No clause forbids reuse of text or dates.",
+          "terms_url": "https://steubencountyny.gov/copyright"
+        },
+        {
+          "url": "https://steubencountyny.gov/Archive.aspx?ADID=2691",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://steubencountyny.gov/464/Privacy-Policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://steubencountyny.gov/m/faq?cat=20",
+          "quote": "The tax auction has converted to online only and is usually held in the summer."
+        },
+        {
+          "url": "https://steubencountyny.gov/m/faq?cat=20",
+          "quote": "Yes, there is a $50 minimum bid."
+        },
+        {
+          "url": "https://steubencountyny.gov/Archive.aspx?ADID=2691",
+          "quote": "those parcels sold at the Delinquent Tax Auction held on September 3-10, 2025"
+        }
+      ]
     }
   ]
 }

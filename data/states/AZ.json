@@ -519,6 +519,43 @@
           "quote": "928-539-7781"
         }
       ]
+    },
+    {
+      "county": "Greenlee",
+      "slug": "greenlee",
+      "office": "Greenlee County Treasurer",
+      "phone": "(928) 865-2072",
+      "address": "253 5th St, Clifton, AZ 85533",
+      "website": "https://greenlee.az.gov/tax-lien-sale-faq/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The sale is held every February. The actual date for the sale will be available January 1st.",
+      "sales": [],
+      "next_sale_note": "February 2027 date not yet posted; the county says the actual date will be available January 1st.",
+      "how_to_bid": "The sale is held at the Treasurer's Office, 253 Fifth St., Clifton, starting at 10:00 a.m. until all parcels are offered. You must be registered to bid, using the Bidder Information Form from the counter on sale day or the treasurer's webpage. Pay by money order, certified check or cash; no personal checks. Deposit and interest rate are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://greenlee.az.gov/tax-lien-sale-faq/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; footer says only '© 2023 Greenlee County . All Rights Reserved'. No reuse restriction found.",
+          "terms_url": "https://greenlee.az.gov/tax-lien-sale-faq/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://greenlee.az.gov/tax-lien-sale-faq/",
+          "quote": "The sale is held every February. The actual date for the sale will be available January 1st."
+        },
+        {
+          "url": "https://greenlee.az.gov/tax-lien-sale-faq/",
+          "quote": "The sale will be held at the Treasurer's Office, 253 Fifth St., Clifton, Arizona."
+        },
+        {
+          "url": "https://greenlee.az.gov/tax-lien-sale-faq/",
+          "quote": "Money Order, certified check, or cash; no personal checks accepted."
+        }
+      ]
     }
   ]
 }

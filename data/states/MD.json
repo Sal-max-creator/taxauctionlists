@@ -451,6 +451,135 @@
           "quote": "The day of sale registration will be between 8:30-9:30."
         }
       ]
+    },
+    {
+      "county": "Howard",
+      "slug": "howard",
+      "office": "Howard County Department of Finance, Office of Tax Sale",
+      "phone": "410-313-2299",
+      "address": "3430 Courthouse Drive, Ellicott City, MD 21043",
+      "website": "https://www.howardcountymd.gov/finance/tax-sale",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": {
+        "name": "Howard County Tax Sale website",
+        "url": "https://taxsale.howardcountymd.gov"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's tax sale page says the 2026 sale was held Wednesday, June 10, 2026, and that over-the-counter parcels are currently unavailable.",
+      "how_to_bid": "Bidders register and bid through the county's Tax Sale website (taxsale.howardcountymd.gov). For the 2026 sale, registration opened May 21 and closed June 3, 2026 at 5:00 p.m., and budgets closed June 9 at 5:00 p.m. The pages do not say whether the sale is online or in person, and no deposit is stated. The county's 2025 FAQ says the interest rate paid on a tax sale property is 18% a year. Outside the tax sale period, call the Office of Tax Sale at 410-313-2299 or email taxsale@howardcountymd.gov.",
+      "sources": [
+        {
+          "url": "https://www.howardcountymd.gov/finance/tax-sale",
+          "read_on": "2026-10-28",
+          "terms": "Terms of Use page: 'Copyright 2022 by Howard County, Maryland and/or its suppliers. All rights reserved.' Communication Services materials 'may be subject to posted limitations on usage, reproduction and/or dissemination'; users 'may not obtain or attempt to obtain any materials or information through any means not intentionally made available'; liability disclaimer says information 'MAY INCLUDE INACCURACIES' and is provided 'AS IS'. No personal or noncommercial-only limit and no ban on reuse of site information found.",
+          "terms_url": "https://www.howardcountymd.gov/terms-use"
+        },
+        {
+          "url": "https://taxsale.howardcountymd.gov",
+          "read_on": "2026-10-28",
+          "terms": "No terms link on this county tax sale site; Howard County Terms of Use applies: Terms of Use page: 'Copyright 2022 by Howard County, Maryland and/or its suppliers. All rights reserved.' Communication Services materials 'may be subject to posted limitations on usage, reproduction and/or dissemination'; users 'may not obtain or attempt to obtain any materials or information through any means not intentionally made available'; liability disclaimer says information 'MAY INCLUDE INACCURACIES' and is provided 'AS IS'. No personal or noncommercial-only limit and no ban on reuse of site information found.",
+          "terms_url": "https://www.howardcountymd.gov/terms-use"
+        },
+        {
+          "url": "https://www.howardcountymd.gov/finance/resource/2025-tax-sale-faqs",
+          "read_on": "2026-10-28",
+          "terms": "same as above (2025 FAQ; says 'Some of the content below may not be applicable and are subject to revision without prior notice.')",
+          "terms_url": "https://www.howardcountymd.gov/terms-use"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.howardcountymd.gov/finance/tax-sale",
+          "quote": "The County Tax Sale was held on Wednesday June 10th."
+        },
+        {
+          "url": "https://taxsale.howardcountymd.gov",
+          "quote": "Tax Sale Date June 10, 2026"
+        },
+        {
+          "url": "https://taxsale.howardcountymd.gov",
+          "quote": "Registration Closing Date & Time June 3, 2026 at 5:00 p.m.EST"
+        },
+        {
+          "url": "https://www.howardcountymd.gov/finance/resource/2025-tax-sale-faqs",
+          "quote": "The current interest rate paid to Howard County on a tax sale property is eighteen percent (18%) annually."
+        }
+      ]
+    },
+    {
+      "county": "Talbot",
+      "slug": "talbot",
+      "office": "Talbot County Department of Finance (tax sales)",
+      "phone": "410-770-8020",
+      "address": "Talbot County Courthouse, 11 North Washington Street, Suite 9, Easton, MD 21601",
+      "website": "https://talbotcountymd.gov/abouttaxsale",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page says the 2026 tax sale was held on Wednesday, May 20, 2026, and links the 2026 results.",
+      "how_to_bid": "The county says it holds a tax sale each year to sell its 1st lien on real property with outstanding taxes and fees. The current page does not state the format, registration steps or deposit; the county's bidder FAQ page still refers to the 2024 sale, so confirm details with the Finance office.",
+      "sources": [
+        {
+          "url": "https://talbotcountymd.gov/abouttaxsale",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the site footer has no terms, disclaimer, legal, copyright or privacy link (only a Social Media Policy PDF).",
+          "terms_url": "https://talbotcountymd.gov/abouttaxsale"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://talbotcountymd.gov/abouttaxsale",
+          "quote": "The 2026 Talbot County tax sale was held on Wednesday, May 20, 2026."
+        },
+        {
+          "url": "https://talbotcountymd.gov/abouttaxsale",
+          "quote": "Talbot County holds a tax sale each year to sell its 1st lien on real property with outstanding taxes and fees."
+        }
+      ]
+    },
+    {
+      "county": "Queen Anne's",
+      "slug": "queen-annes",
+      "office": "Queen Anne's County Office of Budget & Finance, Treasury Division",
+      "phone": "410-758-0414, Ext. 2087",
+      "address": "The Liberty Building, 107 N Liberty Street, Centreville, MD 21617",
+      "website": "https://md-queenannescounty.civicplus.com/598/Tax-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Queen Anne's County tax sale website (RealAuction)",
+        "url": "https://queenannes.marylandtaxsale.com/"
+      },
+      "schedule_rule": "The Queen Anne's County annual tax sale takes place the 3rd Tuesday in May and is held online.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page still shows \"Next Tax Sale: Tuesday, May 19, 2026.\"",
+      "how_to_bid": "The sale is held online. Prospective bidders may pre-register online no later than one week before the tax sale date and pay a non-refundable $100 registration fee. Deposit and redemption interest are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://md-queenannescounty.civicplus.com/598/Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page (qac.org, the same CivicPlus county site) says only 'All content © 2006-2026 Queen Anne's County, MD and its representatives. All rights reserved.' No reuse restriction found.",
+          "terms_url": "https://qac.org/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://md-queenannescounty.civicplus.com/598/Tax-Sale",
+          "quote": "The Queen Anne's County annual tax sale takes place the 3rd Tuesday in May and is held online."
+        },
+        {
+          "url": "https://md-queenannescounty.civicplus.com/598/Tax-Sale",
+          "quote": "Next Tax Sale: Tuesday, May 19, 2026."
+        },
+        {
+          "url": "https://md-queenannescounty.civicplus.com/598/Tax-Sale",
+          "quote": "Prospective bidders may pre-register online for the sale no later than one week prior to the tax sale date."
+        }
+      ]
     }
   ]
 }

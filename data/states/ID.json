@@ -461,6 +461,51 @@
           "quote": "Owyhee County issues a Quit Claim Deed upon the sale of property taken through tax deed."
         }
       ]
+    },
+    {
+      "county": "Valley",
+      "slug": "valley",
+      "office": "Valley County Treasurer's Office",
+      "phone": "(208) 382-7110",
+      "address": "219 N. Main Street, Cascade, ID 83611 (mail: PO Box 1350, Cascade, ID 83611)",
+      "website": "https://www.valleycountyid.gov/taxdeedprocess",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "On January 1st, the Treasurer's office begins the tax deed process for all parcels that are three years delinquent.",
+      "sales": [],
+      "next_sale_note": "The county says the 2026 auction date has not been set yet (the 2026 tax deed hearing was July 27, 2026). No date is posted as of 2026-10-28.",
+      "how_to_bid": "The auction is held at the Valley County Courthouse, 219 N. Main, Cascade. You must be present to take part. Pay by cash, cashier's check, certified check or money order payable to Valley County; personal and business checks are accepted only with a letter of proof of funds from your institution. The Commissioners may reject bids and may sell parcels singly or in bulk. Deposit and minimum bid are not stated.",
+      "sources": [
+        {
+          "url": "https://www.valleycountyid.gov/taxdeedprocess",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer (only a 'Website By EvoGov' vendor credit). No terms page found; no reuse restriction seen.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.valleycountyid.gov/taxdeedprocess",
+          "quote": "The 2026 auction date has not been set yet."
+        },
+        {
+          "url": "https://www.valleycountyid.gov/taxdeedprocess",
+          "quote": "The 2026 tax deed hearing is scheduled for July 27th, 2026 at 1:00pm"
+        },
+        {
+          "url": "https://www.valleycountyid.gov/taxdeedprocess",
+          "quote": "The auction will be at the Valley County Courthouse at 219 N. Main, Cascade, Idaho."
+        },
+        {
+          "url": "https://www.valleycountyid.gov/taxdeedprocess",
+          "quote": "You must be present to participate in the auction."
+        },
+        {
+          "url": "https://www.valleycountyid.gov/taxdeedprocess",
+          "quote": "Personal and business checks will be accepted only with a letter of proof of funds from your institution."
+        }
+      ]
     }
   ]
 }

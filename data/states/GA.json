@@ -896,6 +896,135 @@
           "quote": "Tax sale purchasers must, by law, allow one year (12 consecutive months) for the property to be redeemed."
         }
       ]
+    },
+    {
+      "county": "Effingham",
+      "slug": "effingham",
+      "office": "Effingham County Tax Commissioner (sale conducted as a Sheriff's sale by the Ex-Officio Sheriff)",
+      "phone": "not stated on the page read",
+      "address": "Sales held in the Board of Commissioners meeting room, 804 South Laurel Street, Springfield, GA 31329",
+      "website": "https://www.effinghamcounty.org/920/Property-Tax-Sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-01",
+          "time": "10:00 AM to 4:00 PM",
+          "label": "December 2026 tax sale",
+          "note": "Held between the legal hours of sale, 10:00 AM and 4:00 PM, in the Board of Commissioners meeting room at 804 South Laurel Street, Springfield. The property list is posted on the county's tax sale page (last updated 10/26/26) and is subject to change before the sale.",
+          "list_url": "https://www.effinghamcounty.org/920/Property-Tax-Sale",
+          "source_url": "https://www.effinghamcounty.org/920/Property-Tax-Sale",
+          "quote": "first Tuesday in December 2026, the same being December 1, 2026"
+        }
+      ],
+      "next_sale_note": "Later sale dates not yet posted.",
+      "how_to_bid": "Sales are by public outcry for cash or certified funds; at the Tax Commissioner's discretion, payment is due within one hour of the completion of the tax sale. The purchaser pays for title, transfer costs, taxes, advertising costs and recording fees. Property is sold as is (buyer beware) under the power of a tax sale deed with specific rights of redemption. Registration and deposit not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.effinghamcounty.org/920/Property-Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Footer links to 'Copyright Notices'; the text read shows only 'All content © 2006-2026 Effingham County, GA and its representatives. All rights reserved.' (copyright only). No disclaimer or terms link and no reuse restriction found.",
+          "terms_url": "https://www.effinghamcounty.org/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.effinghamcounty.org/920/Property-Tax-Sale",
+          "quote": "EFFINGHAM COUNTY DECEMBER 2026 TAX SALE"
+        },
+        {
+          "url": "https://www.effinghamcounty.org/920/Property-Tax-Sale",
+          "quote": "This is a buyer beware sale and all property will be sold as is."
+        }
+      ]
+    },
+    {
+      "county": "Camden",
+      "slug": "camden",
+      "office": "Camden County (the tax sale pages don't name the office)",
+      "phone": "912-576-5601 (contact shown on the county's tax sale page)",
+      "address": "200 E 4th Street, PO Box 99, Woodbine, GA 31569; sales held on the courthouse steps",
+      "website": "https://www.camdencountyga.gov/87/Tax-Sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Sales are scheduled on the first Tuesday of any given month on the courthouse steps at 12 noon.",
+      "sales": [],
+      "next_sale_note": "The latest list posted is for the October 6, 2026 sale (now past); no later sale date was posted, and the county's tax sale calendar showed no published events for October 2026.",
+      "how_to_bid": "Bidding starts at the total of taxes and costs and the property goes to the highest bidder; if there are no bidders, the County may bid the starting amount. Notice of the sale is published once a week for the four weeks before the sale in the county's legal organ. The owner or anyone with an interest may redeem within 12 months of the sale, and the buyer has no immediate control of the property or right to rents during that time. Payment terms are in the county's Tax Sale Conditions document (not read); registration not stated on the pages read.",
+      "sources": [
+        {
+          "url": "https://www.camdencountyga.gov/87/Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Footer 'Copyright Notices' page says 'All content © 2006-2022 Camden County and its representatives. All rights reserved.' (copyright only); no terms or disclaimer link, and no clause on reuse, redistribution or automated access.",
+          "terms_url": "https://www.camdencountyga.gov/918/Copyright-Notices"
+        },
+        {
+          "url": "https://www.camdencountyga.gov/88/Tax-Sale-Date",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.camdencountyga.gov/918/Copyright-Notices"
+        },
+        {
+          "url": "https://www.camdencountyga.gov/89/Tax-Sale-Bidding",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.camdencountyga.gov/918/Copyright-Notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.camdencountyga.gov/88/Tax-Sale-Date",
+          "quote": "Tax Sales are scheduled on the first Tuesday of any given month on the courthouse steps at 12 noon."
+        },
+        {
+          "url": "https://www.camdencountyga.gov/89/Tax-Sale-Bidding",
+          "quote": "If there are no bidders, the County may enter a bid on the property equal to the starting bid."
+        },
+        {
+          "url": "https://www.camdencountyga.gov/89/Tax-Sale-Bidding",
+          "quote": "The purchaser is not entitled to rents and/or profits arising from the property during the redemption period."
+        }
+      ]
+    },
+    {
+      "county": "Rockdale",
+      "slug": "rockdale",
+      "office": "Rockdale County Tax Commissioner",
+      "phone": "(770) 278-7600",
+      "address": "1088 West Avenue, Conyers, GA 30012 (mailing: 1096 West Avenue, Conyers, GA 30012); sales held at the J.P. Carr Community Center, 981 Taylor St., Conyers, GA 30012",
+      "website": "https://rockdaletaxoffice.org/property-tax-sales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held the first Tuesday of each month for the months in which we plan a tax sale. If the tax sale falls on a holiday, the sale will take place on the first Wednesday.",
+      "sales": [],
+      "next_sale_note": "The Tax Commissioner's page says the next tax sale is set for March 2027; the day is not posted yet. Sale lists run in the Rockdale Citizen legal ads for four weeks before a sale.",
+      "how_to_bid": "Bidders must attend; mail, phone or fax bids are not accepted, and bidders must show identification such as a driver's license. A bidder sign-up link is on the Tax Commissioner's page. The sale runs between 10 AM and 4 PM; the opening bid is the tax due plus penalties and other applicable costs, and the Tax Deed (not the property) goes to the highest bidder. A recognized bid is binding. Payment in full, in cash or certified check payable to the Rockdale County Tax Commissioner, is due within one hour of the sale. Owners may redeem for no less than 12 months after the sale.",
+      "sources": [
+        {
+          "url": "https://rockdaletaxoffice.org/property-tax-sales",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer; footer shows only 'Copyright 2026. All Rights Reserved.' (copyright only). In-page disclaimer says the information is not to be construed as legal advice. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://rockdaletaxoffice.org/property-tax-sales",
+          "quote": "OUR NEXT TAX SALE IS SET FOR March, 2027."
+        },
+        {
+          "url": "https://rockdaletaxoffice.org/property-tax-sales",
+          "quote": "We do not accept mail, phone or fax bids."
+        },
+        {
+          "url": "https://rockdaletaxoffice.org/property-tax-sales",
+          "quote": "Payment must be made for the amount of the bid within one hour of the sale."
+        }
+      ]
     }
   ]
 }

@@ -2067,6 +2067,187 @@
           "quote": "The Suwannee County Clerk of Court conducts all Tax Deed Auctions online."
         }
       ]
+    },
+    {
+      "county": "Hardee",
+      "slug": "hardee",
+      "office": "Hardee County Clerk of the Circuit Court and Comptroller - Tax Deed Division",
+      "phone": "(863) 773-4174; Tax Deed Division ext. 7282",
+      "address": "417 West Main Street, Suite 202, Wauchula, FL 33873 (Monday to Friday, 8:30 AM to 4:00 PM)",
+      "website": "https://www.hardeeclerk.com/departments/tax-deeds/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Deed sales are held on Wednesdays at 11:00 am.",
+      "sales": [],
+      "next_sale_note": "The Clerk's tax deed page listed no dated upcoming sale when read on 2026-10-28.",
+      "how_to_bid": "Sales are held in person in the second-floor hallway outside Suite 202 at 417 West Main St., Wauchula; no online platform is described. Bidding opens at the amount needed to cover outstanding taxes, interest and sale costs. The high bidder posts a non-refundable deposit of 5% of the bid or $200, whichever is greater, at the time of sale; full payment of the bid, documentary stamp tax and recording fees is due within 24 hours, excluding weekends and legal holidays, or the sale is cancelled and re-advertised. Payment by cashier's check, certified check, money order or cash; personal checks are not accepted. Registration: not stated.",
+      "sources": [
+        {
+          "url": "https://www.hardeeclerk.com/departments/tax-deeds/tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Policy (no terms or disclaimer link) and reads '©2026 Hardee County, Clerk of the Circuit Court and Comptroller. All rights reserved.' The Privacy Policy's terms-of-use text says to use the service 'only for its lawful, intended purposes' and bars distribution 'in violation of any applicable law or regulation'; no ban on copying, reuse, redistribution, commercial use or automated access.",
+          "terms_url": "https://www.hardeeclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hardeeclerk.com/departments/tax-deeds/tax-deed-sales/",
+          "quote": "Tax Deed sales are held on Wednesdays at 11:00 am."
+        },
+        {
+          "url": "https://www.hardeeclerk.com/departments/tax-deeds/tax-deed-sales/",
+          "quote": "Personal checks will not be accepted."
+        }
+      ]
+    },
+    {
+      "county": "Franklin",
+      "slug": "franklin",
+      "office": "Franklin County Clerk of the Circuit Court & Comptroller - Tax Deeds",
+      "phone": "(850) 653-8861; tax deeds (850) 653-2275 ext. 3597",
+      "address": "County Courthouse, 33 Market Street, Suite 203, Apalachicola, FL 32320 (Monday to Friday, 8:00 AM to 4:30 PM)",
+      "website": "https://www.franklinclerk.com/courts/tax-deeds/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Deed Sales, when scheduled, are generally held on the first Monday of the month at 11:00 AM inside the front hallway",
+      "sales": [],
+      "next_sale_note": "No dated upcoming sale was listed on the Clerk's tax deed page when read on 2026-10-28. The page says the date changes if the first Monday is a holiday and to call for verification before attending.",
+      "how_to_bid": "Sales are held in person inside the front hallway (facing Highway 98) of the Main Courthouse, 33 Market Street, Apalachicola, at 11:00 AM; you or your representative must be physically present to bid. If payment in full is not made, the bidder posts a nonrefundable deposit of 5% of the bid or $200, whichever is greater, at the close of bidding on the parcel; payment in full is due within 24 hours, in cash or by cashier's check payable to the Clerk of the Circuit Court. Registration: not stated.",
+      "sources": [
+        {
+          "url": "https://www.franklinclerk.com/courts/tax-deeds/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Policy (no terms link) and reads '©2026 Franklin County Clerk of the Circuit Court & Comptroller.' The Privacy Policy covers personal information, IP logging and third-party links only; no clause on copying, reuse, redistribution or automated access. Page body has a general not-legal-advice disclaimer.",
+          "terms_url": "https://www.franklinclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.franklinclerk.com/courts/tax-deeds/",
+          "quote": "The date will change if the first Monday is a holiday."
+        },
+        {
+          "url": "https://www.franklinclerk.com/courts/tax-deeds/",
+          "quote": "You or your representative must be physically present at the sale in order to bid on the property."
+        },
+        {
+          "url": "https://www.franklinclerk.com/courts/tax-deeds/",
+          "quote": "Payment in full must be made within twenty-four (24) hours."
+        }
+      ]
+    },
+    {
+      "county": "Dixie",
+      "slug": "dixie",
+      "office": "Dixie County Clerk of Court & Comptroller - Tax Deed Sales",
+      "phone": "(352) 498-1200",
+      "address": "214 NE Highway 351, Cross City, FL 32628 (mail: P.O. Box 1206, Cross City, FL 32628); Monday to Friday, 8:30 AM to 5:00 PM",
+      "website": "https://dixieclerk.com/departments-services/court-services/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax deed auctions are held in the Courthouse Board Room on scheduled Tuesdays, at 11:00 AM.",
+      "sales": [],
+      "next_sale_note": "The Clerk's 'Upcoming Tax Deed Sales' section showed no dated sale when read on 2026-10-28.",
+      "how_to_bid": "Auctions are held in person in the Courthouse Board Room; they are not conducted online. Register at least 30 minutes before the auction begins; registration, the deposit and the purchase are all done in person with the Clerk. A $200.00 deposit is required to participate; no pre-bids or pre-deposits are accepted. Payment in full is due to the Clerk within 24 hours by certified or cashier's check; electronic payments and wire transfers are not accepted.",
+      "sources": [
+        {
+          "url": "https://dixieclerk.com/departments-services/court-services/tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Page-body disclaimer covers accuracy and liability only ('Dixie County Clerk of Court presents the information on this website as a service to the public.'); footer Privacy Policy terms say to use the service 'only for its lawful, intended purposes'; footer '©2026 Dixie County Clerk of Court & Comptroller. All rights reserved.' No ban on copying, reuse, redistribution or automated access.",
+          "terms_url": "https://dixieclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://dixieclerk.com/departments-services/court-services/tax-deed-sales/",
+          "quote": "All interested parties are required to register at least 30 minutes before the tax deed auction begins."
+        },
+        {
+          "url": "https://dixieclerk.com/departments-services/court-services/tax-deed-sales/",
+          "quote": "A deposit of $200.00 is required to participate in the bidding."
+        },
+        {
+          "url": "https://dixieclerk.com/departments-services/court-services/tax-deed-sales/",
+          "quote": "We do not conduct the auctions online."
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Washington County Clerk of the Circuit Court & Comptroller - Tax Deeds",
+      "phone": "(850) 638-6289",
+      "address": "1293 Jackson Ave, #100, Chipley, FL 32428 (mail: P.O. Box 647, Chipley, FL 32428)",
+      "website": "https://www.washingtonclerk.com/public-sales/tax-deeds/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Clerk's tax deed page gives no sale dates; it points to its 'Search Tax Deed Sales' tool, which was not read.",
+      "how_to_bid": "The Clerk conducts the sale by public auction on the Internet under Florida Statute 197.542. Bidders must register on the Clerk's website and place a deposit no later than 24 hours before the sale; deposits by electronic check (ACH) or wire transfer (wires need at least 4 days' notice). The deposit for each winning bid is the greater of $200.00 or 5% of the bid; the remainder, plus recording fee and documentary stamps of $.70 per $100.00 of the bid, is due within 24 hours (wire transfer or cash, among other methods). No personal checks are accepted.",
+      "sources": [
+        {
+          "url": "https://www.washingtonclerk.com/public-sales/tax-deeds/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Policy (no terms or disclaimer link) and reads '©2026 Washington County Clerk of the Circuit Court & Comptroller'. The Privacy Policy says site information 'is for informational purposes only' and bars use of the service for distribution 'in violation of any applicable law or regulation'; no ban on copying, reuse, redistribution, commercial use or automated access.",
+          "terms_url": "https://www.washingtonclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.washingtonclerk.com/public-sales/tax-deeds/",
+          "quote": "The Clerk’s Office conducts the sale via public auction on the Internet in accordance with Florida Statute 197.542."
+        },
+        {
+          "url": "https://www.washingtonclerk.com/public-sales/tax-deeds/",
+          "quote": "The deposit amount for each winning bid is the greater of $200.00 or 5% of the winning bid."
+        },
+        {
+          "url": "https://www.washingtonclerk.com/public-sales/tax-deeds/",
+          "quote": "No personal checks will be accepted for the purchase of property."
+        }
+      ]
+    },
+    {
+      "county": "Calhoun",
+      "slug": "calhoun",
+      "office": "Calhoun Clerk of the Circuit Court & County Comptroller - Tax Deed Sales",
+      "phone": "(850) 674-4545",
+      "address": "20859 Central Avenue E. Room 130, Blountstown, FL 32424",
+      "website": "https://calhounclerk.com/court-services/property-sales/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Clerk's 'Upcoming Tax Deed Sales' section listed no sales when read on 2026-10-28.",
+      "how_to_bid": "Sales begin at 10:00 a.m. in the front lobby of the Calhoun County Courthouse, with each item auctioned in order of case number. Anyone may bid; no pre-registration is required. The successful high bidder pays the total bid or a 5% deposit, with the balance due within 24 hours of the sale, in cash or cashier's check payable to the Calhoun County Clerk's Office.",
+      "sources": [
+        {
+          "url": "https://calhounclerk.com/court-services/property-sales/tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Policy (no terms or disclaimer link) and reads '©2026 Calhoun Clerk of the Circuit Court & County Comptroller. All rights reserved.' The Privacy Policy's terms-of-use text says to use the service 'only for its lawful, intended purposes'; no ban on copying, reuse, redistribution or automated access.",
+          "terms_url": "https://calhounclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://calhounclerk.com/court-services/property-sales/tax-deed-sales/",
+          "quote": "Sales will be held beginning at 10:00 a.m. in the front lobby of the Calhoun County Courthouse"
+        },
+        {
+          "url": "https://calhounclerk.com/court-services/property-sales/tax-deed-sales/",
+          "quote": "Anyone may bid on a property there is no pre-registration required."
+        },
+        {
+          "url": "https://calhounclerk.com/court-services/property-sales/tax-deed-sales/",
+          "quote": "Payment may be made in the form of cash or cashier's check payable to the Calhoun County Clerk's Office."
+        }
+      ]
     }
   ]
 }

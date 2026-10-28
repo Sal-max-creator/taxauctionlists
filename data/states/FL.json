@@ -2391,6 +2391,76 @@
           "quote": "For Current Tax Deed Sales Please Call Our Office @(850) 926-0326 or (850) 926-0322."
         }
       ]
+    },
+    {
+      "county": "Levy",
+      "slug": "levy",
+      "office": "Levy County Clerk of the Circuit Court & Comptroller - Tax Deeds Department",
+      "phone": "(352) 486-5266",
+      "address": "Sales at the Levy County Government Center BoCC Meeting Room, 310 School St, Bronson, FL 32621 (office mailing address not stated on the page)",
+      "website": "https://levyclerk.com/departments-services/administration/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted. The page says tax deed sales are typically held several times per year on scheduled dates and that the exact date and time of each sale is published in advance.",
+      "how_to_bid": "All tax deed auctions are held in person at the Levy County Government Center BoCC Meeting Room, 310 School St, Bronson. Bidders sign in with the Clerk on a sign-in sheet provided at the sale. The winning bidder pays a non-refundable cash deposit of $200 or 5% of the final bid, whichever is greater, per parcel, immediately on being declared the winner; the deposit is applied to the purchase price and is forfeited if payment is not completed on time. Sale time: not stated.",
+      "sources": [
+        {
+          "url": "https://levyclerk.com/departments-services/administration/tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "No footer terms, privacy or copyright link found. The page's in-page Disclaimer (accepted before entering the Tax Deeds Portal) says the Clerk does not guarantee the accuracy or reliability of the content, users must verify information, and the Clerk is not liable for errors. No restriction on reuse or redistribution found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://levyclerk.com/departments-services/administration/tax-deed-sales/",
+          "quote": "All tax deed auctions are held in person at the Levy County Government Center BoCC Meeting Room."
+        },
+        {
+          "url": "https://levyclerk.com/departments-services/administration/tax-deed-sales/",
+          "quote": "The exact date and time for each sale will be published in advance."
+        }
+      ]
+    },
+    {
+      "county": "Madison",
+      "slug": "madison",
+      "office": "Madison County Clerk of the Circuit Court & Comptroller - Tax Deeds",
+      "phone": "(850) 973-1500",
+      "address": "Madison County Courthouse, 125 SW Range Avenue, Madison, Florida 32340 (mailing: PO Box 237, Madison, Florida 32341)",
+      "website": "https://www.madisonclerk.com/departments-services/property-sales/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted; the page's Upcoming Tax Deed Sales heading lists no dates. Sales are set by the Clerk's office and held on the courthouse steps.",
+      "how_to_bid": "Tax deed sales are sold on the courthouse steps; arrive a few minutes before 11:00 AM. You or your representative must be physically present to bid. The winning bidder pays a nonrefundable deposit of 5% of the winning bid or $200.00, whichever is greater; payment in full must be made within twenty-four (24) hours, in cash, money orders or certified cashier's checks only. If the deposit is not paid, bidding on that parcel restarts at the base bid. Registration: not stated.",
+      "sources": [
+        {
+          "url": "https://www.madisonclerk.com/departments-services/property-sales/tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only a Privacy Policy, Accessibility Policy, sitemap and the site vendor (KMA); no terms-of-use or legal link. Footer: '©2026 Madison County Clerk of the Circuit Court & Comptroller. All rights reserved.' In-page disclaimer covers buyer beware, title and liability for errors only. Copyright-only, no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.madisonclerk.com/departments-services/property-sales/tax-deed-sales/",
+          "quote": "Tax deed sales are set by the clerk's office and are sold on the courthouse steps."
+        },
+        {
+          "url": "https://www.madisonclerk.com/departments-services/property-sales/tax-deed-sales/",
+          "quote": "You or your representative must be physically present at the sale to bid on the property."
+        },
+        {
+          "url": "https://www.madisonclerk.com/departments-services/property-sales/tax-deed-sales/",
+          "quote": "Payment in full must be made within twenty-four (24) hours."
+        }
+      ]
     }
   ]
 }

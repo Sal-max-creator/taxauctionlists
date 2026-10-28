@@ -1162,6 +1162,43 @@
           "quote": "They are held at 10:00 a.m. at the Cherokee County Courthouse at 90 North Street, Canton, GA 30114."
         }
       ]
+    },
+    {
+      "county": "Greene",
+      "slug": "greene",
+      "office": "Greene County Tax Commissioner",
+      "phone": "706-453-3358",
+      "address": "1034 Silver Drive, Suite 101, Greensboro, GA 30642",
+      "website": "https://www.greenecountyga.gov/791/Delinquent-Property-Tax-Sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held on the first Tuesday of the month (for months in which a tax sale is planned), at 10 AM.",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted on the Tax Commissioner's page. Sale details are published in the county legal organ, The Herald Journal, before each sale.",
+      "how_to_bid": "Arrive early to fill out a bidder registration form before the tax sale. Bidders or a representative must be present to bid; mail, phone and fax bids are not accepted. The Sheriff's Tax Deed, not the property, is sold to the highest bidder. Payment is due in full by 1 PM on the day of the tax sale, in certified funds only (cash, cashier's check or money order). Sale location and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.greenecountyga.gov/791/Delinquent-Property-Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Footer has no terms, privacy, legal or copyright link; it shows ADA Compliance, Archived Documents and a 'Government Websites by CivicPlus' referral link. The page's own Disclaimer says the Tax Commissioner cannot provide legal advice and all tax sales are bidder beware. No restriction on reuse found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.greenecountyga.gov/791/Delinquent-Property-Tax-Sale",
+          "quote": "Tax sales are held on the first Tuesday of the month (for months in which a tax sale is planned), at 10 AM."
+        },
+        {
+          "url": "https://www.greenecountyga.gov/791/Delinquent-Property-Tax-Sale",
+          "quote": "Payment is due in full by 1 PM on the day of the tax sale."
+        },
+        {
+          "url": "https://www.greenecountyga.gov/791/Delinquent-Property-Tax-Sale",
+          "quote": "The Sheriff's Tax Deed, not the property, is sold to the highest bidder."
+        }
+      ]
     }
   ]
 }

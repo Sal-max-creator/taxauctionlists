@@ -635,6 +635,43 @@
           "quote": "Bidding is based on the lowest interest rate accepted by the bidder, starting at 12%."
         }
       ]
+    },
+    {
+      "county": "Macon",
+      "slug": "macon",
+      "office": "Macon County Revenue Commissioner's Office",
+      "phone": "(334) 724-2603",
+      "address": "210 N. Elm Street, Courthouse Annex, Tuskegee, AL 36083 (mailing: P.O. Box 830420, Tuskegee, AL 36083)",
+      "website": "https://maconalabama.com/services/revenue_commissioner/collection.php",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held annually for all unpaid tax properties.",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted. The page says the sale usually begins at 10:00 A.M. on the day specified in the Notice of Sale, and properties are advertised in the Tuskegee News for three weeks before the sale.",
+      "how_to_bid": "Properties are sold in front of the courthouse in a public outcry auction, usually beginning at 10:00 A.M. on the day specified in the Notice of Sale. Anyone wishing to purchase must appear in person. Purchasers may pay by certified check or cash the day of the sale. The page gives the interest rate as 12% per year (1% per month) for redemption within three years, and a tax deed cannot be issued until three years from the date of the tax sale. Registration and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://maconalabama.com/services/revenue_commissioner/collection.php",
+          "read_on": "2026-10-28",
+          "terms": "Footer has no terms, disclaimer, privacy or legal link; it shows contact, forms, employment, agenda links and 'Powered by Revize' (vendor home page, no terms). Footer: '© Copyright 2026 Macon County, AL.' Copyright-only, no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://maconalabama.com/services/revenue_commissioner/collection.php",
+          "quote": "Tax sales are held annually for all unpaid tax properties."
+        },
+        {
+          "url": "https://maconalabama.com/services/revenue_commissioner/collection.php",
+          "quote": "Properties are for sale in front of courthouse in a public outcry auction."
+        },
+        {
+          "url": "https://maconalabama.com/services/revenue_commissioner/collection.php",
+          "quote": "Anyone wishing to purchase must appear in person."
+        }
+      ]
     }
   ]
 }

@@ -396,6 +396,52 @@
           "quote": "Payment in full is required by 3pm on the next business day after the sale."
         }
       ]
+    },
+    {
+      "county": "Eureka",
+      "slug": "eureka",
+      "office": "Eureka County Treasurer",
+      "phone": "775.237.5262",
+      "address": "10 S Main Street, PO Box 677, Eureka, NV 89316",
+      "website": "https://www.eurekacountynv.gov/departments/treasurer/delinquent-tax-auction",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Next date not yet posted. The Treasurer's page still shows 'NEXT AUCTION: April 8, 2026', which has passed; for that sale, sealed bids were due by 4 p.m. on April 7, 2026.",
+      "how_to_bid": "Sealed written bids only, with no verbal bidding; bids are hand delivered to the Treasurer's office (10 S. Main St., Eureka) by the posted deadline, with payment for the total bid included. Payment is by money order, cashier's check or credit card (2.5% convenience fee). Properties sell to the highest sealed bid, and quitclaim deeds are recorded and sent within 30 days of the sale. Unsold properties may be offered at future tax delinquent sales. Registration and deposit are not stated.",
+      "sources": [
+        {
+          "url": "https://www.eurekacountynv.gov/departments/treasurer/delinquent-tax-auction",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only Sitemap, Privacy Policy, News, Quick Links and Facebook, with '© 2026 Eureka County'. The Privacy Policy covers only personal and usage data; no reuse, redistribution, commercial-use, personal-use, resale or scraping clause found.",
+          "terms_url": "http://www.eurekacountynv.gov/departments/privacy-policy/"
+        },
+        {
+          "url": "https://www.eurekacountynv.gov/media/ixudrdvk/delinquent-tax-auction-information.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Same site; Footer links only Sitemap, Privacy Policy, News, Quick Links and Facebook, with '© 2026 Eureka County'. The Privacy Policy covers only personal and usage data; no reuse, redistribution, commercial-use, personal-use, resale or scraping clause found.",
+          "terms_url": "http://www.eurekacountynv.gov/departments/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.eurekacountynv.gov/media/ixudrdvk/delinquent-tax-auction-information.pdf",
+          "quote": "Only sealed bids will be accepted. There will be no Verbal Bidding at this auction"
+        },
+        {
+          "url": "https://www.eurekacountynv.gov/media/ixudrdvk/delinquent-tax-auction-information.pdf",
+          "quote": "Quitclaim deeds will be recorded and sent to the purchaser within 30 days of the sale."
+        },
+        {
+          "url": "https://www.eurekacountynv.gov/media/ixudrdvk/delinquent-tax-auction-information.pdf",
+          "quote": "Properties that do not sell at this sale may be available for sale at future tax delinquent sales."
+        }
+      ],
+      "notes": {
+        "format_note": "Bids are sealed and hand delivered to the Treasurer's office, so format is 'in person'."
+      }
     }
   ]
 }

@@ -1119,6 +1119,203 @@
       "notes": {
         "format_note": "The county links GovEase for registration but does not state the sale format, so format is 'unknown'."
       }
+    },
+    {
+      "county": "Gilpin",
+      "slug": "gilpin",
+      "office": "Gilpin County Treasurer",
+      "phone": "303-582-5222",
+      "address": "203 Eureka Street, P.O. Box 366, Central City, CO 80427",
+      "website": "https://gilpincounty.colorado.gov/elected-officials/treasurer/tax-lien-sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "SRI (zeusauction.com)",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "end_date": "2026-11-19",
+          "time": "Bidding begins 8:00 AM MST on November 17 and continues until 5:00 PM MST on November 19, 2026",
+          "label": "2026 Tax Lien Sale (2025 taxes, online)",
+          "deposit": "No deposit is required at the time of registration.",
+          "registration_deadline": "Registration will close 5 p.m. MST Monday, November 16, 2026.",
+          "register_by": "2026-11-16",
+          "note": "The county says bidders may register online at the auction site beginning on or about October 15, 2026, and only bidders with a US Tax Payer ID may take part.",
+          "source_url": "https://gilpincounty.colorado.gov/elected-officials/treasurer/tax-lien-sale",
+          "quote": "Gilpin County 2026 Tax Lien Sale will be held on November 17, 18 & 19 online at Zeusauction.com"
+        }
+      ],
+      "how_to_bid": "Online only: each bidder registers with the county's auction vendor (SRI, zeusauction.com); only bidders with a US Tax Payer ID may take part, and no deposit is required at registration. Bidding starts at the taxes, interest, advertising and fees due; any amount above that is a bonus or premium bid, which is not returned if the property is redeemed. All successful bids are final at the close of the auction. Winning bids are paid only by ACH from the account used at registration, starting November 19, 2026 (11:59 PM MST) or as soon after as practical.",
+      "sources": [
+        {
+          "url": "https://gilpincounty.colorado.gov/elected-officials/treasurer/tax-lien-sale",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only Privacy Policies and Disclaimers, Transparency Online, General Notices and the state portal, with '© 2026 State of Colorado'. Privacy Policies and Disclaimers page: accuracy disclaimer only (the county 'does not warrant the accuracy, reliability or timeliness of any information'); no reuse, redistribution, commercial-use, personal-use, resale or scraping clause.",
+          "terms_url": "https://gilpincounty.colorado.gov/privacy-policies-and-disclaimers"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://gilpincounty.colorado.gov/elected-officials/treasurer/tax-lien-sale",
+          "quote": "Bidding begins November 17, 2026 at 8:00 AM MST."
+        },
+        {
+          "url": "https://gilpincounty.colorado.gov/elected-officials/treasurer/tax-lien-sale",
+          "quote": "Bidding will continue until the closing hour, November 19, 2026, at 5:00 PM MST."
+        },
+        {
+          "url": "https://gilpincounty.colorado.gov/elected-officials/treasurer/tax-lien-sale",
+          "quote": "Registration will close 5 p.m. MST Monday, November 16, 2026."
+        }
+      ],
+      "notes": {
+        "contact_note": "The page also gives the county's general line 303-582-5214 and sends auction-operation questions to SRI."
+      }
+    },
+    {
+      "county": "Conejos",
+      "slug": "conejos",
+      "office": "Conejos County Treasurer",
+      "phone": "(719) 376-5919",
+      "address": "6683 County Rd. 13, Conejos, CO 81129 (mailing: PO Box 97)",
+      "website": "https://conejoscounty.colorado.gov/treasurer-information-page",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "SRI (zeusauction.com)",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-19",
+          "time": "8:00 a.m. until 5 p.m.",
+          "label": "2026 Tax Lien Internet Auction",
+          "deposit": "not stated",
+          "registration_deadline": "NO REGISTRATIONS WILL BE ALLOWED AFTER NOVEMBER 18, 2026 AT 12:00 P.M.",
+          "register_by": "2026-11-18",
+          "note": "The county says registration runs from October 19 through November 18, 2026, the last day to pay to avoid the sale is November 16, 2026, and the redemption rate for the 2026 sale is 13%.",
+          "source_url": "https://conejoscounty.colorado.gov/treasurer-information-page",
+          "quote": "Tax Lien Internet Auction: Thursday, November 19, 2026 (8:00 a.m. until 5 p.m.)"
+        }
+      ],
+      "how_to_bid": "Online only, through the county's auction vendor SRI (zeusauction.com). Bidders register online, complete and electronically sign a W-9, and must be approved by SRI and the Treasurer. Each parcel is sold to the person who bids the highest amount above the taxes, penalty, interest and costs, and all successful bids are final. Winning bids are paid only by ACH debit from the account used at registration, started within 24 hours of the last batch closing; a rejected payment may cancel the bid. A deposit is not stated.",
+      "sources": [
+        {
+          "url": "https://conejoscounty.colorado.gov/treasurer-information-page",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only Transparency Online, General Notices and the state portal, with '© 2026 State of Colorado'. colorado.gov General Notices page: no reuse, reproduction, redistribution, commercial-use, personal-use, resale or scraping language; it covers only personal information users submit.",
+          "terms_url": "https://www.colorado.gov/general-notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://conejoscounty.colorado.gov/treasurer-information-page",
+          "quote": "NO REGISTRATIONS WILL BE ALLOWED AFTER NOVEMBER 18, 2026 AT 12:00 P.M."
+        },
+        {
+          "url": "https://conejoscounty.colorado.gov/treasurer-information-page",
+          "quote": "This is the only form of payment accepted."
+        }
+      ]
+    },
+    {
+      "county": "Summit",
+      "slug": "summit",
+      "office": "Summit County Treasurer / Public Trustee",
+      "phone": "(970) 453-3440",
+      "address": "208 E. Lincoln Ave., Breckenridge, CO 80424 (mailing: PO Box 68)",
+      "website": "https://www.summitcountyco.gov/services/treasurer_public_trustee/treasurer/tax_liens.php",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "Unpaid taxes are sold at the tax lien sale each year.",
+      "sales": [
+        {
+          "date": "2026-11-10",
+          "time": "10:00 AM",
+          "label": "2026 Tax Lien Sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "The county links a GovEase tax lien sale auction page; it does not state on its page whether bidding is online or in person.",
+          "source_url": "https://www.summitcountyco.gov/services/treasurer_public_trustee/treasurer/tax_liens.php",
+          "quote": "The Summit County Treasurer's Tax Lien Sale will be held on Tuesday, November 10th, 2026 at 10:00 AM."
+        }
+      ],
+      "how_to_bid": "The county links a GovEase tax lien sale auction page. It says investors pay the taxes at the sale, and the sale amount includes the unpaid taxes, county interest of 1% per month and the advertising fee. Registration deadline, deposit and payment methods for the lien sale are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.summitcountyco.gov/services/treasurer_public_trustee/treasurer/tax_liens.php",
+          "read_on": "2026-10-28",
+          "terms": "Footer has 'Copyright © 2026' with no terms, disclaimer or legal link; its Data Privacy Protection Policy covers only personal information and has no reuse, redistribution, commercial-use, personal-use, resale or scraping clause.",
+          "terms_url": "https://www.summitcountyco.gov/government/manager_s_office/data_privacy_protection_policy.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.summitcountyco.gov/services/treasurer_public_trustee/treasurer/tax_liens.php",
+          "quote": "Unpaid taxes are sold at the tax lien sale each year."
+        }
+      ],
+      "notes": {
+        "format_note": "The county links GovEase but does not state the sale format, so format is 'unknown'. The page's 13% interest rate is stated for the 2025 sale only."
+      }
+    },
+    {
+      "county": "Logan",
+      "slug": "logan",
+      "office": "Logan County Treasurer and Public Trustee",
+      "phone": "970-522-2462",
+      "address": "315 Main Street, Ste 4, Sterling, CO 80751",
+      "website": "https://www.logancountyco.gov/208/Tax-Liens-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-19",
+          "time": "Registration 8:00 a.m. at the Treasurer's Office; sale begins 10:00 a.m. in the Commissioners Meeting Room, Courthouse",
+          "label": "2026 Tax Lien Sale (in person)",
+          "deposit": "not stated (all bids must be covered in full at payment)",
+          "registration_deadline": "not stated (registration begins 8:00 a.m. on the sale day)",
+          "note": "Courthouse, 315 Main Street, 2nd Floor, Sterling. Payments are accepted from 1:00 p.m. to 5:00 p.m. on the sale day. The county says the rate of interest for the 2026 sale is 13% per annum.",
+          "source_url": "https://www.logancountyco.gov/208/Tax-Liens-Sale",
+          "quote": "Date: November 19, 2026"
+        }
+      ],
+      "how_to_bid": "In person at the Courthouse in Sterling. All bidders must register in the Treasurer's Office (from 8:00 a.m.) and receive a bidder number; a W-9 should be completed before registering. County employees and their immediate families may not bid. Parcels are sold by open bidding to the person who pays the largest amount in cash above the taxes, penalty, interest and costs; premium bids go in dollar increments under $1,000 and $5.00 increments at $1,000 and over, and premiums are non-refundable and earn no interest. Bids must be covered by cash, certified checks, bank cashier's checks, same-day wire (fee added) or a personal check guaranteed by a bank's irrevocable letter of credit approved before sale day. Unsold parcels may be bought from 3:00 p.m. on the sale day until close of business Tuesday, November 24, 2026.",
+      "sources": [
+        {
+          "url": "https://www.logancountyco.gov/208/Tax-Liens-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Logan County, CO and its representatives. All rights reserved.' Copyright-only; no reuse, redistribution, commercial-use, personal-use, resale or scraping clause. The page's own Disclaimer is about lien-purchase risk only.",
+          "terms_url": "https://www.logancountyco.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.logancountyco.gov/208/Tax-Liens-Sale",
+          "quote": "The rate of interest for the 2026 Tax Lien Sale is 13% per annum"
+        },
+        {
+          "url": "https://www.logancountyco.gov/208/Tax-Liens-Sale",
+          "quote": "Premium bids will be in dollar increments for any amount under $1,000.00 and $5.00 for any amount $1,000.00 and over."
+        },
+        {
+          "url": "https://www.logancountyco.gov/208/Tax-Liens-Sale",
+          "quote": "All bidders must register and receive a bidder number to participate in the auction."
+        }
+      ],
+      "notes": {
+        "list_note": "The county's printed sale list shows taxpayer names, so it is not linked here."
+      }
     }
   ]
 }

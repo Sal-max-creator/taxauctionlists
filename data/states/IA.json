@@ -722,6 +722,84 @@
           "quote": "No mailed or emailed registrations will be accepted."
         }
       ]
+    },
+    {
+      "county": "Jackson",
+      "slug": "jackson",
+      "office": "Jackson County Treasurer",
+      "phone": "(563) 652-5649",
+      "address": "Jackson County Courthouse, 201 W. Platt St., Maquoketa, IA 52060",
+      "website": "https://jacksoncounty.iowa.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": "Any unpaid taxes are offered at Public Tax Sale which is held annually on the third Monday in June online.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 annual tax sale was held Monday, June 15, 2026 (past).",
+      "how_to_bid": "The sale is online: register on the GovEase website, which also gives access to the nightly-updated listing. Per the county's 2026 terms and conditions, registration required a non-refundable $40.00 fee by domestic wire or ACH debit, with all steps done by 11:59 p.m. on June 8, 2026; online bidding opened June 9 and closed at 9:45 a.m. on sale day, and payment was due by 4:00 p.m. on the sale date. An adjourned tax sale may be held any business day after the annual sale. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://jacksoncounty.iowa.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Jackson County' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found."
+        },
+        {
+          "url": "https://jacksoncounty.iowa.gov/files/treasurer/tax_sale_terms_and_conditions_2026_76497.pdf",
+          "read_on": "2026-10-28",
+          "terms": "County 2026 tax sale terms and conditions (no owner names or parcel list). Same site terms as above."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://jacksoncounty.iowa.gov/treasurer/tax_sale/",
+          "quote": "Register to participate in the Tax Sale Auction on the GovEase website."
+        },
+        {
+          "url": "https://jacksoncounty.iowa.gov/files/treasurer/tax_sale_terms_and_conditions_2026_76497.pdf",
+          "quote": "The 2026 annual Tax Sale will be held by the Jackson County Treasurer on Monday, June 15, 2026"
+        },
+        {
+          "url": "https://jacksoncounty.iowa.gov/files/treasurer/tax_sale_terms_and_conditions_2026_76497.pdf",
+          "quote": "All steps in the registration process must be completed by 11:59 p.m. on June 8, 2026."
+        },
+        {
+          "url": "https://jacksoncounty.iowa.gov/files/treasurer/tax_sale_terms_and_conditions_2026_76497.pdf",
+          "quote": "Pay a non-refundable $40.00 registration fee via domestic wire or ACH debit."
+        },
+        {
+          "url": "https://jacksoncounty.iowa.gov/files/treasurer/tax_sale_terms_and_conditions_2026_76497.pdf",
+          "quote": "Payment is due by 4:00 PM on the date of the sale."
+        },
+        {
+          "url": "https://jacksoncounty.iowa.gov/files/treasurer/tax_sale_terms_and_conditions_2026_76497.pdf",
+          "quote": "An adjourned tax sale will be held any business day following the annual tax sale"
+        }
+      ]
+    },
+    {
+      "county": "Iowa",
+      "slug": "iowa",
+      "office": "Iowa County Treasurer",
+      "phone": "not stated",
+      "address": "Iowa County Courthouse, 901 Court Avenue, Marengo, IA 52301",
+      "website": "https://iowacounty.iowa.gov/treasurer/tax_sale",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Sales of properties on which taxes are delinquent are held annually, on the third Monday of June.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted.",
+      "how_to_bid": "The county page gives only the annual schedule; sale format, registration, fees and deposit are not stated. Contact the Treasurer's office (Courthouse or East Annex, 970 Court Avenue, Marengo; Monday to Friday, 8:00 a.m. to 4:30 p.m.).",
+      "sources": [
+        {
+          "url": "https://iowacounty.iowa.gov/treasurer/tax_sale",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Iowa County' (Title VI documents and a Neapolitan Labs vendor link). No reuse clause found."
+        }
+      ]
     }
   ]
 }

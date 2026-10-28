@@ -649,6 +649,46 @@
           "quote": "YOU DO NOT OWN THE PROPERTY UNTIL THE DEED IS FILED."
         }
       ]
+    },
+    {
+      "county": "Ottawa",
+      "slug": "ottawa",
+      "office": "Ottawa County Treasurer",
+      "phone": "918-542-8232",
+      "address": "102 East Central, Suite 101, Miami, OK 74354",
+      "website": "https://oktaxrolls.com/county/Ottawa",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-06-14",
+          "time": "9:00 AM",
+          "label": "June 2027 Resale Auction",
+          "deposit": "not stated",
+          "registration_deadline": "Bidders register in person at the courthouse annex building the morning of the auction.",
+          "note": "Held at the Ottawa County courthouse annex building, 123 E Central Ave, Miami, OK 74354. The property list is posted on the Treasurer's oktaxrolls.com page.",
+          "source_url": "https://oktaxrolls.com/county/Ottawa",
+          "quote": "Auction will be held on Monday, June 14, 2027 beginning at 9:00 AM."
+        }
+      ],
+      "next_sale_note": "The Treasurer's page posts the June 2027 Resale Auction for Monday, June 14, 2027 at 9:00 AM.",
+      "how_to_bid": "In-person auction at the Ottawa County courthouse annex building (123 E Central Ave, Miami); register in person at the annex the morning of the auction. Bidding starts at the total of delinquent taxes, penalties, fees and costs; unsold property is deeded to the county. Winning bidders pay the bid plus a $20.00 deed filing fee, a $10.00 deed preparation fee and $2.00 for each additional person on the deed. Properties are sold as is. Payment method and deposit: not stated. Questions: 918-542-8232.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Ottawa",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com page, plus a notice that errors do not waive tax amounts. No terms of use page and no reuse restriction stated. Copyright-only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Ottawa",
+          "quote": "Auction will be held on Monday, June 14, 2027 beginning at 9:00 AM."
+        }
+      ]
     }
   ]
 }

@@ -1163,6 +1163,125 @@
           "quote": "Bidder must be present to participate in the tax sale."
         }
       ]
+    },
+    {
+      "county": "Bamberg",
+      "slug": "bamberg",
+      "office": "Bamberg County Delinquent Tax Collector's Office",
+      "phone": "(803) 245-3009",
+      "address": "Courthouse Annex, 1234 North Street, P.O. Box 385, Bamberg, SC 29003",
+      "website": "https://www.bambergcounty.sc.gov/node/67",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-09",
+          "time": null,
+          "label": "Bamberg County 2026 delinquent tax sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated for 2026; bidder registration and bidder information forms are under the page's Forms link",
+          "note": "The county page gives the date only; time and place for 2026 are not stated (the 2025 sale was at 10:00 AM at the Clemson Bamberg County Extension Office, 847 Calhoun St.). The county says the list of properties runs in the Bamberg Leader on October 21, October 28 and November 4, 2026. Confirm time and place with the Delinquent Tax Collector.",
+          "source_url": "https://www.bambergcounty.sc.gov/node/67",
+          "quote": "The 2026 Bamberg County Delinquent Tax Sale will be held on November 9th, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Get the bidder registration and bidder information forms from the Delinquent Tax Office (linked under Forms on the county page). Under the county's 2025 rules (the newest posted), the form was due by 5:00 PM on the Friday before the sale, bids had to be paid in cash, cashier's check, certified check or money order (no personal checks) by 5 PM on the day of the sale, and a $500 penalty applied per unpaid or cancelled bid; people who owe delinquent taxes themselves could not bid. The opening bid is the Forfeited Land Commission bid. Each sale carries a 12-month redemption period with 3%, 6%, 9% or 12% interest by quarter, capped at the opening bid. 2026 rules, deposit and time not stated.",
+      "sources": [
+        {
+          "url": "https://www.bambergcounty.sc.gov/node/67",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer (links: Accessibility, Twitter, Facebook); footer reads 'Copyright © 2026 Bamberg County, South Carolina' and page metadata reads '©2026 Bamberg County, SC. All rights reserved.' The Delinquent Tax page carries a disclaimer in its body: information is 'provided as a public service and is meant for reference purposes only', 'as is' without warranty, and users waive and indemnify claims against the County. No ban on reuse, redistribution, commercial use or automated access found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.bambergcounty.sc.gov/sites/default/files/uploads/bamberg-county-tax-sale-rules-and-regulations-2025-sale.pdf",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bambergcounty.sc.gov/sites/default/files/uploads/bamberg-county-tax-sale-rules-and-regulations-2025-sale.pdf",
+          "quote": "All bids must be paid by cash, cashier's check, certified check or money order by 5 p.m. ON THE DAY OF THE SALE."
+        },
+        {
+          "url": "https://www.bambergcounty.sc.gov/sites/default/files/uploads/bamberg-county-tax-sale-rules-and-regulations-2025-sale.pdf",
+          "quote": "TAX SALE IS ON DECEMBER 8TH 2025 @ 10:00AM"
+        }
+      ]
+    },
+    {
+      "county": "Williamsburg",
+      "slug": "williamsburg",
+      "office": "Williamsburg County Delinquent Tax Office",
+      "phone": "843-355-9321, ext. 5800",
+      "address": "P.O. Box 477, Kingstree, SC 29556 (county offices: 201 W Main Street, Kingstree, SC 29556)",
+      "website": "https://www.williamsburgcounty.sc.gov/325/Delinquent-Tax-Sale",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "10:00 AM",
+          "label": "Williamsburg County delinquent tax sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "The county page calls it 'The 2025 Tax Sale' (the sale of 2025 taxes) but dates it Tuesday, November 17, 2026; location and registration are not stated on the page. Confirm with the Delinquent Tax Office.",
+          "source_url": "https://www.williamsburgcounty.sc.gov/325/Delinquent-Tax-Sale",
+          "quote": "The 2025 Tax Sale will be held Tuesday, November 17, 2026 at 10:00 am."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Public auction; the opening bid goes to the Forfeited Land Commission and covers all delinquent taxes, penalties and costs plus the current year's taxes. The successful bidder must pay legal tender to the County Tax Collector before the close of the Tax Sale; a winning bidder who does not pay is liable for $300 per property. The property may be redeemed within twelve months from the sale date, with 3%, 6%, 9% or 12% interest on the bid by quarter, not to exceed the bid. Location, registration and deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.williamsburgcounty.sc.gov/325/Delinquent-Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link in the footer. The footer 'Copyright Notices' page shows only 'All content © 2006-2026 Williamsburg County, SC and its representatives. All rights reserved.' (plus a CivicPlus CMS copyright line); footer also links a Privacy Policy. No reuse restriction found.",
+          "terms_url": "https://www.williamsburgcounty.sc.gov/copyright"
+        },
+        {
+          "url": "https://www.williamsburgcounty.sc.gov/326/Tax-Sale-Procedures",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.williamsburgcounty.sc.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.williamsburgcounty.sc.gov/326/Tax-Sale-Procedures",
+          "quote": "The successful bidder at the Delinquent Tax Sale must pay legal tender to the County Tax Collector."
+        }
+      ]
+    },
+    {
+      "county": "Edgefield",
+      "slug": "edgefield",
+      "office": "Edgefield County Tax Collector",
+      "phone": "803-637-4068",
+      "address": "206 Penn Street, Edgefield, SC 29824",
+      "website": "https://edgefieldcounty.sc.gov/tax-collector/",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Tax Sales are conducted the 1st Monday in December.",
+      "sales": [],
+      "next_sale_note": "No dated 2026 sale, time or place is posted on the Tax Collector page; it gives only the yearly schedule. Call the Tax Collector (Monday to Friday, 8:30 AM to 5:00 PM) to confirm.",
+      "how_to_bid": "not stated on the county page read; contact the Tax Collector.",
+      "sources": [
+        {
+          "url": "https://edgefieldcounty.sc.gov/tax-collector/",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: no terms, disclaimer or privacy link in the footer (only a Facebook link); footer reads 'Copyright © 2018 State of South Carolina' and a 'Copyright © 2026 Divi. All Rights Reserved.' theme credit. No reuse restriction found.",
+          "terms_url": null
+        }
+      ]
     }
   ]
 }

@@ -1544,6 +1544,102 @@
           "quote": "$100 Registration Fee- (Refundable if no taxes are purchased by the buyer)"
         }
       ]
+    },
+    {
+      "county": "Henry",
+      "slug": "henry",
+      "office": "Henry County Treasurer",
+      "phone": "(309) 937-3576",
+      "address": "307 W Center Street, Cambridge, IL 61238",
+      "website": "https://www.henrycty.com/278/Annual-Tax-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": {
+        "name": "R.A.M.S. / R.A.M.S. 2 electronic bidding",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-06",
+          "time": "10:00 AM",
+          "label": "Annual Tax Sale (mobile home taxes only)",
+          "deposit": "$250 registration fee, applied to your first $250 in taxes; non-refundable if you do not attend the sale",
+          "registration_deadline": "Register with the Treasurer's office within 10 days of the scheduled tax sale",
+          "note": "Mobile home taxes only. Henry County has elected to acquire all delinquent real estate taxes as trustee for the taxing districts beginning with 2025 payable 2026 (the Public Act 104-0553 trustee election, though the page does not cite the Act by number), so no delinquent real estate taxes are offered to private buyers. Sale location not stated.",
+          "source_url": "https://www.henrycty.com/278/Annual-Tax-Sale",
+          "quote": "2026 Tax Sale is November 6th at 10:00 am"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register with the Treasurer's office within 10 days of the sale and pay the $250 registration fee, which goes toward your first $250 in taxes and is non-refundable if you do not attend. Buyers sign an affidavit under the single-bidder rule, 35 ILCS 200/21-205 (b-5). Bidding is electronic: R.A.M.S. bids are entered on a keypad, or R.A.M.S. 2 bids are presented on a flash drive and uploaded; the lowest interest rate wins, and the system randomly breaks R.A.M.S. 2 ties. Pay for all taxes and fees purchased before leaving the building after the sale. The delinquent list costs $100 and is emailed only. Only mobile home taxes are offered to private buyers.",
+      "sources": [
+        {
+          "url": "https://www.henrycty.com/278/Annual-Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Henry County, IL and its representatives. All rights reserved.' plus the CivicPlus CMS copyright line; no clause on reproduction, redistribution, commercial or personal-only use, resale or automated access. No terms-of-use or disclaimer link in the footer (Privacy and Copyright only). No reuse restriction found beyond the copyright notice.",
+          "terms_url": "https://www.henrycty.com/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.henrycty.com/278/Annual-Tax-Sale",
+          "quote": "No delinquent real estate taxes will be offered for purchase by private tax buyers."
+        },
+        {
+          "url": "https://www.henrycty.com/278/Annual-Tax-Sale",
+          "quote": "Registration fee of $250 is paid at this time."
+        },
+        {
+          "url": "https://www.henrycty.com/278/Annual-Tax-Sale",
+          "quote": "You must pay for all taxes and fees you purchased before leaving the building after the sale."
+        }
+      ]
+    },
+    {
+      "county": "DeWitt",
+      "slug": "dewitt",
+      "office": "DeWitt County Treasurer",
+      "phone": "(217) 935-7820",
+      "address": "201 West Washington Street, Clinton, IL 61727",
+      "website": "https://www.dewittcountyil.gov/departments/treasurer.php",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax sale is held within 5 business days from the date of judgment.",
+      "sales": [
+        {
+          "date": "2026-11-30",
+          "time": "11:00 AM",
+          "label": "Annual Tax Sale",
+          "deposit": "not stated",
+          "registration_deadline": "Friday, November 13th, 2026 (last day to register for tax sale)",
+          "register_by": "2026-11-13",
+          "note": "Judgment is Wednesday, November 25, 2026 at 10:00 am; the delinquent list is published Friday, November 13, 2026. Sale location, registration fee and bidding method are not stated. The page does not mention a Public Act 104-0553 trustee election.",
+          "source_url": "https://www.dewittcountyil.gov/departments/treasurer.php",
+          "quote": "Monday, November 30th, 2026 @ 11:00am"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Complete the Tax Sale Registration form posted on the Treasurer's page; the last day to register is Friday, November 13, 2026. A tax buyer purchases the tax for the amount due, which includes the tax and accrued interest penalties; the owner then redeems from the buyer through the County Clerk's Office. Registration fee, bidding method and payment terms for buyers are not stated.",
+      "sources": [
+        {
+          "url": "https://www.dewittcountyil.gov/departments/treasurer.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer has no terms, disclaimer, privacy or copyright link, only office hours, the address, a 'Powered by revize' credit and a Login link. No reuse, commercial-use or automated-access clause found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dewittcountyil.gov/departments/treasurer.php",
+          "quote": "Friday, November 13th, 2026"
+        },
+        {
+          "url": "https://www.dewittcountyil.gov/departments/treasurer.php",
+          "quote": "A tax buyer will purchase the tax for the amount due,"
+        }
+      ]
     }
   ]
 }

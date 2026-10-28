@@ -667,6 +667,155 @@
           "quote": "Repository Sales are completed by submitting a bid in writing."
         }
       ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Washington County Tax Revenue Department (Tax Claim Bureau)",
+      "phone": "(724) 228-6700",
+      "address": "95 W. Beau St., Ste. 525, Washington, PA 15301",
+      "website": "https://www.washcopa.gov/tax-revenue/claims-repository-sale",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-03-17",
+          "time": "10:00 AM",
+          "label": "2027 Spring Repository Sale",
+          "registration_deadline": "Register in person at the Tax Claim Bureau (95 W. Beau St., Ste. 525), 9:00 AM to 4:00 PM, March 1 to March 5, 2027; all bidders must pre-register at least 10 days before the sale. $25.00 registration fee, cash only, plus Bidder Registry Form, photo ID and Affidavit of Bidder.",
+          "register_by": "2027-03-05",
+          "note": "Held at the Crossroads Building, Room G-16, Ground Floor, 95 W. Beau St., Washington, PA 15301.",
+          "source_url": "https://www.washcopa.gov/tax-revenue/claims-repository-sale",
+          "quote": "Date: Wednesday, March 17, 2027, 10:00 AM"
+        }
+      ],
+      "next_sale_note": "The 2026 Judicial Tax Sale was held June 24, 2026; no later judicial or upset sale date is posted.",
+      "how_to_bid": "In person. Pre-register at the Tax Claim Bureau during the posted registration window with the $25.00 cash registration fee, a Bidder Registry Form, a copy of a valid photo ID and an Affidavit of Bidder (plus an Affidavit of Non-Bidding Potential Owner if applicable). Businesses also provide IRS Form SS-4 and a list of members, officers and others with ownership. No notary on site. For the judicial sale the county also charges a $250.00 Demolition & Rehabilitation Fund premium per parcel sold. Rescinding a bid or disrupting the sale brings a permanent ban from county tax sales.",
+      "sources": [
+        {
+          "url": "https://www.washcopa.gov/tax-revenue/claims-repository-sale",
+          "read_on": "2026-10-28",
+          "terms": "Footer shows '© 2026 Washington County Pennsylvania. All rights reserved.' and links a Privacy Policy (no terms or disclaimer link). The Privacy Policy page has no general reuse or redistribution clause; its Social Media section says 'If users want to use a logo, a video, a document, etc., users need to get the County's written legal permission.'",
+          "terms_url": "https://www.washcopa.gov/privacy-policy"
+        },
+        {
+          "url": "https://www.washcopa.gov/tax-revenue/claims-judicial-sale",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.washcopa.gov/privacy-policy"
+        }
+      ]
+    },
+    {
+      "county": "Butler",
+      "slug": "butler",
+      "office": "Butler County Tax Claim Bureau",
+      "phone": "724-284-5326",
+      "address": "124 W Diamond Street, Butler, PA 16003 (mail: P.O. Box 1208, Butler, PA 16003)",
+      "website": "https://butlercountypa.gov/356",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The second Monday of September every year, the Bureau will conduct an Upset Sale",
+      "sales": [],
+      "next_sale_note": "No upcoming judicial or repository sale date is posted. The page links a 2026 Upset Tax Sale List and judicial sale lists through October 1, 2025.",
+      "how_to_bid": "A Bidder Registration Form is posted for the upset and judicial sales (time, place and deposit not stated on the page). At the upset sale the buyer takes on past-due taxes, liens and mortgages; judicial sale bidding starts at costs plus deed recording and transfer fees. Repository purchases are by bid form; the highest bid goes to the three taxing districts for approval.",
+      "sources": [
+        {
+          "url": "https://butlercountypa.gov/356",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Butler County, PA and its representatives. All rights reserved.' No reuse or redistribution clause. Footer has Copyright Notices and Privacy Policy links, no terms or disclaimer link.",
+          "terms_url": "https://butlercountypa.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://butlercountypa.gov/356",
+          "quote": "The second Monday of September every year, the Bureau will conduct an Upset Sale"
+        }
+      ]
+    },
+    {
+      "county": "Monroe",
+      "slug": "monroe",
+      "office": "Monroe County Tax Claim Bureau",
+      "phone": "(570) 517-3172",
+      "address": "Monroe County Administrative Building, One Quaker Plaza, Room 104, Stroudsburg, PA 18360",
+      "website": "https://www.monroecountypa.gov/Departments/Tax-Claim",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": {
+        "name": "Bid4Assets (repository sales)",
+        "url": "https://www.bid4assets.com/MonroePARepository"
+      },
+      "schedule_rule": "The Upset Sale is scheduled for each September",
+      "sales": [],
+      "next_sale_note": "No dated upset, judicial or repository sale is posted. The page says the Judicial Sale is held the following year for properties not sold at the upset sale.",
+      "how_to_bid": "Pre-registration is required for the upset and judicial sales (deadline, time, place and deposit not stated on the page). Repository sales are online through Bid4Assets.",
+      "sources": [
+        {
+          "url": "https://www.monroecountypa.gov/Departments/Tax-Claim",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer shows only '© 2026 Monroe County' and links to ADA, Courts and Site Map; no terms, disclaimer, privacy or copyright link.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.monroecountypa.gov/Departments/Tax-Claim",
+          "quote": "The Upset Sale is scheduled for each September"
+        }
+      ]
+    },
+    {
+      "county": "Beaver",
+      "slug": "beaver",
+      "office": "Beaver County Assessment / Tax Claim Office",
+      "phone": "724-770-4480",
+      "address": "Beaver County Courthouse, 810 Third Street, Beaver, PA 15009",
+      "website": "https://www.beavercountypa.gov/Departments/Assessment-Office",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-10",
+          "time": "10:00 AM ET (online)",
+          "label": "2026 Continued Upset Sale (online)",
+          "deposit": "not stated",
+          "registration_deadline": "Register on GovEase only; registration runs October 12th to October 30th, and bidders must pre-register at least 10 days before the sale with a valid U.S. driver's license or photo ID.",
+          "register_by": "2026-10-30",
+          "note": "The county page says the sale is held online at GovEase.",
+          "source_url": "https://www.beavercountypa.gov/Departments/Assessment-Office",
+          "quote": "Continued Upset Sale November 10th 2026"
+        }
+      ],
+      "next_sale_note": "The 2026 Continued Upset Sale is online on November 10, 2026; registration on GovEase closes October 30.",
+      "how_to_bid": "Online only through GovEase; registration is only on GovEase and requires a valid U.S. driver's license or photo ID, at least 10 days before the sale. The county says additional terms are at GovEase and posts Conditions of Sale and an Upset Sale List as PDFs (not read). Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.beavercountypa.gov/Departments/Assessment-Office",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer shows only '© 2026 Beaver County' with About Us and Bids and Proposals links; no terms, disclaimer, privacy or legal link.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.beavercountypa.gov/Departments/Assessment-Office",
+          "quote": "Registration for the Continued Upset Sale will start October 12th and end October 30th."
+        },
+        {
+          "url": "https://www.beavercountypa.gov/Departments/Assessment-Office",
+          "quote": "2026 Continued Upset Sale is Tuesday, November 10th at 10:00 a.m. EST."
+        }
+      ]
     }
   ]
 }

@@ -754,7 +754,6 @@ State overview: <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/element
 | Cherry Hill Township (Camden County) | <https://chnj.gov/193> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Cherry Hill, NJ and its representatives. All rights reserved.' No reuse or redistribution clause. Footer also links a Privacy Statement; no terms or disclaimer link. ([terms](https://chnj.gov/site/copyright)) |
 | Bayonne (Hudson County) | <https://www.bayonnenj.org/_Content/pdf/notices/2026-04-15-Tax-Sale-Notice.pdf> | 2026-10-28 | no terms page found: site footer shows only '© City of Bayonne, NJ. All Rights Reserved. Developed by AlphaDog Solutions.' with no terms, disclaimer, privacy or legal link. |
 | Bayonne (Hudson County) | <https://www.bayonnenj.org/News/View/11976/tax-sale-notice> | 2026-10-28 | Same site; see above. |
-| Gloucester Township (Camden County) | <https://glotwp.com/department/tax-office> | 2026-10-28 | no terms page found: footer shows only '© 2026 Gloucester Township' and a Legal Notices link; no terms, disclaimer or privacy link. |
 
 ## New Mexico
 

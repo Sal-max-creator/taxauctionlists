@@ -411,6 +411,64 @@
           "terms_url": "https://www.cliftonnj.org/disclaimer"
         }
       ]
+    },
+    {
+      "county": "Cherry Hill Township (Camden County)",
+      "slug": "cherry-hill-township-camden",
+      "office": "Tax Collector, Cherry Hill Township",
+      "phone": "856-488-7880",
+      "address": "820 Mercer Street, Room 108, Cherry Hill, NJ 08002",
+      "website": "https://chnj.gov/193",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The tax sale process begins as of the 11th day of the 11th month in the current fiscal year (May) and the sale must be completed by the end of the current fiscal year (June 30th).",
+      "sales": [],
+      "next_sale_note": "No 2027 date posted. The township runs on a July-to-June fiscal year, so its sale falls between May and June 30.",
+      "how_to_bid": "not stated. The page says payments during the tax sale process must be cash or cashier's check and that properties are advertised in the newspaper.",
+      "sources": [
+        {
+          "url": "https://chnj.gov/193",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Cherry Hill, NJ and its representatives. All rights reserved.' No reuse or redistribution clause. Footer also links a Privacy Statement; no terms or disclaimer link.",
+          "terms_url": "https://chnj.gov/site/copyright"
+        }
+      ]
+    },
+    {
+      "county": "Bayonne (Hudson County)",
+      "slug": "bayonne-hudson",
+      "office": "Office of the Tax Collector, City of Bayonne",
+      "phone": "not stated",
+      "address": "630 Avenue C, Bayonne, NJ 07002",
+      "website": "https://www.bayonnenj.org/News/View/11976/tax-sale-notice",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The city's 2026 notice set the sale for 'WEDNESDAY, APRIL 15, 2026' (passed), in the Tax Collector's office at 4:30 PM.",
+      "how_to_bid": "In person at the Office of the Tax Collector, 630 Avenue C. The 2026 notice says liens are sold subject to redemption at 18% per annum, payment must be made before the sale ends, in cash or certified check. Bidding method, deposit and registration not stated.",
+      "sources": [
+        {
+          "url": "https://www.bayonnenj.org/_Content/pdf/notices/2026-04-15-Tax-Sale-Notice.pdf",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: site footer shows only '© City of Bayonne, NJ. All Rights Reserved. Developed by AlphaDog Solutions.' with no terms, disclaimer, privacy or legal link.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.bayonnenj.org/News/View/11976/tax-sale-notice",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see above.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bayonnenj.org/_Content/pdf/notices/2026-04-15-Tax-Sale-Notice.pdf",
+          "quote": "WILL SELL AT A PRIVATE SALE on WEDNESDAY, APRIL 15, 2026"
+        }
+      ]
     }
   ]
 }

@@ -989,6 +989,162 @@
           "quote": "Bidding begins at two-thirds of the appraised value, unless otherwise directed by court order."
         }
       ]
+    },
+    {
+      "county": "Allen",
+      "slug": "allen",
+      "office": "Allen County Sheriff's Office (Sheriff's Sales)",
+      "phone": "(419) 227-3535",
+      "address": "333 N. Main St. Lima, Ohio 45802",
+      "website": "https://acso-oh.us/sheriff-sales/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Ohio sheriff sale auction site)",
+        "url": "https://allen.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": "On Wednesday at 11:00 a.m. Eastern Time (EST), the online auction will begin.",
+      "sales": [],
+      "next_sale_note": "No sale dates posted on the Sheriff's page. Tax sales are foreclosures filed by the Treasurer's Office; properties unsold after two attempts may go to forfeiture and an Auditor's Sale.",
+      "how_to_bid": "Register with RealAuction (including the Purchaser Information Form) and bid online on the county's sheriff sale site; auctions begin at 11:00 a.m. Eastern on Wednesdays. Deposits are $2,000 (appraised $1 to $10,000), $5,000 ($10,001 to $200,000) or $10,000 (over $200,000), by bank wire (due 5 p.m. two business days before) or ACH (due 4 p.m. five business days before); no cash. The balance is due at confirmation, which typically takes up to 30 days. Minimum bid is not stated.",
+      "sources": [
+        {
+          "url": "https://acso-oh.us/sheriff-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Footer reads 'ALL RIGHTS RESERVED | COPYRIGHT © Allen County Sheriff's Office'; no terms or disclaimer link. The linked Privacy Policy covers information collected from site users and has no reuse or redistribution clause. Copyright-only; restate facts only.",
+          "terms_url": "http://acso-oh.us/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://acso-oh.us/sheriff-sales/",
+          "quote": "Tax sales are foreclosures filed by the Treasurer's Office for delinquent taxes."
+        },
+        {
+          "url": "https://acso-oh.us/sheriff-sales/",
+          "quote": "All person(s) who want to bid on a property offered by the Allen County Sheriff's Office must register with Realauction."
+        }
+      ]
+    },
+    {
+      "county": "Richland",
+      "slug": "richland",
+      "office": "Richland County Sheriff's Office (Civil Section)",
+      "phone": "419-774-3570 (Civil Section); 419-524-2412 (general)",
+      "address": "597 Park Ave. East, Mansfield, OH 44905-2848",
+      "website": "https://www.richlandcountyoh.gov/departments/sheriff/sheriffsales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Foreclosure Sales, when held, are held on Friday mornings, excluding holidays, starting promptly at 10:00 A.M.",
+      "sales": [
+        {
+          "date": "2026-11-06",
+          "time": "10:00 AM, Sheriff's Office Training Room, 597 Park Ave E., Mansfield",
+          "label": "Tax foreclosure sale (Notice of Sale for Delinquent Land Tax)",
+          "deposit": "None stated; payment in full at the time of sale",
+          "registration_deadline": "not stated",
+          "list_url": "https://www.richlandcountyoh.gov/departments/sheriff/sheriffsales",
+          "list_note": "Sheriff's page lists 16 properties for this sale, none marked canceled when read; each notice states its minimum bid.",
+          "source_url": "https://www.richlandcountyoh.gov/departments/sheriff/sheriffsales",
+          "quote": "on Friday the 6th day of November, 2026"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "10:00 AM (per the posted tax foreclosure sale schedule rule)",
+          "label": "Tax foreclosure re-offer of parcels not sold on November 6",
+          "deposit": "None stated; payment in full at the time of sale",
+          "registration_deadline": "not stated",
+          "note": "Held only for parcels that did not receive a sufficient bid at the November 6 sale.",
+          "source_url": "https://www.richlandcountyoh.gov/departments/sheriff/sheriffsales",
+          "quote": "on Friday, the 20th day of November, 2026"
+        }
+      ],
+      "how_to_bid": "Tax foreclosure sales are held in person in the Sheriff's Office Training Room, 597 Park Ave E., Mansfield, at 10:00 A.M. on the posted Friday. Each property's notice sets a minimum bid, and successful bidders must pay in full at the time of sale. Withdrawals are read at the start of each sale. Bank foreclosure sales are separate and online only. Deposit and registration rules for tax sales are not stated.",
+      "sources": [
+        {
+          "url": "https://www.richlandcountyoh.gov/departments/sheriff/sheriffsales",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found (the page footer has only a 'Website By EvoGov' vendor credit, with no terms, disclaimer, privacy or copyright link or text).",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.richlandcountyoh.gov/departments/sheriff/sheriffsales",
+          "quote": "Successful bidders of tax foreclosure properties are required make payment in full at the time of sale."
+        },
+        {
+          "url": "https://www.richlandcountyoh.gov/departments/sheriff/sheriffsales",
+          "quote": "Bank Foreclosure Sales will no longer be conducted in person; they will only be conducted online."
+        }
+      ]
+    },
+    {
+      "county": "Wayne",
+      "slug": "wayne",
+      "office": "Wayne County Sheriff's Office",
+      "phone": "330-287-5766",
+      "address": "201 West North Street, Wooster, Ohio 44691",
+      "website": "https://waynecountysheriff.com/?p=271",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale dates posted on the Sheriff's About Sheriff Sales page.",
+      "how_to_bid": "Probate and tax sales are held in person in the Justice Center lobby and start at 10:00 A.M.; photo identification is required. All bids begin at 2/3 of the appraised value (no minimum on the second sale date). A deposit is due at the time of sale (amount not stated), and the final payment must be a cashier's or certified check, paid at the Sheriff's Office after the confirmation is filed and signed. Remote bids are limited to judgment creditors and lienholders. Foreclosure (non-tax) sales are online only.",
+      "sources": [
+        {
+          "url": "https://waynecountysheriff.com/?p=271",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found (neither the About Sheriff Sales page nor the Sheriff's home page shows a footer with terms, disclaimer, privacy or copyright text or links).",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://waynecountysheriff.com/?p=271",
+          "quote": "Sales start at 10:00 A.M."
+        },
+        {
+          "url": "https://waynecountysheriff.com/?p=271",
+          "quote": "All bids begin at 2/3 of the appraised value of the property."
+        },
+        {
+          "url": "https://waynecountysheriff.com/?p=271",
+          "quote": "The final payment for the sale MUST be in the form of a Cashier's Check or a Certified Check."
+        }
+      ]
+    },
+    {
+      "county": "Clark",
+      "slug": "clark",
+      "office": "Clark County Sheriff's Office (Sheriff Sales - Tax Sales)",
+      "phone": "937-521-2050 (Sheriff's Office); 937-521-2058 (weekly withdrawal list)",
+      "address": "120 North Fountain Avenue, Springfield, OH 45502",
+      "website": "https://clarkcountyohio.gov/235/Tax-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date is stated on the Tax Sales page. The county's Delinquent Tax Real Estate Sales List (PDF, marked updated Oct. 21st, 2026) could not be read as text; sales are advertised for three consecutive weeks in the Springfield News-Sun and posted in the Common Pleas Courthouse lobby.",
+      "how_to_bid": "Tax sales are held in person at the Clark County Commission Chambers, 5th floor of the Municipal Court Building. Bids begin at the minimum bid unless the court directs otherwise; the winning bidder pays the full amount plus 1.5% poundage at the end of the sale, in cash or by check. All sales are 'buyer beware'. The Sheriff prepares the deed after the Clerk's confirmation, about two to four weeks later. Deposit and registration rules are not stated. Other (non-tax) real estate sales are linked to the Ohio sheriff sale auction site.",
+      "sources": [
+        {
+          "url": "https://clarkcountyohio.gov/235/Tax-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Disclaimer page disclaims accuracy and liability and says site content is not an official record; it has no clause forbidding reuse, reproduction or redistribution (it mentions copying and distribution only in the liability waiver). Restate facts only.",
+          "terms_url": "https://clarkcountyohio.gov/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://clarkcountyohio.gov/235/Tax-Sales",
+          "quote": "Sales take place at Clark County Commission Chambers, 5th floor of the Municipal Court Building."
+        }
+      ]
     }
   ]
 }

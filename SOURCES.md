@@ -196,6 +196,11 @@ State overview: <https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/MunicipalTa
 | Bloomfield (town) | <https://bloomfieldct.gov/455> | 2026-10-27 | same as above ([terms](https://bloomfieldct.gov/copyright)) |
 | Bloomfield (town) | <https://bloomfieldct.gov/DocumentCenter/View/7316> | 2026-10-27 | same as above ([terms](https://bloomfieldct.gov/copyright)) |
 | Canton (town) | <https://www.townofcantonct.org/Tax-Sale> | 2026-10-27 | No disclaimer, terms or copyright link found in the page content. |
+| Hartford (city) | <https://www.hartfordct.gov/Government/Departments/Tax> | 2026-10-27 | No terms, disclaimer or privacy link in the footer; it shows only '© 2026 City of Hartford \| Powered by Granicus', and the Granicus link goes to the vendor's product page, not a EULA. No reuse restriction found. |
+| Hartford (city) | <https://www.hartfordct.gov/Government/Departments/Tax/Notices/Tax-Sale-6-26> | 2026-10-27 | same as above |
+| Norwalk (city) | <https://www.norwalkct.gov/1025/Tax-Sale-Information> | 2026-10-27 | Copyright Notices page says only 'All content © 2006-2026 City of Norwalk and its representatives. All rights reserved.' (CivicPlus site). No reuse or redistribution ban found. Restate facts only. ([terms](https://www.norwalkct.gov/site/copyright)) |
+| Norwalk (city) | <https://www.norwalkct.gov/225/Tax-Collector> | 2026-10-27 | same as above ([terms](https://www.norwalkct.gov/site/copyright)) |
+| Norwalk (city) | <https://www.norwalkct.gov/DocumentCenter/View/40461/Constructive-Notice-07_30_2026> | 2026-10-27 | same as above ([terms](https://www.norwalkct.gov/site/copyright)) |
 | Torrington (city) | <https://www.torringtonct.gov/411/Tax-Sales> | 2026-10-27 | Page says 'The information on this webpage and its contents are for general informational use only and are not legal advice.' Copyright page: 'All content © 2006-2026 Torrington, CT and its representatives. All rights reserved.' No reuse or redistribution ban found. Restate facts only. ([terms](https://www.torringtonct.gov/copyright)) |
 | Torrington (city) | <https://www.torringtonct.gov/DocumentCenter/View/731/Final-Legal-Notice-May-6-2025-PDF> | 2026-10-27 | same as above ([terms](https://www.torringtonct.gov/copyright)) |
 
@@ -305,6 +310,12 @@ State overview: <https://www.flsenate.gov/Laws/Statutes/2025/197.172>, <https://
 | Sumter | <https://www.sumterclerk.com/public-records/tax-deeds/> | 2026-10-27 | Privacy Policy: 'We make no warranty or guarantee regarding the accuracy or reliability of the content on this site.' Prohibits use in violation of law only. No clause restricting copying or reuse. ([terms](https://www.sumterclerk.com/privacy-policy/)) |
 | Sumter | <https://sumterclerk.com/tax-deed-faq> | 2026-10-27 | Privacy Policy: 'We make no warranty or guarantee regarding the accuracy or reliability of the content on this site.' Prohibits use in violation of law only. No clause restricting copying or reuse. ([terms](https://www.sumterclerk.com/privacy-policy/)) |
 | Sumter | <https://www.sumtertaxcollector.com/real.html> | 2026-10-27 | No terms, disclaimer or copyright text found on the Tax Collector page. No reuse restriction found. |
+| Nassau | <https://www.nassauclerk.com/190/2006/View-Tax-Deed-Sales> | 2026-10-27 | Copyright Notices page shows only 'All content © 2006-2026 Nassau County Clerk of Circuit Court and Comptroller, FL and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Copyright-only ('All rights reserved'); restate facts only. ([terms](https://www.nassauclerk.com/copyright)) |
+| Nassau | <https://taxdeeds.nassauclerk.com/> | 2026-10-27 | No footer or terms text on the tax deed list; Clerk site Copyright Notices apply (copyright-only, 'All rights reserved'). Page note: 'Opening Bids are subject to change if current property taxes are now due.' ([terms](https://www.nassauclerk.com/copyright)) |
+| Putnam | <https://putnamclerk.com/county-services/property-sales/tax-deed-sales/> | 2026-10-28 | Footer has only a Privacy Policy (which covers accuracy disclaimers, acceptable use and liability limits, with no clause on copying, reuse or redistribution) and '©2026 Putnam County Clerk of the Circuit Court & Comptroller. All rights reserved.' Copyright-only; no reuse restriction found. ([terms](https://putnamclerk.com/privacy-policy/)) |
+| Putnam | <https://apps.putnam-fl.com/coc/taxdeeds/public/disclaimer.php> | 2026-10-28 | Tax Deed Sale Disclaimer: as-is sale, no warranties; information 'should be considered as basic information only'. No reuse or redistribution clause. ([terms](https://apps.putnam-fl.com/coc/taxdeeds/public/disclaimer.php)) |
+| Columbia | <https://columbiaclerk.com/tax-deeds/> | 2026-10-28 | Footer has a Privacy Policy and '©2026 Columbia County, FL \| Clerk of Court & Comptroller.' The Privacy Policy says 'We make no warranty or guarantee regarding the accuracy or reliability of the content on this site.' and has no clause on copying, reuse or redistribution. No reuse restriction found. ([terms](https://columbiaclerk.com/privacy-policy/)) |
+| Columbia | <https://columbiaclerk.com/clerk-services/tax-deeds/upcoming-tax-deed-sales/> | 2026-10-28 | same as above ([terms](https://columbiaclerk.com/privacy-policy/)) |
 
 ## Georgia
 
@@ -339,6 +350,11 @@ State overview: <https://law.justia.com/codes/georgia/title-48/chapter-4/article
 | Clarke | <https://accgov.com/1719/Tax-Sales> | 2026-10-27 | Copyright Notices page shows only 'All content © 2006-2026 Athens-Clarke County, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Copyright-only ('All rights reserved'); restate facts only. ([terms](https://accgov.com/site/copyright)) |
 | Clarke | <https://www.accgov.com/DocumentCenter/View/15139/Online-Tax-Sale-List> | 2026-10-27 | same as above ([terms](https://accgov.com/site/copyright)) |
 | Columbia | <https://columbiacountyga.gov/186/Delinquent-Taxes> | 2026-10-27 | Copyright Notices page shows only 'All content © 2006-2026 Columbia County, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Copyright-only ('All rights reserved'); restate facts only. ([terms](https://columbiacountyga.gov/copyright)) |
+| Coweta | <https://www.cowetataxcom.com/resources/sites/cowetacountyga/docs/Coweta%20County%20Tax%20Sale%20Information.pdf> | 2026-10-27 | Site Terms & Conditions (vendor Government Window, LLC) cover online payments only; no clause on copying, reuse or redistribution of site content. Footer: '© Government Window, LLC. All Rights Reserved.' Copyright-only; restate facts only. ([terms](https://www.cowetataxcom.com/terms.html)) |
+| Coweta | <https://www.cowetataxcom.com/tax-sales.html> | 2026-10-28 | same as above ([terms](https://www.cowetataxcom.com/terms.html)) |
+| Lowndes | <https://www.lowndescounty.com/166/Delinquent-Tax> | 2026-10-27 | Copyright / Privacy page shows only 'All content © 2006-2026 Lowndes County, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Copyright-only ('All rights reserved'); restate facts only. ([terms](https://www.lowndescounty.com/site/copyright)) |
+| Newton | <https://newtoncountytax.com/property_tax/tax-sales/> | 2026-10-28 | No terms, privacy or legal link in the footer, only 'Copyright © 2025'. In-page disclaimer only says staff cannot give legal advice and recommends professional advice. No reuse restriction found. |
+| Newton | <https://newtoncountytax.com/tax-sale-listing> | 2026-10-28 | same as above |
 
 ## Hawaii
 
@@ -859,6 +875,10 @@ State overview: <https://codes.ohio.gov/orc/section-5721.19>, <https://codes.ohi
 | Licking | <https://apps.lickingcounty.gov/sheriff/foreclosures/> | 2026-10-27 | no terms page found (the Sheriff's foreclosures page and the Sheriff's main page have no disclaimer, terms, privacy or copyright link or text in their footers) |
 | Licking | <https://lickingcounty.gov/Sheriff> | 2026-10-27 | no terms page found (footer shows only the county logo and a 'Powered by Civica Software' credit) |
 | Fairfield | <https://sheriff.fairfield.oh.us/FC-Sheriff-Auction-Sales.html> | 2026-10-27 | Page footer: 'Information included in this site is believed to be accurate, but is not guaranteed.' and '© Fairfield County Ohio — All rights reserved.' (no link). The linked county Privacy Policy covers personal data only, with no reuse clause. Copyright-only ('All rights reserved'); restate facts only. ([terms](https://www.co.fairfield.oh.us/privacy-policy.html)) |
+| Allen | <https://acso-oh.us/sheriff-sales/> | 2026-10-28 | Footer reads 'ALL RIGHTS RESERVED \| COPYRIGHT © Allen County Sheriff's Office'; no terms or disclaimer link. The linked Privacy Policy covers information collected from site users and has no reuse or redistribution clause. Copyright-only; restate facts only. ([terms](http://acso-oh.us/privacy-policy/)) |
+| Richland | <https://www.richlandcountyoh.gov/departments/sheriff/sheriffsales> | 2026-10-28 | no terms page found (the page footer has only a 'Website By EvoGov' vendor credit, with no terms, disclaimer, privacy or copyright link or text). |
+| Wayne | <https://waynecountysheriff.com/?p=271> | 2026-10-28 | no terms page found (neither the About Sheriff Sales page nor the Sheriff's home page shows a footer with terms, disclaimer, privacy or copyright text or links). |
+| Clark | <https://clarkcountyohio.gov/235/Tax-Sales> | 2026-10-28 | Disclaimer page disclaims accuracy and liability and says site content is not an official record; it has no clause forbidding reuse, reproduction or redistribution (it mentions copying and distribution only in the liability waiver). Restate facts only. ([terms](https://clarkcountyohio.gov/disclaimer)) |
 
 ## Oklahoma
 
@@ -956,8 +976,13 @@ State overview: <https://webserver.rilegislature.gov/Statutes/TITLE44/44-9/44-9-
 
 | County | Source page | Read on | Reuse terms |
 |---|---|---|---|
+| Coventry (town) | <https://coventryri.gov/node/11209> | 2026-10-28 | No terms, disclaimer, copyright or privacy link in the footer (photo credits and site designer credit only). No reuse restriction found. |
+| Coventry (town) | <https://coventryri.gov/sites/coventryri.gov/files/attachments/Tax%20Sale%20rules%20of%20conduct%20for%20June%2017%202026.pdf> | 2026-10-28 | same as above |
 | East Providence (city) | <https://eastprovidenceri.gov/node/5303> | 2026-10-27 | No disclaimer, terms or privacy link in the footer (copyright notice and developer credit only). No reuse restriction found. |
 | East Providence (city) | <https://eastprovidenceri.gov/sites/default/files/field/files-docs/2026_tax_sale_advertisement_1.pdf> | 2026-10-27 | same as above |
+| Newport (city) | <https://www.newportri.gov/city-hall/departments/finance/tax-billing-and-collections> | 2026-10-28 | Privacy Statement says the site and 'its related pages, including their content, format, and imagery' 'are protected by the copyright laws of the United States.' Footer: '© 2025 City of Newport, RI. All Rights Reserved.' No reuse or redistribution ban found. Restate facts only. ([terms](https://www.newportri.gov/Privacy-Statement)) |
+| North Providence (town) | <https://northprovidenceri.gov/tax-collector/> | 2026-10-28 | No terms, disclaimer or privacy link in the footer; only '© 2026, Town of North Providence, Rhode Island USA, all rights reserved' and theme/WordPress credits. No reuse restriction found. |
+| North Providence (town) | <https://northprovidenceri.gov/pdf/taxcollector/2026-NP_Tax_Sale_List.pdf> | 2026-10-28 | same as above |
 | Pawtucket (city) | <https://pawtucketri.com/tax-collectors-office> | 2026-10-27 | No disclaimer, terms or privacy link in the footer. No reuse restriction found. |
 | Pawtucket (city) | <https://pawtucketri.gov/wp-content/uploads/2025/05/2025-Tax-Sale-Advertised-List.pdf> | 2026-10-27 | same as above |
 
@@ -1092,6 +1117,7 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 | Taylor | <https://taylor-cad.org/announcements/> | 2026-10-27 | No terms or disclaimer page found; footer reads '© 2024 Copyright Taylor Central Appraisal District - Official Site'. Restate facts only. |
 | Taylor | <https://taylor-cad.org/wp-content/uploads/2025/08/Tax-Sale-FAQs.pdf> | 2026-10-27 | not found (FAQ PDF) |
 | Wichita | <https://wichitacountysheriffsoffice.org/?p=143> | 2026-10-27 | No terms of use or disclaimer found; footer reads '© All Rights Reserved Wichita County'. No reuse or redistribution clause found. Restate facts only. |
+| Victoria | <https://www.victoriacountytx.gov/page/tax.office.tax.sale.properties> | 2026-10-27 | Copyright Notices page shows only 'All content © 2006-2026 Victoria County, TX and its representatives. All rights reserved.' (plus the CivicPlus CMS copyright). No reuse or redistribution clause found; footer has no separate terms or disclaimer link. Restate facts only. ([terms](https://www.victoriacountytx.gov/copyright)) |
 
 ## Utah
 

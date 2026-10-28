@@ -38,6 +38,45 @@
   ],
   "counties": [
     {
+      "county": "Coventry (town)",
+      "slug": "coventry",
+      "office": "Town of Coventry Tax Collector",
+      "phone": "(401) 822-9167",
+      "address": "Town Hall, 1670 Flat River Road, Coventry, RI 02816",
+      "website": "https://coventryri.gov/node/11209",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held June 17, 2026.",
+      "how_to_bid": "Based on the Town's rules of conduct for the June 17, 2026 sale: bidders registered ahead at the Tax Collector's office with a registration form (including picture ID), an Affidavit of Conformance and a W-9; registrants who did not complete the forms by the deadline were not issued a number. Paddles and numbered balls were picked up the morning of the sale, and the auctioneer drew numbers. Successful bidders paid the full price in cash or check, payable to Coventry Tax Collector, right after the sale. Location and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://coventryri.gov/node/11209",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, copyright or privacy link in the footer (photo credits and site designer credit only). No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://coventryri.gov/sites/coventryri.gov/files/attachments/Tax%20Sale%20rules%20of%20conduct%20for%20June%2017%202026.pdf",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://coventryri.gov/sites/coventryri.gov/files/attachments/Tax%20Sale%20rules%20of%20conduct%20for%20June%2017%202026.pdf",
+          "quote": "Paddles & corresponding numbered ball, can be picked up June 17, 2026 between 8:30am and 9:30am"
+        },
+        {
+          "url": "https://coventryri.gov/sites/coventryri.gov/files/attachments/Tax%20Sale%20rules%20of%20conduct%20for%20June%2017%202026.pdf",
+          "quote": "All successful bidders must pay the sale price in cash or check immediately after the conclusion of the tax sale."
+        }
+      ]
+    },
+    {
       "county": "East Providence (city)",
       "slug": "east-providence",
       "office": "City of East Providence Tax Collector (Treasury Division, Finance Department)",
@@ -77,6 +116,82 @@
         {
           "url": "https://eastprovidenceri.gov/node/5303",
           "quote": "Supervises and conducts annual tax sales process."
+        }
+      ]
+    },
+    {
+      "county": "Newport (city)",
+      "slug": "newport",
+      "office": "City of Newport Collections Office (Finance Department)",
+      "phone": "(401) 845-5401",
+      "address": "43 Broadway, First Floor, Newport, RI 02840",
+      "website": "https://www.newportri.gov/city-hall/departments/finance/tax-billing-and-collections",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "generally during the month of August.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The City holds one annual tax sale, generally in August.",
+      "how_to_bid": "Per the City's Tax Billing and Collections page: one annual sale for delinquent real property taxes, held under Chapter 9 of the Rhode Island General Laws; successful bidders receive a Tax Collector's Deed, recorded in the Office of Land Evidence. Time, place, registration and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.newportri.gov/city-hall/departments/finance/tax-billing-and-collections",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Statement says the site and 'its related pages, including their content, format, and imagery' 'are protected by the copyright laws of the United States.' Footer: '© 2025 City of Newport, RI. All Rights Reserved.' No reuse or redistribution ban found. Restate facts only.",
+          "terms_url": "https://www.newportri.gov/Privacy-Statement"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.newportri.gov/city-hall/departments/finance/tax-billing-and-collections",
+          "quote": "The City of Newport holds one annual Tax Lien Sale for delinquent taxes on real properties"
+        },
+        {
+          "url": "https://www.newportri.gov/city-hall/departments/finance/tax-billing-and-collections",
+          "quote": "Successful bidders at the sale will be issued a Tax Collector's Deed,"
+        }
+      ]
+    },
+    {
+      "county": "North Providence (town)",
+      "slug": "north-providence",
+      "office": "Town of North Providence Tax Collector",
+      "phone": "(401) 232-0900 ext. 1295",
+      "address": "North Providence Town Hall, 2000 Smith St., North Providence, RI 02911",
+      "website": "https://northprovidenceri.gov/tax-collector/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Next sale date not set: the Tax Collector's page says the next tax sale is TBD. The 2026 sale was held May 1, 2026.",
+      "how_to_bid": "Per the Tax Collector's page and the 2026 notice: a public auction to the highest bidder at North Providence Town Hall, 2000 Smith Street, at 10:00 AM in the Town Council Chambers; terms were cash or bank check only. Bidders register with the Town's Auction Registration Form and a W-9, and the page says not to sign the forms because they must be notarized. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://northprovidenceri.gov/tax-collector/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; only '© 2026, Town of North Providence, Rhode Island USA, all rights reserved' and theme/WordPress credits. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://northprovidenceri.gov/pdf/taxcollector/2026-NP_Tax_Sale_List.pdf",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://northprovidenceri.gov/tax-collector/",
+          "quote": "The next Tax Sale will be TBD @ 10.00 am in the Town Council Chambers."
+        },
+        {
+          "url": "https://northprovidenceri.gov/pdf/taxcollector/2026-NP_Tax_Sale_List.pdf",
+          "quote": "Town Hall located at 2000 Smith Street, North Providence, on the 1st of May, 2026 at 10:00 A.M. Local Time,"
+        },
+        {
+          "url": "https://northprovidenceri.gov/pdf/taxcollector/2026-NP_Tax_Sale_List.pdf",
+          "quote": "TERMS: CASH OR BANK CHECK ONLY"
         }
       ]
     },

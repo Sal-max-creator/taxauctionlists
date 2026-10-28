@@ -111,6 +111,106 @@
       ]
     },
     {
+      "county": "Hartford (city)",
+      "slug": "hartford",
+      "office": "City of Hartford Office of the Tax Collector",
+      "phone": "860-757-9630",
+      "address": "Hartford City Hall, 550 Main Street, 1st Floor, Room 106, Hartford, CT 06103",
+      "website": "https://www.hartfordct.gov/Government/Departments/Tax",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-06",
+          "time": "10:00 AM, Hartford Public Library Downtown Library, 500 Main St (Travelers Center for Arts & Culture)",
+          "label": "Tax sale (public auction)",
+          "deposit": "not stated for this sale",
+          "registration_deadline": "not stated",
+          "list_url": "https://www.hartfordct.gov/files/assets/public/v/2/tds-5-list-for-web.docx",
+          "list_note": "The City links the list of properties as a Word file from its Tax Collector page.",
+          "source_url": "https://www.hartfordct.gov/Government/Departments/Tax",
+          "quote": "on November 6, 2026, at 10:00am at the Hartford Public Library’s Downtown Library"
+        }
+      ],
+      "next_sale_note": "The Tax Collector’s page announces a tax sale on November 6, 2026 at 10:00 AM at the Hartford Public Library’s Downtown Library, 500 Main St.",
+      "how_to_bid": "Based on the City's notice for its June 26, 2023 sale: a public auction; registration opened at 9:00 AM; bidders brought a $5,000 deposit per property in certified funds payable to Pullman & Comley, Trustee, and paid the balance within five days or forfeited the deposit; bidders had to be current on their own City property taxes. Terms for the November 2026 sale: not stated on the pages read.",
+      "sources": [
+        {
+          "url": "https://www.hartfordct.gov/Government/Departments/Tax",
+          "read_on": "2026-10-27",
+          "terms": "No terms, disclaimer or privacy link in the footer; it shows only '© 2026 City of Hartford | Powered by Granicus', and the Granicus link goes to the vendor's product page, not a EULA. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.hartfordct.gov/Government/Departments/Tax/Notices/Tax-Sale-6-26",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hartfordct.gov/Government/Departments/Tax",
+          "quote": "The City of Hartford is preparing to conduct a Tax Sale"
+        },
+        {
+          "url": "https://www.hartfordct.gov/Government/Departments/Tax/Notices/Tax-Sale-6-26",
+          "quote": "The public auction will take place on Monday, June 26th, 2023 at 9 AM at Dunkin' Park, 1214 Main Street, Hartford CT."
+        }
+      ]
+    },
+    {
+      "county": "Norwalk (city)",
+      "slug": "norwalk",
+      "office": "City of Norwalk Tax Collector",
+      "phone": "(203) 854-7731",
+      "address": "125 East Ave., Room 105, Norwalk, CT 06851-5125",
+      "website": "https://www.norwalkct.gov/1025/Tax-Sale-Information",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The 2026 sale was held August 24, 2026; its redemption period expires February 24, 2027.",
+      "how_to_bid": "Not stated on the City's pages. An information packet explaining the tax sale and bidding process is sold at the Tax Collector's Office at City Hall for $25, and bidding restrictions apply to certain City of Norwalk employees and officials. Time, place, deposit and registration: not stated.",
+      "sources": [
+        {
+          "url": "https://www.norwalkct.gov/1025/Tax-Sale-Information",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page says only 'All content © 2006-2026 City of Norwalk and its representatives. All rights reserved.' (CivicPlus site). No reuse or redistribution ban found. Restate facts only.",
+          "terms_url": "https://www.norwalkct.gov/site/copyright"
+        },
+        {
+          "url": "https://www.norwalkct.gov/225/Tax-Collector",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.norwalkct.gov/site/copyright"
+        },
+        {
+          "url": "https://www.norwalkct.gov/DocumentCenter/View/40461/Constructive-Notice-07_30_2026",
+          "read_on": "2026-10-27",
+          "terms": "same as above",
+          "terms_url": "https://www.norwalkct.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.norwalkct.gov/225/Tax-Collector",
+          "quote": "Our tax sale was held on Monday, August 24, 2026."
+        },
+        {
+          "url": "https://www.norwalkct.gov/225/Tax-Collector",
+          "quote": "The REDEMPTION PERIOD EXPIRES on WEDNESDAY, FEBRUARY 24, 2027."
+        },
+        {
+          "url": "https://www.norwalkct.gov/DocumentCenter/View/40461/Constructive-Notice-07_30_2026",
+          "quote": "a Sale of Land for Taxes to be held Monday, August 24, 2026, as detailed herein."
+        }
+      ]
+    },
+    {
       "county": "Torrington (city)",
       "slug": "torrington",
       "office": "City of Torrington Tax Collector's Office",

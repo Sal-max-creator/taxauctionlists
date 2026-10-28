@@ -1815,6 +1815,139 @@
           "quote": "On or before June 1st, the Tax Collector must conduct a tax certificate sale on each unpaid parcel of property."
         }
       ]
+    },
+    {
+      "county": "Nassau",
+      "slug": "nassau",
+      "office": "Nassau County Clerk of Circuit Court and Comptroller (tax deeds)",
+      "phone": "Yulee Office 904-548-4600; Fernandina Beach Office 904-491-6430",
+      "address": "Yulee Office (Full Service): 76347 Veterans Way, Yulee, FL 32097. Fernandina Beach Office: 416 Centre Street, Fernandina Beach, FL 32034",
+      "website": "https://www.nassauclerk.com/190/2006/View-Tax-Deed-Sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://nassau.realtaxdeed.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "not stated",
+          "label": "Tax deed sale (online)",
+          "note": "Date shown for pending cases on the Clerk's tax deed list; listed properties may be redeemed before the sale (one later case, dated 2026-11-17, already shows as redeemed). Opening bids are subject to change if current property taxes are now due.",
+          "list_url": "https://taxdeeds.nassauclerk.com/",
+          "source_url": "https://taxdeeds.nassauclerk.com/",
+          "quote": "11/03/2026"
+        }
+      ],
+      "next_sale_note": "Sale dates come from the Clerk's tax deed list, which shows a sale date per case; later dates are added as cases are set for sale.",
+      "how_to_bid": "Bid on the Clerk's Official Tax Deed Sale website (RealTaxDeed). The Clerk warns that tax deed law is complicated and recommends a title search and an attorney before bidding; the winning bidder takes title subject to all defects, liens and encumbrances, and the Clerk does not guarantee clear title. Sale time, deposit, payment and registration are not stated on the Clerk's pages we read.",
+      "sources": [
+        {
+          "url": "https://www.nassauclerk.com/190/2006/View-Tax-Deed-Sales",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2026 Nassau County Clerk of Circuit Court and Comptroller, FL and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Copyright-only ('All rights reserved'); restate facts only.",
+          "terms_url": "https://www.nassauclerk.com/copyright"
+        },
+        {
+          "url": "https://taxdeeds.nassauclerk.com/",
+          "read_on": "2026-10-27",
+          "terms": "No footer or terms text on the tax deed list; Clerk site Copyright Notices apply (copyright-only, 'All rights reserved'). Page note: 'Opening Bids are subject to change if current property taxes are now due.'",
+          "terms_url": "https://www.nassauclerk.com/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nassauclerk.com/190/2006/View-Tax-Deed-Sales",
+          "quote": "The Clerk's Office does not guarantee a clear title and is not responsible for any encumbrances."
+        },
+        {
+          "url": "https://taxdeeds.nassauclerk.com/",
+          "quote": "Opening Bids are subject to change if current property taxes are now due."
+        }
+      ]
+    },
+    {
+      "county": "Putnam",
+      "slug": "putnam",
+      "office": "Putnam County Clerk of the Circuit Court & Comptroller - Tax Deeds",
+      "phone": "(386) 326-7600",
+      "address": "Tax Deeds office: 107 N. 6th St, Palatka, FL 32177. Mailing: P.O. Box 758, Palatka, FL 32178",
+      "website": "https://putnamclerk.com/county-services/property-sales/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://putnam.realtaxdeed.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale dates are posted on the Clerk's Tax Deed Sales page; it links to the Clerk's tax deed property list, which could not be read (the site's robots rules block automated reading). Check the list or call the Clerk.",
+      "how_to_bid": "Bid online at putnam.realtaxdeed.com. Place a deposit of $200 or 5% of your maximum bid, whichever is greater, in your bidder account; bidder deposits must reach the Clerk's Office by 5:00 PM on the Monday before the sale. Deposits can be made online, by wire transfer or in person at the Tax Deeds office (in person: certified funds only, meaning cash, money order or cashier's check). Properties are sold 'as is', buyer beware; a tax deed does not guarantee clear or marketable title.",
+      "sources": [
+        {
+          "url": "https://putnamclerk.com/county-services/property-sales/tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Footer has only a Privacy Policy (which covers accuracy disclaimers, acceptable use and liability limits, with no clause on copying, reuse or redistribution) and '©2026 Putnam County Clerk of the Circuit Court & Comptroller. All rights reserved.' Copyright-only; no reuse restriction found.",
+          "terms_url": "https://putnamclerk.com/privacy-policy/"
+        },
+        {
+          "url": "https://apps.putnam-fl.com/coc/taxdeeds/public/disclaimer.php",
+          "read_on": "2026-10-28",
+          "terms": "Tax Deed Sale Disclaimer: as-is sale, no warranties; information 'should be considered as basic information only'. No reuse or redistribution clause.",
+          "terms_url": "https://apps.putnam-fl.com/coc/taxdeeds/public/disclaimer.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://putnamclerk.com/county-services/property-sales/tax-deed-sales/",
+          "quote": "You will need to place a deposit of $200 or 5% of your maximum bid, whichever is greater, in your bidder account."
+        },
+        {
+          "url": "https://apps.putnam-fl.com/coc/taxdeeds/public/disclaimer.php",
+          "quote": "Any property that is the subject of a Tax Deed Sale is sold on an \"AS IS\" basis"
+        }
+      ]
+    },
+    {
+      "county": "Columbia",
+      "slug": "columbia",
+      "office": "Columbia County Clerk of Court & Comptroller - Tax Deeds",
+      "phone": "(386) 758-1342",
+      "address": "Columbia County Courthouse, 173 NE Hernando Avenue, Lake City, FL 32055 (sales on the third floor)",
+      "website": "https://columbiaclerk.com/tax-deeds/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale scheduled: the Clerk's Upcoming Tax Deed Sales page says there are no properties on the list of tax deeds at this time.",
+      "how_to_bid": "Sales are held in person on the third floor of the Columbia County Courthouse, 173 NE Hernando Avenue, Lake City. Sale time, deposit, payment and registration are not stated on the Clerk's pages we read; call (386) 758-1342 (Monday to Friday, 8:00 AM to 5:00 PM).",
+      "sources": [
+        {
+          "url": "https://columbiaclerk.com/tax-deeds/",
+          "read_on": "2026-10-28",
+          "terms": "Footer has a Privacy Policy and '©2026 Columbia County, FL | Clerk of Court & Comptroller.' The Privacy Policy says 'We make no warranty or guarantee regarding the accuracy or reliability of the content on this site.' and has no clause on copying, reuse or redistribution. No reuse restriction found.",
+          "terms_url": "https://columbiaclerk.com/privacy-policy/"
+        },
+        {
+          "url": "https://columbiaclerk.com/clerk-services/tax-deeds/upcoming-tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://columbiaclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://columbiaclerk.com/tax-deeds/",
+          "quote": "All sales are held on the third floor of the Columbia County Courthouse"
+        },
+        {
+          "url": "https://columbiaclerk.com/clerk-services/tax-deeds/upcoming-tax-deed-sales/",
+          "quote": "There are no properties on the list of tax deeds at this time."
+        }
+      ]
     }
   ]
 }

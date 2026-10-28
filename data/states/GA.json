@@ -699,6 +699,127 @@
           "quote": "Our office will coordinate a tax sale every month if needed."
         }
       ]
+    },
+    {
+      "county": "Coweta",
+      "slug": "coweta",
+      "office": "Coweta County Tax Commissioner (Ex-Officio Sheriff)",
+      "phone": "770-254-2670",
+      "address": "87 Newnan Station Drive, Ste 100, Newnan, GA 30265 (also the tax sale location since 2023)",
+      "website": "https://www.cowetataxcom.com/tax-sales.html",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Our tax sale is held on the first Tuesday of the month(typically in August and September)",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted. The latest tax sale list on the Tax Commissioner's site is for August 2026, which has passed; sales are typically held in August and September.",
+      "how_to_bid": "Bidders are required to pre-register: the Tax Commissioner's Office takes registration forms the week before the sale until 5 pm on Friday (by email to taxsaleregistration@coweta.ga.us); late registrants may bring the form to the sale between 9:00 and 9:45 a.m. Sales are held at 87 Newnan Station Drive, Newnan, anytime between 10 a.m. and 4 p.m.; if the first Tuesday is a legal holiday the sale moves to Wednesday. The opening bid is the amount owed plus penalties, interest, fees and costs, and the property goes to the highest bidder. Full payment is due at the conclusion of the sale in cash, certified check, cashier's check, personal check or money order. The owner may redeem within twelve months after the sale with a 20% premium for the first year (10% for each additional year).",
+      "sources": [
+        {
+          "url": "https://www.cowetataxcom.com/resources/sites/cowetacountyga/docs/Coweta%20County%20Tax%20Sale%20Information.pdf",
+          "read_on": "2026-10-27",
+          "terms": "Site Terms & Conditions (vendor Government Window, LLC) cover online payments only; no clause on copying, reuse or redistribution of site content. Footer: '© Government Window, LLC. All Rights Reserved.' Copyright-only; restate facts only.",
+          "terms_url": "https://www.cowetataxcom.com/terms.html"
+        },
+        {
+          "url": "https://www.cowetataxcom.com/tax-sales.html",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.cowetataxcom.com/terms.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cowetataxcom.com/resources/sites/cowetacountyga/docs/Coweta%20County%20Tax%20Sale%20Information.pdf",
+          "quote": "BIDDERS ARE REQUIRED TO PRE-REGISTER."
+        },
+        {
+          "url": "https://www.cowetataxcom.com/resources/sites/cowetacountyga/docs/Coweta%20County%20Tax%20Sale%20Information.pdf",
+          "quote": "We require payment in full upon conclusion of the tax sale."
+        },
+        {
+          "url": "https://www.cowetataxcom.com/resources/sites/cowetacountyga/docs/Coweta%20County%20Tax%20Sale%20Information.pdf",
+          "quote": "STARTING IN 2023, OUR TAX SALES WILL BE HELD AT 87 NEWNAN STATION DRIVE, NEWNAN, GA 30265."
+        }
+      ]
+    },
+    {
+      "county": "Lowndes",
+      "slug": "lowndes",
+      "office": "Lowndes County Tax Commissioner, Delinquent Tax",
+      "phone": "229-671-2400",
+      "address": "P.O. Box 1349, Valdosta, GA 31603 (mailing); sales held on the courthouse steps in Valdosta",
+      "website": "https://www.lowndescounty.com/166/Delinquent-Tax",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Sales are held on the first Tuesday of the month.",
+      "sales": [],
+      "next_sale_note": "No specific sale date posted on the Delinquent Tax page; the office holds a sale each month when needed and advertises it in the Friday edition of The Valdosta Daily Times legal ads.",
+      "how_to_bid": "Attend in person on the courthouse steps in Valdosta. The sale is an auction starting with a bid of the amount of taxes owed. Sale time, payment and registration are not stated on the page we read; call 229-671-2400.",
+      "sources": [
+        {
+          "url": "https://www.lowndescounty.com/166/Delinquent-Tax",
+          "read_on": "2026-10-27",
+          "terms": "Copyright / Privacy page shows only 'All content © 2006-2026 Lowndes County, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Copyright-only ('All rights reserved'); restate facts only.",
+          "terms_url": "https://www.lowndescounty.com/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lowndescounty.com/166/Delinquent-Tax",
+          "quote": "The format of the sale is an auction type setting starting with a bid of the amount of taxes owed."
+        }
+      ]
+    },
+    {
+      "county": "Newton",
+      "slug": "newton",
+      "office": "Newton County Tax Commissioner",
+      "phone": "not stated on the tax sales page",
+      "address": "1113 Usher St NE, Suite 101, Covington, GA 30014 (also offices at 3612 Salem Rd and 5341 Hwy 20 S, Covington)",
+      "website": "https://newtoncountytax.com/property_tax/tax-sales/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held on the first Tuesday of each month (for months in which a tax sale is planned), at 10 AM.",
+      "sales": [
+        {
+          "date": "2026-11-03",
+          "time": "10:00 AM",
+          "label": "Tax sale",
+          "note": "Date from the heading of the Tax Commissioner's current tax sale listing; time from the stated schedule. Location not stated on the listing; the tax sales page says the date, time and location are posted there when a sale is set.",
+          "list_url": "https://newtoncountytax.com/tax-sale-listing",
+          "source_url": "https://newtoncountytax.com/tax-sale-listing",
+          "quote": "November 3rd, 2026 Tax Sale List"
+        }
+      ],
+      "next_sale_note": "Later sale dates are posted on the Tax Commissioner's tax sales page and listing when a sale is planned.",
+      "how_to_bid": "Bidders or a representative must be present; mail, phone or faxed bids are not accepted. Arrive early to fill out a bidder registration form before the sale. The opening bid is the tax due plus penalties and all other applicable fees, and the Sheriff's Tax Deed (not the property) goes to the highest bidder. Payment in full is due by 3 PM on the day of the sale in certified funds only (cash, cashier's check or money order). The listing is also published in the Covington News legals.",
+      "sources": [
+        {
+          "url": "https://newtoncountytax.com/property_tax/tax-sales/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, privacy or legal link in the footer, only 'Copyright © 2025'. In-page disclaimer only says staff cannot give legal advice and recommends professional advice. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://newtoncountytax.com/tax-sale-listing",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://newtoncountytax.com/property_tax/tax-sales/",
+          "quote": "Payment is due in full by 3 PM on the day of the tax sale."
+        },
+        {
+          "url": "https://newtoncountytax.com/property_tax/tax-sales/",
+          "quote": "Mail, phone or faxed bids are not acceptable."
+        }
+      ]
     }
   ]
 }

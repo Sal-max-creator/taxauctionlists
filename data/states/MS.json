@@ -500,6 +500,47 @@
           "quote": "No lists of property to be sold will be provided by this office."
         }
       ]
+    },
+    {
+      "county": "Clay",
+      "slug": "clay",
+      "office": "Clay County (Real Estate Taxes page; office not named on the page)",
+      "phone": "not stated",
+      "address": "Clay County Courthouse (street address not stated on the page)",
+      "website": "https://www.claycountyms.com/?p=232",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The last Monday of August each year.",
+      "sales": [],
+      "next_sale_note": "No dated 2027 sale posted; the county page gives only the standing rule (last Monday of August, 9:00 a.m., courthouse courtroom).",
+      "how_to_bid": "The sale is held in person in the upstairs courtroom of the Courthouse, beginning at 9:00 a.m. until all parcels are sold. You or a representative must be present; there is no over-the-counter, phone or fax purchasing. Registration runs from the week before the sale until the last day of the sale, with no fee; a current photo ID and Social Security Number are required. Parcels are advertised in The Daily Times Leader on the two Wednesdays before the sale. The owner has 2 years from the purchase date to redeem; the page states interest of 1.5% per month on the lien amount (not on overbids). Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.claycountyms.com/?p=232",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found; no terms, disclaimer, privacy or legal link on the page or footer. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.claycountyms.com/?p=232",
+          "quote": "Begins at 9:00am until all parcels have been sold."
+        },
+        {
+          "url": "https://www.claycountyms.com/?p=232",
+          "quote": "The sale is held in the courtroom upstairs in the Courthouse."
+        },
+        {
+          "url": "https://www.claycountyms.com/?p=232",
+          "quote": "We start registering the week before the sale until the last day of the sale."
+        },
+        {
+          "url": "https://www.claycountyms.com/?p=232",
+          "quote": "There are no over-the-counter, phone, or fax purchasing."
+        }
+      ]
     }
   ]
 }

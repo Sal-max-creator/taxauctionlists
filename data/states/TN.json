@@ -876,6 +876,79 @@
           "quote": "The redemption period begins to run from the date of entry of the Decree Confirming Sale"
         }
       ]
+    },
+    {
+      "county": "Lawrence",
+      "slug": "lawrence",
+      "office": "Lawrence County Clerk & Master's Office",
+      "phone": "931-766-4157",
+      "address": "Lawrence County Courthouse, second floor (street address not stated on the sale page)",
+      "website": "https://lawrencecountytn.gov/?p=9486",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted. The county's August 2026 notice announced an online GovEase sale of properties delinquent for 2023 and prior taxes on September 15, 2026 (past), with bidder registration open August 15 through September 4.",
+      "how_to_bid": "Bidders register on GovEase and bid online; bids, including pre-bids the day before the sale, are entered on GovEase, where bidders can view and download their results. The county points bidders to GovEase's online bidder training. Bidding questions go to GovEase (769-208-5050). Deposit: not stated. Taxes owed are paid at the Clerk & Master's Office, which accepts only cash or certified funds.",
+      "sources": [
+        {
+          "url": "https://lawrencecountytn.gov/?p=9486",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found; footer has only '© 2026 Lawrence County, TN. All Rights Reserved.' and a web-designer credit (no terms, disclaimer, privacy or legal link). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lawrencecountytn.gov/?p=9486",
+          "quote": "Bidders must register at www.govease.com to participate in the auction."
+        }
+      ]
+    },
+    {
+      "county": "Claiborne",
+      "slug": "claiborne",
+      "office": "Claiborne County Chancery Court (Clerk & Master's Office)",
+      "phone": "423-626-3284",
+      "address": "1740 Main St. #201, Tazewell, TN 37879 (mail: P.O. Box 180, Tazewell, TN 37879)",
+      "website": "https://claibornecountytn.gov/?p=303",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The sale date is set by the Delinquent Tax Attorney for the County, but not more frequently that once a year.",
+      "sales": [],
+      "next_sale_note": "No sale date posted; the Clerk & Master's page lists a 'Yearly Delinquent Tax Sale (As announced)' and says the list is published in the newspaper 30 to 45 days before the sale.",
+      "how_to_bid": "The sale is a public auction at the Courthouse. All bidders must appear in person and register as a bidder before the sale. Payment is due the day of the sale by check, cashier's check or personal check. Deposit: not stated. Bidders are responsible for researching the property. The page says the owner has 1 year from the Chancery Court's confirmation of the sale to redeem; if redeemed, the buyer gets the bid amount plus 10% per annum and is reimbursed for additional taxes paid at purchase.",
+      "sources": [
+        {
+          "url": "https://claibornecountytn.gov/?p=303",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found; footer links only to Facebook, 'Get In Touch' and 'Online Services' (no terms, disclaimer, privacy or legal link). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://claibornecountytn.gov/?p=303",
+          "quote": "The sale is a public auction, held at the Courthouse"
+        },
+        {
+          "url": "https://claibornecountytn.gov/?p=303",
+          "quote": "all bidders must appear in person and register as a bidder prior to the sale."
+        },
+        {
+          "url": "https://claibornecountytn.gov/?p=303",
+          "quote": "Yes, payment is required the day of the sale, either by check, cashier's check or personal check."
+        },
+        {
+          "url": "https://claibornecountytn.gov/?p=303",
+          "quote": "A list will be published in the (newspaper) 30 to 45 days prior to the sale."
+        }
+      ]
     }
   ]
 }

@@ -160,6 +160,12 @@ State overview: <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https
 | Columbia | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
 | Polk | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page: 'The documents and materials displayed on the web sites are for information purposes only.' and 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' Footer '© 2026 - Commissioner of State Lands \| All rights reserved.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
 | Polk | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Miller | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page: 'The documents and materials displayed on the web sites are for information purposes only.' and 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
+| Miller | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Hot Spring | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page: 'The documents and materials displayed on the web sites are for information purposes only.' and 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
+| Hot Spring | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Cleburne | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page: 'The documents and materials displayed on the web sites are for information purposes only.' and 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
+| Cleburne | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
 
 ## California
 
@@ -437,6 +443,11 @@ State overview: <https://law.justia.com/codes/georgia/title-48/chapter-4/article
 | Cherokee | <https://www.cherokeecountytax.com/property.html> | 2026-10-28 | Footer links Terms & Conditions from Government Window, LLC (the payment vendor). They cover online payments, fees and warranty disclaimers; the only data clause says user payment records will not be used, released or sold to third parties. No restriction on reuse of site content or on automated access found. Footer: '© Government Window, LLC. All Rights Reserved.' ([terms](https://www.cherokeecountytax.com/terms.html)) |
 | Greene | <https://www.greenecountyga.gov/791/Delinquent-Property-Tax-Sale> | 2026-10-28 | Footer has no terms, privacy, legal or copyright link; it shows ADA Compliance, Archived Documents and a 'Government Websites by CivicPlus' referral link. The page's own Disclaimer says the Tax Commissioner cannot provide legal advice and all tax sales are bidder beware. No restriction on reuse found. |
 | Bulloch | <https://bullochcounty.net/tax-sales/> | 2026-10-28 | Footer shows only 'Copyright © 2024 · BullochCounty.net, Bulloch County GA' and a 'Davis Marketing Company' web-design credit; no terms, disclaimer, privacy or legal link found. No restriction on reuse found. |
+| Oglethorpe | <https://www.oglethorpecountyga.gov/copy-of-tc-mt-property-tax-returns> | 2026-10-28 | The county site's footer shows no terms, disclaimer, privacy, legal or copyright link (only Human Trafficking Notice, Open Records Request and E-Verify links); no terms page found. No restriction on reuse found. |
+| Bryan | <https://www.bryancountyga.gov/government/departments-h-z/tax-commissioner/tax-sale-information> | 2026-10-28 | The county page footer shows no terms, disclaimer, privacy, legal or copyright link (only file-viewer download labels); no terms page found. No restriction on reuse found. |
+| Tift | <https://www.tiftcounty.org/government/tax_commissioner/delinquent_tax_sales_information_quick_facts.php> | 2026-10-28 | The county site's footer (Revize CMS) shows no terms, disclaimer, privacy, legal or copyright link; no terms page found. No restriction on reuse found. |
+| Tift | <https://www.tiftcounty.org/government/tax_commissioner/2026_tax_sale.php> | 2026-10-28 | The county site's footer (Revize CMS) shows no terms, disclaimer, privacy, legal or copyright link; no terms page found. No restriction on reuse found. |
+| Tift | <https://www.tiftcounty.org/government/tax_commissioner/index.php> | 2026-10-28 | The county site's footer (Revize CMS) shows no terms, disclaimer, privacy, legal or copyright link; no terms page found. No restriction on reuse found. |
 
 ## Hawaii
 
@@ -598,6 +609,9 @@ State overview: <https://www.legis.iowa.gov/docs/code/2025/446.7.pdf>, <https://
 | Jackson | <https://jacksoncounty.iowa.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Jackson County' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found. |
 | Jackson | <https://jacksoncounty.iowa.gov/files/treasurer/tax_sale_terms_and_conditions_2026_76497.pdf> | 2026-10-28 | County 2026 tax sale terms and conditions (no owner names or parcel list). Same site terms as above. |
 | Iowa | <https://iowacounty.iowa.gov/treasurer/tax_sale> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Iowa County' (Title VI documents and a Neapolitan Labs vendor link). No reuse clause found. |
+| Webster | <https://www.webstercountyia.gov/departments/treasurer/tax_sale_2018.php> | 2026-10-28 | no terms page found: the Treasurer pages' footer has no terms, disclaimer, legal or privacy link, only '© Webster County, IA' and a 'Powered by revize' vendor link. No reuse clause found. ([terms](https://www.webstercountyia.gov/departments/treasurer/)) |
+| Webster | <https://www.webstercountyia.gov/Departments/Treasurer/2026%20Webster%20Notice%20to%20Tax%20Sale%20Purchaser.pdf> | 2026-10-28 | County's 2026 notice to tax sale purchasers (rules only; no property list or owner names). Same site terms as above. |
+| Des Moines | <https://desmoinescounty.iowa.gov/treasurer/tax_department/> | 2026-10-28 | no terms page found: footer has no terms, disclaimer, legal or privacy link, only '©2026 Des Moines County, Iowa' and a Neapolitan Labs vendor link. No reuse clause found. |
 
 ## Kansas
 
@@ -820,6 +834,7 @@ State overview: <https://desotocountyms.gov/508/Tax-Sale>, <https://desotocounty
 | Warren | <https://co.warren.ms.us/purchasing-real-property/> | 2026-10-27 | Footer links only to a Privacy Policy (https://warrencountyms.gov/privacy-policy/), which covers personal data and says nothing on reuse; no terms or disclaimer page. Copyright-only footer: '© 2026 Warren County'. No reuse restriction found. ([terms](https://warrencountyms.gov/privacy-policy/)) |
 | Lauderdale | <https://www.lauderdalecounty.org/?p=7866> | 2026-10-28 | No terms, disclaimer or privacy link in the footer. Copyright-only footer: 'Copyright © 2023. All rights reserved.' No reuse restriction found. |
 | Itawamba | <https://itawamba.gov/?p=954> | 2026-10-28 | Footer links only to a Privacy Policy (read: covers personal data, cookies and analytics; says nothing on copying, reuse or automated access). Copyright footer: '© Copyright 2024-2026 Itawamba County, Mississippi \| All Rights Reserved'. No reuse restriction found. ([terms](https://itawamba.gov/privacy-policy/)) |
+| Clay | <https://www.claycountyms.com/?p=232> | 2026-10-28 | no terms page found; no terms, disclaimer, privacy or legal link on the page or footer. No reuse restriction found. |
 
 ## Missouri
 
@@ -1044,6 +1059,8 @@ State overview: <https://www.ncleg.gov/enactedlegislation/statutes/html/bysectio
 | Rowan | <https://www.rowancountync.gov/212/Foreclosures> | 2026-10-28 | Public Rules & Disclaimer page covers public records law and comment moderation on county pages; it says nothing about reuse, redistribution, commercial use or automated access of site content. Footer also has a Copyright Notices link (not read separately). ([terms](https://www.rowancountync.gov/1459/Public-Rules-Disclaimer)) |
 | Haywood | <https://haywoodcountync.gov/337/Tax-Foreclosures> | 2026-10-28 | Footer links only Site Map, Accessibility and Copyright Notices (no terms, disclaimer or privacy link). The Copyright Notices page says only: All content © 2006-2026 Haywood County, NC and its representatives. All rights reserved. It says nothing about reuse, redistribution, commercial use or automated access. ([terms](https://haywoodcountync.gov/site/copyright)) |
 | Haywood | <https://haywoodcountync.gov/274/Tax-Collections> | 2026-10-28 | Footer links only Site Map, Accessibility and Copyright Notices (no terms, disclaimer or privacy link). The Copyright Notices page says only: All content © 2006-2026 Haywood County, NC and its representatives. All rights reserved. It says nothing about reuse, redistribution, commercial use or automated access. ([terms](https://haywoodcountync.gov/site/copyright)) |
+| Carteret | <https://www.carteretcountync.gov/1149/Tax-Foreclosure-Sales> | 2026-10-28 | Footer links Accessibility, Copyright Notices, Privacy Policy and Site Map (no terms or disclaimer page; the page has an inline accuracy disclaimer). The Copyright Notices page says only: All content © 2006-2013 City / County / Hospital and its representatives. All rights reserved. Copyright only; nothing about reuse, redistribution, commercial use or automated access. ([terms](https://www.carteretcountync.gov/copyright)) |
+| Hoke | <https://www.hokecounty.net/490/Foreclosure-Sales> | 2026-10-28 | Footer links only Home, Employee Access, Site Feedback, Site Map and Accessibility (no terms, disclaimer or privacy link). The site's Copyright Notices page says only: All content © 2006-2026 Hoke County, NC and its representatives. All rights reserved. Copyright only; nothing about reuse, redistribution, commercial use or automated access. ([terms](https://www.hokecounty.net/copyright)) |
 
 ## North Dakota
 
@@ -1365,6 +1382,8 @@ State overview: <https://www.ctas.tennessee.edu/eli/delinquent-tax-suit>, <https
 | Loudon | <https://www.loudoncountychancery.com/tax_sale_active.html> | 2026-10-28 | no terms page found; footer reads only 'Loudon County, Tennessee Clerk & Master of Chancery Court' with no terms, disclaimer or copyright link. ([terms](https://www.loudoncountychancery.com/tax_sale_active.html)) |
 | Sullivan | <https://sullivantnchancery.com/delinquent-tax-sales/> | 2026-10-28 | no terms page found; footer has only site navigation, a Public Records Policy PDF (about records requests) and 'Proudly powered by WordPress'. In-page disclaimer says the information should not be relied upon as legal advice. No reuse restriction found. |
 | Sullivan | <https://sullivantnchancery.com/location/> | 2026-10-28 | Same site; no terms page found. |
+| Lawrence | <https://lawrencecountytn.gov/?p=9486> | 2026-10-28 | no terms page found; footer has only '© 2026 Lawrence County, TN. All Rights Reserved.' and a web-designer credit (no terms, disclaimer, privacy or legal link). No reuse restriction found. |
+| Claiborne | <https://claibornecountytn.gov/?p=303> | 2026-10-28 | no terms page found; footer links only to Facebook, 'Get In Touch' and 'Online Services' (no terms, disclaimer, privacy or legal link). No reuse restriction found. |
 
 ## Texas
 
@@ -1567,6 +1586,7 @@ State overview: <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <htt
 | Manitowoc | <https://manitowoccountywi.gov/wp-content/uploads/2026/10/Class-1-2nd-Round-Web-Notice-10.12.26.pdf> | 2026-10-28 | Public Works sale notice linked from the county page. Same terms as above. |
 | St. Croix | <https://sccwi.gov/586/Tax-Deed-Information> | 2026-10-28 | Privacy & Legal Notices page read: data is used at your own risk and users should not alter screenshots or images of the county's web content; no ban on reuse, redistribution, commercial use or automated access. Restate facts only. ([terms](https://www.sccwi.gov/124/Privacy-Legal-Notices)) |
 | St. Croix | <https://sccwi.gov/708/Tax-Deed-Property> | 2026-10-28 | County tax-deed property listing page. Same terms as above. |
+| Waupaca | <https://www.waupacacounty-wi.gov/Treasurer/How%20to%20Bid.pdf> | 2026-10-28 | Privacy Policy read: it covers only how the county collects and protects visitor data and has no clause on copying, reuse, redistribution or automated access; footer has no terms, disclaimer or legal link, only '© Copyright 2026 Waupaca County'. ([terms](https://www.waupacacounty-wi.gov/privacy_policy/index.php)) |
 
 ## Wyoming
 

@@ -422,6 +422,39 @@
           "quote": "Full payment is due within 30 days of the bid award."
         }
       ]
+    },
+    {
+      "county": "Waupaca",
+      "slug": "waupaca",
+      "office": "Waupaca County Treasurer",
+      "phone": "(715) 258-6220",
+      "address": "811 Harding St, Waupaca, WI 54981",
+      "website": "https://www.waupacacounty-wi.gov/Treasurer/How%20to%20Bid.pdf",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted. Each sale of in rem tax foreclosure property is announced by a Class 3 notice published for three consecutive weeks in the county's official newspaper; that notice gives the bid deadline and the date, time and place of the bid opening.",
+      "how_to_bid": "Sealed bids, per the county's undated How to Bid sheet: mail or deliver your bid in an envelope marked 'Sealed Land Bid' and the parcel number so it is received by the Waupaca County Clerk, 811 Harding Street, Waupaca, by the deadline in the sale notice. Include a certified check, money order or cashier's check for at least 10% of the bid as earnest money, payable to the Waupaca County Treasurer. The Treasurer opens the bids in public. Minimum bid and payment deadline: not stated. Questions: Treasurer's office, (715) 258-6220, Monday to Friday 8:00 AM to 4:00 PM.",
+      "sources": [
+        {
+          "url": "https://www.waupacacounty-wi.gov/Treasurer/How%20to%20Bid.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy read: it covers only how the county collects and protects visitor data and has no clause on copying, reuse, redistribution or automated access; footer has no terms, disclaimer or legal link, only '© Copyright 2026 Waupaca County'.",
+          "terms_url": "https://www.waupacacounty-wi.gov/privacy_policy/index.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.waupacacounty-wi.gov/Treasurer/How%20to%20Bid.pdf",
+          "quote": "The Sale of In Rem Tax Foreclosure Property is published by a Class 3 notice."
+        },
+        {
+          "url": "https://www.waupacacounty-wi.gov/Treasurer/How%20to%20Bid.pdf",
+          "quote": "a minimum amount of ten percent (10%) of the bid amount as earnest money"
+        }
+      ]
     }
   ]
 }

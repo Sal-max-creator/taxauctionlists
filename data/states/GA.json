@@ -1244,6 +1244,145 @@
           "quote": "Payment must be made within one hour after sale ends."
         }
       ]
+    },
+    {
+      "county": "Oglethorpe",
+      "slug": "oglethorpe",
+      "office": "Oglethorpe County Tax Commissioner",
+      "phone": "not stated on the tax sales page",
+      "address": "Tax Commissioner's office: 339 West Main Street, Lexington, GA. Sales at the Oglethorpe County Courthouse, 111 W Main St., Lexington, GA 30648",
+      "website": "https://www.oglethorpecountyga.gov/copy-of-tc-mt-property-tax-returns",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "on the first Tuesday of the month immediately following the final week of advertising",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted on the county's tax sales page. Properties scheduled for sale are advertised in the Wednesday edition of the Oglethorpe Echo, legal section, for four consecutive weeks before the sale.",
+      "how_to_bid": "Sales are held at 10:00 a.m. at the Oglethorpe County Courthouse, 111 W Main St., Lexington. The successful bidder must pay the bid amount in cash or certified funds to the Tax Commissioner's office (339 West Main Street, Lexington) within 1 hour after the sale ends. Bids are binding under O.C.G.A. 9-13-170. The county does not guarantee title; the purchaser has no use of the property or rents for at least one year; caveat emptor applies. Owners may redeem within 12 months. Registration and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.oglethorpecountyga.gov/copy-of-tc-mt-property-tax-returns",
+          "read_on": "2026-10-28",
+          "terms": "The county site's footer shows no terms, disclaimer, privacy, legal or copyright link (only Human Trafficking Notice, Open Records Request and E-Verify links); no terms page found. No restriction on reuse found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.oglethorpecountyga.gov/copy-of-tc-mt-property-tax-returns",
+          "quote": "on the first Tuesday of the month immediately following the final week of advertising"
+        },
+        {
+          "url": "https://www.oglethorpecountyga.gov/copy-of-tc-mt-property-tax-returns",
+          "quote": "The successful bidder must be ready to pay the bid amount in CASH OR CERTIFIED FUNDS to the Tax Commissioners office"
+        },
+        {
+          "url": "https://www.oglethorpecountyga.gov/copy-of-tc-mt-property-tax-returns",
+          "quote": "Tax Sales bids are binding in accordance with O.C.G.A. 9-13-170."
+        },
+        {
+          "url": "https://www.oglethorpecountyga.gov/copy-of-tc-mt-property-tax-returns",
+          "quote": "Properties scheduled for sale are advertised in the Wednesday edition of the Oglethorpe Echo"
+        }
+      ]
+    },
+    {
+      "county": "Bryan",
+      "slug": "bryan",
+      "office": "Bryan County Tax Commissioner",
+      "phone": "912-653-3880",
+      "address": "P.O. Box 447, Pembroke, GA 31321. Sales on the front steps of the Bryan County Courthouse, Pembroke",
+      "website": "https://www.bryancountyga.gov/government/departments-h-z/tax-commissioner/tax-sale-information",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "They are held the first Tuesday of the month between the legal hours of 10:00 a.m. and 4:00 p.m.",
+      "sales": [],
+      "next_sale_note": "The county page still names August 4, 2026 (now past) as the next sale. Bryan County holds one sale a year with no set month, and posts the sale list about 4 to 6 weeks before the sale. 2027 date not yet posted.",
+      "how_to_bid": "Public auction to the highest bidder on the front steps of the Bryan County Courthouse in Pembroke, between 10:00 a.m. and 4:00 p.m. You must be present to bid. The high bidder has one hour to pay in cash, certified check or cashier's check; unpaid property may be re-offered at 2:00 p.m. that day or 10:00 a.m. the next day. Buyer beware, sold as is. The Tax Commissioner does not sell tax fi. fas. to third parties. Registration and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.bryancountyga.gov/government/departments-h-z/tax-commissioner/tax-sale-information",
+          "read_on": "2026-10-28",
+          "terms": "The county page footer shows no terms, disclaimer, privacy, legal or copyright link (only file-viewer download labels); no terms page found. No restriction on reuse found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bryancountyga.gov/government/departments-h-z/tax-commissioner/tax-sale-information",
+          "quote": "They are held the first Tuesday of the month between the legal hours of 10:00 a.m. and 4:00 p.m."
+        },
+        {
+          "url": "https://www.bryancountyga.gov/government/departments-h-z/tax-commissioner/tax-sale-information",
+          "quote": "these sales are held once a year; unfortunately, there is no set month that we hold these sales"
+        },
+        {
+          "url": "https://www.bryancountyga.gov/government/departments-h-z/tax-commissioner/tax-sale-information",
+          "quote": "You must be present to bid on the property."
+        },
+        {
+          "url": "https://www.bryancountyga.gov/government/departments-h-z/tax-commissioner/tax-sale-information",
+          "quote": "the highest bidder has one hour to produce the money in the form of cash, certified check or cashier's check."
+        },
+        {
+          "url": "https://www.bryancountyga.gov/government/departments-h-z/tax-commissioner/tax-sale-information",
+          "quote": "It is the policy of the Bryan County Tax Commissioner not to sell Tax FiFas (certificates) to any third party."
+        }
+      ]
+    },
+    {
+      "county": "Tift",
+      "slug": "tift",
+      "office": "Tift County Tax Commissioner",
+      "phone": "(229) 386-7820",
+      "address": "225 Tift Avenue, Room 106, Tifton, GA 31794 (mailing: P.O. Box 930, Tifton, GA 31793)",
+      "website": "https://www.tiftcounty.org/government/tax_commissioner/index.php",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted. The county's 2026 Tax Sale page gives no date in its text and links only an earlier 2026 real property sale advertisement.",
+      "how_to_bid": "Sales are public auctions. The opening bid includes all taxes, penalties and costs; once the Levy Officer recognizes a bid it is binding. Payment in cash, money order or certified check; the time to pay is set on the day of the sale. Buyer beware: see the property before you bid. The purchaser may not take possession for twelve months; after twelve months the purchaser may foreclose the right of redemption. Sale location, time, registration and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.tiftcounty.org/government/tax_commissioner/delinquent_tax_sales_information_quick_facts.php",
+          "read_on": "2026-10-28",
+          "terms": "The county site's footer (Revize CMS) shows no terms, disclaimer, privacy, legal or copyright link; no terms page found. No restriction on reuse found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.tiftcounty.org/government/tax_commissioner/2026_tax_sale.php",
+          "read_on": "2026-10-28",
+          "terms": "The county site's footer (Revize CMS) shows no terms, disclaimer, privacy, legal or copyright link; no terms page found. No restriction on reuse found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.tiftcounty.org/government/tax_commissioner/index.php",
+          "read_on": "2026-10-28",
+          "terms": "The county site's footer (Revize CMS) shows no terms, disclaimer, privacy, legal or copyright link; no terms page found. No restriction on reuse found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tiftcounty.org/government/tax_commissioner/delinquent_tax_sales_information_quick_facts.php",
+          "quote": "Tax sales will be conducted in the manner of public auction."
+        },
+        {
+          "url": "https://www.tiftcounty.org/government/tax_commissioner/delinquent_tax_sales_information_quick_facts.php",
+          "quote": "The form of payment must be cash, money order or certified check."
+        },
+        {
+          "url": "https://www.tiftcounty.org/government/tax_commissioner/delinquent_tax_sales_information_quick_facts.php",
+          "quote": "The time to remit payment will be determined the day of the sale."
+        },
+        {
+          "url": "https://www.tiftcounty.org/government/tax_commissioner/delinquent_tax_sales_information_quick_facts.php",
+          "quote": "The opening bid will include all applicable taxes, penalties and costs."
+        }
+      ]
     }
   ]
 }

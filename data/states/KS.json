@@ -444,6 +444,43 @@
           "quote": "Montgomery County will hold its annual Tax Sale on Tuesday, October 6, 2026, at Memorial Hall in Independence, Kansas."
         }
       ]
+    },
+    {
+      "county": "Cowley",
+      "slug": "cowley",
+      "office": "Cowley County Treasurer's Office",
+      "phone": "620-221-5412",
+      "address": "321 E 10th Ave, Winfield, KS",
+      "website": "https://www.cowleycountyks.gov/352/Tax-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Next date not yet posted. The county's most recent sale was October 22, 2026 (past). The page says notice is published about 30 days before the next sale.",
+      "how_to_bid": "Pre-registration is strongly recommended by phone or at the Treasurer's Office. On sale day, bidding numbers are handed out and a bidding affidavit must be signed between 8:30 a.m. and 9:50 a.m.; no numbers are assigned after 9:50 a.m. Bidders must say whom they bid for, and anyone responsible for delinquent tax is not eligible (K.S.A. 79-2812). Minimum bid $50. Payment on the sale date by cash, money order or certified check payable to the Cowley County Treasurer, plus a minimum $21 recording fee per purchase. Sale location and deposit: not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.cowleycountyks.gov/352/Tax-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Footer links Copyright Notices and Privacy Policy; the Copyright Notices page showed only the footer text 'All content © 2006-2026 Cowley County, KS and its representatives. All rights reserved.' No reuse, redistribution or automation restriction found.",
+          "terms_url": "https://www.cowleycountyks.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cowleycountyks.gov/352/Tax-Sales",
+          "quote": "October 22nd 2026 Tax Sale information"
+        },
+        {
+          "url": "https://www.cowleycountyks.gov/352/Tax-Sales",
+          "quote": "Approximately 30 days before the next tax sale, notice of the sale will be published."
+        },
+        {
+          "url": "https://www.cowleycountyks.gov/352/Tax-Sales",
+          "quote": "The minimum bid will be $50.00 (Fifty Dollars)."
+        }
+      ]
     }
   ]
 }

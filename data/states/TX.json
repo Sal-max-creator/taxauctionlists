@@ -1496,6 +1496,43 @@
           "quote": "PAYMENT MUST BE EITHER CASHIER’S CHECK OR MONEY ORDER."
         }
       ]
+    },
+    {
+      "county": "Victoria",
+      "slug": "victoria",
+      "office": "Victoria County Tax Assessor-Collector",
+      "phone": "361-575-4558 (Victoria County contact block on the Tax Sale Properties page)",
+      "address": "115 N. Bridge Street, Victoria TX. 77901",
+      "website": "https://www.victoriacountytx.gov/page/tax.office.tax.sale.properties",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "SheriffSaleAuctions (Victoria County Online Auctions)",
+        "url": "https://victoria.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": "First Tuesday of every month at 10 am, unless there is a holiday, then the following business day.",
+      "recurs": "monthly",
+      "sales": [],
+      "next_sale_note": "No specific sale dates are posted on the county page; properties are listed on the online auction site and on the county's delinquent tax attorney's tax sale map.",
+      "how_to_bid": "Register for the county's online auctions on the Victoria County Online Auctions site and bid there. Sales run at 10 am on the first Tuesday of the month (the following business day after a holiday). Linebarger Goggan Blair and Sampson, LLP assists the county with delinquent tax collection and tax sale properties. Location, deposit, payment terms and registration deadline are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.victoriacountytx.gov/page/tax.office.tax.sale.properties",
+          "read_on": "2026-10-27",
+          "terms": "Copyright Notices page shows only 'All content © 2006-2026 Victoria County, TX and its representatives. All rights reserved.' (plus the CivicPlus CMS copyright). No reuse or redistribution clause found; footer has no separate terms or disclaimer link. Restate facts only.",
+          "terms_url": "https://www.victoriacountytx.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.victoriacountytx.gov/page/tax.office.tax.sale.properties",
+          "quote": "First Tuesday of every month at 10 am, unless there is a holiday, then the following business day."
+        },
+        {
+          "url": "https://www.victoriacountytx.gov/page/tax.office.tax.sale.properties",
+          "quote": "Linebarger Goggan Blair and Sampson, LLP assists the county in the collection of delinquent taxes and tax sale properties."
+        }
+      ]
     }
   ]
 }

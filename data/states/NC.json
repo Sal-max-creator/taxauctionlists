@@ -966,6 +966,88 @@
           "quote": "Any upset bids must be made in person at the Hoke County Clerk of Superior Court."
         }
       ]
+    },
+    {
+      "county": "Halifax",
+      "slug": "halifax",
+      "office": "Halifax County Legal Department (tax foreclosure sales by the commissioner of the sale)",
+      "phone": "252-583-3612",
+      "address": "Historic Courthouse, North King Street, Halifax, NC 27839 (mail: P.O. Box 38). Sales are held in the lower lobby of the Halifax County Courthouse.",
+      "website": "https://www.halifaxnc.com/205/Tax-Foreclosures",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale notice posted now; the county says notices are posted on its Tax Foreclosures page for every scheduled sale.",
+      "how_to_bid": "Be present at the date and time given in the sale notice, in the lower lobby of the Halifax County Courthouse (the usual place for public sales). All bids are subject to a 10-day upset bid period. Deposit, payment terms and registration: not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.halifaxnc.com/205/Tax-Foreclosures",
+          "read_on": "2026-10-28",
+          "terms": "Footer has no terms, disclaimer or privacy link (Accessibility, Copyright Notices, Site Map, CivicPlus credit). The Copyright Notices page says only: All content © 2006-2026 Halifax County, NC and its representatives. All rights reserved. (plus a CivicPlus CMS copyright line). Copyright only; nothing about reuse, redistribution, personal or commercial use.",
+          "terms_url": "https://www.halifaxnc.com/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.halifaxnc.com/205/Tax-Foreclosures",
+          "quote": "Notices will be posted on this website for all tax foreclosure sales that have been scheduled."
+        },
+        {
+          "url": "https://www.halifaxnc.com/205/Tax-Foreclosures",
+          "quote": "held at the usual place designated for public sales in the lower lobby of the Halifax County Courthouse"
+        },
+        {
+          "url": "https://www.halifaxnc.com/205/Tax-Foreclosures",
+          "quote": "All interested persons should be present on the date and time specified in the notice in order to bid"
+        },
+        {
+          "url": "https://www.halifaxnc.com/205/Tax-Foreclosures",
+          "quote": "All bids are subject to a 10-day upset bid period."
+        }
+      ]
+    },
+    {
+      "county": "Surry",
+      "slug": "surry",
+      "office": "Surry County Tax Department (foreclosures handled by private attorneys)",
+      "phone": "(336) 401-8100",
+      "address": "114 W. Atkins Street, P.O. Box 1467, Dobson, NC 27017",
+      "website": "https://www.co.surry.nc.us/departments/(k_through_z)/tax/property_tax_foreclosures.php",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date on the county's Property Tax Foreclosures page; it points to a separate Foreclosure Properties List, and the status of each property is with the court file or the attorney handling the sale.",
+      "how_to_bid": "A 20% deposit is due at the time of sale, and the upset bid period is 10 calendar days from the sale. Bidders must check the court file and/or the attorney handling the sale for each property's status. Sale place, time, format and registration: not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.co.surry.nc.us/departments/(k_through_z)/tax/property_tax_foreclosures.php",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found (footer checked): footer shows '© 2026 | Surry County, North Carolina' as text plus the Revize credit and Login link; no terms, disclaimer, privacy or legal link. Copyright only; no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.surry.nc.us/departments/(k_through_z)/tax/property_tax_foreclosures.php",
+          "quote": "20% DEPOSIT DUE AT TIME OF SALE"
+        },
+        {
+          "url": "https://www.co.surry.nc.us/departments/(k_through_z)/tax/property_tax_foreclosures.php",
+          "quote": "UPSET BID PERIOD IS 10 CALENDAR DAYS FROM SALE"
+        },
+        {
+          "url": "https://www.co.surry.nc.us/departments/(k_through_z)/tax/property_tax_foreclosures.php",
+          "quote": "For the status of any property, the bidder is required to check the court file and/or with the attorney handling the sale."
+        },
+        {
+          "url": "https://www.co.surry.nc.us/departments/(k_through_z)/tax/property_tax_foreclosures.php",
+          "quote": "FOR MORE INFORMATION, PLEASE CALL (336) 401-8100."
+        }
+      ]
     }
   ]
 }

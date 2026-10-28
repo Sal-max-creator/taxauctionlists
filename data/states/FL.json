@@ -2543,6 +2543,88 @@
           "quote": "You or a representative must be physically present at the sale to bid on the property."
         }
       ]
+    },
+    {
+      "county": "DeSoto",
+      "slug": "desoto",
+      "office": "DeSoto County Clerk of the Circuit Court - Tax Deed Department",
+      "phone": "(863) 993-4876",
+      "address": "115 East Oak St., Room 101, Arcadia, Florida 34266",
+      "website": "https://www.desotoclerk.com/clerk-services/tax-deeds/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted on the clerk's tax deed page; it gives the start time and registration rules only. The page also says there are no properties on the list of lands available at this time.",
+      "how_to_bid": "Sales are held in person inside the building (enter on the east side) and start at 11:00 AM. Bidders should arrive by 10:30 AM to register, must bring 5% of their highest bid in order to register, and must complete the Bidder Information Sheet to bid. The page says all sales on November 1st or later include 2026 property taxes. Payment deadline and online bidding: not stated.",
+      "sources": [
+        {
+          "url": "https://www.desotoclerk.com/clerk-services/tax-deeds/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Policy, Accessibility Policy, sitemap and the site vendor (KMA); no separate terms or disclaimer link. The Privacy Policy page also holds terms of use: the site 'is for informational purposes only', users agree 'to use this service only for its lawful, intended purposes', and prohibited uses cover false information, impersonation, interference and security violations. No restriction on reproduction, redistribution, commercial use or automated access found. Footer: '© 2026 DeSoto County Clerk of the Circuit Court' (copyright notice only).",
+          "terms_url": "https://www.desotoclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.desotoclerk.com/clerk-services/tax-deeds/",
+          "quote": "All sales start at 11:00 AM."
+        },
+        {
+          "url": "https://www.desotoclerk.com/clerk-services/tax-deeds/",
+          "quote": "Please be here by 10:30 AM to register."
+        },
+        {
+          "url": "https://www.desotoclerk.com/clerk-services/tax-deeds/",
+          "quote": "In order to register, you must bring 5% of your highest bid."
+        },
+        {
+          "url": "https://www.desotoclerk.com/clerk-services/tax-deeds/",
+          "quote": "To bid on a property, the Bidder Information Sheet must be completed."
+        },
+        {
+          "url": "https://www.desotoclerk.com/clerk-services/tax-deeds/",
+          "quote": "There are no properties on the list of lands available at this time."
+        }
+      ]
+    },
+    {
+      "county": "Jefferson",
+      "slug": "jefferson",
+      "office": "Jefferson County Clerk of the Circuit Court & Comptroller - Tax Deed Sales",
+      "phone": "(850) 342-0218",
+      "address": "1 Courthouse Circle, Monticello, Florida 32344",
+      "website": "https://www.jeffersonclerk.com/clerk-services/property-sales/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale was readable on the clerk's tax deed page; its Upcoming Tax Deed Sales section showed no dates. The page says sales are advertised in the Monticello News once a week for four consecutive weeks.",
+      "how_to_bid": "Bidding is in person: you or your representative must be physically present, arriving a few minutes before 11:00 AM. If full payment is not made at the sale, the winning bidder must post a nonrefundable deposit of 5% or $200.00, whichever is greater, and full payment is due within twenty-four (24) hours. If full payment is not received, the property is re-advertised for the next scheduled sale. Registration and online bidding: not stated. Tax certificate questions go to the Tax Collector's Office at (850) 342-0147.",
+      "sources": [
+        {
+          "url": "https://www.jeffersonclerk.com/clerk-services/property-sales/tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Policy, Accessibility Policy, sitemap, office directory and the site vendor (KMA); no terms of use or separate disclaimer link. The Privacy Policy covers personal data only (e-mails 'will not be sold or given to private companies for marketing purposes') and sets no restriction on reuse, commercial use or automated access. Footer: '©2026 Jefferson County Clerk of the Circuit Court & Comptroller.' (copyright notice only).",
+          "terms_url": "https://www.jeffersonclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.jeffersonclerk.com/clerk-services/property-sales/tax-deed-sales/",
+          "quote": "To participate in the bidding process, one must arrive a few minutes before 11:00 AM."
+        },
+        {
+          "url": "https://www.jeffersonclerk.com/clerk-services/property-sales/tax-deed-sales/",
+          "quote": "You or your representative must be physically present at the sale to bid on the property."
+        },
+        {
+          "url": "https://www.jeffersonclerk.com/clerk-services/property-sales/tax-deed-sales/",
+          "quote": "The tax deed sales are advertised in “Monticello News” once a week for four consecutive weeks."
+        }
+      ]
     }
   ]
 }

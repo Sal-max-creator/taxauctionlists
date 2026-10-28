@@ -774,6 +774,121 @@
           "quote": "Steeple Event and Conference Center, 701 Macon Ave, Canon City, CO."
         }
       ]
+    },
+    {
+      "county": "Gunnison",
+      "slug": "gunnison",
+      "office": "Gunnison County Treasurer's Office",
+      "phone": "not stated",
+      "address": "200 E. Virginia, Gunnison, CO 81230",
+      "website": "https://www.gunnisoncounty.org/213/Online-Tax-Lien-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "SRI, Inc. (Zeus Auction)",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "Bidding opens 8:00 AM and closes 5:00 PM the same day",
+          "label": "2026 Tax Lien Sale (online, one day only)",
+          "deposit": "None required at registration",
+          "registration_deadline": "Registration closes November 16, 2026 (no exceptions); register online with Zeus Auction",
+          "register_by": "2026-11-16",
+          "list_url": "https://www.gunnisoncounty.org/DocumentCenter/View/17408",
+          "list_note": "County's 2026 Delinquent Tax List (PDF); separate lists for mobile homes and personal property are on the same page.",
+          "note": "Bidding starts at the taxes, interest, advertising and fees due; payment by ACH from the registered account only.",
+          "source_url": "https://www.gunnisoncounty.org/213/Online-Tax-Lien-Sale",
+          "quote": "The Gunnison County Tax Lien Sale will be held via the Internet for ONE DAY ONLY, November 17, 2026"
+        }
+      ],
+      "how_to_bid": "Register online with Zeus Auction (SRI, Inc.) by November 16, 2026. No deposit is required at registration. Bidding opens at 8:00 am and closes at 5:00 pm the same day, starting at the amount of taxes, interest, advertising and fees due. Payment is by ACH from the registered account only.",
+      "sources": [
+        {
+          "url": "https://www.gunnisoncounty.org/213/Online-Tax-Lien-Sale",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or copyright link in the footer. The footer's Personal Data Privacy Policy (Policy #1.2.11.3, a PDF) covers only collection and handling of personal data; it has no reuse, redistribution, commercial-use or scraping clause.",
+          "terms_url": "https://gunnisoncounty.org/DocumentCenter/View/6794"
+        }
+      ]
+    },
+    {
+      "county": "Routt",
+      "slug": "routt",
+      "office": "Routt County Treasurer",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://www.co.routt.co.us/DocumentCenter/View/20540/Routt-County-2026-Delinquent-Tax-List",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-30",
+          "time": "9:00 AM Mountain Time",
+          "label": "2026 Tax Lien Sale (online)",
+          "deposit": "not stated",
+          "registration_deadline": "Register on the auction site between October 2, 8:00 am and October 29, 2:00 pm MST; registration must include bank information",
+          "register_by": "2026-10-29",
+          "note": "Payment for tax liens is by ACH only.",
+          "source_url": "https://www.co.routt.co.us/DocumentCenter/View/20540/Routt-County-2026-Delinquent-Tax-List",
+          "quote": "beginning FRIDAY, OCTOBER 30, 2026, AT 9:00 A.M. MOUNTAIN TIME."
+        }
+      ],
+      "how_to_bid": "Per the county's 2026 notice: register at the Zeus Auction site between October 2 (8:00 am) and October 29 (2:00 pm MST), with bank information. The sale is online only; payment for tax liens is by ACH only.",
+      "sources": [
+        {
+          "url": "https://www.co.routt.co.us/DocumentCenter/View/20540/Routt-County-2026-Delinquent-Tax-List",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Routt County, CO and its representatives. All rights reserved.' (plus CivicPlus CMS copyright). No terms, disclaimer or privacy link; no reuse, redistribution, personal-use or resale clause found.",
+          "terms_url": "https://www.co.routt.co.us/copyright"
+        }
+      ]
+    },
+    {
+      "county": "Teller",
+      "slug": "teller",
+      "office": "Teller County Treasurer's Office",
+      "phone": "not stated",
+      "address": "not stated (the county site footer lists P.O. Box 959, 112 North A Street, Cripple Creek, CO 80813)",
+      "website": "https://tellercounty.gov/987/2026-Tax-Lien-Sale-Rules",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-09",
+          "time": "8:00 AM MDT",
+          "label": "2026 Annual Tax Lien Sale (online)",
+          "deposit": "10% of the amount you intend to bid",
+          "registration_deadline": "Registration continues through November 9, 2026 at 7:00 AM Mountain Time",
+          "register_by": "2026-11-09",
+          "list_url": "https://tellercounty.gov/1041/2026-Tax-Lien-Sale-Available-Parcels",
+          "list_note": "County's 2026 Tax Lien Sale list of available parcels.",
+          "note": "Bidding is initially planned to close on November 9, 2026.",
+          "source_url": "https://tellercounty.gov/987/2026-Tax-Lien-Sale-Rules",
+          "quote": "The dates and time for the 2026 Tax Lien Sale will be 8:00 AM MDT, November 9, 2026."
+        }
+      ],
+      "how_to_bid": "Online through GovEase. Register through November 9, 2026 at 7:00 AM Mountain Time and deposit 10% of the amount you intend to bid. The county rules point bidders to GovEase's online training and say a bid is a legally binding, irrevocable offer to purchase.",
+      "sources": [
+        {
+          "url": "https://tellercounty.gov/987/2026-Tax-Lien-Sale-Rules",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy and Site Disclaimer (Intellectual Property Rights): site content 'is the property of Teller County or its content suppliers' and digital assets fall under the county's proprietary rights. No explicit reuse, redistribution, personal-use, resale or scraping clause.",
+          "terms_url": "https://tellercounty.gov/privacy"
+        }
+      ]
     }
   ]
 }

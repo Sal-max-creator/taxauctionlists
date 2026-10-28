@@ -303,6 +303,44 @@
           "terms": "no terms page found: footer has no terms, disclaimer, legal, copyright or privacy link (only 'Powered by Revize' vendor home-page and CMS login links)."
         }
       ]
+    },
+    {
+      "county": "York",
+      "slug": "york",
+      "office": "York County Treasurer",
+      "phone": "(402) 362-4929 ext. 7",
+      "address": "510 N. Lincoln Avenue, 1st Floor, York, NE 68467",
+      "website": "https://www.yorkcounty.ne.gov/county-treasurer.html",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Sales are held on the First Monday in March.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's undated purchasing instructions say the sale starts at 9:00 a.m. in the Conference Room in the Basement of the Courthouse, 510 N Lincoln Ave, York.",
+      "how_to_bid": "Per the county's purchasing instructions: register ahead of time by mailing the registration form, W-9 and a non-refundable $25.00 registration fee before the day of the sale. One person per company; names are drawn for bidding positions and the sale runs in round-robin format, each position selecting a parcel from the list. Bring a blank check payable to the York County Treasurer (a separate check for each bidder). The fee is $20.00 per tax certificate; redeemed certificates earn 14% simple interest from the date of sale. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.yorkcounty.ne.gov/county-treasurer.html",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only a Privacy Policy (effective 1/1/25) about visitor data, Google Analytics and cookies, and Accessibility; no terms, disclaimer or copyright link and no reuse, redistribution or scraping clause.",
+          "terms_url": "https://www.yorkcounty.ne.gov/privacy-policy.html"
+        },
+        {
+          "url": "https://www.yorkcounty.ne.gov/uploads/1/4/5/5/145507130/instructions_on_purchasing_25.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see above (undated county instructions)."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.yorkcounty.ne.gov/uploads/1/4/5/5/145507130/instructions_on_purchasing_25.pdf",
+          "quote": "We will start at 9:00 a.m. in the Conference Room in the Basement of the Courthouse."
+        },
+        {
+          "url": "https://www.yorkcounty.ne.gov/uploads/1/4/5/5/145507130/instructions_on_purchasing_25.pdf",
+          "quote": "The fee to purchase a tax sale is $20.00 per tax certificate and is non-refundable."
+        }
+      ]
     }
   ]
 }

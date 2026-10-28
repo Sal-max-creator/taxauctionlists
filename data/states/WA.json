@@ -402,6 +402,166 @@
           "quote": "All bidders must be registered prior to the start of the sale."
         }
       ]
+    },
+    {
+      "county": "Grant",
+      "slug": "grant",
+      "office": "Grant County Treasurer",
+      "phone": "509-754-2010",
+      "address": "35 C Street NW, Room 204, Ephrata, WA 98823 (mail: P.O. Box 37, Ephrata, WA 98823)",
+      "website": "https://www.grantcountywa.gov/384/Treasurer",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-09",
+          "end_date": "2026-11-10",
+          "time": "8 AM PST (bidding closes Nov. 10, 2026 at 1:30 PM PST)",
+          "label": "2026 tax judgment (foreclosure) sale (online, Public Surplus)",
+          "deposit": "$1,050.00 ($1,000.00 refundable deposit and $50.00 non-refundable registration fee)",
+          "registration_deadline": "Deposit due no later than 4:00 PM PST on Thursday, November 5th, 2026",
+          "register_by": "2026-11-05",
+          "note": "Winning bids are due Friday, November 13, 2026, no later than 4:00 PM PST. Payments go through the county's processor, PayMac, Inc.",
+          "source_url": "https://www.grantcountywa.gov/384/Treasurer",
+          "quote": "Tax Foreclosure Sale - the 2026 sale will be November 9th & 10th on the Public Surplus website"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register on Public Surplus and pay the $1,050.00 deposit by 4:00 PM PST on November 5, 2026. Bidding runs online on Public Surplus from November 9 to November 10, 2026; winning bidders pay the balance by November 13, 2026, 4:00 PM PST, through PayMac, Inc.",
+      "sources": [
+        {
+          "url": "https://www.grantcountywa.gov/1217/Terms-and-Conditions",
+          "read_on": "2026-10-28",
+          "terms": "Site Disclaimer page has no language on reuse or redistribution. Copyright: 'All content (c) 2006-2026 Grant County, WA and its representatives. All rights reserved.' No ban on reuse, no personal/noncommercial-only limit.",
+          "terms_url": "https://www.grantcountywa.gov/342/Disclaimer"
+        },
+        {
+          "url": "https://www.grantcountywa.gov/384/Treasurer",
+          "read_on": "2026-10-28",
+          "terms": "Same county site: Disclaimer page has no reuse language; copyright 'All rights reserved' only.",
+          "terms_url": "https://www.grantcountywa.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.grantcountywa.gov/1217/Terms-and-Conditions",
+          "quote": "The auction will begin on Monday November 9, 2026, at 8 AM PST"
+        },
+        {
+          "url": "https://www.grantcountywa.gov/384/Treasurer",
+          "quote": "Tax Foreclosure Sale - the 2026 sale will be November 9th & 10th on the Public Surplus website"
+        },
+        {
+          "url": "https://www.grantcountywa.gov/1217/Terms-and-Conditions",
+          "quote": "bidding will close on Tuesday, November 10th, 2026, at 1:30 PM PST"
+        },
+        {
+          "url": "https://www.grantcountywa.gov/1217/Terms-and-Conditions",
+          "quote": "no later than 4:00 PM PST on Thursday, November 5th, 2026"
+        }
+      ]
+    },
+    {
+      "county": "Cowlitz",
+      "slug": "cowlitz",
+      "office": "Cowlitz County Treasurer",
+      "phone": "360-577-3060",
+      "address": "207 N. 4th Ave., Room 202, Kelso, WA 98626",
+      "website": "https://www.co.cowlitz.wa.us/3324/2026-Foreclosure",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-07",
+          "time": "not stated",
+          "label": "2026 tax foreclosure auction (tentative; expected online on Public Surplus)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "The county calls this date tentative. Parcel 080980081 will be auctioned at a later date.",
+          "source_url": "https://www.co.cowlitz.wa.us/3324/2026-Foreclosure",
+          "quote": "The tentative auction date for all parcels, except parcel number 080980081, is December 7, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The county expects to hold the auction online through Public Surplus. Deposit, registration and payment terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.co.cowlitz.wa.us/3324/2026-Foreclosure",
+          "read_on": "2026-10-28",
+          "terms": "Disclaimer page has no reuse language. Copyright Notices page (read in browser 2026-10-28): 'All content © 2006-2026 Cowlitz County, WA and its representatives. All rights reserved.' Copyright-only; no personal or noncommercial limit.",
+          "terms_url": "https://www.co.cowlitz.wa.us/disclaimer"
+        },
+        {
+          "url": "https://www.co.cowlitz.wa.us/279/Treasurer",
+          "read_on": "2026-10-28",
+          "terms": "Disclaimer page has no reuse language. Copyright Notices page (read in browser 2026-10-28): 'All content © 2006-2026 Cowlitz County, WA and its representatives. All rights reserved.' Copyright-only; no personal or noncommercial limit.",
+          "terms_url": "https://www.co.cowlitz.wa.us/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.cowlitz.wa.us/3324/2026-Foreclosure",
+          "quote": "The foreclosure auction is expected to be held online through PublicSurplus.com."
+        }
+      ]
+    },
+    {
+      "county": "Clallam",
+      "slug": "clallam",
+      "office": "Clallam County Treasurer's Office",
+      "phone": "360-417-2344",
+      "address": "223 East 4th Street, Port Angeles, WA 98362 (county address; the page lists no separate Treasurer address)",
+      "website": "https://clallamcountywa.gov/1077/Tax-Foreclosure-Sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "end_date": "2026-11-19",
+          "time": "Opens 9:00am, closes 9:00pm November 19 (PST)",
+          "label": "2026 tax foreclosure sale (online, Public Surplus)",
+          "deposit": "$500 per property, charged by debit or credit card at the first bid; returned unless the bidder defaults",
+          "registration_deadline": "Register as a bidder through Public Surplus before bidding; no deadline stated",
+          "note": "Redemption ends 4:30 PM on November 16, 2026. Winning bids are due by wire by Tuesday, November 24, 2026 at 5:00 PM, plus a $350 administrative fee per property and a 5% buyer premium. The county asks bidders to call to confirm dates.",
+          "source_url": "https://clallamcountywa.gov/1077/Tax-Foreclosure-Sales",
+          "quote": "Sale will open 9:00am November 17 and close 9:00pm November 19, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register as a bidder on Public Surplus (the county does not manage the site; account questions go to Public Surplus chat). Listings are view-only until the sale opens. A $500 deposit per property is charged by card with the first bid; winners pay by wire within three business days.",
+      "sources": [
+        {
+          "url": "https://clallamcountywa.gov/1077/Tax-Foreclosure-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page (read in browser 2026-10-28): 'All content © 2006-2026 Clallam County, WA and its representatives. All rights reserved.' Copyright-only; no personal or noncommercial limit.",
+          "terms_url": "https://clallamcountywa.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://clallamcountywa.gov/1077/Tax-Foreclosure-Sales",
+          "quote": "2026 Tax Foreclosure Sale will be held virtually on www.publicsurplus.com."
+        },
+        {
+          "url": "https://clallamcountywa.gov/1077/Tax-Foreclosure-Sales",
+          "quote": "You must become a registered bidder through Public Surplus in order to bid on this auction."
+        }
+      ]
     }
   ]
 }

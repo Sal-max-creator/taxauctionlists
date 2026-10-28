@@ -401,6 +401,154 @@
           "quote": "will hold the 2026 annual Tax Sale online on Monday, June 15, 2026, beginning at 8:30a.m."
         }
       ]
+    },
+    {
+      "county": "Dubuque",
+      "slug": "dubuque",
+      "office": "Dubuque County Treasurer",
+      "phone": "563-589-4450",
+      "address": "720 Central Avenue, Dubuque, IA 52001",
+      "website": "https://www.dubuquecountyiowa.gov/248/Treasurer",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 annual tax sale was Monday, June 15, 2026 at 9:00 AM (past), run from the Dubuque County Courthouse, 720 Central Avenue, with only online bids accepted.",
+      "how_to_bid": "Per the 2026 Notice to Tax Sale Purchasers: register online at the Iowa Tax Auction site (no mailed or emailed registrations); 2026 registration ran May 18 to June 11, 2026, with all steps due by 11:59 p.m. on June 11, and a non-refundable $51.00 registration fee paid by ACH debit. Bids are placed online. The total due is debited by ACH from the account used for the registration fee. The county posts its delinquent list (2026 Publication Report) on its site. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.dubuquecountyiowa.gov/248/Treasurer",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Dubuque County, IA and its representatives. All rights reserved.' No clause on copying, reuse or redistribution found.",
+          "terms_url": "https://www.dubuquecountyiowa.gov/copyright"
+        },
+        {
+          "url": "https://www.dubuquecountyiowa.gov/DocumentCenter/View/8221/2026-TAX-SALE-NOTICE-TO-TAX-SALE-PURCHASERS-PDF",
+          "read_on": "2026-10-28",
+          "terms": "Same county copyright notice (all rights reserved).",
+          "terms_url": "https://www.dubuquecountyiowa.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dubuquecountyiowa.gov/248/Treasurer",
+          "quote": "Dubuque County's annual tax sale will be held on Monday, June 15, 2026 at 9:00 AM, with only online bids being accepted."
+        },
+        {
+          "url": "https://www.dubuquecountyiowa.gov/DocumentCenter/View/8221/2026-TAX-SALE-NOTICE-TO-TAX-SALE-PURCHASERS-PDF",
+          "quote": "Pay a non-refundable $51.00 registration fee via ACH debit."
+        }
+      ]
+    },
+    {
+      "county": "Cerro Gordo",
+      "slug": "cerro-gordo",
+      "office": "Cerro Gordo County Treasurer",
+      "phone": "641-421-3127",
+      "address": "220 N. Washington Ave., Mason City, IA 50401",
+      "website": "https://cerrogordo.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": "the 3rd Monday in June each year",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 annual tax sale was Monday, June 15, 2026 at 9:00 a.m. (past), run from the County Board Room, first floor of the Cerro Gordo County Courthouse, 220 N Washington Ave, Mason City.",
+      "how_to_bid": "The sale is an online event at 9:00 a.m. through the Iowa Tax Auction site, where bidders register and where the official parcel list appears around June 1 and is updated daily until the sale. Per the 2026 Notice to Tax Sale Purchasers: register online, complete the online W-9, and pay a non-refundable $36.00 registration fee by ACH debit; all registration steps were due by 11:59 p.m. on June 11, 2026. Bids are placed online, and the total due is debited by ACH from the registration account. Investors do their own parcel research. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://cerrogordo.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Cerro Gordo County' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found."
+        },
+        {
+          "url": "https://cerrogordo.gov/files/treasurer/notice_to_tax_sale_purchasers_2026_11816.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Same county site; copyright footer only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cerrogordo.gov/files/treasurer/notice_to_tax_sale_purchasers_2026_11816.pdf",
+          "quote": "The 2026 annual Tax Sale will be held by the Cerro Gordo County Treasurer on Monday, June 15, 2026,"
+        },
+        {
+          "url": "https://cerrogordo.gov/files/treasurer/notice_to_tax_sale_purchasers_2026_11816.pdf",
+          "quote": "Pay a non-refundable $36.00 registration fee via ACH debit."
+        }
+      ]
+    },
+    {
+      "county": "Clinton",
+      "slug": "clinton",
+      "office": "Clinton County Treasurer's Office",
+      "phone": "563-244-0573",
+      "address": "1900 N. 3rd St., Clinton, IA 52733 (mailing: P.O. Box 2957, Clinton, IA 52733)",
+      "website": "https://www.clintoncounty-ia.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": "held annually on the third Monday in June",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. Qualifying unpaid parcels are published once in the county's official publication during the last week of May.",
+      "how_to_bid": "The sale is held online through GovEase; bidders must register on the GovEase auction site, and the GovEase listing updates nightly. Unpaid sale amounts accrue 2% interest per month; an investor may seek a deed after one year and nine months, and the sale is canceled if no deed is obtained within three years. Time, registration deadline, fees and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.clintoncounty-ia.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Clinton County, Iowa' (site powered by Neapolitan Labs, vendor home-page link only). Page notes: 'The following summary is provided for reference only.' No reuse clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.clintoncounty-ia.gov/treasurer/tax_sale/",
+          "quote": "Any unpaid taxes are offered at Public Tax Sale which is held annually on the third Monday in June."
+        }
+      ]
+    },
+    {
+      "county": "Muscatine",
+      "slug": "muscatine",
+      "office": "Muscatine County Treasurer's Office",
+      "phone": "563-263-6764",
+      "address": "Administration Building, 414 E. Third St., Muscatine, IA 52761",
+      "website": "https://muscatinecountyiowa.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": "The Annual Tax Sale takes place the 3rd Monday in June each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held 6/15/2026 (past).",
+      "how_to_bid": "The tax sale is an online event held on the 3rd Monday in June at 9:00 a.m. Register through the Iowa Tax Auction site, where the official parcel listing appears around June 1 and is updated daily until the sale. Investors do their own parcel research. Fees, deposit and registration deadline: not stated on the page (the county links a 2026 Notice to Tax Sale Purchasers PDF).",
+      "sources": [
+        {
+          "url": "https://muscatinecountyiowa.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '© 2026 Muscatine County' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://muscatinecountyiowa.gov/treasurer/tax_sale/",
+          "quote": "The tax sale is an online event that is held on the 3rd Monday in June at 9:00 a.m."
+        },
+        {
+          "url": "https://muscatinecountyiowa.gov/treasurer/tax_sale/",
+          "quote": "This year's sale will be held 6/15/2026."
+        }
+      ]
     }
   ]
 }

@@ -376,6 +376,66 @@
           "quote": "The sale is open to the public, and all properties are sold to the highest bidder."
         }
       ]
+    },
+    {
+      "county": "Muskogee",
+      "slug": "muskogee",
+      "office": "Muskogee County Treasurer",
+      "phone": "918-682-0811",
+      "address": "400 West Broadway, Rm 220, Muskogee, OK 74401 (mail-in payments: P. O. Box 1587, Muskogee, 74402)",
+      "website": "https://oktaxrolls.com/county/muskogee",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Treasurer holds a June Resale Auction. The 2026 auction (payment to remove a property was due by 9:00 a.m. on June 8, 2026) has passed; no 2027 date is posted.",
+      "how_to_bid": "Effective November 1, 2025, an owner must pay before the start of the June Resale Auction to remove a property from it (68 O.S. § 2021 and 3113). Time, location, registration, deposit, bidding and payment terms for buyers not stated. The Treasurer's page links a 2026 resale excess funds list and claim forms.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/muskogee",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use page. The page's disclaimer says only that errors do not waive tax amounts owed. No reuse restriction stated. Copyright-only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/muskogee",
+          "quote": "Effective November 1, 2025, to remove property from the June Resale Auction, payment must be made"
+        },
+        {
+          "url": "https://oktaxrolls.com/county/muskogee",
+          "quote": "To ensure the property is removed from the auction, remit payment by 9:00 a.m. on June 8, 2026."
+        }
+      ]
+    },
+    {
+      "county": "Payne",
+      "slug": "payne",
+      "office": "Payne County Treasurer",
+      "phone": "(405) 624-9411",
+      "address": "315 West Sixth Ave, Suite 302, Stillwater, OK 74074",
+      "website": "https://oktaxrolls.com/county/Payne",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Treasurer holds a June Resale; no 2027 date is posted.",
+      "how_to_bid": "The June Resale is held at the Administration Building, 315 W. 6th Ave, Stillwater, on the 3rd Floor in the Conference Room. Date, time, registration, deposit and payment terms not stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Payne",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use page. The page's disclaimer says only that errors do not waive tax amounts owed. No reuse restriction stated. Copyright-only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Payne",
+          "quote": "The June Resale will be held at the Administration Building located at 315 W. 6th Ave, Stillwater"
+        }
+      ]
     }
   ]
 }

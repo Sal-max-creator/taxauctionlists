@@ -2325,6 +2325,72 @@
           "quote": "The deposit due on a winning bid is $200 or 5% of the bid, whichever is greater."
         }
       ]
+    },
+    {
+      "county": "Holmes",
+      "slug": "holmes",
+      "office": "Holmes County Clerk of Court and Comptroller - Tax Deeds",
+      "phone": "(850) 547-1100",
+      "address": "201 N. Oklahoma Street, Bonifay, FL 32425 (mail: P.O. Box 397, Bonifay, FL 32425)",
+      "website": "https://holmesclerk.com/courts/foreclosures-tax-deeds/tax-deeds/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Clerk's page (updated 7/21/2026) says no sales are scheduled at this time.",
+      "how_to_bid": "Bidders must appear in person at the sale; sales begin at 11:00 a.m. Bids are cash or cashier's check only (no business checks, pre-approved checks or bank drafts). If the total bid is not paid at the sale, a deposit of $200.00 or 5% of the bid, whichever is greater, is due right after the sale and the balance within 24 hours. The winning bidder also pays the tax deed recording fee, proof of publication and certificate of mailing fees, and documentary stamps of $0.70 per $100 of the final bid. Registration deadline: not stated.",
+      "sources": [
+        {
+          "url": "https://holmesclerk.com/courts/foreclosures-tax-deeds/tax-deeds/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Policy that also carries general terms (accuracy and liability disclaimers, cookies, prohibited uses such as misuse of the service in violation of law, no circumventing security). No clause found restricting reuse, redistribution, commercial use or automated access. Footer: '©2026 Holmes County, Florida Clerk of Court and Comptroller. All Rights Reserved.'",
+          "terms_url": "https://holmesclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://holmesclerk.com/courts/foreclosures-tax-deeds/tax-deeds/",
+          "quote": "Updated 7/21/2026 there are no sales scheduled at this time-check here for updates."
+        },
+        {
+          "url": "https://holmesclerk.com/courts/foreclosures-tax-deeds/tax-deeds/",
+          "quote": "If you wish to bid on a tax deed, you must appear in person at the sale."
+        }
+      ]
+    },
+    {
+      "county": "Wakulla",
+      "slug": "wakulla",
+      "office": "Wakulla County Clerk of Court - Tax Deeds",
+      "phone": "(850) 926-0326 or (850) 926-0322",
+      "address": "Wakulla County Courthouse, 3056 Crawfordville Highway, Crawfordville, Florida 32327",
+      "website": "http://www.wakullaclerk.com/taxdeed.asp",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted; the page says to call the Clerk's office for current tax deed sales. Its FAQ says sales are usually held on a Wednesday and advertised for four consecutive weeks in the Wakulla News.",
+      "how_to_bid": "Sales are held in the main lobby on the first floor of the Courthouse, usually at 10:00 a.m. All bidders must be registered by 9:45 AM the day of the sale; pre-registration bidder forms must be delivered in person (no electronic submissions). The high bidder posts a non-refundable cash deposit of $200 or 5% of the winning bid, whichever is greater, in cash, money order or cashier's check (no personal checks). All sales are for cash; the total due, including documentary stamp and recording fees, is paid at the Clerk's Recording Department by 4:00 p.m. the day of the sale.",
+      "sources": [
+        {
+          "url": "http://www.wakullaclerk.com/taxdeed.asp",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy, legal or copyright link or line found on the page (it has no footer). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "http://www.wakullaclerk.com/taxdeed.asp",
+          "quote": "ALL BIDDERS ARE REQUIRED TO BE REGISTERED BY 9:45 AM THE DAY OF THE SALE."
+        },
+        {
+          "url": "http://www.wakullaclerk.com/taxdeed.asp",
+          "quote": "For Current Tax Deed Sales Please Call Our Office @(850) 926-0326 or (850) 926-0322."
+        }
+      ]
     }
   ]
 }

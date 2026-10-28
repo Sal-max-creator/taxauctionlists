@@ -1133,6 +1133,35 @@
           "quote": "Tax sale listings can be found in the Tuesday Edition of The Forsyth County News four consecutive weeks prior to the sale."
         }
       ]
+    },
+    {
+      "county": "Cherokee",
+      "slug": "cherokee",
+      "office": "Cherokee County Tax Commissioner",
+      "phone": "(678) 493-6400",
+      "address": "2780 Marietta Hwy, Canton, GA 30114 (Canton main office); sales at the Cherokee County Courthouse, 90 North Street, Canton, GA 30114",
+      "website": "https://www.cherokeecountytax.com/property.html",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The sales are conducted on the first Tuesday of the month immediately following the final week of advertising.",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted on the Tax Commissioner's page. A sale is advertised for four consecutive Thursdays before it is held; the page points to the Cherokee Tribune legal notices and a Tax Sale Booklet.",
+      "how_to_bid": "Sales start at 10:00 a.m. at the Cherokee County Courthouse, 90 North Street, Canton (the page's Tax Levy FAQ describes the spot as in front of the Cherokee County Justice Center). Successful bidders must be ready to pay the bid amount in cash or certified funds at the Tax Commissioner's office by 1:00 p.m. on the day of sale; bids are binding. Registration and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.cherokeecountytax.com/property.html",
+          "read_on": "2026-10-28",
+          "terms": "Footer links Terms & Conditions from Government Window, LLC (the payment vendor). They cover online payments, fees and warranty disclaimers; the only data clause says user payment records will not be used, released or sold to third parties. No restriction on reuse of site content or on automated access found. Footer: '© Government Window, LLC. All Rights Reserved.'",
+          "terms_url": "https://www.cherokeecountytax.com/terms.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cherokeecountytax.com/property.html",
+          "quote": "They are held at 10:00 a.m. at the Cherokee County Courthouse at 90 North Street, Canton, GA 30114."
+        }
+      ]
     }
   ]
 }

@@ -985,6 +985,56 @@
           "quote": "Pursuant to Illinois Public Act 104-0553 and the standing direction of the Grundy County Board,"
         }
       ]
+    },
+    {
+      "county": "Jackson",
+      "slug": "jackson",
+      "office": "Jackson County Treasurer's Office",
+      "phone": "618-687-7350",
+      "address": "1001 Walnut Street, Murphysboro, IL 62966",
+      "website": "https://www.jacksoncounty-il.gov/263/Treasurer",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-01-22",
+          "time": "not stated",
+          "label": "Annual Tax Sale (2025 payable 2026 taxes)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "From the Treasurer's 2025 Payable 2026 Property Tax Calendar. The calendar lists January 21, 2027 (pay before 4pm) as the last day to pay before the tax sale, and January 5, 2027 as the date the delinquent list is published in the newspaper.",
+          "source_url": "https://www.jacksoncounty-il.gov/263/Treasurer",
+          "quote": "January 22, 2027 Tax Sale"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Tax buyers bid on an interest rate (between 0 and 9%) and pay the unpaid property taxes. If the owner redeems, the buyer is repaid the taxes paid plus the bid interest; if the property is not redeemed within 30 months, the buyer can ask the court for a tax deed. To become a tax buyer, contact the Treasurer's Office at 618-687-7350. Registration, fees, deposit, sale location and format are not stated.",
+      "sources": [
+        {
+          "url": "https://www.jacksoncounty-il.gov/263/Treasurer",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Jackson County, IL and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no disclaimer or terms link (Privacy and Accessibility links only).",
+          "terms_url": "https://www.jacksoncounty-il.gov/copyright"
+        },
+        {
+          "url": "https://www.jacksoncounty-il.gov/267/Delinquent-Tax-Properties",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Jackson County, IL and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no disclaimer or terms link (Privacy and Accessibility links only).",
+          "terms_url": "https://www.jacksoncounty-il.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.jacksoncounty-il.gov/263/Treasurer",
+          "quote": "Last day to pay prior to tax sale. Pay before 4pm."
+        },
+        {
+          "url": "https://www.jacksoncounty-il.gov/267/Delinquent-Tax-Properties",
+          "quote": "bid on an interest rate (between 0-9%) and unpaid property taxes."
+        }
+      ]
     }
   ]
 }

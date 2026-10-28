@@ -354,6 +354,50 @@
           "quote": "will host a tax title sale on July 16, 2025, at 8 A.M., and it will conclude at noon on July 17, 2025"
         }
       ]
+    },
+    {
+      "county": "St. John the Baptist",
+      "slug": "st-john-the-baptist",
+      "office": "St. John the Baptist Parish Sheriff's Office",
+      "phone": "(985) 652-9513; (985) 236-1009 (tax bill questions)",
+      "address": "1801 West Airline Hwy., LaPlace, LA 70068",
+      "website": "https://stjohnsheriff.org/2025-property-tax-sale-thursday-june-25-2026/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction (SRI)",
+        "url": "https://www.zeusauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No later date posted. The last sale posted (for 2025 taxes) was held online Thursday, June 25, 2026, 9 a.m. to 3 p.m., which has passed.",
+      "how_to_bid": "The property tax sale is held online at ZeusAuction.com. Registration is a two-step process: first register as a bidder, then register for the St. John Parish Sheriff's Office auction. For the June 25, 2026 sale, registration ran from May 27, 2026 at 8 a.m. to June 18, 2026 at 4 p.m.; help with registering is available at 1-800-800-9588. Deposit, payment method, bidding method and redemption terms not stated on the Sheriff's page.",
+      "sources": [
+        {
+          "url": "https://stjohnsheriff.org/2025-property-tax-sale-thursday-june-25-2026/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer (only a website-vendor link). Copyright-only footer: '©2026 St. John Sheriff's Office'. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://stjohnsheriff.org/2025-property-tax-sale-thursday-june-25-2026/",
+          "quote": "Thursday, June 25, 2026"
+        },
+        {
+          "url": "https://stjohnsheriff.org/2025-property-tax-sale-thursday-june-25-2026/",
+          "quote": "Registration begins May 27, 2026 at 8 a.m., and ends on June 18, 2026 at 4 p.m."
+        },
+        {
+          "url": "https://stjohnsheriff.org/2025-property-tax-sale-thursday-june-25-2026/",
+          "quote": "Registration is a two-step process: First, register as a bidder."
+        },
+        {
+          "url": "https://stjohnsheriff.org/2025-property-tax-sale-thursday-june-25-2026/",
+          "quote": "Second, register for St. John Parish Sheriff's Office auction."
+        }
+      ]
     }
   ]
 }

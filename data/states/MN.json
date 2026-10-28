@@ -661,6 +661,53 @@
           "quote": "made available to purchase over the counter at the County Auditor Treasurer's Office"
         }
       ]
+    },
+    {
+      "county": "Lake",
+      "slug": "lake",
+      "office": "Lake County Land & Forestry",
+      "phone": "800-450-8832 (general county number shown on the page)",
+      "address": "not stated",
+      "website": "https://www.lakecountymn.gov/217/Land-Sales",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com/sms/lakecore,mn/list/current?orgid=919229"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "10:00 AM (closes Monday, November 30, 2026 at 10:00 AM)",
+          "label": "Minimum bid online sale of tax-forfeited lands",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Follows the estimated market value (EMV) online sale, which started October 16, 2026 and closes November 16, 2026 at 10:00 AM. Only parcels forfeited in 2026 are included. Notice posted October 21, 2026.",
+          "source_url": "https://www.lakecountymn.gov/CivicAlerts.aspx?AID=24",
+          "quote": "STARTS: Tuesday, November 17, 2026 @ 10:00 AM"
+        }
+      ],
+      "next_sale_note": "The EMV online sale is already open (started October 16, 2026) and closes November 16, 2026 at 10:00 AM.",
+      "how_to_bid": "Bid online on Public Surplus. An estimated market value sale runs first, then a minimum bid sale. The land list and terms of sale are on the county's Land Sales page (not read). No owner or taxpayer of Lake County real property with delinquent property taxes may bid on or buy property at auction or over the counter. Deposit and payment terms are not stated in the notice.",
+      "sources": [
+        {
+          "url": "https://www.lakecountymn.gov/CivicAlerts.aspx?AID=24",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Lake County, MN and its representatives. All rights reserved.' plus a CivicPlus software credit. Nothing on reuse, redistribution, commercial or personal-only use, or automated access; the footer has no disclaimer or terms link.",
+          "terms_url": "https://www.lakecountymn.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lakecountymn.gov/CivicAlerts.aspx?AID=24",
+          "quote": "You are hereby notified that a public online sale of tax-forfeited lands located in Lake County has been scheduled."
+        },
+        {
+          "url": "https://www.lakecountymn.gov/CivicAlerts.aspx?AID=24",
+          "quote": "CLOSES: Monday, November 16, 2026 @ 10:00 AM"
+        }
+      ]
     }
   ]
 }

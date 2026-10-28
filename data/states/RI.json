@@ -237,6 +237,52 @@
           "quote": "CASH, CERTIFIED CHECK OR MONEY ORDER."
         }
       ]
+    },
+    {
+      "county": "Providence (city)",
+      "slug": "providence",
+      "office": "City of Providence City Collector",
+      "phone": "401.331.5252",
+      "address": "Providence City Hall, 25 Dorrance Street, Room 203, Providence, RI 02903",
+      "website": "https://www.providenceri.gov/collector/tax-sale-information/",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale after 2026-10-28 posted. The City Collector's 2026 notice set the latest sale for Thursday, May 21, 2026, 10:00 A.M. to 12:00 P.M. EDT, online (past); a 2027 date is not yet posted.",
+      "how_to_bid": "Based on the City Collector's 2026 notice: the sale is a public auction to the highest bidder held online (terms: electronic). Bidders had to preregister with the online bidding platform during a set window (April 30, 2026 through 4:30 pm on May 14, 2026), and registrations were not processed after the deadline. The City's bidder information page (written for its 2024 sale) says business entities must submit their last annual report, every bidder must furnish a $1,500 certified check as a bond, and the City Collector handles redemptions in the year following the sale. Terms for a 2027 sale: not stated.",
+      "sources": [
+        {
+          "url": "https://www.providenceri.gov/wp-content/uploads/2026/04/FINAL-AD-CITY-2026-Revised-042426-Final.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy (https://www.providenceri.gov/privacy-policy) says the site's content is protected by U.S. copyright laws and gives no explicit restriction on reuse or redistribution; footer shows '© 2026 City of Providence. All rights reserved.' No terms of use or disclaimer link found.",
+          "terms_url": "https://www.providenceri.gov/privacy-policy"
+        },
+        {
+          "url": "https://www.providenceri.gov/collector/tax-sale-information/",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.providenceri.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.providenceri.gov/wp-content/uploads/2026/04/FINAL-AD-CITY-2026-Revised-042426-Final.pdf",
+          "quote": "Thursday, the 21st day of May, A.D. 2026"
+        },
+        {
+          "url": "https://www.providenceri.gov/wp-content/uploads/2026/04/FINAL-AD-CITY-2026-Revised-042426-Final.pdf",
+          "quote": "Registrations will not be processed after May 14, 2026 for this tax sale."
+        },
+        {
+          "url": "https://www.providenceri.gov/collector/tax-sale-information/",
+          "quote": "All bidders must furnish a certified check for $1,500 as a bond to guarantee payment of the tax upon winning a bid."
+        }
+      ]
     }
   ]
 }

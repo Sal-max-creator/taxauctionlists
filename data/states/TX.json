@@ -1874,6 +1874,84 @@
           "quote": "Written Statements must be turned in a week before the Sale Date."
         }
       ]
+    },
+    {
+      "county": "Erath",
+      "slug": "erath",
+      "office": "Erath County (contact listed on the county's Tax Sales page: Erath County Courthouse)",
+      "phone": "254-965-1452",
+      "address": "100 W Washington, Stephenville, TX 76401",
+      "website": "https://www.co.erath.tx.us/386/Tax-Sales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held twice a year (one in the Spring and one in the Fall)",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted on the county page; it points to the delinquent tax attorneys' websites for current listings.",
+      "how_to_bid": "Property is sold at public auction for cash to the highest bidder on oral bids, and bidding must start at the stated minimum figure or higher. Before the sale begins, bidders must register with the person conducting the sale and show a valid driver's license or state or U.S. government ID. Successful bidders pay with cash or a cashier's check; personal checks are not accepted. A purchaser does not receive a deed until the written statement (about delinquent taxes) is presented to the officer. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.co.erath.tx.us/386/Tax-Sales",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, copyright or privacy link in the site footer (Site Map, Contact Us, Accessibility and Home only). No reuse restriction found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.erath.tx.us/386/Tax-Sales",
+          "quote": "Tax sales are held twice a year (one in the Spring and one in the Fall)"
+        },
+        {
+          "url": "https://www.co.erath.tx.us/386/Tax-Sales",
+          "quote": "The property will be sold at public auction and will be sold for cash to the highest bidder, based on oral bids."
+        },
+        {
+          "url": "https://www.co.erath.tx.us/386/Tax-Sales",
+          "quote": "Successful bidders must pay for their property with cash or a cashier's check. Personal checks will not be accepted."
+        }
+      ]
+    },
+    {
+      "county": "Hood",
+      "slug": "hood",
+      "office": "Hood County Constable Precinct 4",
+      "phone": "817-579-3204 (Constable Pct. 4, to confirm withdrawn properties); 817-579-3200 (county)",
+      "address": "100 E. Pearl St., Granbury, TX 76048 (Historic Hood County Court House; sale notices posted on its public notice board)",
+      "website": "https://hoodcounty.texas.gov/courts/constables/tax_sale.php",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted on the constable's page; it says real properties are sold by the Precinct 4 constable throughout the year, with notices published in the Hood County News three weeks before each sale.",
+      "how_to_bid": "Sales are as is to the highest bidder on a buyer-beware basis, and the purchaser must be present at the sale. Payment is cash, cashier's check or money order payable to the Precinct 4 constable, in the exact amount, due no later than 24 hours after the sale. Each purchaser must present an original written statement under the Texas Tax Code, available from the Hood County Appraisal District for $10. Notices are posted at the Hood County Annex, in the Hood County News three weeks before the sale, on the delinquent tax attorney's website and on the courthouse notice board. Redemption period for homestead or agricultural property: two years. Registration and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://hoodcounty.texas.gov/courts/constables/tax_sale.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; footer shows only 'Powered by revize., The Government Website Experts' (vendor home page link, no terms), Login and accessibility links. No reuse restriction found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hoodcounty.texas.gov/courts/constables/tax_sale.php",
+          "quote": "real properties are sold as is to the highest bidder by Constable Chad Jordan throughout the year."
+        },
+        {
+          "url": "https://hoodcounty.texas.gov/courts/constables/tax_sale.php",
+          "quote": "Money is due no later than 24 hours after the sale."
+        },
+        {
+          "url": "https://hoodcounty.texas.gov/courts/constables/tax_sale.php",
+          "quote": "The written statement can be obtained from the Hood County Appraisal District for $10."
+        },
+        {
+          "url": "https://hoodcounty.texas.gov/courts/constables/tax_sale.php",
+          "quote": "The redemption period for homestead or agriculture is two years."
+        }
+      ]
     }
   ]
 }

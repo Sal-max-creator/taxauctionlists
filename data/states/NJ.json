@@ -566,6 +566,191 @@
           "quote": "The Tax Sale will be advertised on the Township Website from 10/31/26 through 12/2/26"
         }
       ]
+    },
+    {
+      "county": "Roseland (Essex County)",
+      "slug": "roseland-essex",
+      "office": "Tax Collector, Borough of Roseland",
+      "phone": "973-403-6028",
+      "address": "140 Eagle Rock Avenue, Roseland, NJ 07068",
+      "website": "https://www.roselandnj.org/308/Annual-Tax-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-10",
+          "time": "10:00 AM",
+          "label": "2026 Tax Sale",
+          "deposit": "not stated",
+          "registration_deadline": "Bidders must be registered by December 9, 2026 (Bidder Information Sheet and W-9 to the Tax Collector by 4:30 PM); no same-day registration",
+          "register_by": "2026-12-09",
+          "note": "Held at 140 Eagle Rock Avenue, Roseland, Level 2A. Payment at the sale by certified funds, cash, money order or wire transfer, with separate checks for tax, utility and premiums.",
+          "source_url": "https://www.roselandnj.org/308/Annual-Tax-Sale",
+          "quote": "The 2026 Tax Sale is scheduled for Thursday, December 10, 2026, at 10 am"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "In-person sale at 140 Eagle Rock Avenue, Level 2A. Every bidder must register in advance by sending the Bidder Information Sheet and a W-9 to the Tax Collector; there is no same-day registration, and bidder numbers are sent by email. Payment at the sale is by certified funds, cash, money order or wire transfer, with separate checks for tax, utility and premiums. The certificate is issued after the sale and must be recorded with the Essex County Clerk within 90 days. Deposit and interest terms are not stated on the borough page.",
+      "sources": [
+        {
+          "url": "https://www.roselandnj.org/308/Annual-Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Disclaimer page covers informational use, linked sites, data collected from visitors and public records; it has no clause on reuse, redistribution, commercial use or automated access. Copyright page reads only 'All content © 2006-2026 Roseland, NJ and its representatives. All rights reserved.' and the CivicPlus copyright line. No reuse ban found. Restate facts only.",
+          "terms_url": "https://www.roselandnj.org/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.roselandnj.org/308/Annual-Tax-Sale",
+          "quote": "All bidders must be registered"
+        },
+        {
+          "url": "https://www.roselandnj.org/308/Annual-Tax-Sale",
+          "quote": "There will be no same-day registration."
+        },
+        {
+          "url": "https://www.roselandnj.org/308/Annual-Tax-Sale",
+          "quote": "All payments at tax sale must be made with certified funds, cash, money orders, or by wire transfer."
+        },
+        {
+          "url": "https://www.roselandnj.org/308/Annual-Tax-Sale",
+          "quote": "The purchased Tax Sale Certificate must be recorded in the Essex County Clerk's Office within 90 days."
+        }
+      ]
+    },
+    {
+      "county": "Essex Fells (Essex County)",
+      "slug": "essex-fells-essex",
+      "office": "Tax Office, Borough of Essex Fells",
+      "phone": "973-226-3400",
+      "address": "255 Roseland Avenue, Essex Fells, NJ 07021",
+      "website": "https://www.essexfellsboro.com/pages/standard-online-tax-sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "essexfells.newjerseytaxsale.com",
+        "url": "https://essexfells.newjerseytaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-18",
+          "time": "10:00 AM",
+          "label": "Annual online standard tax lien sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Sale covers delinquencies for the 2025 tax year. Listing and registration are on the borough's tax sale site. After October 16, 2026 owners must pay with guaranteed funds (cash, cashier's check or money order); card payments are not available after that date.",
+          "source_url": "https://www.essexfellsboro.com/pages/standard-online-tax-sale",
+          "quote": "Wednesday, November 18, 2026 at 10:00 a.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Online standard tax lien sale; the listing and bidder registration are on essexfells.newjerseytaxsale.com. Delinquencies carry a 2% cost of tax sale (up to $100) and $25 per mailing. Deposit and bidding rules are not stated on the borough page.",
+      "sources": [
+        {
+          "url": "https://www.essexfellsboro.com/pages/standard-online-tax-sale",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or copyright page linked in the footer; footer shows only '© The Borough of Essex Fells, NJ. All Rights Reserved.' plus a Social Media Policy resolution PDF (could not be read as text; it concerns social media, not site content). No reuse ban found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.essexfellsboro.com/pages/standard-online-tax-sale",
+          "quote": "The Borough of Essex Fells will hold its annual online standard tax lien sale on"
+        },
+        {
+          "url": "https://www.essexfellsboro.com/pages/standard-online-tax-sale",
+          "quote": "All delinquencies for the 2025 tax year are now subject to the tax-sale process."
+        },
+        {
+          "url": "https://www.essexfellsboro.com/pages/standard-online-tax-sale",
+          "quote": "Per this process, delinquencies will be subject to a 2% cost of tax sale (up to $100)."
+        },
+        {
+          "url": "https://www.essexfellsboro.com/pages/standard-online-tax-sale",
+          "quote": "In addition, the credit/debit card payment options WILL NOT be available after October 16, 2026."
+        }
+      ]
+    },
+    {
+      "county": "Oakland (Bergen County)",
+      "slug": "oakland-bergen",
+      "office": "Tax Collector, Borough of Oakland",
+      "phone": "201-337-8111 ext. 2010",
+      "address": "One Municipal Plaza, Oakland, NJ 07436",
+      "website": "https://www.oakland-nj.gov/1546/Tax-Collector",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "oakland.newjerseytaxsale.com",
+        "url": "https://oakland.newjerseytaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The borough says its annual online accelerated tax lien sale will be in December 2026; the exact date is listed as TBD. Accounts made current by December 17, 2026 are removed from the sale.",
+      "how_to_bid": "Online accelerated tax lien sale on oakland.newjerseytaxsale.com. Taxes and municipal charges unpaid on November 11 of the current year go into the sale and the public notice. Owners paying after November 10 must use cash or cashier's check. Deposit, bidder registration and bidding rules are not stated on the borough page.",
+      "sources": [
+        {
+          "url": "https://www.oakland-nj.gov/1546/Tax-Collector",
+          "read_on": "2026-10-28",
+          "terms": "Copyright page reads only 'All content © 2006-2026 Oakland, NJ and its representatives. All rights reserved.' and the CivicPlus copyright line; no terms or disclaimer link in the footer (privacy and accessibility pages also linked). No reuse ban found. Restate facts only.",
+          "terms_url": "https://www.oakland-nj.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.oakland-nj.gov/1546/Tax-Collector",
+          "quote": "The Borough of Oakland will hold its annual online accelerated tax lien sale in December 2026."
+        },
+        {
+          "url": "https://www.oakland-nj.gov/1546/Tax-Collector",
+          "quote": "Any properties whose account is made current by December 17, 2026 will be removed from the Tax Sale."
+        },
+        {
+          "url": "https://www.oakland-nj.gov/1546/Tax-Collector",
+          "quote": "All delinquencies as of 11/11 of the current year will appear in the Public Notice."
+        }
+      ]
+    },
+    {
+      "county": "Middle Township (Cape May County)",
+      "slug": "middle-township-cape-may",
+      "office": "Tax/Sewer Collector, Middle Township",
+      "phone": "(609) 465-8724",
+      "address": "33 Mechanic Street, Cape May Court House, NJ 08210",
+      "website": "https://middletownship.com/departments/tax-collector/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The township says the 2026 tax sale will be held in the Municipal Court Room starting at 9:00 am, with the date still TBA. Taxes and charges unpaid as of November 11, 2026 are eligible.",
+      "how_to_bid": "Public tax sale in the Municipal Court Room, starting at 9:00 am. Bidders must pre-register by giving the Tax Collector's Office a registration sheet and a W-9, both with original signatures; certificate details come from the registration sheet and are not changed afterward. Properties are advertised in the Cape May County Herald for two weeks before the sale week and the list is posted on the township website. Deposit and payment terms are not stated.",
+      "sources": [
+        {
+          "url": "https://middletownship.com/departments/tax-collector/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; footer shows only '© Copyright | Middle Township, New Jersey | All Rights Reserved | JoyceMedia.com' and social links. No reuse ban found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://middletownship.com/departments/tax-collector/",
+          "quote": "The tax sale for 2026 will be held in the Municipal Court Room on TBA – will start promptly at 9:00 am."
+        },
+        {
+          "url": "https://middletownship.com/departments/tax-collector/",
+          "quote": "All bidders must pre-register and provide a W-9 both with original signatures to the Tax Collector's Office."
+        },
+        {
+          "url": "https://middletownship.com/departments/tax-collector/",
+          "quote": "The Collector shall enforce the lien through a publicly held tax sale."
+        }
+      ]
     }
   ]
 }

@@ -816,6 +816,148 @@
           "quote": "2026 Continued Upset Sale is Tuesday, November 10th at 10:00 a.m. EST."
         }
       ]
+    },
+    {
+      "county": "Adams",
+      "slug": "adams",
+      "office": "Adams County Tax Claim Bureau",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://www.adamscountypa.gov/departments/taxservices/taxclaim",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Tax Claim Bureau page lists the Upset and Judicial sale date and location as 'To Be Announced August 2027'; the pre-registration packet is to be posted then.",
+      "how_to_bid": "All prospective bidders must pre-register ten days before the sale date for Upset and Judicial Tax Sales; the pre-registration packet is not yet posted. Taxes and costs can be paid up to the date of the sale, with no redemption period after the sale. Deposit, time, place and bidding method are not stated.",
+      "sources": [
+        {
+          "url": "https://www.adamscountypa.gov/departments/taxservices/taxclaim",
+          "read_on": "2026-10-28",
+          "terms": "Terms of Use (PDF) has no clause forbidding reuse, reproduction or redistribution of county information and no personal or noncommercial-use limit; it bars access 'through any means not intentionally made available' and use that could overburden the site. Footer: '© 2026 Adams County'. Restate facts only.",
+          "terms_url": "https://www.adamscountypa.gov/getmedia/f8d658bb-5b6b-45f5-8a58-5151938c9443/AdamsCountyTermsOfUse.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.adamscountypa.gov/departments/taxservices/taxclaim",
+          "quote": "To Be Announced August 2027"
+        },
+        {
+          "url": "https://www.adamscountypa.gov/departments/taxservices/taxclaim",
+          "quote": "ALL Prospective Bidders are required to pre-register TEN (10) days prior to the sale date for Upset and Judicial Tax Sales."
+        }
+      ]
+    },
+    {
+      "county": "Franklin",
+      "slug": "franklin",
+      "office": "Franklin County Tax Claim Bureau",
+      "phone": "717-261-3884",
+      "address": "272 North Second Street, Chambersburg, PA 17201",
+      "website": "https://franklincountypa.gov/tax-claim/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "An upset sale is held every year in September and a judicial sale is normally held two-three months after an upset sale.",
+      "sales": [],
+      "next_sale_note": "No dated judicial or repository sale is posted on the Tax Claim page; the next upset sale is in September 2027 (date not posted).",
+      "how_to_bid": "Properties are advertised in the Chambersburg Public Opinion, the Waynesboro Record Herald and the Franklin County Law Journal, and the list is updated on the county website. Repository properties may be sold without notice; bids must be approved by all taxing districts (county, municipality and school district). Sale venue, registration and bidding method are not stated.",
+      "sources": [
+        {
+          "url": "https://franklincountypa.gov/tax-claim/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the footer has no terms, disclaimer, copyright or legal link; its Notices list only an Open Records Policy, Social Media Public Comment Policy, HIPAA Privacy Notice (about personal health data), Non-Discrimination Regulation and Grievance Process.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://franklincountypa.gov/tax-claim/",
+          "quote": "An upset sale is held every year in September and a judicial sale is normally held two-three months after an upset sale."
+        },
+        {
+          "url": "https://franklincountypa.gov/tax-claim/",
+          "quote": "Properties in the repository may be sold without notice."
+        }
+      ]
+    },
+    {
+      "county": "Lycoming",
+      "slug": "lycoming",
+      "office": "Lycoming County Tax Claim Bureau",
+      "phone": "570-327-2200 (county main line)",
+      "address": "48 West Third Street, Williamsport, PA 17701 (sales at Third Street Plaza, 33 W. Third St., 3rd Floor)",
+      "website": "https://lycomingcountypa.gov/government/departments/tax_claims/tax_sale.php",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Upset Tax Sales are held during the month of September.",
+      "sales": [],
+      "next_sale_note": "The 2026 Upset Sale was September 15, 2026. No judicial sale date is posted ('Check back for the date of the Judicial Tax Sales'); the repository sale will not reopen until 2028.",
+      "how_to_bid": "Upset Tax Sales are held at the Third Street Plaza, 33 W Third Street, 3rd Floor, in the Commissioner's Board Room. Act 33 requires pre-registration for upset and judicial sales (deadline not stated). Judicial sales are held at the Bureau's discretion for properties not sold at the September upset sale. Repository bids must include the Repository Bid Package and take 6 to 8 weeks to process. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://lycomingcountypa.gov/government/departments/tax_claims/tax_sale.php",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer shows a 'Privacy Policy' link that points to the home page and an admin login; no terms, disclaimer, copyright or legal link.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lycomingcountypa.gov/government/departments/tax_claims/tax_sale.php",
+          "quote": "Check back for the date of the Judicial Tax Sales."
+        },
+        {
+          "url": "https://lycomingcountypa.gov/government/departments/tax_claims/tax_sale.php",
+          "quote": "Repository Sale - Will not reopen until 2028 due to the countywide reassessment"
+        }
+      ]
+    },
+    {
+      "county": "Mercer",
+      "slug": "mercer",
+      "office": "Mercer County Tax Claim Bureau",
+      "phone": "724-662-3800 (ext. 2228, 2229, 2232 or 2233)",
+      "address": "125 S. Diamond Street, Suite 3, Mercer, PA 16137",
+      "website": "https://www.mercercountypa.gov/tax/Sales.htm",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Judicial Sales are not held on any set schedule.",
+      "sales": [],
+      "next_sale_note": "No judicial sale is scheduled ('There are no Judicial Sales scheduled at this time'). The 2026 upset sale was held September 15 and October 20, 2026. Repository properties may be sold at any time with an approved bid.",
+      "how_to_bid": "Upset sales are buyer-beware and properties are sold subject to liens and encumbrances; lists are published in the Mercer County Law Journal, The Herald and the Record Argus. A judicial sale is requested in writing with a guaranteed minimum bid of $1,250.00 (request forms on the website). Repository properties sell for no less than $1,200.00 by bid form, subject to the taxing bodies' approval. Deposit and registration are not stated.",
+      "sources": [
+        {
+          "url": "https://www.mercercountypa.gov/tax/Sales.htm",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer shows only '2025 Mercer County M.I.S.' and Home, Departments, Holidays and social links; no terms, disclaimer, privacy or copyright link. The page says the Bureau never guarantees title.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.mercercountypa.gov/tax/judicialsales.htm",
+          "read_on": "2026-10-28",
+          "terms": "Same site footer; no terms, disclaimer or copyright link.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mercercountypa.gov/tax/judicialsales.htm",
+          "quote": "There are no Judicial Sales scheduled at this time."
+        },
+        {
+          "url": "https://www.mercercountypa.gov/tax/Sales.htm",
+          "quote": "Judicial Sales are not held on any set schedule."
+        },
+        {
+          "url": "https://www.mercercountypa.gov/tax/Sales.htm",
+          "quote": "All Repository properties will be sold for no less than $1,200.00."
+        }
+      ]
     }
   ]
 }

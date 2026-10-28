@@ -1948,6 +1948,125 @@
           "quote": "There are no properties on the list of tax deeds at this time."
         }
       ]
+    },
+    {
+      "county": "Gulf",
+      "slug": "gulf",
+      "office": "Gulf County Clerk of Courts - Tax Deeds",
+      "phone": "not stated",
+      "address": "1000 Cecil G. Costin, Sr. Blvd., Room 149, Port St. Joe, FL 32456 (Monday to Friday, 9:00 AM to 5:00 PM EST). Clerks Annex: 153 N 3rd Street, Wewahitchka, FL 32465 (Friday only)",
+      "website": "https://gulfclerk.com/tax-deeds/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-04",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (in person)",
+          "deposit": "Nonrefundable deposit of 5% of the bid or $200, whichever is greater, in cash or certified funds at the time of sale.",
+          "note": "Front lobby of the Courthouse in Port St. Joe; two parcels listed (TD#2026-13 and TD#2026-15).",
+          "source_url": "https://gulfclerk.com/tax-deeds/",
+          "quote": "Sale Date 11/04/26 at 11:00 AM EST"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (in person)",
+          "deposit": "Nonrefundable deposit of 5% of the bid or $200, whichever is greater, in cash or certified funds at the time of sale.",
+          "note": "Front lobby of the Courthouse in Port St. Joe; two parcels listed (TD#2026-08 and TD#2026-09).",
+          "source_url": "https://gulfclerk.com/tax-deeds/",
+          "quote": "Sale Date 11/18/26 at 11:00 AM EST"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (in person)",
+          "deposit": "Nonrefundable deposit of 5% of the bid or $200, whichever is greater, in cash or certified funds at the time of sale.",
+          "note": "Front lobby of the Courthouse in Port St. Joe; two parcels listed (TD#2026-04 and TD#2026-07).",
+          "source_url": "https://gulfclerk.com/tax-deeds/",
+          "quote": "Sale Date 12/02/26 at 11:00 AM EST"
+        }
+      ],
+      "next_sale_note": "Dates come from the Clerk's tax deed page, which lists each sale with its parcels; the page also listed a rescheduled parcel for 10/28/26 (not included). Parcels may be redeemed before the sale.",
+      "how_to_bid": "Sales are held in person in the front lobby of the Courthouse in Port St. Joe and start at 11:00 AM EST, continuing until all scheduled auctions are done. Register in person fifteen (15) minutes before the sale; you cannot register or bid by mail or internet. The high bidder pays a nonrefundable deposit of 5% of the bid or $200, whichever is greater, at the time of sale; the balance plus documentary stamp tax and recording fees is due within 24 hours, excluding weekends and legal holidays. Only cash or certified funds are accepted (no personal or business checks, debit or credit cards); the Clerk keeps no escrow accounts, and cash of $10,000 or more needs IRS Form 8300.",
+      "sources": [
+        {
+          "url": "https://gulfclerk.com/tax-deeds/",
+          "read_on": "2026-10-28",
+          "terms": "Footer has a Privacy Policy (personal information only; no clause on copying, reuse or redistribution) and '©2026 Gulf County Clerk of Courts.' Copyright-only; no reuse restriction found. No separate terms or disclaimer page in the footer.",
+          "terms_url": "https://www.gulfclerk.com/privacy-policy/"
+        },
+        {
+          "url": "https://www.gulfclerk.com/uploads/To-All-Parties-Participating-inTax-Deed-Auctions-2026-0722_Web-2.pdf",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.gulfclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://gulfclerk.com/tax-deeds/",
+          "quote": "All auctions will take place in the front lobby of the Courthouse in Port St. Joe, Florida."
+        },
+        {
+          "url": "https://www.gulfclerk.com/uploads/To-All-Parties-Participating-inTax-Deed-Auctions-2026-0722_Web-2.pdf",
+          "quote": "To bid on a Tax Deed Property, you must register in person fifteen (15) minutes prior to the time of the sale."
+        }
+      ]
+    },
+    {
+      "county": "Suwannee",
+      "slug": "suwannee",
+      "office": "Suwannee County Clerk of the Circuit Court & Comptroller - Tax Deeds",
+      "phone": "Tax Deeds (386) 362-0575; Clerk main office (386) 362-0500",
+      "address": "Tax Deeds office: 906 N Ohio Ave, Live Oak, FL. Clerk main office: 200 S. Ohio Ave., Live Oak, FL 32064",
+      "website": "https://www.suwgov.org/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://suwannee.realtaxdeed.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "Non-refundable deposit of $200.00 or 5% of bid, whichever is greater, deducted from the successful bidder's account.",
+          "note": "The Clerk's sale schedule lists one parcel (Case No. 4803/2020-1086). Settlement by wire, cash or cashier's check in the exact amount only.",
+          "source_url": "https://www.suwgov.org/wp-content/uploads/Schedule-10.05.2026.pdf",
+          "quote": "Thursday, November 5, 2026, at 11:00 a.m."
+        }
+      ],
+      "next_sale_note": "The Clerk's Tax Deed Sales page shows the next sale; later dates are posted as schedules are published.",
+      "how_to_bid": "All tax deed auctions are conducted online at suwannee.realtaxdeed.com; register there to view and bid. The deposit of $200 or 5% of the bid, whichever is greater, is due upon the highest bid and is non-refundable. All sales are final at the time of the successful bid; only wire, cash or cashier's check in the exact amount is accepted for settlement. To redeem a property before the sale, contact the Tax Collector at 386-364-3440.",
+      "sources": [
+        {
+          "url": "https://www.suwgov.org/tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; footer reads 'Copyright © 2026 | Suwannee County Clerk of the Circuit Court & Comptroller. | All Rights Reserved.' Copyright-only; no reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.suwgov.org/wp-content/uploads/Schedule-10.05.2026.pdf",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.suwgov.org/tax-deed-sales/",
+          "quote": "Next Tax Deed Sale – November 5, 2026"
+        },
+        {
+          "url": "https://www.suwgov.org/tax-deed-sales/",
+          "quote": "The Suwannee County Clerk of Court conducts all Tax Deed Auctions online."
+        }
+      ]
     }
   ]
 }

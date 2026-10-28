@@ -333,6 +333,10 @@ State overview: <https://www.flsenate.gov/Laws/Statutes/2025/197.172>, <https://
 | Putnam | <https://apps.putnam-fl.com/coc/taxdeeds/public/disclaimer.php> | 2026-10-28 | Tax Deed Sale Disclaimer: as-is sale, no warranties; information 'should be considered as basic information only'. No reuse or redistribution clause. ([terms](https://apps.putnam-fl.com/coc/taxdeeds/public/disclaimer.php)) |
 | Columbia | <https://columbiaclerk.com/tax-deeds/> | 2026-10-28 | Footer has a Privacy Policy and '©2026 Columbia County, FL \| Clerk of Court & Comptroller.' The Privacy Policy says 'We make no warranty or guarantee regarding the accuracy or reliability of the content on this site.' and has no clause on copying, reuse or redistribution. No reuse restriction found. ([terms](https://columbiaclerk.com/privacy-policy/)) |
 | Columbia | <https://columbiaclerk.com/clerk-services/tax-deeds/upcoming-tax-deed-sales/> | 2026-10-28 | same as above ([terms](https://columbiaclerk.com/privacy-policy/)) |
+| Gulf | <https://gulfclerk.com/tax-deeds/> | 2026-10-28 | Footer has a Privacy Policy (personal information only; no clause on copying, reuse or redistribution) and '©2026 Gulf County Clerk of Courts.' Copyright-only; no reuse restriction found. No separate terms or disclaimer page in the footer. ([terms](https://www.gulfclerk.com/privacy-policy/)) |
+| Gulf | <https://www.gulfclerk.com/uploads/To-All-Parties-Participating-inTax-Deed-Auctions-2026-0722_Web-2.pdf> | 2026-10-28 | same as above ([terms](https://www.gulfclerk.com/privacy-policy/)) |
+| Suwannee | <https://www.suwgov.org/tax-deed-sales/> | 2026-10-28 | No terms, disclaimer or privacy link in the footer; footer reads 'Copyright © 2026 \| Suwannee County Clerk of the Circuit Court & Comptroller. \| All Rights Reserved.' Copyright-only; no reuse restriction found. |
+| Suwannee | <https://www.suwgov.org/wp-content/uploads/Schedule-10.05.2026.pdf> | 2026-10-28 | same as above |
 
 ## Georgia
 
@@ -936,6 +940,9 @@ State overview: <https://codes.ohio.gov/orc/section-5721.19>, <https://codes.ohi
 | Richland | <https://www.richlandcountyoh.gov/departments/sheriff/sheriffsales> | 2026-10-28 | no terms page found (the page footer has only a 'Website By EvoGov' vendor credit, with no terms, disclaimer, privacy or copyright link or text). |
 | Wayne | <https://waynecountysheriff.com/?p=271> | 2026-10-28 | no terms page found (neither the About Sheriff Sales page nor the Sheriff's home page shows a footer with terms, disclaimer, privacy or copyright text or links). |
 | Clark | <https://clarkcountyohio.gov/235/Tax-Sales> | 2026-10-28 | Disclaimer page disclaims accuracy and liability and says site content is not an official record; it has no clause forbidding reuse, reproduction or redistribution (it mentions copying and distribution only in the liability waiver). Restate facts only. ([terms](https://clarkcountyohio.gov/disclaimer)) |
+| Muskingum | <https://www.ohiomuskingumsheriff.org/Sheriff-Sales/Delinquent-Tax-Sales/> | 2026-10-28 | Disclaimer page disclaims accuracy and liability and has no clause on reproduction, reuse or redistribution of site content (its only copying language concerns materials others store on the server). Footer: '© 2026 All Rights Reserved' (copyright only). Restate facts only. ([terms](https://www.ohiomuskingumsheriff.org/Disclaimer/)) |
+| Wood | <https://woodcountysheriff.com/sheriff-sales/> | 2026-10-28 | no terms page found on the Sheriff's site (no terms, disclaimer, privacy or copyright link or text was shown). The county site (woodcountyohio.gov/381/Sheriff-Sales) links a Copyright Notices page: 'All content © 2006-2026 Wood County, OH and its representatives. All rights reserved.' (copyright only, no reuse clause). ([terms](https://www.woodcountyohio.gov/copyright)) |
+| Wood | <https://www.woodcountyohio.gov/381/Sheriff-Sales> | 2026-10-28 | Copyright Notices: 'All content © 2006-2026 Wood County, OH and its representatives. All rights reserved.' No reuse or redistribution clause. ([terms](https://www.woodcountyohio.gov/copyright)) |
 
 ## Oklahoma
 
@@ -1035,6 +1042,11 @@ State overview: <https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PD
 | Butler | <https://butlercountypa.gov/356> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Butler County, PA and its representatives. All rights reserved.' No reuse or redistribution clause. Footer has Copyright Notices and Privacy Policy links, no terms or disclaimer link. ([terms](https://butlercountypa.gov/copyright)) |
 | Monroe | <https://www.monroecountypa.gov/Departments/Tax-Claim> | 2026-10-28 | no terms page found: footer shows only '© 2026 Monroe County' and links to ADA, Courts and Site Map; no terms, disclaimer, privacy or copyright link. |
 | Beaver | <https://www.beavercountypa.gov/Departments/Assessment-Office> | 2026-10-28 | no terms page found: footer shows only '© 2026 Beaver County' with About Us and Bids and Proposals links; no terms, disclaimer, privacy or legal link. |
+| Adams | <https://www.adamscountypa.gov/departments/taxservices/taxclaim> | 2026-10-28 | Terms of Use (PDF) has no clause forbidding reuse, reproduction or redistribution of county information and no personal or noncommercial-use limit; it bars access 'through any means not intentionally made available' and use that could overburden the site. Footer: '© 2026 Adams County'. Restate facts only. ([terms](https://www.adamscountypa.gov/getmedia/f8d658bb-5b6b-45f5-8a58-5151938c9443/AdamsCountyTermsOfUse.pdf)) |
+| Franklin | <https://franklincountypa.gov/tax-claim/> | 2026-10-28 | no terms page found: the footer has no terms, disclaimer, copyright or legal link; its Notices list only an Open Records Policy, Social Media Public Comment Policy, HIPAA Privacy Notice (about personal health data), Non-Discrimination Regulation and Grievance Process. |
+| Lycoming | <https://lycomingcountypa.gov/government/departments/tax_claims/tax_sale.php> | 2026-10-28 | no terms page found: footer shows a 'Privacy Policy' link that points to the home page and an admin login; no terms, disclaimer, copyright or legal link. |
+| Mercer | <https://www.mercercountypa.gov/tax/Sales.htm> | 2026-10-28 | no terms page found: footer shows only '2025 Mercer County M.I.S.' and Home, Departments, Holidays and social links; no terms, disclaimer, privacy or copyright link. The page says the Bureau never guarantees title. |
+| Mercer | <https://www.mercercountypa.gov/tax/judicialsales.htm> | 2026-10-28 | Same site footer; no terms, disclaimer or copyright link. |
 
 ## Rhode Island
 
@@ -1191,6 +1203,7 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 | Taylor | <https://taylor-cad.org/wp-content/uploads/2025/08/Tax-Sale-FAQs.pdf> | 2026-10-27 | not found (FAQ PDF) |
 | Wichita | <https://wichitacountysheriffsoffice.org/?p=143> | 2026-10-27 | No terms of use or disclaimer found; footer reads '© All Rights Reserved Wichita County'. No reuse or redistribution clause found. Restate facts only. |
 | Victoria | <https://www.victoriacountytx.gov/page/tax.office.tax.sale.properties> | 2026-10-27 | Copyright Notices page shows only 'All content © 2006-2026 Victoria County, TX and its representatives. All rights reserved.' (plus the CivicPlus CMS copyright). No reuse or redistribution clause found; footer has no separate terms or disclaimer link. Restate facts only. ([terms](https://www.victoriacountytx.gov/copyright)) |
+| Randall | <https://www.randallcounty.gov/293/Sheriff-Sale> | 2026-10-28 | Disclaimer says users may view and use the website contents 'only for lawful purposes' ('All other uses are prohibited'), information is provided 'as is' and accuracy is not guaranteed. No ban on reproduction or redistribution; restate facts only. ([terms](https://www.randallcounty.gov/disclaimer)) |
 
 ## Utah
 

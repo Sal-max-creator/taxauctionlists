@@ -1145,6 +1145,85 @@
           "quote": "Sales take place at Clark County Commission Chambers, 5th floor of the Municipal Court Building."
         }
       ]
+    },
+    {
+      "county": "Muskingum",
+      "slug": "muskingum",
+      "office": "Muskingum County Sheriff's Office (Delinquent Tax Sales)",
+      "phone": "(740) 452-3637 (Sheriff's Office; delinquent tax contact ext. 6126); (740) 455-7118 (Treasurer's Office)",
+      "address": "1840 East Pike, Zanesville, OH 43701",
+      "website": "https://www.ohiomuskingumsheriff.org/Sheriff-Sales/Delinquent-Tax-Sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Sheriff Sales for both private (i.e., lender) foreclosures and tax foreclosures are held on Thursday’s at 10:00 a.m.",
+      "sales": [],
+      "next_sale_note": "No dated delinquent tax sale is listed on the Sheriff's Delinquent Tax Sales page; sales are held on Thursdays at 10:00 a.m. by advance scheduling of the Sheriff's Office.",
+      "how_to_bid": "In person in the Muskingum County Courthouse lobby; interested parties must attend personally or by representative (no mail bids). The minimum bid is the amount of the delinquent taxes, assessments and court costs. The minimum down payment is due the day of the sale by cashier's/certified check or money order (no cash or credit cards); the amount is not stated. The balance is due within 30 days of receipt of the Confirmation of Sale Entry. Registration rules are not stated.",
+      "sources": [
+        {
+          "url": "https://www.ohiomuskingumsheriff.org/Sheriff-Sales/Delinquent-Tax-Sales/",
+          "read_on": "2026-10-28",
+          "terms": "Disclaimer page disclaims accuracy and liability and has no clause on reproduction, reuse or redistribution of site content (its only copying language concerns materials others store on the server). Footer: '© 2026 All Rights Reserved' (copyright only). Restate facts only.",
+          "terms_url": "https://www.ohiomuskingumsheriff.org/Disclaimer/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ohiomuskingumsheriff.org/Sheriff-Sales/Delinquent-Tax-Sales/",
+          "quote": "in the Muskingum County Courthouse, lobby, by advance scheduling of the Sheriff’s Office."
+        },
+        {
+          "url": "https://www.ohiomuskingumsheriff.org/Sheriff-Sales/Delinquent-Tax-Sales/",
+          "quote": "Interested parties must attend personally or by representative at the sale."
+        }
+      ]
+    },
+    {
+      "county": "Wood",
+      "slug": "wood",
+      "office": "Wood County Sheriff's Office (Sheriff Sales)",
+      "phone": "(419) 354-9373 (Deputy, sheriff sales); 419-354-9000 (Sheriff's Office)",
+      "address": "One Courthouse Square, Bowling Green, OH 43402",
+      "website": "https://woodcountysheriff.com/sheriff-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": {
+        "name": "RealAuction (bank foreclosures only, not tax sales)",
+        "url": "https://wood.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated delinquent tax sale is posted on the Sheriff's sales page; it says delinquent tax sales are held in person at the Wood County Courthouse on the listed date at 10:00 AM.",
+      "how_to_bid": "Delinquent tax sales are held in person at the Wood County Courthouse, One Courthouse Square, Bowling Green, at 10:00 AM on the listed date. For a tax sale the deposit is 10% of the starting bid, but no less than $1,000.00, paid to the Sheriff's Deputy by personal or certified check once the day's sales are completed; the remainder is due in 30 to 90 days. A buyer who cannot complete the purchase may be cited for contempt of court. Bank foreclosures are sold separately online through RealAuction. Registration rules for tax sales are not stated.",
+      "sources": [
+        {
+          "url": "https://woodcountysheriff.com/sheriff-sales/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found on the Sheriff's site (no terms, disclaimer, privacy or copyright link or text was shown). The county site (woodcountyohio.gov/381/Sheriff-Sales) links a Copyright Notices page: 'All content © 2006-2026 Wood County, OH and its representatives. All rights reserved.' (copyright only, no reuse clause).",
+          "terms_url": "https://www.woodcountyohio.gov/copyright"
+        },
+        {
+          "url": "https://www.woodcountyohio.gov/381/Sheriff-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices: 'All content © 2006-2026 Wood County, OH and its representatives. All rights reserved.' No reuse or redistribution clause.",
+          "terms_url": "https://www.woodcountyohio.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://woodcountysheriff.com/sheriff-sales/",
+          "quote": "All Delinquent Tax Sales will still be held in person at the Wood County Courthouse on the listed date at 10:00 AM."
+        },
+        {
+          "url": "https://woodcountysheriff.com/sheriff-sales/",
+          "quote": "If the property has not been appraised (i.e. a tax sale) then the deposit will be 10% of the starting bid."
+        },
+        {
+          "url": "https://woodcountysheriff.com/sheriff-sales/",
+          "quote": "No deposit will be less than $1,000.00."
+        }
+      ]
     }
   ]
 }

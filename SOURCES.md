@@ -659,6 +659,7 @@ State overview: <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html>
 | Anderson | <https://andersoncountyks.org/treasurer/> | 2026-10-28 | same as above |
 | Franklin | <https://www.franklincoks.org/495/Tax-Foreclosures> | 2026-10-28 | No terms of use, disclaimer or privacy link found in the footer (CivicPlus site). The site's copyright page shows only footer notices: 'All content © 2006-2026 Franklin County, KS and its representatives. All rights reserved.' No reuse, personal or noncommercial-use limit, or automated-access ban found. ([terms](https://www.franklincoks.org/site/copyright)) |
 | Osage | <https://www.osageco.org/248/Tax-Collection> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Osage County, KS and its representatives. All rights reserved.' No reuse, commercial or personal-only use, or automated-access clause found. Footer has no terms, disclaimer or privacy link. ([terms](https://www.osageco.org/site/copyright)) |
+| Lyon | <https://lyoncountyks.gov/DocumentCenter/View/1334/Tax-Sale-Guidelines---Updated-July-1-2025-PDF?bidId=> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Lyon County, KS and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has Copyright Notices and Privacy Policy links, no terms or disclaimer page. ([terms](https://lyoncountyks.gov/copyright)) |
 
 ## Kentucky
 
@@ -882,6 +883,8 @@ State overview: <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.170
 | Taney | <https://taneycounty.org/index.php?department=10&section=departments> | 2026-10-28 | No terms page found: the footer reads 'Copyright 2004 - 2026 Taney County, Missouri.' with no disclaimer, terms or privacy link. Copyright-only; no reuse restriction found. |
 | Saline | <https://www.salinecountymo.gov/collector> | 2026-10-28 | No terms, disclaimer, legal or privacy link on the page (Wix-built site); footer copyright only: '© 2026 by Saline County Commission. All rights reserved.' No reuse, commercial-use or automated-access clause found. |
 | Lincoln | <https://www.lincolncomo.gov/tax-collector-tax-sale> | 2026-10-28 | No terms page found: no terms, disclaimer, privacy or copyright link or text in the footer; only the vendor credit 'Powered by MCCi Government Websites' (no vendor terms link). No reuse restriction found. |
+| Andrew | <https://andrewcounty.org/offices/collector/tax-auction> | 2026-10-28 | No terms, disclaimer, copyright or privacy page found: the site footer has only an Accessibility Statement link and links to state and association sites. No reuse restriction found. ([terms](https://andrewcounty.org/offices/collector/tax-auction)) |
+| St. Francois | <https://www.sfcgov.org/?p=64> | 2026-10-28 | No terms, disclaimer or privacy link in the site footer; it reads '© Copyright \| Saint Francois County \| All Rights Reserved \| Powered by Munission'. Copyright-only; no reuse restriction found. ([terms](https://www.sfcgov.org/?p=64)) |
 
 ## Montana
 
@@ -1247,7 +1250,6 @@ State overview: <https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PD
 | Bucks | <https://buckscounty.gov/323> | 2026-10-27 | Same site; see copyright notice above. ([terms](https://buckscounty.gov/copyright)) |
 | Bucks | <https://www.buckscounty.gov/DocumentCenter/View/4601/2026-NOTICE-OF-PUBLIC-TAX-SALE> | 2026-10-27 | Same site; see copyright notice above. ([terms](https://buckscounty.gov/copyright)) |
 | Montgomery | <https://www.montgomerycountypa.gov/taxclaim> | 2026-10-27 | RESTRICTIVE: county disclaimer says 'The information provided herewith is solely for your own use and cannot be sold.' Also 'Copyright 2026 Montgomery County, PA — All Rights Reserved.' ([terms](https://www.montgomerycountypa.gov/your-government/administration/solicitor/disclaimer)) |
-| Montgomery | <https://assets.montgomerycountypa.gov/files/2026-08/2026%20Judicial%20Sale%20List%208.7.26.pdf> | 2026-10-27 | Same county disclaimer applies (personal use only; cannot be sold). ([terms](https://www.montgomerycountypa.gov/your-government/administration/solicitor/disclaimer)) |
 | Delaware | <https://www.delcopa.gov/treasurer/upsetsales> | 2026-10-27 | Terms page: '©2026 All rights reserved by County of Delaware, PA.' and prohibits unauthorized attempts to access, upload or change information on servers. No explicit copying, scraping or reuse clause found. ([terms](https://delcopa.gov/terms)) |
 | Delaware | <https://delcopa.gov/treasurer/upsetinstructions> | 2026-10-27 | Same site; see terms above. ([terms](https://delcopa.gov/terms)) |
 | Delaware | <https://delcopa.gov/treasurer/judicialsales> | 2026-10-27 | Same site; see terms above. ([terms](https://delcopa.gov/terms)) |
@@ -1444,7 +1446,6 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 | Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/november-3--2026.html> | 2026-10-27 | Tarrant County provides the website information as a public service; official records should be consulted. |
 | Tarrant | <https://www.tarrantcountytx.gov/en/constables/constable-3/delinquent-tax-sales/monthly-tax-sales-listings/december-1--2026.html> | 2026-10-27 | Tarrant County provides the website information as a public service; official records should be consulted. |
 | Collin | <https://www.collincountytx.gov/courts/constables/constable-precinct-1/sale-information> | 2026-10-27 | No reuse terms found. Privacy page disclaims accuracy/warranty ('make no representations as to the accuracy, completeness or suitability of the information'); footer 'Copyright © 2026 Collin County Texas · All Rights Reserved.' ([terms](https://www.collincountytx.gov/privacy)) |
-| Collin | <https://www.collincountytx.gov/courts/constables/constable-sales> | 2026-10-27 | same as above ([terms](https://www.collincountytx.gov/privacy)) |
 | Collin | <https://www.collincountytx.gov/sheriff/sheriff-sales> | 2026-10-27 | same as above ([terms](https://www.collincountytx.gov/privacy)) |
 | Collin | <https://www.collincountytx.gov/tax-assessor/properties-for-sale> | 2026-10-27 | same as above ([terms](https://www.collincountytx.gov/privacy)) |
 | Denton | <https://www.dentoncounty.gov/840/Sheriffs-Sale> | 2026-10-27 | No reuse terms found. Privacy page disclaims accuracy/warranty; copyright page: 'All content © 2006-2026 Denton County, TX and its representatives. All rights reserved.' ([terms](https://www.dentoncounty.gov/copyright)) |

@@ -595,6 +595,76 @@
           "quote": "Registration begins at 8:00 a.m. the morning of the sale."
         }
       ]
+    },
+    {
+      "county": "Andrew",
+      "slug": "andrew",
+      "office": "Andrew County Collector",
+      "phone": "816-324-3924 ext 3",
+      "address": "Andrew County Court House, 411 Court St., Savannah, MO 64485",
+      "website": "https://andrewcounty.org/offices/collector/tax-auction",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax sale is held annually, on the fourth Monday in August, commencing at 10:00 a.m.",
+      "sales": [],
+      "next_sale_note": "No dated upcoming sale is posted; the Collector's page gives the annual fourth-Monday-in-August rule. The sale is held at the Andrew County South Front Courthouse door.",
+      "how_to_bid": "Buyers must be present to bid and must sign an affidavit stating they are not currently delinquent on any tax payments on any property. Non-residents of Missouri may not bid unless special arrangements have been made with the Collector before the sale. The total purchase price must be paid to the Collector's office immediately at the close of the sale; credit card, cashier's check, bank draft or cash are accepted. If a bid is not paid, a penalty of 25% of the bid amount plus a Prosecuting Attorney's fee may be assessed. No separate registration or deposit is stated.",
+      "sources": [
+        {
+          "url": "https://andrewcounty.org/offices/collector/tax-auction",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, copyright or privacy page found: the site footer has only an Accessibility Statement link and links to state and association sites. No reuse restriction found.",
+          "terms_url": "https://andrewcounty.org/offices/collector/tax-auction"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://andrewcounty.org/offices/collector/tax-auction",
+          "quote": "The tax sale is held annually, on the fourth Monday in August, commencing at 10:00 a.m."
+        },
+        {
+          "url": "https://andrewcounty.org/offices/collector/tax-auction",
+          "quote": "Buyers must be present to bid."
+        },
+        {
+          "url": "https://andrewcounty.org/offices/collector/tax-auction",
+          "quote": "The total purchase price must be paid to the Collector's office immediately at the close of the sale."
+        },
+        {
+          "url": "https://andrewcounty.org/offices/collector/tax-auction",
+          "quote": "Non-residents of Missouri may not bid unless special arrangements have been made with the Collector prior to the sale."
+        }
+      ]
+    },
+    {
+      "county": "St. Francois",
+      "slug": "st-francois",
+      "office": "St. Francois County Collector",
+      "phone": "1-573-756-2645 or 1-573-431-6505 (Option 1 then 3)",
+      "address": "1 West Liberty Street, Annex Building, Suite 201, Farmington, Missouri 63640",
+      "website": "https://www.sfcgov.org/?p=64",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Collector holds the County Tax Sale on the 4th Monday in August each year.",
+      "sales": [],
+      "next_sale_note": "No dated upcoming sale is posted; the latest notice on the Collector's page was for the August 24, 2026 tax sale (past).",
+      "how_to_bid": "The Collector's page asks tax sale bidders to pre-register (its notice was for the 2026 sale). Location, deposit, payment and eligibility terms are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.sfcgov.org/?p=64",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; it reads '© Copyright | Saint Francois County | All Rights Reserved | Powered by Munission'. Copyright-only; no reuse restriction found.",
+          "terms_url": "https://www.sfcgov.org/?p=64"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.sfcgov.org/?p=64",
+          "quote": "The Collector holds the County Tax Sale on the 4th Monday in August each year."
+        }
+      ]
     }
   ]
 }

@@ -643,6 +643,51 @@
           "quote": "Payment will be on the date of sale, only by CASH or CERTIFIED CHECK"
         }
       ]
+    },
+    {
+      "county": "Lyon",
+      "slug": "lyon",
+      "office": "Lyon County Counselor (the Sheriff of Lyon County or a representative acts as auctioneer)",
+      "phone": "(620) 341-3234",
+      "address": "Lyon County Annex, 402 Commercial Street, Ste 123, Emporia, KS 66801",
+      "website": "https://lyoncountyks.gov/DocumentCenter/View/1334/Tax-Sale-Guidelines---Updated-July-1-2025-PDF?bidId=",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Lyon County real estate tax foreclosure sales are held yearly to collect unpaid real estate taxes.",
+      "sales": [],
+      "next_sale_note": "No dated upcoming sale is posted; the county's Tax Sale Guidelines (updated July 1, 2025) say sales are held yearly.",
+      "how_to_bid": "Bidders are required to register the evening of the sale and must present a photo ID for verification. A minimum bid of 5% of the taxes due on the date of the sale is required. All properties must be paid for on the day of the sale; checks are accepted, payable to Lyon County District Court. The Sheriff of Lyon County or a representative acts as auctioneer. The current owner may redeem the property at any time before 4:00 p.m. on the last working day before the day of sale. Questions go to the office of the Lyon County Counselor.",
+      "sources": [
+        {
+          "url": "https://lyoncountyks.gov/DocumentCenter/View/1334/Tax-Sale-Guidelines---Updated-July-1-2025-PDF?bidId=",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Lyon County, KS and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has Copyright Notices and Privacy Policy links, no terms or disclaimer page.",
+          "terms_url": "https://lyoncountyks.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lyoncountyks.gov/DocumentCenter/View/1334/Tax-Sale-Guidelines---Updated-July-1-2025-PDF?bidId=",
+          "quote": "Lyon County real estate tax foreclosure sales are held yearly to collect unpaid real estate taxes."
+        },
+        {
+          "url": "https://lyoncountyks.gov/DocumentCenter/View/1334/Tax-Sale-Guidelines---Updated-July-1-2025-PDF?bidId=",
+          "quote": "Bidders are required to register the evening of the sale."
+        },
+        {
+          "url": "https://lyoncountyks.gov/DocumentCenter/View/1334/Tax-Sale-Guidelines---Updated-July-1-2025-PDF?bidId=",
+          "quote": "A minimum bid of 5% of the taxes due on the date of the sale is required."
+        },
+        {
+          "url": "https://lyoncountyks.gov/DocumentCenter/View/1334/Tax-Sale-Guidelines---Updated-July-1-2025-PDF?bidId=",
+          "quote": "All properties must be paid for on the day of the sale."
+        },
+        {
+          "url": "https://lyoncountyks.gov/DocumentCenter/View/1334/Tax-Sale-Guidelines---Updated-July-1-2025-PDF?bidId=",
+          "quote": "The Sheriff of Lyon County or his representative will act as auctioneer for this sale."
+        }
+      ]
     }
   ]
 }

@@ -1383,6 +1383,47 @@
           "quote": "The opening bid will include all applicable taxes, penalties and costs."
         }
       ]
+    },
+    {
+      "county": "Ware",
+      "slug": "ware",
+      "office": "Ware County Tax Commissioner",
+      "phone": "(912) 490-4305",
+      "address": "305 Oak Street, Suite 115A, Waycross, GA 31501 (mailing: P.O. Box 1825, Waycross, GA 31502)",
+      "website": "https://warecountytax.com/news.html",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The sales are conducted on the first Tuesday of the month immediately following the final week of advertising.",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted on the Tax Commissioner's site. Properties scheduled for sale are advertised in the Saturday edition of the Waycross Journal Herald (legal section, under Sheriff Sales) for four consecutive weeks before the sale.",
+      "how_to_bid": "Tax levy sales are run by the Ware County Tax Commissioner and held in the Ware County Administration Building, Board of Commissioners Room, 305 Oak Street, Waycross. Sales are open to the public; a list of properties is available in Room 115A of the Administration Building at least one week before the sale. The successful bidder must pay the bid in cash or certified funds to the Tax Commissioner immediately after the sale and present valid state-issued identification. Sales are binding under O.C.G.A. 9-13-170. The county does not guarantee title; the purchaser has no use of the property or rents for at least one year; caveat emptor applies. Start time, registration and deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://warecountytax.com/news.html",
+          "read_on": "2026-10-28",
+          "terms": "Terms & Conditions page is Government Window, LLC's (the tax office's web/payment vendor); it covers online payments, data privacy, liability, refunds and jurisdiction and says nothing about copying, reuse or republishing site content. Footer: '© Government Window, LLC. All Rights Reserved.' No restriction on reuse found.",
+          "terms_url": "https://warecountytax.com/terms.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://warecountytax.com/news.html",
+          "quote": "The sales are conducted on the first Tuesday of the month immediately following the final week of advertising."
+        },
+        {
+          "url": "https://warecountytax.com/news.html",
+          "quote": "All tax sales will be held in the Ware County Administration Building, Board of Commissioners Room,"
+        },
+        {
+          "url": "https://warecountytax.com/news.html",
+          "quote": "The successful bidder must be ready to pay the bid amount in CASH OR CERTIFIED FUNDS"
+        },
+        {
+          "url": "https://warecountytax.com/news.html",
+          "quote": "All successful bidders will be required to present valid state issued identification."
+        }
+      ]
     }
   ]
 }

@@ -541,6 +541,43 @@
           "quote": "There are no over-the-counter, phone, or fax purchasing."
         }
       ]
+    },
+    {
+      "county": "Stone",
+      "slug": "stone",
+      "office": "Stone County Tax Assessor and Collector",
+      "phone": "601-928-3121",
+      "address": "308 Court Street, Wiggins, MS 39577",
+      "website": "https://www.stonecountyms.gov/tax-assessor-and-collector/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Last Monday in August - Property tax sale of all delinquent accounts.",
+      "sales": [],
+      "next_sale_note": "No dated 2027 sale posted; the county page gives only the standing rule (last Monday in August). It also lists July 31st as the last day to pay real estate taxes to keep them from being published in the newspaper.",
+      "how_to_bid": "The Tax Collector holds the tax sale once a year for unpaid real estate taxes and special assessments, on the last Monday in August. Time, place, format (in person or online), registration, deposit and payment: not stated on the page; call the office at 601-928-3121.",
+      "sources": [
+        {
+          "url": "https://www.stonecountyms.gov/tax-assessor-and-collector/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found; no terms, disclaimer, privacy, legal or copyright link or text in the page or footer content read. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.stonecountyms.gov/tax-assessor-and-collector/",
+          "quote": "Last Monday in August - Property tax sale of all delinquent accounts."
+        },
+        {
+          "url": "https://www.stonecountyms.gov/tax-assessor-and-collector/",
+          "quote": "The Tax Collector must advertise and hold a tax sale once a year"
+        },
+        {
+          "url": "https://www.stonecountyms.gov/tax-assessor-and-collector/",
+          "quote": "July 31st - Last day to pay real estate taxes to keep them from being published in the newspaper."
+        }
+      ]
     }
   ]
 }

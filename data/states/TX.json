@@ -1841,6 +1841,39 @@
           "quote": "Orange County tax sales are generally held two to three times a year."
         }
       ]
+    },
+    {
+      "county": "Matagorda",
+      "slug": "matagorda",
+      "office": "Matagorda County Tax Assessor-Collector & Voter Registrar",
+      "phone": "(979) 789-5100 (Motor Vehicle & Property Tax)",
+      "address": "1801 7th Street, Bay City, Texas 77414-5091",
+      "website": "https://newtools.cira.state.tx.us/page/Matagorda.County.Assessor.Collector",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": "Tax Sales are the 1st Tuesday of Month.",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted on the county page.",
+      "how_to_bid": "Sales are online: the county page links to its online auctions hosted by Realauction.com and posts an 'Online Tax Sale Instructions' PDF. Written statements (about delinquent taxes) must be turned in a week before the sale date. Deposit, payment and registration terms: not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://newtools.cira.state.tx.us/page/Matagorda.County.Assessor.Collector",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer text on the page. Footer shows only 'Copyright © {{YEAR}} {{COUNTY}} {{STATE}}' (unfilled template), 'powered by ezTask Titanium' and 'Provided by the Texas Association of Counties', plus an Accessibility link; no terms, disclaimer, legal or privacy link found. No reuse restriction found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://newtools.cira.state.tx.us/page/Matagorda.County.Assessor.Collector",
+          "quote": "Tax Sales are the 1st Tuesday of Month."
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/page/Matagorda.County.Assessor.Collector",
+          "quote": "Written Statements must be turned in a week before the Sale Date."
+        }
+      ]
     }
   ]
 }

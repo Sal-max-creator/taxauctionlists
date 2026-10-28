@@ -156,6 +156,10 @@ State overview: <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https
 | Boone | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
 | Independence | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page disclaimer: 'The documents and materials displayed on the web sites are for information purposes only.' Linking section says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
 | Independence | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Columbia | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page: 'The documents and materials displayed on the web sites are for information purposes only.' and 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' Footer '© 2026 - Commissioner of State Lands \| All rights reserved.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
+| Columbia | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Polk | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page: 'The documents and materials displayed on the web sites are for information purposes only.' and 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' Footer '© 2026 - Commissioner of State Lands \| All rights reserved.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
+| Polk | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
 
 ## California
 
@@ -374,6 +378,7 @@ State overview: <https://www.flsenate.gov/Laws/Statutes/2025/197.172>, <https://
 | Wakulla | <http://www.wakullaclerk.com/taxdeed.asp> | 2026-10-28 | No terms, disclaimer, privacy, legal or copyright link or line found on the page (it has no footer). No reuse restriction found. |
 | Levy | <https://levyclerk.com/departments-services/administration/tax-deed-sales/> | 2026-10-28 | No footer terms, privacy or copyright link found. The page's in-page Disclaimer (accepted before entering the Tax Deeds Portal) says the Clerk does not guarantee the accuracy or reliability of the content, users must verify information, and the Clerk is not liable for errors. No restriction on reuse or redistribution found. |
 | Madison | <https://www.madisonclerk.com/departments-services/property-sales/tax-deed-sales/> | 2026-10-28 | Footer links only a Privacy Policy, Accessibility Policy, sitemap and the site vendor (KMA); no terms-of-use or legal link. Footer: '©2026 Madison County Clerk of the Circuit Court & Comptroller. All rights reserved.' In-page disclaimer covers buyer beware, title and liability for errors only. Copyright-only, no reuse restriction found. |
+| Taylor | <https://taylorclerk.com/departments/tax-deeds/> | 2026-10-28 | Footer links a Privacy Policy, Accessibility Policy, sitemap and the site vendor (KMA); no separate terms or disclaimer link. The Privacy Policy page also covers terms of use; its Prohibited Uses section bars only unlawful transmission or storage of information, and the page says the site 'is for informational purposes only and is offered as a convenience for our customers.' Footer: '©2026 Taylor Clerk of the Circuit Court & County Comptroller. All rights reserved.' No reuse restriction found. ([terms](https://taylorclerk.com/privacy-policy/)) |
 
 ## Georgia
 
@@ -508,6 +513,9 @@ State overview: <https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-21
 | Jackson | <https://www.jacksoncounty-il.gov/263/Treasurer> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Jackson County, IL and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no disclaimer or terms link (Privacy and Accessibility links only). ([terms](https://www.jacksoncounty-il.gov/copyright)) |
 | Jackson | <https://www.jacksoncounty-il.gov/267/Delinquent-Tax-Properties> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Jackson County, IL and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no disclaimer or terms link (Privacy and Accessibility links only). ([terms](https://www.jacksoncounty-il.gov/copyright)) |
 | Whiteside | <https://whitesidecountyil.gov/226/Tax-Sale-Information> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Whiteside County, IL and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no terms, disclaimer or privacy link. Copyright-only; no reuse restriction found. ([terms](https://whitesidecountyil.gov/copyright)) |
+| Bond | <https://bondcountyil.gov/treasurer/tax-sale-information/> | 2026-10-28 | No terms, disclaimer or privacy link in the site footer; footer shows only '© 2026. Bond County, Illinois. All rights reserved.' No reuse, commercial-use or automated-access clause found. Restate facts only. |
+| Clinton | <https://www.clintonco.illinois.gov/treasurer/> | 2026-10-28 | No terms, disclaimer or privacy link in the site footer; footer shows only '© Clinton County, Illinois'. No reuse, commercial-use or automated-access clause found. Restate facts only. |
+| Fayette | <https://www.fayettecountyillinois.gov/county-offices/county-treasurer/> | 2026-10-28 | No terms, disclaimer or privacy link in the site footer; footer shows only '© 2026 Fayette County, IL All Rights Reserved'. No reuse, commercial-use or automated-access clause found. Restate facts only. |
 
 ## Indiana
 
@@ -1123,6 +1131,7 @@ State overview: <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.
 | Ottawa | <https://oktaxrolls.com/county/Ottawa> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com page, plus a notice that errors do not waive tax amounts. No terms of use page and no reuse restriction stated. Copyright-only. |
 | Caddo | <https://oktaxrolls.com/county/Caddo> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc' on the Treasurer's oktaxrolls.com page, plus a notice that errors do not waive tax amounts. No terms of use page and no reuse restriction stated. Copyright-only. |
 | Beckham | <https://oktaxrolls.com/county/beckham> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com page, plus a notice that errors do not waive amounts. No terms of use page and no reuse restriction stated. Copyright-only. |
+| Garvin | <https://oktaxrolls.com/county/Garvin> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' and a notice that errors do not waive tax amounts. No terms of use page and no reuse restriction stated. Copyright-only. |
 
 ## Oregon
 
@@ -1398,6 +1407,7 @@ State overview: <https://www.hctax.net/Property/TaxSales>, <https://www.hctax.ne
 | Jackson | <https://newtools.cira.state.tx.us/page/jackson.County.Assessor.Collector> | 2026-10-28 | County page (Texas Association of Counties CIRA hosting) has no terms, disclaimer or legal link; the copyright line is an unfilled template ('Copyright © {{YEAR}} {{COUNTY}} {{STATE}}'). No reuse clause found. Restate facts only. |
 | Orange | <https://www.co.orange.tx.us/departments/TaxAssessor-Collector/property-tax-sale-faqs> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer shows only a 'Site By EvoGov' vendor credit (no vendor terms link) and 2023 copyright metadata. No reuse clause found. Restate facts only. |
 | Orange | <https://www.co.orange.tx.us/departments/taxassessor-collector/PropertyTaxSales> | 2026-10-28 | Same county site and footer; no terms page found. |
+| Matagorda | <https://newtools.cira.state.tx.us/page/Matagorda.County.Assessor.Collector> | 2026-10-28 | No terms or disclaimer text on the page. Footer shows only 'Copyright © {{YEAR}} {{COUNTY}} {{STATE}}' (unfilled template), 'powered by ezTask Titanium' and 'Provided by the Texas Association of Counties', plus an Accessibility link; no terms, disclaimer, legal or privacy link found. No reuse restriction found. Restate facts only. |
 
 ## Utah
 

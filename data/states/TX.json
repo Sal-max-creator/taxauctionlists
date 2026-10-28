@@ -1714,6 +1714,133 @@
           "quote": "Successful bidders must pay for their property with cash or a cashier's check payable to Wharton County Sheriff Department."
         }
       ]
+    },
+    {
+      "county": "Montague",
+      "slug": "montague",
+      "office": "Montague County Tax Office (sales conducted through the county's delinquent tax attorneys)",
+      "phone": "not stated",
+      "address": "Montague County Courthouse, 11339 TX-59, Montague, TX 76251",
+      "website": "https://newtools.cira.state.tx.us/page/montague.TAC.TaxSales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales may only be conducted on the first Tuesday of the month.",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted. The Tax Office says to confirm the next sale on its delinquent tax attorneys' website, where the property list appears about 30 days before a sale.",
+      "how_to_bid": "Sales are held at 10 am on the east side of the Montague County Courthouse at 101 E Franklin, Montague. When a sale is set, the list of properties, minimum bids, property information and general bidding rules are posted on the website of the county's delinquent tax attorneys (Perdue Brandon Fielder Collins & Mott, LLP, as named on the county page) about 30 days ahead. Sales follow the Texas Property Tax Code and Texas Rules of Civil Procedure; Texas does not sell tax lien certificates. Deposit, payment terms and registration: not stated.",
+      "sources": [
+        {
+          "url": "https://newtools.cira.state.tx.us/page/montague.TAC.TaxSales",
+          "read_on": "2026-10-28",
+          "terms": "County page (Texas Association of Counties CIRA hosting) has no terms, disclaimer or legal link; the copyright line is an unfilled template ('Copyright © {{YEAR}} {{COUNTY}} {{STATE}}'). No reuse clause found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://newtools.cira.state.tx.us/page/montague.TAC.TaxSales",
+          "quote": "Tax sales may only be conducted on the first Tuesday of the month."
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/page/montague.TAC.TaxSales",
+          "quote": "1st Tuesday of the month at 10 am."
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/page/montague.TAC.TaxSales",
+          "quote": "East side of the Montague County Courthouse at 101 E Franklin, Montague, TX 76251."
+        }
+      ]
+    },
+    {
+      "county": "Jackson",
+      "slug": "jackson",
+      "office": "Jackson County Tax Assessor-Collector (sales held online by the Jackson County Sheriff's office)",
+      "phone": "361-782-3473",
+      "address": "115 West Main, Room 102, Edna, TX 77957",
+      "website": "https://newtools.cira.state.tx.us/page/jackson.County.Assessor.Collector",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (sheriffsaleauctions.com)",
+        "url": "https://jackson.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": "The property tax sales will be on the first Tuesday of the Month",
+      "sales": [],
+      "next_sale_note": "The Tax Assessor-Collector's page lists only a July 7, 2026 sale; no later sale date is posted.",
+      "how_to_bid": "Sales are held online on RealAuction; register on the RealAuction site linked from the county page (RealAuction phone (877) 361-7325, option #2, as given on the page). The page advises making deposits at least a week before the sale. Property details come from the county's delinquent tax attorneys (Linebarger, Goggan, Blair & Sampson, LLP, as named on the page). Deposit amount, sale time and payment terms: not stated.",
+      "sources": [
+        {
+          "url": "https://newtools.cira.state.tx.us/page/jackson.County.Assessor.Collector",
+          "read_on": "2026-10-28",
+          "terms": "County page (Texas Association of Counties CIRA hosting) has no terms, disclaimer or legal link; the copyright line is an unfilled template ('Copyright © {{YEAR}} {{COUNTY}} {{STATE}}'). No reuse clause found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://newtools.cira.state.tx.us/page/jackson.County.Assessor.Collector",
+          "quote": "The property tax sales will be on the first Tuesday of the Month:"
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/page/jackson.County.Assessor.Collector",
+          "quote": "The County has chosen Realauction.com to host their sales."
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/page/jackson.County.Assessor.Collector",
+          "quote": "(Deposits should be made at least a week prior to the sale, to be safe.)"
+        }
+      ]
+    },
+    {
+      "county": "Orange",
+      "slug": "orange",
+      "office": "Orange County Tax Assessor-Collector",
+      "phone": "(409) 882-7971",
+      "address": "Administration Building, 123 South 6th Street, Orange, TX 77630",
+      "website": "https://www.co.orange.tx.us/departments/taxassessor-collector/PropertyTaxSales",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (sheriffsaleauctions.com)",
+        "url": "https://orange.texas.sheriffsaleauctions.com/"
+      },
+      "schedule_rule": "Tax sales may only be held on the first Tuesday of each month.",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted. The county says tax sales are generally held two to three times a year and are advertised in the local newspaper for three consecutive weeks before the sale.",
+      "how_to_bid": "Sales are held online at orange.texas.sheriffsaleauctions.com and begin at 10:00 am; any member of the public may bid. The officer reads each property description and the minimum opening bid, and the property goes to the highest bidder. Successful bidders are expected to pay within 24 hours; accepted payment forms are on the auction site. A winner must show an unexpired written statement (no delinquent taxes owed) before a deed is delivered. Sales are final, and the former owner keeps a statutory right of redemption under Sec. 34.21 of the Texas Property Tax Code. Unsold properties are struck off to the county in trust and offered later by a 30-day sealed or open bid process. Deposit and registration terms: not stated on the county pages.",
+      "sources": [
+        {
+          "url": "https://www.co.orange.tx.us/departments/TaxAssessor-Collector/property-tax-sale-faqs",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; footer shows only a 'Site By EvoGov' vendor credit (no vendor terms link) and 2023 copyright metadata. No reuse clause found. Restate facts only.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.co.orange.tx.us/departments/taxassessor-collector/PropertyTaxSales",
+          "read_on": "2026-10-28",
+          "terms": "Same county site and footer; no terms page found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.orange.tx.us/departments/TaxAssessor-Collector/property-tax-sale-faqs",
+          "quote": "Tax sales may only be held on the first Tuesday of each month."
+        },
+        {
+          "url": "https://www.co.orange.tx.us/departments/TaxAssessor-Collector/property-tax-sale-faqs",
+          "quote": "Sales are held online @ orange.texas.sheriffsaleauctions.com, and begin at 10:00 am."
+        },
+        {
+          "url": "https://www.co.orange.tx.us/departments/TaxAssessor-Collector/property-tax-sale-faqs",
+          "quote": "Successful bidders are expected to pay for the property within 24 hours."
+        },
+        {
+          "url": "https://www.co.orange.tx.us/departments/TaxAssessor-Collector/property-tax-sale-faqs",
+          "quote": "Orange County tax sales are generally held two to three times a year."
+        }
+      ]
     }
   ]
 }

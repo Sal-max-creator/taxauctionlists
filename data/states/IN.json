@@ -415,6 +415,41 @@
           "quote": "No personal checks will be accepted."
         }
       ]
+    },
+    {
+      "county": "LaPorte",
+      "slug": "laporte",
+      "office": "La Porte County Treasurer (sale through SRI Inc.)",
+      "phone": "219-326-6808 Ext. 2145 (La Porte office); 219-874-5611 Ext. 2062 (Michigan City office); Auditor 219-326-6808 Ext. 2004",
+      "address": "555 Michigan Avenue, Suite 102, La Porte, IN 46350",
+      "website": "https://laporteco.in.gov/residents/county-treasurer/real-estate-tax-sale/",
+      "sale_type": "hybrid",
+      "format": "unknown",
+      "platform": {
+        "name": "SRI Inc.",
+        "url": "https://sriservices.com/"
+      },
+      "schedule_rule": "the annual tax sale is typically held in October",
+      "sales": [],
+      "next_sale_note": "No dated 2026 or 2027 tax sale is posted on the county's page; it says the annual tax sale is typically held in October. The Commissioner's Certificate Sale listed for March 18, 2026 is past.",
+      "how_to_bid": "Bidders must register with SRI before the sale; the property list is published on SRI's tax sale website as part of the required public notice. A $220.00 tax sale administration fee is added to a property's delinquent amount once it is scheduled. For tax sale procedures and redemption, call the Auditor's Office at 219-326-6808 Ext. 2004.",
+      "sources": [
+        {
+          "url": "https://laporteco.in.gov/residents/county-treasurer/real-estate-tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal, privacy or copyright link in the footer; footer reads 'Maintained by © La Porte County Online Government'. No reuse restriction found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://laporteco.in.gov/residents/county-treasurer/real-estate-tax-sale/",
+          "quote": "Bidders must register with SRI prior to the sale."
+        },
+        {
+          "url": "https://laporteco.in.gov/residents/county-treasurer/real-estate-tax-sale/",
+          "quote": "the annual tax sale is typically held in October"
+        }
+      ]
     }
   ]
 }

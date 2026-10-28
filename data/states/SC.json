@@ -551,6 +551,106 @@
         }
       ],
       "register_by": "2026-11-20"
+    },
+    {
+      "county": "Lancaster",
+      "slug": "lancaster",
+      "office": "Lancaster County Delinquent Tax Collector's Office",
+      "phone": "803-283-8885",
+      "address": "101 N Main Street, Lancaster, SC 29720 (mail: P.O. Box 1809, Lancaster, SC 29721)",
+      "website": "https://www.lancastercountysc.gov/194/Delinquent-Tax-Collection",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-09",
+          "time": "9:00 AM",
+          "label": "Lancaster County delinquent tax sale",
+          "deposit": "not stated; a nonrefundable $25 bidder registration fee is due at registration",
+          "registration_deadline": "Bidders may register online at THIS LINK with a $25 Fee September 8, 2026, through November 5, 2026. Any bidder wishing to register November 6, 2026, MUST apply in person or via phone call as the online link will be closed November 5, 2026.",
+          "note": "Held at the Springdale Recreation Center, 260 S Plantation Road, Lancaster, SC. No personal checks accepted.",
+          "source_url": "https://www.lancastercountysc.gov/194/Delinquent-Tax-Collection",
+          "quote": "will sell to the highest bidder on sales day, November 9, 2026, at 9 am.",
+          "register_by": "2026-11-06"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register as a bidder with the Delinquent Tax Collector's Office (online form linked from the county page, or in person or by phone) and pay the nonrefundable $25 registration fee; there is no registration on sale day. Property is sold to the highest bidder at the public sale at the Springdale Recreation Center; personal checks are not accepted. Deposit and other payment terms for bidders are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.lancastercountysc.gov/194/Delinquent-Tax-Collection",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link in the footer. The footer 'Copyright Notices' page shows only 'All content © 2006-2026 Lancaster County, SC and its representatives. All rights reserved.' (and a CivicPlus CMS copyright line). No reuse restriction found.",
+          "terms_url": "https://www.lancastercountysc.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lancastercountysc.gov/194/Delinquent-Tax-Collection",
+          "quote": "will sell to the highest bidder on sales day, November 9, 2026, at 9 am."
+        },
+        {
+          "url": "https://www.lancastercountysc.gov/194/Delinquent-Tax-Collection",
+          "quote": "NONREFUNDABLE BIDDER REGISTRATION FEE OF $25 DUE AT TIME OF REGISTRATION."
+        },
+        {
+          "url": "https://www.lancastercountysc.gov/194/Delinquent-Tax-Collection",
+          "quote": "There will be NO Registration on the day of the tax sale."
+        },
+        {
+          "url": "https://www.lancastercountysc.gov/194/Delinquent-Tax-Collection",
+          "quote": "No personal checks accepted"
+        }
+      ]
+    },
+    {
+      "county": "Oconee",
+      "slug": "oconee",
+      "office": "Oconee County Delinquent Tax Office",
+      "phone": "864-638-4147",
+      "address": "415 S. Pine St., Walhalla, SC 29691",
+      "website": "https://oconeesc.com/delinquent-tax",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county's timeline places the yearly sale in October, November or December. No sale date was posted on the sale list page when we checked on Oct. 28, 2026, so call the Delinquent Tax Office to confirm.",
+      "how_to_bid": "Only registered bidders may take part. Register free of charge, online or in person at the Delinquent Tax Office, during the week before the sale; a valid photo ID is required. Properties are auctioned in alphabetical order to the highest bidder. Pay in full by 4:00 PM on the day of the sale with cash, money order or certified funds (no personal or company checks); a bidder who does not pay is in default and liable for $500 per parcel. The defaulting taxpayer, a grantee or a mortgage or judgment creditor has one year from the sale to redeem; on redemption the bidder is refunded the bid plus interest of 3% to 12% depending on the quarter.",
+      "sources": [
+        {
+          "url": "https://oconeesc.com/delinquent-tax/sale-list",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer; footer reads 'Copyright © 2026 Oconee County' plus a 'Designed & hosted by AE Tech Consulting' credit (no vendor terms link). No reuse restriction found.",
+          "terms_url": "https://oconeesc.com/delinquent-tax/sale-list"
+        },
+        {
+          "url": "https://oconeesc.com/delinquent-tax/tax-sale-information",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://oconeesc.com/delinquent-tax/tax-sale-information"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oconeesc.com/delinquent-tax/tax-sale-information",
+          "quote": "Only registered bidders may participate in the tax sale."
+        },
+        {
+          "url": "https://oconeesc.com/delinquent-tax/tax-sale-information",
+          "quote": "A valid photo ID is required for registration."
+        },
+        {
+          "url": "https://oconeesc.com/delinquent-tax/tax-sale-information",
+          "quote": "Properties will be auctioned in alphabetical order to the highest bidder."
+        },
+        {
+          "url": "https://oconeesc.com/delinquent-tax/tax-sale-information",
+          "quote": "Payment must be made in full with cash, money order, or certified funds by 4:00 PM on the day of the sale."
+        }
+      ]
     }
   ]
 }

@@ -574,6 +574,108 @@
           "quote": "We are excited to announce that the Maury County TN sale will be held online."
         }
       ]
+    },
+    {
+      "county": "Hawkins",
+      "slug": "hawkins",
+      "office": "Hawkins County Clerk & Master (Chancery Court)",
+      "phone": "423-272-8150",
+      "address": "100 E. Main Street, Suite 316, Rogersville, TN 37857",
+      "website": "https://www.hawkinscountytn.gov/chancery_court_clerk_master.html",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "10:00 AM",
+          "label": "Delinquent tax sale (online live bid auction)",
+          "list_url": "https://www.hawkinscountytn.gov/uploads/2026%20Tax%20Sale%20Updated%20October%2026th.pdf",
+          "list_note": "Court notice and parcel list (about 52 tax IDs), updated October 26.",
+          "note": "The court notice says the sale is a public online live bid auction to the highest bidder for cash, starting at 10:00 A.M., with online registration opening October 17, 2026. Parcels are removed if all amounts owed are paid before the sale.",
+          "source_url": "https://www.hawkinscountytn.gov/chancery_court_clerk_master.html",
+          "quote": "November 17th, 2026 Delinquent Tax Sale List"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The Clerk and Master collects delinquent city and county property taxes and runs the sale. The November 17, 2026 sale is an online live bid auction on GovEase; register on the auction site (registration opened October 17, 2026), where webinar training is offered. Properties are sold for cash; after the sale the Clerk and Master reports to the Court and title passes by an Order Confirming Sale. Bidders must research the properties themselves. Deposit and bid increments are not stated. Redemption procedures are posted by the Clerk and Master.",
+      "sources": [
+        {
+          "url": "https://www.hawkinscountytn.gov/chancery_court_clerk_master.html",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, copyright or privacy link found in the page footer (footer shows only 'Hawkins County, TN | 150 East Washington Street | Rogersville, TN 37857'). No reuse restriction found.",
+          "terms_url": "https://www.hawkinscountytn.gov/chancery_court_clerk_master.html"
+        },
+        {
+          "url": "https://www.hawkinscountytn.gov/uploads/2026%20Tax%20Sale%20Updated%20October%2026th.pdf",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, copyright or privacy link found in the page footer (footer shows only 'Hawkins County, TN | 150 East Washington Street | Rogersville, TN 37857'). No reuse restriction found.",
+          "terms_url": "https://www.hawkinscountytn.gov/chancery_court_clerk_master.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hawkinscountytn.gov/chancery_court_clerk_master.html",
+          "quote": "The Clerk and Master files civil matters in Chancery Court including probate matters and collects delinquent taxes."
+        },
+        {
+          "url": "https://www.hawkinscountytn.gov/uploads/2026%20Tax%20Sale%20Updated%20October%2026th.pdf",
+          "quote": "Said properties are to be sold for cash."
+        }
+      ]
+    },
+    {
+      "county": "Roane",
+      "slug": "roane",
+      "office": "Roane County Clerk and Master (Chancery Court)",
+      "phone": "865-376-2487",
+      "address": "200 E. Race Street, Suite 12, Kingston, TN 37763",
+      "website": "https://roanecountytn.gov/clerk-and-master",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-03-06",
+          "time": "10:00 AM",
+          "label": "Back tax sale",
+          "registration_deadline": "Registration is held the morning of the sale and closes 10 minutes before the sale begins; valid ID and a completed Registration Form required.",
+          "note": "Held at the Roane County Courthouse. Successful bidders pay before leaving the courthouse the day of the sale, by check, cash or credit card. The parcel list is posted about a month before the sale. The redemption period is 90 days for properties sold at this sale.",
+          "source_url": "https://roanecountytn.gov/clerk-and-master",
+          "quote": "The next Back Tax Sale will be held on Saturday, March 6, 2027, at 10 am in the Roane County Courthouse."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register in person the morning of the sale (closes 10 minutes before the start) with valid ID and the Registration Form; bidders must be 18 or older and have a bid number. All payments are due before leaving the courthouse the day of the sale, by check, cash or credit card. Property is sold as is, where is, and sales are subject to Chancery Court approval. The parcel list is posted online about a month before the sale and updated weekly; a printed list costs $10. No deposit is stated.",
+      "sources": [
+        {
+          "url": "https://roanecountytn.gov/clerk-and-master",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer reads '© All Rights Reserved - ADA Compliance - Site Built by Hill Co. & Brand and managed by Pinnacle IT'. The ADA Compliance page (read) says nothing about reuse. Copyright only, no reuse restriction found.",
+          "terms_url": "https://roanecountytn.gov/compliance/"
+        },
+        {
+          "url": "https://roanecountytn.gov/delinquent-tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer reads '© All Rights Reserved - ADA Compliance - Site Built by Hill Co. & Brand and managed by Pinnacle IT'. The ADA Compliance page (read) says nothing about reuse. Copyright only, no reuse restriction found.",
+          "terms_url": "https://roanecountytn.gov/compliance/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://roanecountytn.gov/delinquent-tax-sale/",
+          "quote": "All bidders must be registered before the tax sale begins"
+        },
+        {
+          "url": "https://roanecountytn.gov/delinquent-tax-sale/",
+          "quote": "Please be aware the Redemption Period has been reduced to 90 days beginning July 1, 2026."
+        }
+      ]
     }
   ]
 }

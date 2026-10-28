@@ -482,6 +482,111 @@
       "notes": {
         "format_note": "The 2026 sale was stated as not in person, but the page does not say how it was held instead, so format is unknown."
       }
+    },
+    {
+      "county": "Bullitt",
+      "slug": "bullitt",
+      "office": "Bullitt County Clerk's Office",
+      "phone": "not stated on the page read",
+      "address": "not stated on the page read",
+      "website": "https://www.bullittcountyclerk.com/delinquent-tax-bills",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was at 9:00 AM on August 20, 2026 (past), with registration due by end of business August 10, 2026; the office said it would not hold an in-person sale.",
+      "how_to_bid": "Third-party purchasers register with the County Clerk before the sale. Purchasers holding prior-year certificates email a Purchase Intent List and pay in full by certified check when the list is submitted; others register and send a 25% deposit of list value by certified check (USPS, UPS or FedEx). The non-refundable registration fee is tiered from $5.00 (prior-year purchasers) or $10.00 per certificate, capped at $250.00, plus a $30.00 filing fee per certificate purchased. All purchases are final. Questions go to ann.oder@ky.gov.",
+      "sources": [
+        {
+          "url": "https://www.bullittcountyclerk.com/delinquent-tax-bills",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the page footer has no terms, disclaimer, copyright or privacy link (only a Facebook icon). No reuse restriction found.",
+          "terms_url": "https://www.bullittcountyclerk.com/delinquent-tax-bills"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bullittcountyclerk.com/delinquent-tax-bills",
+          "quote": "to be held at 9:00 AM on August 20, 2026, shall register with the county clerk"
+        },
+        {
+          "url": "https://www.bullittcountyclerk.com/delinquent-tax-bills",
+          "quote": "The sale shall be conducted electronically as of 2026."
+        }
+      ]
+    },
+    {
+      "county": "Scott",
+      "slug": "scott",
+      "office": "Scott County Clerk's Office, Delinquent Taxes",
+      "phone": "(502) 863-7875 (Deputy Clerk ext. 2260)",
+      "address": "101 E Main Street, Georgetown, KY 40324",
+      "website": "https://scottcountyclerk.ky.gov/services/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming date posted. The clerk's yearly timeline (page updated February 2026) lists the sale on August 24th at 8:30am, with payments due by 4:30pm August 21st to be excluded; that date has passed and no 2027 date is posted.",
+      "how_to_bid": "Each year the clerk sells the previous year's unpaid tax bills to registered third-party purchasers; register with the Scott County Clerk using the registration form linked on the tax sale page. The Department of Revenue site explains participation requirements. Sale place, format, fees and deposit are not stated on the pages read. Questions go to the Deputy Clerk at 502-863-7875 ext. 2260.",
+      "sources": [
+        {
+          "url": "https://scottcountyclerk.ky.gov/services/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "The 'Disclaimer and Terms' page covers accounts for the online records service: 'The individual account and password shall be for the sole use of the customer.' and 'The customer shall not use the account for offering any public information service.' It does not restrict reuse of the clerk's public delinquent-tax pages. Footer: '© 2026 Scott County Kentucky – All Rights Reserved | Site Provided By Software Management, LLC'.",
+          "terms_url": "https://scottcountyclerk.ky.gov/disclaimer-and-terms/"
+        },
+        {
+          "url": "https://scottcountyclerk.ky.gov/services/delinquent-taxes/delinquent-tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "The 'Disclaimer and Terms' page covers accounts for the online records service: 'The individual account and password shall be for the sole use of the customer.' and 'The customer shall not use the account for offering any public information service.' It does not restrict reuse of the clerk's public delinquent-tax pages. Footer: '© 2026 Scott County Kentucky – All Rights Reserved | Site Provided By Software Management, LLC'.",
+          "terms_url": "https://scottcountyclerk.ky.gov/disclaimer-and-terms/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://scottcountyclerk.ky.gov/services/delinquent-taxes/",
+          "quote": "August 24th – Delinquent tax sale takes place at 8:30am"
+        },
+        {
+          "url": "https://scottcountyclerk.ky.gov/services/delinquent-taxes/delinquent-tax-sale/",
+          "quote": "Each year, the Scott County Clerk holds a sale of the previous year’s tax bills that remain unpaid."
+        }
+      ]
+    },
+    {
+      "county": "Franklin",
+      "slug": "franklin",
+      "office": "Franklin County Clerk",
+      "phone": "502-875-8702",
+      "address": "222 St. Clair Street, Frankfort, KY 40601",
+      "website": "https://franklincountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The sale of 2025 tax bills was held on 08-12-2026 at 9:00 a.m. (past).",
+      "how_to_bid": "Third-party purchasers register with the County Clerk by the posted deadline (August 1 for the 2026 sale) and submit priority lists with full payment, or current-year lists with a 25% deposit, in person or by mail (no fax or email). Payment is by cashier's, certified or company check, plus a $30.00 lien assignment fee per certificate. The sale is held at the Courthouse, Courtroom E, as a serpentine-style lottery in rounds, with one representative per company.",
+      "sources": [
+        {
+          "url": "https://franklincountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer links a Privacy & Disability Statement (read: privacy practices, no reuse terms) and shows 'Site Provided By Software Management, LLC © 2026'. No reuse restriction found.",
+          "terms_url": "https://franklincountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://franklincountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "The Delinquent Tax Sale for 2025 tax bills will be held on 08-12-2026."
+        },
+        {
+          "url": "https://franklincountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "will be held at the Courthouse, Courtroom E, 222 St. Clair Street, Frankfort, KY 40601"
+        }
+      ]
     }
   ]
 }

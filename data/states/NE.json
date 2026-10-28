@@ -259,6 +259,50 @@
           "quote": "We will not accept registration fees the day of the sale."
         }
       ]
+    },
+    {
+      "county": "Adams",
+      "slug": "adams",
+      "office": "Adams County Treasurer",
+      "phone": "402-461-7120 (tax sale questions: 402-461-7256, 402-461-7130, 402-461-7253)",
+      "address": "Suite 106, First Floor Courthouse, 500 West 4th Street, Hastings, NE 68901",
+      "website": "https://adamscountyne.gov/treasurer/57-tax-sales",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 annual tax sale was Monday, March 2, 2026 at 10:00 a.m. at the Hastings Public Library, 2nd floor, 314 N. Denver Ave., Hastings (past); the page says its 2026 rules may apply to 2026 only.",
+      "how_to_bid": "Per the county's 2026 tax sale page: pre-register by the posted deadline (Friday, February 20, 2026 for the 2026 sale) with a $25.00 non-refundable fee per company, a registration form (the county's or your own) and a W-9, and include blank check(s) for purchases. One representative may act for up to 10 registered companies. Bidder numbers are drawn at random; bidder 1 picks a property number first, then bidder 2 and so on until all lots are sold or unsold. Properties are numbered from highest to lowest amount. Each certificate carries a $20.00 fee (not refunded on redemption) and each assignment $20.00. Lists are published in the Hastings Tribune and posted online as Excel and PDF, updated weekly. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://adamscountyne.gov/treasurer/57-tax-sales",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; footer copyright only: 'Copyright © 2013 - 2026 Adams County' (site by Careytech Studios, vendor home-page link only). No reuse clause found."
+        }
+      ]
+    },
+    {
+      "county": "Otoe",
+      "slug": "otoe",
+      "office": "Otoe County Treasurer",
+      "phone": "(402) 873-9500",
+      "address": "not stated",
+      "website": "https://otoecountyne.gov/departments/treasurer/public_tax_sale.php",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page says the public sale is held on the first Monday in March at 9:00 a.m., after delinquent taxes are advertised three consecutive weeks in February; the current delinquent list is posted online the Tuesday before the sale. Location: not stated.",
+      "how_to_bid": "Per the county page: file an Otoe County Tax Sale Registration Form with a $25.00 registration fee at the Treasurer's Office by the Thursday before the first Monday in March. One bidder may represent up to five investors. Bidders sign in and get numbers that set seating order; the sale runs round robin, each bidder buying or passing, with parcels offered from highest to lowest amount. No fax or telephone purchases. Company check, cash or personal check is accepted; each certificate costs $25.00 and each reassignment $25.00 (none processed on sale day). Interest is 14%; owners have three years to redeem. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://otoecountyne.gov/departments/treasurer/public_tax_sale.php",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer has no terms, disclaimer, legal, copyright or privacy link (only 'Powered by Revize' vendor home-page and CMS login links)."
+        }
+      ]
     }
   ]
 }

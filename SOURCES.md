@@ -574,6 +574,7 @@ State overview: <https://www.legis.iowa.gov/docs/code/2025/446.7.pdf>, <https://
 | Marshall | <https://marshallcountyia.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer (only Accessibility and Title VI links); footer copyright only: '©2026 Marshall County, Iowa'. No reuse clause found. |
 | Wapello | <https://www.wapellocounty.org/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer (Contact Us and a Neapolitan Labs vendor home-page link only); footer copyright only: '©2026 Wapello County, Iowa'. No reuse clause found. |
 | Dallas | <https://www.dallascountyiowa.gov/252/Tax-Sale> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Dallas County, IA and its representatives. All rights reserved.' plus a CivicPlus software credit. Nothing on reuse, redistribution, commercial or personal-only use, or automated access; the footer has a Privacy Policy link but no disclaimer or terms link. ([terms](https://www.dallascountyiowa.gov/copyright)) |
+| Marion | <https://marioncountyiowa.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Marion County, Iowa' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found. |
 
 ## Kansas
 
@@ -656,6 +657,7 @@ State overview: <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://le
 | Lafourche | <https://www.lpso.net/2025/06/16/sheriff-webre-announces-details-on-2025-property-tax-title-sale/> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer. Copyright-only footer: 'Copyright © 2026 Lafourche Parish Sheriff's Office.' No reuse restriction found. |
 | St. John the Baptist | <https://stjohnsheriff.org/2025-property-tax-sale-thursday-june-25-2026/> | 2026-10-28 | No terms, disclaimer or privacy link in the footer (only a website-vendor link). Copyright-only footer: '©2026 St. John Sheriff's Office'. No reuse restriction found. |
 | Acadia | <https://www.apso.org/pay-property-taxes.html> | 2026-10-28 | No terms, disclaimer or privacy link; footer reads '© Copyright 2021, Acadia Parish Sheriff. All rights reserved.' No reuse restriction found. |
+| St. Martin | <https://stmartinsheriff.org/operational/business-services/tax-collection/> | 2026-10-28 | No terms, disclaimer or privacy link in the site footer; footer reads only 'Copyright © 2020 St. Martin Parish Sheriff Office. All Rights Reserved.' No reuse restriction found. |
 
 ## Maine
 
@@ -692,6 +694,11 @@ State overview: <https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article
 | Howard | <https://www.howardcountymd.gov/finance/resource/2025-tax-sale-faqs> | 2026-10-28 | same as above (2025 FAQ; says 'Some of the content below may not be applicable and are subject to revision without prior notice.') ([terms](https://www.howardcountymd.gov/terms-use)) |
 | Talbot | <https://talbotcountymd.gov/abouttaxsale> | 2026-10-28 | No terms page found: the site footer has no terms, disclaimer, legal, copyright or privacy link (only a Social Media Policy PDF). ([terms](https://talbotcountymd.gov/abouttaxsale)) |
 | Queen Anne's | <https://md-queenannescounty.civicplus.com/598/Tax-Sale> | 2026-10-28 | Copyright Notices page (qac.org, the same CivicPlus county site) says only 'All content © 2006-2026 Queen Anne's County, MD and its representatives. All rights reserved.' No reuse restriction found. ([terms](https://qac.org/copyright)) |
+| Allegany | <https://www.alleganygov.org/200/Tax-Lien-Sale-Information> | 2026-10-28 | Copyright Notices page says only 'All content © 2023 Allegany County, MD and its representatives. All rights reserved.' Copyright only; nothing on reuse, redistribution or commercial use. Footer also has a Privacy Policy link; no disclaimer or terms link. ([terms](https://www.alleganygov.org/1808/Copyright-Notices)) |
+| Allegany | <https://www.alleganygov.org/DocumentCenter/View/5994/Terms-of-Sale> | 2026-10-28 | Same county site; see Copyright Notices (copyright only). ([terms](https://www.alleganygov.org/1808/Copyright-Notices)) |
+| Allegany | <https://alleganygov.org/DocumentCenter/View/6000/Summary-of-Important-Dates-and-Information> | 2026-10-28 | Same county site; see Copyright Notices (copyright only). ([terms](https://www.alleganygov.org/1808/Copyright-Notices)) |
+| Garrett | <https://www.garrettcountymd.gov/financial-services/billing-collections/news/2026-05/2026-tax-sale-registration-now-open> | 2026-10-28 | Footer 'Terms of Use' page covers only card payments to the county ('Payments to the Garrett County Government ... can be made using a credit or debit card.'); nothing on copying, reuse, redistribution, commercial use or automated access. Footer copyright line is plain text. ([terms](https://www.garrettcountymd.gov/terms-conditions)) |
+| Caroline | <https://www.carolinemd.org/170/Tax-Sale> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Caroline County, MD and its representatives. All rights reserved.' Copyright only; nothing on reuse, redistribution or commercial use. No disclaimer or terms page in the site map. ([terms](https://www.carolinemd.org/site/copyright)) |
 
 ## Massachusetts
 
@@ -755,6 +762,9 @@ State overview: <https://www.revisor.mn.gov/statutes/cite/282.01>, <https://www.
 | Otter Tail | <https://ottertailcounty.gov/property-home/property-sales/tax-forfeited-lands/> | 2026-10-28 | County Terms of Service read: says the agreement 'does not transfer from Otter Tail County to you any Otter Tail County or third party intellectual property' and grants no right to use county trademarks; notes some material's 'downloading, copying or use of which is subject to additional terms and conditions, stated or unstated.' No clause found forbidding reuse or redistribution of the information, commercial use, or automated access. ([terms](https://ottertailcounty.gov/terms-of-service/)) |
 | Douglas | <https://douglascountymn.gov/tax-forfeited-land> | 2026-10-28 | No terms page found: the footer has Site Map, Accessibility, Search and Console links and an unlinked line '© 2026 · All Rights Reserved'; no disclaimer, terms or legal link. |
 | Lake | <https://www.lakecountymn.gov/CivicAlerts.aspx?AID=24> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Lake County, MN and its representatives. All rights reserved.' plus a CivicPlus software credit. Nothing on reuse, redistribution, commercial or personal-only use, or automated access; the footer has no disclaimer or terms link. ([terms](https://www.lakecountymn.gov/copyright)) |
+| Renville | <https://www.renvillecountymn.gov/notice-of-sale-of-tax-forfeited-land/> | 2026-10-28 | Privacy Policy page read: no clause on reuse, copying, redistribution, commercial use or automated access; footer copyright only: 'Copyright © 2026 Renville County. All Rights Reserved.' No other terms, disclaimer or legal link in the footer. ([terms](https://www.renvillecountymn.gov/privacy-policy/)) |
+| Beltrami | <https://beltramicountymn.gov/business-development/tax-forfeited-land-sales/> | 2026-10-28 | Privacy Policy page read: accuracy and liability disclaimers only ('Every attempt has been made to ensure that the information contained on this web site is valid at the time of publication.'); nothing on reuse, redistribution, commercial use or automated access. No terms, disclaimer or legal link in the footer. ([terms](https://www.beltramicountymn.gov/privacy-policy/)) |
+| Beltrami | <https://www.beltramicountymn.gov/media/pdyiilss/2026-on-line-auction.pdf> | 2026-10-28 | County 2026 online auction catalog (no owner names). Same site terms as above. |
 
 ## Mississippi
 
@@ -1213,6 +1223,7 @@ State overview: <https://webserver.rilegislature.gov/Statutes/TITLE44/44-9/44-9-
 | Pawtucket (city) | <https://pawtucketri.gov/wp-content/uploads/2025/05/2025-Tax-Sale-Advertised-List.pdf> | 2026-10-27 | same as above |
 | Providence (city) | <https://www.providenceri.gov/wp-content/uploads/2026/04/FINAL-AD-CITY-2026-Revised-042426-Final.pdf> | 2026-10-28 | Privacy Policy (https://www.providenceri.gov/privacy-policy) says the site's content is protected by U.S. copyright laws and gives no explicit restriction on reuse or redistribution; footer shows '© 2026 City of Providence. All rights reserved.' No terms of use or disclaimer link found. ([terms](https://www.providenceri.gov/privacy-policy)) |
 | Providence (city) | <https://www.providenceri.gov/collector/tax-sale-information/> | 2026-10-28 | same as above ([terms](https://www.providenceri.gov/privacy-policy)) |
+| West Greenwich (town) | <https://wgtownri.org/m/faq?cat=16> | 2026-10-28 | Copyright Notices page reads only 'All content © 2006-2026 West Greenwich, RI and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' No clause on reuse, redistribution, commercial use or automated access. Restate facts only. ([terms](https://wgtownri.org/copyright)) |
 
 ## South Carolina
 
@@ -1252,6 +1263,8 @@ State overview: <https://www.scstatehouse.gov/code/t12c051.php>, <https://www.sc
 | Newberry | <https://www.newberrycounty.gov/sites/default/files/uploads/departments/delinquent-tax/tax_sale_info-consolidated.pdf> | 2026-10-28 | same as above |
 | Colleton | <https://colletoncounty.org/node/500> | 2026-10-28 | No terms-of-use or disclaimer link in the site footer (footer: Accessibility, Contact Webmaster, Employment, Sitemap). Site notice: '©2026 Colleton County, SC. All rights reserved.' Read the GIS disclaimer (https://colletoncounty.org/mapping-gis/disclaimer): covers GIS data only, 'AS IS WITHOUT WARRANTY OF ANY KIND', says nothing on reuse. No reuse restriction found. ([terms](https://colletoncounty.org/mapping-gis/disclaimer)) |
 | Colleton | <https://colletoncounty.org/node/700> | 2026-10-28 | same as above ([terms](https://colletoncounty.org/mapping-gis/disclaimer)) |
+| Barnwell | <https://barnwellcountysc.gov/DocumentCenter/View/1565/TAX-SALE-TERMS-AND-CONDITIONS> | 2026-10-28 | Read the site's Copyright Notices page (https://barnwellcountysc.gov/copyright): only 'All content © 2006-2026 Barnwell, SC and its representatives. All rights reserved.'; nothing on reuse or republication. Footer also links a Privacy Policy (personal data). No reuse restriction found. ([terms](https://barnwellcountysc.gov/copyright)) |
+| Barnwell | <https://barnwellcountysc.gov/263/Barnwell-County-Delinquent-Tax-Informati> | 2026-10-28 | same as above ([terms](https://barnwellcountysc.gov/copyright)) |
 
 ## South Dakota
 
@@ -1415,6 +1428,7 @@ State overview: <https://legislature.vermont.gov/statutes/section/32/133/05252>,
 | Rutland (city) | <https://www.rutlandcity.org/departments/city-treasurer/> | 2026-10-27 | No terms of use or disclaimer link on the page; footer has no copyright or reuse notice. No reuse restriction found. |
 | Brattleboro (town) | <https://brattleboro.gov/tax-sale-process> | 2026-10-27 | No terms or disclaimer page linked. Footer: '© 2026 Town of Brattleboro, Vermont' and 'All Rights Reserved'. No reuse or redistribution clause found; restate facts, don't copy page text wholesale. |
 | Stowe (town) | <https://www.stowevt.gov/Departments/Town-Clerk-Treasurer/Delinquent-Tax-Sales> | 2026-10-27 | No terms or disclaimer link on the page. Footer: '© 2026 Town of Stowe'. No reuse restriction found. |
+| Guilford (town) | <https://guilfordvt.gov/guilford-delinquent-property-tax-sale-information/> | 2026-10-28 | No terms, disclaimer, privacy or copyright link in the site footer; footer text reads only '© 2026 Town of Guilford, Vermont'. No terms page found; copyright-only. Restate facts only. |
 
 ## Virginia
 

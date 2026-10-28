@@ -1220,6 +1220,107 @@
           "quote": "Judgement Date - November 18, 2026 at 10 am"
         }
       ]
+    },
+    {
+      "county": "Fulton",
+      "slug": "fulton",
+      "office": "Fulton County Treasurer/Collector",
+      "phone": "(309) 547-3041 ext. 132",
+      "address": "Fulton County Courthouse, 100 N Main Street, PO Box 111, Lewistown, IL 61542-0111",
+      "website": "https://fultoncountyil.gov/officials/elected/fulton-county-treasurer/real-estate-tax-collection/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The annual Tax Sale is held every October at the county courthouse at 9:00 A.M.",
+      "sales": [],
+      "next_sale_note": "The sale is held each October; the October 2026 sale has passed and no 2027 date is posted.",
+      "how_to_bid": "Tax buyers must register with the Collector at least 10 days before the sale and must attend to bid; the $250 registration fee is forfeited if the buyer fails to attend and refunded if the buyer fails to buy. Bidding starts at a rate of interest not over 9% for real estate and 18% for mobile homes and goes to the lowest percentage bid; parcels with no bid go to the County Trustee at 9%. Buyers pay by check on the day of sale for the delinquent taxes, penalties, costs and tax sale costs, plus $10 per parcel publication cost. Delinquent parcel lists may be bought for $100. Certificates are mailed after the sale is balanced; redemption is made with the County Clerk.",
+      "sources": [
+        {
+          "url": "https://fultoncountyil.gov/officials/elected/fulton-county-treasurer/real-estate-tax-collection/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "Terms & Conditions page read: no clause on reuse, reproduction, redistribution, commercial or personal-only use, resale or automated access; it only says data may change without notice. Footer: 'Copyright © 2026, Fulton County'. No reuse restriction found.",
+          "terms_url": "https://fultoncountyil.gov/terms-conditions/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://fultoncountyil.gov/officials/elected/fulton-county-treasurer/real-estate-tax-collection/delinquent-taxes/",
+          "quote": "All tax buyers must be pre-registered 10 days prior and must attend to bid."
+        }
+      ]
+    },
+    {
+      "county": "Jefferson",
+      "slug": "jefferson",
+      "office": "Jefferson County Treasurer/Collector",
+      "phone": "618-244-8010",
+      "address": "100 South 10th Street, Room 100, Mt. Vernon, IL 62864",
+      "website": "https://jeffersoncounty.illinois.gov/services/treasurercollector/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-20",
+          "time": "not stated",
+          "label": "Annual tax sale (2025 real estate taxes payable 2026; 2026 mobile home taxes)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Under Public Act 104-0553 the county has elected to acquire all delinquent real estate taxes as trustee starting with this sale; only delinquent mobile home taxes are offered to private tax buyers. The county has also adopted the Single Bidder Rule. Time, place and registration deadline are not stated on the page (a 2026 Tax Sale Buyer Registration form is posted).",
+          "source_url": "https://jeffersoncounty.illinois.gov/services/treasurercollector/annual_tax_auctions.php",
+          "quote": "November 20, 2026 - For unpaid 2025 real estate taxes payable in 2026, and unpaid 2026 mobile home taxes."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Only delinquent mobile home taxes are offered to private tax buyers at the 2026 sale; the county takes all delinquent real estate taxes as trustee. Buyers register on the county's 2026 Tax Sale Buyer Registration form, and the county applies the Single Bidder Rule. Time, place, deposit and bidding method are not stated on the page; call the Treasurer at 618-244-8010. Separately, the county's Annual Sealed Bid Auction sells properties foreclosed for unpaid taxes; the page says 2026 catalogs are available in October and online bids are possible through the county's agent (618-656-5744).",
+      "sources": [
+        {
+          "url": "https://jeffersoncounty.illinois.gov/services/treasurercollector/annual_tax_auctions.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; footer shows only '© 2026 Jefferson County, IL • Powered by revize.' (vendor credit, no vendor terms link). No reuse, commercial-use or automated-access clause found."
+        },
+        {
+          "url": "https://jeffersoncounty.illinois.gov/services/treasurercollector/",
+          "read_on": "2026-10-28",
+          "terms": "Same site and footer as above; office address and phone from this page."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://jeffersoncounty.illinois.gov/services/treasurercollector/annual_tax_auctions.php",
+          "quote": "Delinquent mobile home taxes will continue to be offered at the tax sale to private tax buyers"
+        }
+      ]
+    },
+    {
+      "county": "Randolph",
+      "slug": "randolph",
+      "office": "Randolph County Treasurer",
+      "phone": "(618) 826-5000 ext. 224",
+      "address": "1 Taylor Street, Room 205, Chester, IL 62233",
+      "website": "https://randolphcountyil.gov/treasurer/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date is posted on the Treasurer's page.",
+      "how_to_bid": "A $250 registration fee must be paid to the Treasurer's Office no later than ten business days before the tax sale. The bidder offering to pay the amount due for the least penalty percentage is the purchaser; no bid above 9 percent is accepted. Taxes that get no bid go to the Randolph County Trustee Program (delinquent tax agent: 800-248-2850 or 618-656-5744). Judgment books cost $50 and a publication listing $250. Date, time and place are not stated.",
+      "sources": [
+        {
+          "url": "https://randolphcountyil.gov/treasurer/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; footer shows only '© Randolph County, Illinois. All rights reserved.' plus web designer credits. No reuse, commercial-use or automated-access clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://randolphcountyil.gov/treasurer/",
+          "quote": "No bid shall be accepted for a penalty exceeding 9 percent of the amount of the tax or special assessment."
+        }
+      ]
     }
   ]
 }

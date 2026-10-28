@@ -868,6 +868,104 @@
           "quote": "The Tax Collections Department and County Attorney's Office will handle all aspects of the foreclosure proceedings."
         }
       ]
+    },
+    {
+      "county": "Carteret",
+      "slug": "carteret",
+      "office": "Carteret County Tax Department (sales conducted by the county's third-party attorney, Mewborn & DeSelms, Attorneys at Law)",
+      "phone": "252-728-8485 (Tax Department); 910-455-9755 (Mewborn & DeSelms, for upcoming sale information)",
+      "address": "Carteret County Tax Department, 210 Turner Street, Beaufort, NC 28516. Mewborn & DeSelms, 829 Gum Branch Road, Suite C, Jacksonville, NC 28540.",
+      "website": "https://www.carteretcountync.gov/1149/Tax-Foreclosure-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale is listed: the county's Upcoming Sales table is empty, and the page says it is updated monthly as sale dates are received from the attorney's office. Sales are held on the courthouse steps on the scheduled day unless otherwise noted.",
+      "how_to_bid": "Attend the sale in person on the date and time of the sale; sales are public auctions on the courthouse steps run by the county's third-party attorney, and the county page says to contact Mewborn & DeSelms directly about upcoming sales. The successful bidder pays a cash or certified funds deposit of 20% of the bid. Bids stay open 10 days for upset bids; an upset bid must be at least 5% of the original bid amount and is made with the Clerk of Superior Court on the 2nd floor of the Carteret County Courthouse. A bidder who does not accept the deed forfeits the deposit. Properties are sold as-is. Balance due date and registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://www.carteretcountync.gov/1149/Tax-Foreclosure-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Footer links Accessibility, Copyright Notices, Privacy Policy and Site Map (no terms or disclaimer page; the page has an inline accuracy disclaimer). The Copyright Notices page says only: All content © 2006-2013 City / County / Hospital and its representatives. All rights reserved. Copyright only; nothing about reuse, redistribution, commercial use or automated access.",
+          "terms_url": "https://www.carteretcountync.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.carteretcountync.gov/1149/Tax-Foreclosure-Sales",
+          "quote": "Sales at public auction are executed by Carteret County's third-party Attorney."
+        },
+        {
+          "url": "https://www.carteretcountync.gov/1149/Tax-Foreclosure-Sales",
+          "quote": "The successful bidder at this sale is required to make a cash or certified funds deposit of 20% of the bid."
+        },
+        {
+          "url": "https://www.carteretcountync.gov/1149/Tax-Foreclosure-Sales",
+          "quote": "To submit a bid, you must be present on the date and time of the sale."
+        },
+        {
+          "url": "https://www.carteretcountync.gov/1149/Tax-Foreclosure-Sales",
+          "quote": "Successful bids lie open for a 10-day period to allow for the submission of upset bids."
+        },
+        {
+          "url": "https://www.carteretcountync.gov/1149/Tax-Foreclosure-Sales",
+          "quote": "The minimum amount accepted for an upset bid is 5% of the original bid amount."
+        },
+        {
+          "url": "https://www.carteretcountync.gov/1149/Tax-Foreclosure-Sales",
+          "quote": "Upset bids are made with the Clerk of Superior Court, located on the 2nd Floor of the Carteret County Courthouse."
+        }
+      ]
+    },
+    {
+      "county": "Hoke",
+      "slug": "hoke",
+      "office": "Hoke County (tax foreclosure sales conducted by RKS Law Firm; the page does not name the county office that runs them)",
+      "phone": "910-875-8751 (contact listed on the page)",
+      "address": "Contact listed on the page: Pratt Building, 227 N Main Street, P.O. Box 210, Raeford, NC 28376. Sales are held on the front steps of the Hoke County Courthouse, 304 North Main Street, Raeford, NC.",
+      "website": "https://www.hokecounty.net/490/Foreclosure-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date on the county's Foreclosure Sales page, which links to a separate Upcoming Foreclosure Sales page. Sales are scheduled at the discretion of the assigned commissioner.",
+      "how_to_bid": "Attend the sale on the front steps of the Hoke County Courthouse on the day it takes place; each property has an estimated opening bid set before the sale. A deposit of 5% or $750.00, whichever is greater, is required, in certified funds payable to the entity that handled the auctioned property. Bids stay open ten days after the sale for upset bids; an upset bid must exceed the current bid by 5% or $750.00, whichever is greater, and must be made in person at the Hoke County Clerk of Superior Court. The balance is due within ten days after the upset bid deadline. Properties are sold as-is. Sale times and registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://www.hokecounty.net/490/Foreclosure-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only Home, Employee Access, Site Feedback, Site Map and Accessibility (no terms, disclaimer or privacy link). The site's Copyright Notices page says only: All content © 2006-2026 Hoke County, NC and its representatives. All rights reserved. Copyright only; nothing about reuse, redistribution, commercial use or automated access.",
+          "terms_url": "https://www.hokecounty.net/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hokecounty.net/490/Foreclosure-Sales",
+          "quote": "All sales are conducted by RKS Law Firm on the front steps of the Hoke County Courthouse"
+        },
+        {
+          "url": "https://www.hokecounty.net/490/Foreclosure-Sales",
+          "quote": "You can bid on any property by attending the sale on the courthouse steps the day the sale is to take place."
+        },
+        {
+          "url": "https://www.hokecounty.net/490/Foreclosure-Sales",
+          "quote": "A deposit of five percent (5%) or $750.00 whichever is greater"
+        },
+        {
+          "url": "https://www.hokecounty.net/490/Foreclosure-Sales",
+          "quote": "Funds must be certified funds made payable to the proper entity that handled the auctioned property."
+        },
+        {
+          "url": "https://www.hokecounty.net/490/Foreclosure-Sales",
+          "quote": "Bids are left open for upset bids ten days after the sale date."
+        },
+        {
+          "url": "https://www.hokecounty.net/490/Foreclosure-Sales",
+          "quote": "Any upset bids must be made in person at the Hoke County Clerk of Superior Court."
+        }
+      ]
     }
   ]
 }

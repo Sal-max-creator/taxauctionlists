@@ -723,6 +723,80 @@
           "quote": "The deposit shall be submitted to the county clerk no later than five (5) days prior to the annual sale date."
         }
       ]
+    },
+    {
+      "county": "Woodford",
+      "slug": "woodford",
+      "office": "Woodford County Clerk",
+      "phone": "859-873-3421",
+      "address": "103 South Main Street, Suite 120, Versailles, KY 40383",
+      "website": "https://woodfordcountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held Monday, August 24, 2026 at 10:00 AM at the Woodford County Courthouse (past), with registration, fees and deposit due by close of business August 14, 2026.",
+      "how_to_bid": "Register with the County Clerk and submit the registration form, fees and deposit by the posted deadline (purchasers must also register with the Department of Revenue by its deadline). The deposit is 100% of the value of each certificate on the purchaser's priority list and 25% of each current-year certificate; registration fees are $5.00 per priority certificate and $10.00 per current certificate (total not to exceed $250.00), plus $30.00 per certificate for assignment and recording of the lien. The sale is held at the Woodford County Courthouse, 103 South Main Street, Versailles, and run like a professional sports draft: order of selection is set by random drawing and each purchaser may buy one certificate per round. Payment by cash, cashier's check, money order or debit/credit card. Sale questions go to the Clerk's office at 859-873-3421.",
+      "sources": [
+        {
+          "url": "https://woodfordcountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer links a Privacy & Disability Statement (read: data collection, cookies, analytics and disability accommodations, no clause on reuse, redistribution, personal-use limits or automated access) and reads 'Designed and managed by Software Managment LLC. © 2026'. No reuse restriction found.",
+          "terms_url": "https://woodfordcountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://woodfordcountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "will be held on Monday, August 24, 2026 at 10:00 AM"
+        },
+        {
+          "url": "https://woodfordcountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "Registration form and fee submission deadline is close of business August 14, 2026."
+        },
+        {
+          "url": "https://woodfordcountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "The sale shall be conducted in a manner similar to a professional sports draft"
+        }
+      ]
+    },
+    {
+      "county": "Grant",
+      "slug": "grant",
+      "office": "Grant County Clerk",
+      "phone": "859.824.3321",
+      "address": "107 N. Main Street, Williamstown, Kentucky 41097",
+      "website": "https://grantcountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held Monday, August 3rd, 2026 at 8:30 am at the Grant County Courthouse (past), with third-party registration closing July 24th, 2026.",
+      "how_to_bid": "Third-party purchasers who meet the state's conditions must register with the Department of Revenue and register by the clerk's posted deadline. The sale is held at the Grant County Courthouse (Original Courthouse), 101 N Main St, Williamstown. Purchasers may research the delinquent list before the sale; priority bills are not marked on the list. Deposit, fees and the sale procedure are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://grantcountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer links a Privacy & Disability Statement (read: data collection, cookies and disability accommodations, no clause on reuse, redistribution, personal-use limits or automated access) and shows 'Copyright © 2025 Colton Simpson. All rights reserved.' and 'Maintained by Software Management, LLC'. Copyright notice only; no reuse restriction found.",
+          "terms_url": "https://grantcountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://grantcountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "It will be held on Monday, August 3rd, 2026 at 8:30 am."
+        },
+        {
+          "url": "https://grantcountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "Third-party purchasers-Registration Deadline is the close of business on July 24th, 2026."
+        },
+        {
+          "url": "https://grantcountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "Sale will be held at the Grant County Courthouse (Original Courthouse) 101 N Main St Williamstown, KY 41097"
+        }
+      ]
     }
   ]
 }

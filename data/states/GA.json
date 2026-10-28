@@ -1199,6 +1199,51 @@
           "quote": "The Sheriff's Tax Deed, not the property, is sold to the highest bidder."
         }
       ]
+    },
+    {
+      "county": "Bulloch",
+      "slug": "bulloch",
+      "office": "Bulloch County Tax Commissioner",
+      "phone": "912.764.6245 (general county number in the site header; the Tax Commissioner's direct number is not stated)",
+      "address": "Sales at the Bulloch County Annex, 113/115 North Main Street, Statesboro, GA (office mailing address not stated)",
+      "website": "https://bullochcounty.net/tax-sales/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "All tax sales are held the first Tuesday of those months at the Bulloch County Annex",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted on the county's tax sales page; it says to check the Tax Sale Listings for upcoming dates, if any sales are scheduled.",
+      "how_to_bid": "Pre-register for the sale; there is no fee to attend. The sale is held at public outcry at the Bulloch County Annex beginning at 10:00 A.M. Bidding may not be done via mail; a representative may bid for you if they can pay immediately after the sale. Payment is cash or cashier's check (no credit cards), due within one hour after the sale ends. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://bullochcounty.net/tax-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Footer shows only 'Copyright © 2024 · BullochCounty.net, Bulloch County GA' and a 'Davis Marketing Company' web-design credit; no terms, disclaimer, privacy or legal link found. No restriction on reuse found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://bullochcounty.net/tax-sales/",
+          "quote": "All tax sales are held the first Tuesday of those months at the Bulloch County Annex"
+        },
+        {
+          "url": "https://bullochcounty.net/tax-sales/",
+          "quote": "The sale is to be at public outcry beginning at 10:00 A.M. and lasting until either the last property is sold"
+        },
+        {
+          "url": "https://bullochcounty.net/tax-sales/",
+          "quote": "You will be required to pre-register for the sale."
+        },
+        {
+          "url": "https://bullochcounty.net/tax-sales/",
+          "quote": "Bidding may not be done via mail."
+        },
+        {
+          "url": "https://bullochcounty.net/tax-sales/",
+          "quote": "Payment must be made within one hour after sale ends."
+        }
+      ]
     }
   ]
 }

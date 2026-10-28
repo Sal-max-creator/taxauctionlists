@@ -877,6 +877,121 @@
           "quote": "3rd Monday - Annual Tax Sale is held at 10:00 a.m."
         }
       ]
+    },
+    {
+      "county": "Hancock",
+      "slug": "hancock",
+      "office": "Hancock County Treasurer's Office",
+      "phone": "641-923-3122",
+      "address": "855 State St. Garner, IA 50438",
+      "website": "https://hancockcountyia.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": "The Annual Tax Sale takes place the 3rd Monday in June each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's page says the annual tax sale is an online event held on the 3rd Monday in June at 9:00 a.m.",
+      "how_to_bid": "The sale is held online. The page says you may register for the sale and find the 'official' listing of parcels at the Iowa Tax Auction website around June 1st, and that the listing is updated daily until the sale. Delinquent taxes are advertised in June in an official county newspaper. The investor is responsible for all research on parcels. Registration deadline, bidder fees, deposit and payment terms: not stated on the county page. Contact the Treasurer's Office at 641-923-3122.",
+      "sources": [
+        {
+          "url": "https://hancockcountyia.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer has only '©2026 Hancock County', a Title VI & ADA Information link and a Neapolitan Labs vendor link; no terms, disclaimer, privacy or legal link and no reuse clause on the page."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hancockcountyia.gov/treasurer/tax_sale/",
+          "quote": "The Annual Tax Sale takes place the 3rd Monday in June each year."
+        },
+        {
+          "url": "https://hancockcountyia.gov/treasurer/tax_sale/",
+          "quote": "The tax sale is an online event that is held on the 3rd Monday in June at 9:00 a.m."
+        },
+        {
+          "url": "https://hancockcountyia.gov/treasurer/tax_sale/",
+          "quote": "The investor is responsible for all research on parcels available for auction."
+        }
+      ]
+    },
+    {
+      "county": "Monona",
+      "slug": "monona",
+      "office": "Monona County Treasurer's Office",
+      "phone": "(712) 433-2347",
+      "address": "Monona County Courthouse, 610 Iowa Ave., Onawa, IA 51040",
+      "website": "https://www.mononacountyiowa.gov/treasurer/tax_sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": "The Annual Tax Sale takes place the 3rd Monday in June each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's page says the sale is an online event held on the 3rd Monday in June at 9:00 a.m.",
+      "how_to_bid": "The sale is held online through GovEase. The county page says bidders register for the sale on GovEase, where the 'official' listing of parcels is posted around June 1st. Delinquent taxes are advertised one to three weeks before the 3rd Monday in June. The investor is responsible for all research on parcels. Bidder fees, deposit and payment terms: not stated on the county page. Contact the Treasurer's Office at (712) 433-2347.",
+      "sources": [
+        {
+          "url": "https://www.mononacountyiowa.gov/treasurer/tax_sale",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer has only '©2026 Monona County, Iowa', Title VI Notice, notifications and contact links and a Neapolitan Labs vendor link; no terms, disclaimer, privacy or legal link and no reuse clause on the page."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mononacountyiowa.gov/treasurer/tax_sale",
+          "quote": "The Annual Tax Sale takes place the 3rd Monday in June each year."
+        },
+        {
+          "url": "https://www.mononacountyiowa.gov/treasurer/tax_sale",
+          "quote": "The investor is responsible for all research on parcels available for auction."
+        }
+      ]
+    },
+    {
+      "county": "Louisa",
+      "slug": "louisa",
+      "office": "Louisa County Treasurer",
+      "phone": "(319) 627-2418 (county number shown on the page)",
+      "address": "117 South Main Street, Wapello, Iowa 52653",
+      "website": "https://louisacountyia.gov/government/departments-g-z/louisa-county-treasurer/louisa-county-tax-sale/",
+      "sale_type": "lien",
+      "format": "both",
+      "platform": null,
+      "schedule_rule": "The Tax Sale is held the 3rd Monday of June of each year for all taxes that are delinquent as of that date.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The page says the annual tax sale is held at the Louisa County Courthouse in Wapello at 9:00 A.M., with all bids placed online.",
+      "how_to_bid": "All bids must be placed online; live bids are not accepted. Bidders may attend at the Louisa County Courthouse in Wapello, where a limited number of computers are available first come, first served, and wireless internet is available for bidders with their own laptop or tablet. You must be 18 or older and pre-registered to bid. A bidder that is not an individual needs a federal tax ID and either an agent for service of process on file with the Iowa Secretary of State or a verified statement on file with the County Recorder. The delinquent tax list is published the first week of June in the official county newspapers. Registration fees, deposit and payment terms: not stated on the page (the Treasurer posts a terms and conditions packet each year). Contact the County Treasurer for more information.",
+      "sources": [
+        {
+          "url": "https://louisacountyia.gov/government/departments-g-z/louisa-county-treasurer/louisa-county-tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "Footer has only '© 2026 Louisa County, Iowa', a site map and a 'Notice of Privacy Practices' link; that page was read and is a HIPAA health-information privacy notice with nothing on reuse of website content. No terms or disclaimer page found.",
+          "terms_url": "https://louisacountyia.gov/louisa-county-notice-of-privacy-practices/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://louisacountyia.gov/government/departments-g-z/louisa-county-treasurer/louisa-county-tax-sale/",
+          "quote": "The Tax Sale is held the 3rd Monday of June of each year for all taxes that are delinquent as of that date."
+        },
+        {
+          "url": "https://louisacountyia.gov/government/departments-g-z/louisa-county-treasurer/louisa-county-tax-sale/",
+          "quote": "The annual Tax Sale will be held at the Louisa County Courthouse, Wapello, IA at 9:00 A.M."
+        },
+        {
+          "url": "https://louisacountyia.gov/government/departments-g-z/louisa-county-treasurer/louisa-county-tax-sale/",
+          "quote": "Please note all bids must be placed online."
+        },
+        {
+          "url": "https://louisacountyia.gov/government/departments-g-z/louisa-county-treasurer/louisa-county-tax-sale/",
+          "quote": "You must be 18 years of age & pre-registered to bid at Tax Sale."
+        }
+      ]
     }
   ]
 }

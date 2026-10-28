@@ -623,6 +623,157 @@
           "quote": "The annual percentage rate is set at nine points above the federal discount rate as of September 1 of that year."
         }
       ]
+    },
+    {
+      "county": "Elbert",
+      "slug": "elbert",
+      "office": "Elbert County Treasurer",
+      "phone": "(303) 621-3120 (sale questions); 303-621-2341 (general)",
+      "address": "215 Comanche Street, Kiowa, CO 80117",
+      "website": "https://www.elbertcounty-co.gov/321/Tax-Lien-Sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "Registration 8:00 AM; sale starts 9:00 AM",
+          "label": "2026 Tax Lien Sale (live auction, BOCC Boardroom, Kiowa)",
+          "deposit": "not stated",
+          "registration_deadline": "Pre-registration by Registration Form, Compliance Declaration and W-9 (email, mail, drop off, or bring to the sale); no deadline stated",
+          "note": "Alternate date November 24, 2026 if weather forces a change. Held in the BOCC Boardroom, 215 Comanche Street, Kiowa.",
+          "source_url": "https://www.elbertcounty-co.gov/321/Tax-Lien-Sale",
+          "quote": "currently scheduled for November 17, 2026, with an alternate date of November 24, 2026"
+        }
+      ],
+      "next_sale_note": "Alternate (inclement weather) date: November 24, 2026.",
+      "how_to_bid": "Live, in-person auction in the BOCC Boardroom at 215 Comanche Street, Kiowa. Complete the Registration Form, Compliance Declaration and W-9 (all three are required); they can be emailed to the Treasurer, mailed, dropped off or brought to the sale. Registration starts at 8:00 AM and the sale at 9:00 AM. Each parcel gets open floor bidding; premiums are at least $5.00 on taxes under $500.00 and $10.00 on taxes of $500 or more.",
+      "sources": [
+        {
+          "url": "https://www.elbertcounty-co.gov/321/Tax-Lien-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices: 'All content © 2006-2026 Elbert County, CO and its representatives. All rights reserved.' (CivicPlus CMS copyright also shown). No terms of use or disclaimer link; no reuse, redistribution or personal-use clause found. Footer also links a Privacy Policy (not read).",
+          "terms_url": "https://www.elbertcounty-co.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.elbertcounty-co.gov/321/Tax-Lien-Sale",
+          "quote": "Registration will start at 8:00 AM with the sale starting at 9:00 AM."
+        },
+        {
+          "url": "https://www.elbertcounty-co.gov/321/Tax-Lien-Sale",
+          "quote": "We will be conducting a live auction."
+        },
+        {
+          "url": "https://www.elbertcounty-co.gov/321/Tax-Lien-Sale",
+          "quote": "The sale will be held in the BOCC Boardroom located at 215 Comanche Street, Kiowa, CO"
+        },
+        {
+          "url": "https://www.elbertcounty-co.gov/321/Tax-Lien-Sale",
+          "quote": "Each parcel or unit will be subject to open floor (general) bidding."
+        }
+      ]
+    },
+    {
+      "county": "Morgan",
+      "slug": "morgan",
+      "office": "Morgan County Treasurer and Public Trustee",
+      "phone": "970-542-3500 (county Commissioners' Office; no Treasurer number on the sale pages)",
+      "address": "Treasurer's Office, Room 100, Morgan County Administration Building, Fort Morgan (street address not stated on the sale pages)",
+      "website": "https://morgancounty.colorado.gov/elected-officials/treasurer-and-public-trustee/tax-lien-sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-12",
+          "label": "2026 Real Estate Tax Lien Sale (online)",
+          "deposit": "not stated",
+          "registration_deadline": "Register on the auction site before the auction opens, even if registered last year (per the county's tax lien sale page)",
+          "list_url": "https://morgancounty.colorado.gov/2026-real-estate-tax-lien-sale-list",
+          "list_note": "The county's published 2026 list (delinquent 2025 taxes), with parcel, owner, legal description and total due.",
+          "note": "Start time not stated. Bidding instructions are to be posted on the auction site at least two weeks before the sale; public computer workstations are at a public library and the Treasurer's Office.",
+          "source_url": "https://morgancounty.colorado.gov/2026-real-estate-tax-lien-sale-list",
+          "quote": "on Thursday, November 12, 2026, a tax lien sale on as much of the following described property"
+        }
+      ],
+      "next_sale_note": "The county's tax lien sale page still describes the 2025 sale; the 2026 date comes from the county's published 2026 list.",
+      "how_to_bid": "The sale is held over the internet on Zeus Auction under its rules. Register before the auction opens even if you registered last year. Bids are premium bids over the lien amount (minimum premium $1.00); the highest premium wins, and premiums are not refunded. Payment is by ACH only. The rate is nine points above the September 1 federal discount rate (the 2025 rate was 14%). These rules are from the county's page written for the 2025 sale.",
+      "sources": [
+        {
+          "url": "https://morgancounty.colorado.gov/2026-real-estate-tax-lien-sale-list",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only Transparency Online, General Notices and the state portal, with '© 2026 State of Colorado'. colorado.gov General Notices page: no reuse, reproduction or redistribution terms. Legal Notices page (co.colorado.gov/legal-notices): only a DMCA infringement-notice procedure, which points to Tyler Technologies' notices at tylertech.com/terms (that page could not be read). No personal-use, noncommercial or resale restriction found.",
+          "terms_url": "https://co.colorado.gov/legal-notices"
+        },
+        {
+          "url": "https://morgancounty.colorado.gov/elected-officials/treasurer-and-public-trustee/tax-lien-sale",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see above.",
+          "terms_url": "https://www.colorado.gov/general-notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://morgancounty.colorado.gov/2026-real-estate-tax-lien-sale-list",
+          "quote": "by means of the internet at https://www.zeusauction.com, according to the rules set forth therein"
+        },
+        {
+          "url": "https://morgancounty.colorado.gov/elected-officials/treasurer-and-public-trustee/tax-lien-sale",
+          "quote": "Minimum premium bids are $1.00."
+        },
+        {
+          "url": "https://morgancounty.colorado.gov/elected-officials/treasurer-and-public-trustee/tax-lien-sale",
+          "quote": "If there are competing bids, the investor offering the highest premium bid purchases the tax lien."
+        }
+      ]
+    },
+    {
+      "county": "Fremont",
+      "slug": "fremont",
+      "office": "Fremont County Treasurer & Public Trustee",
+      "phone": "(719) 276-7380",
+      "address": "615 Macon Ave., Room 104, Cañon City, CO 81212 (mail: PO Box 1690, Cañon City, CO 81215)",
+      "website": "https://fremontcountyco.gov/treasurer/tax-lien-sale-information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "November, the Thursday before Thanksgiving",
+      "sales": [],
+      "next_sale_note": "No dated 2026 sale on the county's pages. Its undated info sheet says the sale is held in November, the Thursday before Thanksgiving, at the Steeple Event and Conference Center, 701 Macon Ave, Cañon City. The county's page lists a Tax Lien Sale List file dated October 22, 2026.",
+      "how_to_bid": "Attend in person: registration at 8:00 am, and the sale starts promptly at 9:00 am and runs until complete. Open auction; the opening bid is the advertised amount. The county says liens cannot be bought without attending the sale (no sealed bid, mail-in or online bidding).",
+      "sources": [
+        {
+          "url": "https://fremontcountyco.gov/treasurer/tax-lien-sale-information",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link; footer has only 'Copyright © 2026 Fremont County. All rights reserved.' (no link), Contact Webmaster and Accessibility. No reuse restriction found."
+        },
+        {
+          "url": "https://fremontcountyco.gov/sites/default/files/Tax_Lien_Sale_Information.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see above (undated county info sheet)."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://fremontcountyco.gov/sites/default/files/Tax_Lien_Sale_Information.pdf",
+          "quote": "registration at 8:00 am, sale starts promptly at 9:00 am and continues until complete."
+        },
+        {
+          "url": "https://fremontcountyco.gov/sites/default/files/Tax_Lien_Sale_Information.pdf",
+          "quote": "Open auction style-Opening bid is amount advertised."
+        },
+        {
+          "url": "https://fremontcountyco.gov/sites/default/files/Tax_Lien_Sale_Information.pdf",
+          "quote": "Steeple Event and Conference Center, 701 Macon Ave, Canon City, CO."
+        }
+      ]
     }
   ]
 }

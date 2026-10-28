@@ -447,6 +447,58 @@
           "quote": "Personal checks and credit/debit cards are not accepted."
         }
       ]
+    },
+    {
+      "county": "Camden",
+      "slug": "camden",
+      "office": "Camden County Collector",
+      "phone": "not stated on the page read",
+      "address": "not stated on the page read (sale held at the Camden County Courthouse)",
+      "website": "https://collector.camdenmo.org/TaxSaleBidders/Intro",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-08-23",
+          "time": "10:00 AM",
+          "label": "Camden County delinquent tax certificate sale",
+          "deposit": "not stated",
+          "registration_deadline": "Register online as a bidder, print and sign the bidder documents, and register in the Collector's Office before the sale; arrive at the Courthouse by 8:30 am on sale day",
+          "note": "Bidders must be Missouri residents and bring Missouri state-issued ID.",
+          "source_url": "https://collector.camdenmo.org/TaxSaleBidders/Intro",
+          "quote": "Tax Sale Date: Monday, August 23, 2027 at 10:00:00 AM"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Complete the Register as a New Bidder form on the Collector's tax sale site, print the Tax Sale Bidder Documents and sign the Tax Sale Bidder Certification and Bidder Sheet. On sale day arrive at the Courthouse by 8:30 am, register in the Collector's Office before the sale and bring Missouri state-issued ID. You must be a Missouri resident buying for yourself, or bring documentation authorizing you to act for a company or other organization. Certificates of Purchase are issued in September. Properties left after the fourth offering can be placed on hold in the Collector's Office. Deposit and payment terms are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://collector.camdenmo.org/TaxSaleBidders/Intro",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link on the Collector's tax sale portal; the footer reads '© 2026 - The Hunter Group, LLC - All Rights Reserved' (the portal vendor). Copyright-only; no reuse restriction found.",
+          "terms_url": "https://collector.camdenmo.org/TaxSaleBidders/Intro"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://collector.camdenmo.org/TaxSaleBidders/Intro",
+          "quote": "Tax Sale Date: Monday, August 23, 2027 at 10:00:00 AM"
+        },
+        {
+          "url": "https://collector.camdenmo.org/TaxSaleBidders/Intro",
+          "quote": "Arrive at Courthouse by 8:30 am on Monday, August 23, 2027."
+        },
+        {
+          "url": "https://collector.camdenmo.org/TaxSaleBidders/Intro",
+          "quote": "Register in Collector's Office prior to Tax Sale."
+        },
+        {
+          "url": "https://collector.camdenmo.org/TaxSaleBidders/Intro",
+          "quote": "Bring your Missouri State Issued Identification to prove Residency and Identity."
+        }
+      ]
     }
   ]
 }

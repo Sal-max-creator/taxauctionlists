@@ -919,6 +919,61 @@
           "quote": "payable in full by cash, cashier's check, money order or electronic wire on the date of the sale"
         }
       ]
+    },
+    {
+      "county": "Barnwell",
+      "slug": "barnwell",
+      "office": "Barnwell County Tax Collector",
+      "phone": "803-541-1048",
+      "address": "57 Wall Street, Room 121, Barnwell, SC 29812",
+      "website": "https://barnwellcountysc.gov/263/Barnwell-County-Delinquent-Tax-Informati",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-07",
+          "time": "10:00 AM",
+          "label": "Barnwell County delinquent tax sale",
+          "deposit": "None stated; a $10.00 non-refundable registration fee applies, and the full bid is due by 5:00 PM on the day of the sale",
+          "registration_deadline": "Registration opens Monday, November 2, 2026 and closes Friday, December 4, 2026 at 5:00 PM; valid government-issued photo ID required.",
+          "register_by": "2026-12-04",
+          "note": "Held at the Barnwell County Courthouse, 2nd floor, 141 Main Street, Barnwell, SC 29812. No sale list is linked on the county pages read.",
+          "source_url": "https://barnwellcountysc.gov/DocumentCenter/View/1565/TAX-SALE-TERMS-AND-CONDITIONS",
+          "quote": "Monday, December 7, 2026, beginning at 10:00am."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register in person between November 2 and December 4, 2026 (5:00 PM) with a valid government-issued photo ID and a $10.00 non-refundable fee (cash, cashier's check or money order). Bidders must be present. The Tax Collector opens each parcel with a bid for the Forfeited Land Commission equal to the unpaid taxes, penalties and costs; the FLC wins unless someone bids higher. The full bid is due by 5:00 PM on sale day by cash, cashier's check or money order (no personal checks); failing to honor a bid draws a $500 fine per bid. All sales are final. The owner has a 12-month redemption period; interest on the bid runs 3%, 6%, 9% or 12% depending on the month, capped at the FLC bid. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://barnwellcountysc.gov/DocumentCenter/View/1565/TAX-SALE-TERMS-AND-CONDITIONS",
+          "read_on": "2026-10-28",
+          "terms": "Read the site's Copyright Notices page (https://barnwellcountysc.gov/copyright): only 'All content © 2006-2026 Barnwell, SC and its representatives. All rights reserved.'; nothing on reuse or republication. Footer also links a Privacy Policy (personal data). No reuse restriction found.",
+          "terms_url": "https://barnwellcountysc.gov/copyright"
+        },
+        {
+          "url": "https://barnwellcountysc.gov/263/Barnwell-County-Delinquent-Tax-Informati",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://barnwellcountysc.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://barnwellcountysc.gov/DocumentCenter/View/1565/TAX-SALE-TERMS-AND-CONDITIONS",
+          "quote": "Barnwell County Courthouse, 2nd floor, 141 Main Street Barnwell, SC 29812."
+        },
+        {
+          "url": "https://barnwellcountysc.gov/DocumentCenter/View/1565/TAX-SALE-TERMS-AND-CONDITIONS",
+          "quote": "All sales are final!"
+        },
+        {
+          "url": "https://barnwellcountysc.gov/263/Barnwell-County-Delinquent-Tax-Informati",
+          "quote": "This page contains required forms for the 2026 Delinquent Tax Sales."
+        }
+      ]
     }
   ]
 }

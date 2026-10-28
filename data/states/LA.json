@@ -442,6 +442,39 @@
           "quote": "Only form of payment accepted will be ACH Withdrawal."
         }
       ]
+    },
+    {
+      "county": "St. Martin",
+      "slug": "st-martin",
+      "office": "St. Martin Parish Sheriff's Office, Tax Division",
+      "phone": "(337) 394-2531",
+      "address": "400 Saint Martin Street, Saint Martinville, LA 70582 (mail: SMSO Tax Division, P. O. Box 247, Saint Martinville, LA 70582)",
+      "website": "https://stmartinsheriff.org/operational/business-services/tax-collection/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Any delinquent account is subject to be sold at the annual tax sale which is usually held in June.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the Sheriff's page says the annual tax sale is usually held in June.",
+      "how_to_bid": "The annual tax sale is held in the front lobby of the Sheriff's Office at 400 Saint Martin Street, Saint Martinville. Delinquent properties are advertised twice in the official journal, Teche News: in mid-April and within one week before the sale. The tax debtor has three years from recordation of the sale to redeem; redemption costs are handled by the Sheriff's tax collector. Registration, deposit, payment method and bidding method: not stated.",
+      "sources": [
+        {
+          "url": "https://stmartinsheriff.org/operational/business-services/tax-collection/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; footer reads only 'Copyright © 2020 St. Martin Parish Sheriff Office. All Rights Reserved.' No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://stmartinsheriff.org/operational/business-services/tax-collection/",
+          "quote": "The tax sale is held in the front lobby of the Sheriff’s Office at 400 Saint Martin Street, Saint Martinville, Louisiana."
+        },
+        {
+          "url": "https://stmartinsheriff.org/operational/business-services/tax-collection/",
+          "quote": "For property sold at tax sale, the original owner (tax debtor) has three years from the date of recordation of the sale"
+        }
+      ]
     }
   ]
 }

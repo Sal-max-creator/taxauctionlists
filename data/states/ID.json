@@ -257,6 +257,101 @@
           "quote": "The buyer must make payment in full via wire transfer to Public Surplus by the set time listed on the auction site."
         }
       ]
+    },
+    {
+      "county": "Elmore",
+      "slug": "elmore",
+      "office": "Elmore County Treasurer/Tax Collector",
+      "phone": "208-587-2130 ext 6500",
+      "address": "2280 American Legion Blvd., Mountain Home, ID 83647",
+      "website": "https://elmorecounty.org/treasurer-tax-collector/tax-deed-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "In Elmore County the tax deed hearing is held in May of each year.",
+      "sales": [],
+      "next_sale_note": "No sale date is posted. Sale time, location and terms are published in the Mountain Home News legal notices.",
+      "how_to_bid": "Property goes to the highest bidder at the sale; the Board of County Commissioners may reject all bids. Commissioners set the minimum bid and require payment in full in cash or certified check no later than 5:00 p.m. on the sale date. Maps and parcel information are at the Assessor's Office, 150 S. 4th E., Suite #2, Mountain Home.",
+      "sources": [
+        {
+          "url": "https://elmorecounty.org/treasurer-tax-collector/tax-deed-sales/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; only '(c) Copyright 2026 Elmore County. All right reserved.' Nothing forbids reuse.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://elmorecounty.org/treasurer-tax-collector/tax-deed-sales/",
+          "quote": "payment in full in cash or certified check no later than 5:00 p.m. on the sale date."
+        }
+      ]
+    },
+    {
+      "county": "Payette",
+      "slug": "payette",
+      "office": "Payette County Treasurer",
+      "phone": "not stated",
+      "address": "1130 3rd Ave. N., Payette, ID 83661",
+      "website": "https://www.payettecounty.org/elected-officials/treasurer/tax-deeded-property",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 tax deed sale was held Tuesday, October 13, 2026 at 10:30 a.m.; the next sale is not yet posted.",
+      "how_to_bid": "Bid in person at the Commissioners office, 1130 3rd Ave N, courtroom #1. All bidders must be on site at the time of the auction; registration is not required. Guaranteed funds must be available at the time of sale.",
+      "sources": [
+        {
+          "url": "https://www.payettecounty.org/elected-officials/treasurer/tax-deeded-property",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link on the page; footer says only '(c)2024, Payette County'. Nothing forbids reuse.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.payettecounty.org/elected-officials/treasurer/tax-deeded-property",
+          "quote": "9/21/26: The tax deed sale has been set for Tuesday, October 13, 2026 at 10:30 a.m."
+        },
+        {
+          "url": "https://www.payettecounty.org/elected-officials/treasurer/tax-deeded-property",
+          "quote": "All Bidders must be onsight at the time of the Auction."
+        }
+      ]
+    },
+    {
+      "county": "Latah",
+      "slug": "latah",
+      "office": "Latah County Treasurer (auctions held by the Board of County Commissioners)",
+      "phone": "208-883-2252",
+      "address": "Latah County Courthouse, 522 S. Adams, Moscow, ID",
+      "website": "https://www.latah.id.us/treasurer/taxdeedfaq",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax deed auction is currently scheduled on the county's page. Sales are advertised in the Pullman/Moscow Daily News.",
+      "how_to_bid": "Auctions are open bidding at the Board of County Commissioners offices, ground floor of the Latah County Courthouse. No pre-registration; register at the door just before the auction. Full payment is due the day of purchase (cash, cashier's check, or verified personal check); no financing, and no over-the-counter or online sales.",
+      "sources": [
+        {
+          "url": "https://www.latah.id.us/treasurer/taxdeedfaq",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, copyright or privacy link found on the page. No terms page found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.latah.id.us/treasurer/taxdeedfaq",
+          "quote": "Auctions are held in the Board of County Commissioners offices on the ground floor of the Latah County Courthouse."
+        },
+        {
+          "url": "https://www.latah.id.us/treasurer/taxdeedfaq",
+          "quote": "The auction is an open bidding process."
+        }
+      ]
     }
   ]
 }

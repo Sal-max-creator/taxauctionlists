@@ -378,6 +378,9 @@ State overview: <https://legislature.idaho.gov/statutesrules/idstat/Title63/T63C
 | Kootenai | <https://kcgov.us/528/Property-Tax-Sale> | 2026-10-27 | Copyright notice only: "All content © 2006-2026 Kootenai County, ID and its representatives. All rights reserved." The Disclaimer page says only to contact the county about its website disclaimer. Nothing forbids republishing sale dates. ([terms](https://kcgov.us/site/copyright)) |
 | Bonner | <https://www.bonnercountyid.gov/TaxDeedandSaleInformation> | 2026-10-27 | No terms of use, disclaimer or privacy page; the site says only "Copyright Bonner County Idaho". Nothing forbids reusing sale dates or facts. |
 | Bonner | <https://www.bonnercountyid.gov/FAQTaxDeeding> | 2026-10-27 | No terms of use, disclaimer or privacy page; the site says only "Copyright Bonner County Idaho". Nothing forbids reusing sale dates or facts. |
+| Elmore | <https://elmorecounty.org/treasurer-tax-collector/tax-deed-sales/> | 2026-10-28 | No terms, disclaimer or privacy link in the footer; only '(c) Copyright 2026 Elmore County. All right reserved.' Nothing forbids reuse. |
+| Payette | <https://www.payettecounty.org/elected-officials/treasurer/tax-deeded-property> | 2026-10-28 | No terms, disclaimer or privacy link on the page; footer says only '(c)2024, Payette County'. Nothing forbids reuse. |
+| Latah | <https://www.latah.id.us/treasurer/taxdeedfaq> | 2026-10-28 | No terms, disclaimer, copyright or privacy link found on the page. No terms page found. |
 
 ## Illinois
 
@@ -477,6 +480,12 @@ State overview: <https://www.legis.iowa.gov/docs/code/2025/446.7.pdf>, <https://
 | Story | <https://storycountyiowa.gov/DocumentCenter/View/16668/Terms-and-Conditions-2025> | 2026-10-27 | County Disclaimer page: 'Copyright (c) Story County, Iowa.' and 'Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License'. Reuse allowed. ([terms](https://storycountyiowa.gov/844/Disclaimer)) |
 | Pottawattamie | <https://pottcounty-ia.gov/treasurer/real_estate/> | 2026-10-27 | Website Privacy, Legal & Linking Policy: accuracy disclaimer only, plus linking sites 'shall not capture Pottawattamie County website pages within frames' or 'present Pottawattamie County website content as its own'. No clause banning reuse or redistribution; no copyright notice. ([terms](https://www.pottcounty-ia.gov/policies/)) |
 | Warren | <https://www.warrencountyia.gov/wp-content/uploads/2026/05/2026-Online-Tax-Sale-Terms.pdf> | 2026-10-27 | Privacy & Linking Policy footer: 'Copyright © 2026 Warren County, Iowa. All Rights Reserved.' No clause on reuse or redistribution found. ([terms](https://www.warrencountyia.gov/privacy-and-linking-policy/)) |
+| Dubuque | <https://www.dubuquecountyiowa.gov/248/Treasurer> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Dubuque County, IA and its representatives. All rights reserved.' No clause on copying, reuse or redistribution found. ([terms](https://www.dubuquecountyiowa.gov/copyright)) |
+| Dubuque | <https://www.dubuquecountyiowa.gov/DocumentCenter/View/8221/2026-TAX-SALE-NOTICE-TO-TAX-SALE-PURCHASERS-PDF> | 2026-10-28 | Same county copyright notice (all rights reserved). ([terms](https://www.dubuquecountyiowa.gov/copyright)) |
+| Cerro Gordo | <https://cerrogordo.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Cerro Gordo County' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found. |
+| Cerro Gordo | <https://cerrogordo.gov/files/treasurer/notice_to_tax_sale_purchasers_2026_11816.pdf> | 2026-10-28 | Same county site; copyright footer only. |
+| Clinton | <https://www.clintoncounty-ia.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Clinton County, Iowa' (site powered by Neapolitan Labs, vendor home-page link only). Page notes: 'The following summary is provided for reference only.' No reuse clause found. |
+| Muscatine | <https://muscatinecountyiowa.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '© 2026 Muscatine County' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found. |
 
 ## Kansas
 
@@ -704,6 +713,8 @@ State overview: <https://nebraskalegislature.gov/laws/statutes.php?statute=77-18
 | Platte | <https://plattecounty.ne.gov/treasurer/> | 2026-10-27 | Only footer policy link is a Privacy Policy covering personal data (comments, cookies, embedded content); it says nothing on reuse of site content. No disclaimer, terms or copyright notice found. ([terms](https://plattecounty.ne.gov/privacy-policy)) |
 | Platte | <https://plattecounty.ne.gov/wp-content/uploads/2026/01/Tax-Sale-Information-2026.pdf> | 2026-10-27 | Same county site; privacy policy only, no reuse clause. ([terms](https://plattecounty.ne.gov/privacy-policy)) |
 | Lincoln | <https://lincolncountyne.gov/treasurer/> | 2026-10-27 | Legal page holds only a copyright line: '© Copyright – Lincoln County, Nebraska'. No clause on reuse, reproduction or redistribution found. ([terms](https://lincolncountyne.gov/legal/)) |
+| Adams | <https://adamscountyne.gov/treasurer/57-tax-sales> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: 'Copyright © 2013 - 2026 Adams County' (site by Careytech Studios, vendor home-page link only). No reuse clause found. |
+| Otoe | <https://otoecountyne.gov/departments/treasurer/public_tax_sale.php> | 2026-10-28 | no terms page found: footer has no terms, disclaimer, legal, copyright or privacy link (only 'Powered by Revize' vendor home-page and CMS login links). |
 
 ## Nevada
 
@@ -920,6 +931,8 @@ State overview: <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.
 | Grady | <https://oktaxrolls.com/county/Grady> | 2026-10-27 | © 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); no terms of use page found and no reuse restriction stated. Copyright-only. |
 | Grady | <https://oktaxrolls.com/public/custom/upload/document/2026_Excess_Resale2.pdf> | 2026-10-27 | Treasurer's 2026 Excess Resale list linked from its oktaxrolls.com page; no reuse restriction stated. |
 | Le Flore | <https://oktaxrolls.com/county/LeFlore> | 2026-10-27 | © 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); no terms of use page found and no reuse restriction stated. Copyright-only. |
+| Muskogee | <https://oktaxrolls.com/county/muskogee> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use page. The page's disclaimer says only that errors do not waive tax amounts owed. No reuse restriction stated. Copyright-only. |
+| Payne | <https://oktaxrolls.com/county/Payne> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use page. The page's disclaimer says only that errors do not waive tax amounts owed. No reuse restriction stated. Copyright-only. |
 
 ## Oregon
 
@@ -1211,6 +1224,11 @@ State overview: <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, 
 | Skagit | <https://media-002-us.cdn.govstack.com/skagitcountywa-002-us/media/vlzki32o/minimum-bid-sheet.pdf> | 2026-10-27 | County minimum bid sheet (court cause no. 26-2-00006-29); site terms as above. ([terms](https://www.skagitcountywa.gov/privacy-policy/)) |
 | Franklin | <https://franklincountywa.gov/411/Tax-Foreclosure-Sales> | 2026-10-27 | Copyright page: 'All content (c) 2006-2026 Franklin County, WA and its representatives. All rights reserved.' No explicit ban on reuse or redistribution. ([terms](https://franklincountywa.gov/copyright)) |
 | Island | <https://islandcountywa.gov/632/Bidding-Process> | 2026-10-27 | Copyright page: 'All content (c) 2006-2026 Island County, WA and its representatives. All rights reserved.' No explicit ban on reuse or redistribution. ([terms](https://islandcountywa.gov/copyright)) |
+| Grant | <https://www.grantcountywa.gov/1217/Terms-and-Conditions> | 2026-10-28 | Site Disclaimer page has no language on reuse or redistribution. Copyright: 'All content (c) 2006-2026 Grant County, WA and its representatives. All rights reserved.' No ban on reuse, no personal/noncommercial-only limit. ([terms](https://www.grantcountywa.gov/342/Disclaimer)) |
+| Grant | <https://www.grantcountywa.gov/384/Treasurer> | 2026-10-28 | Same county site: Disclaimer page has no reuse language; copyright 'All rights reserved' only. ([terms](https://www.grantcountywa.gov/copyright)) |
+| Cowlitz | <https://www.co.cowlitz.wa.us/3324/2026-Foreclosure> | 2026-10-28 | Disclaimer page has no reuse language. Copyright Notices page (read in browser 2026-10-28): 'All content © 2006-2026 Cowlitz County, WA and its representatives. All rights reserved.' Copyright-only; no personal or noncommercial limit. ([terms](https://www.co.cowlitz.wa.us/disclaimer)) |
+| Cowlitz | <https://www.co.cowlitz.wa.us/279/Treasurer> | 2026-10-28 | Disclaimer page has no reuse language. Copyright Notices page (read in browser 2026-10-28): 'All content © 2006-2026 Cowlitz County, WA and its representatives. All rights reserved.' Copyright-only; no personal or noncommercial limit. ([terms](https://www.co.cowlitz.wa.us/disclaimer)) |
+| Clallam | <https://clallamcountywa.gov/1077/Tax-Foreclosure-Sales> | 2026-10-28 | Copyright Notices page (read in browser 2026-10-28): 'All content © 2006-2026 Clallam County, WA and its representatives. All rights reserved.' Copyright-only; no personal or noncommercial limit. ([terms](https://clallamcountywa.gov/copyright)) |
 
 ## West Virginia
 

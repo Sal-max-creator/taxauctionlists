@@ -44,6 +44,7 @@ State overview: <https://alison.legislature.state.al.us/files/pdf/SearchableInst
 | Walker | <https://www.walkercountyrevenue.com/home/tax-sale/> | 2026-10-28 | Same site; no disclaimer or terms text on the page, copyright footer only. |
 | Marengo | <https://www.marengocountyal.com/Default.asp?ID=187> | 2026-10-28 | No terms, disclaimer or privacy link found in the footer; footer shows only 'Copyright © 2026 \| Marengo County, AL' and a site map. Copyright-only, no reuse restriction found. |
 | Macon | <https://maconalabama.com/services/revenue_commissioner/collection.php> | 2026-10-28 | Footer has no terms, disclaimer, privacy or legal link; it shows contact, forms, employment, agenda links and 'Powered by Revize' (vendor home page, no terms). Footer: '© Copyright 2026 Macon County, AL.' Copyright-only, no reuse restriction found. |
+| Blount | <https://www.blountrevenue.com/home/property/tax-lien-auction/> | 2026-10-28 | Footer has no terms, disclaimer, privacy or legal link; it shows only '© 2026 Blount County, AL - All Rights Reserved'. Copyright-only, no reuse restriction found. |
 
 ## Alaska
 
@@ -270,6 +271,7 @@ State overview: <https://www.jud.ct.gov/lawlib/Notebooks/Pathfinders/MunicipalTa
 | Norwalk (city) | <https://www.norwalkct.gov/DocumentCenter/View/40461/Constructive-Notice-07_30_2026> | 2026-10-27 | same as above ([terms](https://www.norwalkct.gov/site/copyright)) |
 | Torrington (city) | <https://www.torringtonct.gov/411/Tax-Sales> | 2026-10-27 | Page says 'The information on this webpage and its contents are for general informational use only and are not legal advice.' Copyright page: 'All content © 2006-2026 Torrington, CT and its representatives. All rights reserved.' No reuse or redistribution ban found. Restate facts only. ([terms](https://www.torringtonct.gov/copyright)) |
 | Torrington (city) | <https://www.torringtonct.gov/DocumentCenter/View/731/Final-Legal-Notice-May-6-2025-PDF> | 2026-10-27 | same as above ([terms](https://www.torringtonct.gov/copyright)) |
+| Old Saybrook (town) | <https://www.oldsaybrookct.gov/165/Tax-Collector> | 2026-10-28 | Copyright page: 'All content © 2006-2026 Old Saybrook, CT and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial use or automated access. No terms or disclaimer link in the footer. Restate facts only. ([terms](https://www.oldsaybrookct.gov/copyright)) |
 
 ## Delaware
 
@@ -633,6 +635,9 @@ State overview: <https://www.legis.iowa.gov/docs/code/2025/446.7.pdf>, <https://
 | Webster | <https://www.webstercountyia.gov/departments/treasurer/tax_sale_2018.php> | 2026-10-28 | no terms page found: the Treasurer pages' footer has no terms, disclaimer, legal or privacy link, only '© Webster County, IA' and a 'Powered by revize' vendor link. No reuse clause found. ([terms](https://www.webstercountyia.gov/departments/treasurer/)) |
 | Webster | <https://www.webstercountyia.gov/Departments/Treasurer/2026%20Webster%20Notice%20to%20Tax%20Sale%20Purchaser.pdf> | 2026-10-28 | County's 2026 notice to tax sale purchasers (rules only; no property list or owner names). Same site terms as above. |
 | Des Moines | <https://desmoinescounty.iowa.gov/treasurer/tax_department/> | 2026-10-28 | no terms page found: footer has no terms, disclaimer, legal or privacy link, only '©2026 Des Moines County, Iowa' and a Neapolitan Labs vendor link. No reuse clause found. |
+| Hancock | <https://hancockcountyia.gov/treasurer/tax_sale/> | 2026-10-28 | no terms page found: footer has only '©2026 Hancock County', a Title VI & ADA Information link and a Neapolitan Labs vendor link; no terms, disclaimer, privacy or legal link and no reuse clause on the page. |
+| Monona | <https://www.mononacountyiowa.gov/treasurer/tax_sale> | 2026-10-28 | no terms page found: footer has only '©2026 Monona County, Iowa', Title VI Notice, notifications and contact links and a Neapolitan Labs vendor link; no terms, disclaimer, privacy or legal link and no reuse clause on the page. |
+| Louisa | <https://louisacountyia.gov/government/departments-g-z/louisa-county-treasurer/louisa-county-tax-sale/> | 2026-10-28 | Footer has only '© 2026 Louisa County, Iowa', a site map and a 'Notice of Privacy Practices' link; that page was read and is a HIPAA health-information privacy notice with nothing on reuse of website content. No terms or disclaimer page found. ([terms](https://louisacountyia.gov/louisa-county-notice-of-privacy-practices/)) |
 
 ## Kansas
 
@@ -699,6 +704,7 @@ State overview: <https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56
 | Grant | <https://grantcountyclerk.ky.gov/delinquent-taxes/> | 2026-10-28 | No terms or disclaimer link; footer links a Privacy & Disability Statement (read: data collection, cookies and disability accommodations, no clause on reuse, redistribution, personal-use limits or automated access) and shows 'Copyright © 2025 Colton Simpson. All rights reserved.' and 'Maintained by Software Management, LLC'. Copyright notice only; no reuse restriction found. ([terms](https://grantcountyclerk.ky.gov/privacy-disability-statement/)) |
 | LaRue | <https://laruecountyclerk.ky.gov/delinquent-taxes/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; it shows '© 2026' and 'Site Designed by Software Management, LLC.' Copyright notice only; no reuse restriction found. |
 | Casey | <https://caseycountyclerk.ky.gov/delinquent-taxes/> | 2026-10-28 | No terms or disclaimer link; footer links a Privacy & Disability Statement (read: comments, cookies, data retention and disability accommodations, nothing on reuse, redistribution, commercial or personal-only use, or automated access) and shows '© 2026' with a Software Management LLC credit. No reuse restriction found. ([terms](https://caseycountyclerk.ky.gov/privacy-disability-statement/)) |
+| Simpson | <https://simpsoncountyclerk.ky.gov/delinquent-taxes/> | 2026-10-28 | No terms or disclaimer link; footer links a Privacy & Disability Statement (read: data collection, cookies, retention, third-party embeds and disability accommodations, nothing on reuse, redistribution, commercial or personal-only use, or automated access) and shows 'Simpson County Kentucky – All Rights Reserved \| Site Provided By Software Management, LLC'. Copyright-only, no reuse restriction found. ([terms](https://simpsoncountyclerk.ky.gov/privacy-disability-statement/)) |
 
 ## Louisiana
 
@@ -773,6 +779,8 @@ State overview: <https://malegislature.gov/laws/generallaws/parti/titleix/chapte
 | Springfield (city) | <https://www.springfield-ma.gov/finance/auctions> | 2026-10-27 | Springfield's web policies say most public record material 'can be copied and used for any purpose'; City-copyrighted material (site design and layout) is limited to fair use. Restate facts only. ([terms](https://www.springfield-ma.gov/cos/web-policies)) |
 | Springfield (city) | <https://www.springfield-ma.gov/finance/fileadmin/collector/JDR/Terms_and_Conditions_of_Sale__FINAL_.pdf> | 2026-10-27 | Same site web policies; terms-of-sale PDF is a public record. Restate facts only. ([terms](https://www.springfield-ma.gov/cos/web-policies)) |
 | Fall River (city) | <https://www.fallriverma.gov/departments/financial_services/tax_possessions_and_upcoming_auctions.php> | 2026-10-27 | No terms or disclaimer page linked. Footer: '© Copyright The City of Fall River.' No reuse or redistribution clause found; restate facts only. |
+| Abington (town) | <https://abingtonma.gov/article/2053223> | 2026-10-28 | No terms, disclaimer or privacy link in the footer; it shows only 'Copyright © 2026 Town of Abington. All rights reserved.' and a 'Powered by Apptegy' link to the vendor's home page (not a EULA). No reuse restriction found. Restate facts only. |
+| Yarmouth (town) | <https://www.yarmouth.ma.us/1618/Tax-Title-Auction> | 2026-10-28 | Copyright / Legal page: 'All content © 2006-2026 Yarmouth and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial use or automated access. No terms, disclaimer or privacy link. Restate facts only. ([terms](https://www.yarmouth.ma.us/site/copyright)) |
 
 ## Michigan
 
@@ -857,6 +865,7 @@ State overview: <https://desotocountyms.gov/508/Tax-Sale>, <https://desotocounty
 | Lauderdale | <https://www.lauderdalecounty.org/?p=7866> | 2026-10-28 | No terms, disclaimer or privacy link in the footer. Copyright-only footer: 'Copyright © 2023. All rights reserved.' No reuse restriction found. |
 | Itawamba | <https://itawamba.gov/?p=954> | 2026-10-28 | Footer links only to a Privacy Policy (read: covers personal data, cookies and analytics; says nothing on copying, reuse or automated access). Copyright footer: '© Copyright 2024-2026 Itawamba County, Mississippi \| All Rights Reserved'. No reuse restriction found. ([terms](https://itawamba.gov/privacy-policy/)) |
 | Clay | <https://www.claycountyms.com/?p=232> | 2026-10-28 | no terms page found; no terms, disclaimer, privacy or legal link on the page or footer. No reuse restriction found. |
+| Stone | <https://www.stonecountyms.gov/tax-assessor-and-collector/> | 2026-10-28 | no terms page found; no terms, disclaimer, privacy, legal or copyright link or text in the page or footer content read. No reuse restriction found. |
 
 ## Missouri
 
@@ -999,6 +1008,10 @@ State overview: <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/element
 | Asbury Park (Monmouth County) | <https://www.cityofasburypark.com/226/Tax-Sewer-Collections> | 2026-10-28 | CivicPlus site; the Copyright page shows only 'All content © 2006-2026 Asbury Park, NJ and its representatives. All rights reserved.' and the CivicPlus copyright line; no terms, disclaimer or privacy link in the footer. No reuse ban found. Restate facts only. The page's 2025 tax sale list PDF is not cited. ([terms](https://www.cityofasburypark.com/site/copyright)) |
 | Hackensack (Bergen County) | <https://www.hackensack.org/tax-collector> | 2026-10-28 | no terms page found: the footer has no terms, disclaimer, privacy or legal link, only '© City of Hackensack, All Rights Reserved.' No reuse ban found. Restate facts only. |
 | Ridgefield Park (Bergen County) | <https://www.ridgefieldpark.org/227> | 2026-10-28 | Copyright page reads only 'All content © 2006-2026 Ridgefield Park, NJ and its representatives. All rights reserved.' and the CivicPlus copyright line; no terms or disclaimer link in the footer (privacy and accessibility pages also linked). No reuse ban found. Restate facts only. ([terms](https://www.ridgefieldpark.org/copyright)) |
+| Chesterfield Township (Burlington County) | <https://www.chesterfieldtwpnj.gov/tax-collector> | 2026-10-28 | No terms, disclaimer, privacy or copyright link found: neither the tax collector page nor the township home page rendered a footer or any legal link to the fetch tool. No reuse ban found. Restate facts only. |
+| Irvington Township (Essex County) | <https://irvingtonnj.gov/> | 2026-10-28 | Township home page (WordPress) read in several parts; the readable content showed no terms, disclaimer, privacy or copyright link and the footer did not render to the fetch tool. No reuse ban found. Restate facts only. The linked older tax sale notice PDF is not cited. |
+| Riverton (Burlington County) | <https://riverton-nj.com/public-notice-tax-sale/> | 2026-10-28 | Terms & Conditions page read: it covers user-posted content and grants no license, but has no clause banning reuse, redistribution, commercial use or automated access. Footer: 'Copyright © 2026 Borough Of Riverton. All Rights Reserved.' (also a Privacy Policy link). No reuse ban found. Restate facts only. ([terms](https://riverton-nj.com/terms-conditions/)) |
+| West New York (Hudson County) | <https://www.westnewyorknj.org/departments/tax/> | 2026-10-28 | No terms, disclaimer, privacy or copyright link in the footer; footer shows only '© The Town of West New York, NJ. All Rights Reserved.' with Directory and Contact links. No reuse ban found. Restate facts only. The page header still shows an outdated 'Next Tax Sale: December 15, 2023' banner, which is not used. |
 
 ## New Mexico
 

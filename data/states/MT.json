@@ -393,6 +393,43 @@
       "notes": {
         "format_note": "'in person' because the page says buyers attend the lottery; it does not describe online participation. The same page also lists a separate tax deed auction (Monday, October 19th, 2026, past) for parcels that went to tax deed, which is not a lien sale."
       }
+    },
+    {
+      "county": "Madison",
+      "slug": "madison",
+      "office": "Madison County Treasurer",
+      "phone": "not stated",
+      "address": "103 W Wallace St, Virginia City, MT 59755",
+      "website": "https://madisoncountymt.gov/214/Tax-Lien-Sale-Assignment-Information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date is posted. The county's page covers buying county-held tax liens by assignment; contact the County Treasurer.",
+      "how_to_bid": "County-held tax liens can be bought by assignment in person or by mail. Counter customers are served first come, first served; duplicate mailed payments go to the earliest postage date, and a random drawing decides matching postmarks. All paperwork must be in the Treasurer's office before an assignment is issued. Contact the office before sending the two-week notice the law requires to the property owner. The county advises using an attorney if you are unfamiliar with Montana law. Fees, interest and payment methods are not stated.",
+      "sources": [
+        {
+          "url": "https://madisoncountymt.gov/214/Tax-Lien-Sale-Assignment-Information",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Madison County, MT and its representatives. All rights reserved.' plus a CivicPlus CMS copyright line. No clause on reuse, redistribution, commercial or personal use, resale or automated access. Footer also links a Privacy Policy (a PDF, not read) and a 'Government Websites by CivicPlus' vendor credit; no terms or disclaimer link. Copyright-only.",
+          "terms_url": "https://madisoncountymt.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://madisoncountymt.gov/214/Tax-Lien-Sale-Assignment-Information",
+          "quote": "Please contact the County Treasurer for information regarding the purchase of County tax liens."
+        },
+        {
+          "url": "https://madisoncountymt.gov/214/Tax-Lien-Sale-Assignment-Information",
+          "quote": "All necessary paper work must be in our office before an assignment can be issued."
+        },
+        {
+          "url": "https://madisoncountymt.gov/214/Tax-Lien-Sale-Assignment-Information",
+          "quote": "If you are unfamiliar with Montana Law you will need the assistance of an attorney."
+        }
+      ]
     }
   ]
 }

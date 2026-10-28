@@ -299,6 +299,88 @@
           "quote": "Property sold at the Tax Sale may be redeemed by the legal owner within four (4) years after the date of the sale."
         }
       ]
+    },
+    {
+      "county": "Carbon",
+      "slug": "carbon",
+      "office": "Carbon County Treasurer",
+      "phone": "not stated",
+      "address": "215 W. Buffalo Street, Rawlins, WY 82301",
+      "website": "https://carboncountywy.gov/1161/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's page gave the 2026 sale as Monday, August 10, 2026 at the Jeffrey Memorial Center in Rawlins (registration 10 a.m., sale 11 a.m.), now past.",
+      "how_to_bid": "Attend the sale in person; registration opened at 10 a.m. and the sale at 11 a.m. at the Jeffrey Memorial Center, 315 W. Pine Street, Rawlins. The county does not sell the property itself: it sells its tax lien for the taxes, interest and costs, and issues a certificate of purchase on the day of the sale. The lien earns 15% interest from the sale date, plus a 3% penalty on the amount purchased; later taxes paid by the certificate holder earn the same 15%. The notice of sale is published for three consecutive weeks in a county legal newspaper. Deposit, payment methods and bidding format are not stated.",
+      "sources": [
+        {
+          "url": "https://carboncountywy.gov/1161/Tax-Sale-Information",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Carbon County, WY and its representatives. All rights reserved.' plus a CivicPlus CMS copyright line. No clause on reuse, redistribution, commercial or personal use, resale or automated access. Footer has no terms, disclaimer or privacy link; only a 'Government Websites by CivicPlus' vendor credit (referral link, not a EULA). Copyright-only.",
+          "terms_url": "https://carboncountywy.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://carboncountywy.gov/1161/Tax-Sale-Information",
+          "quote": "will be held Monday, August 10th, 2026 at the Jeffrey Memorial Center in Rawlins (315 W. Pine Street)."
+        },
+        {
+          "url": "https://carboncountywy.gov/1161/Tax-Sale-Information",
+          "quote": "A certificate of purchase is issued to the purchaser of a tax lien the day of the tax sale."
+        },
+        {
+          "url": "https://carboncountywy.gov/1161/Tax-Sale-Information",
+          "quote": "Purchasers receive 3% penalty on the amount purchased at the sale."
+        }
+      ]
+    },
+    {
+      "county": "Platte",
+      "slug": "platte",
+      "office": "Platte County Treasurer's Office",
+      "phone": "(307) 322-2092",
+      "address": "Platte County Courthouse, 806 9th St, PO Box 1147, Wheatland, WY 82201",
+      "website": "https://www.plattecountywyoming.com/departments/Treasurer/tax-lien-sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Treasurer's office holds a tax lien sale every year in July.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's page gave the 2026 sale as Thursday, July 9, 2026 at 9:00 a.m. in the Commissioners Room of the Platte County Courthouse, now past.",
+      "how_to_bid": "In person only, in the Commissioners Room at the Platte County Courthouse, Wheatland; you must be present to buy, and each sale number needs a person 18 or older present. Turn in the registration form before the sale starts to get a sale number and a copy of the delinquent list. The sale is lottery style: a number is drawn for each property and its holder may buy or pass; passed parcels are re-offered by random draw until sold. Pay on the day of the sale by cash, check, money order or most major credit cards. Liens earn 15% interest plus an additional 3% on the original year's lien; later taxes paid by the certificate holder earn the same 15%. Deposit is not stated.",
+      "sources": [
+        {
+          "url": "https://www.plattecountywyoming.com/departments/Treasurer/tax-lien-sale",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer has no terms, disclaimer, privacy, legal or copyright link; only a 'Site By EvoGov' vendor credit linking to the vendor's home page. Page metadata carries a copyright line only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.plattecountywyoming.com/departments/Treasurer/tax-lien-sale",
+          "quote": "The Treasurer's office holds a tax lien sale every year in July."
+        },
+        {
+          "url": "https://www.plattecountywyoming.com/departments/Treasurer/tax-lien-sale",
+          "quote": "You must be present to purchase tax liens."
+        },
+        {
+          "url": "https://www.plattecountywyoming.com/departments/Treasurer/tax-lien-sale",
+          "quote": "A number will be drawn for each piece of property."
+        },
+        {
+          "url": "https://www.plattecountywyoming.com/departments/Treasurer/tax-lien-sale",
+          "quote": "Tax liens must be paid for the day of the sale."
+        },
+        {
+          "url": "https://www.plattecountywyoming.com/departments/Treasurer/tax-lien-sale",
+          "quote": "The interest rate is 15% plus an additional 3% on the original year's tax lien."
+        }
+      ]
     }
   ]
 }

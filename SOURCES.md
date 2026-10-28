@@ -431,6 +431,8 @@ State overview: <https://legislature.idaho.gov/statutesrules/idstat/Title63/T63C
 | Elmore | <https://elmorecounty.org/treasurer-tax-collector/tax-deed-sales/> | 2026-10-28 | No terms, disclaimer or privacy link in the footer; only '(c) Copyright 2026 Elmore County. All right reserved.' Nothing forbids reuse. |
 | Payette | <https://www.payettecounty.org/elected-officials/treasurer/tax-deeded-property> | 2026-10-28 | No terms, disclaimer or privacy link on the page; footer says only '(c)2024, Payette County'. Nothing forbids reuse. |
 | Latah | <https://www.latah.id.us/treasurer/taxdeedfaq> | 2026-10-28 | No terms, disclaimer, copyright or privacy link found on the page. No terms page found. |
+| Boise | <https://www.boisecounty.us/services/treasurer/> | 2026-10-28 | No terms, disclaimer, privacy or copyright link found on the Treasurer's page. No terms page found. |
+| Shoshone | <https://shoshonecounty.id.gov/tax-deed-auction/> | 2026-10-28 | No terms, disclaimer, privacy or copyright link in the footer (only directory, tax information, meetings, employment, forms, floodplain, Title VI-ADA and emergency links). No terms page found. |
 
 ## Illinois
 
@@ -481,6 +483,8 @@ State overview: <https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-21
 | Champaign | <https://www.champaigncountyil.gov/treasurer> | 2026-10-28 | Same site; no terms, disclaimer or copyright text found. |
 | Stephenson | <https://stephensoncountyil.gov/government/treasurer-collector/tax_sales.php> | 2026-10-28 | No terms page found: the footer shows only '© Copyright 2025 Stephenson County, IL' and 'Powered by revize.'; no disclaimer, terms or privacy link. Copyright-only; no reuse restriction found. |
 | Grundy | <https://www.grundycountyil.gov/services/treasurer/> | 2026-10-28 | Terms of Use read: 'Copyright 2015 and/or its suppliers. All rights reserved.' and 'Any rights not expressly granted herein are reserved.'; information 'MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS' and is provided 'AS IS'. No personal or non-commercial-only clause and no ban on reuse, redistribution or automated access found. ([terms](https://www.grundycountyil.gov/how_do_i/terms_of_use.php)) |
+| Jackson | <https://www.jacksoncounty-il.gov/263/Treasurer> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Jackson County, IL and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no disclaimer or terms link (Privacy and Accessibility links only). ([terms](https://www.jacksoncounty-il.gov/copyright)) |
+| Jackson | <https://www.jacksoncounty-il.gov/267/Delinquent-Tax-Properties> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Jackson County, IL and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no disclaimer or terms link (Privacy and Accessibility links only). ([terms](https://www.jacksoncounty-il.gov/copyright)) |
 
 ## Indiana
 
@@ -622,6 +626,7 @@ State overview: <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://le
 | Terrebonne | <https://www.tpso.net/_files/ugd/fad28c_76322db17e97497aac279248f6f0847b.pdf> | 2026-10-27 | No terms, disclaimer, privacy or copyright link in the footer (only social links; a 'Legal Contact' header link is a contact page). Copyright-only footer: '© 2025 by TPSO'. No reuse restriction found. |
 | Lafourche | <https://www.lpso.net/about-lpso/departments/civil/taxlienauction/> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer. Copyright-only footer: 'Copyright © 2026 Lafourche Parish Sheriff's Office.' No reuse restriction found. |
 | Lafourche | <https://www.lpso.net/2025/06/16/sheriff-webre-announces-details-on-2025-property-tax-title-sale/> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer. Copyright-only footer: 'Copyright © 2026 Lafourche Parish Sheriff's Office.' No reuse restriction found. |
+| St. John the Baptist | <https://stjohnsheriff.org/2025-property-tax-sale-thursday-june-25-2026/> | 2026-10-28 | No terms, disclaimer or privacy link in the footer (only a website-vendor link). Copyright-only footer: '©2026 St. John Sheriff's Office'. No reuse restriction found. |
 
 ## Maine
 
@@ -720,6 +725,7 @@ State overview: <https://www.revisor.mn.gov/statutes/cite/282.01>, <https://www.
 | Crow Wing | <https://crowwing.gov/475> | 2026-10-28 | County Copyright Notices page read: 'All content © 2006-2026 Crow Wing County, MN and its representatives. All rights reserved.' It states no other restriction on reuse, redistribution or automated access. ([terms](https://crowwing.gov/copyright)) |
 | Otter Tail | <https://ottertailcounty.gov/property-home/property-sales/tax-forfeited-lands/> | 2026-10-28 | County Terms of Service read: says the agreement 'does not transfer from Otter Tail County to you any Otter Tail County or third party intellectual property' and grants no right to use county trademarks; notes some material's 'downloading, copying or use of which is subject to additional terms and conditions, stated or unstated.' No clause found forbidding reuse or redistribution of the information, commercial use, or automated access. ([terms](https://ottertailcounty.gov/terms-of-service/)) |
 | Douglas | <https://douglascountymn.gov/tax-forfeited-land> | 2026-10-28 | No terms page found: the footer has Site Map, Accessibility, Search and Console links and an unlinked line '© 2026 · All Rights Reserved'; no disclaimer, terms or legal link. |
+| Lake | <https://www.lakecountymn.gov/CivicAlerts.aspx?AID=24> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Lake County, MN and its representatives. All rights reserved.' plus a CivicPlus software credit. Nothing on reuse, redistribution, commercial or personal-only use, or automated access; the footer has no disclaimer or terms link. ([terms](https://www.lakecountymn.gov/copyright)) |
 
 ## Mississippi
 
@@ -741,6 +747,8 @@ State overview: <https://desotocountyms.gov/508/Tax-Sale>, <https://desotocounty
 | Lafayette | <https://lafayettems.com/tax-assessor-collector/> | 2026-10-27 | No terms, disclaimer or privacy link in the footer. Copyright-only footer: 'Copyright © 2026 Lafayette County'. No reuse restriction found. |
 | Warren | <https://www.co.warren.ms.us/elected-officials/tax-collector/> | 2026-10-27 | Footer links only to a Privacy Policy (https://warrencountyms.gov/privacy-policy/), which covers personal data and says nothing on reuse; no terms or disclaimer page. Copyright-only footer: '© 2026 Warren County'. No reuse restriction found. ([terms](https://warrencountyms.gov/privacy-policy/)) |
 | Warren | <https://co.warren.ms.us/purchasing-real-property/> | 2026-10-27 | Footer links only to a Privacy Policy (https://warrencountyms.gov/privacy-policy/), which covers personal data and says nothing on reuse; no terms or disclaimer page. Copyright-only footer: '© 2026 Warren County'. No reuse restriction found. ([terms](https://warrencountyms.gov/privacy-policy/)) |
+| Lauderdale | <https://www.lauderdalecounty.org/?p=7866> | 2026-10-28 | No terms, disclaimer or privacy link in the footer. Copyright-only footer: 'Copyright © 2023. All rights reserved.' No reuse restriction found. |
+| Itawamba | <https://itawamba.gov/?p=954> | 2026-10-28 | Footer links only to a Privacy Policy (read: covers personal data, cookies and analytics; says nothing on copying, reuse or automated access). Copyright footer: '© Copyright 2024-2026 Itawamba County, Mississippi \| All Rights Reserved'. No reuse restriction found. ([terms](https://itawamba.gov/privacy-policy/)) |
 
 ## Missouri
 
@@ -1158,6 +1166,8 @@ State overview: <https://webserver.rilegislature.gov/Statutes/TITLE44/44-9/44-9-
 | North Providence (town) | <https://northprovidenceri.gov/pdf/taxcollector/2026-NP_Tax_Sale_List.pdf> | 2026-10-28 | same as above |
 | Pawtucket (city) | <https://pawtucketri.com/tax-collectors-office> | 2026-10-27 | No disclaimer, terms or privacy link in the footer. No reuse restriction found. |
 | Pawtucket (city) | <https://pawtucketri.gov/wp-content/uploads/2025/05/2025-Tax-Sale-Advertised-List.pdf> | 2026-10-27 | same as above |
+| Providence (city) | <https://www.providenceri.gov/wp-content/uploads/2026/04/FINAL-AD-CITY-2026-Revised-042426-Final.pdf> | 2026-10-28 | Privacy Policy (https://www.providenceri.gov/privacy-policy) says the site's content is protected by U.S. copyright laws and gives no explicit restriction on reuse or redistribution; footer shows '© 2026 City of Providence. All rights reserved.' No terms of use or disclaimer link found. ([terms](https://www.providenceri.gov/privacy-policy)) |
+| Providence (city) | <https://www.providenceri.gov/collector/tax-sale-information/> | 2026-10-28 | same as above ([terms](https://www.providenceri.gov/privacy-policy)) |
 
 ## South Carolina
 
@@ -1192,6 +1202,9 @@ State overview: <https://www.scstatehouse.gov/code/t12c051.php>, <https://www.sc
 | Cherokee | <https://cherokeecountysc.gov/wp-content/uploads/2026/10/DOC008-2.pdf> | 2026-10-28 | same as above ([terms](https://cherokeecountysc.gov/wp-content/uploads/2025/02/Cherokee-County-Web-Policy-and-Privacy-Policy.pdf)) |
 | Cherokee | <https://cherokeecountysc.gov/wp-content/uploads/2026/10/DOC009-2.pdf> | 2026-10-28 | same as above ([terms](https://cherokeecountysc.gov/wp-content/uploads/2025/02/Cherokee-County-Web-Policy-and-Privacy-Policy.pdf)) |
 | Union | <https://gearupunionsc.com/departments/delinquent-tax-office/> | 2026-10-28 | No terms, disclaimer or privacy link in the footer; footer reads 'Copyright ©2026 Union County, SC \| Website by: OSLA Agency' (vendor credit only, no vendor terms link). No reuse restriction found. ([terms](https://gearupunionsc.com/departments/delinquent-tax-office/)) |
+| Marion | <https://www.marionsc.org/departments/tax_collector/bidding_information.php> | 2026-10-28 | No terms page found: the page footer has no terms, disclaimer, privacy, copyright or legal link (only a logo, a map link, a 'Powered by revize' vendor link and a Login link). No reuse restriction found. |
+| Newberry | <https://www.newberrycounty.gov/delinquent-tax/tax-sales> | 2026-10-28 | No terms, disclaimer, privacy or legal link in the footer (footer menu: Agendas & Minutes, Contact Us, Economic Development, Human Resources, News & Updates). Copyright-only footer: 'Copyright © 2023-2026 Newberry County, South Carolina.' No reuse restriction found. |
+| Newberry | <https://www.newberrycounty.gov/sites/default/files/uploads/departments/delinquent-tax/tax_sale_info-consolidated.pdf> | 2026-10-28 | same as above |
 
 ## South Dakota
 
@@ -1337,6 +1350,8 @@ State overview: <https://le.utah.gov/~2023/bills/sbillenr/SB0115.pdf>, <https://
 | Sanpete | <https://www.sanpetecountyutah.gov/auditor.html> | 2026-10-27 | Copyright Notices page: 'All rights reserved.' only; no reuse restriction found. ([terms](https://www.sanpetecountyutah.gov/copyright)) |
 | Wasatch | <https://www.wasatchcounty.gov/184/Property-Tax-Sale-Information> | 2026-10-27 | No terms, disclaimer or copyright page found in the footer; the Privacy Policy covers only personal data collection and has no copying or reuse restriction. ([terms](https://www.wasatchcounty.gov/site/privacy)) |
 | Wasatch | <https://wasatchcounty.gov/property-tax-sale-information> | 2026-10-27 | Privacy Policy only (personal data); no reuse restriction found. ([terms](https://www.wasatchcounty.gov/site/privacy)) |
+| Millard | <https://millardcounty.gov/your-government/elected-officials/auditor/tax-sale/> | 2026-10-28 | No terms, disclaimer or copyright link found in the footer (Home, Employee Login, Web Mapping, Facebook only). The 'County Disclosures' page in the site navigation holds only officials' conflict-of-interest and campaign finance filings and says nothing about reuse. No terms page found. |
+| Millard | <https://millardcounty.gov/?p=25968> | 2026-10-28 | Same site; no terms page found. |
 
 ## Vermont
 

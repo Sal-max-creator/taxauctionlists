@@ -416,6 +416,90 @@
           "quote": "two years from the date of this sale to redeem their property"
         }
       ]
+    },
+    {
+      "county": "Lauderdale",
+      "slug": "lauderdale",
+      "office": "Lauderdale County Tax Collector",
+      "phone": "601-482-9895 (bidder questions)",
+      "address": "not stated",
+      "website": "https://www.lauderdalecounty.org/?p=7866",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No 2027 date posted. The 2026 land sale was held online beginning 8:30 a.m. Aug. 31, 2026, which has passed.",
+      "how_to_bid": "The land sale is held online through GovEase. For the 2026 sale, bidder registration on GovEase opened Aug. 1 (registration training was offered at the same time), the last day to sign up was Aug. 28, and the online sale began at 8:30 a.m. Aug. 31 and continued until all properties were sold. Questions go to the Tax Collector's office at 601-482-9895. Deposit and redemption terms not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.lauderdalecounty.org/?p=7866",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer. Copyright-only footer: 'Copyright © 2023. All rights reserved.' No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lauderdalecounty.org/?p=7866",
+          "quote": "This year's land sale will be held online beginning 8:30 a.m., Aug. 31, pursuant to the laws of the state of Mississippi."
+        },
+        {
+          "url": "https://www.lauderdalecounty.org/?p=7866",
+          "quote": "Aug. 1 — First day to register to bid online at www.govease.com"
+        },
+        {
+          "url": "https://www.lauderdalecounty.org/?p=7866",
+          "quote": "Aug. 28 — Absolute last day to sign up for the land sale on GovEase"
+        }
+      ]
+    },
+    {
+      "county": "Itawamba",
+      "slug": "itawamba",
+      "office": "Itawamba County Tax Collector",
+      "phone": "(662) 862-4304",
+      "address": "304 West Wiygul, Fulton, MS 38843 (mail: P.O. Box 818, Fulton, MS 38843)",
+      "website": "https://itawamba.gov/?p=954",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "The date of the Tax Sale in Itawamba County is always the last Monday in August, beginning promptly at 8:30 a.m.",
+      "sales": [],
+      "next_sale_note": "No dated 2027 sale posted; the Tax Collector page gives the standing rule (last Monday in August, 8:30 a.m.).",
+      "how_to_bid": "The tax sale is conducted online at GovEase, and registration for it starts August 1; contact the Tax Collector's office for instructions on registering and paying. The sale usually takes 3 to 5 days. The opening amount is the taxes and penalty; overbids earn no interest. The office provides no sale list (a list is on the GovEase site). After the two-year redemption period, the buyer can apply to the Chancery Clerk (662-862-3421) for a tax deed. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://itawamba.gov/?p=954",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only to a Privacy Policy (read: covers personal data, cookies and analytics; says nothing on copying, reuse or automated access). Copyright footer: '© Copyright 2024-2026 Itawamba County, Mississippi | All Rights Reserved'. No reuse restriction found.",
+          "terms_url": "https://itawamba.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://itawamba.gov/?p=954",
+          "quote": "The Tax Sale is conducted online at www.govease.com."
+        },
+        {
+          "url": "https://itawamba.gov/?p=954",
+          "quote": "Registration for the online Tax Sale starts August 1."
+        },
+        {
+          "url": "https://itawamba.gov/?p=954",
+          "quote": "The beginning amount is always the amount of the taxes and penalty."
+        },
+        {
+          "url": "https://itawamba.gov/?p=954",
+          "quote": "No lists of property to be sold will be provided by this office."
+        }
+      ]
     }
   ]
 }

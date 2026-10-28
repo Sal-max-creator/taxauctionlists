@@ -762,6 +762,109 @@
           "quote": "Registration will not be available on the day of the sale under any circumstances."
         }
       ]
+    },
+    {
+      "county": "Marion",
+      "slug": "marion",
+      "office": "Marion County Delinquent Tax Office",
+      "phone": "(843) 423-3904",
+      "address": "2523 E Hwy 76, Room 105, Marion, SC 29571 (mail: P O Box 389, Marion, SC 29571)",
+      "website": "https://www.marionsc.org/departments/tax_collector/bidding_information.php",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "time": "10:00 AM",
+          "label": "Delinquent tax sale",
+          "deposit": "None stated; a $10.00 nonrefundable fee to bid, and bids are paid in cash, money order or certified check by close of business on the day of the sale",
+          "registration_deadline": "Register with the Delinquent Tax Collector Office (registration began September 1); no bid numbers are issued on the day of the sale. A valid driver's license or other acceptable ID and an IRS Form W-9 are required.",
+          "note": "Held in the gymnasium behind the Marion County School District Office, 221 Elizabeth Street (location subject to change). The advertised list shows taxpayer names, so it is not linked here.",
+          "source_url": "https://www.marionsc.org/departments/tax_collector/bidding_information.php",
+          "quote": "beginning at 10 am, November 2, 2026, (location subject to change)."
+        }
+      ],
+      "next_sale_note": "Sale set for November 2, 2026 at 10 am (location subject to change).",
+      "how_to_bid": "Register with the Delinquent Tax Collector Office before the sale (no bid numbers are issued on sale day), bringing a valid driver's license or other acceptable ID and an IRS Form W-9; bidding costs a $10.00 nonrefundable fee. Property is auctioned in alphabetical order with tax map number to the highest bidder, using the bid cards provided. Bids must be paid in cash, money order or certified check by close of business on the day of the sale, and there are no refunds of bid money. The defaulting taxpayer has one year and one day to redeem, with interest of 3%, 6%, 9% or 12% depending on the quarter of the redemption period.",
+      "sources": [
+        {
+          "url": "https://www.marionsc.org/departments/tax_collector/bidding_information.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the page footer has no terms, disclaimer, privacy, copyright or legal link (only a logo, a map link, a 'Powered by revize' vendor link and a Login link). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.marionsc.org/departments/tax_collector/bidding_information.php",
+          "quote": "The cost to bid is $10.00 nonrefundable fee."
+        },
+        {
+          "url": "https://www.marionsc.org/departments/tax_collector/bidding_information.php",
+          "quote": "No bid numbers will be issued day of sale."
+        },
+        {
+          "url": "https://www.marionsc.org/departments/tax_collector/bidding_information.php",
+          "quote": "must be paid for with cash, money order or certified check by the close of business on the day of the sale."
+        },
+        {
+          "url": "https://www.marionsc.org/departments/tax_collector/bidding_information.php",
+          "quote": "Property will be auctioned in alphabetical order with tax map number to the highest bidder"
+        }
+      ]
+    },
+    {
+      "county": "Newberry",
+      "slug": "newberry",
+      "office": "Newberry County Delinquent Tax Collector",
+      "phone": "(803) 321-2128",
+      "address": "1512 Martin Street, Newberry, SC 29108",
+      "website": "https://www.newberrycounty.gov/delinquent-tax/tax-sales",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Tax Sales are held once each year and consist of Real Estate and Mobile Homes.",
+      "sales": [],
+      "next_sale_note": "No dated 2026 sale posted; the county's Tax Sales page links only a general Tax Sale information sheet with no date.",
+      "how_to_bid": "The open bid auction takes place in County Council Chambers in the County Courthouse Annex, 1309 College Street, Newberry. Registration opens at 8:30 am on sale day and runs until the auction begins; pre-registration is available from the first newspaper advertisement of the sale. A valid driver's license or state-issued photo ID is required to register. Bids are paid in cash, cashier's check or money order from a recognized financial institution, and all payments must be received by 4:00 p.m. on the date of sale. Property is bought as is. The owner may redeem within the period set by S.C. Code section 12-51-90, paying interest of 3%, 6%, 9% or 12% by quarter. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.newberrycounty.gov/delinquent-tax/tax-sales",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer (footer menu: Agendas & Minutes, Contact Us, Economic Development, Human Resources, News & Updates). Copyright-only footer: 'Copyright © 2023-2026 Newberry County, South Carolina.' No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.newberrycounty.gov/sites/default/files/uploads/departments/delinquent-tax/tax_sale_info-consolidated.pdf",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.newberrycounty.gov/sites/default/files/uploads/departments/delinquent-tax/tax_sale_info-consolidated.pdf",
+          "quote": "The auction takes place in County Council Chambers located in the County Courthouse Annex"
+        },
+        {
+          "url": "https://www.newberrycounty.gov/sites/default/files/uploads/departments/delinquent-tax/tax_sale_info-consolidated.pdf",
+          "quote": "Registration opens at 8:30 am and continues until the auction begins."
+        },
+        {
+          "url": "https://www.newberrycounty.gov/sites/default/files/uploads/departments/delinquent-tax/tax_sale_info-consolidated.pdf",
+          "quote": "Pre-registration is now also available beginning with the first advertisement of the sale in the newspaper."
+        },
+        {
+          "url": "https://www.newberrycounty.gov/sites/default/files/uploads/departments/delinquent-tax/tax_sale_info-consolidated.pdf",
+          "quote": "All payments must be received by 4:00 p.m. on date of sale."
+        },
+        {
+          "url": "https://www.newberrycounty.gov/sites/default/files/uploads/departments/delinquent-tax/tax_sale_info-consolidated.pdf",
+          "quote": "This is an open bid auction."
+        }
+      ]
     }
   ]
 }

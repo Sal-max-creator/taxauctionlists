@@ -1075,6 +1075,121 @@
           "quote": "Bid price starts at the amount of costs accrued on each delinquent property."
         }
       ]
+    },
+    {
+      "county": "Warren",
+      "slug": "warren",
+      "office": "Warren County Tax Claim office",
+      "phone": "814-728-3415",
+      "address": "204 4th Avenue, Warren, PA 16365",
+      "website": "https://warrencountypa.gov/1200",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 Upset Sale was September 28, 2026. The county says the next Judicial Sale will be in May of 2027; the exact date is not yet posted. Repository bids are taken on a rolling monthly basis.",
+      "how_to_bid": "Pre-registration is required to bid at the Upset Sale (held in the Main Courtroom); registration for the Judicial Sale opens one month before the sale. Repository bids are accepted and held until the last county business day of the month, and the office takes no money until a bid is approved by all three taxing districts. Deposit not stated. Office hours Monday through Friday, 8:30 am to 4:30 pm.",
+      "sources": [
+        {
+          "url": "https://warrencountypa.gov/1200",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Warren County, PA and its representatives. All rights reserved.' No reuse, redistribution or automated-access clause found. Restate facts only.",
+          "terms_url": "https://warrencountypa.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://warrencountypa.gov/1200",
+          "quote": "The next Judicial Sale will be in May of 2027. Registration for the tax sale will open one month prior."
+        },
+        {
+          "url": "https://warrencountypa.gov/1200",
+          "quote": "Currently accepting and holding bids until the last county business day of the month."
+        },
+        {
+          "url": "https://warrencountypa.gov/1200",
+          "quote": "We do not accept any money until the bid is approved by all three taxing districts."
+        }
+      ]
+    },
+    {
+      "county": "Northumberland",
+      "slug": "northumberland",
+      "office": "Northumberland County Tax Claim Bureau",
+      "phone": "570.988.4116",
+      "address": "Administration Center, 399 Stadium Drive, 3rd floor, Sunbury, PA 17801",
+      "website": "https://northumberlandcountypa.gov/sales",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "This sale is held every September.",
+      "sales": [],
+      "next_sale_note": "The schedule rule is for the Upset Sale, so the 2026 one has passed. Judicial Sales have no set schedule but must be held at least once a year; a Repository Sale date is announced after municipal and school district approval. No upcoming date is posted.",
+      "how_to_bid": "Bidders must pre-register in person with the Tax Claim Bureau at 399 Stadium Drive, 3rd floor, Sunbury; the registration deadline is 4:00 pm ten days before the sale, and a non-refundable $50 registration fee is charged per bidder for each sale. Repository Sale minimum bid is $500 for lots and houses and $300 for mobile homes; payment in full is due the day of the sale and does not include recording or transfer fees. Sealed repository bids (minimum $100) must include a certified check or money order for the full bid and are reviewed on the last day of each quarter. Upset and Judicial deposit not stated.",
+      "sources": [
+        {
+          "url": "https://northumberlandcountypa.gov/sales",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the footer has only an accessibility link and the line 'Copyright © 2026 | Northumberland County, Pennsylvania'; no terms, disclaimer or privacy link. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://northumberlandcountypa.gov/sales",
+          "quote": "This sale is held every September."
+        },
+        {
+          "url": "https://northumberlandcountypa.gov/sales",
+          "quote": "Judicial Sales are not held by any set schedule but must be held at least once a year."
+        },
+        {
+          "url": "https://northumberlandcountypa.gov/sales",
+          "quote": "Registration deadline is 4:00 pm ten days prior to the scheduled sale date."
+        },
+        {
+          "url": "https://northumberlandcountypa.gov/sales",
+          "quote": "A non-refundable registration fee of $50.00 per bidder will be charged for each sale registration."
+        },
+        {
+          "url": "https://northumberlandcountypa.gov/sales",
+          "quote": "Minimum bid is $500.00 for lots and houses and $300.00 for mobile homes."
+        }
+      ]
+    },
+    {
+      "county": "Montour",
+      "slug": "montour",
+      "office": "Montour County Office of Tax Claims",
+      "phone": "570.271.3006",
+      "address": "Montour County Administration Center, 435 East Front Street, Danville, PA 17821",
+      "website": "https://www.montourcounty.gov/Departments/Tax-Claims",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Properties that have two or more years' worth of delinquent taxes are sold at the upset sale every September.",
+      "sales": [],
+      "next_sale_note": "The 2026 September upset sale has passed. The page posts a Judicial Sale property list and 2026 bidder requirements but no sale date; repository listings are posted when available.",
+      "how_to_bid": "Pre-registration is required for the upset sale (see the county's Pre-Registration Requirements). Owners can pay to avoid the upset sale until 4 pm on the last business day before the sale. Judicial Sale bidders must review the county's 2026 Judicial Sale Bidder Requirements and Conditions of Sale and file a certification form (entity or individual). Deposit and payment terms not stated. Office hours Monday through Friday, 9:00 a.m. to 4:00 p.m.",
+      "sources": [
+        {
+          "url": "https://www.montourcounty.gov/Departments/Tax-Claims",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the footer shows only '© 2026 Montour County' and contact, open-records and jobs links; no terms, disclaimer or privacy link. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.montourcounty.gov/Departments/Tax-Claims",
+          "quote": "Properties that have two or more years' worth of delinquent taxes are sold at the upset sale every September."
+        },
+        {
+          "url": "https://www.montourcounty.gov/Departments/Tax-Claims",
+          "quote": "When properties are available for Repository Sale the listing will be available here."
+        }
+      ]
     }
   ]
 }

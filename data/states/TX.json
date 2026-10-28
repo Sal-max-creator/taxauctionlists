@@ -1671,6 +1671,49 @@
           "quote": "A person purchasing property at the sale will be required to present to the officer who conducts the sale"
         }
       ]
+    },
+    {
+      "county": "Wharton",
+      "slug": "wharton",
+      "office": "Wharton County Sheriff's Office (Civil)",
+      "phone": "979-532-1550",
+      "address": "315 East Elm Street, Wharton, TX 77488",
+      "website": "https://newtools.cira.state.tx.us/page/wharton.Sheriff.CivilNotices",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Sales are generally held quarterly and are always on the first Tuesday of the month.",
+      "sales": [],
+      "next_sale_note": "The county's 2026 info sheet lists tentative sales on March 3, July 7 and October 6, 2026; no later sale is posted yet.",
+      "how_to_bid": "Sales begin at 10:00 A.M. in the Commissioner's Court Room of the County Annex Building, 309 E. Milam, Wharton. You must register to bid; registration begins at 9:00 the morning of the sale. Successful bidders pay with cash or a cashier's check payable to Wharton County Sheriff Department; a bidder who fails to pay is liable for twenty percent of the property's value plus costs. Payment deadline and deposit not stated.",
+      "sources": [
+        {
+          "url": "https://newtools.cira.state.tx.us/page/wharton.Sheriff.CivilNotices",
+          "read_on": "2026-10-28",
+          "terms": "County page (Texas Association of Counties CIRA hosting) has no terms, disclaimer or legal link; the copyright line is an unfilled template. No reuse clause found. Restate facts only.",
+          "terms_url": null
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/upload/page/7028/docs/2026%20Tax%20Sale%20Info%20Sheet.pdf",
+          "read_on": "2026-10-28",
+          "terms": "County PDF; no terms stated.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://newtools.cira.state.tx.us/upload/page/7028/docs/2026%20Tax%20Sale%20Info%20Sheet.pdf",
+          "quote": "Tax Sales are generally held quarterly and are always on the first Tuesday of the month."
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/upload/page/7028/docs/2026%20Tax%20Sale%20Info%20Sheet.pdf",
+          "quote": "Registration for the Sale begins at 9: 00 the morning of the sale."
+        },
+        {
+          "url": "https://newtools.cira.state.tx.us/upload/page/7028/docs/2026%20Tax%20Sale%20Info%20Sheet.pdf",
+          "quote": "Successful bidders must pay for their property with cash or a cashier's check payable to Wharton County Sheriff Department."
+        }
+      ]
     }
   ]
 }

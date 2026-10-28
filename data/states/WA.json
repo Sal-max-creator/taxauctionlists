@@ -601,6 +601,41 @@
           "quote": "The Tax Foreclosure sale is advertised at least three weeks prior to the auction."
         }
       ]
+    },
+    {
+      "county": "Walla Walla",
+      "slug": "walla-walla",
+      "office": "Walla Walla County Treasurer's Office",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://www.wwcowa.gov/government/treasurer/foreclosure.php",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted: the Treasurer's foreclosure page says 'NO SALE DATE HAS BEEN SET.'",
+      "how_to_bid": "Online only: the county says all foreclosure sales are conducted via online auction under RCW 36.16.145 and administered by GovEase, and bidders register for foreclosure sales on the GovEase website. Deposit, minimum bid and payment terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.wwcowa.gov/government/treasurer/foreclosure.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the page footer has no terms, disclaimer, legal, copyright or privacy link (only 'Powered by revize.' and a Login link)."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wwcowa.gov/government/treasurer/foreclosure.php",
+          "quote": "There is currently no Foreclosure Sale Scheduled"
+        },
+        {
+          "url": "https://www.wwcowa.gov/government/treasurer/foreclosure.php",
+          "quote": "Please go to the GovEase website to register for foreclosure sales."
+        }
+      ]
     }
   ]
 }

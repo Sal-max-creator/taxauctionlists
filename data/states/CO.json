@@ -889,6 +889,141 @@
           "terms_url": "https://tellercounty.gov/privacy"
         }
       ]
+    },
+    {
+      "county": "Delta",
+      "slug": "delta",
+      "office": "Delta County Treasurer's Office",
+      "phone": "970-874-2135",
+      "address": "501 Palmer Street, Suite 202, Delta, CO (ZIP not stated on the page)",
+      "website": "https://deltacountyco.gov/141/Annual-Sales",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "SRI, Inc. (Zeus Auction)",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "8:00 AM Mountain Time",
+          "label": "2026 Annual Tax Lien Sale (online)",
+          "deposit": "not stated",
+          "registration_deadline": "Registration: Friday, October 23, through Friday, October 30, 2026. Late registrations will not be accepted.",
+          "register_by": "2026-10-30",
+          "note": "The county links a Delinquent Property Tax Sale List in its Document Center.",
+          "source_url": "https://deltacountyco.gov/141/Annual-Sales",
+          "quote": "Online sale: Thursday, November 5, 2026, beginning at 8 a.m. Mountain Time."
+        }
+      ],
+      "how_to_bid": "Online only. Register and bid through the Zeus Auction website between Friday, October 23 and Friday, October 30, 2026; the county says late registrations will not be accepted. Deposit and payment terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://deltacountyco.gov/141/Annual-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy and Internet Disclaimer page covers privacy, cookies and third-party disclosure; no reuse, redistribution, commercial-use, personal-use, resale or automated-access clause. Copyright Notices page shows only 'All content © 2006-2026 Delta and its representatives. All rights reserved.' Copyright-only.",
+          "terms_url": "https://deltacountyco.gov/19/Privacy-Policy-and-Internet-Disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://deltacountyco.gov/141/Annual-Sales",
+          "quote": "Register and participate through the Zeus Auction website."
+        }
+      ]
+    },
+    {
+      "county": "Clear Creek",
+      "slug": "clear-creek",
+      "office": "Clear Creek County Treasurer & Public Trustee",
+      "phone": "303-679-2300",
+      "address": "405 Argentine Street, P.O. Box 2000, Georgetown, CO 80444",
+      "website": "https://www.clearcreekcounty.us/548/2026-Tax-Lien-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "SRI, Inc. (Zeus Auction)",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-06",
+          "time": "Bidding opens 8:00 AM MST and the auction closes 5:00 PM MST the same day",
+          "label": "Annual Internet Tax Lien Sale",
+          "deposit": "No deposit is required at the time of registration.",
+          "registration_deadline": "REGISTRATION CLOSES AT 5:00 PM MST THURSDAY, NOVEMBER 05, 2026 – NO EXCEPTIONS",
+          "register_by": "2026-11-05",
+          "note": "The county says the tax sale list is available for research from the week of October 15, 2026; the list file it links is named for 2023, so it is not given here.",
+          "source_url": "https://www.clearcreekcounty.us/548/2026-Tax-Lien-Sale",
+          "quote": "FRIDAY, NOVEMBER 06, 2026 – BIDDING OPENS AT 8:00 AM MST"
+        }
+      ],
+      "how_to_bid": "Online only: the sale is an Internet auction administered by SRI Inc. at www.zeusauction.com. Register by 5:00 PM MST on Thursday, November 5, 2026; no deposit is required at registration. SRI auction support is listed at 1-800-800-9588.",
+      "sources": [
+        {
+          "url": "https://www.clearcreekcounty.us/548/2026-Tax-Lien-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy page (with a Terms & Conditions section: General, Disclaimers, User Authentication) and Copyright Notices page contain no reuse, redistribution, commercial-use, personal-use, resale or automated-access clause; footer: 'All content © 2006-2026 Clear Creek County, CO and its representatives. All rights reserved.' Copyright-only.",
+          "terms_url": "https://www.clearcreekcounty.us/privacy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.clearcreekcounty.us/548/2026-Tax-Lien-Sale",
+          "quote": "The tax lien sale will be an Internet auction administered by SRI Inc."
+        }
+      ]
+    },
+    {
+      "county": "Grand",
+      "slug": "grand",
+      "office": "Grand County Treasurer / Public Trustee",
+      "phone": "970-725-3061",
+      "address": "308 Byers Avenue, Hot Sulphur Springs, CO 80451 (mailing: P.O. Box 288)",
+      "website": "https://www.co.grand.co.us/129/Tax-Liens",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (coloradotaxsale.com)",
+        "url": "https://grand.coloradotaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "not stated",
+          "label": "2026 Tax Lien Sale (online)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated (the county says online registration opened Friday, October 2, 2026)",
+          "note": "The county says the delinquent real property tax list will be posted at that time on its own site.",
+          "source_url": "https://www.co.grand.co.us/129/Tax-Liens",
+          "quote": "and will be held Thursday, November 5, 2026"
+        }
+      ],
+      "how_to_bid": "Online only, through the county's official tax certificate auction site (grand.coloradotaxsale.com). The county says registration opened Friday, October 2, 2026; a registration deadline, deposit and payment terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.co.grand.co.us/129/Tax-Liens",
+          "read_on": "2026-10-28",
+          "terms": "Website Privacy Policy and Legal Information page has no reuse, redistribution, commercial-use, personal-use, resale or scraping clause; its Linkage Policy asks linkers not to frame county pages or portray anyone in a false light. Copyright Notices: 'All content © 2006-2026 Grand County, CO and its representatives. All rights reserved.' Copyright-only.",
+          "terms_url": "https://www.co.grand.co.us/site/privacy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.grand.co.us/129/Tax-Liens",
+          "quote": "The Grand County tax lien sale is held online"
+        },
+        {
+          "url": "https://www.co.grand.co.us/129/Tax-Liens",
+          "quote": "The online tax sale will open for registration on Friday, October 2, 2026"
+        }
+      ],
+      "notes": {
+        "contact_note": "The Treasurer section gives 970-725-3061 and P.O. Box 288; the site footer gives the county's general 970-725-3347 and P.O. Box 264."
+      }
     }
   ]
 }

@@ -562,6 +562,45 @@
           "quote": "You must become a registered bidder through Public Surplus in order to bid on this auction."
         }
       ]
+    },
+    {
+      "county": "Kittitas",
+      "slug": "kittitas",
+      "office": "Kittitas County Treasurer's Office",
+      "phone": "509-962-7535",
+      "address": "205 West Fifth, Suite #102, Ellensburg, WA 98926",
+      "website": "https://co.kittitas.wa.us/treasurer/foreclosures.aspx",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted. The foreclosures page links a 'Current List 2026 - October' but gives no sale date; the county says the date is posted on its website 30 days before the sale.",
+      "how_to_bid": "Not stated. The Treasurer's handout says the sale is advertised at least three weeks before the auction, parcels are offered 'as is' with no guarantees, and owners can redeem until the close of business on the day before the sale. Bidding method, deposit and payment terms are not stated.",
+      "sources": [
+        {
+          "url": "https://co.kittitas.wa.us/treasurer/foreclosures.aspx",
+          "read_on": "2026-10-28",
+          "terms": "Website Disclaimer page does not address reuse, redistribution, commercial use or automated access; footer: 'Copyright © 2026 - Kittitas County - All Rights Reserved.' Copyright-only.",
+          "terms_url": "https://co.kittitas.wa.us/disclaimer.aspx"
+        },
+        {
+          "url": "https://www.co.kittitas.wa.us:443/uploads/documents/treasurer/General Foreclosure Information Handout.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Website Disclaimer page does not address reuse, redistribution, commercial use or automated access; footer: 'Copyright © 2026 - Kittitas County - All Rights Reserved.' Copyright-only.",
+          "terms_url": "https://co.kittitas.wa.us/disclaimer.aspx"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.kittitas.wa.us:443/uploads/documents/treasurer/General Foreclosure Information Handout.pdf",
+          "quote": "The Kittitas County Treasurer’s Tax Foreclosure Sale date will be posted on our website 30 days prior to the sale."
+        },
+        {
+          "url": "https://www.co.kittitas.wa.us:443/uploads/documents/treasurer/General Foreclosure Information Handout.pdf",
+          "quote": "The Tax Foreclosure sale is advertised at least three weeks prior to the auction."
+        }
+      ]
     }
   ]
 }

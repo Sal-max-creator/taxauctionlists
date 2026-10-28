@@ -549,6 +549,107 @@
           "quote": "This year's sale will be held 6/15/2026."
         }
       ]
+    },
+    {
+      "county": "Boone",
+      "slug": "boone",
+      "office": "Boone County Treasurer's Office",
+      "phone": "515-433-0510",
+      "address": "201 State St., Boone, IA 50036",
+      "website": "https://www.boonecounty.iowa.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page says the sale is held in June of each year.",
+      "how_to_bid": "Register to bid through the Iowa Tax Auction site linked from the county page. Parcels are offered in an open competitive bidding process, listed in parcel number order with a sequence number for bidding. Delinquent taxes are advertised in June in the Boone News Republican, the Ogden Reporter and the Madrid Register. Investors do their own parcel research. Deposit, fees, time and registration deadline: not stated on the page (the county links a 'Notice to Tax Sale Purchasers 2025' PDF).",
+      "sources": [
+        {
+          "url": "https://www.boonecounty.iowa.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Boone County, Iowa' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.boonecounty.iowa.gov/treasurer/tax_sale/",
+          "quote": "in June of each year"
+        },
+        {
+          "url": "https://www.boonecounty.iowa.gov/treasurer/tax_sale/",
+          "quote": "Properties are listed in parcel number order and have a sequence number for bidding purposes."
+        }
+      ]
+    },
+    {
+      "county": "Marshall",
+      "slug": "marshall",
+      "office": "Marshall County Treasurer's Office",
+      "phone": "641-754-6360",
+      "address": "Courthouse, 1 E. Main St., Marshalltown, IA 50158",
+      "website": "https://marshallcountyia.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page says the annual sale is held on the third Monday in June at 9:00 a.m.",
+      "how_to_bid": "The sale is online. Register on the Iowa Tax Auction site, where the official parcel listing appears around June 1 and is updated daily until the sale. Delinquent parcels are advertised in June in an official county newspaper. Investors do their own parcel research. Deposit, fees and registration deadline: not stated on the page (the county links a 'Notice to Tax Sale Purchasers 2026' PDF).",
+      "sources": [
+        {
+          "url": "https://marshallcountyia.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer (only Accessibility and Title VI links); footer copyright only: '©2026 Marshall County, Iowa'. No reuse clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://marshallcountyia.gov/treasurer/tax_sale/",
+          "quote": "investor is responsible for all research"
+        }
+      ]
+    },
+    {
+      "county": "Wapello",
+      "slug": "wapello",
+      "office": "Wapello County Treasurer",
+      "phone": "not stated",
+      "address": "Wapello County Courthouse, 101 W. 4th St, Ottumwa, IA 52501",
+      "website": "https://www.wapellocounty.org/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": "Any unpaid taxes are offered at Public Tax Sale which is held annually on the third Monday in June",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted.",
+      "how_to_bid": "The sale is held online through GovEase: register to bid on the GovEase site, where an updated listing (refreshed nightly) is available. Qualifying unpaid parcels are published once in the county's official publication during the last week in May or the first week of June. The winning bidder pays the outstanding taxes only; certificates accrue 2% interest per month for up to three years. Items advertised twice and left unsold go to a Public Bidder Sale, where the county must buy them. Deposit, fees, time and registration deadline: not stated on the page (the county links 2026 Terms & Conditions).",
+      "sources": [
+        {
+          "url": "https://www.wapellocounty.org/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer (Contact Us and a Neapolitan Labs vendor home-page link only); footer copyright only: '©2026 Wapello County, Iowa'. No reuse clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wapellocounty.org/treasurer/tax_sale/",
+          "quote": "Any unpaid taxes are offered at Public Tax Sale which is held annually on the third Monday in June"
+        },
+        {
+          "url": "https://www.wapellocounty.org/treasurer/tax_sale/",
+          "quote": "Upon purchase at a tax sale, the winning bidder pays the outstanding taxes only."
+        }
+      ]
     }
   ]
 }

@@ -283,6 +283,51 @@
           "quote": "All bidders must furnish a certified check for $1,500 as a bond to guarantee payment of the tax upon winning a bid."
         }
       ]
+    },
+    {
+      "county": "West Greenwich (town)",
+      "slug": "west-greenwich",
+      "office": "Tax Collector (Tax Office), Town of West Greenwich",
+      "phone": "401-392-3800 (Tax Office ext. 105)",
+      "address": "Town Hall, 280 Victory Highway, West Greenwich, RI 02817",
+      "website": "https://wgtownri.org/m/faq?cat=16",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax sale date is posted on the Town's site; the Tax Office FAQ explains how its tax sale auction works but gives no schedule.",
+      "how_to_bid": "Per the Town's Tax Office FAQ: each bidder fills out the registration form required by Rhode Island law, stating resident or non-resident status, signed and notarized; proper identification is required and bidders must be at least 18. Lots are auctioned in the order they appear on the tax sale list. Each winning bidder pays the full amount within one hour after the auction ends, in cash or cashier's check, covering the Town's outstanding taxes plus interest and legal costs. The buyer receives a collector's deed subject to the right of redemption; the Tax Collector executes deeds within 60 days of the sale and records them. Parcels are sold as is, and the Tax Collector may cancel the sale up to the time of sale. Deposit: not stated. Redemption period: not stated on the FAQ.",
+      "sources": [
+        {
+          "url": "https://wgtownri.org/m/faq?cat=16",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page reads only 'All content © 2006-2026 West Greenwich, RI and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' No clause on reuse, redistribution, commercial use or automated access. Restate facts only.",
+          "terms_url": "https://wgtownri.org/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://wgtownri.org/m/faq?cat=16",
+          "quote": "All bidders must be at least 18 years of age."
+        },
+        {
+          "url": "https://wgtownri.org/m/faq?cat=16",
+          "quote": "The lots are auctioned off in the order they appear on the tax sale list."
+        },
+        {
+          "url": "https://wgtownri.org/m/faq?cat=16",
+          "quote": "Once the auction is over, each winning bidder must pay the full amount within one hour of the auction's completion."
+        },
+        {
+          "url": "https://wgtownri.org/m/faq?cat=16",
+          "quote": "All payment must be either cash or cashier's check."
+        },
+        {
+          "url": "https://wgtownri.org/m/faq?cat=16",
+          "quote": "You will receive a collector's deed subject to the right of redemption."
+        }
+      ]
     }
   ]
 }

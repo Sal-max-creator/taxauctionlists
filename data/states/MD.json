@@ -580,6 +580,135 @@
           "quote": "Prospective bidders may pre-register online for the sale no later than one week prior to the tax sale date."
         }
       ]
+    },
+    {
+      "county": "Allegany",
+      "slug": "allegany",
+      "office": "Allegany County Tax & Utility Office",
+      "phone": "301-777-5965",
+      "address": "701 Kelly Road, Cumberland, MD 21502",
+      "website": "https://www.alleganygov.org/200/Tax-Lien-Sale-Information",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Allegany County tax sale website (RealAuction)",
+        "url": "https://allegany.marylandtaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page says \"The 2026 Tax Lien Sale - was held Thursday MAY 28, 2026.\"",
+      "how_to_bid": "Based on the county's 2026 sale documents: the sale was an online auction (direct bid, open live bidding) at Allegany.MarylandTaxSale.com. Bidders registered online during a set window (May 6 to May 20, 2026) and paid a $50 registration fee, which is refundable but not applied to winnings; a 100% deposit or budget of estimated winnings was required. Successful bidders pay the opening bid by 4:00 pm on sale day by ACH bank debit, plus a $10.00 auction fee per property. Redemption interest is not stated. Terms for 2027 are not yet posted.",
+      "sources": [
+        {
+          "url": "https://www.alleganygov.org/200/Tax-Lien-Sale-Information",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page says only 'All content © 2023 Allegany County, MD and its representatives. All rights reserved.' Copyright only; nothing on reuse, redistribution or commercial use. Footer also has a Privacy Policy link; no disclaimer or terms link.",
+          "terms_url": "https://www.alleganygov.org/1808/Copyright-Notices"
+        },
+        {
+          "url": "https://www.alleganygov.org/DocumentCenter/View/5994/Terms-of-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Same county site; see Copyright Notices (copyright only).",
+          "terms_url": "https://www.alleganygov.org/1808/Copyright-Notices"
+        },
+        {
+          "url": "https://alleganygov.org/DocumentCenter/View/6000/Summary-of-Important-Dates-and-Information",
+          "read_on": "2026-10-28",
+          "terms": "Same county site; see Copyright Notices (copyright only).",
+          "terms_url": "https://www.alleganygov.org/1808/Copyright-Notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.alleganygov.org/200/Tax-Lien-Sale-Information",
+          "quote": "The 2026 Tax Lien Sale - was held Thursday MAY 28, 2026."
+        },
+        {
+          "url": "https://www.alleganygov.org/DocumentCenter/View/5994/Terms-of-Sale",
+          "quote": "The 2026 Tax Lien Sale will be an online auction on May 28, 2026."
+        },
+        {
+          "url": "https://www.alleganygov.org/DocumentCenter/View/5994/Terms-of-Sale",
+          "quote": "Successful bidders/purchasers of the certificate of sale are required to pay the amount of the opening bid by 4:00 pm the day of the sale by ACH bank debit."
+        },
+        {
+          "url": "https://www.alleganygov.org/DocumentCenter/View/5994/Terms-of-Sale",
+          "quote": "Registration begins on Wednesday, May 6, 2026 at 10:00am and closes on Wednesday, May 20, 2026 at 4:00pm."
+        },
+        {
+          "url": "https://alleganygov.org/DocumentCenter/View/6000/Summary-of-Important-Dates-and-Information",
+          "quote": "Registration Fee $50"
+        }
+      ]
+    },
+    {
+      "county": "Garrett",
+      "slug": "garrett",
+      "office": "Garrett County Department of Financial Services, Billing & Collections Office",
+      "phone": "301-334-1965",
+      "address": "203 South Fourth Street, Room 107A, Oakland, Maryland 21550",
+      "website": "https://www.garrettcountymd.gov/financial-services/billing-collections/news/2026-05/2026-tax-sale-registration-now-open",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Garrett County tax sale website (RealAuction)",
+        "url": "https://garrett.marylandtaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's 2026 notice said \"Bidding will open on Monday, May 18th and will close in batches on Friday, May 22nd.\"",
+      "how_to_bid": "The sale is an online auction at garrett.marylandtaxsale.com, where bidders register and bid; you must be registered to bid. In 2026 registration closed at 4 PM on Friday, May 15, and bids closed in batches. The county says the properties can be viewed on the auction site. Registration fee, deposit and redemption interest are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.garrettcountymd.gov/financial-services/billing-collections/news/2026-05/2026-tax-sale-registration-now-open",
+          "read_on": "2026-10-28",
+          "terms": "Footer 'Terms of Use' page covers only card payments to the county ('Payments to the Garrett County Government ... can be made using a credit or debit card.'); nothing on copying, reuse, redistribution, commercial use or automated access. Footer copyright line is plain text.",
+          "terms_url": "https://www.garrettcountymd.gov/terms-conditions"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.garrettcountymd.gov/financial-services/billing-collections/news/2026-05/2026-tax-sale-registration-now-open",
+          "quote": "Bidding will open on Monday, May 18th and will close in batches on Friday, May 22nd."
+        },
+        {
+          "url": "https://www.garrettcountymd.gov/financial-services/billing-collections/news/2026-05/2026-tax-sale-registration-now-open",
+          "quote": "Registration closes at 4PM on Friday, May 15th."
+        },
+        {
+          "url": "https://www.garrettcountymd.gov/financial-services/billing-collections/news/2026-05/2026-tax-sale-registration-now-open",
+          "quote": "You must be registered to bid."
+        }
+      ]
+    },
+    {
+      "county": "Caroline",
+      "slug": "caroline",
+      "office": "Caroline County Tax Office",
+      "phone": "410-479-0410",
+      "address": "not stated",
+      "website": "https://www.carolinemd.org/170/Tax-Sale",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The tax sale is held on the second Wednesday in June, as determined by the Comptroller.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the county page gives the June schedule rule only.",
+      "how_to_bid": "The county's Tax Sale page gives the schedule and says an owner redeems by paying all outstanding fees and charges. Sale format, bidder registration, fees and deposit are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.carolinemd.org/170/Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Caroline County, MD and its representatives. All rights reserved.' Copyright only; nothing on reuse, redistribution or commercial use. No disclaimer or terms page in the site map.",
+          "terms_url": "https://www.carolinemd.org/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.carolinemd.org/170/Tax-Sale",
+          "quote": "The tax sale is held on the second Wednesday in June, as determined by the Comptroller."
+        }
+      ]
     }
   ]
 }

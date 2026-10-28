@@ -718,6 +718,75 @@
           "quote": "At the tax sale, the tax buyers are bidding an interest percentage beginning at 9% and bidding downward."
         }
       ]
+    },
+    {
+      "county": "Ogle",
+      "slug": "ogle",
+      "office": "Ogle County Treasurer's Office",
+      "phone": "815-732-1100",
+      "address": "105 S 5th St, Ste 114, Oregon, IL 61061 (mail: Ogle County Collector, P.O. Box 40, Oregon, IL 61061)",
+      "website": "https://www.oglecountyil.gov/departments/treasurer/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": null,
+          "label": "Tax Sale - Real Estate & Mobile Home",
+          "deposit": null,
+          "registration_deadline": "Not stated",
+          "note": "The Treasurer's page lists the last day to pay property taxes as Wednesday, November 4, 2026, the day before the sale. Time, location and registration are not stated on the page.",
+          "source_url": "https://www.oglecountyil.gov/departments/treasurer/",
+          "quote": "Thursday, November 5, 2026"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Not stated on the Treasurer's page beyond the sale date; contact the Treasurer's Office (815-732-1100, treasurer@oglecountyil.gov) for registration and bidding details.",
+      "sources": [
+        {
+          "url": "https://www.oglecountyil.gov/departments/treasurer/",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer shows only an accessibility statement and '© Ogle County, IL'; no disclaimer, terms, legal or privacy link.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.oglecountyil.gov/departments/treasurer/",
+          "quote": "Tax Sale - Real Estate & Mobile Home"
+        }
+      ]
+    },
+    {
+      "county": "Williamson",
+      "slug": "williamson",
+      "office": "Williamson County Treasurer",
+      "phone": "618-997-1301 (contact block on the county's Guide to Tax Process page, which does not name the office); County Clerk for redemptions 618-998-2110",
+      "address": "407 N Monroe, Marion, IL 62959",
+      "website": "https://www.williamsoncountyil.gov/guide-to-tax-process/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The tax sale in Williamson County is held annually in December.",
+      "sales": [],
+      "next_sale_note": "No dated 2026 sale is posted on the county's page; it says only that the sale is held annually in December.",
+      "how_to_bid": "The tax buyer who bids the lowest interest rate pays the County Treasurer's office the taxes due plus the cost of the sale and fees. Registration, time, location and fee amounts are not stated on the page. Redemption questions go to the County Clerk (618-998-2110).",
+      "sources": [
+        {
+          "url": "https://www.williamsoncountyil.gov/guide-to-tax-process/",
+          "read_on": "2026-10-28",
+          "terms": "Footer has only a copyright line: '© 2025 Williamson County. All rights reserved.' No disclaimer, terms or privacy link found on the page.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.williamsoncountyil.gov/guide-to-tax-process/",
+          "quote": "The tax sale in Williamson County is held annually in December."
+        }
+      ]
     }
   ]
 }

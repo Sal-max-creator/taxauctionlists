@@ -161,6 +161,8 @@ State overview: <https://sco.ca.gov/ardtax_public_auction.html>, <https://sco.ca
 | Sonoma | <https://sonomacounty.gov/administrative-support-and-fiscal-services/auditor-controller-treasurer-tax-collector/divisions/revenue-accounting/tax-defaulted-property-auctions/tax-defaulted-property-auctions-faqs> | 2026-10-27 | Same site and Terms of Use. ([terms](https://sonomacounty.gov/terms-of-use)) |
 | Santa Cruz | <https://www.santacruzcountyca.gov/Departments/TaxCollector/PropertyTaxSale.aspx> | 2026-10-27 | Terms of Use: 'All contents of the Santa Cruz County Internet Web Site are: © 2022 County of Santa Cruz' and 'All rights reserved.'; 'Any rights not expressly granted herein are reserved.' No clause banning reuse, redistribution or commercial use of the site's information. Footer: '© 2026 County of Santa Cruz'. ([terms](https://www.santacruzcountyca.gov/Home/TermsofUse.aspx)) |
 | Santa Cruz | <https://santacruzcountyca.gov/Departments/TaxCollector/TaxCollectionDivision/PropertyTaxSale/PublicAuctionofTaxDefaultedPropertiesFAQ.aspx> | 2026-10-27 | Same site and Terms of Use. ([terms](https://www.santacruzcountyca.gov/Home/TermsofUse.aspx)) |
+| Shasta | <https://www.shastacounty.gov/media/78056> | 2026-10-28 | Shasta County Legal Disclaimers page: covers liability, indemnification, accuracy ('Shasta County provides this information on an "as is" basis.'), endorsement, links, continuity of service and choice of law; no clause restricting copying, reuse or redistribution. ([terms](https://www.shastacounty.gov/node/3987)) |
+| Shasta | <https://www.shastacounty.gov/sites/default/files/fileattachments/tax_collector/page/2687/generaltaxauctioninformation_faq.pdf> | 2026-10-28 | Same site and Legal Disclaimers. ([terms](https://www.shastacounty.gov/node/3987)) |
 
 ## Colorado
 
@@ -418,6 +420,8 @@ State overview: <https://lrb.ilga.gov/legislation/ilcs/documents/003502000K21-21
 | DeKalb | <https://dekalbcounty.org/departments/treasurer-collector/frequently-asked-questions/delinquent-tax-sale-information/> | 2026-10-27 | not found (no disclaimer, terms or privacy link in the site footer) |
 | DeKalb | <https://dekalbcounty.org/departments/treasurer-collector/> | 2026-10-27 | Same site; no terms found. |
 | Macon | <https://maconcounty.illinois.gov/departments/treasurer/> | 2026-10-27 | Privacy policy and footer: '© 2010- Macon County, Illinois. All rights reserved.' No terms of use or clause on copying, reuse or redistribution found. ([terms](https://maconcounty.illinois.gov/privacy-policy/)) |
+| Ogle | <https://www.oglecountyil.gov/departments/treasurer/> | 2026-10-28 | No terms page found: the footer shows only an accessibility statement and '© Ogle County, IL'; no disclaimer, terms, legal or privacy link. |
+| Williamson | <https://www.williamsoncountyil.gov/guide-to-tax-process/> | 2026-10-28 | Footer has only a copyright line: '© 2025 Williamson County. All rights reserved.' No disclaimer, terms or privacy link found on the page. |
 
 ## Indiana
 
@@ -565,6 +569,9 @@ State overview: <https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article
 | Cecil | <https://www.cecilcountymd.gov/m/faq?cat=20> | 2026-10-27 | No terms-of-use or disclaimer page linked. Copyright Notices page says only 'All content © 2006-2026 Cecil County, MD and its representatives. All rights reserved.' No reuse restriction found. ([terms](https://www.cecilcountymd.gov/copyright)) |
 | Calvert | <https://calvertcountymd.gov/301/Tax-Sale-Information> | 2026-10-27 | No terms-of-use or disclaimer page linked. Copyright Notices page says only 'All content © 2006-2026 Calvert County, MD and its representatives. All rights reserved.' No reuse restriction found. ([terms](https://calvertcountymd.gov/site/copyright)) |
 | Calvert | <https://calvertcountymd.gov/Faq.aspx?TID=15> | 2026-10-27 | same as above ([terms](https://calvertcountymd.gov/site/copyright)) |
+| Frederick | <https://www.frederickcountymd.gov/2005/Tax-Sale> | 2026-10-28 | No terms page found: no terms of use, privacy or disclaimer link in the site footer (only a Translation Disclaimer). Copyright Notices page says only 'All content © 2006-2026 Frederick County and its representatives. All rights reserved.' No reuse restriction found. ([terms](https://www.frederickcountymd.gov/site/copyright)) |
+| Frederick | <https://www.frederickcountymd.gov/3630> | 2026-10-28 | same as above ([terms](https://www.frederickcountymd.gov/site/copyright)) |
+| Wicomico | <https://www.wicomicocounty.org/392/Tax-Sale-Information> | 2026-10-28 | No terms of use or disclaimer link in the footer. Copyright Notices page says only 'All content © 2006-2026 Wicomico County, MD and its representatives. All rights reserved.' The Privacy Policy covers personal data only. No reuse restriction found. ([terms](https://www.wicomicocounty.org/copyright)) |
 
 ## Massachusetts
 
@@ -615,6 +622,9 @@ State overview: <https://www.revisor.mn.gov/statutes/cite/282.01>, <https://www.
 | Sherburne | <https://www.co.sherburne.mn.us/232/Tax-Forfeited-Parcels> | 2026-10-27 | Copyright Notices page: 'All content © 2006-2026 Sherburne County, MN and its representatives. All rights reserved.' No reuse, reproduction or redistribution terms stated. All-rights-reserved copyright notice only. ([terms](https://www.co.sherburne.mn.us/copyright)) |
 | Sherburne | <https://www.co.sherburne.mn.us/DocumentCenter/View/10956/Tax-Forfeited-Land-Public-Sale-2026> | 2026-10-27 | County's 2026 Tax Forfeited Land Public Sale notice, linked from its tax-forfeited parcels page; no reuse restriction stated. ([terms](https://www.co.sherburne.mn.us/copyright)) |
 | Scott | <https://www.scottcountymn.gov/2326/Tax-Forfeited-Properties> | 2026-10-27 | No terms page found: the page footer as read lists only the homepage, county name, phone directory and the CivicPlus credit, with no terms, disclaimer, copyright or privacy link. |
+| Hennepin | <https://www.hennepincounty.gov/services/property/tax-forfeited-land> | 2026-10-28 | No terms of use or disclaimer link on the site footer. The Privacy and security on county websites page covers visitor data, cookies and security only, with no reuse or republishing restriction. Footer copyright only: '© Copyright 2026 Hennepin County. All rights reserved'. ([terms](https://www.hennepincounty.gov/government/about/policies/privacy-security-on-county-websites)) |
+| Wright | <https://www.wrightcountymn.gov/1540/Tax-Forfeiture> | 2026-10-28 | The Website Disclaimer and Privacy Policy covers accuracy only ('the County does not guarantee the information on the Site is always complete and accurate'; 'use this site for informational purposes only') and states no reuse or republishing restriction. The Copyright Notices page says only 'All content © 2006-2026 Wright County, MN and its representatives. All rights reserved.' The 'Terms and Conditions' link on the Tax Forfeiture page is the county's terms and conditions of sale, not website terms. ([terms](https://www.wrightcountymn.gov/672/Website-Disclaimer-and-Privacy-Policy)) |
+| Clay | <https://claycountymn.gov/290/Forfeiture-Property-for-Sale> | 2026-10-28 | County Disclaimer covers accuracy only ('Any person or entity that relies on any information obtained from this website does so at his or her own risk.') and says GIS information 'is in the public domain and may be copied without permission'. No restriction on reuse or republishing. ([terms](https://claycountymn.gov/disclaimer)) |
 
 ## Mississippi
 

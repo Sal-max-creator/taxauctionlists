@@ -368,6 +368,89 @@
       "notes": {
         "phone_note": "The page lists 410-535-1600 and 301-855-1243 without saying which is the Treasurer's Office."
       }
+    },
+    {
+      "county": "Frederick",
+      "slug": "frederick",
+      "office": "Frederick County Treasury Department",
+      "phone": "301-600-1111",
+      "address": "30 N. Market St., Frederick, MD 21701",
+      "website": "https://www.frederickcountymd.gov/2005/Tax-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Frederick County tax sale auction site",
+        "url": "https://frederick.marylandtaxsale.com"
+      },
+      "schedule_rule": "The Frederick County Tax Sale is scheduled for the second Monday in May each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The page carries the 2026 tax sale property listing; the sale is held each May.",
+      "how_to_bid": "The sale is an internet-based auction using the high bid premium method, held online on the county's tax sale auction site. Bidder registration opens on April 1 and closes at 4 pm local time on April 30; a non-refundable registration fee is required (amount not stated). Payment for purchases is due by 4 p.m. local time on the day of the auction. The redemption interest rate stated on the certificate of sale is 8% per annum. Tax sale policy questions: 301-600-1111 or taxsale@frederickcountymd.gov.",
+      "sources": [
+        {
+          "url": "https://www.frederickcountymd.gov/2005/Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: no terms of use, privacy or disclaimer link in the site footer (only a Translation Disclaimer). Copyright Notices page says only 'All content © 2006-2026 Frederick County and its representatives. All rights reserved.' No reuse restriction found.",
+          "terms_url": "https://www.frederickcountymd.gov/site/copyright"
+        },
+        {
+          "url": "https://www.frederickcountymd.gov/3630",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.frederickcountymd.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.frederickcountymd.gov/2005/Tax-Sale",
+          "quote": "The Frederick County Tax Sale is scheduled for the second Monday in May each year."
+        },
+        {
+          "url": "https://www.frederickcountymd.gov/2005/Tax-Sale",
+          "quote": "Bidder registration opens on April 1 and closes at 4 pm local time on April 30."
+        },
+        {
+          "url": "https://www.frederickcountymd.gov/3630",
+          "quote": "The current redemption interest rate, as stated on the certificate of sale, is 8% per annum."
+        }
+      ]
+    },
+    {
+      "county": "Wicomico",
+      "slug": "wicomico",
+      "office": "Wicomico County Department of Finance (Tax Sale Information page, Office of the County Executive)",
+      "phone": "410-548-4801",
+      "address": "125 North Division Street, P.O. Box 870, Salisbury, MD 21803-0870",
+      "website": "https://www.wicomicocounty.org/392/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held June 9, 2026 at the Wicomico Civic Center; the page says the over-the-counter sale runs June 23 to December 31, 2026.",
+      "how_to_bid": "The 2026 sale was held in person at the Wicomico Civic Center, with day-of-sale registration between 8:30 and 9:30 and pre-registration ending the day before the sale. A bidder registration form is posted on the county site. Deposit and redemption interest are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.wicomicocounty.org/392/Tax-Sale-Information",
+          "read_on": "2026-10-28",
+          "terms": "No terms of use or disclaimer link in the footer. Copyright Notices page says only 'All content © 2006-2026 Wicomico County, MD and its representatives. All rights reserved.' The Privacy Policy covers personal data only. No reuse restriction found.",
+          "terms_url": "https://www.wicomicocounty.org/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.wicomicocounty.org/392/Tax-Sale-Information",
+          "quote": "Tax sale will be June 9, 2026 at 10AM at the Wicomico Civic Center."
+        },
+        {
+          "url": "https://www.wicomicocounty.org/392/Tax-Sale-Information",
+          "quote": "Over the counter Sale starts June 23, 2026 and go to December 31, 2026."
+        },
+        {
+          "url": "https://www.wicomicocounty.org/392/Tax-Sale-Information",
+          "quote": "The day of sale registration will be between 8:30-9:30."
+        }
+      ]
     }
   ]
 }

@@ -797,6 +797,72 @@
           "quote": "Sale will be held at the Grant County Courthouse (Original Courthouse) 101 N Main St Williamstown, KY 41097"
         }
       ]
+    },
+    {
+      "county": "LaRue",
+      "slug": "larue",
+      "office": "LaRue County Clerk",
+      "phone": "not stated on the page",
+      "address": "LaRue County Courthouse (street address not stated on the page)",
+      "website": "https://laruecountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held Tuesday, August 18, 2026 at 9:00 AM (past), with registration due August 7th, 2026.",
+      "how_to_bid": "The certificate of delinquency sale is held in person in the small fiscal court room at the LaRue County Courthouse. Third-party purchasers submit registration form 62A374 with all required fees and deposits by the clerk's deadline; the registration fee is $250.00. The deposit amount and the sale procedure are not stated; the page points to the Kentucky Department of Revenue for the registration process and application.",
+      "sources": [
+        {
+          "url": "https://laruecountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; it shows '© 2026' and 'Site Designed by Software Management, LLC.' Copyright notice only; no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://laruecountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "in person at the LaRue County Courthouse in the small fiscal court room"
+        },
+        {
+          "url": "https://laruecountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "Registration forms (62A374) and all required fees and deposits must be submitted by August 7th, 2026."
+        },
+        {
+          "url": "https://laruecountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "Registration fee is $250.00."
+        }
+      ]
+    },
+    {
+      "county": "Casey",
+      "slug": "casey",
+      "office": "Casey County Clerk",
+      "phone": "606-787-6471",
+      "address": "625 Campbellsville St, Liberty, KY 42539 (mailing: P.O. Box 310, Liberty, KY 42539)",
+      "website": "https://caseycountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held Friday, August 14, 2026 at 9:00 AM at the Clerk's office (past), with registration, fees and deposits due August 4, 2026.",
+      "how_to_bid": "The sale is held at the Casey County Clerk's office in Liberty. Third-party purchasers register by the clerk's deadline with non-refundable fees ($5.00 per priority certificate and $10.00 per current-year certificate; up to 5 bills $10.00 per bill, 6 or more bills $250.00) and deposits (100% of each priority certificate and 25% of the total of current-year certificates). Buyers above the state's thresholds must also register with the Department of Revenue at least 60 days before buying. Purchasers take turns in rounds, like a sports draft, in an order set by random drawing, and may buy only bills on their submitted current-year list. Full payment plus a $46.00 assignment recording fee is due on the day of the sale; the page's list of accepted payment forms is inconsistent, so confirm with the clerk. All sales are final.",
+      "sources": [
+        {
+          "url": "https://caseycountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer links a Privacy & Disability Statement (read: comments, cookies, data retention and disability accommodations, nothing on reuse, redistribution, commercial or personal-only use, or automated access) and shows '© 2026' with a Software Management LLC credit. No reuse restriction found.",
+          "terms_url": "https://caseycountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://caseycountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "ALL SALES ARE FINAL. NO REFUNDS WILL BE GIVEN."
+        }
+      ]
     }
   ]
 }

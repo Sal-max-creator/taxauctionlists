@@ -475,6 +475,46 @@
           "quote": "For property sold at tax sale, the original owner (tax debtor) has three years from the date of recordation of the sale"
         }
       ]
+    },
+    {
+      "county": "St. Bernard",
+      "slug": "st-bernard",
+      "office": "St. Bernard Parish Sheriff's Office, Civil & Tax Division (Property Taxes)",
+      "phone": "(504) 271-2504",
+      "address": "2 Courthouse Square, Chalmette, LA 70043",
+      "website": "https://sbso.org/sbso-tax-lien-auction-the-st-bernard-parish-tax-lien-auction-for-2026-is-now-held-exclusively-on/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 tax lien auction was held online on Wednesday, June 17, 2026; the 2027 date is not yet posted.",
+      "how_to_bid": "The parish tax lien auction is held exclusively online on the Zeus Auction platform. Bidders register there in a two-step online process; for the 2026 auction, registration closed June 11, 2026 at 3:30 p.m., six days before the sale, which ran from 8 a.m. to 3:30 p.m. The Sheriff's post gives 1-800-800-9588 for registration help. Deposit, bidding and payment terms: not stated on the Sheriff's page.",
+      "sources": [
+        {
+          "url": "https://sbso.org/sbso-tax-lien-auction-the-st-bernard-parish-tax-lien-auction-for-2026-is-now-held-exclusively-on/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link found; footer reads only '© Copyright 2022 - St. Bernard Sheriff's Office'. No reuse restriction found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sbso.org/sbso-tax-lien-auction-the-st-bernard-parish-tax-lien-auction-for-2026-is-now-held-exclusively-on/",
+          "quote": "The St. Bernard Parish Tax Lien Auction for 2026 is now held exclusively online at"
+        },
+        {
+          "url": "https://sbso.org/sbso-tax-lien-auction-the-st-bernard-parish-tax-lien-auction-for-2026-is-now-held-exclusively-on/",
+          "quote": "This year, the Tax Sale will be on Wednesday, June 17, 2026, from 8 a.m. to 3:30 p.m."
+        },
+        {
+          "url": "https://sbso.org/sbso-tax-lien-auction-the-st-bernard-parish-tax-lien-auction-for-2026-is-now-held-exclusively-on/",
+          "quote": "Registration closes on June 11, 2026 at 3:30 p.m."
+        }
+      ]
     }
   ]
 }

@@ -614,6 +614,35 @@
           "quote": "Only cash, cashier's check, or money order will be accepted."
         }
       ]
+    },
+    {
+      "county": "Osage",
+      "slug": "osage",
+      "office": "Osage County Treasurer",
+      "phone": "785.828.4900 (payoff line on the page); county 785-828-4812",
+      "address": "717 Topeka Avenue, Lyndon, KS 66451",
+      "website": "https://www.osageco.org/248/Tax-Collection",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted; the page says notice is published about 30 days before the next tax sale.",
+      "how_to_bid": "Bidders must register before the start of the sale; anyone who is the record owner of real estate in Osage County may not register as a bidder. Properties are sold by public auction to the highest qualified bidder, and the auctioneer's acceptance of the high bid is an enforceable contract. Payment is due on the date of sale, only by cash or certified check payable to the Osage County Clerk of the District Court, and all purchases must be settled within one hour of the close of the sale. The county may bid up to the taxes and interest owed.",
+      "sources": [
+        {
+          "url": "https://www.osageco.org/248/Tax-Collection",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Osage County, KS and its representatives. All rights reserved.' No reuse, commercial or personal-only use, or automated-access clause found. Footer has no terms, disclaimer or privacy link.",
+          "terms_url": "https://www.osageco.org/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.osageco.org/248/Tax-Collection",
+          "quote": "Payment will be on the date of sale, only by CASH or CERTIFIED CHECK"
+        }
+      ]
     }
   ]
 }

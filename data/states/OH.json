@@ -1665,6 +1665,183 @@
           "quote": "within thirty (30) days of the filing of the confirmation entry."
         }
       ]
+    },
+    {
+      "county": "Hocking",
+      "slug": "hocking",
+      "office": "Hocking County Sheriff's Office (Sheriff Sales)",
+      "phone": "740-385-2131",
+      "address": "25 East Second Street, Logan, Ohio 43138",
+      "website": "https://www.hockingsheriff.org/sheriffsales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Sales begin Fridays at 10:00 a.m. EST.",
+      "sales": [
+        {
+          "date": "2026-12-04",
+          "time": "10:00 a.m. EST (the page's general rule; the listing prints no time)",
+          "label": "Sheriff tax sale, Case No. 25CV0103 (in person, first date of sale)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "One tax-sale parcel listed (900 Oakland Road, Logan). The listing gives a second date of sale, December 18, 2026, if it does not sell on the first. Held in person at the Sheriff's Office, 25 East Second Street, Logan.",
+          "source_url": "https://www.hockingsheriff.org/sheriffsales/",
+          "quote": "December 4, 2026"
+        }
+      ],
+      "next_sale_note": "Tax sale (Case No. 25CV0103) listed for December 4, 2026, with a second date of sale on December 18, 2026.",
+      "how_to_bid": "Tax sales, tax lien certificate sales and probate sales are held in person at the Hocking County Sheriff's Office, 25 East Second Street, Logan; other sheriff sales run online. The page says sales begin Fridays at 10:00 a.m. The tax listing adds accrued taxes, assessments, penalties and interest payable after certification, plus reasonable costs, to the bid. Deposit and payment method for tax sales are not stated.",
+      "sources": [
+        {
+          "url": "https://www.hockingsheriff.org/sheriffsales/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal, privacy or copyright link seen in the Sheriff Sales page footer. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hockingsheriff.org/sheriffsales/",
+          "quote": "Tax Sales are held in person at the Hocking County Sheriff’s Office, 25 East Second Street, Logan, OH, 43138"
+        },
+        {
+          "url": "https://www.hockingsheriff.org/sheriffsales/",
+          "quote": "Sales begin Fridays at 10:00 a.m. EST."
+        },
+        {
+          "url": "https://www.hockingsheriff.org/sheriffsales/",
+          "quote": "(Plus accrued taxes, assessments, penalties, and interest payable subsequent to certification, plus reasonable costs.)"
+        }
+      ]
+    },
+    {
+      "county": "Williams",
+      "slug": "williams",
+      "office": "Williams County Sheriff (Sheriff Sales)",
+      "phone": "not stated on the Sheriff Sales page",
+      "address": "One Courthouse Square, Bryan, OH 43506 (tax sales: 1 Courthouse Sq., 2nd Floor)",
+      "website": "https://www.williamscountyoh.gov/330/Sheriff-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held on Thursdays at 1 Courthouse Sq, 2nd Floor, Bryan OH 43506.",
+      "sales": [],
+      "next_sale_note": "No dated tax sale is posted on the Sheriff Sales page (read 2026-10-28). The county's separate Current Sheriff Sales list is not linked here because it shows owner names; it listed no sale marked as a tax sale.",
+      "how_to_bid": "Tax sales are held in person on Thursdays at 1 Courthouse Square, 2nd Floor, Bryan (mortgage foreclosures run online). There are no appraisals for tax sales; bidding starts at an amount covering the delinquent taxes, deed fee, advertisement costs and court costs. Two dates are scheduled, so a parcel that does not sell on the first date is offered again on the second. Payment in full is due on the day of the sale. A separate deposit is not stated for tax sales.",
+      "sources": [
+        {
+          "url": "https://www.williamscountyoh.gov/330/Sheriff-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Williams County, OH and its representatives. All rights reserved.' plus a CivicPlus copyright line. Copyright notice only; nothing on reuse, commercial or personal-only use, or automated access. No disclaimer, terms or privacy link in the footer.",
+          "terms_url": "https://www.williamscountyoh.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.williamscountyoh.gov/330/Sheriff-Sales",
+          "quote": "Tax sales are held on Thursdays at 1 Courthouse Sq, 2nd Floor, Bryan OH 43506."
+        },
+        {
+          "url": "https://www.williamscountyoh.gov/330/Sheriff-Sales",
+          "quote": "There are no appraisals for tax sales and bidding starts at an amount to cover delinquent taxes,"
+        },
+        {
+          "url": "https://www.williamscountyoh.gov/330/Sheriff-Sales",
+          "quote": "Two dates are scheduled for tax sales so that if the property does not sell on the first date,"
+        },
+        {
+          "url": "https://www.williamscountyoh.gov/330/Sheriff-Sales",
+          "quote": "Payment in full is due on the day of the sale"
+        }
+      ]
+    },
+    {
+      "county": "Delaware",
+      "slug": "delaware",
+      "office": "Delaware County Sheriff's Office (Sheriff's Sales)",
+      "phone": "(740) 833-2868 (Sheriff's Sales Coordinator)",
+      "address": "Tax sales: first-floor lobby, Hayes Services Building, 145 N. Union St, Delaware, Ohio 43015 (Sheriff's administration: 1776 State Route 521, Delaware, Ohio 43015)",
+      "website": "https://sheriff.co.delaware.oh.us/sheriff-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming tax sale is listed on the Sheriff Sales page (read 2026-10-28); the only November sale listed is a mortgage foreclosure on the online site. The page says tax sales run on Wednesdays at 10:00 AM (summarized by our reader, not quoted).",
+      "how_to_bid": "Tax sales are held in person in the first-floor lobby of the Hayes Services Building, 145 N. Union St, Delaware (mortgage foreclosures run online). The deposit for a tax sale is due at the time of sale in cash or by certified check. The balance is due within 30 days after the Clerk of Courts files the confirmation. Bring a completed Purchaser Information Form to the sale.",
+      "sources": [
+        {
+          "url": "https://sheriff.co.delaware.oh.us/sheriff-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy read (the only policy link; the footer says '© Delaware County Ohio. All Rights Reserved.'). It disclaims liability and accuracy and prohibits unauthorized attempts to upload or change site information; nothing on reuse, redistribution, commercial or personal-only use, or automated access. No reuse restriction found.",
+          "terms_url": "https://co.delaware.oh.us/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sheriff.co.delaware.oh.us/sheriff-sales/",
+          "quote": "Real Estate Tax Sales are held on the first floor lobby area of the Hayes Services Building."
+        },
+        {
+          "url": "https://sheriff.co.delaware.oh.us/sheriff-sales/",
+          "quote": "Deposit is due at the time of sale in the form of Cash or a Certified Check for tax sales."
+        }
+      ]
+    },
+    {
+      "county": "Ashtabula",
+      "slug": "ashtabula",
+      "office": "Ashtabula County Sheriff's Office, Civil Division (Sheriff Sales)",
+      "phone": "(440) 576-3542 (Civil Division)",
+      "address": "Tax sales: county courthouse, 25 W. Jefferson St., Jefferson, OH 44047",
+      "website": "https://www.ashtabulacounty.gov/731/Sheriff-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Sheriff Sales page (read 2026-10-28) links a document titled 'November Tax Sale' but gives no dated tax sale on the page itself; the list is not linked here because sale lists name owners. The page says tax sales are held at 10 a.m. on the first Friday of the month (summarized by our reader, not quoted).",
+      "how_to_bid": "Tax foreclosure sales stay in person at the county courthouse in Jefferson; other sheriff sales run online. The minimum (starting) bid is the delinquent taxes plus all court costs, and a parcel that does not sell is offered again at a second sale. Bids must be spoken aloud by the bidder. Third-party purchasers pay in full on the day of the sale, by cashier's check payable to the Ashtabula County Sheriff's Office, by 3 p.m. Every purchaser completes a Real Estate Judicial Sale Purchaser Information Form; the Sheriff's page also asks for a valid photo ID.",
+      "sources": [
+        {
+          "url": "https://www.ashtabulacounty.gov/731/Sheriff-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Ashtabula County, OH and its representatives. All rights reserved.' plus a CivicPlus copyright line. Copyright notice only; nothing on reuse, commercial or personal-only use, or automated access. No disclaimer or terms link in the footer.",
+          "terms_url": "https://www.ashtabulacounty.gov/site/copyright"
+        },
+        {
+          "url": "https://www.ashtabulacounty.gov/DocumentCenter/View/3390",
+          "read_on": "2026-10-28",
+          "terms": "Tax Sale Guidelines (undated, no owner names) on the same county site; same Copyright Notices apply. No reuse restriction found.",
+          "terms_url": "https://www.ashtabulacounty.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ashtabulacounty.gov/731/Sheriff-Sales",
+          "quote": "The minimum bid is determined by the amount of the delinquent taxes plus all court costs."
+        },
+        {
+          "url": "https://www.ashtabulacounty.gov/731/Sheriff-Sales",
+          "quote": "If the property does not sell at the first sale, it will be offered again at the second sale."
+        },
+        {
+          "url": "https://www.ashtabulacounty.gov/DocumentCenter/View/3390",
+          "quote": "ALL BIDS MUST BE VERBALLY EXPRESSED BY THE BIDDER."
+        },
+        {
+          "url": "https://www.ashtabulacounty.gov/DocumentCenter/View/3390",
+          "quote": "All Third Party Purchasers will be required to make payment in full the day of the sale."
+        },
+        {
+          "url": "https://www.ashtabulacounty.gov/DocumentCenter/View/3390",
+          "quote": "All payments must be received by 3 p.m. the day of the sale."
+        },
+        {
+          "url": "https://www.ashtabulacounty.gov/DocumentCenter/View/3390",
+          "quote": "All purchasers are required to complete a Real Estate Judicial Sale Purchaser Information Form."
+        }
+      ]
     }
   ]
 }

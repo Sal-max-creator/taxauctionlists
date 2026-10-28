@@ -2498,6 +2498,51 @@
           "quote": "Payment shall be made immediately by cash, cashiers check or certified check."
         }
       ]
+    },
+    {
+      "county": "Liberty",
+      "slug": "liberty",
+      "office": "Liberty County Clerk of the Circuit Court & County Comptroller - Tax Deed Sales",
+      "phone": "(850) 643-2215",
+      "address": "10818 NW SR 20, Bristol, FL 32321",
+      "website": "https://libertyclerk.com/courts/tax-deeds/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Deed Sales are held as scheduled and noticed at 11:00 AM on the front steps of the Liberty County Courthouse facing Hwy 20.",
+      "sales": [],
+      "next_sale_note": "No dated sale is posted; the page's Upcoming Tax Deed Sales section says there are no properties on the list of tax deeds at this time.",
+      "how_to_bid": "Sales are public auctions to the highest bidder at 11:00 AM on the front steps of the Liberty County Courthouse facing Hwy 20. The clerk's tax deed guide says there is no pre-registration, a bidder or representative must be physically present at the sale, a non-refundable $200 cash deposit is required for each successful bid if no security is posted, and the bid amount must be paid in cash, cashier's check or money order payable to the Clerk of the Circuit Court, at the Clerk's Office within 24 hours of the sale. Online bidding: not stated.",
+      "sources": [
+        {
+          "url": "https://libertyclerk.com/courts/tax-deeds/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Policy, Accessibility Policy, sitemap and the site vendor (KMA); no separate terms or disclaimer link. The Privacy Policy page also holds the terms of use: users agree to use the service only for its lawful, intended purposes, and its prohibited uses cover unlawful transmission or storage of information, false information, viruses and security violations. No restriction on reuse, redistribution or commercial use found. Footer: '©2026 Liberty Clerk of the Circuit Court & County Comptroller. All rights reserved.'",
+          "terms_url": "https://libertyclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://libertyclerk.com/courts/tax-deeds/",
+          "quote": "Tax Deed Sales are held as scheduled and noticed at 11:00 AM on the front steps of the Liberty County Courthouse facing Hwy 20."
+        },
+        {
+          "url": "https://libertyclerk.com/courts/tax-deeds/",
+          "quote": "There are no properties on the list of tax deeds at this time."
+        },
+        {
+          "url": "https://libertyclerk.com/uploads/2025/08/Tax_Deed_Brochure_2025.pdf",
+          "quote": "There is no pre-registration required in order to participate in the bidding."
+        },
+        {
+          "url": "https://libertyclerk.com/uploads/2025/08/Tax_Deed_Brochure_2025.pdf",
+          "quote": "If no security is posted, a non-refundable $200 cash deposit is required for each successful bid."
+        },
+        {
+          "url": "https://libertyclerk.com/uploads/2025/08/Tax_Deed_Brochure_2025.pdf",
+          "quote": "You or a representative must be physically present at the sale to bid on the property."
+        }
+      ]
     }
   ]
 }

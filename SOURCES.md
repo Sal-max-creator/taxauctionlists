@@ -149,6 +149,12 @@ State overview: <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https
 | Baxter | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
 | Mississippi | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
 | Mississippi | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Union | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page disclaimer: 'The documents and materials displayed on the web sites are for information purposes only.' Linking section says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
+| Union | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Boone | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page disclaimer: 'The documents and materials displayed on the web sites are for information purposes only.' Linking section says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
+| Boone | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Independence | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Policies page disclaimer: 'The documents and materials displayed on the web sites are for information purposes only.' Linking section says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found. ([terms](https://cosl.org/Home/Policies)) |
+| Independence | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
 
 ## California
 
@@ -442,6 +448,8 @@ State overview: <https://legislature.idaho.gov/statutesrules/idstat/Title63/T63C
 | Latah | <https://www.latah.id.us/treasurer/taxdeedfaq> | 2026-10-28 | No terms, disclaimer, copyright or privacy link found on the page. No terms page found. |
 | Boise | <https://www.boisecounty.us/services/treasurer/> | 2026-10-28 | No terms, disclaimer, privacy or copyright link found on the Treasurer's page. No terms page found. |
 | Shoshone | <https://shoshonecounty.id.gov/tax-deed-auction/> | 2026-10-28 | No terms, disclaimer, privacy or copyright link in the footer (only directory, tax information, meetings, employment, forms, floodplain, Title VI-ADA and emergency links). No terms page found. |
+| Owyhee | <https://owyheecounty.net/treasurer/tax-deed/> | 2026-10-28 | No terms, disclaimer or privacy link in the footer (only Employee Portal, Owyhee County Code and a copyright notice with a web designer credit). No terms page found. |
+| Owyhee | <https://owyheecounty.net/?p=139> | 2026-10-28 | Same site footer; no terms page found. |
 
 ## Illinois
 
@@ -582,6 +590,9 @@ State overview: <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html>
 | McPherson | <https://www.mcphersoncountyks.us/250/Tax-Foreclosure-Sale> | 2026-10-28 | Copyright Notices page reads 'All content © 2006-2026 McPherson and its representatives. All rights reserved.' (copyright notice only). No ban on reuse or redistribution found. ([terms](https://www.mcphersoncountyks.us/site/copyright)) |
 | Montgomery | <https://www.mgcountyks.org/CivicAlerts.aspx?AID=22> | 2026-10-28 | no terms page found: the page footer shows only 'Government Websites by CivicPlus®' and no copyright, disclaimer, terms, legal or privacy link. No reuse restriction stated. |
 | Cowley | <https://www.cowleycountyks.gov/352/Tax-Sales> | 2026-10-28 | Footer links Copyright Notices and Privacy Policy; the Copyright Notices page showed only the footer text 'All content © 2006-2026 Cowley County, KS and its representatives. All rights reserved.' No reuse, redistribution or automation restriction found. ([terms](https://www.cowleycountyks.gov/copyright)) |
+| Ellis | <https://www.ellisco.net/652/Tax-Sales> | 2026-10-28 | Footer links only Accessibility, Copyright Notices and a CivicPlus credit. The Copyright Notices page reads 'All content © 2006-2026 Ellis County, KS and its representatives. All rights reserved.' and states no limit on reuse, commercial use or automated access. ([terms](https://www.ellisco.net/site/copyright)) |
+| Anderson | <https://andersoncountyks.org/tax-sale-schedule.html> | 2026-10-28 | No terms, disclaimer or privacy link; footer reads '© 2007 - Anderson County, Kansas - All rights reserved'. Page note says the information is provided as a public convenience and official county records should be consulted where legal reliance is required. No reuse restriction found. |
+| Anderson | <https://andersoncountyks.org/treasurer/> | 2026-10-28 | same as above |
 
 ## Kentucky
 
@@ -637,6 +648,7 @@ State overview: <https://legis.la.gov/legis/LawPrint.aspx?d=631549>, <https://le
 | Lafourche | <https://www.lpso.net/about-lpso/departments/civil/taxlienauction/> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer. Copyright-only footer: 'Copyright © 2026 Lafourche Parish Sheriff's Office.' No reuse restriction found. |
 | Lafourche | <https://www.lpso.net/2025/06/16/sheriff-webre-announces-details-on-2025-property-tax-title-sale/> | 2026-10-27 | No terms, disclaimer, privacy or legal link in the footer. Copyright-only footer: 'Copyright © 2026 Lafourche Parish Sheriff's Office.' No reuse restriction found. |
 | St. John the Baptist | <https://stjohnsheriff.org/2025-property-tax-sale-thursday-june-25-2026/> | 2026-10-28 | No terms, disclaimer or privacy link in the footer (only a website-vendor link). Copyright-only footer: '©2026 St. John Sheriff's Office'. No reuse restriction found. |
+| Acadia | <https://www.apso.org/pay-property-taxes.html> | 2026-10-28 | No terms, disclaimer or privacy link; footer reads '© Copyright 2021, Acadia Parish Sheriff. All rights reserved.' No reuse restriction found. |
 
 ## Maine
 
@@ -886,6 +898,7 @@ State overview: <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/element
 | Bayonne (Hudson County) | <https://www.bayonnenj.org/News/View/11976/tax-sale-notice> | 2026-10-28 | Same site; see above. |
 | Ewing Township (Mercer County) | <https://ewingnj.org/tax-sale> | 2026-10-28 | Policies page holds only a privacy policy and a mobile-app disclaimer (third-party links, advertising, public records); no copyright notice and no clause on reuse, redistribution, commercial use or automated access. No terms or disclaimer link in the site footer. ([terms](https://ewingnj.org/policies)) |
 | Ewing Township (Mercer County) | <https://ewingnj.org/government/news/1963-public-notice-of-annual-ewing-township-tax-sale> | 2026-10-28 | Same site; see above. ([terms](https://ewingnj.org/policies)) |
+| East Brunswick Township (Middlesex County) | <https://www.eastbrunswick.org/276/Tax-Collector> | 2026-10-28 | Copyright page reads only 'All content © 2006-2026 East Brunswick, NJ and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' No clause on reuse, redistribution, commercial use or automated access. Restate facts only. ([terms](https://www.eastbrunswick.org/copyright)) |
 
 ## New Mexico
 
@@ -937,6 +950,8 @@ State overview: <https://nysenate.gov/legislation/laws/RPT/1110>, <https://nysen
 | Steuben | <https://steubencountyny.gov/m/faq?cat=20> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Steuben County, NY and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' The Privacy Policy page has accuracy disclaimers ('Steuben County makes no warranty, guarantee or promise, express or implied, as to the information presented') and says 'Use of images is by express permission of Steuben County only.' No clause forbids reuse of text or dates. ([terms](https://steubencountyny.gov/copyright)) |
 | Steuben | <https://steubencountyny.gov/Archive.aspx?ADID=2691> | 2026-10-28 | same as above ([terms](https://steubencountyny.gov/464/Privacy-Policy)) |
 | Livingston | <https://www.livingstoncountyny.gov/m/newsflash/home/detail/1825> | 2026-10-28 | Copyright Notices page says only 'All content © 2006-2026 Livingston County, NY and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' No clause on reuse, redistribution or commercial use. ([terms](https://www.livingstoncountyny.gov/copyright)) |
+| Warren | <https://www.warrencountyny.gov/rp/auction> | 2026-10-28 | No terms or disclaimer page found: the county footer has only '© 2023 Copyright Warren County' (no link), an Accessibility & Standards link, and a Privacy Policy link that goes to the Warren County Tourism Department's visitlakegeorge.com policy, which covers personal data only and has no clause on reuse, redistribution, commercial use or automated access. Copyright-only; restate facts only. |
+| Warren | <https://www.warrencountyny.gov/news/annual-warren-county-real-estate-auction-be-held-saturday-october-17th-2026> | 2026-10-28 | Same site; see above. |
 
 ## North Carolina
 
@@ -985,6 +1000,7 @@ State overview: <https://ndlegis.gov/cencode/t57c28.pdf>, <https://ndlegis.gov/c
 | Cass | <https://www.casscountynd.gov/our-county/finance-office/property-taxes-real-estate> | 2026-10-27 | The county's Policy Information page (disclaimer, privacy and social media policy) says content is for general information and provided as is; it says nothing about reusing or republishing site content. No copyright notice was shown. ([terms](https://www.casscountynd.gov/services/policy-information)) |
 | Morton | <https://www.mortonnd.gov/index.asp?SEC=D5516D4A-2D4C-4A9C-8AFF-09A205BBA8C0> | 2026-10-27 | The county's Website Policy & Disclaimer says information is provided as is with no guarantee of accuracy, and says nothing about reusing or republishing site content. The page footer shows a plain copyright notice (© 2026 Morton County, ND) with no reuse limits. ([terms](https://www.mortonnd.gov/index.asp?SEC=5849E2F6-6824-49EE-BB28-689437791FE8)) |
 | Williams | <https://www.williamsnd.com/tax-foreclosure-properties/> | 2026-10-27 | No terms page found: the page footer (checked in a browser) links only About, News, Job Openings, Contact, Service Request, Accessibility and Sitemap, with no terms, disclaimer, copyright or privacy link. Nothing seen forbids reuse. |
+| Mercer | <https://www.mercercountynd.com/department-pages/foreclosed-property-listing/> | 2026-10-28 | Privacy policy read: it covers only personal data and log statistics, with no statement on reuse and no personal or noncommercial-use limit. Footer has only a copyright notice ('© Mercer County, North Dakota'); no terms or disclaimer link. ([terms](https://www.mercercountynd.com/privacy/)) |
 
 ## Ohio
 

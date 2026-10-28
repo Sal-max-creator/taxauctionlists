@@ -522,6 +522,47 @@
           "quote": "The successful bidder shall deposit the bid price, a 15% buyer's premium, plus $200.00 fee for recordation"
         }
       ]
+    },
+    {
+      "county": "Shenandoah",
+      "slug": "shenandoah",
+      "office": "Shenandoah County Treasurer (delinquent tax land sales handled by Sands Anderson PC as Special Commissioner counsel)",
+      "phone": "540-459-6165 (Treasurer); 540-260-9011 (Sands Anderson PC)",
+      "address": "Treasurer's Office, 600 North Main Street, Suite 102, Woodstock, VA 22664. Sales at the Shenandoah County Government Center, Board of Supervisors Meeting Room, 600 North Main Street, Woodstock, VA 22664. Sands Anderson PC, P.O. Box 2009, Christiansburg, VA 24068.",
+      "website": "https://shenandoahcountyva.gov/256/Land-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "tax sales are typically in the Spring and Fall",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted; the page says the next sale date is TBA.",
+      "how_to_bid": "Sales are held at the Shenandoah County Government Center, Board of Supervisors Meeting Room, Woodstock. Anyone can attend, but registration is required to bid. The highest bidder wins, signs a purchase contract on the date of sale and pays a deposit of 20% of the bid or $2,000, whichever is more; a buyer's premium may be added, and the purchaser also pays the balance and recording fees. The purchaser tells the Special Commissioner how they want to take title. Questions go to Reid Broughton or Kimberly Cregger at Sands Anderson PC. How to register is not stated.",
+      "sources": [
+        {
+          "url": "https://shenandoahcountyva.gov/256/Land-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Shenandoah County, VA and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has Copyright Notices and Privacy Policy links, no terms or disclaimer page.",
+          "terms_url": "https://shenandoahcountyva.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://shenandoahcountyva.gov/256/Land-Sales",
+          "quote": "The next sale date is TBA; tax sales are typically in the Spring and Fall at the following location:"
+        },
+        {
+          "url": "https://shenandoahcountyva.gov/256/Land-Sales",
+          "quote": "The highest bidder is expected to pay a deposit of 20% of their bid or $2,000, whichever is more."
+        },
+        {
+          "url": "https://shenandoahcountyva.gov/256/Land-Sales",
+          "quote": "Anyone can attend the auction, but registration is required to bid."
+        },
+        {
+          "url": "https://shenandoahcountyva.gov/256/Land-Sales",
+          "quote": "The purchaser must notify the Special Commissioner how they want to take title to the property."
+        }
+      ]
     }
   ]
 }

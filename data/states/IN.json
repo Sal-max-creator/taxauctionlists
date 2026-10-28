@@ -450,6 +450,42 @@
           "quote": "the annual tax sale is typically held in October"
         }
       ]
+    },
+    {
+      "county": "Clark",
+      "slug": "clark",
+      "office": "Clark County Treasurer (sale through SRI Inc.)",
+      "phone": "812-285-6205",
+      "address": "300 Corporate Drive Suite 105, Jeffersonville, Indiana 47130",
+      "website": "https://www.clarkcounty.in.gov/index.php/clark-county-indiana-government/clark-county-treasurer-s-office",
+      "sale_type": "hybrid",
+      "format": "unknown",
+      "platform": {
+        "name": "SRI Inc.",
+        "url": "https://sriservices.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated tax sale or commissioners' certificate sale is posted on the Treasurer's page; property listings are on SRI's site.",
+      "how_to_bid": "Parcels with delinquent taxes are offered at a tax certificate sale; successful bidders get a lien on the parcel through a Tax Sale Certificate issued by the County Auditor. Listings of available properties are on SRI's site. Call the Treasurer's Office at 812-285-6205 with questions.",
+      "sources": [
+        {
+          "url": "https://www.clarkcounty.in.gov/index.php/clark-county-indiana-government/clark-county-treasurer-s-office",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; footer reads 'Copyright © 2026 All Rights Reserved'. No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.clarkcounty.in.gov/index.php/clark-county-indiana-government/clark-county-treasurer-s-office",
+          "quote": "Indiana Code provides that real property parcels with delinquent taxes due will be offered for a tax certificate sale"
+        },
+        {
+          "url": "https://www.clarkcounty.in.gov/index.php/clark-county-indiana-government/clark-county-treasurer-s-office",
+          "quote": "Successful bidders will obtain a lien on the parcel through a Tax Sale Certificate issued by the County Auditor."
+        }
+      ]
     }
   ]
 }

@@ -820,6 +820,82 @@
           "quote": "Mail, phone or faxed bids are not acceptable."
         }
       ]
+    },
+    {
+      "county": "Bibb",
+      "slug": "bibb",
+      "office": "Macon-Bibb County Tax Commissioner (Levy Department)",
+      "phone": "(478) 621-6500",
+      "address": "188 Third Street, Macon, GA 31201; sales held on the steps of the Bibb County Courthouse at the United Building in Central City Park, 206 7th Street, Macon",
+      "website": "https://www.maconbibbtax.us/property.html",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held on the first Tuesday of each month (for months in which a tax sale is planned), at 11 AM",
+      "sales": [],
+      "next_sale_note": "No specific sale date posted on the Tax Commissioner's property page; a current tax sale list, if scheduled, runs in The Telegraph's Legal Advertisements every Tuesday for four weeks before the sale.",
+      "how_to_bid": "Bidders or a representative must be present; mail, phone or faxed bids are not accepted. The opening bid is the tax due plus penalties and all other applicable fees, and a Sheriff's Tax Deed (not the property) is sold to the highest bidder. Payment is due in full within two hours of the end of the sale, in cash, certified funds or money order only. Registration and deposit are not stated on the page read; for properties not on the list, call 478-621-6500 and ask for the Levy Department.",
+      "sources": [
+        {
+          "url": "https://www.maconbibbtax.us/property.html",
+          "read_on": "2026-10-28",
+          "terms": "Footer shows only '© Government Window, LLC. All Rights Reserved.' (copyright only) and links the website vendor's Terms & Conditions, which cover online payments (fees, refunds, privacy of payer data) and contain no clause on reuse, redistribution or automated access of site content. No reuse restriction found.",
+          "terms_url": "https://www.maconbibbtax.us/terms.html"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.maconbibbtax.us/property.html",
+          "quote": "Payment is due in full within two hours from the conclusion of the tax sale."
+        },
+        {
+          "url": "https://www.maconbibbtax.us/property.html",
+          "quote": "Bidders or a representative must be present to bid. Mail, phone or faxed bids are not acceptable."
+        }
+      ]
+    },
+    {
+      "county": "Hall",
+      "slug": "hall",
+      "office": "Hall County Tax Commissioner",
+      "phone": "not stated on the pages read",
+      "address": "Sales held in the Hall County Board of Commissioners Meeting Room, second floor, Hall County Government Building, 2875 Browns Bridge Road, Gainesville, GA 30504",
+      "website": "https://hallcountytax.org/property/tax-sale/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sales are held on the first Tuesday of each month (for months in which a tax sale is planned), at 10 AM.",
+      "sales": [],
+      "next_sale_note": "No specific sale date posted on the tax sale page; the page says the date, time and location are posted there 4 weeks before a sale, and a current list, if scheduled, runs in the Gainesville Times legals.",
+      "how_to_bid": "Bidders or a representative must be present; mail, phone or faxed bids are not accepted. Arrive early to fill out a bidder registration form. The opening bid is the tax due plus penalties and all other applicable fees, and the Sheriff's Tax Deed (not the property) goes to the highest bidder. Payment in full is due by 1 PM on the day of the sale, in cash, cashier's check or money order only. Owners have 12 months to redeem; the Tax Commissioner's Prospective Purchaser's Guide explains redemption and states that no title is warranted.",
+      "sources": [
+        {
+          "url": "https://hallcountytax.org/property/tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, privacy or legal link in the footer; footer shows only '© Hall County Tax Commissioner' (copyright only). The in-page disclaimer and the purchaser's guide disclaimer cover legal advice and title only. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://hallcountytax.org/wp-content/uploads/2026/08/NEW-Prospective-Purchasers-Guide.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Guide's disclaimer says nothing in it is legal advice and that no title is warranted; no clause on reproduction or reuse.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hallcountytax.org/property/tax-sale/",
+          "quote": "Payment is due in full by 1 PM on the day of the tax sale."
+        },
+        {
+          "url": "https://hallcountytax.org/property/tax-sale/",
+          "quote": "Bidders or a representative must be present to bid. Mail, phone or faxed bids are not acceptable."
+        },
+        {
+          "url": "https://hallcountytax.org/wp-content/uploads/2026/08/NEW-Prospective-Purchasers-Guide.pdf",
+          "quote": "Tax sale purchasers must, by law, allow one year (12 consecutive months) for the property to be redeemed."
+        }
+      ]
     }
   ]
 }

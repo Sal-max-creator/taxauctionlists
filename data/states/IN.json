@@ -486,6 +486,46 @@
           "quote": "Successful bidders will obtain a lien on the parcel through a Tax Sale Certificate issued by the County Auditor."
         }
       ]
+    },
+    {
+      "county": "Steuben",
+      "slug": "steuben",
+      "office": "Steuben County Auditor (sale through SRI)",
+      "phone": "(260) 668-1000 (county main number; no direct Auditor number on the page)",
+      "address": "317 South Wayne Street, Angola, IN 46703",
+      "website": "https://www.co.steuben.in.us/departments/auditor/tax_sale.php",
+      "sale_type": "hybrid",
+      "format": "in person",
+      "platform": {
+        "name": "SRI Inc.",
+        "url": "https://sriservices.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 tax sale was held Wednesday, September 16, 2026 (past). No date is posted for the next commissioners' certificate sale; the latest one listed is the 2024 Commissioners' Sale, advertised in April 2025.",
+      "how_to_bid": "The county tax sale is held in person in the Multi-Purpose Room in the basement of the Community Center Building, 317 S. Wayne St., Angola, and continues until all tracts have been offered. Register online through SRI, or on the morning of the sale if you have no internet access; arrive at least 30 minutes before the start to get a bid number, and bring the registration form and a W-9 if you registered online. Updates are posted on SRI's site before the sale. Deposit and fees are not stated. To redeem, call the Auditor's Office for the amount; only certified funds are accepted, payable to the Steuben County Treasurer. The page also has registration instructions for the online commissioners' sale.",
+      "sources": [
+        {
+          "url": "https://www.co.steuben.in.us/departments/auditor/tax_sale.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal, privacy or copyright link in the footer (site 'Powered by revize.', a link to the vendor's home page, not a terms page). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.steuben.in.us/departments/auditor/tax_sale.php",
+          "quote": "will continue until all tracts and real property have been offered for sale."
+        },
+        {
+          "url": "https://www.co.steuben.in.us/departments/auditor/tax_sale.php",
+          "quote": "arrive the morning of the tax sale at least 30 minutes before the start time."
+        },
+        {
+          "url": "https://www.co.steuben.in.us/departments/auditor/tax_sale.php",
+          "quote": "Cash, Cashiers Check, or Money Order."
+        }
+      ]
     }
   ]
 }

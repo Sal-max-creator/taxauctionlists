@@ -2248,6 +2248,83 @@
           "quote": "Payment may be made in the form of cash or cashier's check payable to the Calhoun County Clerk's Office."
         }
       ]
+    },
+    {
+      "county": "Bradford",
+      "slug": "bradford",
+      "office": "Bradford County Clerk of the Circuit Court & Comptroller - Tax Deeds",
+      "phone": "(904) 966-6282 (Tax Deed/Sales); main line (904) 966-6280",
+      "address": "945 N. Temple Ave, Starke, FL 32091 (mailing: P.O. Drawer B, Starke, FL 32091)",
+      "website": "https://bradfordclerk.com/tax-deeds-and-foreclosure-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Clerk's tax deed page listed no dated tax deed sale when read on 2026-10-28, and the sale time is not stated. Call the Tax Deed/Sales line for upcoming dates.",
+      "how_to_bid": "Auctions are held at the Bradford County Courthouse, 945 N. Temple Ave., Starke. Bidders must be present to bid and may not bid using electronic devices. Deposits are 5% of the bid or $200.00, whichever is greater; the balance of all bids and recording fees must be paid in full with cash or a cashier's check before the end of the next business day.",
+      "sources": [
+        {
+          "url": "https://bradfordclerk.com/tax-deeds-and-foreclosure-sales/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link found in the page footer, which reads 'Copyright © 2026 | Bradford County Clerk of the Circuit Court & Comptroller. | All Rights Reserved.' Copyright-only; no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://bradfordclerk.com/tax-deeds-and-foreclosure-sales/",
+          "quote": "Auctions are held at the Bradford County Courthouse, 945 N. Temple Ave., Starke, FL 32091."
+        },
+        {
+          "url": "https://bradfordclerk.com/tax-deeds-and-foreclosure-sales/",
+          "quote": "Deposits must be 5% of the bid or $200.00, whichever is greater."
+        },
+        {
+          "url": "https://bradfordclerk.com/tax-deeds-and-foreclosure-sales/",
+          "quote": "Bidders must be present to bid."
+        },
+        {
+          "url": "https://bradfordclerk.com/tax-deeds-and-foreclosure-sales/",
+          "quote": "the balance of all bids and recording fees must be paid in full with cash or a cashier's check"
+        }
+      ]
+    },
+    {
+      "county": "Gilchrist",
+      "slug": "gilchrist",
+      "office": "Gilchrist County Clerk of the Circuit Court & Comptroller - Tax Deeds",
+      "phone": "352-463-3170",
+      "address": "112 S. Main Street, P.O. Box 37, Trenton, Florida 32693",
+      "website": "https://gilchristclerk.com/tax-deeds/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (RealTaxDeed)",
+        "url": "https://www.gilchrist.realtaxdeed.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Clerk's page lists no dated sale; it says information on upcoming sales, bidder requirements and auction rules is on the online auction site.",
+      "how_to_bid": "Tax deed sales are online. Register on the online auction site to view and bid on tax deeds scheduled for sale. The deposit due on a winning bid is $200 or 5% of the bid, whichever is greater. Sale time and payment deadline: not stated on the Clerk's page.",
+      "sources": [
+        {
+          "url": "https://gilchristclerk.com/tax-deeds/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link found in the page footer, which reads 'Copyright © 2026 | Gilchrist County Clerk of the Circuit Court & Comptroller. | All Rights Reserved.' Copyright-only; no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://gilchristclerk.com/tax-deeds/",
+          "quote": "Bidders may register to view and bid on tax deeds currently scheduled for sale."
+        },
+        {
+          "url": "https://gilchristclerk.com/tax-deeds/",
+          "quote": "The deposit due on a winning bid is $200 or 5% of the bid, whichever is greater."
+        }
+      ]
     }
   ]
 }

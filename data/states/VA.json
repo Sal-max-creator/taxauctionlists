@@ -563,6 +563,85 @@
           "quote": "The purchaser must notify the Special Commissioner how they want to take title to the property."
         }
       ]
+    },
+    {
+      "county": "Warren",
+      "slug": "warren",
+      "office": "Warren County Treasurer (online auctions run by For Sale At Auction, with Taxing Authority Consulting Services, PC handling property questions)",
+      "phone": "540-636-4600 (Treasurer); (540) 899-1776 (For Sale At Auction); (804) 612-0629 (TACS)",
+      "address": "Treasurer, 220 North Commerce Avenue, Front Royal, VA 22630. TACS, Attn: Tax Sales, P.O. Box 31800, Henrico, Virginia 23294-1800.",
+      "website": "https://www.warrencountyva.gov/m/newsflash/Home/Detail/129?arc=213",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "For Sale At Auction",
+        "url": "https://www.forsaleatauction.biz/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The county's latest auction notice (posted May 5, 2026) was for an online-only auction of 18 parcels that began to close on May 22, 2026; no later sale was found on the county site.",
+      "how_to_bid": "The latest county notice describes an online-only auction under Virginia Code 58.1-3975. Bidders register with the auctioneer, For Sale At Auction, and must be approved; registration is free, and bidders without internet access can call the auctioneer for help. A buyer's premium of 10% of the winning bid ($150 minimum) is added, and the high bidder pays the balance within seven days of the close by certified funds, cashier's check, money order or wire (no cash or personal checks). The Treasurer may reject bids it considers unreasonable. The deposit amount is not stated in the notice as read.",
+      "sources": [
+        {
+          "url": "https://www.warrencountyva.gov/m/newsflash/Home/Detail/129?arc=213",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Warren County, VA and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has Copyright Notices and Privacy Policy links, no terms or disclaimer page.",
+          "terms_url": "https://www.warrencountyva.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.warrencountyva.gov/m/newsflash/Home/Detail/129?arc=213",
+          "quote": "will begin to close on May 22, 2026 at 11:00 AM."
+        }
+      ]
+    },
+    {
+      "county": "Chesapeake (city)",
+      "slug": "chesapeake",
+      "office": "City of Chesapeake (delinquent tax sales conducted by Ronald D. Slaven, Jr., Special Commissioner, Slaven Law Group)",
+      "phone": "757-382-2489 (City); 757-547-8080 (Slaven Law Group)",
+      "address": "City of Chesapeake, 306 Cedar Road, Chesapeake, VA 23322. Slaven Law Group, 308 George Washington Highway N, Suite 1, Chesapeake, VA 23323.",
+      "website": "https://www.cityofchesapeake.net/987/Tax-Lien-Sales",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The city page's latest listing was an online-only auction of 13 parcels with bidding starting September 16, 2026, which has passed; the city says upcoming sales, if scheduled, are posted on the page.",
+      "how_to_bid": "Under the city's Rules of Sale page, the high bidder gives a cashier's check or cash deposit of at least one-third of the purchase price and gives their details to the Special Commissioner's staff during or immediately after the sale. Settlement in full is due within fourteen days of the sale date, and the buyer receives a Special Warranty Deed; the page says there are no costs other than the purchase price and recording the deed. The format of the next sale and registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://www.cityofchesapeake.net/987/Tax-Lien-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Chesapeake, VA and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has Privacy Policy and Copyright Notices links, no terms or disclaimer page.",
+          "terms_url": "https://www.cityofchesapeake.net/copyright"
+        },
+        {
+          "url": "https://www.cityofchesapeake.net/984/Rules-of-Sale-of-Property-for-Delinquent",
+          "read_on": "2026-10-28",
+          "terms": "Same city site; see Copyright Notices (copyright only).",
+          "terms_url": "https://www.cityofchesapeake.net/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cityofchesapeake.net/987/Tax-Lien-Sales",
+          "quote": "Information on any upcoming sales, if scheduled, will be posted below."
+        },
+        {
+          "url": "https://www.cityofchesapeake.net/987/Tax-Lien-Sales",
+          "quote": "Bidding starts at 10:00 a.m. on September 16, 2026."
+        },
+        {
+          "url": "https://www.cityofchesapeake.net/984/Rules-of-Sale-of-Property-for-Delinquent",
+          "quote": "You must settle in full within fourteen (14) days of the sale date"
+        },
+        {
+          "url": "https://www.cityofchesapeake.net/984/Rules-of-Sale-of-Property-for-Delinquent",
+          "quote": "You will receive a Special Warranty Deed to the property"
+        }
+      ]
     }
   ]
 }

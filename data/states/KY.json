@@ -587,6 +587,105 @@
           "quote": "will be held at the Courthouse, Courtroom E, 222 St. Clair Street, Frankfort, KY 40601"
         }
       ]
+    },
+    {
+      "county": "Henderson",
+      "slug": "henderson",
+      "office": "Henderson County Clerk",
+      "phone": "270-826-3906",
+      "address": "20 North Main Street, Henderson, KY 42420",
+      "website": "https://www.hendersoncountyky.gov/370/Tax-Sale",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's last delinquent tax sale was set for August 27, 2026 at 9:00 am (CDT) (past), with registration closing August 17, 2026.",
+      "how_to_bid": "Register with the Henderson County Clerk by the posted deadline and submit lists and fees; the page asks that bill lists be sent as an Excel (.xls) spreadsheet ordered by purchase preference, and a registration form is available from the Clerk's office. The sale location, deposit and fee amounts are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.hendersoncountyky.gov/370/Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Footer Copyright Notices page reads 'All content © 2006-2026 Henderson County, KY and its representatives. All rights reserved.' plus a CivicPlus CMS copyright line; it has no clause on reuse, redistribution, personal-use limits or automated access. No disclaimer or terms link in the footer. Copyright-only, no reuse restriction found.",
+          "terms_url": "https://www.hendersoncountyky.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hendersoncountyky.gov/370/Tax-Sale",
+          "quote": "This year's delinquent tax sale date has been set for August 27, 2026 at 9:00 am (CDT)."
+        },
+        {
+          "url": "https://www.hendersoncountyky.gov/370/Tax-Sale",
+          "quote": "The last day to register and submit lists and fees with the Henderson County Clerk is August 17, 2026."
+        }
+      ]
+    },
+    {
+      "county": "Hopkins",
+      "slug": "hopkins",
+      "office": "Hopkins County Clerk",
+      "phone": "270-821-7361",
+      "address": "24 Union St., Madisonville, KY",
+      "website": "https://hopkinscounty.ky.gov/index.php/news/1402-regarding-delinquent-property-tax-bills",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's last tax sale was held September 14, 2026 beginning at 10:00am (past), with registration closing September 4, 2026.",
+      "how_to_bid": "All interested participants must register with the County Clerk's office by the posted deadline and pay the required registration fee. The county links a delinquent tax list and an unmined coal tax list. The sale venue, deposit and fee amounts are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://hopkinscounty.ky.gov/index.php/news/1402-regarding-delinquent-property-tax-bills",
+          "read_on": "2026-10-28",
+          "terms": "Footer Legal Disclaimer covers accuracy, timeliness, warranties and liability (the county 'makes no commitment to update the information') and has no clause on reuse, redistribution, personal-use limits or automated access. No copyright notice; footer credits Complete Marketing Resources, Inc. for design and hosting. No reuse restriction found.",
+          "terms_url": "https://hopkinscounty.ky.gov/index.php/legal-disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hopkinscounty.ky.gov/index.php/news/1402-regarding-delinquent-property-tax-bills",
+          "quote": "The tax sale will be held on September 14, 2026 beginning at 10:00am."
+        },
+        {
+          "url": "https://hopkinscounty.ky.gov/index.php/news/1402-regarding-delinquent-property-tax-bills",
+          "quote": "All interested participants must register with the County Clerk's office."
+        }
+      ]
+    },
+    {
+      "county": "Whitley",
+      "slug": "whitley",
+      "office": "Whitley County Clerk",
+      "phone": "(606) 549-6002",
+      "address": "200 Main St #2 Williamsburg, KY 40769",
+      "website": "https://whitleycountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The sale of 2025 tax bills was held September 17th, 2026 at 9:00am (past), with registration closing September 7th, 2026.",
+      "how_to_bid": "Register with the County Clerk's office by the posted deadline. Purchasers deposit 25% of the total value of the current-year certificates they register for and 100% for priority certificates, plus a non-refundable registration fee of $10.00 per current certificate or $5.00 per priority certificate and a $30.00 filing fee per certificate; the Clerk accepts cash, check and debit/credit cards. The sale is held at the Whitley County Courthouse, 200 Main St. Room 2, Williamsburg, as a lottery in rounds, with order of selection set by random drawing.",
+      "sources": [
+        {
+          "url": "https://whitleycountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer links a Privacy & Disability Statement (read: privacy practices and disability access, no reuse terms) and shows 'Site Provided By Software Management, LLC ©'. No reuse restriction found.",
+          "terms_url": "https://whitleycountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://whitleycountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "September 17th, 2026 at 9:00am."
+        },
+        {
+          "url": "https://whitleycountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "The tax sale will be held at the Whitley County Courthouse , 200 Main St. Room 2, Williamsburg, Ky. 40769"
+        }
+      ]
     }
   ]
 }

@@ -510,6 +510,91 @@
           "quote": "Registration is required for all individuals who will participate in the lien sale."
         }
       ]
+    },
+    {
+      "county": "Lee",
+      "slug": "lee",
+      "office": "Lee County Revenue Commission",
+      "phone": "not stated on the tax sale page",
+      "address": "Sale held at the Lee County Courthouse, South 9th Street, Opelika, Alabama (office address not stated on the tax sale page)",
+      "website": "https://www.leecountyrevenuecommissioner.com/home/property-tax/property-tax-collections/tax-sale/",
+      "sale_type": "hybrid",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The Lee County Tax Sale is held on the first Wednesday in May of each year",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the county states the sale is held on the first Wednesday in May of each year.",
+      "how_to_bid": "The sale is held in person, outside in the employee parking deck of the Lee County Courthouse in Opelika, beginning at 10:00 a.m.; bidders who have not preregistered must arrive by 9:00 a.m. and complete a registration form at the office first. Paying by check requires a Letter of Credit from your bank; card payments carry a 2.5% convenience fee. A printed Tax Sale Listing is sold on sale day for $5.00 cash. The page calls it a 'Tax Sale' and does not say whether property or tax liens are sold; deposit and interest terms are not stated.",
+      "sources": [
+        {
+          "url": "https://www.leecountyrevenuecommissioner.com/home/property-tax/property-tax-collections/tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "Footer Disclaimer says the site gives general information only, is not an official statement of county policy or law, and does not guarantee accuracy; it has no clause on reuse, redistribution, personal-use limits or automated access. Footer copyright line only ('Copyright © 2026 | Lee County Alabama Revenue Commisioner'). No reuse restriction found.",
+          "terms_url": "https://www.leecountyrevenuecommissioner.com/home/disclaimer/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.leecountyrevenuecommissioner.com/home/property-tax/property-tax-collections/tax-sale/",
+          "quote": "The Lee County Tax Sale is held on the first Wednesday in May of each year"
+        },
+        {
+          "url": "https://www.leecountyrevenuecommissioner.com/home/property-tax/property-tax-collections/tax-sale/",
+          "quote": "The sale begins at 10:00 a.m. CST."
+        }
+      ]
+    },
+    {
+      "county": "Walker",
+      "slug": "walker",
+      "office": "Walker County Revenue Commissioner",
+      "phone": "(205) 384-7267",
+      "address": "County Courthouse, 1803 3rd Avenue, Suite 102 (19th Street & 3rd Avenue), Jasper, AL 35501",
+      "website": "https://www.walkercountyrevenue.com/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "The Tax Lien Auction is held online at GovEase on the first Monday in May each year",
+      "sales": [
+        {
+          "date": "2027-05-03",
+          "time": "8:30 a.m.",
+          "label": "2026 Tax Lien Auction (online)",
+          "deposit": "not stated",
+          "registration_deadline": "Registration on GovEase opens 30 days before auction day and must be completed by 4:00 p.m. CST the Friday before the auction, per the county page",
+          "list_note": "The county says to check back on April 2, 2027 for a list of delinquent properties; First Rights payments for previously purchased liens can be paid April 2 to April 28, 2027.",
+          "note": "The county notes the date is pending any unforeseen or emergency changes.",
+          "source_url": "https://www.walkercountyrevenue.com/",
+          "quote": "The 2026 Tax Lien Auction will be held on May 3, 2027 at 8:30 a.m. on GovEase."
+        }
+      ],
+      "next_sale_note": "Next auction May 3, 2027 on GovEase.",
+      "how_to_bid": "Register on GovEase before the county's deadline and bid online. Bidders bid down the interest rate they will accept, starting at 12% per annum in 1% increments, with ties broken by random number generator. Bids must be paid no later than 1 hour before close of business 2 days after the auction, by cash, credit card or immediately available certified funds (no personal checks). Redemption is made to the tax collecting official for the amount on the tax lien certificate plus a $10 redemption fee.",
+      "sources": [
+        {
+          "url": "https://www.walkercountyrevenue.com/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link found on the home or tax sale pages; footer shows only 'Copyright © 2026 | Walker County, Alabama' and an Ingenuity, Inc. design credit (no vendor terms link). Copyright-only, no reuse restriction found."
+        },
+        {
+          "url": "https://www.walkercountyrevenue.com/home/tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "Same site; no disclaimer or terms text on the page, copyright footer only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.walkercountyrevenue.com/",
+          "quote": "The 2026 Tax Lien Auction will be held on May 3, 2027 at 8:30 a.m. on GovEase."
+        },
+        {
+          "url": "https://www.walkercountyrevenue.com/home/tax-sale/",
+          "quote": "Walker County conducts its delinquent property tax lien auction sale in May each year."
+        }
+      ]
     }
   ]
 }

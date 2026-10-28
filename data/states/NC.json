@@ -686,6 +686,88 @@
           "quote": "please contact the Wayne County Staff Attorney's Office at (919) 705-1971."
         }
       ]
+    },
+    {
+      "county": "Lincoln",
+      "slug": "lincoln",
+      "office": "Lincoln County Tax Department, Collections (tax foreclosures handled by The Kania Law Firm)",
+      "phone": "(828) 252-8010 (The Kania Law Firm); (704) 742-7800, option 2 (Clerk of Superior Court, Civil Office, upset bids)",
+      "address": "Lincoln County Government, 353 N. Generals Blvd., Lincolnton, NC 28092. Sales on the front steps of the Lincoln County Courthouse, 120 Justice Drive, Lincolnton, NC.",
+      "website": "https://lincolncountync.gov/2368/Foreclosures",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The page says there are no tax foreclosures at this time and to check back periodically.",
+      "how_to_bid": "Sales are held in person on the front steps of the Lincoln County Courthouse, 120 Justice Drive, Lincolnton. The highest bidder pays a 5% deposit by cash or certified funds the day of the sale. Real property sales stay open ten days for upset bids, which must exceed the reported sale price by 5% or $750.00, whichever is greater; upset bid questions go to the Civil Office of the Clerk of Superior Court. After the upset period the winning bidder pays the balance plus recording fees and revenue stamps. Registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://lincolncountync.gov/2368/Foreclosures",
+          "read_on": "2026-10-28",
+          "terms": "Site footer: 'All content © 2006-2026 Lincoln County and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has no terms or disclaimer link (Copyright Notices and Accessibility only).",
+          "terms_url": "https://lincolncountync.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lincolncountync.gov/2368/Foreclosures",
+          "quote": "There are no tax foreclosures at this time."
+        },
+        {
+          "url": "https://lincolncountync.gov/2368/Foreclosures",
+          "quote": "All sales are conducted on the front steps of the Lincoln County Courthouse at 120 Justice Drive, Lincolnton, NC."
+        },
+        {
+          "url": "https://lincolncountync.gov/2368/Foreclosures",
+          "quote": "Please note that a deposit of 5% is required of the highest bidder by cash or certified funds the day of the sale."
+        },
+        {
+          "url": "https://lincolncountync.gov/2368/Foreclosures",
+          "quote": "The upset bid must exceed the reported sale price by 5% or $750.00, whichever is greater."
+        }
+      ]
+    },
+    {
+      "county": "Moore",
+      "slug": "moore",
+      "office": "Moore County Tax Department, Collections (sales conducted by Zacchaeus Legal Services)",
+      "phone": "910-947-2255 (Tax Department)",
+      "address": "Moore County Government, PO Box 905, 1 Courthouse Square, Carthage, NC 28327. Sales in the lobby of the Moore County Court House, 102 Monroe Street, Carthage, NC 28327.",
+      "website": "https://moorecountync.gov/204/Collections",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted on the county page. The county says there is no set schedule and that scheduling is posted on the Zacchaeus Legal Services website.",
+      "how_to_bid": "Moore County uses Zacchaeus Legal Services to conduct tax foreclosure sales, held in the lobby of the Moore County Court House, 102 Monroe Street, Carthage. You or a representative should be present to place a bid. A certified check or cash deposit of 20% of the highest bid is required at the time of sale, and all sales must be paid with certified funds (no financing). Upset bids are accepted for 10 days at the Clerk of Superior Court's office. Registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://moorecountync.gov/204/Collections",
+          "read_on": "2026-10-28",
+          "terms": "Site footer: 'All content © 2006-2026 Moore County, NC and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has Copyright Notices, Privacy Policy and Accessibility links, no terms or disclaimer page.",
+          "terms_url": "https://moorecountync.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://moorecountync.gov/204/Collections",
+          "quote": "Moore County uses Zacchaeus Legal Services to conduct tax foreclosure sales."
+        },
+        {
+          "url": "https://moorecountync.gov/204/Collections",
+          "quote": "Tax sales will be held in the lobby of the Moore County Court House located at 102 Monroe Street, Carthage NC 28327."
+        },
+        {
+          "url": "https://moorecountync.gov/204/Collections",
+          "quote": "Certified check or a cash deposit of 20% of the highest bid are required at the time of the sale."
+        },
+        {
+          "url": "https://moorecountync.gov/204/Collections",
+          "quote": "There is no set schedule"
+        }
+      ]
     }
   ]
 }

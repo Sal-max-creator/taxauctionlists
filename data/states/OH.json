@@ -1385,6 +1385,157 @@
           "quote": "Sales are buyer beware."
         }
       ]
+    },
+    {
+      "county": "Union",
+      "slug": "union",
+      "office": "Union County Sheriff's Office (Sheriff Sales)",
+      "phone": "937-645-4110",
+      "address": "221 West 5th Street, Marysville, OH 43040",
+      "website": "https://www.unioncountyohio.gov/departments/sheriff/sheriff-sales",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Official Public Sheriff's Sale Website)",
+        "url": "https://union.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-04",
+          "time": "not stated on the listing",
+          "label": "Sheriff's tax sale (in person, Veterans Memorial Auditorium)",
+          "deposit": "$5,000.00 for the one parcel listed",
+          "registration_deadline": "not stated",
+          "list_url": "https://www.unioncountyohio.gov/media/Sheriff/Sheriff%20sale%20Web%20page%20listing/2026/November%204%202026%20Tax%20Sale.pdf",
+          "list_note": "The county's PDF listing for this sale (one parcel).",
+          "note": "The listing says: 'THIS IS A TAX SALE AND WILL BE HELD AT THE VETERANS MEMORIAL AUDITORIUM AT 233 WEST 6TH STREET, MARYSVILLE, OH'. Second sale date on the same listing: November 18, 2026 at 9:00 am.",
+          "source_url": "https://www.unioncountyohio.gov/media/Sheriff/Sheriff%20sale%20Web%20page%20listing/2026/November%204%202026%20Tax%20Sale.pdf",
+          "quote": "Union County Sheriff's Sale Listing for Wednesday November 4, 2026"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "9:00 AM",
+          "label": "Second sale date for the November 4 tax sale listing (in person)",
+          "deposit": "$5,000.00 for the one parcel listed",
+          "registration_deadline": "not stated",
+          "list_url": "https://www.unioncountyohio.gov/media/Sheriff/Sheriff%20sale%20Web%20page%20listing/2026/November%204%202026%20Tax%20Sale.pdf",
+          "list_note": "Same county PDF listing as the November 4 sale.",
+          "note": "The listing gives this as its 'Second Sale Date'; it does not say when the second date applies. Held at the Veterans Memorial Auditorium, 233 West 6th Street, Marysville.",
+          "source_url": "https://www.unioncountyohio.gov/media/Sheriff/Sheriff%20sale%20Web%20page%20listing/2026/November%204%202026%20Tax%20Sale.pdf",
+          "quote": "Second Sale Date: November 18, 2026 @ 9:00 am"
+        }
+      ],
+      "next_sale_note": "Tax sale listed for Wednesday November 4, 2026 (second sale date November 18, 2026 at 9:00 am) at the Veterans Memorial Auditorium in Marysville. Later tax sales are posted as PDF listings on the Sheriff Sales page.",
+      "how_to_bid": "Mortgage foreclosures are sold online through RealAuction, but the Sheriff's page says tax sales, tax lien certificate sales and probate sales are still sold in person at the Union County Veterans Memorial Auditorium, 233 West 6th St, Marysville. For online sales, bidders must register with RealAuction and post a deposit ($2,000/$5,000/$10,000 set by law) by wire (received by 5:00 pm two business days before the sale) or ACH (initiated by 4:00 pm five business days before); no cash. The page does not state separate payment terms for the in-person tax sales; each PDF listing gives the deposit and opening bid per parcel. Call the Sheriff's Office at 937-645-4110 with questions.",
+      "sources": [
+        {
+          "url": "https://www.unioncountyohio.gov/departments/sheriff/sheriff-sales",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the county site footer (EvoGov) shows only Contact Us, Calendar, Meeting Archive, Accessibility Statement, Home, Site Map and Directory links and the credit 'Government Websites By EvoGov'; no terms, disclaimer, privacy, legal or copyright link. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.unioncountyohio.gov/media/Sheriff/Sheriff%20sale%20Web%20page%20listing/2026/November%204%202026%20Tax%20Sale.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Same site as above (county PDF listing).",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.unioncountyohio.gov/departments/sheriff/sheriff-sales",
+          "quote": "Tax Sales, Tax Lien Certificate Sales and Probate Sales will continue to be sold at the Union County Veterans Memorial Auditorium, 233 West 6th St, Marysville"
+        },
+        {
+          "url": "https://www.unioncountyohio.gov/media/Sheriff/Sheriff%20sale%20Web%20page%20listing/2026/November%204%202026%20Tax%20Sale.pdf",
+          "quote": "THIS IS A TAX SALE AND WILL BE HELD AT THE VETERANS MEMORIAL AUDITORIUM AT 233 WEST 6TH STREET, MARYSVILLE, OH"
+        }
+      ]
+    },
+    {
+      "county": "Fulton",
+      "slug": "fulton",
+      "office": "Fulton County Sheriff's Office (Sheriff Sales)",
+      "phone": "not stated on the sheriff sale pages",
+      "address": "129 Courthouse Plaza, Wauseon, OH 43567",
+      "website": "https://fultoncountyoh.com/610/Information-on-Sheriff-Sales",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Official Public Sheriff's Sale Website)",
+        "url": "https://fulton.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale dated October 28, 2026 or later is posted; the Sheriff Sales Listing page showed only the October 22, 2026 sale and October 8, 2026 results. Delinquent tax parcels (marked TBD in the appraised field) are sold in person at the Sheriff's office.",
+      "how_to_bid": "Most sheriff sales are online through RealAuction, starting at 10:00 am. Delinquent tax properties (shown with 'TBD' in the appraised field) are sold in person at the Sheriff's office, 129 Courthouse Plaza, Wauseon. For online sales the deposit is $2,000 (appraised under $10,000), $5,000 ($10,000 to under $200,000) or $10,000 (over $200,000), by wire (due by 5pm two business days before) or ACH (initiated by 4pm five business days before); no cash. Minimum bid is two-thirds of appraised value at a first sale, with no minimum at a second sale. The page says the full balance is due after the Sheriff's Deed is received and personal checks payable to Fulton County Sheriff's Office are accepted.",
+      "sources": [
+        {
+          "url": "https://fultoncountyoh.com/610/Information-on-Sheriff-Sales",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the CivicPlus footer shows only the county homepage, Website Sign In and 'Government Websites by CivicPlus' links; no terms, disclaimer, privacy or copyright link. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://fultoncountyoh.com/591/Sheriff-Sales-Listing",
+          "read_on": "2026-10-28",
+          "terms": "Same site as above.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://fultoncountyoh.com/610/Information-on-Sheriff-Sales",
+          "quote": "will still be held in person at the Sheriff's office 129 Courthouse Plaza Wauseon, Oh 43567."
+        },
+        {
+          "url": "https://fultoncountyoh.com/591/Sheriff-Sales-Listing",
+          "quote": "Sales for October 22, 2026"
+        }
+      ]
+    },
+    {
+      "county": "Brown",
+      "slug": "brown",
+      "office": "Brown County Sheriff's Office (Sheriff Sales)",
+      "phone": "937-378-4435 ext. 103 or ext. 112 (Monday to Friday, 7:00 AM to 3:00 PM)",
+      "address": "not stated; delinquent tax sales are at the Brown County Municipal Court, 770 Mt Orab Pike, Georgetown, OH 45121",
+      "website": "https://www.browncountyohiosheriff.us/sheriff-sale-information",
+      "sale_type": "deed",
+      "format": "both",
+      "platform": {
+        "name": "RealAuction (Official Public Sheriff's Sale Website)",
+        "url": "https://brown.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted; the Sheriff's current real estate sale listing page showed no parcels. Call the Sheriff's Office for current sale dates.",
+      "how_to_bid": "Mortgage foreclosure sales are online through RealAuction; delinquent tax sales are held in person at 1:00 PM at the Brown County Municipal Court, 770 Mt Orab Pike, Georgetown. The page says all properties sold for delinquent land tax must have the complete tax amount paid at the time of sale. RealAuction deposits are by ACH or wire under RealAuction's policies (for example $2,000 when the appraisal is $10,000.00 or less, $10,000 when over $200,000.00); the Sheriff's Office itself cannot take wires.",
+      "sources": [
+        {
+          "url": "https://www.browncountyohiosheriff.us/sheriff-sale-information",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer reads '© 2017-2021, Brown County Ohio Sheriff. All Rights Reserved.' with no disclaimer, terms or privacy link. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.browncountyohiosheriff.us/copy-of-real-estate-sale-informatio",
+          "read_on": "2026-10-28",
+          "terms": "Same site as above.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.browncountyohiosheriff.us/copy-of-real-estate-sale-informatio",
+          "quote": "Delinquent Tax Sales are conducted at 1:00 PM at the Brown County Municipal Court, 770 Mt Orab Pike, Georgetown, OH 45121."
+        },
+        {
+          "url": "https://www.browncountyohiosheriff.us/sheriff-sale-information",
+          "quote": "All properties sold for delinquent land tax must have the complete tax amount paid at the time of sale"
+        }
+      ]
     }
   ]
 }

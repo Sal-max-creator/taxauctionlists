@@ -1035,6 +1035,61 @@
           "quote": "bid on an interest rate (between 0-9%) and unpaid property taxes."
         }
       ]
+    },
+    {
+      "county": "Whiteside",
+      "slug": "whiteside",
+      "office": "Whiteside County Collector's Office",
+      "phone": "815-772-5270",
+      "address": "200 E Knox Street, Morrison, IL 61270",
+      "website": "https://whitesidecountyil.gov/226/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": {
+        "name": "R.A.M.S 2 (RAMS Auctions, Joseph E Meyer & Associates Inc)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "2:00 PM",
+          "label": "Annual Tax Sale (2025 payable 2026 taxes)",
+          "deposit": "$500 deposit in United States funds due with the registration form",
+          "registration_deadline": "Register in writing 10 business days prior to the tax sale with the Whiteside County Collector's office",
+          "note": "Held in Room 117 at the Whiteside County Courthouse, Morrison. The delinquent tax sale list is available in the Collector's office for a $100 non-refundable fee.",
+          "source_url": "https://whitesidecountyil.gov/226/Tax-Sale-Information",
+          "quote": "The tax sale will be held November 5, 2026 and begin promptly at 2:00 pm."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register in writing with the Whiteside County Collector's office 10 business days before the sale, with a $500 deposit in United States funds due with the registration form. Whoever signs the registration form must be physically present at the sale to bid. The sale is automated with R.A.M.S 2 (RAMS Auctions, Joseph E Meyer & Associates Inc) and held in Room 117 at the Whiteside County Courthouse, Morrison. The delinquent tax sale list is available in the Collector's office for a $100 non-refundable fee.",
+      "sources": [
+        {
+          "url": "https://whitesidecountyil.gov/226/Tax-Sale-Information",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Whiteside County, IL and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no terms, disclaimer or privacy link. Copyright-only; no reuse restriction found.",
+          "terms_url": "https://whitesidecountyil.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://whitesidecountyil.gov/226/Tax-Sale-Information",
+          "quote": "The sale will be held in Room 117 at the Whiteside County Courthouse, Morrison, IL 61270."
+        },
+        {
+          "url": "https://whitesidecountyil.gov/226/Tax-Sale-Information",
+          "quote": "You must register in writing 10 business days prior to the tax sale with the Whiteside County Collector's office."
+        },
+        {
+          "url": "https://whitesidecountyil.gov/226/Tax-Sale-Information",
+          "quote": "Whoever signs the registration form must be physically present at the sale to bid."
+        },
+        {
+          "url": "https://whitesidecountyil.gov/226/Tax-Sale-Information",
+          "quote": "There is a $100 non-refundable fee to purchase the list."
+        }
+      ]
     }
   ]
 }

@@ -1591,6 +1591,39 @@
           "quote": "12/03/26"
         }
       ]
+    },
+    {
+      "county": "Gallia",
+      "slug": "gallia",
+      "office": "Gallia County Treasurer's Office (sales conducted by the Sheriff's Office)",
+      "phone": "(740) 446-4612",
+      "address": "18 Locust St, Gallipolis, OH 45631",
+      "website": "https://galliacountyoh.gov/treasurer/delinquent-tax-sales/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "These sales can be held at various times throughout the year.",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted on the Treasurer's Delinquent Tax Sales page when read on 2026-10-28; sales are advertised in the Gallipolis Daily Tribune's Public Notice section before each Sheriff's Sale.",
+      "how_to_bid": "Each parcel is sold to the highest bidder by the Sheriff's Office on the Courthouse steps. Sales are advertised in the Gallipolis Daily Tribune's Public Notice section for 3 consecutive weeks (usually Wednesdays) before the Sheriff's Sale. The starting bid covers court costs and delinquent and prorated taxes through the sale date. Deposit and payment terms: not stated.",
+      "sources": [
+        {
+          "url": "https://galliacountyoh.gov/treasurer/delinquent-tax-sales/",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer shows only '© 2026 Gallia County, Ohio • Built with GeneratePress'; no terms, disclaimer or privacy link. Copyright-only; no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://galliacountyoh.gov/treasurer/delinquent-tax-sales/",
+          "quote": "These sales can be held at various times throughout the year."
+        },
+        {
+          "url": "https://galliacountyoh.gov/treasurer/delinquent-tax-sales/",
+          "quote": "The parcel will be sold to the highest bidder by the Sheriff's Office on the Courthouse steps."
+        }
+      ]
     }
   ]
 }

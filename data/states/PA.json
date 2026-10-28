@@ -1190,6 +1190,49 @@
           "quote": "When properties are available for Repository Sale the listing will be available here."
         }
       ]
+    },
+    {
+      "county": "Juniata",
+      "slug": "juniata",
+      "office": "Juniata County Tax Claim Bureau",
+      "phone": "717-436-7705",
+      "address": "Juniata County Courthouse, Bridge and Main Streets, Mifflintown, PA 17059 (mail: P.O. Box 68, Mifflintown, PA 17059)",
+      "website": "https://www.juniatacountypa.gov/227/Tax-Claim-Bureau",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "the property will be sold at a tax sale to be held in September of each year.",
+      "sales": [],
+      "next_sale_note": "The September upset tax sale for 2026 has passed. The Judiciary Sale page gives no sale date when read on 2026-10-28.",
+      "how_to_bid": "All tax sales are conducted under the PA Real Estate Tax Sale Law and are final. The Bureau sets all opening bids. Properties are advertised in one newspaper of general circulation within Juniata County at least thirty days before the sale, are sold without guarantee or warranty, and listings may change up until the day of the sale. Deposit, registration and payment terms: not stated. County office hours are 8 am to 4 pm, Monday through Friday.",
+      "sources": [
+        {
+          "url": "https://www.juniatacountypa.gov/227/Tax-Claim-Bureau",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Juniata County, PA and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no terms, disclaimer or privacy link. Copyright-only; no reuse restriction found.",
+          "terms_url": "https://www.juniatacountypa.gov/copyright"
+        },
+        {
+          "url": "https://www.juniatacountypa.gov/228/Judiciary-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Juniata County, PA and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial or personal-only use, or automated access. The footer has no terms, disclaimer or privacy link. Copyright-only; no reuse restriction found.",
+          "terms_url": "https://www.juniatacountypa.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.juniatacountypa.gov/227/Tax-Claim-Bureau",
+          "quote": "the property will be sold at a tax sale to be held in September of each year."
+        },
+        {
+          "url": "https://www.juniatacountypa.gov/228/Judiciary-Sale",
+          "quote": "The Bureau has the right to set all opening bids"
+        },
+        {
+          "url": "https://www.juniatacountypa.gov/228/Judiciary-Sale",
+          "quote": "All Tax Sales are conducted in accordance with the PA Real Estate Tax Sale Law and are final."
+        }
+      ]
     }
   ]
 }

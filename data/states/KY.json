@@ -863,6 +863,47 @@
           "quote": "ALL SALES ARE FINAL. NO REFUNDS WILL BE GIVEN."
         }
       ]
+    },
+    {
+      "county": "Simpson",
+      "slug": "simpson",
+      "office": "Simpson County Clerk",
+      "phone": "(270) 586-8161",
+      "address": "105 East Kentucky Street, Franklin, KY 42134 (mailing: PO Box 268, Franklin, KY 42135-0268)",
+      "website": "https://simpsoncountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The page's 2026 sale (Tuesday, September 8 at 10:00am CST, registration deadline August 31st, 2026) is past.",
+      "how_to_bid": "Third-party purchasers register with the Simpson County Clerk by the posted deadline (for 2026 it was August 31st, 2026) using the clerk's certificate of delinquent tax registration form and third party purchasers' agreement. A non-refundable registration fee is required (amount not stated on the page), plus a deposit of 25% of the amount due on all current certificates listed; the fee and the deposit each need a separate check, payable to the Simpson County Clerk. The page lists cash, cashier's check or certified funds as accepted payment. Sale location and format (in person or online): not stated.",
+      "sources": [
+        {
+          "url": "https://simpsoncountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer links a Privacy & Disability Statement (read: data collection, cookies, retention, third-party embeds and disability accommodations, nothing on reuse, redistribution, commercial or personal-only use, or automated access) and shows 'Simpson County Kentucky – All Rights Reserved | Site Provided By Software Management, LLC'. Copyright-only, no reuse restriction found.",
+          "terms_url": "https://simpsoncountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://simpsoncountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "The deadline to register is August 31st, 2026."
+        },
+        {
+          "url": "https://simpsoncountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "A non-refundable registration fee is required to participate in the delinquent tax sale."
+        },
+        {
+          "url": "https://simpsoncountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "The deposit amount required is the sum of 25% of the amount due on all current certificates listed."
+        },
+        {
+          "url": "https://simpsoncountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "A separate check is required for the registration fee and the deposit."
+        }
+      ]
     }
   ]
 }

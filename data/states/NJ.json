@@ -949,6 +949,188 @@
           "quote": "Separate checks are required for Premiums."
         }
       ]
+    },
+    {
+      "county": "Chesterfield Township (Burlington County)",
+      "slug": "chesterfield-burlington",
+      "office": "Tax Collector, Township of Chesterfield",
+      "phone": "not stated",
+      "address": "295 Bordentown-Chesterfield Rd., Chesterfield, NJ 08515",
+      "website": "https://www.chesterfieldtwpnj.gov/tax-collector",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-02",
+          "time": "10:00",
+          "label": "2026 Tax Sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Held at the Municipal Building. The 2026 sale covers any unpaid 2025 sewer or tax balance. The township page says the tax sale list became available October 13, 2026 (the list itself is not cited).",
+          "source_url": "https://www.chesterfieldtwpnj.gov/tax-collector",
+          "quote": "2026 TAX SALE will be held on Wednesday December 2nd at 10:00 at the Municipal Building."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Sale held at the Municipal Building, 295 Bordentown-Chesterfield Rd. The 2026 sale is for unpaid 2025 sewer or tax balances. The township page does not state registration, deposit, payment method, premium or bidding rules; contact the Tax Collector.",
+      "sources": [
+        {
+          "url": "https://www.chesterfieldtwpnj.gov/tax-collector",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or copyright link found: neither the tax collector page nor the township home page rendered a footer or any legal link to the fetch tool. No reuse ban found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.chesterfieldtwpnj.gov/tax-collector",
+          "quote": "The 2026 Tax Sale will be for any 2025 unpaid sewer or tax balance."
+        },
+        {
+          "url": "https://www.chesterfieldtwpnj.gov/tax-collector",
+          "quote": "The Tax Sale List will be available October 13, 2026."
+        }
+      ]
+    },
+    {
+      "county": "Irvington Township (Essex County)",
+      "slug": "irvington-essex",
+      "office": "Tax Collector, Township of Irvington",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://irvingtonnj.gov/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "irvington.newjerseytaxsale.com",
+        "url": "https://irvington.newjerseytaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-16",
+          "time": "9:00 AM",
+          "label": "Online tax sale of 2026 and prior-year delinquent taxes",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Online auction. The township says the listing of parcels, delinquencies and costs, with bidding instructions, is free to view online as of 11/16/2026 on the township's tax sale site.",
+          "source_url": "https://irvingtonnj.gov/",
+          "quote": "TAX SALE WILL BE HELD DECEMBER 16, 2026 AT 9:00 AM"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Online auction of 2026 and prior-year delinquent taxes and municipal charges. The parcel listing and bidding instructions are posted free on irvington.newjerseytaxsale.com as of 11/16/2026. The township page does not state deposit, registration deadline or premium rules.",
+      "sources": [
+        {
+          "url": "https://irvingtonnj.gov/",
+          "read_on": "2026-10-28",
+          "terms": "Township home page (WordPress) read in several parts; the readable content showed no terms, disclaimer, privacy or copyright link and the footer did not render to the fetch tool. No reuse ban found. Restate facts only. The linked older tax sale notice PDF is not cited.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://irvingtonnj.gov/",
+          "quote": "THE TOWNSHIP OF IRVINGTON ANNOUNCES THE TAX SALE OF 2026 AND PRIOR YEAR(S) DELINQUENT TAXES"
+        },
+        {
+          "url": "https://irvingtonnj.gov/",
+          "quote": "AND DELINQUENT MUNICIPAL CHARGES THROUGH AN ON-LINE AUCTION."
+        },
+        {
+          "url": "https://irvingtonnj.gov/",
+          "quote": "ARE AVAILABLE ONLINE FOR A VIEWING FREE OF CHARGE AS OF 11/16/2026."
+        }
+      ]
+    },
+    {
+      "county": "Riverton (Burlington County)",
+      "slug": "riverton-burlington",
+      "office": "Borough of Riverton",
+      "phone": "(856) 829-0120",
+      "address": "505A Howard Street, Riverton, NJ 08077",
+      "website": "https://riverton-nj.com/public-notice-tax-sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "riverton.newjerseytaxsale.com",
+        "url": "https://riverton.newjerseytaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-02",
+          "time": "8:30 AM",
+          "label": "Online tax sale of 2025 and prior-year delinquencies",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Online auction of 2025 and prior-year delinquent taxes and other municipal charges. Listings and bidding instructions are on the borough's tax sale site and can be viewed free; the borough notice says to check back for the parcel list.",
+          "source_url": "https://riverton-nj.com/public-notice-tax-sale/",
+          "quote": "through an on-line auction on Wednesday, December 2, 2026 – 8:30 am."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Online auction; listings and bidding instructions are on riverton.newjerseytaxsale.com and can be viewed free of charge. The borough notice does not state deposit, registration, payment or premium rules.",
+      "sources": [
+        {
+          "url": "https://riverton-nj.com/public-notice-tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "Terms & Conditions page read: it covers user-posted content and grants no license, but has no clause banning reuse, redistribution, commercial use or automated access. Footer: 'Copyright © 2026 Borough Of Riverton. All Rights Reserved.' (also a Privacy Policy link). No reuse ban found. Restate facts only.",
+          "terms_url": "https://riverton-nj.com/terms-conditions/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://riverton-nj.com/public-notice-tax-sale/",
+          "quote": "the sale of 2025 and prior year delinquent taxes and other municipal charges"
+        },
+        {
+          "url": "https://riverton-nj.com/public-notice-tax-sale/",
+          "quote": "information can be viewed free of charge"
+        }
+      ]
+    },
+    {
+      "county": "West New York (Hudson County)",
+      "slug": "west-new-york-hudson",
+      "office": "Tax Collector Office, Town of West New York",
+      "phone": "201-295-5110",
+      "address": "Town Hall, 428-60th St., Room #3, West New York, NJ 07093",
+      "website": "https://www.westnewyorknj.org/departments/tax/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "westnewyork.newjerseytaxsale.com",
+        "url": "https://westnewyork.newjerseytaxsale.com"
+      },
+      "schedule_rule": "Tax Sales typically occur in December of each year, with the exact date being announced by the end of November.",
+      "sales": [],
+      "next_sale_note": "2026 annual tax sale date not yet posted; the town says the date is announced by the end of November. The 2025 annual sale was an online auction on December 17, 2025, and the town also held a separate online standard sale of delinquent sewerage charges on June 24, 2026.",
+      "how_to_bid": "Online auction. The town page points to westnewyork.newjerseytaxsale.com for the listing of parcels, delinquencies and costs and for bidding instructions, viewable free of charge. Deposit, registration and premium rules are not stated on the town page.",
+      "sources": [
+        {
+          "url": "https://www.westnewyorknj.org/departments/tax/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or copyright link in the footer; footer shows only '© The Town of West New York, NJ. All Rights Reserved.' with Directory and Contact links. No reuse ban found. Restate facts only. The page header still shows an outdated 'Next Tax Sale: December 15, 2023' banner, which is not used.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.westnewyorknj.org/departments/tax/",
+          "quote": "through an online auction on December 17, 2025– 9:00 am."
+        },
+        {
+          "url": "https://www.westnewyorknj.org/departments/tax/",
+          "quote": "For a listing of all parcels, delinquencies and costs, along with bidding instructions, please visit:"
+        },
+        {
+          "url": "https://www.westnewyorknj.org/departments/tax/",
+          "quote": "information can be viewed free of charge"
+        }
+      ]
     }
   ]
 }

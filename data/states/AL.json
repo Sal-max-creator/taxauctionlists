@@ -672,6 +672,46 @@
           "quote": "Anyone wishing to purchase must appear in person."
         }
       ]
+    },
+    {
+      "county": "Blount",
+      "slug": "blount",
+      "office": "Blount County Revenue Commission",
+      "phone": "205-973-0285",
+      "address": "Blount County Courthouse, 220 2nd Ave E, Oneonta, AL 35121",
+      "website": "https://www.blountrevenue.com/home/property/tax-lien-auction/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Ingenuity Auctions",
+        "url": "https://ingenuityauctions.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Tax Lien Auction and Sale was held online on Tuesday, March 24, 2026 (past).",
+      "how_to_bid": "The county's tax lien auction is held online and hosted by Ingenuity Auctions. Bidders create an account and complete registration on the Ingenuity Auctions site (email verification, password and any details required for bidding); registered bidders can browse and bid on auctions and view and claim first rights. The office says it manages the auction but cannot give legal advice and recommends consulting an attorney. Deposit, payment forms and interest: not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.blountrevenue.com/home/property/tax-lien-auction/",
+          "read_on": "2026-10-28",
+          "terms": "Footer has no terms, disclaimer, privacy or legal link; it shows only '© 2026 Blount County, AL - All Rights Reserved'. Copyright-only, no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.blountrevenue.com/home/property/tax-lien-auction/",
+          "quote": "The 2026 Blount County Tax Lien Auction and Sale will be held online on Tuesday, March 24, 2026, at 9:00 am CST."
+        },
+        {
+          "url": "https://www.blountrevenue.com/home/property/tax-lien-auction/",
+          "quote": "Our Tax Lien Auction will be hosted by Ingenuity Auctions and will take place online at Ingenuity Auctions."
+        },
+        {
+          "url": "https://www.blountrevenue.com/home/property/tax-lien-auction/",
+          "quote": "To activate your bidder account and begin exploring auctions, please create an account and then complete your registration here."
+        }
+      ]
     }
   ]
 }

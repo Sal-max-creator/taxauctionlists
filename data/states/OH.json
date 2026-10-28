@@ -1624,6 +1624,47 @@
           "quote": "The parcel will be sold to the highest bidder by the Sheriff's Office on the Courthouse steps."
         }
       ]
+    },
+    {
+      "county": "Portage",
+      "slug": "portage",
+      "office": "Portage County Sheriff's Office, Civil Division (Sheriff's Sales)",
+      "phone": "330-297-3889 (Civil Division)",
+      "address": "Tax sales: Portage County Justice Center, 8240 Infirmary Road, Ravenna, OH 44266 (office street address not stated on the sale page)",
+      "website": "https://www.portagecounty-oh.gov/portage-county-sheriffs-office/pages/sheriffs-sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "EFFECTIVE APRIL 1, 2021 TAX SALES WILL BE HELD AT THE PORTAGE COUNTY JUSTICE CENTER, 8240 INFIRMARY ROAD, RAVENNA, OH 44266 ON MONDAYS AT 11:00 AM IN THE COURTROOM LOCATED OFF THE LOBBY.",
+      "sales": [],
+      "next_sale_note": "No upcoming tax sale date is posted; the latest sale date listed on the Sheriff's Sales page when read on 2026-10-28 was July 6, 2026.",
+      "how_to_bid": "Delinquent tax sales are held in person in the courtroom off the lobby of the Portage County Justice Center on Mondays at 11:00 AM. Deposits for tax sales are 10% of the bid, and the page says cashier checks only are accepted. The unpaid balance is due to the Portage County Sheriff by cashier's check within thirty days of the filing of the confirmation entry. Mortgage foreclosure sales (not tax sales) are run online on the state's Official Public Sheriff's Sale Website operated by RealAuction, with separate deposit rules.",
+      "sources": [
+        {
+          "url": "https://www.portagecounty-oh.gov/portage-county-sheriffs-office/pages/sheriffs-sales",
+          "read_on": "2026-10-28",
+          "terms": "County Disclaimer page read: 'This website is provided strictly as a public service and is intended for general information purposes only.' It disclaims warranties and liability; nothing on copying, reuse, redistribution, commercial or personal-only use, or automated access. No reuse restriction found.",
+          "terms_url": "https://www.portagecounty-oh.gov/node/1534"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.portagecounty-oh.gov/portage-county-sheriffs-office/pages/sheriffs-sales",
+          "quote": "Deposits for Tax Sales will be 10% of your bid."
+        },
+        {
+          "url": "https://www.portagecounty-oh.gov/portage-county-sheriffs-office/pages/sheriffs-sales",
+          "quote": "RAVENNA, OH 44266 ON MONDAYS AT 11:00 AM IN THE COURTROOM LOCATED OFF THE LOBBY."
+        },
+        {
+          "url": "https://www.portagecounty-oh.gov/portage-county-sheriffs-office/pages/sheriffs-sales",
+          "quote": "We will accept cashier checks only."
+        },
+        {
+          "url": "https://www.portagecounty-oh.gov/portage-county-sheriffs-office/pages/sheriffs-sales",
+          "quote": "within thirty (30) days of the filing of the confirmation entry."
+        }
+      ]
     }
   ]
 }

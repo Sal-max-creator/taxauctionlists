@@ -1233,6 +1233,47 @@
           "quote": "All Tax Sales are conducted in accordance with the PA Real Estate Tax Sale Law and are final."
         }
       ]
+    },
+    {
+      "county": "Elk",
+      "slug": "elk",
+      "office": "Elk County Tax Claim Bureau",
+      "phone": "814-776-5326",
+      "address": "Elk County Courthouse Annex, 300 Center Street, P.O. Box 448, Ridgway, PA 15853",
+      "website": "https://countyofelkpa.gov/?p=5985",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Upset Tax Sale is held in September, the Continued Upset Sale is held in December and more than one Judicial Sale may be held during the year.",
+      "sales": [],
+      "next_sale_note": "The Tax Claim Bureau page says a Continued Upset Sale is held in December, but no 2026 date, time or place is posted on it when read on 2026-10-28.",
+      "how_to_bid": "The upset sale bid price includes current year and delinquent property taxes, municipal liens, Commonwealth liens, transfer taxes, recording fees and costs. Upset sales are advertised in the Ridgway Record and St. Mary's Daily Press at least 30 days before the sale and must be confirmed absolute by the Court of Common Pleas. Properties that get no bid at an upset sale become eligible for a judicial sale, where they are sold free and clear of liens, mortgages and judgments at a bid price set by the Bureau; the judicial sale date is set by the Court and advertised at least 30 days ahead. The Bureau makes no representations or warranties on properties sold. Registration, deposit and payment terms: not stated. Office hours are 8:30 a.m. to 4:00 p.m., Monday to Friday.",
+      "sources": [
+        {
+          "url": "https://countyofelkpa.gov/?p=5985",
+          "read_on": "2026-10-28",
+          "terms": "Terms and Conditions page read: covers acceptable use, feedback, third-party links, liability and governing law; footer reads '© 2026 Elk County All rights reserved.' Nothing on copying, reuse, redistribution, commercial or personal-only use, resale or automated access. No reuse restriction found.",
+          "terms_url": "https://countyofelkpa.gov/terms-and-conditions"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://countyofelkpa.gov/?p=5985",
+          "quote": "The Upset Tax Sale is held in September, the Continued Upset Sale is held in December"
+        },
+        {
+          "url": "https://countyofelkpa.gov/?p=5985",
+          "quote": "The Tax Claim Bureau conducts several sales each year."
+        },
+        {
+          "url": "https://countyofelkpa.gov/?p=5985",
+          "quote": "The County of Elk Tax Claim Bureau makes no representations or warranties on any properties sold during tax sales."
+        },
+        {
+          "url": "https://countyofelkpa.gov/?p=5985",
+          "quote": "The judicial bid price is set by the Bureau and includes any costs incurred."
+        }
+      ]
     }
   ]
 }

@@ -1316,6 +1316,141 @@
       "notes": {
         "list_note": "The county's printed sale list shows taxpayer names, so it is not linked here."
       }
+    },
+    {
+      "county": "Park",
+      "slug": "park",
+      "office": "Park County Treasurer",
+      "phone": "719-836-2771",
+      "address": "856 Castello Avenue, Fairplay, CO 80440 (county address given on the Treasurer's tax lien sale page)",
+      "website": "https://www.parkcountyco.gov/453/Tax-Lien-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "SRI (zeusauction.com)",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "end_date": "2026-11-04",
+          "time": "Opens 8:00 am MST on November 2, 2026; the auction closes in batches starting 1:00 pm MT on Wednesday, November 4, 2026",
+          "label": "2026 Tax Lien Sale (online)",
+          "deposit": "No deposit is required (registration includes an IRS W-9 and an ACH authorization)",
+          "registration_deadline": "Register at ZeusAuction.com from October 9, 2026 (8:00 am) through October 28, 2026 (11:59 pm)",
+          "register_by": "2026-10-28",
+          "note": "Owners may pay delinquent taxes until 3:00 pm MST on Wednesday, October 28, 2026, so the list on the auction site changes until the morning of the sale. The page does not state the interest rate; auction rules and procedures are posted on the auction site before the sale.",
+          "source_url": "https://www.parkcountyco.gov/453/Tax-Lien-Sale",
+          "quote": "The 2026 Tax Sale will begin on Monday, November 2, 2026 at 8:00 am (MST)"
+        }
+      ],
+      "how_to_bid": "Online only, run by SRI, Inc. at ZeusAuction.com. Register on the auction site between October 9 and October 28, 2026; bidders need a valid SSN, EIN or ITIN, a U.S. bank account and a U.S. mailing address, and registration includes an IRS W-9 and an ACH authorization. No deposit is required. Bidding starts at the total amount published in the paper; anything above that is a premium bid, which is not returned and earns no interest if the property is redeemed. The county calls it a 'Buyer Beware Sale': a lien gives no ownership, possession, use or access, is valid for 7 years, and the holder may apply for a Treasurer's Deed auction after 3 years (CRS 39-11-148).",
+      "sources": [
+        {
+          "url": "https://www.parkcountyco.gov/453/Tax-Lien-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Park County, Colorado and its representatives. All rights reserved.' Policies & Disclaimers page (footer 'Privacy' link): privacy, accuracy and external-link disclaimers only. No reuse, redistribution, commercial-use, personal-use, resale or scraping clause.",
+          "terms_url": "https://www.parkcountyco.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.parkcountyco.gov/453/Tax-Lien-Sale",
+          "quote": "Payment must be received in the Park County Treasurer's office by that time, postmark will not be accepted."
+        }
+      ],
+      "notes": {
+        "list_note": "The county's 2026 delinquent tax list (a county PDF and the auction site) is not linked here; Colorado sale lists normally show taxpayer names."
+      }
+    },
+    {
+      "county": "Pitkin",
+      "slug": "pitkin",
+      "office": "Pitkin County Treasurer",
+      "phone": "970-920-5200 (County Administration Office, as listed on the page)",
+      "address": "County Administration Office, 530 East Main Street, Aspen, CO 81611",
+      "website": "https://pitkincounty.com/333/Tax-Lien-Sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (coloradotaxsale.com)",
+        "url": "https://pitkin.coloradotaxsale.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "not stated",
+          "label": "2026 Tax Lien Sale (online)",
+          "deposit": "not stated",
+          "registration_deadline": "Registration on the sale website (open from October 5) must be completed before the sale date",
+          "note": "The county says the interest rate for the 2026 sale is to be determined. The delinquent list is posted on the sale website and was published on Tuesdays in the Aspen Daily News from October 13.",
+          "source_url": "https://pitkincounty.com/333/Tax-Lien-Sale",
+          "quote": "The tax lien sale will be held November 05, 2026 online."
+        }
+      ],
+      "how_to_bid": "Online only, on the county's internet sale site (pitkin.coloradotaxsale.com), where bidding rules and instructions are posted; register on that site before the sale date. Investors may bid a premium, and the lien goes to the highest bidder. At the end of the sale the total advertised amount plus the premium bid is due. The premium is not part of the investment: it earns no interest and is not refunded. Simple interest on the lien is 9 percent above the Federal Discount rate as of September 1, rounded to the nearest full percent.",
+      "sources": [
+        {
+          "url": "https://pitkincounty.com/333/Tax-Lien-Sale",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found (footer checked): the footer has only the CivicPlus credit, Website Accessibility and Civil Rights Plan links, with no copyright, terms or disclaimer link. No reuse restriction appears on the page.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://pitkincounty.com/333/Tax-Lien-Sale",
+          "quote": "At the conclusion of the sale, the total advertised amount plus the premium bid will be due."
+        },
+        {
+          "url": "https://pitkincounty.com/333/Tax-Lien-Sale",
+          "quote": "The interest rate for the tax lien sale is to be determined."
+        }
+      ]
+    },
+    {
+      "county": "Moffat",
+      "slug": "moffat",
+      "office": "Moffat County Treasurer",
+      "phone": "(970) 824-9111",
+      "address": "1198 W. Victory Way, Ste. 101, Craig, CO 81625",
+      "website": "https://moffatcounty.colorado.gov/government/elected-officials/county-treasurer",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Delinquent taxes are advertised in September and the Tax Lien Sale held in November for real property Ad Valorem taxes.",
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "not stated",
+          "label": "2026 Tax Lien Sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Held at the Moffat County Courthouse, BCC Chambers. The Treasurer's page gives no time, registration, payment or bidding details.",
+          "source_url": "https://moffatcounty.colorado.gov/government/elected-officials/county-treasurer",
+          "quote": "The next Tax Lien Sale will be Thursday, November 5, 2026 - Moffat County Courthouse, BCC Chambers"
+        }
+      ],
+      "how_to_bid": "In person at the Moffat County Courthouse, BCC Chambers. Registration, deposit, payment and bidding rules are not stated on the Treasurer's page; contact the Treasurer at (970) 824-9111.",
+      "sources": [
+        {
+          "url": "https://moffatcounty.colorado.gov/government/elected-officials/county-treasurer",
+          "read_on": "2026-10-28",
+          "terms": "County site on the State of Colorado web platform (footer: Transparency Online, General Notices, state portal, '© 2026 State of Colorado'). colorado.gov General Notices page is a privacy policy only; no reuse, reproduction, redistribution, commercial-use, personal-use, resale or scraping clause.",
+          "terms_url": "https://www.colorado.gov/general-notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://moffatcounty.colorado.gov/government/elected-officials/county-treasurer",
+          "quote": "Liens may be redeemed by the owner any time prior to the issuing of the treasurer's deed."
+        }
+      ],
+      "notes": {
+        "list_note": "The Treasurer's page links a tax lien list PDF and an outside tax lien information page; neither is linked here (Colorado sale lists normally show owner names)."
+      }
     }
   ]
 }

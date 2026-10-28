@@ -122,6 +122,72 @@
           "terms_url": null
         }
       ]
+    },
+    {
+      "county": "Abington (town)",
+      "slug": "abington",
+      "office": "Town of Abington Treasurer (Tax Title Custodian)",
+      "phone": "not stated",
+      "address": "500 Gliniewicz Way, Abington, MA 02351",
+      "website": "https://abingtonma.gov/article/2053223",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No auction after 2026-10-28 posted. The latest notice read was for a tax possession auction on Wednesday, March 12, 2025 (past).",
+      "how_to_bid": "Based on the Town's notice for its March 12, 2025 tax possession auction: the Treasurer, as Tax Title Custodian, sold town-held tax possession parcels at a public auction held at 78 Linda Street, Abington (one of the parcels), with open house and preregistration starting 30 minutes before. Deposits were set per parcel ($20,000 and $10,000 at that sale), a 7% buyer's premium applied, and the balance was due within 30 days by bank cashier's or certified check unless otherwise announced. Parcels were sold as is, the buyer also paid pro-rata taxes and recording charges, and the Custodian could reject any bid or withdraw a parcel. Terms for any next auction are not posted.",
+      "sources": [
+        {
+          "url": "https://abingtonma.gov/article/2053223",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; it shows only 'Copyright © 2026 Town of Abington. All rights reserved.' and a 'Powered by Apptegy' link to the vendor's home page (not a EULA). No reuse restriction found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://abingtonma.gov/article/2053223",
+          "quote": "sell at public auction on WEDNESDAY, MARCH 12, 2025, at 3:00 P.M. EST at 78 LINDA STREET, ABINGTON, MA 02351"
+        },
+        {
+          "url": "https://abingtonma.gov/article/2053223",
+          "quote": "plus a buyer's premium equivalent to 7.0% of the final sale price"
+        },
+        {
+          "url": "https://abingtonma.gov/article/2053223",
+          "quote": "OPEN HOUSE AND PREREGISTRATION BEGINS AT 2:30 O'CLOCK, P.M."
+        }
+      ]
+    },
+    {
+      "county": "Yarmouth (town)",
+      "slug": "yarmouth",
+      "office": "Town of Yarmouth (tax title auction; department not named on the page)",
+      "phone": "508-398-2231 (Town main line)",
+      "address": "1146 Route 28, South Yarmouth, MA 02664",
+      "website": "https://www.yarmouth.ma.us/1618/Tax-Title-Auction",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Town typically conducts its tax title auctions August of every year.",
+      "sales": [],
+      "next_sale_note": "No 2027 auction date posted. The Town says it typically holds its tax title auctions in August each year.",
+      "how_to_bid": "The Town's Tax Title Auction page posts its tax title list and a Tax Title Auction Bidder Registration Form. Deposit, payment terms and where the auction is held are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.yarmouth.ma.us/1618/Tax-Title-Auction",
+          "read_on": "2026-10-28",
+          "terms": "Copyright / Legal page: 'All content © 2006-2026 Yarmouth and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial use or automated access. No terms, disclaimer or privacy link. Restate facts only.",
+          "terms_url": "https://www.yarmouth.ma.us/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.yarmouth.ma.us/1618/Tax-Title-Auction",
+          "quote": "The Town typically conducts its tax title auctions August of every year."
+        }
+      ]
     }
   ]
 }

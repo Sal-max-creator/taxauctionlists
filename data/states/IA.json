@@ -992,6 +992,164 @@
           "quote": "You must be 18 years of age & pre-registered to bid at Tax Sale."
         }
       ]
+    },
+    {
+      "county": "Jasper",
+      "slug": "jasper",
+      "office": "Jasper County Treasurer's Office",
+      "phone": "641-792-7731",
+      "address": "County Courthouse, 101 1st St. N., Newton, IA 50208",
+      "website": "https://www.jasperia.org/treasurer/property_tax/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": "The Annual Tax Sale takes place in June of each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's Property Tax page says the annual tax sale takes place in June each year and links to Iowa Tax Auction for bidder registration.",
+      "how_to_bid": "Register to bid through the Iowa Tax Auction website linked from the Treasurer's Property Tax page. Delinquent taxes are advertised in June in the Newton Daily News; parcels are listed in parcel number order with a sequence number for bidding. Copies of the list are available at the Treasurer's Office and a printout may be purchased. The investor is responsible for all research on parcels. Redemption interest is 2% per month. Registration deadline, bidder fees, deposit and payment terms: not stated on the county page. Contact the Treasurer's Office at 641-792-7731.",
+      "sources": [
+        {
+          "url": "https://www.jasperia.org/treasurer/property_tax/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer has only '©2026 Jasper County, Iowa', Contact Us, Follow Us and Department Hours links and a Neapolitan Labs vendor link; no terms, disclaimer, privacy or legal link and no reuse clause on the page."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.jasperia.org/treasurer/property_tax/",
+          "quote": "The Annual Tax Sale takes place in June of each year."
+        },
+        {
+          "url": "https://www.jasperia.org/treasurer/property_tax/",
+          "quote": "Properties are listed in parcel number order and have a sequence number for bidding purposes."
+        },
+        {
+          "url": "https://www.jasperia.org/treasurer/property_tax/",
+          "quote": "The investor is responsible for all research on parcels available for auction."
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Washington County Treasurer's Office",
+      "phone": "not stated",
+      "address": "222 West Main Street, P.O. Box 889, Washington, IA 52353 (county address)",
+      "website": "https://www.washingtoncounty.iowa.gov/319/Tax-Sale-Information",
+      "sale_type": "lien",
+      "format": "both",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county page still shows the 2026 sale, held at 9:00 am on Monday, June 15, 2026 at the Washington County Courthouse (past).",
+      "how_to_bid": "Registration and bidding must be done online at iowataxauction.com; live bids are not accepted. The sale is held at the Washington County Courthouse, where wireless internet is available for bidders using their own computer. Adjourned sales may be held any time during regular office hours if parcels remain; contact the Treasurer's office about them. The county posts a yearly Terms and Conditions document. Fees, deposit and payment terms: not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.washingtoncounty.iowa.gov/319/Tax-Sale-Information",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Washington County, IA and its representatives. All rights reserved.' Policies & Disclaimers page (https://www.washingtoncounty.iowa.gov/377/Policies-Disclaimers) read: accuracy/liability disclaimer only, nothing on reuse, redistribution, commercial use or automated access. Restate facts only.",
+          "terms_url": "https://www.washingtoncounty.iowa.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.washingtoncounty.iowa.gov/319/Tax-Sale-Information",
+          "quote": "Registration and bidding for the annual tax sale must be done online at www.iowataxauction.com."
+        },
+        {
+          "url": "https://www.washingtoncounty.iowa.gov/319/Tax-Sale-Information",
+          "quote": "Live bids will not be accepted for the annual tax sale."
+        },
+        {
+          "url": "https://www.washingtoncounty.iowa.gov/319/Tax-Sale-Information",
+          "quote": "Adjourned sales may be held anytime during regular office hours if parcels remain available for sale."
+        }
+      ]
+    },
+    {
+      "county": "Cedar",
+      "slug": "cedar",
+      "office": "Cedar County Treasurer",
+      "phone": "563-886-2557",
+      "address": "Cedar County Courthouse, 400 Cedar Street, Tipton, IA 52772",
+      "website": "https://cedarcounty.iowa.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": "Any unpaid taxes are offered at Public Tax Sale which is held annually on the third Monday in June",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's page says the public tax sale is held annually on the third Monday in June, online at iowataxauction.com.",
+      "how_to_bid": "Register to participate on the Iowa Tax Auction website, where an updated parcel listing (refreshed nightly) is available to registered bidders. Qualifying unpaid parcels are published once in the county's official publication during the last week of May. The winning bidder pays the outstanding taxes only; 2% interest per month accrues for up to three years, and the investor may pay later delinquent taxes, which are added to the redemption amount. The county posts a yearly Terms and Conditions document. Start time, registration fees and deposit: not stated on the page.",
+      "sources": [
+        {
+          "url": "https://cedarcounty.iowa.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "Footer has '©2026 Cedar County, Iowa', a Title VI notice, a Neapolitan Labs vendor link and a Privacy Policy link; the Privacy Policy was read and covers collection and handling of personal information only, with nothing on reuse, redistribution, commercial use or automated access of site content. No terms or disclaimer page found.",
+          "terms_url": "https://cedarcounty.iowa.gov/page/privacy_policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cedarcounty.iowa.gov/treasurer/tax_sale/",
+          "quote": "Any unpaid taxes are offered at Public Tax Sale which is held annually on the third Monday in June"
+        },
+        {
+          "url": "https://cedarcounty.iowa.gov/treasurer/tax_sale/",
+          "quote": "Register to participate in the Tax Sale Auction on the Iowa Tax Auction website."
+        },
+        {
+          "url": "https://cedarcounty.iowa.gov/treasurer/tax_sale/",
+          "quote": "Upon purchase at a tax sale, the winning bidder pays the outstanding taxes only."
+        }
+      ]
+    },
+    {
+      "county": "Tama",
+      "slug": "tama",
+      "office": "Tama County Treasurer's Office",
+      "phone": "(641) 484-3141",
+      "address": "Administration Building, 104 W. State St., P.O. Box 336, Toledo, IA 52342",
+      "website": "https://tamacounty.iowa.gov/treasurer/property_tax/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": "The Annual Tax Sale takes place in June of each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's Property Tax page says the annual tax sale takes place in June each year and links to Iowa Tax Auction for bidder registration.",
+      "how_to_bid": "Register to bid through the Iowa Tax Auction website linked from the Treasurer's Property Tax page. Taxes delinquent as of May 1 are advertised in June in the Tama-Toledo News Chronicle; parcels are listed in parcel number order with a sequence number for bidding. Copies of the list are available at the Treasurer's Office and a printout may be purchased. The investor is responsible for all research on parcels. Redemption interest is 2% per month. Time, place, registration deadline, fees and deposit: not stated on the county page. Contact the Treasurer's Office at (641) 484-3141.",
+      "sources": [
+        {
+          "url": "https://tamacounty.iowa.gov/treasurer/property_tax/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer has only '©2026 Tama County, Iowa' and a Neapolitan Labs vendor link; no terms, disclaimer, privacy or legal link and no reuse clause on the page."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://tamacounty.iowa.gov/treasurer/property_tax/",
+          "quote": "The Annual Tax Sale takes place in June of each year."
+        },
+        {
+          "url": "https://tamacounty.iowa.gov/treasurer/property_tax/",
+          "quote": "Delinquent taxes as of May 1 are assessed a publication fee and must be advertised for sale at the annual tax sale in June."
+        },
+        {
+          "url": "https://tamacounty.iowa.gov/treasurer/property_tax/",
+          "quote": "The investor is responsible for all research on parcels available for auction."
+        }
+      ]
     }
   ]
 }

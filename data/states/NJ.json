@@ -1131,6 +1131,264 @@
           "quote": "information can be viewed free of charge"
         }
       ]
+    },
+    {
+      "county": "Galloway Township (Atlantic County)",
+      "slug": "galloway-township-atlantic",
+      "office": "Tax Collection, Galloway Township",
+      "phone": "(609) 652-3700 ext. 234",
+      "address": "300 East Jimmie Leeds Road, Galloway, NJ 08205",
+      "website": "https://gtnj.org/index.php/departments/finance/tax-collector",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": "Tax sales are accelerated in Galloway Township and are held usually in mid December",
+      "sales": [],
+      "next_sale_note": "2026 sale date not yet posted; the township says its accelerated sale is usually held in mid December for current-year delinquencies.",
+      "how_to_bid": "Electronic sale. The township page does not name the auction website or state bidder registration, deposit or premium rules. Once the tax sale process begins, delinquent balances can be paid only with certified funds.",
+      "sources": [
+        {
+          "url": "https://gtnj.org/index.php/departments/finance/tax-collector",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; footer shows only '©2017-2020 All rights reserved.' No reuse ban found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://gtnj.org/index.php/departments/finance/tax-collector",
+          "quote": "Galloway currently conducts its annual tax sale electronically."
+        },
+        {
+          "url": "https://gtnj.org/index.php/departments/finance/tax-collector",
+          "quote": "once the tax sale process begins, all payments must be made with Certified Funds Only"
+        }
+      ]
+    },
+    {
+      "county": "Lacey Township (Ocean County)",
+      "slug": "lacey-township-ocean",
+      "office": "Tax Collector's Office, Lacey Township",
+      "phone": "609-693-1100 Ext. 2210",
+      "address": "818 West Lacey Rd., 2nd Floor, Forked River, NJ 08731",
+      "website": "https://www.laceytownship.org/1256",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "lacey.newjerseytaxsale.com",
+        "url": "https://lacey.newjerseytaxsale.com"
+      },
+      "schedule_rule": "The Tax Sale is normally held in late January",
+      "sales": [],
+      "next_sale_note": "Next sale date not yet posted; the township says the sale is normally held in late January and to contact the office to confirm. Open tax, water or sewer balances as of November 11 of the current year are subject to the sale.",
+      "how_to_bid": "Online auction for prior-year delinquent taxes, water and sewer charges. Listings and bidding instructions are on lacey.newjerseytaxsale.com. The township page does not state deposit, registration or premium rules. Liens are redeemed in full with guaranteed funds through the Tax Collector's office.",
+      "sources": [
+        {
+          "url": "https://www.laceytownship.org/1256",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Lacey Township, NJ and its representatives. All rights reserved.' plus a CivicPlus CMS copyright; no clause on reuse, redistribution, commercial use or automated access. No reuse ban found. Restate facts only.",
+          "terms_url": "https://www.laceytownship.org/site/copyright"
+        },
+        {
+          "url": "https://www.laceytownship.org/1237",
+          "read_on": "2026-10-28",
+          "terms": "Same site and Copyright Notices page as above.",
+          "terms_url": "https://www.laceytownship.org/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.laceytownship.org/1256",
+          "quote": "The Tax Sale is held via an Online Auction."
+        },
+        {
+          "url": "https://www.laceytownship.org/1256",
+          "quote": "Lacey Township holds an annual Tax Sale for prior calendar year delinquent municipal charges"
+        },
+        {
+          "url": "https://www.laceytownship.org/1237",
+          "quote": "Any open tax, water, or sewer balance as of November 11th of the current year is subject to tax sale."
+        }
+      ]
+    },
+    {
+      "county": "South Amboy (Middlesex County)",
+      "slug": "south-amboy-middlesex",
+      "office": "Tax Collector's Office, City of South Amboy",
+      "phone": "not stated",
+      "address": "140 North Broadway, South Amboy, NJ 08879",
+      "website": "https://www.southamboynj.gov/departments/tax-collection",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "southamboy.newjerseytaxsale.com",
+        "url": "https://southamboy.newjerseytaxsale.com/"
+      },
+      "schedule_rule": "South Amboy City will hold an Online Accelerated Tax Lien Sale every December.",
+      "sales": [],
+      "next_sale_note": "2026 sale date not yet posted; the city says it holds an online accelerated tax lien sale every December, with delinquent balances certified November 11.",
+      "how_to_bid": "Online accelerated tax lien sale on southamboy.newjerseytaxsale.com. Delinquent tax, sewer and sundry balances are certified on November 11 for the December sale, and payments received after November 10 must be cash, certified check or money order. The city page does not state bidder registration, deposit or premium rules.",
+      "sources": [
+        {
+          "url": "https://www.southamboynj.gov/departments/tax-collection",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; footer shows only '© The City of South Amboy, NJ. All Rights Reserved.' and a developer credit (AlphaDog Solutions). No reuse ban found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.southamboynj.gov/departments/tax-collection",
+          "quote": "ALL DELINQUENT TAX, SEWER AND SUNDRY BALANCES WILL BE CERTIFIED NOVEMBER 11,"
+        },
+        {
+          "url": "https://www.southamboynj.gov/departments/tax-collection",
+          "quote": "PAYMENTS RECEIVED AFTER 11/10 MUST BE CASH, CERTIFIED CHECK OR MONEY ORDER ONLY!"
+        }
+      ]
+    },
+    {
+      "county": "Harrison (Hudson County)",
+      "slug": "harrison-hudson",
+      "office": "Tax Department, Town of Harrison",
+      "phone": "973-268-2438",
+      "address": "318 Harrison Avenue, Harrison, NJ 07029",
+      "website": "https://townofharrison.com/180/Tax-Department",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 accelerated tax sale date not yet posted. The town's 2025 accelerated sale was held in person in the Municipal Council Chambers on December 17, 2025 at 11:00 am, for current-year charges unpaid as of November 12, 2025.",
+      "how_to_bid": "In-person sale in the Municipal Council Chambers. All bidders must pre-register and give the Tax Collector's Office a registration sheet and a W-9, both with original signatures, and must be pre-registered to enter the building (for the 2025 sale, registration was due December 16). The sale list is advertised in the Star-Ledger and posted on the town website. Deposit, premium and payment rules are not stated on the town page.",
+      "sources": [
+        {
+          "url": "https://townofharrison.com/180/Tax-Department",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: no clause on reuse, reproduction, redistribution, commercial use or automated access; only 'All content © 2006-2026 Harrison, NJ and its representatives. All rights reserved.' plus the CivicPlus copyright line. Footer also links a Privacy Policy. No reuse ban found. Restate facts only.",
+          "terms_url": "https://townofharrison.com/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://townofharrison.com/180/Tax-Department",
+          "quote": "The tax sale will be held in the Municipal Council Chambers on December 17, 2025 at 11:00 am."
+        },
+        {
+          "url": "https://townofharrison.com/180/Tax-Department",
+          "quote": "All bidders must pre-register and provide a W-9 both with original signatures to the Tax Collector’s Office."
+        },
+        {
+          "url": "https://townofharrison.com/180/Tax-Department",
+          "quote": "All bidder’s must be pre-registered to enter the building."
+        }
+      ]
+    },
+    {
+      "county": "Florham Park (Morris County)",
+      "slug": "florham-park-morris",
+      "office": "Tax Collector, Borough of Florham Park",
+      "phone": "973-410-5318",
+      "address": "111 Ridgedale Ave, Florham Park, NJ 07932",
+      "website": "https://www.florhamparknj.gov/TaxCollectionInformation",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Tax Sale is normally held in the last quarter of the year.",
+      "sales": [],
+      "next_sale_note": "No 2026 tax sale date is posted on the borough's tax collection page; the borough says the sale is normally held in the last quarter of the year.",
+      "how_to_bid": "Annual tax lien sale; the borough says it enforces collection by placing a lien on the property, and the charges sold include taxes, sewer, water and added/omitted assessments. The borough page does not state the date, place, online platform, registration, deposit or premium rules; contact the Tax Collector.",
+      "sources": [
+        {
+          "url": "https://www.florhamparknj.gov/TaxCollectionInformation",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or copyright link in the footer; the footer shows only contact details, quick links and 'Website By EvoGov', and the page metadata reads 'Copyright 2026 EvoGov, Inc.'. No reuse ban found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.florhamparknj.gov/TaxCollectionInformation",
+          "quote": "New Jersey Law requires all municipalities to hold at least one tax sale per year"
+        },
+        {
+          "url": "https://www.florhamparknj.gov/TaxCollectionInformation",
+          "quote": "Municipal charges include but are not limited to, Taxes, Sewer, Water, Added/Omitted assessments"
+        }
+      ]
+    },
+    {
+      "county": "Maplewood Township (Essex County)",
+      "slug": "maplewood-essex",
+      "office": "Office of the Tax Collector, Township of Maplewood",
+      "phone": "(973) 762-8120 ext. 2800",
+      "address": "not stated",
+      "website": "https://www.maplewoodnj.gov/government/taxes/tax-collector",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Township conducts an annual Tax sale that takes place in the Fall.",
+      "sales": [],
+      "next_sale_note": "No 2026 tax sale date is posted on the tax collector page; the township says its annual sale takes place in the fall.",
+      "how_to_bid": "Annual fall tax sale of all prior-year balances; parcels not paid off before the sale are auctioned to third-party lienholders. Lien questions go to (973) 762-8120 ext. 3000. The township page does not state the date, place, online platform, registration, deposit or premium rules.",
+      "sources": [
+        {
+          "url": "https://www.maplewoodnj.gov/government/taxes/tax-collector",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or copyright link found: the footer did not render to the fetch tool on the tax collector page or the home page, and the Township Policies page only points to internal policies on PolicyStat with no website-use clause. No reuse ban found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.maplewoodnj.gov/government/taxes/tax-collector",
+          "quote": "All prior year balances will be included in the tax sale."
+        },
+        {
+          "url": "https://www.maplewoodnj.gov/government/taxes/tax-collector",
+          "quote": "All parcels not removed from sale will be auctioned off to a 3rd party lienholder."
+        }
+      ]
+    },
+    {
+      "county": "Montgomery Township (Somerset County)",
+      "slug": "montgomery-somerset",
+      "office": "Tax Collector, Township of Montgomery",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://www.montgomerynj.gov/m/newsflash/Home/Detail/68",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "montgomery.newjerseytaxsale.com",
+        "url": "https://montgomery.newjerseytaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2026 date not posted on the township page read; the latest notice there (posted September 16, 2025) was for an online auction on October 15, 2025 at 9 am.",
+      "how_to_bid": "Online auction on montgomery.newjerseytaxsale.com, where the parcel listing and bidding instructions can be viewed free. Liens are sold subject to redemption to the bidder offering the lowest rate of interest, never over 18% per annum, and payment must be made before the sale closes or the lien is resold. Parcels with no other buyer are struck off to the township at 18%. Deposit, registration and premium rules are not stated on the township page.",
+      "sources": [
+        {
+          "url": "https://www.montgomerynj.gov/m/newsflash/Home/Detail/68",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: no clause on reuse, reproduction, redistribution, commercial use or automated access; only 'All content © 2006-2026 Montgomery Township, NJ and its representatives. All rights reserved.' plus the CivicPlus copyright line. No reuse ban found. Restate facts only. The tax sale list linked from the notice is not cited.",
+          "terms_url": "https://www.montgomerynj.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.montgomerynj.gov/m/newsflash/Home/Detail/68",
+          "quote": "at the lowest rate of interest, but in no case in excess of 18% per annum."
+        },
+        {
+          "url": "https://www.montgomerynj.gov/m/newsflash/Home/Detail/68",
+          "quote": "Payment shall be made before the conclusion of the sale or the property lien shall be resold."
+        },
+        {
+          "url": "https://www.montgomerynj.gov/m/newsflash/Home/Detail/68",
+          "quote": "Information can be viewed free of charge"
+        }
+      ]
     }
   ]
 }

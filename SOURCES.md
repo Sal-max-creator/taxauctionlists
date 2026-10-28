@@ -42,6 +42,7 @@ State overview: <https://alison.legislature.state.al.us/files/pdf/SearchableInst
 | Lee | <https://www.leecountyrevenuecommissioner.com/home/property-tax/property-tax-collections/tax-sale/> | 2026-10-28 | Footer Disclaimer says the site gives general information only, is not an official statement of county policy or law, and does not guarantee accuracy; it has no clause on reuse, redistribution, personal-use limits or automated access. Footer copyright line only ('Copyright © 2026 \| Lee County Alabama Revenue Commisioner'). No reuse restriction found. ([terms](https://www.leecountyrevenuecommissioner.com/home/disclaimer/)) |
 | Walker | <https://www.walkercountyrevenue.com/> | 2026-10-28 | No terms, disclaimer or privacy link found on the home or tax sale pages; footer shows only 'Copyright © 2026 \| Walker County, Alabama' and an Ingenuity, Inc. design credit (no vendor terms link). Copyright-only, no reuse restriction found. |
 | Walker | <https://www.walkercountyrevenue.com/home/tax-sale/> | 2026-10-28 | Same site; no disclaimer or terms text on the page, copyright footer only. |
+| Marengo | <https://www.marengocountyal.com/Default.asp?ID=187> | 2026-10-28 | No terms, disclaimer or privacy link found in the footer; footer shows only 'Copyright © 2026 \| Marengo County, AL' and a site map. Copyright-only, no reuse restriction found. |
 
 ## Alaska
 
@@ -403,6 +404,9 @@ State overview: <https://law.justia.com/codes/georgia/title-48/chapter-4/article
 | Camden | <https://www.camdencountyga.gov/88/Tax-Sale-Date> | 2026-10-28 | same as above ([terms](https://www.camdencountyga.gov/918/Copyright-Notices)) |
 | Camden | <https://www.camdencountyga.gov/89/Tax-Sale-Bidding> | 2026-10-28 | same as above ([terms](https://www.camdencountyga.gov/918/Copyright-Notices)) |
 | Rockdale | <https://rockdaletaxoffice.org/property-tax-sales> | 2026-10-28 | No terms, disclaimer, privacy or legal link in the footer; footer shows only 'Copyright 2026. All Rights Reserved.' (copyright only). In-page disclaimer says the information is not to be construed as legal advice. No reuse restriction found. |
+| Carroll | <https://carrollcountygatax.com/tax-sales-2/> | 2026-10-28 | No terms, disclaimer, privacy or legal link in the footer; footer shows only '© 2025 Copyright Carroll County Tax Commissioner - Official Site - Web Design By: BIS Consultants' with a link to the web designer's site (a design credit, not a terms page). No reuse restriction found. |
+| Spalding | <https://spaldingcountytaxga.com/tax-sales/> | 2026-10-28 | No terms, disclaimer, privacy or legal link in the footer; footer shows only '© 2026 Copyright Spalding County Tax Commissioner GA - Official Site - Web Design By: BIS Consultants' with a link to the web designer's site (a design credit, not a terms page). No reuse restriction found. |
+| Forsyth | <https://forsythcountytax.com/tax-sales-excess-funds/> | 2026-10-28 | No terms, disclaimer, privacy or legal link in the footer; footer shows only '© Copyright 2026 Forsyth County Tax Commissioner GA - Official Site - Web Design By: BIS Consultants' with a link to the web designer's site (a design credit, not a terms page). No reuse restriction found. |
 
 ## Hawaii
 
@@ -598,6 +602,7 @@ State overview: <https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56
 | Henderson | <https://www.hendersoncountyky.gov/370/Tax-Sale> | 2026-10-28 | Footer Copyright Notices page reads 'All content © 2006-2026 Henderson County, KY and its representatives. All rights reserved.' plus a CivicPlus CMS copyright line; it has no clause on reuse, redistribution, personal-use limits or automated access. No disclaimer or terms link in the footer. Copyright-only, no reuse restriction found. ([terms](https://www.hendersoncountyky.gov/site/copyright)) |
 | Hopkins | <https://hopkinscounty.ky.gov/index.php/news/1402-regarding-delinquent-property-tax-bills> | 2026-10-28 | Footer Legal Disclaimer covers accuracy, timeliness, warranties and liability (the county 'makes no commitment to update the information') and has no clause on reuse, redistribution, personal-use limits or automated access. No copyright notice; footer credits Complete Marketing Resources, Inc. for design and hosting. No reuse restriction found. ([terms](https://hopkinscounty.ky.gov/index.php/legal-disclaimer)) |
 | Whitley | <https://whitleycountyclerk.ky.gov/delinquent-taxes/> | 2026-10-28 | No terms or disclaimer link; footer links a Privacy & Disability Statement (read: privacy practices and disability access, no reuse terms) and shows 'Site Provided By Software Management, LLC ©'. No reuse restriction found. ([terms](https://whitleycountyclerk.ky.gov/privacy-disability-statement/)) |
+| Henry | <https://henrycountyclerk.ky.gov/delinquent-taxes/> | 2026-10-28 | No terms or disclaimer link; footer links a Privacy & Disability Statement (read: data collection, cookies and disability accommodations, no clause on reuse, redistribution, personal-use limits or automated access) and shows 'Site Provided By Software Management, LLC ©2026'. No reuse restriction found. ([terms](https://henrycountyclerk.ky.gov/privacy-disability-statement/)) |
 
 ## Louisiana
 
@@ -688,6 +693,8 @@ State overview: <https://www.michigan.gov/taxes/property/property-tax-forfeiture
 | Isabella | <https://www.isabellacounty.org/departments/treasurer/services/foreclosed-properties/> | 2026-10-28 | Footer links only a Privacy Policy and an Accessibility Policy, plus '© 2026 Isabella County Michigan. All Rights Reserved.' The privacy policy has no reuse, redistribution or commercial-use clause. Copyright-only; restate facts only. ([terms](https://www.isabellacounty.org/website-privacy-policy/)) |
 | Lapeer | <https://www.lapeercountymi.gov/departments/treasurer/index.php> | 2026-10-28 | No terms page found: the footer has Phone Directory, Public Meetings, FOIA, Employment and Board links and a '© 2026 Lapeer County, MI.' line, with no terms, disclaimer or privacy link. The Treasurer's Property Information Policy (June 2, 2025) covers fees for property reports requested by for-profit companies and says the information is public under FOIA; it has no reuse or redistribution ban. Restate facts only. ([terms](https://cms5.revize.com/revize/lapeer/property%20info%20policy.pdf)) |
 | Lapeer | <https://cms5.revize.com/revize/lapeer/Auction%20Info%20Page.pdf> | 2026-10-28 | County Treasurer's auction information sheet (linked from the Treasurer page, hosted by the county's website vendor). Same terms as above. |
+| Manistee | <https://www.manisteecountymi.gov/264/Foreclosed-Property> | 2026-10-28 | Copyright page read: 'All content © 2006-2026 Manistee County, MI and its representatives. All rights reserved.' No clause on reuse, redistribution, commercial use or automated access. Copyright-only; restate facts only. ([terms](https://www.manisteecountymi.gov/copyright)) |
+| Mason | <https://www.masoncounty.net/departments/treasurer/foreclosed_property_sales.php> | 2026-10-28 | No terms page found: the footer has a '© 2026 by Mason County, MI' line and a 'Disclaimer of Privacy Policy' link that points to google.com rather than a county page, so no county terms or disclaimer could be read. Copyright-only; restate facts only. |
 
 ## Minnesota
 
@@ -858,6 +865,8 @@ State overview: <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/element
 | Cherry Hill Township (Camden County) | <https://chnj.gov/193> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Cherry Hill, NJ and its representatives. All rights reserved.' No reuse or redistribution clause. Footer also links a Privacy Statement; no terms or disclaimer link. ([terms](https://chnj.gov/site/copyright)) |
 | Bayonne (Hudson County) | <https://www.bayonnenj.org/_Content/pdf/notices/2026-04-15-Tax-Sale-Notice.pdf> | 2026-10-28 | no terms page found: site footer shows only '© City of Bayonne, NJ. All Rights Reserved. Developed by AlphaDog Solutions.' with no terms, disclaimer, privacy or legal link. |
 | Bayonne (Hudson County) | <https://www.bayonnenj.org/News/View/11976/tax-sale-notice> | 2026-10-28 | Same site; see above. |
+| Ewing Township (Mercer County) | <https://ewingnj.org/tax-sale> | 2026-10-28 | Policies page holds only a privacy policy and a mobile-app disclaimer (third-party links, advertising, public records); no copyright notice and no clause on reuse, redistribution, commercial use or automated access. No terms or disclaimer link in the site footer. ([terms](https://ewingnj.org/policies)) |
+| Ewing Township (Mercer County) | <https://ewingnj.org/government/news/1963-public-notice-of-annual-ewing-township-tax-sale> | 2026-10-28 | Same site; see above. ([terms](https://ewingnj.org/policies)) |
 
 ## New Mexico
 
@@ -908,6 +917,7 @@ State overview: <https://nysenate.gov/legislation/laws/RPT/1110>, <https://nysen
 | Cattaraugus | <https://www.cattco.gov/events/fall-person-parcel-auction-south-dayton-16094> | 2026-10-28 | same as above ([terms](https://www.cattco.gov/legal/terms-use)) |
 | Steuben | <https://steubencountyny.gov/m/faq?cat=20> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Steuben County, NY and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' The Privacy Policy page has accuracy disclaimers ('Steuben County makes no warranty, guarantee or promise, express or implied, as to the information presented') and says 'Use of images is by express permission of Steuben County only.' No clause forbids reuse of text or dates. ([terms](https://steubencountyny.gov/copyright)) |
 | Steuben | <https://steubencountyny.gov/Archive.aspx?ADID=2691> | 2026-10-28 | same as above ([terms](https://steubencountyny.gov/464/Privacy-Policy)) |
+| Livingston | <https://www.livingstoncountyny.gov/m/newsflash/home/detail/1825> | 2026-10-28 | Copyright Notices page says only 'All content © 2006-2026 Livingston County, NY and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' No clause on reuse, redistribution or commercial use. ([terms](https://www.livingstoncountyny.gov/copyright)) |
 
 ## North Carolina
 
@@ -1228,6 +1238,8 @@ State overview: <https://www.ctas.tennessee.edu/eli/delinquent-tax-suit>, <https
 | Tipton | <https://tiptonco.com/government/courts/chancery/> | 2026-10-28 | Terms of Use (read) contains only accuracy and liability disclaimers, e.g. 'Tipton County Government cannot guarantee the accuracy of this information.' and 'All materials appearing herein are transmitted "as is" without warranty of any kind'. No reuse, redistribution or automated-access restriction found. ([terms](https://tiptonco.com/government/terms_of_use/index.php)) |
 | Tipton | <https://tiptonco.com/government/trustee/faq/index.php> | 2026-10-28 | Terms of Use (read) contains only accuracy and liability disclaimers, e.g. 'Tipton County Government cannot guarantee the accuracy of this information.' and 'All materials appearing herein are transmitted "as is" without warranty of any kind'. No reuse, redistribution or automated-access restriction found. ([terms](https://tiptonco.com/government/terms_of_use/index.php)) |
 | Loudon | <https://www.loudoncountychancery.com/tax_sale_active.html> | 2026-10-28 | no terms page found; footer reads only 'Loudon County, Tennessee Clerk & Master of Chancery Court' with no terms, disclaimer or copyright link. ([terms](https://www.loudoncountychancery.com/tax_sale_active.html)) |
+| Sullivan | <https://sullivantnchancery.com/delinquent-tax-sales/> | 2026-10-28 | no terms page found; footer has only site navigation, a Public Records Policy PDF (about records requests) and 'Proudly powered by WordPress'. In-page disclaimer says the information should not be relied upon as legal advice. No reuse restriction found. |
+| Sullivan | <https://sullivantnchancery.com/location/> | 2026-10-28 | Same site; no terms page found. |
 
 ## Texas
 
@@ -1411,6 +1423,10 @@ State overview: <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <htt
 | Dane | <https://treasurer.danecounty.gov/documents/pdf/AuctionFAQ.pdf> | 2026-10-27 | Same Treasurer site; see copyright notice above. |
 | Fond du Lac | <https://www.fdlco.wi.gov/departments/departments-n-z/treasurer/tax-foreclosure-sales> | 2026-10-28 | County website disclaimer read: it disclaims liability (use of the information 'shall constitute an agreement by the User to release Fond du Lac County') and states no restriction on reuse, reproduction or redistribution. ([terms](https://www.fdlco.wi.gov/government/website-policies-and-information/disclaimer)) |
 | Portage | <https://www.co.portage.wi.gov/194/Tax-Deed-Land-Sale> | 2026-10-28 | Copyright Notices page read; it gives only 'All content © 2006-2026 Portage County, WI and its representatives. All rights reserved.' No clause on reuse, redistribution or automated access. ([terms](https://www.co.portage.wi.gov/copyright)) |
+| Manitowoc | <https://manitowoccountywi.gov/departments/public-works/foreclosed-property-for-sale/> | 2026-10-28 | Footer links a Privacy Disclaimer (read), which says site information may be a public record under Wisconsin's Public Records Law and has no reuse, redistribution or commercial-use clause; footer also shows '© 2026 Manitowoc County, WI'. No terms-of-use link. Restate facts only. ([terms](https://manitowoccountywi.gov/wp-content/uploads/2021/01/2016-is-6b-privacy-disclaimer.pdf)) |
+| Manitowoc | <https://manitowoccountywi.gov/wp-content/uploads/2026/10/Class-1-2nd-Round-Web-Notice-10.12.26.pdf> | 2026-10-28 | Public Works sale notice linked from the county page. Same terms as above. |
+| St. Croix | <https://sccwi.gov/586/Tax-Deed-Information> | 2026-10-28 | Privacy & Legal Notices page read: data is used at your own risk and users should not alter screenshots or images of the county's web content; no ban on reuse, redistribution, commercial use or automated access. Restate facts only. ([terms](https://www.sccwi.gov/124/Privacy-Legal-Notices)) |
+| St. Croix | <https://sccwi.gov/708/Tax-Deed-Property> | 2026-10-28 | County tax-deed property listing page. Same terms as above. |
 
 ## Wyoming
 

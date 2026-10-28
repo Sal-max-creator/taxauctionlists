@@ -315,6 +315,113 @@
           "quote": "Sale ends: Thursday, October 8, 2026"
         }
       ]
+    },
+    {
+      "county": "Manitowoc",
+      "slug": "manitowoc",
+      "office": "Manitowoc County Public Works Department",
+      "phone": "(920) 683-4054",
+      "address": "1028 S 9th Street, Manitowoc WI 54220",
+      "website": "https://manitowoccountywi.gov/departments/public-works/foreclosed-property-for-sale/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "time": "Sealed bids due by 9:00 a.m.",
+          "label": "Class One sealed-bid sale, 2nd round (bid deadline)",
+          "deposit": "10% good faith deposit by certified check, cashier's check or money order",
+          "registration_deadline": "None stated; sealed bids must be received by the deadline",
+          "note": "Sealed bids are received at the Manitowoc County Clerk's office, 1010 S 8th Street, Manitowoc. Bids must be at or above the appraised value shown in the notice (one parcel, IR2026-27, appraised at $113,000). The balance is due within 14 days of notice that the bid was approved.",
+          "source_url": "https://manitowoccountywi.gov/wp-content/uploads/2026/10/Class-1-2nd-Round-Web-Notice-10.12.26.pdf",
+          "quote": "until 9am on Monday, 11.02.2026."
+        }
+      ],
+      "next_sale_note": "The 2nd-round Class One notice sets a sealed-bid deadline of 9 a.m. Monday, November 2, 2026; no later round is posted.",
+      "how_to_bid": "Sealed bids on the county's In Rem Property Bid Form, delivered to the Manitowoc County Clerk's office at 1010 S 8th Street, Manitowoc, by the notice deadline, with a 10% good faith deposit by certified check, cashier's check or money order. Bids must be at or above the appraised value; the balance is due within 14 days of notice of approval.",
+      "sources": [
+        {
+          "url": "https://manitowoccountywi.gov/departments/public-works/foreclosed-property-for-sale/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Disclaimer (read), which says site information may be a public record under Wisconsin's Public Records Law and has no reuse, redistribution or commercial-use clause; footer also shows '© 2026 Manitowoc County, WI'. No terms-of-use link. Restate facts only.",
+          "terms_url": "https://manitowoccountywi.gov/wp-content/uploads/2021/01/2016-is-6b-privacy-disclaimer.pdf"
+        },
+        {
+          "url": "https://manitowoccountywi.gov/wp-content/uploads/2026/10/Class-1-2nd-Round-Web-Notice-10.12.26.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Public Works sale notice linked from the county page. Same terms as above."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://manitowoccountywi.gov/wp-content/uploads/2026/10/Class-1-2nd-Round-Web-Notice-10.12.26.pdf",
+          "quote": "Class One Notice, 2nd Round"
+        },
+        {
+          "url": "https://manitowoccountywi.gov/wp-content/uploads/2026/10/Class-1-2nd-Round-Web-Notice-10.12.26.pdf",
+          "quote": "Sealed bids will be received at the Manitowoc County Clerk’s office at 1010 S 8th Street, Manitowoc,"
+        },
+        {
+          "url": "https://manitowoccountywi.gov/wp-content/uploads/2026/10/Class-1-2nd-Round-Web-Notice-10.12.26.pdf",
+          "quote": "A 10% good faith deposit in the form of a certified check, cashier’s check, or money order"
+        },
+        {
+          "url": "https://manitowoccountywi.gov/wp-content/uploads/2026/10/Class-1-2nd-Round-Web-Notice-10.12.26.pdf",
+          "quote": "The balance is payable within 14 days from the date of notification of approval of the bid"
+        }
+      ]
+    },
+    {
+      "county": "St. Croix",
+      "slug": "st-croix",
+      "office": "St. Croix County Clerk",
+      "phone": "715-386-4607 or 715-386-4608",
+      "address": "1101 Carmichael Rd, Suite 1209, Hudson, WI 54016",
+      "website": "https://sccwi.gov/586/Tax-Deed-Information",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county page says there are currently no tax deeded properties open for bids. The tax-deed property page lists two parcels with no bid deadline (minimum bids $1,200 and $175).",
+      "how_to_bid": "Complete the county bid form, place it in a sealed envelope marked 'SEALED BID – TAX DEED' and deliver it to the County Clerk at the Government Center, 1101 Carmichael Road, Hudson, by any posted deadline. Each bid needs a 10% deposit by cashier's check or money order payable to St. Croix County (no personal checks); deposits are returned to unsuccessful bidders. Bids are opened by the Tax Deed Committee at a public hearing. Full payment, plus a $30 recording fee, is due within 30 days of the award.",
+      "sources": [
+        {
+          "url": "https://sccwi.gov/586/Tax-Deed-Information",
+          "read_on": "2026-10-28",
+          "terms": "Privacy & Legal Notices page read: data is used at your own risk and users should not alter screenshots or images of the county's web content; no ban on reuse, redistribution, commercial use or automated access. Restate facts only.",
+          "terms_url": "https://www.sccwi.gov/124/Privacy-Legal-Notices"
+        },
+        {
+          "url": "https://sccwi.gov/708/Tax-Deed-Property",
+          "read_on": "2026-10-28",
+          "terms": "County tax-deed property listing page. Same terms as above."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sccwi.gov/586/Tax-Deed-Information",
+          "quote": "There are currently no tax deeded properties open for bids"
+        },
+        {
+          "url": "https://sccwi.gov/586/Tax-Deed-Information",
+          "quote": "Place your bid in a sealed envelope clearly marked “SEALED BID – TAX DEED”"
+        },
+        {
+          "url": "https://sccwi.gov/586/Tax-Deed-Information",
+          "quote": "Each bid must include a 10% deposit (cashier’s check or money order only) made payable to St. Croix County."
+        },
+        {
+          "url": "https://sccwi.gov/586/Tax-Deed-Information",
+          "quote": "Bids will be opened by the Tax Deed Committee at a public hearing"
+        },
+        {
+          "url": "https://sccwi.gov/586/Tax-Deed-Information",
+          "quote": "Full payment is due within 30 days of the bid award."
+        }
+      ]
     }
   ]
 }

@@ -595,6 +595,46 @@
           "quote": "Walker County conducts its delinquent property tax lien auction sale in May each year."
         }
       ]
+    },
+    {
+      "county": "Marengo",
+      "slug": "marengo",
+      "office": "Marengo County Revenue Commission",
+      "phone": "(334) 295-2200",
+      "address": "101 E. Coats Ave., Linden, AL 36748",
+      "website": "https://www.marengocountyal.com/Default.asp?ID=187",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "Date: May of each year – check marengocountyal.com",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted; the county's FAQ says the auction is held in May each year online via GovEase.",
+      "how_to_bid": "Register through GovEase.com; registration opens 3 to 4 weeks before the auction. Bids are placed online through GovEase during the auction and are based on the lowest interest rate accepted by the bidder, starting at 12%. Fees listed are a $20 origination fee, $20 auction fee and $5 certificate fee. Payment is due within one hour after the final auction close. Redemption is made through the Revenue Commissioner (unless foreclosure is filed). Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.marengocountyal.com/Default.asp?ID=187",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link found in the footer; footer shows only 'Copyright © 2026 | Marengo County, AL' and a site map. Copyright-only, no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.marengocountyal.com/Default.asp?ID=187",
+          "quote": "Date: May of each year – check marengocountyal.com"
+        },
+        {
+          "url": "https://www.marengocountyal.com/Default.asp?ID=187",
+          "quote": "Location: Online via GovEase.com"
+        },
+        {
+          "url": "https://www.marengocountyal.com/Default.asp?ID=187",
+          "quote": "Bidding is based on the lowest interest rate accepted by the bidder, starting at 12%."
+        }
+      ]
     }
   ]
 }

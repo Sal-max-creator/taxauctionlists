@@ -830,6 +830,52 @@
           "terms_url": "https://www.loudoncountychancery.com/tax_sale_active.html"
         }
       ]
+    },
+    {
+      "county": "Sullivan",
+      "slug": "sullivan",
+      "office": "Sullivan County Chancery Court Clerk and Master",
+      "phone": "423-323-6483 (Blountville office)",
+      "address": "140 Blountville By-Pass Room 201, Blountville, TN 37617 (mailing: P.O. Box 327, Blountville, TN 37617)",
+      "website": "https://sullivantnchancery.com/delinquent-tax-sales/",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": "The Chancery Court Clerk and Master’s Office generally holds one sale per year",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted. The office says sale information is usually posted about two months before the sale, and sales are advertised in the Kingsport Times News about 20 days before.",
+      "how_to_bid": "Registration and payment are through GovEase. The opening bid is the total of taxes, penalties, interest and court costs. Property is sold as is, with no warranties as to condition or title, so buyers should research parcels first. The sale is not final until the Chancellor signs the Decree Confirming Sale, and the redemption period runs from the date that decree is entered. The office cannot accept partial payments of delinquent taxes.",
+      "sources": [
+        {
+          "url": "https://sullivantnchancery.com/delinquent-tax-sales/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found; footer has only site navigation, a Public Records Policy PDF (about records requests) and 'Proudly powered by WordPress'. In-page disclaimer says the information should not be relied upon as legal advice. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://sullivantnchancery.com/location/",
+          "read_on": "2026-10-28",
+          "terms": "Same site; no terms page found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://sullivantnchancery.com/delinquent-tax-sales/",
+          "quote": "It is usually posted about two months before the sale."
+        },
+        {
+          "url": "https://sullivantnchancery.com/delinquent-tax-sales/",
+          "quote": "Registration is conducted through GovEase.com."
+        },
+        {
+          "url": "https://sullivantnchancery.com/delinquent-tax-sales/",
+          "quote": "The redemption period begins to run from the date of entry of the Decree Confirming Sale"
+        }
+      ]
     }
   ]
 }

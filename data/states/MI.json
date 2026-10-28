@@ -546,6 +546,107 @@
           "quote": "You will need to create an account and provide a $1000 pre-authorization on a major credit card in order to bid."
         }
       ]
+    },
+    {
+      "county": "Manistee",
+      "slug": "manistee",
+      "office": "Manistee County Treasurer",
+      "phone": "Not stated on the page (auction company Title Check, LLC: 800-259-7470)",
+      "address": "Not stated for the Treasurer (county contact address on the page: 415 Third Street, Manistee, Michigan 49660)",
+      "website": "https://www.manisteecountymi.gov/264/Foreclosed-Property",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Tax-Sale.info (Title Check, LLC)",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": "The auction for foreclosed properties is held once each year, typically in August or September, and is online only.",
+      "sales": [
+        {
+          "date": "2026-10-30",
+          "time": "Sealed bids due by 7:00 PM",
+          "label": "No reserve auction (if any)",
+          "deposit": "Not stated on the county page",
+          "registration_deadline": "Not stated on the county page",
+          "note": "Third round of the 2026 sale, held only if parcels remain. The county page says no reserve auction bids are awarded Monday, November 2, 2026. Title Check, LLC runs the auction; the county page points to its FAQ for bidding rules.",
+          "source_url": "https://www.manisteecountymi.gov/264/Foreclosed-Property",
+          "quote": "Friday, October 30, 2026 - No reserve auction (if any) (Sealed bids due by 7:00 PM)"
+        }
+      ],
+      "next_sale_note": "The August 27 minimum bid auction and September 25 re-offer round have passed; the no reserve round (if any parcels remain) closes October 30, 2026, with awards November 2, 2026.",
+      "how_to_bid": "Online only, through Title Check, LLC's Tax-Sale.info site; the county page refers bidders to the auction FAQ for how to bid and who can bid. Deposit, registration and payment terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.manisteecountymi.gov/264/Foreclosed-Property",
+          "read_on": "2026-10-28",
+          "terms": "Copyright page read: 'All content © 2006-2026 Manistee County, MI and its representatives. All rights reserved.' No clause on reuse, redistribution, commercial use or automated access. Copyright-only; restate facts only.",
+          "terms_url": "https://www.manisteecountymi.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.manisteecountymi.gov/264/Foreclosed-Property",
+          "quote": "Thursday, August 27, 2026 - Minimum bid auction (10:00 AM to 7:00 PM)"
+        },
+        {
+          "url": "https://www.manisteecountymi.gov/264/Foreclosed-Property",
+          "quote": "Monday, November 2, 2026 - No reserve auction bids awarded"
+        },
+        {
+          "url": "https://www.manisteecountymi.gov/264/Foreclosed-Property",
+          "quote": "Title Check, LLC, handles the auction process for Manistee County."
+        }
+      ]
+    },
+    {
+      "county": "Mason",
+      "slug": "mason",
+      "office": "Mason County Treasurer",
+      "phone": "231-843-8411",
+      "address": "Not stated for the Treasurer on the page",
+      "website": "https://www.masoncounty.net/departments/treasurer/foreclosed_property_sales.php",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Tax-Sale.info (Title-Check LLC)",
+        "url": "https://www.tax-sale.info/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-30",
+          "time": "10:00 am to 7:00 pm EDT",
+          "label": "No reserve public auction (Round 2)",
+          "deposit": "Not stated on the county page",
+          "registration_deadline": "Not stated; the page says all bids must be placed in advance",
+          "note": "Online through Title-Check LLC's site. The county page says winning bids will be awarded 12:00 pm Monday, November 2, 2026.",
+          "source_url": "https://www.masoncounty.net/departments/treasurer/foreclosed_property_sales.php",
+          "quote": "Bidding is available 10:00 am to 7:00 pm EDT on Friday, October 30, 2026."
+        }
+      ],
+      "next_sale_note": "Round 2 (no reserve) runs October 30, 2026; no 2027 date is posted.",
+      "how_to_bid": "Online through Title-Check LLC at Tax-Sale.info, where property information is posted. The county page says all bids must be placed in advance. Deposit, minimum bid and payment terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.masoncounty.net/departments/treasurer/foreclosed_property_sales.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer has a '© 2026 by Mason County, MI' line and a 'Disclaimer of Privacy Policy' link that points to google.com rather than a county page, so no county terms or disclaimer could be read. Copyright-only; restate facts only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.masoncounty.net/departments/treasurer/foreclosed_property_sales.php",
+          "quote": "will be offered at a no reserve public auction on Friday, October 30, 2026."
+        },
+        {
+          "url": "https://www.masoncounty.net/departments/treasurer/foreclosed_property_sales.php",
+          "quote": "Winning bids will be awarded 12:00 pm Monday, November 2, 2026."
+        },
+        {
+          "url": "https://www.masoncounty.net/departments/treasurer/foreclosed_property_sales.php",
+          "quote": "All bids must be placed in advance."
+        }
+      ]
     }
   ]
 }

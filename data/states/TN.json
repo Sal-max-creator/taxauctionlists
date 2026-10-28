@@ -676,6 +676,160 @@
           "quote": "Please be aware the Redemption Period has been reduced to 90 days beginning July 1, 2026."
         }
       ]
+    },
+    {
+      "county": "Anderson",
+      "slug": "anderson",
+      "office": "Anderson County Clerk & Master (Chancery Court)",
+      "phone": "(865) 457-6205",
+      "address": "Anderson County Courthouse, 100 North Main Street, Suite 308, Clinton, TN 37716",
+      "website": "https://andersoncountyclerkandmaster.com/delinquent-taxes/",
+      "sale_type": "redeemable deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The Clerk & Master's most recent posted notice was for an online sale on Thursday, November 6, 2025 at 10:30 a.m. EST, with pre-registration on GovEase required; no later date posted.",
+      "how_to_bid": "Delinquent tax suits for Anderson County and the cities of Oak Ridge, Clinton, Oliver Springs, Norris and Rocky Top are filed in Chancery Court, and the Clerk and Master collects the delinquent taxes and, if necessary, auctions the property. The last posted sale was an online auction that required pre-registration on GovEase. Deposit, payment and redemption terms are not stated on the county pages.",
+      "sources": [
+        {
+          "url": "https://andersoncountyclerkandmaster.com/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer reads 'All Rights Reserved. © 2014-2026. | Website Design by T2 Design.' Copyright only, no reuse restriction found.",
+          "terms_url": "https://andersoncountyclerkandmaster.com/"
+        },
+        {
+          "url": "https://andersoncountyclerkandmaster.com/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer reads 'All Rights Reserved. © 2014-2026. | Website Design by T2 Design.' Copyright only, no reuse restriction found.",
+          "terms_url": "https://andersoncountyclerkandmaster.com/"
+        },
+        {
+          "url": "https://andersoncountytn.gov/clerk-and-master/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link; footer reads 'Copyright 2026 Anderson County Tennessee | All Rights Reserved | Powered by PDS Web Development'. Copyright only, no reuse restriction found.",
+          "terms_url": "https://andersoncountytn.gov/clerk-and-master/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://andersoncountyclerkandmaster.com/delinquent-taxes/",
+          "quote": "the Clerk and Master collects the delinquent taxes, plus statutory interest and penalty"
+        },
+        {
+          "url": "https://andersoncountyclerkandmaster.com/",
+          "quote": "This involves the collection of the delinquent taxes and if necessary, the auction of property as a result of nonpayment."
+        }
+      ]
+    },
+    {
+      "county": "Jefferson",
+      "slug": "jefferson",
+      "office": "Jefferson County Clerk and Master (Chancery Court)",
+      "phone": "865-397-2404",
+      "address": "202 W. Main Street, Suite 207, Dandridge, TN 37725 (mailing: PO Box 5, Dandridge, TN 37725)",
+      "website": "https://jeffersoncountytn.gov/chancery-court/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted. The page says the Delinquent Tax Attorney sets the sale date, not more than once a year, and the parcel list is published in the Standard Banner 30 to 45 days before the sale.",
+      "how_to_bid": "The Trustee files unpaid real property taxes with the Chancery Court each April 1, and all tax sales are handled by the Clerk and Master. The sale is a public auction at the Courthouse; bidders must appear in person and register as a bidder before the sale. Payment is due the day of the sale by cash, cashier's check or personal check. Bidders are responsible for investigating the property. The page states the owner has 1 year from the Chancery Court's confirmation of the sale to redeem, and a redeemed buyer receives the bid amount plus 1% per year plus any additional taxes paid. No deposit is stated.",
+      "sources": [
+        {
+          "url": "https://jeffersoncountytn.gov/chancery-court/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer reads 'Copyright of Jefferson County TN 2026, all rights reserved.' Copyright only, no reuse restriction found.",
+          "terms_url": "https://jeffersoncountytn.gov/chancery-court/"
+        },
+        {
+          "url": "https://jeffersoncountytn.gov/county-trustee/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer reads 'Copyright of Jefferson County TN 2026, all rights reserved.' Copyright only, no reuse restriction found.",
+          "terms_url": "https://jeffersoncountytn.gov/county-trustee/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://jeffersoncountytn.gov/county-trustee/",
+          "quote": "All tax sales are handled by the Clerk and Master of Jefferson County."
+        },
+        {
+          "url": "https://jeffersoncountytn.gov/chancery-court/",
+          "quote": "a public auction, held at the Courthouse"
+        }
+      ]
+    },
+    {
+      "county": "Tipton",
+      "slug": "tipton",
+      "office": "Tipton County Clerk & Master (Chancery Court)",
+      "phone": "901-476-0209",
+      "address": "Justice Center, 1801 S College St, Ste 110, Covington, TN 38019",
+      "website": "https://tiptonco.com/government/courts/chancery/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted. The Trustee's FAQ says tax sales are advertised in The Leader at least 20 days before the sale, with the property list published about 1 to 2 weeks before; registration and bidding questions go to Chancery Court at 901-476-0209.",
+      "how_to_bid": "Delinquent balances not paid by March 31 are filed in Chancery Court, which conducts the tax sale, an auction of parcels with delinquent taxes. The list is published once in The Leader about 1 to 2 weeks before the sale and is also available from Chancery Court. Registration, payment type and bidding rules are not stated; call Chancery Court at 901-476-0209. The FAQ states the buyer cannot take possession until one year after the confirmation of sale is filed, earning 10 percent annually during that period, and receives a receipt at the sale and a deed from the county's tax attorney at the end of redemption.",
+      "sources": [
+        {
+          "url": "https://tiptonco.com/government/courts/chancery/",
+          "read_on": "2026-10-28",
+          "terms": "Terms of Use (read) contains only accuracy and liability disclaimers, e.g. 'Tipton County Government cannot guarantee the accuracy of this information.' and 'All materials appearing herein are transmitted \"as is\" without warranty of any kind'. No reuse, redistribution or automated-access restriction found.",
+          "terms_url": "https://tiptonco.com/government/terms_of_use/index.php"
+        },
+        {
+          "url": "https://tiptonco.com/government/trustee/faq/index.php",
+          "read_on": "2026-10-28",
+          "terms": "Terms of Use (read) contains only accuracy and liability disclaimers, e.g. 'Tipton County Government cannot guarantee the accuracy of this information.' and 'All materials appearing herein are transmitted \"as is\" without warranty of any kind'. No reuse, redistribution or automated-access restriction found.",
+          "terms_url": "https://tiptonco.com/government/terms_of_use/index.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://tiptonco.com/government/trustee/faq/index.php",
+          "quote": "The new owner cannot take possession of the property until one year from the date the confirmation of sale is filed."
+        }
+      ]
+    },
+    {
+      "county": "Loudon",
+      "slug": "loudon",
+      "office": "Loudon County Clerk & Master (Chancery Court)",
+      "phone": "(865) 458-2630",
+      "address": "601 Grove Street, P.O. Box 509, Loudon, TN 37774",
+      "website": "https://www.loudoncountychancery.com/tax_sale_active.html",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-10-18",
+          "time": null,
+          "label": "Tax sale",
+          "note": "Time, place, registration and payment terms are not stated on the page; check back closer to the date or call the Clerk & Master's office.",
+          "source_url": "https://www.loudoncountychancery.com/tax_sale_active.html",
+          "quote": "Our next tax sale will be Monday, October 18, 2027."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Not stated on the Clerk & Master's tax sale page beyond the date; office hours are Mon-Fri, 8:00 am to 4:30 pm. Delinquent taxes can be paid through the office's online payment portal.",
+      "sources": [
+        {
+          "url": "https://www.loudoncountychancery.com/tax_sale_active.html",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found; footer reads only 'Loudon County, Tennessee Clerk & Master of Chancery Court' with no terms, disclaimer or copyright link.",
+          "terms_url": "https://www.loudoncountychancery.com/tax_sale_active.html"
+        }
+      ]
     }
   ]
 }

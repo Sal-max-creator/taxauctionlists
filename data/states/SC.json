@@ -651,6 +651,117 @@
           "quote": "Payment must be made in full with cash, money order, or certified funds by 4:00 PM on the day of the sale."
         }
       ]
+    },
+    {
+      "county": "Cherokee",
+      "slug": "cherokee",
+      "office": "Cherokee County Delinquent Tax Office",
+      "phone": "864-487-2541",
+      "address": "110 Railroad Ave., Gaffney, SC 29340",
+      "website": "https://cherokeecountysc.gov/delinquent-tax/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-09",
+          "time": "10:00 AM",
+          "label": "Delinquent tax sale",
+          "deposit": "None stated; the full bid is due in cash, cashier's check or money order by 5:00 pm the day of the sale",
+          "registration_deadline": "Pre-registration required; 'REGISTRATION WILL END 11/5/26'. A valid driver's license is required.",
+          "register_by": "2026-11-05",
+          "list_url": "https://cherokeecountysc.gov/wp-content/uploads/2026/10/ORIGINAL-ADVERTISING-LEDGER-10-15-26.pdf",
+          "list_note": "County 'Tax Sale List' PDF (advertising ledger dated 10-15-26) linked from the Delinquent Tax page; parcels paid before the sale drop off.",
+          "note": "Held at 110 Railroad Ave, Gaffney SC 29340. Properties are sold as-is and all sales are final.",
+          "source_url": "https://cherokeecountysc.gov/wp-content/uploads/2026/10/DOC008-2.pdf",
+          "quote": "THE CHEROKEE COUNTY, SC, DELINQUENT TAX SALE IS SCHEDULED FOR MONDAY, NOVEMBER 9, 2026, AT 10:00 am"
+        }
+      ],
+      "next_sale_note": "Sale set for Monday, November 9, 2026 at 10:00 am; bidder registration ends 11/5/26.",
+      "how_to_bid": "You must pre-register to bid, with a valid driver's license; registration ends 11/5/26. The successful bidder must pay the full bid in legal tender (cash, cashier's check or money order) to the County Tax Collector by 5:00 pm the day of the sale; a bidder who fails to pay is liable for $500.00 per bid. Properties are sold as-is and all sales are final; the county strongly encourages bidders to seek legal advice first.",
+      "sources": [
+        {
+          "url": "https://cherokeecountysc.gov/delinquent-tax/",
+          "read_on": "2026-10-28",
+          "terms": "Footer 'Web Policy' (Cherokee County Web Policy and Privacy Policy PDF) read: says linking is permitted under limited conditions (no false or misleading portrayal, no implied endorsement) and that the site is provided 'as is' without warranty; no copyright, reuse, redistribution, commercial-use or automated-access restriction found.",
+          "terms_url": "https://cherokeecountysc.gov/wp-content/uploads/2025/02/Cherokee-County-Web-Policy-and-Privacy-Policy.pdf"
+        },
+        {
+          "url": "https://cherokeecountysc.gov/wp-content/uploads/2026/10/DOC008-2.pdf",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://cherokeecountysc.gov/wp-content/uploads/2025/02/Cherokee-County-Web-Policy-and-Privacy-Policy.pdf"
+        },
+        {
+          "url": "https://cherokeecountysc.gov/wp-content/uploads/2026/10/DOC009-2.pdf",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://cherokeecountysc.gov/wp-content/uploads/2025/02/Cherokee-County-Web-Policy-and-Privacy-Policy.pdf"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://cherokeecountysc.gov/wp-content/uploads/2026/10/DOC009-2.pdf",
+          "quote": "REGISTRATION WILL END 11/5/26"
+        },
+        {
+          "url": "https://cherokeecountysc.gov/wp-content/uploads/2026/10/DOC009-2.pdf",
+          "quote": "Bidder registration requires a valid driver's license."
+        },
+        {
+          "url": "https://cherokeecountysc.gov/wp-content/uploads/2026/10/DOC009-2.pdf",
+          "quote": "If the successful bidder fails to remit the tax bid, he or she is then liable for $500.00 per bid"
+        },
+        {
+          "url": "https://cherokeecountysc.gov/delinquent-tax/",
+          "quote": "Personal checks will not be accepted."
+        }
+      ]
+    },
+    {
+      "county": "Union",
+      "slug": "union",
+      "office": "Union County Delinquent Tax Collector's Office",
+      "phone": "(864) 429-1617",
+      "address": "203 West Main Street, Union, SC 29379",
+      "website": "https://gearupunionsc.com/departments/delinquent-tax-office/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-10",
+          "time": "not stated",
+          "label": "Annual tax sale",
+          "deposit": "not stated",
+          "registration_deadline": "Bidders must register through the Delinquent Tax Office, in person or by email, before the day of the sale; no registration on sale day.",
+          "note": "Held at the Union County Elections Office, 1246 S Duncan By-Pass, Union, SC 29379.",
+          "source_url": "https://gearupunionsc.com/departments/delinquent-tax-office/",
+          "quote": "The next Annual Tax Sale is scheduled for November 10, 2026"
+        }
+      ],
+      "next_sale_note": "Annual tax sale set for November 10, 2026 at the Union County Elections Office; start time not stated, so call the Delinquent Tax Office to confirm.",
+      "how_to_bid": "Register with the Delinquent Tax Office during the pre-registration period, in person or by email, before the day of the sale; registration is not available on sale day under any circumstances. The sale is held at the Union County Elections Office, 1246 S Duncan By-Pass, Union. Sale-day payment terms are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://gearupunionsc.com/departments/delinquent-tax-office/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the footer; footer reads 'Copyright ©2026 Union County, SC | Website by: OSLA Agency' (vendor credit only, no vendor terms link). No reuse restriction found.",
+          "terms_url": "https://gearupunionsc.com/departments/delinquent-tax-office/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://gearupunionsc.com/departments/delinquent-tax-office/",
+          "quote": "bidders must register through the Delinquent Tax Office BEFORE the day of the sale"
+        },
+        {
+          "url": "https://gearupunionsc.com/departments/delinquent-tax-office/",
+          "quote": "Registration will not be available on the day of the sale under any circumstances."
+        }
+      ]
     }
   ]
 }

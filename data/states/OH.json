@@ -1224,6 +1224,167 @@
           "quote": "No deposit will be less than $1,000.00."
         }
       ]
+    },
+    {
+      "county": "Logan",
+      "slug": "logan",
+      "office": "Logan County Sheriff's Office (Sheriff Sales)",
+      "phone": "937-592-5781 (Sheriff Sales)",
+      "address": "284 County Road 32 S, Bellefontaine, OH 43311",
+      "website": "https://www.logancountyohio.gov/sheriff-sales.html",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": {
+        "name": "RealAuction (bank foreclosures only, not tax foreclosures)",
+        "url": "https://logan.sheriffsaleauction.ohio.gov/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-18",
+          "time": "10 a.m. (the Sheriff Sales page says tax foreclosure sales are held Wednesdays at 10 a.m.; the list itself prints no time)",
+          "label": "Sheriff sale, tax foreclosures (Logan County Treasurer as plaintiff, in person)",
+          "deposit": "10% of the final price at the sale, in cash, certified check or bank money order payable to the Logan County Sheriff",
+          "registration_deadline": "not stated (the page says there is no prior registration; bid in person)",
+          "list_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+          "list_note": "The Sheriff's current sale list. Two of its listings for this date name the Logan County Treasurer as plaintiff and sell in person; the others are online bank foreclosures.",
+          "note": "Held in the lobby of the Logan County Sheriff's Office, 284 County Road 32 S, Bellefontaine. The same list shows a 12/16/2026 date for an online mortgage foreclosure only (not a tax sale), so it is not listed here.",
+          "source_url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+          "quote": "Sale Date 11/18/2026"
+        }
+      ],
+      "next_sale_note": "Tax foreclosure sales are held in person on Wednesdays at 10 a.m. in the Sheriff's Office lobby; the current list shows tax foreclosure parcels for November 18, 2026.",
+      "how_to_bid": "Tax foreclosures (Treasurer as plaintiff) are sold in person in the lobby of the Logan County Sheriff's Office, 284 County Road 32 S, Bellefontaine. You or a representative must attend and bid in person; prior or sealed bids are not accepted and there is no prior registration. Starting bids are the full amount of the judgment. The buyer pays 10% of the final price at the sale (cash, certified check or bank money order payable to the Logan County Sheriff) with a completed Purchaser Information Form and a property tax payment history affidavit; if the deposit is not paid the property is resold on the spot. Current-year taxes follow the property. Bank foreclosures are sold separately online through RealAuction.",
+      "sources": [
+        {
+          "url": "https://www.logancountyohio.gov/sheriff-sales.html",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the Logan County site footer shows only 'Site powered by Berry Digital Solutions, LLC' and Home, Contact Us and Employees links; no terms, disclaimer, privacy or copyright link or text.",
+          "terms_url": "https://www.logancountyohio.gov/"
+        },
+        {
+          "url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the Logan County site footer shows only 'Site powered by Berry Digital Solutions, LLC' and Home, Contact Us and Employees links; no terms, disclaimer, privacy or copyright link or text.",
+          "terms_url": "https://www.logancountyohio.gov/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.logancountyohio.gov/sheriff-sales.html",
+          "quote": "All starting bids are the full amount of the judgment."
+        },
+        {
+          "url": "https://www.logancountyohio.gov/uploads/1/4/9/5/149562150/currentsales_10-27-26.pdf",
+          "quote": "*Judgment = the minimum bid on tax foreclosure sales ONLY."
+        }
+      ]
+    },
+    {
+      "county": "Darke",
+      "slug": "darke",
+      "office": "Darke County Sheriff's Office (Sheriff Sales; county tax sales)",
+      "phone": "(937) 547-4603 (county tax sales, Mon-Fri 8 AM-4 PM); (937) 548-2020 (Sheriff's Office non-emergency)",
+      "address": "5185 County Home Rd, Greenville, OH 45331 (Sheriff's Office); tax sales at the Darke County Commissioners building, 520 S Broadway, Greenville, OH 45331",
+      "website": "https://www.darkecountysheriff.org/sheriffsales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": {
+        "name": "RealAuction (mortgage foreclosures only, not tax sales)",
+        "url": "https://darke.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated tax sale is shown on the Sheriff's sales page; it says county tax sales are still held in person at the Commissioners building until further notice and that a current list is available, but gives no date or link.",
+      "how_to_bid": "County tax (Treasurer's) sales are held in person, until further notice, at the Darke County Commissioners building, 520 S Broadway, Greenville. The successful bidder must deposit 15% of the purchase price on the day of the sale. Sales are advertised in the Early Bird newspaper for at least three consecutive weeks; the office does not mail property lists. Mortgage foreclosures are sold separately online through RealAuction on Fridays. Registration rules for tax sales are not stated.",
+      "sources": [
+        {
+          "url": "https://www.darkecountysheriff.org/sheriffsales",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the Sheriff's site footer shows only '© COPYRIGHT 2026 | ALL RIGHTS RESERVED | DARKE COUNTY OHIO SHERIFFS OFFICE' (copyright only) and an employee webmail link; no terms, disclaimer or privacy link.",
+          "terms_url": "https://www.darkecountysheriff.org/sheriffsales"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.darkecountysheriff.org/sheriffsales",
+          "quote": "The successful bidder must deposit 15% of purchase price the day of the sale."
+        }
+      ]
+    },
+    {
+      "county": "Washington",
+      "slug": "washington",
+      "office": "Washington County Sheriff's Office (Sheriff's Auctions)",
+      "phone": "(740) 376-7070 ext. 0",
+      "address": "309 Fourth Street, Marietta, OH 45750 (Sheriff's Office); tax sales at the Washington County Courthouse, 205 Putnam Street, Marietta, OH 45750",
+      "website": "https://washingtoncountysheriff.org/sheriffs-auctions",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": {
+        "name": "RealAuction (mortgage foreclosures only, not tax sales)",
+        "url": "https://washington.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated tax sale is posted on the Sheriff's Auctions page; it says properties sold for delinquent taxes continue to be sold on location at the Courthouse until further notice, with dates given in the newspaper advertisements.",
+      "how_to_bid": "Properties sold for delinquent taxes are sold in person at the Washington County Courthouse, 205 Putnam Street, Marietta, until further notice. For tax foreclosures the down payment is generally the minimum bid, paid on sale day by certified check or money order; the balance is due at confirmation by certified check or money order (no personal checks). Other sheriff's sales run online through RealAuction on Fridays at 9:00 a.m. Registration rules for tax sales are not stated.",
+      "sources": [
+        {
+          "url": "https://washingtoncountysheriff.org/sheriffs-auctions",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the Sheriff's site footer shows the office name, address, phone and links (SCAM Information, Community Events, Road Closures, Sex Offenders, Sheriff's Auctions, Active Warrants); no terms, disclaimer, privacy or copyright link or text.",
+          "terms_url": "https://washingtoncountysheriff.org/sheriffs-auctions"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://washingtoncountysheriff.org/sheriffs-auctions",
+          "quote": "Properties sold for delinquent taxes and Probate sales will continue to be sold on location"
+        }
+      ]
+    },
+    {
+      "county": "Huron",
+      "slug": "huron",
+      "office": "Huron County Sheriff's Office (Civil Office, Sheriff's Sales)",
+      "phone": "419-668-6912 (ask for the Civil Office)",
+      "address": "not stated on the sheriff's sale page",
+      "website": "https://huroncountysheriff.com/sheriffs-sale/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (Official Public Sheriff's Sale Website)",
+        "url": "https://huron.sheriffsaleauction.ohio.gov"
+      },
+      "schedule_rule": "Huron County Sheriff Office online foreclosure sales are Mondays at 10:00 AM.",
+      "sales": [],
+      "next_sale_note": "No dated tax sale is posted on the Sheriff's page; sale listings are on the RealAuction site, and the Civil Office gives updated sale information by phone.",
+      "how_to_bid": "Sheriff's sales are held online through RealAuction; register and place a deposit online before bidding. The page says tax sale deposits are based on the judgment amount listed for each sale. The balance is due upon confirmation, by bank certified check or money order payable to the Huron County Sheriff's Office (no personal, company or home equity checks, no cash); an unpaid balance forfeits the deposit. Sales are buyer beware and some liens may survive the sale.",
+      "sources": [
+        {
+          "url": "https://huroncountysheriff.com/sheriffs-sale/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the Sheriff's site footer shows only the credit 'This site was designed and is maintained by Kyle Knight Media, D.B.A.'; no terms, disclaimer, privacy or copyright link. The FAQ page carries a not-legal-advice disclaimer only.",
+          "terms_url": "https://huroncountysheriff.com/sheriffs-sale-faq/"
+        },
+        {
+          "url": "https://huroncountysheriff.com/sheriffs-sale-faq/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the Sheriff's site footer shows only the credit 'This site was designed and is maintained by Kyle Knight Media, D.B.A.'; no terms, disclaimer, privacy or copyright link. The FAQ page carries a not-legal-advice disclaimer only.",
+          "terms_url": "https://huroncountysheriff.com/sheriffs-sale-faq/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://huroncountysheriff.com/sheriffs-sale/",
+          "quote": "Huron County Sheriff Office online foreclosure sales are Mondays at 10:00 AM."
+        },
+        {
+          "url": "https://huroncountysheriff.com/sheriffs-sale-faq/",
+          "quote": "Sales are buyer beware."
+        }
+      ]
     }
   ]
 }

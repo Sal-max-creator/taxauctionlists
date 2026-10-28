@@ -1274,6 +1274,122 @@
           "quote": "The judicial bid price is set by the Bureau and includes any costs incurred."
         }
       ]
+    },
+    {
+      "county": "Mifflin",
+      "slug": "mifflin",
+      "office": "Mifflin County Tax Claim Bureau",
+      "phone": "717-248-6733 (County of Mifflin number shown on the Tax Claim pages)",
+      "address": "20 North Wayne Street, Lewistown, PA 17044",
+      "website": "https://mifflincountypa.gov/tax-claim/judicial-sale",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-01-11",
+          "time": "7:00 PM",
+          "label": "2027 Judicial Sale",
+          "deposit": "not stated",
+          "registration_deadline": "Bidder registration December 7-18, 2026; all forms must be submitted in person by the bidder by the cut-off date",
+          "register_by": "2026-12-18",
+          "note": "Place of sale not stated on the Judicial Sale page. The county links a judicial sale list and minimum bids, not copied here.",
+          "source_url": "https://mifflincountypa.gov/tax-claim/judicial-sale",
+          "quote": "January 11, 2027 @ 7:00 p.m."
+        }
+      ],
+      "next_sale_note": "2027 Judicial Sale January 11, 2027 at 7:00 p.m.; bidder registration December 7-18, 2026. Place not stated on the page.",
+      "how_to_bid": "Properties not sold at the Upset Sale are offered at the Judicial Sale, which is free and clear of all tax and municipal claims, mortgages, liens and charges, and estates of whatever kind, except ground rents separately taxed. All prospective bidders must preregister: submit a Bidder Registry Form, a copy of photo ID, the Sale Conditions and Instructions, and a signed, notarized Affidavit of Bidder, in person by the bidder, by the registration cut-off date (December 7-18, 2026 for the January 2027 sale); no registrations are accepted after the cut-off. Deposit, payment terms and sale location: not stated.",
+      "sources": [
+        {
+          "url": "https://mifflincountypa.gov/tax-claim/judicial-sale",
+          "read_on": "2026-10-28",
+          "terms": "No terms of use, disclaimer or privacy link found: the Judicial Sale page footer shows only '© 2026 Mifflin County' plus a webmaster contact and staff email link. Copyright-only; no reuse restriction found."
+        },
+        {
+          "url": "https://mifflincountypa.gov/getmedia/f2826d3b-6089-41dd-a300-1127038e2c20/Pre-Registration-Requirements",
+          "read_on": "2026-10-28",
+          "terms": "No terms of use, disclaimer or privacy link found: the Judicial Sale page footer shows only '© 2026 Mifflin County' plus a webmaster contact and staff email link. Copyright-only; no reuse restriction found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://mifflincountypa.gov/tax-claim/judicial-sale",
+          "quote": "2027 JUDICIAL SALE"
+        },
+        {
+          "url": "https://mifflincountypa.gov/tax-claim/judicial-sale",
+          "quote": "Bidder Registration: December 7-18, 2026"
+        },
+        {
+          "url": "https://mifflincountypa.gov/tax-claim/judicial-sale",
+          "quote": "Properties not sold at the Upset Sale will then be offered at the Judicial Sale, which is free and clear"
+        },
+        {
+          "url": "https://mifflincountypa.gov/getmedia/f2826d3b-6089-41dd-a300-1127038e2c20/Pre-Registration-Requirements",
+          "quote": "ALL Prospective Bidders are required to preregister."
+        },
+        {
+          "url": "https://mifflincountypa.gov/getmedia/f2826d3b-6089-41dd-a300-1127038e2c20/Pre-Registration-Requirements",
+          "quote": "NO registrations will be accepted after the cut-off date. NO EXCEPTIONS!!!"
+        }
+      ]
+    },
+    {
+      "county": "Carbon",
+      "slug": "carbon",
+      "office": "Carbon County Tax Claim Bureau",
+      "phone": "(570) 325-3635",
+      "address": "County Administration Building, 2 Hazard Square, 1st Floor, P.O. Box 37, Jim Thorpe, PA 18229-0037",
+      "website": "https://www.carboncountypa.gov/services/tax_claim_bureau/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-07",
+          "end_date": "2026-12-18",
+          "time": "not stated",
+          "label": "Repository sealed-bid period (tentative)",
+          "deposit": "not stated (the notice says deposits are returned to unsuccessful bidders)",
+          "registration_deadline": "not stated; sealed bids accepted December 7 to December 18, 2026",
+          "note": "The county calls these dates tentative and subject to change. Sealed bids will be opened the week of December 21, 2026. A revised Repository list is available starting January 4, 2027, with bids accepted first come, first served through June 30, 2027 (also tentative).",
+          "source_url": "https://www.carboncountypa.gov/Document%20Center/Service/Tax%20Claim%20Bureau/2026/Repository/repository%20list%20dates%202026%20and%202027.pdf",
+          "quote": "TENTATIVE December 7, 2026 to December 18, 2026 – sealed bidding conducted on updated list:"
+        }
+      ],
+      "next_sale_note": "Repository sealed bidding Dec 7-18, 2026 (tentative), bids opened the week of Dec 21, 2026; first-come, first-served bidding Jan 4 to Jun 30, 2027 (tentative).",
+      "how_to_bid": "Repository (unsold) properties: sealed bids are accepted on the updated Repository list during the posted period (tentatively December 7 to December 18, 2026) and opened the week of December 21, 2026; deposits are returned to unsuccessful bidders. From January 4, 2027 a revised list is available and bids are accepted first come, first served (tentatively through June 30, 2027). Dates are tentative and subject to change. Deposit amount, minimum bids and registration requirements: not stated in the notice.",
+      "sources": [
+        {
+          "url": "https://www.carboncountypa.gov/services/tax_claim_bureau/",
+          "read_on": "2026-10-28",
+          "terms": "Terms of Use page read: copyright notice ('All contents of the Carbon County website are: Copyright © 2014-2016', 'All rights reserved.', 'Any rights not expressly granted herein are reserved.'), plus sections on submissions, liability disclaimer, termination/access restriction, trademarks and copyright-claim procedure. No personal or noncommercial-only clause and nothing on reuse, redistribution, resale or automated access. Copyright-only; no reuse restriction found.",
+          "terms_url": "https://www.carboncountypa.gov/how_do_i/view/terms_of_use.php"
+        },
+        {
+          "url": "https://www.carboncountypa.gov/Document%20Center/Service/Tax%20Claim%20Bureau/2026/Repository/repository%20list%20dates%202026%20and%202027.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Terms of Use page read: copyright notice ('All contents of the Carbon County website are: Copyright © 2014-2016', 'All rights reserved.', 'Any rights not expressly granted herein are reserved.'), plus sections on submissions, liability disclaimer, termination/access restriction, trademarks and copyright-claim procedure. No personal or noncommercial-only clause and nothing on reuse, redistribution, resale or automated access. Copyright-only; no reuse restriction found.",
+          "terms_url": "https://www.carboncountypa.gov/how_do_i/view/terms_of_use.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.carboncountypa.gov/Document%20Center/Service/Tax%20Claim%20Bureau/2026/Repository/repository%20list%20dates%202026%20and%202027.pdf",
+          "quote": "Sealed bids will be accepted on the updated Repository list from December 7th to December 18th."
+        },
+        {
+          "url": "https://www.carboncountypa.gov/Document%20Center/Service/Tax%20Claim%20Bureau/2026/Repository/repository%20list%20dates%202026%20and%202027.pdf",
+          "quote": "Sealed bids will be opened the week of December 21, 2026."
+        },
+        {
+          "url": "https://www.carboncountypa.gov/Document%20Center/Service/Tax%20Claim%20Bureau/2026/Repository/repository%20list%20dates%202026%20and%202027.pdf",
+          "quote": "A revised Repository list will be available starting January 4, 2027."
+        }
+      ]
     }
   ]
 }

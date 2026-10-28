@@ -808,6 +808,177 @@
           "quote": "State Assurance Fee 3% of total sale value"
         }
       ]
+    },
+    {
+      "county": "Pine",
+      "slug": "pine",
+      "office": "Pine County Land Department",
+      "phone": "320-216-4226",
+      "address": "1610 State Hwy 23 N, Sandstone, MN 55072",
+      "website": "https://www.pinecountymn.gov/departments/land/tax_forfeited_land_for_sale.php",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "MNBid",
+        "url": "https://mnbid.mn.gov/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-20",
+          "end_date": "2026-10-29",
+          "time": "not stated",
+          "label": "Second re-offered tax-forfeited land auction at minimum bid (MNBid online)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Already open. Tracts that did not sell at the September appraised-value auction are re-offered at minimum bid. Payment in full is required; contract for deed is not an option in the 2026 auctions.",
+          "source_url": "https://www.pinecountymn.gov/departments/land/tax_forfeited_land_for_sale.php",
+          "quote": "MNBid Online Auction: October 20-29, 2026 (Second Re-offered Auction @ Minimum Bid)"
+        }
+      ],
+      "next_sale_note": "The October 20-29, 2026 online re-offer auction closes Oct. 29. No later sale date is posted.",
+      "how_to_bid": "Bidding on land auction tracts takes place on the MNBid website; the county page links each tract's MNBid listing. All tracts are sold as-is and must be bought at or above the stated value for the tract (EMV, appraised value or minimum bid). For the 2026 auctions payment in full is required and contract for deed is not offered. Questions go to the Land Department at 320-216-4226.",
+      "sources": [
+        {
+          "url": "https://www.pinecountymn.gov/departments/land/tax_forfeited_land_for_sale.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the site footer (revize CMS) has no terms, disclaimer, legal, copyright or privacy link. Nothing seen restricts reuse, commercial use or automated access."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pinecountymn.gov/departments/land/tax_forfeited_land_for_sale.php",
+          "quote": "Bidding on land auction tracts will take place on the MNBid website."
+        },
+        {
+          "url": "https://www.pinecountymn.gov/departments/land/tax_forfeited_land_for_sale.php",
+          "quote": "Payment in full is required for all tracts; Contract for deed is not an option in these 2026 land auctions."
+        },
+        {
+          "url": "https://www.pinecountymn.gov/departments/land/tax_forfeited_land_for_sale.php",
+          "quote": "MNBid Online Auction: September 18-28, 2026 (First Auction @ Appraised Value/EMV)"
+        }
+      ]
+    },
+    {
+      "county": "Benton",
+      "slug": "benton",
+      "office": "Benton County Auditor-Treasurer",
+      "phone": "320-968-5006",
+      "address": "531 Dewey Street, Foley, MN 56329",
+      "website": "https://www.bentoncountymn.gov/187/Tax-Forfeited-Properties",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county page lists one parcel (02.00350.20, 2.87 acres, minimum bid $11,500 plus fees) on Public Surplus from 8:00 AM November 9th through 7:00 PM November 16th, but gives no year, so it is not listed as a dated sale.",
+      "how_to_bid": "The county takes bids on tax-forfeited land on the Public Surplus auction website, where each parcel's terms and conditions of sale are posted. Parcels are first offered at the current estimated market value, sold as is with no viewings, and all sales are final. The buyer gets a certificate of sale at purchase and a state deed after full payment; a 3% state assurance fee is collected on the sale price. Deposit and payment method are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.bentoncountymn.gov/187/Tax-Forfeited-Properties",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Benton County, MN and its representatives. All rights reserved.' (CivicPlus copyright line too). Copyright-only; no ban on reuse, commercial use or automated access stated. Restate facts only.",
+          "terms_url": "https://www.bentoncountymn.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.bentoncountymn.gov/187/Tax-Forfeited-Properties",
+          "quote": "Benton County accepts bids for the purchase of tax-forfeited land on the Public Surplus auction website:"
+        },
+        {
+          "url": "https://www.bentoncountymn.gov/187/Tax-Forfeited-Properties",
+          "quote": "8:00AM on November 9th through 7:00PM on November 16th"
+        },
+        {
+          "url": "https://www.bentoncountymn.gov/187/Tax-Forfeited-Properties",
+          "quote": "All tax forfeited parcels are first offered for public auction at the current estimated market value."
+        },
+        {
+          "url": "https://www.bentoncountymn.gov/187/Tax-Forfeited-Properties",
+          "quote": "All sales are final, and no refunds or exchanges are permitted."
+        }
+      ]
+    },
+    {
+      "county": "Nobles",
+      "slug": "nobles",
+      "office": "Nobles County Auditor-Treasurer",
+      "phone": "507-295-5200",
+      "address": "Nobles County Government Center, 315 10th Street, Worthington, MN 56187",
+      "website": "https://www.co.nobles.mn.us/departments/auditor-treasurer/tax-forfeiture-property/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted on the county page; sale details appear in the county's sale or open-house flyers when a sale is scheduled.",
+      "how_to_bid": "Tax-forfeited parcels are offered at a public sale and sold to the highest bidder. To bid, complete the county's Land Sale Auction Registration Form and bring it on sale day or email it to the Auditor-Treasurer to get a bid number. The initial sale starts at estimated market value; parcels not sold then may later go to a minimum bid sale. Payment in full by money order or cashier's check is due by 3 p.m. on the day of the sale, plus a 3% surcharge, $25 state deed fee, $46 recording fee and deed tax. All sales are final and parcels are sold as is.",
+      "sources": [
+        {
+          "url": "https://www.co.nobles.mn.us/departments/auditor-treasurer/tax-forfeiture-property/",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer has only an accessibility policy and the line '© 2026 Nobles County Minnesota. All Rights Reserved.' (copyright-only). No ban on reuse, commercial use or automated access seen."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.nobles.mn.us/departments/auditor-treasurer/tax-forfeiture-property/",
+          "quote": "All Tax Forfeited Parcels are offered at a public sale and sold to the highest bidder."
+        },
+        {
+          "url": "https://www.co.nobles.mn.us/departments/auditor-treasurer/tax-forfeiture-property/",
+          "quote": "If you plan to attend and bid, please complete the Land Sale Auction Registration Form"
+        },
+        {
+          "url": "https://www.co.nobles.mn.us/departments/auditor-treasurer/tax-forfeiture-property/",
+          "quote": "The buyer must pay for the parcel by 3 p.m. of the day of the sale."
+        },
+        {
+          "url": "https://www.co.nobles.mn.us/departments/auditor-treasurer/tax-forfeiture-property/",
+          "quote": "All sales are final with no refunds or exchanges allowed."
+        }
+      ]
+    },
+    {
+      "county": "Big Stone",
+      "slug": "big-stone",
+      "office": "Big Stone County Auditor-Treasurer",
+      "phone": "320-839-6366",
+      "address": "20 2nd St. SE, Ortonville, MN 56278",
+      "website": "https://bigstonecounty.gov/departments/financeandgovernmentservices/auditor-treasurer/forfeited-land/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is shown on the county page; it links a 2026 notice of public sale of forfeited land. Parcels not sold at the public sale may be bought afterward at the appraised value.",
+      "how_to_bid": "Tax-forfeited lands are appraised and offered at a public sale to the highest bidder; the minimum acceptable bid is the appraised value. Sales are cash only with full payment at the time of sale, and all sales are final. Buyers also pay a 3% state assurance fee, deed tax of .33% (minimum $1.65), a $25 state deed fee and a $46 recording fee. The buyer gets a receipt at purchase and a state deed later. Time, place and bidding procedure are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://bigstonecounty.gov/departments/financeandgovernmentservices/auditor-treasurer/forfeited-land/",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the site footer has only home, sitemap, accessibility and contact links; no terms, disclaimer, privacy or copyright notice. Nothing seen restricts reuse, commercial use or automated access."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://bigstonecounty.gov/departments/financeandgovernmentservices/auditor-treasurer/forfeited-land/",
+          "quote": "All tax forfeited lands are appraised and offered at a public sale and sold to the highest bidder."
+        },
+        {
+          "url": "https://bigstonecounty.gov/departments/financeandgovernmentservices/auditor-treasurer/forfeited-land/",
+          "quote": "The minimum bid acceptable is the appraised value."
+        },
+        {
+          "url": "https://bigstonecounty.gov/departments/financeandgovernmentservices/auditor-treasurer/forfeited-land/",
+          "quote": "All sales shall be for “Cash Only” and full payment is required at the time of the sale."
+        }
+      ]
     }
   ]
 }

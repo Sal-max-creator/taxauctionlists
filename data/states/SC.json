@@ -974,6 +974,195 @@
           "quote": "This page contains required forms for the 2026 Delinquent Tax Sales."
         }
       ]
+    },
+    {
+      "county": "Abbeville",
+      "slug": "abbeville",
+      "office": "Abbeville County Delinquent Tax Collector",
+      "phone": "(864) 366-5312, ext. 54",
+      "address": "Abbeville County Admin. Complex, 903 W. Greenwood St., Suite 1100, Abbeville, SC 29620",
+      "website": "https://abbevillecountysc.com/delinquent-tax-collector/",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The tax sale is usually held every year on the first Monday in November.",
+      "sales": [],
+      "next_sale_note": "The county page gives only the usual schedule; no 2026 sale date, time or place is posted on the page read. Delinquent properties are advertised in The Press & Banner.",
+      "how_to_bid": "The county page does not state registration, deposit, payment or bidding rules; call the Delinquent Tax Collector. Delinquent properties are advertised in The Press & Banner. The owner may redeem by paying the person officially charged with collection, together with 3%, 6%, 9% or 12% interest.",
+      "sources": [
+        {
+          "url": "https://abbevillecountysc.com/delinquent-tax-collector/",
+          "read_on": "2026-10-28",
+          "terms": "Read the footer-linked Privacy Policy (https://abbevillecountysc.com/privacy-policy/): it covers personal data, cookies, analytics and ads only; footer reads '© Copyright Abbeville County, South Carolina. All rights reserved.' No terms, disclaimer or legal page linked; the page says its information is 'for informational purposes only'. No ban on reuse or redistribution found.",
+          "terms_url": "https://abbevillecountysc.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://abbevillecountysc.com/delinquent-tax-collector/",
+          "quote": "Properties classified as delinquent will be advertised in The Press & Banner."
+        },
+        {
+          "url": "https://abbevillecountysc.com/delinquent-tax-collector/",
+          "quote": "together with 3%, 6%, 9% or 12% interest"
+        }
+      ]
+    },
+    {
+      "county": "Calhoun",
+      "slug": "calhoun",
+      "office": "Calhoun County Tax Collector (Delinquent Tax)",
+      "phone": "(803) 874-4021",
+      "address": "102 Courthouse DR, Suite 103, St. Matthews, SC 29135",
+      "website": "https://calhouncounty.sc.gov/departments/tax-collector",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-09",
+          "time": "10:00 AM",
+          "label": "Calhoun County delinquent tax sale",
+          "deposit": "None stated; a non-refundable $10 registration fee applies, and all bids must be paid in full by 5:00 PM the same day",
+          "registration_deadline": "In-person bidder pre-registration from October 1, 2026 through November 6, 2026, 9 AM to 5 PM; no registration on the day of the sale.",
+          "register_by": "2026-11-06",
+          "note": "Held at the John Ford Community Center, 304 Agnes Street, Saint Matthews, SC 29135. Taxes had to be paid by Wednesday, October 14, 2026 to avoid advertising.",
+          "source_url": "https://calhouncounty.sc.gov/departments/tax-collector",
+          "quote": "The Calhoun County Delinquent Tax Sale will be held November 9, 2026 beginning at 10:00 AM at the John Ford Community Center"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Pre-register in person with the Tax Collector's Office between October 1 and November 6, 2026 (9 AM to 5 PM) and pay a non-refundable $10 registration fee; there is no registration on sale day. You must be present to bid. Properties are auctioned in the order advertised to the highest bidder; with no bid, the Forfeited Land Commission takes the property. All bids must be paid in full by 5:00 PM the same day by cash, cashier's check or money order. All sales are final and failure to comply draws a $500.00 fine. The owner has one year to redeem; interest runs 3%, 6%, 9% or 12% by quarter and may not exceed the bid. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://calhouncounty.sc.gov/departments/tax-collector",
+          "read_on": "2026-10-28",
+          "terms": "Site runs on the SC.GOV county platform; footer shows plain-text 'Copyright © State of South Carolina' and links only the SC.GOV Privacy & Security Policy (https://sc.gov/privacy-and-security-policy), which I read: it covers personal data collected from users, says the public has a right to access government records, and notes the Family Privacy Protection Act bars using personal information from state agencies for commercial solicitation (none used here). No ban on reuse, redistribution, commercial use or automated access found. The page's own Disclaimer section covers title risk and says the information is guidance, not legal advice.",
+          "terms_url": "https://sc.gov/privacy-and-security-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://calhouncounty.sc.gov/departments/tax-collector",
+          "quote": "A non-refundable $10 registration fee is due at the time of Bidder Registration."
+        },
+        {
+          "url": "https://calhouncounty.sc.gov/departments/tax-collector",
+          "quote": "All bids MUST be paid in full by 5:00 PM the same day of the tax sale with cash, Cashier’s Check or Money Order."
+        },
+        {
+          "url": "https://calhouncounty.sc.gov/departments/tax-collector",
+          "quote": "You must be present to bid."
+        }
+      ]
+    },
+    {
+      "county": "Jasper",
+      "slug": "jasper",
+      "office": "Jasper County Tax Collector (Delinquent Tax Collection)",
+      "phone": "843-717-3610",
+      "address": "358 Third Avenue Suite 110-B, Ridgeland, SC 29936 (P.O. Box 428)",
+      "website": "https://www.jaspercountysc.gov/services/taxes/delinquent-tax-collection/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "time": "10:00 AM",
+          "label": "Jasper County delinquent tax sale",
+          "deposit": "None stated; a non-refundable $25.00 registration fee applies, and all bids must be paid by 5:00 PM on the day of the sale",
+          "registration_deadline": "Online bidder registration began October 1, 2026; no closing date stated, but no registration or fees are accepted on the day of sale.",
+          "note": "Held at the Jasper County Farmer's Market, 9935 South Jacob Boulevard (Highway 17), half a mile south of downtown Ridgeland; runs from 10:00 a.m. until completion or 4:00 p.m. The sale list is not online; it is sold by the Tax Collector's Office and was advertised in the Jasper Sun Times.",
+          "source_url": "https://www.jaspercountysc.gov/services/taxes/delinquent-tax-collection/",
+          "quote": "The sale will be held Monday, November 2, 2026, at Jasper County Farmer's Market"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register online only (the office no longer takes registrations) and pay the non-refundable $25.00 fee when completing the form; no registration on sale day. Bidding is open, using your numbered bidder card; the auctioneer opens each parcel with a bid for the Forfeited Land Commission, and parcels go in the order of the newspaper ads. Pay by money order or certified funds only (no personal checks) by 5:00 p.m. on sale day. All sales are final. The owner may redeem within twelve months; interest runs 3%, 6%, 9% or 12% by quarter, not exceeding the opening bid. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://www.jaspercountysc.gov/services/taxes/delinquent-tax-collection/",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer shows only plain-text '© 2026 Jasper County' plus Sitemap, Log In, Facebook and a Govstack (website vendor) home link; the site's sitemap (https://www.jaspercountysc.gov/sitemap/) lists no terms, disclaimer, legal, copyright or privacy page; a cookie banner mentions a Privacy Policy without a link. No reuse restriction found.",
+          "terms_url": "https://www.jaspercountysc.gov/sitemap/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.jaspercountysc.gov/services/taxes/delinquent-tax-collection/",
+          "quote": "The registration fee is $25.00 per bidder and non-refundable."
+        },
+        {
+          "url": "https://www.jaspercountysc.gov/services/taxes/delinquent-tax-collection/",
+          "quote": "Terms of sale are money orders or certified funds only. No personal checks will be accepted."
+        },
+        {
+          "url": "https://www.jaspercountysc.gov/services/taxes/delinquent-tax-collection/",
+          "quote": "The sale will begin at 10:00 a.m. and continue until completion or 4:00p.m."
+        }
+      ]
+    },
+    {
+      "county": "Saluda",
+      "slug": "saluda",
+      "office": "Saluda County Delinquent Tax Collector",
+      "phone": "864-445-4500, Ext. 2209",
+      "address": "111 Law Range St., Saluda, SC 29138",
+      "website": "https://saludacounty.sc.gov/departments/tax-collector/delinquent-tax-sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-08",
+          "time": "10:00 AM",
+          "label": "Saluda County delinquent tax sale",
+          "deposit": "None stated; bids are paid in cash or exact-amount certified funds by 4:30 PM on the day of the sale",
+          "registration_deadline": "Register from Monday, October 12 until Monday, November 30, 8:30 AM to 4:30 PM at 111 Law Range St. (or by email); no registration after November 30 or on sale day.",
+          "register_by": "2026-11-30",
+          "note": "Location differs between sources: the county's web page says the Tax Collector's office, while the 2026 bidder packet says the Saluda County Magistrate's office, 108 South Rudolph St. Confirm with the Tax Collector before sale day. The county says the sale list runs in the Twin City News and on its web page for three weeks before the sale; no list was posted when read.",
+          "source_url": "https://saludacounty.sc.gov/departments/tax-collector/delinquent-tax-sale",
+          "quote": "Tuesday, December 8, 2026, at 10:00 a.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register in person at 111 Law Range St. (8:30 AM to 4:30 PM) or by email between October 12 and November 30 with a Social Security card, valid driver's license and mailing information; companies add a W-9 and an authorization statement. No one registers after November 30 or on sale day, and you must be present to bid. It is a live auction; bidding runs until a high bid is reached. Pay the full bid in cash or exact-amount certified funds by 4:30 PM on sale day, or a $500 penalty per bid applies. Property is subject to a 12-month redemption period with interest of 3%, 6%, 9% or 12% by quarter, capped at the starting bid. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://saludacounty.sc.gov/departments/tax-collector/delinquent-tax-sale",
+          "read_on": "2026-10-28",
+          "terms": "Site runs on the SC.GOV county platform; footer shows plain-text 'Copyright © State of South Carolina' and links only the SC.GOV Privacy & Security Policy (https://sc.gov/privacy-and-security-policy), which I read: it covers personal data collected from users, says the public has a right to access government records, and notes the Family Privacy Protection Act bars using personal information from state agencies for commercial solicitation (none used here). No ban on reuse, redistribution, commercial use or automated access found.",
+          "terms_url": "https://sc.gov/privacy-and-security-policy"
+        },
+        {
+          "url": "https://saludacounty.sc.gov/sites/saludacounty/files/Documents/2026%20Tax%20Sale%20Bidder%20Packet%20and%20Instructions.pdf",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://sc.gov/privacy-and-security-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://saludacounty.sc.gov/departments/tax-collector/delinquent-tax-sale",
+          "quote": "Bidders can register from Monday, October 12th, until Monday, November 30th"
+        },
+        {
+          "url": "https://saludacounty.sc.gov/sites/saludacounty/files/Documents/2026%20Tax%20Sale%20Bidder%20Packet%20and%20Instructions.pdf",
+          "quote": "Tuesday, December 8th at 10:00am at the Saluda County Magistrate's office, 108 South Rudolph St., Saluda, SC."
+        },
+        {
+          "url": "https://saludacounty.sc.gov/sites/saludacounty/files/Documents/2026%20Tax%20Sale%20Bidder%20Packet%20and%20Instructions.pdf",
+          "quote": "All real property upon which a successful bid is made is subject to a 12 month redemption period."
+        },
+        {
+          "url": "https://saludacounty.sc.gov/departments/tax-collector/delinquent-tax-sale",
+          "quote": "Bidder must be present to participate in the tax sale."
+        }
+      ]
     }
   ]
 }

@@ -279,6 +279,42 @@
           "quote": "no bid will be considered for less than the advertised minimum bid amount"
         }
       ]
+    },
+    {
+      "county": "Portage",
+      "slug": "portage",
+      "office": "Portage County Treasurer's Office",
+      "phone": "(715) 346-1348",
+      "address": "1516 Church Street, Stevens Point, WI 54481",
+      "website": "https://www.co.portage.wi.gov/194/Tax-Deed-Land-Sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Wisconsin Surplus",
+        "url": "https://www.wisconsinsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The 2026 online sale of tax-deeded parcels ran from September 17 to October 8, 2026 and has closed; no later sale is posted.",
+      "how_to_bid": "Online auction of Portage County tax-deeded parcels on Wisconsin Surplus; the county page says bidding information is posted on the auction site once the sale begins. Time, deposit and payment terms are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.co.portage.wi.gov/194/Tax-Deed-Land-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read; it gives only 'All content © 2006-2026 Portage County, WI and its representatives. All rights reserved.' No clause on reuse, redistribution or automated access.",
+          "terms_url": "https://www.co.portage.wi.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.portage.wi.gov/194/Tax-Deed-Land-Sale",
+          "quote": "Sale begins: Thursday, September 17 ,2026"
+        },
+        {
+          "url": "https://www.co.portage.wi.gov/194/Tax-Deed-Land-Sale",
+          "quote": "Sale ends: Thursday, October 8, 2026"
+        }
+      ]
     }
   ]
 }

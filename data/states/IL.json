@@ -787,6 +787,204 @@
           "quote": "The tax sale in Williamson County is held annually in December."
         }
       ]
+    },
+    {
+      "county": "Effingham",
+      "slug": "effingham",
+      "office": "Effingham County Treasurer",
+      "phone": "217-342-6844",
+      "address": "101 N. Fourth St., Ste 202, Effingham, IL 62401",
+      "website": "https://effinghamcountyil.gov/treasurer/effingham-county-treasurer-faqs/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-01-07",
+          "time": null,
+          "label": "Annual tax sale (2025 taxes payable 2026)",
+          "deposit": null,
+          "registration_deadline": "Not stated",
+          "note": "Owners may still pay taxes and penalties until one business day before the sale. Time, location, registration and fees are not stated on the Treasurer's FAQ page.",
+          "source_url": "https://effinghamcountyil.gov/treasurer/effingham-county-treasurer-faqs/",
+          "quote": "The 2025 payable 2026 tax sale will be held January 7, 2027."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Not stated on the Treasurer's FAQ page beyond the sale date: the taxes (not the property) are sold to a tax buyer, with interest at a rate determined the day of the sale. Contact the Treasurer (217-342-6844) for registration and bidding details; redemptions go through the County Clerk (217-342-6535).",
+      "sources": [
+        {
+          "url": "https://effinghamcountyil.gov/treasurer/effingham-county-treasurer-faqs/",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer reads '© Effingham County, IL | All rights reserved.' with an accuracy disclaimer ('The information contained on this website is believed to be accurate.' ... not responsible 'for any errors or omissions.') and a Privacy link (not read). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://effinghamcountyil.gov/treasurer/effingham-county-treasurer-faqs/",
+          "quote": "The 2025 payable 2026 tax sale will be held January 7, 2027."
+        },
+        {
+          "url": "https://effinghamcountyil.gov/treasurer/effingham-county-treasurer-faqs/",
+          "quote": "It is important to note, the property itself will not be sold."
+        }
+      ]
+    },
+    {
+      "county": "Knox",
+      "slug": "knox",
+      "office": "Knox County Treasurer",
+      "phone": "not stated on the page read (County Clerk: 309-345-6753)",
+      "address": "not stated on the page read",
+      "website": "https://www.knoxcountyil.gov/departments/county_treasurer/real_estate_taxes/tax_sale_info.php",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Knox County holds an annual real estate tax sale normally in mid-November.",
+      "sales": [],
+      "next_sale_note": "No dated 2026 sale is posted on the Treasurer's tax sale page; it says only that the sale is normally held in mid-November, with the delinquent list published in mid-October.",
+      "how_to_bid": "Register at least 10 business days before the sale by sending a letter of intent to attend by mail or fax, with a $50.00 deposit that is applied to your purchases (not refunded if you don't take part). The sale is an auction where the lowest interest bid (0% to 9%) wins. On sale day you leave a blank check; the office totals your purchases and contacts you within 2-3 days, and certificates are mailed after the sale is balanced. A Trustee buys parcels not bid on. Time and location are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.knoxcountyil.gov/departments/county_treasurer/real_estate_taxes/tax_sale_info.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: no footer, copyright, disclaimer, terms or privacy text or link appeared in the page text read.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.knoxcountyil.gov/departments/county_treasurer/real_estate_taxes/tax_sale_info.php",
+          "quote": "Knox County holds an annual real estate tax sale normally in mid-November."
+        },
+        {
+          "url": "https://www.knoxcountyil.gov/departments/county_treasurer/real_estate_taxes/tax_sale_info.php",
+          "quote": "A person must register for our tax sale 10 business days prior to the sale."
+        },
+        {
+          "url": "https://www.knoxcountyil.gov/departments/county_treasurer/real_estate_taxes/tax_sale_info.php",
+          "quote": "There is a deposit of $50.00 required at the time of registration which will be applied to your purchases."
+        }
+      ]
+    },
+    {
+      "county": "Champaign",
+      "slug": "champaign",
+      "office": "Champaign County Treasurer/Collector",
+      "phone": "(217) 384-3743",
+      "address": "Scott M. Bennett Administrative Center, 102 E. Main Street, Urbana, IL",
+      "website": "https://champaigncountyil.gov/treasurer/Taxes.php",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The annual tax sale occurs in late October for properties with unpaid tax bills.",
+      "sales": [],
+      "next_sale_note": "The Treasurer's Taxes page says \"The annual Tax Sale will be held at Shields-Carter Meeting Room on October 30 at 9:00 AM\" with buyer packets due October 16, but neither page read states the year, so no date is recorded.",
+      "how_to_bid": "Complete the Tax Sale Buyer Packet (email the Treasurer's office or call 217-384-3743) and return it no later than 10 business days before the sale. Fees added to each parcel bought: $20.00 indemnity, $10.00 tax sale automation, $60.00 interest fee and $4.00 County Clerk fee. Delinquent mobile home taxes go through the same annual tax sale procedures as real estate. Deposit and bidding method are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://champaigncountyil.gov/treasurer/Taxes.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: no footer, copyright, disclaimer, terms or privacy text or link appeared in the page text read (Taxes page and Treasurer home page).",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.champaigncountyil.gov/treasurer",
+          "read_on": "2026-10-28",
+          "terms": "Same site; no terms, disclaimer or copyright text found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.champaigncountyil.gov/treasurer",
+          "quote": "The annual tax sale occurs in late October for properties with unpaid tax bills."
+        },
+        {
+          "url": "https://champaigncountyil.gov/treasurer/Taxes.php",
+          "quote": "The annual Tax Sale will be held at Shields-Carter Meeting Room on October 30 at 9:00 AM."
+        },
+        {
+          "url": "https://champaigncountyil.gov/treasurer/Taxes.php",
+          "quote": "Mobile Home delinquent taxes are subject to the same annual tax sale procedures as Real Estate delinquent taxes"
+        }
+      ]
+    },
+    {
+      "county": "Stephenson",
+      "slug": "stephenson",
+      "office": "Stephenson County Treasurer/Collector",
+      "phone": "not stated on the page read (County Clerk for redemptions: 815-235-8289)",
+      "address": "50 W Douglas St, Suite 1002, Freeport, IL 61032 (county address in the site footer)",
+      "website": "https://stephensoncountyil.gov/government/treasurer-collector/tax_sales.php",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The tax sale only occurs once per year.",
+      "sales": [],
+      "next_sale_note": "Closed to private buyers in 2026: the Treasurer says the tax sale scheduled for November 10, 2026 (unpaid 2025 taxes) is not open to private tax buyers; the County, as Trustee, acquires the tax certificates. The delinquent list was to be posted after publication in the Village Voices on October 28, 2026.",
+      "how_to_bid": "No private bidding at the 2026 sale: the County, as Trustee, acquires the certificates for unpaid parcels. Only delinquent taxes are sold, not the property. Redemption questions go to the County Clerk (815-235-8289). A separate surplus property auction is held each summer.",
+      "sources": [
+        {
+          "url": "https://stephensoncountyil.gov/government/treasurer-collector/tax_sales.php",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer shows only '© Copyright 2025 Stephenson County, IL' and 'Powered by revize.'; no disclaimer, terms or privacy link. Copyright-only; no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://stephensoncountyil.gov/government/treasurer-collector/tax_sales.php",
+          "quote": "tax sale scheduled for November 10, 2026"
+        },
+        {
+          "url": "https://stephensoncountyil.gov/government/treasurer-collector/tax_sales.php",
+          "quote": "is not open to private tax buyers"
+        },
+        {
+          "url": "https://stephensoncountyil.gov/government/treasurer-collector/tax_sales.php",
+          "quote": "The tax sale only occurs once per year."
+        }
+      ]
+    },
+    {
+      "county": "Grundy",
+      "slug": "grundy",
+      "office": "Grundy County Treasurer (County Collector)",
+      "phone": "(815) 941-3215",
+      "address": "111 Washington St, Morris, IL 60450 (sales held at the Grundy County Administration Building, 1320 Union St, Morris)",
+      "website": "https://www.grundycountyil.gov/services/treasurer/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Closed to private buyers: under Public Act 104-0553 and the County Board's standing direction, the Treasurer will sell all legally eligible delinquent tax liens at future annual tax sales to Grundy County, as Trustee. The last sale posted (2024 payable 2025) was held November 4, 2025; no 2026 date is posted.",
+      "how_to_bid": "No private bidding: the Treasurer, acting as County Collector, sells eligible delinquent liens or certificates at future annual sales to Grundy County as Trustee for the taxing districts. This transfers the lien or certificate, not title to the property. Redemptions are made in the County Clerk's office. Registration, fees and mobile home tax sale details are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.grundycountyil.gov/services/treasurer/",
+          "read_on": "2026-10-28",
+          "terms": "Terms of Use read: 'Copyright 2015 and/or its suppliers. All rights reserved.' and 'Any rights not expressly granted herein are reserved.'; information 'MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS' and is provided 'AS IS'. No personal or non-commercial-only clause and no ban on reuse, redistribution or automated access found.",
+          "terms_url": "https://www.grundycountyil.gov/how_do_i/terms_of_use.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.grundycountyil.gov/services/treasurer/",
+          "quote": "The 2024 payable 2025 property tax sale was held November 4th, 2025, at 9am."
+        },
+        {
+          "url": "https://www.grundycountyil.gov/services/treasurer/",
+          "quote": "Future tax sales are held at the Grundy County Administration Building located at 1320 Union St, Morris, IL 60450."
+        },
+        {
+          "url": "https://www.grundycountyil.gov/services/treasurer/",
+          "quote": "Pursuant to Illinois Public Act 104-0553 and the standing direction of the Grundy County Board,"
+        }
+      ]
     }
   ]
 }

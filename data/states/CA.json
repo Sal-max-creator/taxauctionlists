@@ -643,6 +643,46 @@
           "quote": "Registration is required on the Bid4Assets website."
         }
       ]
+    },
+    {
+      "county": "Butte",
+      "slug": "butte",
+      "office": "Butte County Treasurer-Tax Collector",
+      "phone": "not stated",
+      "address": "25 County Center Drive, Oroville, CA 95965",
+      "website": "https://www.buttecounty.ca.gov/1041/Property-Tax-Auctions",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "https://www.bid4assets.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction posted. The county's 2026 public auction (June 5, 2026) and re-offer auction (August 7, 2026) have passed; no later date found.",
+      "how_to_bid": "Online auction through Bid4Assets; only bids submitted via the Internet are accepted. Property is sold to the highest bidder for not less than the minimum bid shown on the notice. Deposit and registration deadline not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.buttecounty.ca.gov/1041/Property-Tax-Auctions",
+          "read_on": "2026-10-28",
+          "terms": "Butte County Copyright Notices page: 'All content © 2006-2026 Butte County, CA and its representatives. All rights reserved.' (plus a CivicPlus copyright line). Copyright-only notice; no clause restricting reuse or redistribution. Footer has no Terms or Disclaimer link.",
+          "terms_url": "https://www.buttecounty.ca.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.buttecounty.ca.gov/1041/Property-Tax-Auctions",
+          "quote": "The Treasurer-Tax Collector's Office held a public auction of tax-defaulted properties on June 5, 2026,"
+        },
+        {
+          "url": "https://www.buttecounty.ca.gov/1041/Property-Tax-Auctions",
+          "quote": "The sales were conducted on the Internet at www.bid4assets.com."
+        },
+        {
+          "url": "https://www.buttecounty.ca.gov/1041/Property-Tax-Auctions",
+          "quote": "Only bids submitted via the Internet will be accepted."
+        }
+      ]
     }
   ]
 }

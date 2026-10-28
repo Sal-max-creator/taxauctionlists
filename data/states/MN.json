@@ -557,6 +557,110 @@
         "registration_note": "The page also says 'Registration is required on the day of the auction.' in its Sale Information section, which it does not reconcile with Public Surplus registration.",
         "platform_note": "The page names the Public Surplus auction site; the fetched text did not give its link."
       }
+    },
+    {
+      "county": "Crow Wing",
+      "slug": "crow-wing",
+      "office": "Crow Wing County Land Services",
+      "phone": "218-824-1010",
+      "address": "Historic Court House, 326 Laurel Street, Brainerd, MN 56401",
+      "website": "https://crowwing.gov/475",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No live auction is posted; the Land Sales page says there are currently no live auctions. Tracts listed for immediate sale are sold first come, first served.",
+      "how_to_bid": "Create an account with Public Surplus, which the county page links. Immediate-sale tracts are sold first come, first served; a tract is removed from the available list once payment in full has been receipted by Land Services staff. Parcels can be looked up by PIN on the county's interactive map. The page links a Land Sale Terms and Fees PDF, which we did not read. Deposit is not stated.",
+      "sources": [
+        {
+          "url": "https://crowwing.gov/475",
+          "read_on": "2026-10-28",
+          "terms": "County Copyright Notices page read: 'All content © 2006-2026 Crow Wing County, MN and its representatives. All rights reserved.' It states no other restriction on reuse, redistribution or automated access.",
+          "terms_url": "https://crowwing.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://crowwing.gov/475",
+          "quote": "There are currently no live auctions."
+        },
+        {
+          "url": "https://crowwing.gov/475",
+          "quote": "when payment in full has been receipted by Land Services' Staff"
+        }
+      ]
+    },
+    {
+      "county": "Otter Tail",
+      "slug": "otter-tail",
+      "office": "Otter Tail County Auditor",
+      "phone": "218-998-8030",
+      "address": "500 W Fir Ave, Fergus Falls, MN 56537 (county main address shown on the page)",
+      "website": "https://ottertailcounty.gov/property-home/property-sales/tax-forfeited-lands/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The county's Tax-Forfeited Lands page lists the next sale as TBD.",
+      "how_to_bid": "Tax-forfeited properties are sold at public sale to the highest bidder by the County Auditor; lands not sold at the public sale are auctioned again at a later date. County staff cannot show properties before the sale. The page does not state the sale format, deposit or payment terms.",
+      "sources": [
+        {
+          "url": "https://ottertailcounty.gov/property-home/property-sales/tax-forfeited-lands/",
+          "read_on": "2026-10-28",
+          "terms": "County Terms of Service read: says the agreement 'does not transfer from Otter Tail County to you any Otter Tail County or third party intellectual property' and grants no right to use county trademarks; notes some material's 'downloading, copying or use of which is subject to additional terms and conditions, stated or unstated.' No clause found forbidding reuse or redistribution of the information, commercial use, or automated access.",
+          "terms_url": "https://ottertailcounty.gov/terms-of-service/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://ottertailcounty.gov/property-home/property-sales/tax-forfeited-lands/",
+          "quote": "Properties are sold at public sale to the highest bidder by the County Auditor."
+        },
+        {
+          "url": "https://ottertailcounty.gov/property-home/property-sales/tax-forfeited-lands/",
+          "quote": "Any lands not sold at the public sale will be auctioned again at a later date."
+        }
+      ]
+    },
+    {
+      "county": "Douglas",
+      "slug": "douglas",
+      "office": "Douglas County Auditor-Treasurer's Office",
+      "phone": "320-762-3884 (county number shown on the page)",
+      "address": "821 Cedar St, Alexandria, MN 56308 (Administration Building, as shown on the page)",
+      "website": "https://douglascountymn.gov/tax-forfeited-land",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date is posted. The page links a Notice of Over The Counter Tax Forfeiture Land Sales dated 09-04-2026, which we did not open.",
+      "how_to_bid": "Tax-forfeited parcels are first offered at online public auction on Public Surplus; parcels then become available to purchase over the counter at the County Auditor-Treasurer's Office. The page refers to a Terms & Conditions PDF, which we did not read. Deposit and payment terms are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://douglascountymn.gov/tax-forfeited-land",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer has Site Map, Accessibility, Search and Console links and an unlinked line '© 2026 · All Rights Reserved'; no disclaimer, terms or legal link."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://douglascountymn.gov/tax-forfeited-land",
+          "quote": "Tax forfeited parcels will first be held for for online public auction with PUBLIC SURPLUS."
+        },
+        {
+          "url": "https://douglascountymn.gov/tax-forfeited-land",
+          "quote": "made available to purchase over the counter at the County Auditor Treasurer's Office"
+        }
+      ]
     }
   ]
 }

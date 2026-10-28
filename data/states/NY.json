@@ -628,6 +628,50 @@
           "quote": "The auction will be conducted by Thomas P. Wamp / Pirrung Auctioneers Inc., licensed real estate brokers."
         }
       ]
+    },
+    {
+      "county": "Warren",
+      "slug": "warren",
+      "office": "Warren County Real Property Tax Services",
+      "phone": "(518) 761-6464",
+      "address": "1340 State Route 9, Lake George, NY 12845",
+      "website": "https://www.warrencountyny.gov/rp/auction",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": {
+        "name": "Auctions International",
+        "url": "https://www.auctionsinternational.com/"
+      },
+      "schedule_rule": "The Annual Warren County Tax Foreclosure Auction is scheduled for the third Saturday in October",
+      "sales": [],
+      "next_sale_note": "The 2026 auction was held October 17, 2026; the 2027 date is not yet posted.",
+      "how_to_bid": "Live, in-person auction at the Warren County Courthouse, Warren County Municipal Center complex, 1340 State Route 9, Queensbury; there is no online bidding. For the 2026 sale, bidder registration began at 8 a.m. and the auction started at 10 a.m. The county points bidders to Auctions International for the property information booklet. Deposit, buyer's premium and payment terms are not stated on the county pages.",
+      "sources": [
+        {
+          "url": "https://www.warrencountyny.gov/rp/auction",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer page found: the county footer has only '© 2023 Copyright Warren County' (no link), an Accessibility & Standards link, and a Privacy Policy link that goes to the Warren County Tourism Department's visitlakegeorge.com policy, which covers personal data only and has no clause on reuse, redistribution, commercial use or automated access. Copyright-only; restate facts only."
+        },
+        {
+          "url": "https://www.warrencountyny.gov/news/annual-warren-county-real-estate-auction-be-held-saturday-october-17th-2026",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see above."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.warrencountyny.gov/rp/auction",
+          "quote": "The Annual Warren County Tax Foreclosure Auction is scheduled for the third Saturday in October, which is October 17, 2026."
+        },
+        {
+          "url": "https://www.warrencountyny.gov/news/annual-warren-county-real-estate-auction-be-held-saturday-october-17th-2026",
+          "quote": "this is an in-person auction only, and there will be no online bidding."
+        },
+        {
+          "url": "https://www.warrencountyny.gov/news/annual-warren-county-real-estate-auction-be-held-saturday-october-17th-2026",
+          "quote": "Registration for prospective auction bidders will begin at 8 a.m., and the auction is scheduled to start at 10 a.m."
+        }
+      ]
     }
   ]
 }

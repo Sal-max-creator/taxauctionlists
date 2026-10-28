@@ -650,6 +650,39 @@
           "quote": "Upon purchase at a tax sale, the winning bidder pays the outstanding taxes only."
         }
       ]
+    },
+    {
+      "county": "Dallas",
+      "slug": "dallas",
+      "office": "Dallas County Treasurer's Office",
+      "phone": "515-993-5801 (general information); 515-993-5808 (tax sale redemption funds)",
+      "address": "not stated (the page says only 'Offices in Adel and Perry, IA')",
+      "website": "https://www.dallascountyiowa.gov/252/Tax-Sale",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Annual Tax Sale takes place in June of each year.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale was held June 15, 2026.",
+      "how_to_bid": "The sale is an open competitive bidding process under Iowa Code Chapter 446. The Treasurer's page links a Tax Sale Bidder Registration form, a Tax Sale Authorization to Represent Bidder form and the Terms and Conditions (PDF, not read). Time, location, platform, registration deadline, fees and deposit are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.dallascountyiowa.gov/252/Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: 'All content © 2006-2026 Dallas County, IA and its representatives. All rights reserved.' plus a CivicPlus software credit. Nothing on reuse, redistribution, commercial or personal-only use, or automated access; the footer has a Privacy Policy link but no disclaimer or terms link.",
+          "terms_url": "https://www.dallascountyiowa.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dallascountyiowa.gov/252/Tax-Sale",
+          "quote": "2026 Tax Sale Held on 06/15/2026"
+        },
+        {
+          "url": "https://www.dallascountyiowa.gov/252/Tax-Sale",
+          "quote": "open competitive bidding process (Iowa Code Chapter 446)"
+        }
+      ]
     }
   ]
 }

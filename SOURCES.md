@@ -218,6 +218,9 @@ State overview: <https://www.douglasco.gov/documents/tax-sale-faq.pdf/>, <https:
 | Delta | <https://deltacountyco.gov/141/Annual-Sales> | 2026-10-28 | Privacy Policy and Internet Disclaimer page covers privacy, cookies and third-party disclosure; no reuse, redistribution, commercial-use, personal-use, resale or automated-access clause. Copyright Notices page shows only 'All content © 2006-2026 Delta and its representatives. All rights reserved.' Copyright-only. ([terms](https://deltacountyco.gov/19/Privacy-Policy-and-Internet-Disclaimer)) |
 | Clear Creek | <https://www.clearcreekcounty.us/548/2026-Tax-Lien-Sale> | 2026-10-28 | Privacy Policy page (with a Terms & Conditions section: General, Disclaimers, User Authentication) and Copyright Notices page contain no reuse, redistribution, commercial-use, personal-use, resale or automated-access clause; footer: 'All content © 2006-2026 Clear Creek County, CO and its representatives. All rights reserved.' Copyright-only. ([terms](https://www.clearcreekcounty.us/privacy)) |
 | Grand | <https://www.co.grand.co.us/129/Tax-Liens> | 2026-10-28 | Website Privacy Policy and Legal Information page has no reuse, redistribution, commercial-use, personal-use, resale or scraping clause; its Linkage Policy asks linkers not to frame county pages or portray anyone in a false light. Copyright Notices: 'All content © 2006-2026 Grand County, CO and its representatives. All rights reserved.' Copyright-only. ([terms](https://www.co.grand.co.us/site/privacy)) |
+| Archuleta | <https://www.archuletacounty.gov/county-government/elected-offices/treasurer/tax-lien-sale/> | 2026-10-28 | Copyright / Privacy page: 'All content © 2006-2026 Archuleta County, CO and its representatives. All rights reserved.' Its privacy policy covers personal data only; no reuse, redistribution, commercial-use, personal-use, resale or automated-access clause. Copyright-only. ([terms](https://www.archuletacounty.gov/copyright-privacy/)) |
+| Montezuma | <https://montezumacounty.gov/treasurer-public-trustee/tax-lien-sale/> | 2026-10-28 | No terms page found: the footer has no terms, disclaimer, legal or privacy link; it shows only 'Copyright © 2026. Montezuma County, CO. All Rights Reserved.' |
+| Montezuma | <https://montezumacounty.gov/?p=762> | 2026-10-28 | Same site; no terms page found. |
 
 ## Connecticut
 
@@ -557,6 +560,7 @@ State overview: <https://www.legis.iowa.gov/docs/code/2025/446.7.pdf>, <https://
 | Boone | <https://www.boonecounty.iowa.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Boone County, Iowa' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found. |
 | Marshall | <https://marshallcountyia.gov/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer (only Accessibility and Title VI links); footer copyright only: '©2026 Marshall County, Iowa'. No reuse clause found. |
 | Wapello | <https://www.wapellocounty.org/treasurer/tax_sale/> | 2026-10-28 | No terms, disclaimer, legal or privacy link in the footer (Contact Us and a Neapolitan Labs vendor home-page link only); footer copyright only: '©2026 Wapello County, Iowa'. No reuse clause found. |
+| Dallas | <https://www.dallascountyiowa.gov/252/Tax-Sale> | 2026-10-28 | Copyright Notices page read: 'All content © 2006-2026 Dallas County, IA and its representatives. All rights reserved.' plus a CivicPlus software credit. Nothing on reuse, redistribution, commercial or personal-only use, or automated access; the footer has a Privacy Policy link but no disclaimer or terms link. ([terms](https://www.dallascountyiowa.gov/copyright)) |
 
 ## Kansas
 
@@ -779,6 +783,7 @@ State overview: <https://www.revisor.mo.gov/main/OneSection.aspx?section=140.170
 | Johnson | <https://www.jocomo.gov/205/Tax-Sale-Information> | 2026-10-27 | same as above ([terms](https://www.jocomo.gov/copyright)) |
 | Camden | <https://collector.camdenmo.org/TaxSaleBidders/Intro> | 2026-10-28 | No terms, disclaimer or privacy link on the Collector's tax sale portal; the footer reads '© 2026 - The Hunter Group, LLC - All Rights Reserved' (the portal vendor). Copyright-only; no reuse restriction found. ([terms](https://collector.camdenmo.org/TaxSaleBidders/Intro)) |
 | Taney | <https://taneycounty.org/index.php?department=10&section=departments> | 2026-10-28 | No terms page found: the footer reads 'Copyright 2004 - 2026 Taney County, Missouri.' with no disclaimer, terms or privacy link. Copyright-only; no reuse restriction found. |
+| Saline | <https://www.salinecountymo.gov/collector> | 2026-10-28 | No terms, disclaimer, legal or privacy link on the page (Wix-built site); footer copyright only: '© 2026 by Saline County Commission. All rights reserved.' No reuse, commercial-use or automated-access clause found. |
 
 ## Montana
 
@@ -965,6 +970,8 @@ State overview: <https://www.ncleg.gov/enactedlegislation/statutes/html/bysectio
 | Lincoln | <https://lincolncountync.gov/2368/Foreclosures> | 2026-10-28 | Site footer: 'All content © 2006-2026 Lincoln County and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has no terms or disclaimer link (Copyright Notices and Accessibility only). ([terms](https://lincolncountync.gov/copyright)) |
 | Moore | <https://moorecountync.gov/204/Collections> | 2026-10-28 | Site footer: 'All content © 2006-2026 Moore County, NC and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has Copyright Notices, Privacy Policy and Accessibility links, no terms or disclaimer page. ([terms](https://moorecountync.gov/copyright)) |
 | Rowan | <https://www.rowancountync.gov/212/Foreclosures> | 2026-10-28 | Public Rules & Disclaimer page covers public records law and comment moderation on county pages; it says nothing about reuse, redistribution, commercial use or automated access of site content. Footer also has a Copyright Notices link (not read separately). ([terms](https://www.rowancountync.gov/1459/Public-Rules-Disclaimer)) |
+| Haywood | <https://haywoodcountync.gov/337/Tax-Foreclosures> | 2026-10-28 | Footer links only Site Map, Accessibility and Copyright Notices (no terms, disclaimer or privacy link). The Copyright Notices page says only: All content © 2006-2026 Haywood County, NC and its representatives. All rights reserved. It says nothing about reuse, redistribution, commercial use or automated access. ([terms](https://haywoodcountync.gov/site/copyright)) |
+| Haywood | <https://haywoodcountync.gov/274/Tax-Collections> | 2026-10-28 | Footer links only Site Map, Accessibility and Copyright Notices (no terms, disclaimer or privacy link). The Copyright Notices page says only: All content © 2006-2026 Haywood County, NC and its representatives. All rights reserved. It says nothing about reuse, redistribution, commercial use or automated access. ([terms](https://haywoodcountync.gov/site/copyright)) |
 
 ## North Dakota
 
@@ -1215,6 +1222,8 @@ State overview: <https://www.scstatehouse.gov/code/t12c051.php>, <https://www.sc
 | Marion | <https://www.marionsc.org/departments/tax_collector/bidding_information.php> | 2026-10-28 | No terms page found: the page footer has no terms, disclaimer, privacy, copyright or legal link (only a logo, a map link, a 'Powered by revize' vendor link and a Login link). No reuse restriction found. |
 | Newberry | <https://www.newberrycounty.gov/delinquent-tax/tax-sales> | 2026-10-28 | No terms, disclaimer, privacy or legal link in the footer (footer menu: Agendas & Minutes, Contact Us, Economic Development, Human Resources, News & Updates). Copyright-only footer: 'Copyright © 2023-2026 Newberry County, South Carolina.' No reuse restriction found. |
 | Newberry | <https://www.newberrycounty.gov/sites/default/files/uploads/departments/delinquent-tax/tax_sale_info-consolidated.pdf> | 2026-10-28 | same as above |
+| Colleton | <https://colletoncounty.org/node/500> | 2026-10-28 | No terms-of-use or disclaimer link in the site footer (footer: Accessibility, Contact Webmaster, Employment, Sitemap). Site notice: '©2026 Colleton County, SC. All rights reserved.' Read the GIS disclaimer (https://colletoncounty.org/mapping-gis/disclaimer): covers GIS data only, 'AS IS WITHOUT WARRANTY OF ANY KIND', says nothing on reuse. No reuse restriction found. ([terms](https://colletoncounty.org/mapping-gis/disclaimer)) |
+| Colleton | <https://colletoncounty.org/node/700> | 2026-10-28 | same as above ([terms](https://colletoncounty.org/mapping-gis/disclaimer)) |
 
 ## South Dakota
 
@@ -1427,6 +1436,8 @@ State overview: <https://app.leg.wa.gov/RCW/default.aspx?cite=84.64&full=true>, 
 | Kittitas | <https://co.kittitas.wa.us/treasurer/foreclosures.aspx> | 2026-10-28 | Website Disclaimer page does not address reuse, redistribution, commercial use or automated access; footer: 'Copyright © 2026 - Kittitas County - All Rights Reserved.' Copyright-only. ([terms](https://co.kittitas.wa.us/disclaimer.aspx)) |
 | Kittitas | <https://www.co.kittitas.wa.us:443/uploads/documents/treasurer/General Foreclosure Information Handout.pdf> | 2026-10-28 | Website Disclaimer page does not address reuse, redistribution, commercial use or automated access; footer: 'Copyright © 2026 - Kittitas County - All Rights Reserved.' Copyright-only. ([terms](https://co.kittitas.wa.us/disclaimer.aspx)) |
 | Walla Walla | <https://www.wwcowa.gov/government/treasurer/foreclosure.php> | 2026-10-28 | No terms page found: the page footer has no terms, disclaimer, legal, copyright or privacy link (only 'Powered by revize.' and a Login link). |
+| Lincoln | <https://www.co.lincoln.wa.us/324/Tax-Foreclosure> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Lincoln County, WA and its representatives. All rights reserved.' No reuse, redistribution, commercial-use, personal-use, resale or automated-access clause. Copyright-only. The Privacy Policy page rendered without policy text; the footer has no terms or disclaimer link. ([terms](https://www.co.lincoln.wa.us/copyright)) |
+| Lincoln | <https://www.co.lincoln.wa.us/308/Treasurer> | 2026-10-28 | Same site; see Copyright Notices. |
 
 ## West Virginia
 

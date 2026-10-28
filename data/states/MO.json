@@ -528,6 +528,45 @@
           "quote": "Conducts delinquent land tax sale the fourth Monday of August each year."
         }
       ]
+    },
+    {
+      "county": "Saline",
+      "slug": "saline",
+      "office": "Saline County Collector of Revenue",
+      "phone": "(660) 886-5104",
+      "address": "Saline County Courthouse, 19 E. Arrow Street, Room 201, Marshall, MO 65340",
+      "website": "https://www.salinecountymo.gov/collector",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "the annual tax certificate sale held the 4th Monday in August each year",
+      "sales": [
+        {
+          "date": "2027-08-23",
+          "time": "not stated",
+          "label": "Annual tax certificate sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "The page also says the 2026 sale was held on August 24, 2026. A parcel listing is marked as coming in July 2027. Time, place and registration are not stated.",
+          "source_url": "https://www.salinecountymo.gov/collector",
+          "quote": "The 2027 Tax Sale will be on August 23, 2027."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The Collector's page names the annual tax certificate sale but does not state the time, location, registration steps, deposit or payment terms. Contact the Collector's office at (660) 886-5104 or collector@salinecountymo.gov for bidder requirements.",
+      "sources": [
+        {
+          "url": "https://www.salinecountymo.gov/collector",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link on the page (Wix-built site); footer copyright only: '© 2026 by Saline County Commission. All rights reserved.' No reuse, commercial-use or automated-access clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.salinecountymo.gov/collector",
+          "quote": "The 2026 Tax Sale was held on August 24, 2026."
+        }
+      ]
     }
   ]
 }

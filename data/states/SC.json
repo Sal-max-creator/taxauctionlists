@@ -865,6 +865,60 @@
           "quote": "This is an open bid auction."
         }
       ]
+    },
+    {
+      "county": "Colleton",
+      "slug": "colleton",
+      "office": "Colleton County Delinquent Tax Office",
+      "phone": "843-549-5433",
+      "address": "118 Benson Street, P.O. Box 472, Walterboro, SC 29488",
+      "website": "https://colletoncounty.org/node/700",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-11",
+          "time": "10:00 AM bidding (bidder registration from 9:00 AM)",
+          "label": "Colleton County delinquent tax sale",
+          "deposit": "None stated; bids are payable in full on the date of the sale",
+          "registration_deadline": "Online pre-registration opens 3 weeks before the sale; bidders then pick up a bidder card at the Delinquent Tax Office (same-day pickup at the Civic Center). No deadline stated.",
+          "note": "Held at the Colleton Civic Center, 494 Hampton St., Walterboro, SC 29488. Properties are sold in alphabetical order; no sale list is linked on the county pages read.",
+          "source_url": "https://colletoncounty.org/node/500",
+          "quote": "Friday, December 11th, 2026"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Open auction at the Colleton Civic Center. Pre-register online (opens 3 weeks before the sale), then get a bidder card at the Delinquent Tax Office, 118 Benson Street, or on sale day at the Civic Center; a valid government-issued photo ID is required. The Tax Collector enters the opening bid for the Forfeited Land Commission. Winning bids are paid in full on the sale date by cash, cashier's check, money order or electronic wire; an unpaid bid draws a $500 fine per bid. The owner has a 12-month redemption period, with interest on redemptions. Deposit not stated.",
+      "sources": [
+        {
+          "url": "https://colletoncounty.org/node/500",
+          "read_on": "2026-10-28",
+          "terms": "No terms-of-use or disclaimer link in the site footer (footer: Accessibility, Contact Webmaster, Employment, Sitemap). Site notice: '©2026 Colleton County, SC. All rights reserved.' Read the GIS disclaimer (https://colletoncounty.org/mapping-gis/disclaimer): covers GIS data only, 'AS IS WITHOUT WARRANTY OF ANY KIND', says nothing on reuse. No reuse restriction found.",
+          "terms_url": "https://colletoncounty.org/mapping-gis/disclaimer"
+        },
+        {
+          "url": "https://colletoncounty.org/node/700",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://colletoncounty.org/mapping-gis/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://colletoncounty.org/node/700",
+          "quote": "The sale is an open auction."
+        },
+        {
+          "url": "https://colletoncounty.org/node/700",
+          "quote": "A valid, government-issued photo ID is required to register and pick up your bidder card."
+        },
+        {
+          "url": "https://colletoncounty.org/node/700",
+          "quote": "payable in full by cash, cashier's check, money order or electronic wire on the date of the sale"
+        }
+      ]
     }
   ]
 }

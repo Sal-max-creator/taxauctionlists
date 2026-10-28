@@ -809,6 +809,65 @@
           "quote": "The County opens bidding at the amount equal to delinquent taxes, interest, plus legal costs."
         }
       ]
+    },
+    {
+      "county": "Haywood",
+      "slug": "haywood",
+      "office": "Haywood County Tax Collections (Tax Collections Department, with the County Attorney's Office or an outside attorney)",
+      "phone": "828-452-6643 (Tax Collections)",
+      "address": "Tax Collections, 215 N. Main Street, Suite 224, Waynesville, NC 28786. Sales are held at public auction in front of the Haywood County Justice Center.",
+      "website": "https://haywoodcountync.gov/337/Tax-Foreclosures",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date on the county's Tax Foreclosures page. The county posts notices of tax foreclosure sales under its Bid Opportunities listings; those notices name the property owner, so they are not linked here. The page says a tax foreclosure can begin at any date after January 5th of the year being collected.",
+      "how_to_bid": "Attend the sale in person at the Haywood County Justice Center on the day it is scheduled; foreclosure sales are public auctions held in front of the Justice Center. A deposit of 20% of the bid is required following the sale, and the balance is due at the end of the ten-day upset bid period and confirmation of the sale. Upset bids must exceed the last bid by at least 5%, with a minimum increase of $750, and are filed at the Clerk of Superior Court's office in the Justice Center; each upset bid opens another 10-day period. Registration steps and sale times are not stated.",
+      "sources": [
+        {
+          "url": "https://haywoodcountync.gov/337/Tax-Foreclosures",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only Site Map, Accessibility and Copyright Notices (no terms, disclaimer or privacy link). The Copyright Notices page says only: All content © 2006-2026 Haywood County, NC and its representatives. All rights reserved. It says nothing about reuse, redistribution, commercial use or automated access.",
+          "terms_url": "https://haywoodcountync.gov/site/copyright"
+        },
+        {
+          "url": "https://haywoodcountync.gov/274/Tax-Collections",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only Site Map, Accessibility and Copyright Notices (no terms, disclaimer or privacy link). The Copyright Notices page says only: All content © 2006-2026 Haywood County, NC and its representatives. All rights reserved. It says nothing about reuse, redistribution, commercial use or automated access.",
+          "terms_url": "https://haywoodcountync.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://haywoodcountync.gov/337/Tax-Foreclosures",
+          "quote": "Foreclosure sales will be handled by a public auction in front of the Haywood County Justice Center."
+        },
+        {
+          "url": "https://haywoodcountync.gov/337/Tax-Foreclosures",
+          "quote": "You can bid on any property by attending the sale at the justice center on the day it is scheduled to take place."
+        },
+        {
+          "url": "https://haywoodcountync.gov/337/Tax-Foreclosures",
+          "quote": "A deposit of 20% of the bid will be required following the sale"
+        },
+        {
+          "url": "https://haywoodcountync.gov/337/Tax-Foreclosures",
+          "quote": "by a minimum of 5% thereof, but in any event with a minimum increase of $750."
+        },
+        {
+          "url": "https://haywoodcountync.gov/337/Tax-Foreclosures",
+          "quote": "This has to be filed at the Clerk of Superior Court's office in the Haywood County Justice Center."
+        },
+        {
+          "url": "https://haywoodcountync.gov/337/Tax-Foreclosures",
+          "quote": "A tax foreclosure can begin at any date after January 5th of the current year that is being collected."
+        },
+        {
+          "url": "https://haywoodcountync.gov/274/Tax-Collections",
+          "quote": "The Tax Collections Department and County Attorney's Office will handle all aspects of the foreclosure proceedings."
+        }
+      ]
     }
   ]
 }

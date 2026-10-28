@@ -373,6 +373,52 @@
           "quote": "Only cash or certified funds will be accepted in payment of property."
         }
       ]
+    },
+    {
+      "county": "Millard",
+      "slug": "millard",
+      "office": "Millard County Auditor's Office",
+      "phone": "435-743-5227",
+      "address": "50 South Main, Fillmore, UT 84631",
+      "website": "https://millardcounty.gov/your-government/elected-officials/auditor/tax-sale/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's tax sale page lists the 2026 sale as June 4, 2026 (held online), and shows results for 2021 through 2026.",
+      "how_to_bid": "The sale is held entirely online at Public Surplus; bidders must register there before the day of the sale. Bidders may submit a credit card (VISA, MasterCard or Discover) once bidding opens, and the minimum bid charge is held on the card when the first bid is placed; the hold is released if you lose or after the winner wires the full winning bid. No bid below the total of taxes, interest, penalty and administrative costs is accepted. The Auditor's Office does not give technical support for the auction site. Properties are sold as is, where is.",
+      "sources": [
+        {
+          "url": "https://millardcounty.gov/your-government/elected-officials/auditor/tax-sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or copyright link found in the footer (Home, Employee Login, Web Mapping, Facebook only). The 'County Disclosures' page in the site navigation holds only officials' conflict-of-interest and campaign finance filings and says nothing about reuse. No terms page found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://millardcounty.gov/?p=25968",
+          "read_on": "2026-10-28",
+          "terms": "Same site; no terms page found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://millardcounty.gov/your-government/elected-officials/auditor/tax-sale/",
+          "quote": "NOTICE OF TAX SALE JUNE 4, 2026"
+        },
+        {
+          "url": "https://millardcounty.gov/your-government/elected-officials/auditor/tax-sale/",
+          "quote": "Bidder Registration is required! Register at www.publicsurplus.com prior to the day of the sale."
+        },
+        {
+          "url": "https://millardcounty.gov/your-government/elected-officials/auditor/tax-sale/",
+          "quote": "The minimum bid charge will be held on your credit card when you place your first bid."
+        }
+      ]
     }
   ]
 }

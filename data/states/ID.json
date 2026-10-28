@@ -352,6 +352,76 @@
           "quote": "The auction is an open bidding process."
         }
       ]
+    },
+    {
+      "county": "Boise",
+      "slug": "boise",
+      "office": "Boise County Treasurer/Tax Department Office",
+      "phone": "208-392-4441",
+      "address": "420 Main Street, Idaho City, ID 83631 (Miner's Exchange Building)",
+      "website": "https://www.boisecounty.us/services/treasurer/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No tax deed sale is scheduled now. The Treasurer's page says unpaid parcels will be sold at public auction around September 25, 2027 (an approximate date, so it is not listed as a sale).",
+      "how_to_bid": "Auctions are held on the courthouse steps at 419 Main Street, Idaho City. You must be present to bid and have cash or certified funds.",
+      "sources": [
+        {
+          "url": "https://www.boisecounty.us/services/treasurer/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or copyright link found on the Treasurer's page. No terms page found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.boisecounty.us/services/treasurer/",
+          "quote": "WE DO NOT HAVE ANY TAX DEED SALES SCHEDULED."
+        },
+        {
+          "url": "https://www.boisecounty.us/services/treasurer/",
+          "quote": "Unpaid parcels will be sold at public auction around September 25, 2027"
+        },
+        {
+          "url": "https://www.boisecounty.us/services/treasurer/",
+          "quote": "you must be present to bid and have cash or certified funds."
+        }
+      ]
+    },
+    {
+      "county": "Shoshone",
+      "slug": "shoshone",
+      "office": "not stated (county tax deed auction page; tax questions go to the Treasurer's 'Tax Information' page)",
+      "phone": "not stated",
+      "address": "Courthouse, 700 Bank Street, Wallace, ID",
+      "website": "https://shoshonecounty.id.gov/tax-deed-auction/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The last posted auction was September 10, 2026; the next date is not yet posted.",
+      "how_to_bid": "The auction is held in the first-floor foyer of the Courthouse at 700 Bank Street, Wallace. You or your representative must attend in person; bid cards are available on auction day. The buyer pays the full amount by cashier's check (exact amount) by 3:00 p.m. on the sale date and must give a name and address for the public record. The county also posts a list of county surplus parcels.",
+      "sources": [
+        {
+          "url": "https://shoshonecounty.id.gov/tax-deed-auction/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or copyright link in the footer (only directory, tax information, meetings, employment, forms, floodplain, Title VI-ADA and emergency links). No terms page found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://shoshonecounty.id.gov/tax-deed-auction/",
+          "quote": "When and Where is the Tax Deed Auction Held - SEPTEMBER 10, 2026"
+        },
+        {
+          "url": "https://shoshonecounty.id.gov/tax-deed-auction/",
+          "quote": "in the first-floor foyer, of the Courthouse at 700 Bank Street, Wallace, ID."
+        }
+      ]
     }
   ]
 }

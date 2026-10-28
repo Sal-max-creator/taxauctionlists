@@ -683,6 +683,46 @@
           "quote": "Only bids submitted via the Internet will be accepted."
         }
       ]
+    },
+    {
+      "county": "Humboldt",
+      "slug": "humboldt",
+      "office": "Humboldt County Treasurer-Tax Collector",
+      "phone": "707-476-2450",
+      "address": "825 5th St. Room 125, Eureka, CA 95501",
+      "website": "https://humboldtgov.org/295/Public-Auction-Information",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "Auctions are held annually through the online auction site Govease.com.",
+      "sales": [],
+      "next_sale_note": "No 2027 date posted yet. The 2026 auction (May 29, 2026) has passed and its results are posted on the county page.",
+      "how_to_bid": "Defaulted properties delinquent more than 5 years may go to public auction, held online through GovEase; the county says to sign up for notification at www.govease.com. Deposit, registration deadline, minimum bids and payment terms are not stated on the county page. Claims for excess proceeds must be made within one year of recordation of the Tax Collector's deed to the purchaser.",
+      "sources": [
+        {
+          "url": "https://humboldtgov.org/295/Public-Auction-Information",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the county site footer has no terms, disclaimer, privacy or copyright link (only Site Map, Accessibility and feedback/survey forms), and the site map lists no website terms, disclaimer or copyright page.",
+          "terms_url": "https://humboldtgov.org/sitemap"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://humboldtgov.org/295/Public-Auction-Information",
+          "quote": "Defaulted properties that are delinquent more than 5 years may go to public auction"
+        },
+        {
+          "url": "https://humboldtgov.org/295/Public-Auction-Information",
+          "quote": "Auctions are held annually through the online auction site Govease.com."
+        },
+        {
+          "url": "https://humboldtgov.org/295/Public-Auction-Information",
+          "quote": "This year's auction will be held on May 29, 2026."
+        }
+      ]
     }
   ]
 }

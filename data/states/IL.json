@@ -1321,6 +1321,229 @@
           "quote": "No bid shall be accepted for a penalty exceeding 9 percent of the amount of the tax or special assessment."
         }
       ]
+    },
+    {
+      "county": "Boone",
+      "slug": "boone",
+      "office": "Boone County Treasurer's Office",
+      "phone": "815-544-2666",
+      "address": "1212 Logan Avenue, Suite 104, Belvidere, IL 61008",
+      "website": "https://boonecountytreasurer.us/tax-sale-information/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-10-29",
+          "time": "9:00 AM",
+          "label": "Annual Tax Sale",
+          "deposit": "$250 registration fee with the registration (applied to purchases, refunded if you bid but buy nothing, forfeited if you do not attend and bid)",
+          "registration_deadline": "Registrations must be received two weeks (10 business days) before the tax sale",
+          "note": "Held in the County Board room at the Boone County Administration Campus, 1212 Logan Avenue, Belvidere. The page does not mention a Public Act 104-0553 trustee election; real estate taxes are offered to private buyers by open outcry, and the county as trustee for the taxing districts buys liens only in the absence of other bidders.",
+          "source_url": "https://boonecountytreasurer.us/tax-sale-information/",
+          "quote": "The next tax sale is Thursday, October 29, 2026 at 9:00 am in the County Board room"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Send the registration with the $250 registration fee and a Single Bidder Affidavit so it arrives two weeks (10 business days) before the sale; first-time buyers also complete the First Time Buyer Disclosure. The sale is open outcry, and you or your registered representative must be physically present to bid; there is no bidding by mail, phone or internet. Taxes must be paid immediately after the close of the sale. Lists cost $70. Boone County, as trustee for the taxing districts, buys all tax liens that get no other bidder; there is no scavenger sale.",
+      "sources": [
+        {
+          "url": "https://boonecountytreasurer.us/tax-sale-information/",
+          "read_on": "2026-10-28",
+          "terms": "Terms of Use page read: disclaimers of warranty, liability and external links, and Illinois law governs all uses of the site's data; no clause on reproduction, redistribution, commercial or personal-only use, resale or automated access. Footer: '© 2026 Boone County Treasurer's Office'. No reuse restriction found.",
+          "terms_url": "https://boonecountytreasurer.us/terms-of-use/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://boonecountytreasurer.us/tax-sale-information/",
+          "quote": "The sale is conducted in the traditional open outcry format."
+        },
+        {
+          "url": "https://boonecountytreasurer.us/tax-sale-information/",
+          "quote": "Taxes must be paid immediately after the close of the tax sale."
+        }
+      ]
+    },
+    {
+      "county": "Clay",
+      "slug": "clay",
+      "office": "Clay County Treasurer & Collector",
+      "phone": "(618) 665-3727",
+      "address": "111 E. Chestnut St., P.O. Box 88, Louisville, IL 62858",
+      "website": "https://claycounty.illinois.gov/treasurer/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": {
+        "name": "RAMS2 (automated sale)",
+        "url": null
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-01-08",
+          "time": "10:30 AM",
+          "label": "Annual Tax Sale (2025 payable 2026 taxes; mobile homes only offered to private buyers)",
+          "deposit": "$100 registration fee",
+          "registration_deadline": "Last day to register is December 21, 2026",
+          "register_by": "2026-12-21",
+          "note": "Under Public Act 104-0553 Clay County has elected to acquire all delinquent real estate taxes as trustee, starting with the 2025 payable 2026 sale; only delinquent mobile home taxes are offered to private tax buyers. The sale is automated (RAMS2). The sale location is not stated; the Treasurer's page says the tax sale is held at the County Treasurer's Office.",
+          "source_url": "https://claycounty.illinois.gov/wp-content/uploads/2026/09/Tax-Sale-Registration-2026.pdf",
+          "quote": "FIRST DAY OF SALE: JANUARY 8, 2027 @ 10:30 AM"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Only delinquent mobile home taxes are offered to private buyers; the county takes all delinquent real estate taxes as trustee. Register with the Clay County Treasurer & Collector at least 10 business days before the first day of sale (last day December 21, 2026) by returning the bottom of the registration notice to PO Box 88, Louisville, IL 62858 with the $100 registration fee, and list every person who will buy under your company or name. The sale is automated (RAMS2). If sold mobile home taxes are not paid within two years and 6 months of the sale, the tax buyer can obtain title to the mobile home. Payment terms are not stated.",
+      "sources": [
+        {
+          "url": "https://claycounty.illinois.gov/wp-content/uploads/2026/09/Tax-Sale-Registration-2026.pdf",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link or text on the site; footer shows only '© Copyright 2026 Clay County Government' and 'Hosted by Magoo & Associates, LLC' (no vendor terms link). No reuse, commercial-use or automated-access clause found."
+        },
+        {
+          "url": "https://claycounty.illinois.gov/treasurer/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link or text on the site; footer shows only '© Copyright 2026 Clay County Government' and 'Hosted by Magoo & Associates, LLC' (no vendor terms link). No reuse, commercial-use or automated-access clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://claycounty.illinois.gov/wp-content/uploads/2026/09/Tax-Sale-Registration-2026.pdf",
+          "quote": "Last day to register is December 21, 2026."
+        },
+        {
+          "url": "https://claycounty.illinois.gov/wp-content/uploads/2026/09/Tax-Sale-Registration-2026.pdf",
+          "quote": "Pursuant to Public Act 104-0553, Clay County has elected to acquire all delinquent real estate property taxes as trustee"
+        },
+        {
+          "url": "https://claycounty.illinois.gov/treasurer/",
+          "quote": "Tax sale is held at the end of the tax cycle at the County Treasurer's Office."
+        }
+      ]
+    },
+    {
+      "county": "Hamilton",
+      "slug": "hamilton",
+      "office": "Hamilton County Treasurer",
+      "phone": "(618) 643-3313",
+      "address": "100 South Jackson Street, McLeansboro, IL 62859",
+      "website": "https://www.hamiltoncountyil.gov/departments/treasurer",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-13",
+          "time": "9:00 AM",
+          "label": "Tax sale (delinquent only)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "From the Treasurer's calendar, which places the sale at the Hamilton County Courthouse. The page does not mention a Public Act 104-0553 trustee election. Registration, fees and bidding method are not stated.",
+          "source_url": "https://www.hamiltoncountyil.gov/departments/treasurer",
+          "quote": "Tax sale (delinquent only) November 13, 2026"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Registration, fees, deposit and bidding method are not stated on the Treasurer's page; contact the Treasurer at (618) 643-3313. No personal checks are accepted for tax payments in the 30 days before the sale, and payments made after the sale go to the County Clerk's Office in certified funds (cash, cashier's check or money order).",
+      "sources": [
+        {
+          "url": "https://www.hamiltoncountyil.gov/departments/treasurer",
+          "read_on": "2026-10-28",
+          "terms": "Privacy policy read (it covers personal data collected by forms, logs and analytics only); it says nothing on reuse, redistribution, commercial or personal-only use, or automated access. Footer: '© 2026 Hamilton County, Illinois. All rights reserved.' with FOIA, privacy, accessibility and site map links; no terms or disclaimer link. No reuse restriction found.",
+          "terms_url": "https://www.hamiltoncountyil.gov/privacy-policy"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.hamiltoncountyil.gov/departments/treasurer",
+          "quote": "No Personal checks will be accepted 30 days prior to the Tax Sale"
+        }
+      ]
+    },
+    {
+      "county": "Menard",
+      "slug": "menard",
+      "office": "Menard County Treasurer/Collector",
+      "phone": "(217) 632-2333",
+      "address": "Menard County Courthouse, 1st Floor, 102 South Seventh Street, Petersburg, IL 62675",
+      "website": "https://menardcountyil.com/elected-officials/county-treasurercollector/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-04",
+          "time": "11:00 AM",
+          "label": "Annual sale of delinquent real estate and mobile home taxes",
+          "deposit": "$150 registration fee",
+          "registration_deadline": "not stated",
+          "note": "Held in the Treasurer's Office. The last day to pay taxes is 4:00 p.m. on Thursday, December 3, 2026. The page does not mention a Public Act 104-0553 trustee election; it describes rate bidding by registered tax purchasers. The delinquent list costs $75 with one free update.",
+          "source_url": "https://menardcountyil.com/elected-officials/county-treasurercollector/",
+          "quote": "The annual sale of delinquent taxes is Friday, December 4, 2026 at 11:00 a.m. in the Treasurer's Office."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register on the county's Registration for Annual Sale of Delinquent Taxes form (mobile homes have their own form) with the $150 registration fee; the deadline is not stated. Registered tax purchasers bid by rate starting at 9%, and the tax goes to the lowest bidder. Only the delinquent tax and penalties are sold, not the property. The delinquent tax sale list costs $75 with one free update. Redemption is figured through the County Clerk's office.",
+      "sources": [
+        {
+          "url": "https://menardcountyil.com/elected-officials/county-treasurercollector/",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer has no terms, disclaimer or privacy link, only '© 2015 Menard County, IL Government All Rights Reserved'. No reuse, commercial-use or automated-access clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://menardcountyil.com/elected-officials/county-treasurercollector/",
+          "quote": "Property is not sold at the annual sale of delinquent taxes, only the delinquent tax and all penalties."
+        }
+      ]
+    },
+    {
+      "county": "Morgan",
+      "slug": "morgan",
+      "office": "Morgan County Treasurer",
+      "phone": "(217) 243-4311",
+      "address": "Morgan County Courthouse, 300 West State Street, Jacksonville, IL 62650",
+      "website": "https://morgancounty-il.com/wp/departments/treasurer/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "time": "1:30 PM",
+          "label": "Tax Sale (2025 taxes)",
+          "deposit": "$100 registration fee (refundable if no taxes are purchased by the buyer)",
+          "registration_deadline": "Last day to register was October 16, 2026",
+          "note": "Held in the Law Library on the 1st floor of the Morgan County Courthouse. Registration closed October 16, 2026. The last day to pay 2025 taxes before the sale is Friday, October 30, 2026 at 4:30 p.m. The page does not mention a Public Act 104-0553 trustee election.",
+          "source_url": "https://morgancounty-il.com/wp/departments/treasurer/",
+          "quote": "Monday, November 2, 2026 at 1:30 p.m. Tax Sale – Location in the Law Library on the 1st Floor of the Morgan County Courthouse"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Buyer registration forms come from the Treasurer's Office; the last day to register was October 16, 2026, with a $100 registration fee (refundable if no taxes are bought). A copy of the tax sale file costs $50, non-refundable. The bidding method and payment terms are not stated.",
+      "sources": [
+        {
+          "url": "https://morgancounty-il.com/wp/departments/treasurer/",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy page read (includes a General Disclaimer): it makes no representation about users' rights to further duplicate the information and says the materials are intended for public use; no clause banning reuse, redistribution, commercial use, resale or automated access. Footer: '© 2019 Morgan County, Illinois. All Rights Reserved.' No reuse restriction found.",
+          "terms_url": "https://morgancounty-il.com/wp/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://morgancounty-il.com/wp/departments/treasurer/",
+          "quote": "Last day to Register for Tax Sale-October 16, 2026"
+        },
+        {
+          "url": "https://morgancounty-il.com/wp/departments/treasurer/",
+          "quote": "$100 Registration Fee- (Refundable if no taxes are purchased by the buyer)"
+        }
+      ]
     }
   ]
 }

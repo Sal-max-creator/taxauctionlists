@@ -686,6 +686,126 @@
           "quote": "REGISTRATION BEGINS @ 9:00 A.M., AUCTION BEGINS @ 10:00 A.M."
         }
       ]
+    },
+    {
+      "county": "Grays Harbor",
+      "slug": "grays-harbor",
+      "office": "Grays Harbor County Treasurer",
+      "phone": "360-249-3751",
+      "address": "100 W Broadway, Montesano, WA 98563",
+      "website": "https://www.graysharbor.us/government/treasurer/foreclosures.php",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-07",
+          "time": "not stated",
+          "label": "2026 Tax Foreclosure Auction (online)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated (all bidders must be registered with the online auction provider)",
+          "note": "The county's pages read here do not name the online auction provider. Owners may redeem up to 4:30 p.m. on the day before the sale; there is no right of redemption on the sale day.",
+          "source_url": "https://www.graysharbor.us/government/treasurer/foreclosures.php",
+          "quote": "The 2026 foreclosure auction will be held on December 7, 2026."
+        }
+      ],
+      "how_to_bid": "Bid online: the county says all bidders must be registered with the online auction provider (the provider is not named on the pages read here). The parcels stay privately owned until the auction ends, so inspect them only from the public right-of-way or with the current owner's permission. Owners may redeem up to 4:30 p.m. on the day before the sale; there is no right of redemption on the sale day. Parcels that do not sell are later shown on the county's Tax Title information page. Deposit, payment methods, start time and minimum bids are not stated on the pages read.",
+      "sources": [
+        {
+          "url": "https://www.graysharbor.us/government/treasurer/foreclosures.php",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy/Disclaimer page: liability disclaimer only ('Grays Harbor County ... do not warrant the accuracy, reliability or timeliness of any information contained in this web site'); footer '© 2016 Grays Harbor County, Washington'. No clause on reuse, redistribution, commercial or personal use, resale or automated access. Copyright-only.",
+          "terms_url": "https://www.graysharbor.us/how_do_i_%28faq%29/privacy_policy_disclaimer.php"
+        },
+        {
+          "url": "https://www.graysharbor.us/government/treasurer/bidder_information.php",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see Privacy Policy/Disclaimer."
+        },
+        {
+          "url": "https://www.graysharbor.us/government/treasurer/f_a_q.php",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see Privacy Policy/Disclaimer."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.graysharbor.us/government/treasurer/bidder_information.php",
+          "quote": "All bidders must be registered with the online auction provider."
+        },
+        {
+          "url": "https://www.graysharbor.us/government/treasurer/f_a_q.php",
+          "quote": "There is no right of redemption by owners or lien-holders on the day of the sale."
+        },
+        {
+          "url": "https://www.graysharbor.us/government/treasurer/foreclosures.php",
+          "quote": "parcels that did not sell will be shown on the Tax Title information page."
+        }
+      ]
+    },
+    {
+      "county": "Pend Oreille",
+      "slug": "pend-oreille",
+      "office": "Pend Oreille County Treasurer",
+      "phone": "(509) 447-3612",
+      "address": "625 W 4th Street, PO Box 5080, Newport, WA 99156",
+      "website": "https://www.pendoreille.gov/treasurers-office/page/real-estate-tax-foreclosure-sale",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Bid4Assets",
+        "url": "http://www.bid4assets.com/pendoreille"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "not stated",
+          "label": "2026 Tax Foreclosure Sale (online, Bid4Assets)",
+          "deposit": "required; amount not stated (must be completed and received approximately one week before the auction starts)",
+          "registration_deadline": "not stated (bidders must be registered before the sale starts)",
+          "note": "Covers parcels with 2023 and prior years' taxes delinquent. Parcels may be redeemed up to 4:00 p.m. the day before the auction.",
+          "source_url": "https://www.pendoreille.gov/treasurers-office/page/real-estate-tax-foreclosure-sale",
+          "quote": "The 2026 Tax Foreclosure Sale will be held on November 17, 2026 online at bid4assets.com."
+        }
+      ],
+      "how_to_bid": "Bid online in the county's open internet auction on Bid4Assets; all bidders must be registered before the sale starts. A deposit must be completed and received approximately one week before the auction starts, and the deposit and winning bid must be paid by wire transfer or certified check. The minimum bid covers the tax, interest, penalties and foreclosure costs owed to the county. A Treasurer's Tax Deed is issued within 30 days of payment confirmation. Parcels may be redeemed up to 4:00 p.m. the day before the auction. Deposit amount and start time are not stated.",
+      "sources": [
+        {
+          "url": "https://www.pendoreille.gov/treasurers-office/page/real-estate-tax-foreclosure-sale",
+          "read_on": "2026-10-28",
+          "terms": "Website Disclaimer / Copyright Notices page: 'All content found on this website, unless otherwise indicated, is under copyright by Pend Oreille County. All Rights Reserved.' plus an informational-purposes and liability disclaimer. No clause on reuse, redistribution, commercial or personal use, resale or automated access. Copyright-only.",
+          "terms_url": "https://www.pendoreille.gov/home-page/page/website-disclaimer-privacy-policy-accessibility-statement"
+        },
+        {
+          "url": "https://www.pendoreille.gov/sites/g/files/vyhlif14901/files/media/treasurers-office/file/31676/PEND%20OREILLE%20COUNTY%20TAX%20FORECLOSURE%20INFORMATION.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see Website Disclaimer."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pendoreille.gov/sites/g/files/vyhlif14901/files/media/treasurers-office/file/31676/PEND%20OREILLE%20COUNTY%20TAX%20FORECLOSURE%20INFORMATION.pdf",
+          "quote": "This is an open internet auction facilitated by Bid4Assets."
+        },
+        {
+          "url": "https://www.pendoreille.gov/sites/g/files/vyhlif14901/files/media/treasurers-office/file/31676/PEND%20OREILLE%20COUNTY%20TAX%20FORECLOSURE%20INFORMATION.pdf",
+          "quote": "Deposits must be completed and received approximately one week prior to the start of the auction."
+        },
+        {
+          "url": "https://www.pendoreille.gov/sites/g/files/vyhlif14901/files/media/treasurers-office/file/31676/PEND%20OREILLE%20COUNTY%20TAX%20FORECLOSURE%20INFORMATION.pdf",
+          "quote": "Payment of deposit and winning bid must be in the form of wire transfer or certified check."
+        },
+        {
+          "url": "https://www.pendoreille.gov/sites/g/files/vyhlif14901/files/media/treasurers-office/file/31676/PEND%20OREILLE%20COUNTY%20TAX%20FORECLOSURE%20INFORMATION.pdf",
+          "quote": "A Treasurer's Tax Deed will be issued within 30 days of payment confirmation."
+        },
+        {
+          "url": "https://www.pendoreille.gov/sites/g/files/vyhlif14901/files/media/treasurers-office/file/31676/PEND%20OREILLE%20COUNTY%20TAX%20FORECLOSURE%20INFORMATION.pdf",
+          "quote": "In 2026, the properties subject to foreclosure are those on which the 2023 and prior years are delinquent."
+        }
+      ]
     }
   ]
 }

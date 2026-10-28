@@ -800,6 +800,83 @@
           "terms": "No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Iowa County' (Title VI documents and a Neapolitan Labs vendor link). No reuse clause found."
         }
       ]
+    },
+    {
+      "county": "Webster",
+      "slug": "webster",
+      "office": "Webster County Treasurer",
+      "phone": "515-576-4611 (Treasurer page); (515) 573-2731 (2026 tax sale notice)",
+      "address": "Webster County Courthouse, 701 Central Ave, Fort Dodge, IA 50501",
+      "website": "https://www.webstercountyia.gov/departments/treasurer/tax_sale_2018.php",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's 2026 sale began at 8:00 a.m. on Monday, June 15, 2026, held at the Webster County Courthouse with bids placed online.",
+      "how_to_bid": "Per the county's 2026 Notice to Tax Sale Purchaser (check for the 2027 notice): bidders place bids online at the Iowa Tax Auction site and need not be at the courthouse. Every registration step had to be finished by the deadline in the notice (11:59 p.m. on June 11, 2026, for that sale), with a non-refundable $56.00 registration fee paid by ACH debit. Each parcel is offered starting at a 100% undivided interest and bidders bid down in whole points; the certificate goes to the bidder naming the smallest percentage, with ties broken at random. The total due is taken by ACH debit from the registration account, plus a $20.00 certificate fee per certificate. Redemption interest is 2% per month. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.webstercountyia.gov/departments/treasurer/tax_sale_2018.php",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the Treasurer pages' footer has no terms, disclaimer, legal or privacy link, only '© Webster County, IA' and a 'Powered by revize' vendor link. No reuse clause found.",
+          "terms_url": "https://www.webstercountyia.gov/departments/treasurer/"
+        },
+        {
+          "url": "https://www.webstercountyia.gov/Departments/Treasurer/2026%20Webster%20Notice%20to%20Tax%20Sale%20Purchaser.pdf",
+          "read_on": "2026-10-28",
+          "terms": "County's 2026 notice to tax sale purchasers (rules only; no property list or owner names). Same site terms as above."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.webstercountyia.gov/departments/treasurer/tax_sale_2018.php",
+          "quote": "The 2026 Webster County Tax Sale will begin at 8:00 a.m. on Monday, June 15, 2026."
+        },
+        {
+          "url": "https://www.webstercountyia.gov/departments/treasurer/tax_sale_2018.php",
+          "quote": "The Sale will be held at the Webster County Courthouse and bidders shall place their bids online."
+        },
+        {
+          "url": "https://www.webstercountyia.gov/Departments/Treasurer/2026%20Webster%20Notice%20to%20Tax%20Sale%20Purchaser.pdf",
+          "quote": "Pay a non-refundable $56.00 registration fee via ACH debit."
+        },
+        {
+          "url": "https://www.webstercountyia.gov/Departments/Treasurer/2026%20Webster%20Notice%20to%20Tax%20Sale%20Purchaser.pdf",
+          "quote": "a certificate fee in the amount of $20.00 for each certificate purchased."
+        }
+      ]
+    },
+    {
+      "county": "Des Moines",
+      "slug": "des-moines",
+      "office": "Des Moines County Treasurer",
+      "phone": "not stated",
+      "address": "513 N Main St., Burlington, IA 52601",
+      "website": "https://desmoinescounty.iowa.gov/treasurer/tax_department/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "3rd Monday - Annual Tax Sale is held at 10:00 a.m.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The Treasurer's yearly timeline lists the annual tax sale in June, on the third Monday at 10:00 a.m.",
+      "how_to_bid": "The county page gives only the annual schedule and links a 'Tax Sale Online Rules' document dated 2023 (check for current rules). Registration, fees and deposit: not stated. Contact the Treasurer's office at 513 N Main St., Burlington, or through the county contact page.",
+      "sources": [
+        {
+          "url": "https://desmoinescounty.iowa.gov/treasurer/tax_department/",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: footer has no terms, disclaimer, legal or privacy link, only '©2026 Des Moines County, Iowa' and a Neapolitan Labs vendor link. No reuse clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://desmoinescounty.iowa.gov/treasurer/tax_department/",
+          "quote": "3rd Monday - Annual Tax Sale is held at 10:00 a.m."
+        }
+      ]
     }
   ]
 }

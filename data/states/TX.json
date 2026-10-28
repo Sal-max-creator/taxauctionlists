@@ -1952,6 +1952,61 @@
           "quote": "The redemption period for homestead or agriculture is two years."
         }
       ]
+    },
+    {
+      "county": "Tom Green",
+      "slug": "tom-green",
+      "office": "Tom Green County Clerk (Real Estate Department) - Trustee Tax Properties",
+      "phone": "not stated",
+      "address": "124 W. Beauregard, 1st Floor, San Angelo, TX 76903 (County Clerk's Office, per the county's trustee property procedure)",
+      "website": "https://www.tomgreencountytx.gov/page/cck.TrusteeTaxSales",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Those sales are usually in March, June and October.",
+      "sales": [],
+      "next_sale_note": "No dated trustee tax property sale is posted. The County Clerk's page says there are normally three Trustee Tax Properties sales a year. The 'Final posting for November 3rd 2026' on the same page heads trustee-sale notices that appear to be the first-Tuesday foreclosure postings, not a tax property sale, so it is not listed here.",
+      "how_to_bid": "Trustee tax properties are properties struck off to Tom Green County after they did not sell at the tax auction; the County Clerk lists them when available. The county's posted procedure also allows a private purchase: submit a written offer on the Tax Trustee Property Bid Submission Form in a sealed envelope to the County Clerk's Office (Attn: Real Estate Department). Offers under $500 are not considered, the offer must be paid in full by certified or cashier's check or money order (no personal checks or credit cards), the Commissioners' Court gives final approval, the process can take up to four months, and the buyer receives a deed without warranty after paying the recording fee. Auction place, time and registration: not stated.",
+      "sources": [
+        {
+          "url": "https://www.tomgreencountytx.gov/page/cck.TrusteeTaxSales",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; footer reads only 'Copyright © 2024 - Tom Green County, Texas' plus the ezTask vendor credit. No reuse restriction found. Restate facts only.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.tomgreencountytx.gov/upload/page/0058/docs/TrusteePropertyProcs.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Undated procedure PDF; no terms text in the document. Same site footer as above (copyright only). No reuse restriction found. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tomgreencountytx.gov/page/cck.TrusteeTaxSales",
+          "quote": "There are normally three Trustee Tax Properties sales per year."
+        },
+        {
+          "url": "https://www.tomgreencountytx.gov/page/cck.TrusteeTaxSales",
+          "quote": "Those sales are usually in March, June and October."
+        },
+        {
+          "url": "https://www.tomgreencountytx.gov/page/cck.TrusteeTaxSales",
+          "quote": "Trustee tax properties are properties that have been struck off to Tom Green County"
+        },
+        {
+          "url": "https://www.tomgreencountytx.gov/upload/page/0058/docs/TrusteePropertyProcs.pdf",
+          "quote": "Offers of less than $500 will NOT be considered."
+        },
+        {
+          "url": "https://www.tomgreencountytx.gov/upload/page/0058/docs/TrusteePropertyProcs.pdf",
+          "quote": "Personal checks and credit cards are NOT accepted."
+        },
+        {
+          "url": "https://www.tomgreencountytx.gov/upload/page/0058/docs/TrusteePropertyProcs.pdf",
+          "quote": "Only offers submitted on a Tax Trustee Property Bid Submission Form will be accepted."
+        }
+      ]
     }
   ]
 }

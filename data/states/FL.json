@@ -2461,6 +2461,43 @@
           "quote": "Payment in full must be made within twenty-four (24) hours."
         }
       ]
+    },
+    {
+      "county": "Taylor",
+      "slug": "taylor",
+      "office": "Taylor County Clerk of the Circuit Court & County Comptroller - Tax Deeds",
+      "phone": "(850) 838-3506 ext. 103",
+      "address": "108 North Jefferson St., Perry, Florida 32347 (mailing: P.O. Box 620, Perry, FL 32348)",
+      "website": "https://taylorclerk.com/departments/tax-deeds/",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No dated sale is posted; the page's Active Tax Deed Sales section is empty.",
+      "how_to_bid": "All sales begin at 11 AM. A non-refundable $200.00 cash deposit is due from the successful bidder for each property, and payment is made immediately by cash, cashier's check or certified check. Successful bidders wait and meet with the Deputy Clerk after all sales have been conducted. Sale location and registration: not stated. Tax deed questions: taxdeeds@taylorclerk.com.",
+      "sources": [
+        {
+          "url": "https://taylorclerk.com/departments/tax-deeds/",
+          "read_on": "2026-10-28",
+          "terms": "Footer links a Privacy Policy, Accessibility Policy, sitemap and the site vendor (KMA); no separate terms or disclaimer link. The Privacy Policy page also covers terms of use; its Prohibited Uses section bars only unlawful transmission or storage of information, and the page says the site 'is for informational purposes only and is offered as a convenience for our customers.' Footer: '©2026 Taylor Clerk of the Circuit Court & County Comptroller. All rights reserved.' No reuse restriction found.",
+          "terms_url": "https://taylorclerk.com/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://taylorclerk.com/departments/tax-deeds/",
+          "quote": "All sales begin at 11 AM."
+        },
+        {
+          "url": "https://taylorclerk.com/departments/tax-deeds/",
+          "quote": "A non-refundable $200.00 cash deposit is due from the Successful Bidder for each property"
+        },
+        {
+          "url": "https://taylorclerk.com/departments/tax-deeds/",
+          "quote": "Payment shall be made immediately by cash, cashiers check or certified check."
+        }
+      ]
     }
   ]
 }

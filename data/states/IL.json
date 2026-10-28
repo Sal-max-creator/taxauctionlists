@@ -1090,6 +1090,136 @@
           "quote": "There is a $100 non-refundable fee to purchase the list."
         }
       ]
+    },
+    {
+      "county": "Bond",
+      "slug": "bond",
+      "office": "Bond County Treasurer",
+      "phone": "(618) 664-0618",
+      "address": "200 West College Ave, Greenville, IL 62246",
+      "website": "https://bondcountyil.gov/treasurer/tax-sale-information/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-19",
+          "time": "10:00 AM, County Treasurer's Office, Greenville",
+          "label": "Annual tax sale for 2025 property taxes payable in 2026",
+          "deposit": "not stated",
+          "registration_deadline": "Register in writing with the County Treasurer's Office 10 working days before the sale; the page says to contact the office for the exact date.",
+          "note": "Not live bidding this year: bids are made on a flash drive (RAMS 2) brought to the Treasurer's office on the sale date. The delinquent list costs $50.",
+          "source_url": "https://bondcountyil.gov/treasurer/tax-sale-information/",
+          "quote": "Tax sale for 2025 Property Taxes payable in 2026 will be Thursday November 19th, 2026 at 10am."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Register in writing with the Treasurer's Office 10 working days before the sale using the county registration form. Bids are for the 6-month interest rate, starting at 9% and going down to 0%; the lowest bid wins. This year's sale is not live bidding: bids are submitted on a flash drive (RAMS 2) brought to the Treasurer's office on the sale date, and mail, phone and fax bids are not accepted. Taxes must be paid right after the sale closes (personal or business check, cashier's check or cash). Certificates are mailed about a week later. The tax sale does not clear liens from the property.",
+      "sources": [
+        {
+          "url": "https://bondcountyil.gov/treasurer/tax-sale-information/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; footer shows only '© 2026. Bond County, Illinois. All rights reserved.' No reuse, commercial-use or automated-access clause found. Restate facts only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://bondcountyil.gov/treasurer/tax-sale-information/",
+          "quote": "The bid is for the 6 month interest rate."
+        },
+        {
+          "url": "https://bondcountyil.gov/treasurer/tax-sale-information/",
+          "quote": "The bids start at 9% and goes down to 0%."
+        },
+        {
+          "url": "https://bondcountyil.gov/treasurer/tax-sale-information/",
+          "quote": "Register in writing 10 working days prior to tax sale with the County Treasurer's Office."
+        }
+      ]
+    },
+    {
+      "county": "Clinton",
+      "slug": "clinton",
+      "office": "Clinton County Treasurer",
+      "phone": "(618) 594-6650",
+      "address": "PO Box 174, Carlyle, IL 62231 (office in the County Courthouse, 850 Fairfax St, Carlyle)",
+      "website": "https://www.clintonco.illinois.gov/treasurer/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-28",
+          "time": "10:00 AM, Clinton County Boardroom, 810 Franklin St, Carlyle",
+          "label": "Delinquent tax sale, mobile homes only",
+          "deposit": "not stated; $250 tax sale registration fee and $150 tax sale book fee",
+          "registration_deadline": "Pre-registration deadline December 14, 2026; only pre-registered bidders are admitted.",
+          "register_by": "2026-12-14",
+          "note": "Starting with the 2025 payable 2026 sale, the county acquires all delinquent real estate taxes as trustee; only delinquent mobile home taxes are offered to private tax buyers.",
+          "source_url": "https://www.clintonco.illinois.gov/treasurer/",
+          "quote": "Clinton County Delinquent Tax Sale – Mobile Homes will be held on December 28, 2026, 10:00 am"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Pre-register with the Clinton County Treasurer by the deadline using the county's bidder registration form; only pre-registered bidders are admitted, and a bidder may bid only for the company they registered with. Fees: $250 tax sale registration and $150 tax sale book. Catalogs are sold at the Treasurer's Office in the County Courthouse. Only mobile home taxes are offered; the county takes real estate taxes as trustee. Bidding procedure and deposit are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.clintonco.illinois.gov/treasurer/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; footer shows only '© Clinton County, Illinois'. No reuse, commercial-use or automated-access clause found. Restate facts only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.clintonco.illinois.gov/treasurer/",
+          "quote": "The pre-registration deadline is December 14th, 2026."
+        },
+        {
+          "url": "https://www.clintonco.illinois.gov/treasurer/",
+          "quote": "Bidders must be pre-registered, and only pre-registered bidders will be admitted."
+        }
+      ]
+    },
+    {
+      "county": "Fayette",
+      "slug": "fayette",
+      "office": "Fayette County Treasurer's Office",
+      "phone": "618-283-5022",
+      "address": "221 S 7th St, Room 105, Vandalia, IL 62471",
+      "website": "https://www.fayettecountyillinois.gov/county-offices/county-treasurer/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-03",
+          "time": "9:30 AM (location not stated)",
+          "label": "Annual tax sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "The treasurer's schedule also lists a judgment date of November 18, 2026 at 10 am.",
+          "source_url": "https://www.fayettecountyillinois.gov/county-offices/county-treasurer/",
+          "quote": "Tax Sale - December 3, 2026 at 9:30 am"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "not stated; the treasurer's page posts only the sale schedule (delinquent list to newspapers October 7, 2026, publication October 14, 2026, judgment November 18, 2026, tax sale December 3, 2026). Contact the Treasurer's Office at 618-283-5022 for registration and bidding details.",
+      "sources": [
+        {
+          "url": "https://www.fayettecountyillinois.gov/county-offices/county-treasurer/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link in the site footer; footer shows only '© 2026 Fayette County, IL All Rights Reserved'. No reuse, commercial-use or automated-access clause found. Restate facts only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.fayettecountyillinois.gov/county-offices/county-treasurer/",
+          "quote": "Judgement Date - November 18, 2026 at 10 am"
+        }
+      ]
     }
   ]
 }

@@ -763,6 +763,43 @@
           "quote": "At the sale, the property is auctioned to the highest bidder for cash or certified funds."
         }
       ]
+    },
+    {
+      "county": "Garvin",
+      "slug": "garvin",
+      "office": "Garvin County Treasurer",
+      "phone": "405-238-7301",
+      "address": "201 West Grant, Room 9, Pauls Valley, Oklahoma 73075",
+      "website": "https://oktaxrolls.com/county/Garvin",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax resale is held each year on the second Monday of June in the County Treasurer's office between 9 a.m. and 4 p.m.",
+      "sales": [],
+      "next_sale_note": "2027 June resale date not yet posted. The page also links a county-owned property list dated Jul 23 2026 (past).",
+      "how_to_bid": "A tax resale is the outright purchase of property on which taxes are delinquent: property is auctioned to the highest bidder, with bidding starting at all delinquent taxes, penalties, fees and costs. Unsold property is deeded to the county. The Treasurer may later sell county-owned property on receiving a bid, subject to approval by the Board of County Commissioners, which may reject any bid: the bidder places a deposit with the Treasurer to cover advertising, the property is auctioned to the highest bidder for cash or certified funds, and the winner pays any further advertising costs and County Clerk recording fees (any unused deposit is refunded). Registration terms: not stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Garvin",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' and a notice that errors do not waive tax amounts. No terms of use page and no reuse restriction stated. Copyright-only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Garvin",
+          "quote": "The tax resale is held each year on the second Monday of June in the County Treasurer's office between 9 a.m. and 4 p.m."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Garvin",
+          "quote": "Bid begins with the amount of all delinquent taxes, penalties, fees and costs."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Garvin",
+          "quote": "At the sale, the property is auctioned to the highest bidder for cash or certified funds."
+        }
+      ]
     }
   ]
 }

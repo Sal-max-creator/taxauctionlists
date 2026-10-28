@@ -686,6 +686,43 @@
           "quote": "The tax sale will be held at the Whitley County Courthouse , 200 Main St. Room 2, Williamsburg, Ky. 40769"
         }
       ]
+    },
+    {
+      "county": "Henry",
+      "slug": "henry",
+      "office": "Henry County Clerk",
+      "phone": "502-845-5705",
+      "address": "27 South Property Rd, New Castle, KY 40050",
+      "website": "https://henrycountyclerk.ky.gov/delinquent-taxes/",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 sale of 2025 tax bills was held Wednesday, July 29th, 2026 at 10:00 a.m. in the Clerk's office (past).",
+      "how_to_bid": "Register with the County Clerk and pay the registration fee and deposit before the sale. The deposit is 25% of the total of the current-year certificates of delinquency on the purchaser's submitted list and is due no later than five days before the sale, plus a $30.00 per-certificate fee for assignment and recording of the lien. The sale is held in person in the Clerk's office and run like a professional sports draft, with order of selection set by random drawing; purchasers may only buy certificates on their previously submitted Current Year list. Any balance after deposits is due by close of business. Questions about the sale process go to the Clerk's office at 502-845-5705.",
+      "sources": [
+        {
+          "url": "https://henrycountyclerk.ky.gov/delinquent-taxes/",
+          "read_on": "2026-10-28",
+          "terms": "No terms or disclaimer link; footer links a Privacy & Disability Statement (read: data collection, cookies and disability accommodations, no clause on reuse, redistribution, personal-use limits or automated access) and shows 'Site Provided By Software Management, LLC ©2026'. No reuse restriction found.",
+          "terms_url": "https://henrycountyclerk.ky.gov/privacy-disability-statement/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://henrycountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "2026 Delinquent Tax sale will be held on Wednesday, July 29th, 2026 in the Clerk’s office at 10:00 a.m."
+        },
+        {
+          "url": "https://henrycountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "The sale shall be conducted in a manner similar to a professional sports draft"
+        },
+        {
+          "url": "https://henrycountyclerk.ky.gov/delinquent-taxes/",
+          "quote": "The deposit shall be submitted to the county clerk no later than five (5) days prior to the annual sale date."
+        }
+      ]
     }
   ]
 }

@@ -567,6 +567,34 @@
           "quote": "The 2026 Tax Sale was held on August 24, 2026."
         }
       ]
+    },
+    {
+      "county": "Lincoln",
+      "slug": "lincoln",
+      "office": "Lincoln County Collector",
+      "phone": "636-528-6300 (county main line)",
+      "address": "Lincoln County Courthouse, Room 103, 201 Main Street, Troy, MO 63379",
+      "website": "https://www.lincolncomo.gov/tax-collector-tax-sale",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax sale is held on the east steps of the Courthouse on the 4th Monday in August, beginning at 10 am",
+      "sales": [],
+      "next_sale_note": "Held each year on the 4th Monday in August; the 2026 sale has passed and no 2027 date is posted.",
+      "how_to_bid": "Buyers must be present to bid. Registration is on the day of sale from 8:00 a.m. in the Collector's office, Room 103 of the Courthouse, where bidders complete an affidavit that they are not delinquent on any tax payment. The sale is a public auction with an opening bid covering all taxes, interest and charges; the purchaser pays the Collector immediately at the end of the sale and receives a Certificate of Purchase. Non-Missouri bidders must appoint a Lincoln County citizen as agent and consent in writing to the Circuit Court's jurisdiction. There is a one-year redemption period without possession. Properties are advertised in the Lincoln County Journal and Elsberry Democrat from the second week of July.",
+      "sources": [
+        {
+          "url": "https://www.lincolncomo.gov/tax-collector-tax-sale",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: no terms, disclaimer, privacy or copyright link or text in the footer; only the vendor credit 'Powered by MCCi Government Websites' (no vendor terms link). No reuse restriction found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.lincolncomo.gov/tax-collector-tax-sale",
+          "quote": "Registration begins at 8:00 a.m. the morning of the sale."
+        }
+      ]
     }
   ]
 }

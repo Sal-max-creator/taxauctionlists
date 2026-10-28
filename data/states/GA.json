@@ -1025,6 +1025,114 @@
           "quote": "Payment must be made for the amount of the bid within one hour of the sale."
         }
       ]
+    },
+    {
+      "county": "Carroll",
+      "slug": "carroll",
+      "office": "Carroll County Tax Commissioner",
+      "phone": "770-830-5826",
+      "address": "423 College Street, Carrollton, GA 30117",
+      "website": "https://carrollcountygatax.com/tax-sales-2/",
+      "sale_type": "redeemable deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2027-04-06",
+          "time": null,
+          "label": "Tax sale",
+          "note": "The Tax Commissioner's page gives the date only; time and place are not stated there. Bidders are told to bring cash, certified funds or a bank letter to the sale.",
+          "source_url": "https://carrollcountygatax.com/tax-sales-2/",
+          "quote": "The next Tax Sale will be April 6, 2027"
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "The Tax Commissioner's page says bidders must bring cash, certified funds or a bank letter to the sale. Time, place and registration are not stated on the page; the page also links a delinquent tax sale information sheet and an excess funds list.",
+      "sources": [
+        {
+          "url": "https://carrollcountygatax.com/tax-sales-2/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer; footer shows only '© 2025 Copyright Carroll County Tax Commissioner - Official Site - Web Design By: BIS Consultants' with a link to the web designer's site (a design credit, not a terms page). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://carrollcountygatax.com/tax-sales-2/",
+          "quote": "Bidders are required to bring either cash, certified funds, or a bank letter to the sale"
+        }
+      ]
+    },
+    {
+      "county": "Spalding",
+      "slug": "spalding",
+      "office": "Spalding County Tax Commissioner",
+      "phone": "(770) 467-4360",
+      "address": "411 E. Solomon St, Griffin, GA 30223 (mailing: PO Box 509, Griffin, GA 30224); sales held at the same office",
+      "website": "https://spaldingcountytaxga.com/tax-sales/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The Tax Commissioner's page links a 'November 2026 Tax Sale List' as the next sale; the day is not stated on the page. Sale ads run in the Griffin Daily News on Tuesdays for four weeks before the sale.",
+      "how_to_bid": "Bidders register in person between 8:00 a.m. and 9:30 a.m. on the day of the sale (the bidder registration form is no longer used) and get a bidder number. Bidders must be 18 or older and bring a driver's license or other official ID. Bidding usually starts between 10:00 and 10:30 a.m. at the office, 411 E. Solomon Street, Griffin. Payment terms are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://spaldingcountytaxga.com/tax-sales/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer; footer shows only '© 2026 Copyright Spalding County Tax Commissioner GA - Official Site - Web Design By: BIS Consultants' with a link to the web designer's site (a design credit, not a terms page). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://spaldingcountytaxga.com/tax-sales/",
+          "quote": "Our next tax sale is posted below."
+        },
+        {
+          "url": "https://spaldingcountytaxga.com/tax-sales/",
+          "quote": "The sale will take place at our new office location of 411 E. Solomon Street, Griffin, Georgia."
+        },
+        {
+          "url": "https://spaldingcountytaxga.com/tax-sales/",
+          "quote": "We will now register bidders between 8:00 a.m. and 9:30 a.m. on the day of the tax sale."
+        }
+      ]
+    },
+    {
+      "county": "Forsyth",
+      "slug": "forsyth",
+      "office": "Forsyth County Tax Commissioner",
+      "phone": "(770) 781-2110",
+      "address": "1092 Tribble Gap Rd., Cumming, GA 30040 (main office; mail received only here); sales held on the courthouse steps in Cumming",
+      "website": "https://forsythcountytax.com/tax-sales-excess-funds/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Tax Sales are held on the first Tuesday of the month.",
+      "sales": [],
+      "next_sale_note": "No upcoming sale date is posted on the Tax Commissioner's page. Sale listings run in the Tuesday edition of The Forsyth County News for four consecutive weeks before a sale.",
+      "how_to_bid": "Sales are held on the courthouse steps in Cumming. Sale time, registration and payment terms are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://forsythcountytax.com/tax-sales-excess-funds/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or legal link in the footer; footer shows only '© Copyright 2026 Forsyth County Tax Commissioner GA - Official Site - Web Design By: BIS Consultants' with a link to the web designer's site (a design credit, not a terms page). No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://forsythcountytax.com/tax-sales-excess-funds/",
+          "quote": "Tax Sales are conducted on the courthouse steps in Cumming, Georgia."
+        },
+        {
+          "url": "https://forsythcountytax.com/tax-sales-excess-funds/",
+          "quote": "Tax sale listings can be found in the Tuesday Edition of The Forsyth County News four consecutive weeks prior to the sale."
+        }
+      ]
     }
   ]
 }

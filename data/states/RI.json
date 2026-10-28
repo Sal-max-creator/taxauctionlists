@@ -164,19 +164,13 @@
       "platform": null,
       "schedule_rule": null,
       "sales": [],
-      "next_sale_note": "Next sale date not set: the Tax Collector's page says the next tax sale is TBD. The 2026 sale was held May 1, 2026.",
-      "how_to_bid": "Per the Tax Collector's page and the 2026 notice: a public auction to the highest bidder at North Providence Town Hall, 2000 Smith Street, at 10:00 AM in the Town Council Chambers; terms were cash or bank check only. Bidders register with the Town's Auction Registration Form and a W-9, and the page says not to sign the forms because they must be notarized. Deposit: not stated.",
+      "next_sale_note": "Next sale date not set: the Tax Collector's page says the next tax sale is TBD.",
+      "how_to_bid": "Per the Tax Collector's page: the tax sale is held at 10:00 AM in the Town Council Chambers. Bidders register with the Town's Auction Registration Form and a W-9, and the page says not to sign the forms because they must be notarized. Payment terms and deposit: not stated.",
       "sources": [
         {
           "url": "https://northprovidenceri.gov/tax-collector/",
           "read_on": "2026-10-28",
           "terms": "No terms, disclaimer or privacy link in the footer; only '© 2026, Town of North Providence, Rhode Island USA, all rights reserved' and theme/WordPress credits. No reuse restriction found.",
-          "terms_url": null
-        },
-        {
-          "url": "https://northprovidenceri.gov/pdf/taxcollector/2026-NP_Tax_Sale_List.pdf",
-          "read_on": "2026-10-28",
-          "terms": "same as above",
           "terms_url": null
         }
       ],
@@ -184,14 +178,6 @@
         {
           "url": "https://northprovidenceri.gov/tax-collector/",
           "quote": "The next Tax Sale will be TBD @ 10.00 am in the Town Council Chambers."
-        },
-        {
-          "url": "https://northprovidenceri.gov/pdf/taxcollector/2026-NP_Tax_Sale_List.pdf",
-          "quote": "Town Hall located at 2000 Smith Street, North Providence, on the 1st of May, 2026 at 10:00 A.M. Local Time,"
-        },
-        {
-          "url": "https://northprovidenceri.gov/pdf/taxcollector/2026-NP_Tax_Sale_List.pdf",
-          "quote": "TERMS: CASH OR BANK CHECK ONLY"
         }
       ]
     },
@@ -235,52 +221,6 @@
         {
           "url": "https://pawtucketri.gov/wp-content/uploads/2025/05/2025-Tax-Sale-Advertised-List.pdf",
           "quote": "CASH, CERTIFIED CHECK OR MONEY ORDER."
-        }
-      ]
-    },
-    {
-      "county": "Providence (city)",
-      "slug": "providence",
-      "office": "City of Providence City Collector",
-      "phone": "401.331.5252",
-      "address": "Providence City Hall, 25 Dorrance Street, Room 203, Providence, RI 02903",
-      "website": "https://www.providenceri.gov/collector/tax-sale-information/",
-      "sale_type": "redeemable deed",
-      "format": "online",
-      "platform": {
-        "name": "GovEase",
-        "url": "https://www.govease.com/"
-      },
-      "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "No sale after 2026-10-28 posted. The City Collector's 2026 notice set the latest sale for Thursday, May 21, 2026, 10:00 A.M. to 12:00 P.M. EDT, online (past); a 2027 date is not yet posted.",
-      "how_to_bid": "Based on the City Collector's 2026 notice: the sale is a public auction to the highest bidder held online (terms: electronic). Bidders had to preregister with the online bidding platform during a set window (April 30, 2026 through 4:30 pm on May 14, 2026), and registrations were not processed after the deadline. The City's bidder information page (written for its 2024 sale) says business entities must submit their last annual report, every bidder must furnish a $1,500 certified check as a bond, and the City Collector handles redemptions in the year following the sale. Terms for a 2027 sale: not stated.",
-      "sources": [
-        {
-          "url": "https://www.providenceri.gov/wp-content/uploads/2026/04/FINAL-AD-CITY-2026-Revised-042426-Final.pdf",
-          "read_on": "2026-10-28",
-          "terms": "Privacy Policy (https://www.providenceri.gov/privacy-policy) says the site's content is protected by U.S. copyright laws and gives no explicit restriction on reuse or redistribution; footer shows '© 2026 City of Providence. All rights reserved.' No terms of use or disclaimer link found.",
-          "terms_url": "https://www.providenceri.gov/privacy-policy"
-        },
-        {
-          "url": "https://www.providenceri.gov/collector/tax-sale-information/",
-          "read_on": "2026-10-28",
-          "terms": "same as above",
-          "terms_url": "https://www.providenceri.gov/privacy-policy"
-        }
-      ],
-      "evidence": [
-        {
-          "url": "https://www.providenceri.gov/wp-content/uploads/2026/04/FINAL-AD-CITY-2026-Revised-042426-Final.pdf",
-          "quote": "Thursday, the 21st day of May, A.D. 2026"
-        },
-        {
-          "url": "https://www.providenceri.gov/wp-content/uploads/2026/04/FINAL-AD-CITY-2026-Revised-042426-Final.pdf",
-          "quote": "Registrations will not be processed after May 14, 2026 for this tax sale."
-        },
-        {
-          "url": "https://www.providenceri.gov/collector/tax-sale-information/",
-          "quote": "All bidders must furnish a certified check for $1,500 as a bond to guarantee payment of the tax upon winning a bid."
         }
       ]
     },

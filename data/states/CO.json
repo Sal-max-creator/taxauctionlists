@@ -1451,6 +1451,233 @@
       "notes": {
         "list_note": "The Treasurer's page links a tax lien list PDF and an outside tax lien information page; neither is linked here (Colorado sale lists normally show owner names)."
       }
+    },
+    {
+      "county": "Rio Grande",
+      "slug": "rio-grande",
+      "office": "Rio Grande County Treasurer/Public Trustee",
+      "phone": "(719) 657-2747",
+      "address": "925 6th Street, Room 103, Del Norte, CO 81132 (mail: P.O. Box 129, Del Norte, CO 81132)",
+      "website": "https://riograndecounty.colorado.gov/how-do-i/rio-grande-county-treasurer-public-trustee",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Unpaid amounts at the time of the annual tax lien sale in November will be subject to that sale.",
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "not stated",
+          "label": "2026 Tax Lien Sale",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Date from the 'TAX SALE' line of the Treasurer's 2026 real estate dates table (the quote is the date as printed on that line). The same table lists advertising on October 14, 21 and 28, 2026. The page gives no time, place, format, registration, deposit or interest details.",
+          "source_url": "https://riograndecounty.colorado.gov/how-do-i/rio-grande-county-treasurer-public-trustee",
+          "quote": "NOVEMBER 17, 2026"
+        }
+      ],
+      "how_to_bid": "Not stated on the Treasurer's page: it gives no time, place, online platform, registration, deposit or bidding rules for the lien sale. Unpaid balances as of September 30 are advertised in the San Luis Valley Journal before the sale. Contact the Treasurer at (719) 657-2747.",
+      "sources": [
+        {
+          "url": "https://riograndecounty.colorado.gov/how-do-i/rio-grande-county-treasurer-public-trustee",
+          "read_on": "2026-10-28",
+          "terms": "County site on the State of Colorado web platform (footer: Transparency Online, General Notices, state portal). colorado.gov General Notices is a privacy policy only, and the linked state Legal Notices page (co.colorado.gov/legal-notices) covers DMCA copyright-infringement notices only; no reuse, reproduction, redistribution, commercial-use, personal-use, resale or scraping clause.",
+          "terms_url": "https://www.colorado.gov/general-notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://riograndecounty.colorado.gov/how-do-i/rio-grande-county-treasurer-public-trustee",
+          "quote": "There is a three year redemption period for the owner from the date of the sale."
+        }
+      ],
+      "notes": {
+        "list_note": "The Treasurer's page links a delinquent tax PDF; it is not linked here (Colorado sale lists normally show owner names)."
+      }
+    },
+    {
+      "county": "Saguache",
+      "slug": "saguache",
+      "office": "Saguache County Treasurer/Public Trustee",
+      "phone": "719-655-2656",
+      "address": "501 4th Street, PO Box 177, Saguache, CO 81149",
+      "website": "https://saguachecounty.colorado.gov/departments/treasurer/public-trustee",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction (zeusauction.com)",
+        "url": "https://www.zeusauction.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-02",
+          "end_date": "2026-11-04",
+          "time": "not stated",
+          "label": "2026 Annual Tax Lien Auction (online)",
+          "deposit": "not stated",
+          "registration_deadline": "Register at zeusauction.com (deadline not stated)",
+          "note": "Real property and mineral interests are sold online only. The page states that a redeemed certificate pays 13% per annum, and that from June 1, 2026 tax liens stay active for 7 years and are then canceled if no deed application is filed.",
+          "source_url": "https://saguachecounty.colorado.gov/departments/treasurer/public-trustee",
+          "quote": "Annual Tax Lien Auction will be held online, November 2-4, 2026."
+        }
+      ],
+      "how_to_bid": "Online only at zeusauction.com, where bidders register. The minimum bid covers taxes, interest, advertising and certificate costs, and the minimum excess bid is $1.00; anything above the minimum is a premium bid, which is not refunded at redemption. A buyer gets only the tax lien certificate, with no rights to the property. County employees, officials, their immediate family and their agents may not bid. If later taxes go unpaid by July 31, the holder can endorse them onto the certificate, and they must be endorsed to apply for a treasurer's deed.",
+      "sources": [
+        {
+          "url": "https://saguachecounty.colorado.gov/departments/treasurer/public-trustee",
+          "read_on": "2026-10-28",
+          "terms": "County site on the State of Colorado web platform (footer: Transparency Online, General Notices, state portal). colorado.gov General Notices is a privacy policy only, and the linked state Legal Notices page (co.colorado.gov/legal-notices) covers DMCA copyright-infringement notices only; no reuse, reproduction, redistribution, commercial-use, personal-use, resale or scraping clause.",
+          "terms_url": "https://www.colorado.gov/general-notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://saguachecounty.colorado.gov/departments/treasurer/public-trustee",
+          "quote": "When redeemed, a certificate will pay at the rate of 13% per annum."
+        },
+        {
+          "url": "https://saguachecounty.colorado.gov/departments/treasurer/public-trustee",
+          "quote": "Upon redemption all monies will be refunded except premium bids and the $10.00 redemption fee."
+        }
+      ],
+      "notes": {
+        "list_note": "The Treasurer's documents page holds the advertised lists; not linked here (Colorado sale lists normally show owner names)."
+      }
+    },
+    {
+      "county": "Lincoln",
+      "slug": "lincoln",
+      "office": "Lincoln County Treasurer/Public Trustee",
+      "phone": "719-743-2633",
+      "address": "103 3rd Avenue, P.O. Box 7, Hugo, CO 80821",
+      "website": "https://lincolncounty.colorado.gov/county-treasurer",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "10:00 AM (pre-bidding opens November 4, 2026 at 10:00 AM)",
+          "label": "2026 Tax Lien Sale for 2025 taxes (online)",
+          "deposit": "not stated",
+          "registration_deadline": "Registration on GovEase opened October 8 at 10:00 AM (closing time not stated)",
+          "note": "Online auction hosted by GovEase. Pre-bidding on November 4, 2026 lets bidders set bid limits if they cannot watch the sale live. The sale list was published in the Ranchland News.",
+          "source_url": "https://lincolncounty.colorado.gov/county-treasurer",
+          "quote": "will have our 2026 Tax Lien Sale for 2025 taxes on November 5th, 2026, beginning at 10:00 AM."
+        }
+      ],
+      "how_to_bid": "Online only, through GovEase: register on the GovEase site (opened October 8 at 10:00 AM); GovEase provides bidder training and support. Pre-bidding opens November 4, 2026 at 10:00 AM to set bid limits. Deposit, interest and premium rules are not stated on the Treasurer's page; questions about listed parcels go to the office at 719-743-2633.",
+      "sources": [
+        {
+          "url": "https://lincolncounty.colorado.gov/county-treasurer",
+          "read_on": "2026-10-28",
+          "terms": "County site on the State of Colorado web platform (footer: Transparency Online, General Notices, state portal). colorado.gov General Notices is a privacy policy only, and the linked state Legal Notices page (co.colorado.gov/legal-notices) covers DMCA copyright-infringement notices only; no reuse, reproduction, redistribution, commercial-use, personal-use, resale or scraping clause.",
+          "terms_url": "https://www.colorado.gov/general-notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://lincolncounty.colorado.gov/county-treasurer",
+          "quote": "We have partnered once again with GovEase to bring you another online Tax Lien Auction this year."
+        }
+      ],
+      "notes": {
+        "list_note": "The Treasurer's page links a 2026 advertised tax lien sale list; it is not linked here (Colorado sale lists normally show owner names)."
+      }
+    },
+    {
+      "county": "Phillips",
+      "slug": "phillips",
+      "office": "Phillips County Treasurer",
+      "phone": "not stated (the tax lien sale page lists only the Administration Office, (970) 854-3778)",
+      "address": "not stated (Administration Office: 221 S. Interocean Ave., Holyoke, CO 80734)",
+      "website": "https://phillipscounty.colorado.gov/tax-lien-information/tax-lien-sale",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "An annual Tax Lien Sale is held to collect the unpaid taxes.",
+      "sales": [
+        {
+          "date": "2026-11-10",
+          "time": "10:00 a.m. MST",
+          "label": "2026 Phillips County Tax Lien Sale (online)",
+          "deposit": "not stated",
+          "registration_deadline": "Registration on GovEase runs from October 9, 2026 and closes November 9",
+          "register_by": "2026-11-09",
+          "note": "The county's GovEase information sheet says registration closes November 9th and suggests entering max bids ahead of time. Interest on the lien (not on the premium) is set on September 1 each year at nine percent above the federal discount rate, rounded up.",
+          "source_url": "https://phillipscounty.colorado.gov/tax-lien-information/tax-lien-sale",
+          "quote": "The 2026 Phillips County Tax Lien Sale will be Tuesday, November 10,2026, at 10:00 a.m. MST."
+        }
+      ],
+      "how_to_bid": "Online only, hosted by GovEase: create an account and register at govease.com between October 9, 2026 and November 9; max bids can be entered ahead of time. A lien's amount is the tax, delinquent interest through November, advertising and certificate fees; successful bidders generally pay a premium above that, and the premium earns no interest. Deposit and payment rules are not stated.",
+      "sources": [
+        {
+          "url": "https://phillipscounty.colorado.gov/tax-lien-information/tax-lien-sale",
+          "read_on": "2026-10-28",
+          "terms": "County site on the State of Colorado web platform (footer: Transparency Online, General Notices, state portal). colorado.gov General Notices is a privacy policy only, and the linked state Legal Notices page (co.colorado.gov/legal-notices) covers DMCA copyright-infringement notices only; no reuse, reproduction, redistribution, commercial-use, personal-use, resale or scraping clause.",
+          "terms_url": "https://www.colorado.gov/general-notices"
+        },
+        {
+          "url": "https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/GovEase-Tax-Sale-Information-2026_1.pdf",
+          "read_on": "2026-10-28",
+          "terms": "County-hosted PDF on the same State of Colorado web platform; see the tax lien sale page's terms note.",
+          "terms_url": "https://www.colorado.gov/general-notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://phillipscounty.colorado.gov/sites/g/files/lrnvjt1351/files/GovEase-Tax-Sale-Information-2026_1.pdf",
+          "quote": "Registration will begin on October 9, 2026 and will close on November 9th."
+        },
+        {
+          "url": "https://phillipscounty.colorado.gov/tax-lien-information/tax-lien-sale",
+          "quote": "The auction will be held online, and will be hosted by GovEase."
+        }
+      ],
+      "notes": {
+        "list_note": "The county's 2026 tax lien sale list PDF is not linked here (Colorado sale lists normally show owner names)."
+      }
+    },
+    {
+      "county": "Kiowa",
+      "slug": "kiowa",
+      "office": "Kiowa County Treasurer",
+      "phone": "719-438-5831",
+      "address": "1305 Goff Street, Eads, CO 81036 (mail: PO Box 247, Eads, CO 81036-0247)",
+      "website": "https://kiowacounty.colorado.gov/government/elected-officials/treasurer/tax-lien-sale-information",
+      "sale_type": "lien",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax lien sale is held in the Kiowa County Courthouse in November.",
+      "sales": [],
+      "next_sale_note": "The Treasurer's page gives the month (November) but no 2026 date or time; contact the Treasurer at 719-438-5831.",
+      "how_to_bid": "In person at the Kiowa County Courthouse, as an open auction to the highest bidder; telephone, fax and mail bids are not accepted. Register on the day of sale until sale time, with a W-9 on file before the sale starts. Liens are offered in item-number order at the amount of taxes, interest and fees, and bids go up in increments of $1.00 or more. Premium bids are the investor's expense, earn no interest and are not repaid on redemption. Unsold liens are struck off to the County. The page gives the interest rate as 15%, set in September by the Colorado State Banking Commission (no year stated). Deposit and payment rules for the sale are not stated.",
+      "sources": [
+        {
+          "url": "https://kiowacounty.colorado.gov/government/elected-officials/treasurer/tax-lien-sale-information",
+          "read_on": "2026-10-28",
+          "terms": "County site on the State of Colorado web platform (footer: Transparency Online, General Notices, state portal). colorado.gov General Notices is a privacy policy only, and the linked state Legal Notices page (co.colorado.gov/legal-notices) covers DMCA copyright-infringement notices only; no reuse, reproduction, redistribution, commercial-use, personal-use, resale or scraping clause.",
+          "terms_url": "https://www.colorado.gov/general-notices"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://kiowacounty.colorado.gov/government/elected-officials/treasurer/tax-lien-sale-information",
+          "quote": "The sale is conducted on site as an open auction to the highest bidder."
+        },
+        {
+          "url": "https://kiowacounty.colorado.gov/government/elected-officials/treasurer/tax-lien-sale-information",
+          "quote": "The tax lien is sold to the bidder who pays the largest amount."
+        }
+      ],
+      "notes": {}
     }
   ]
 }

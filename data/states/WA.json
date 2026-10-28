@@ -636,6 +636,56 @@
           "quote": "Please go to the GovEase website to register for foreclosure sales."
         }
       ]
+    },
+    {
+      "county": "Lincoln",
+      "slug": "lincoln",
+      "office": "Lincoln County Treasurer",
+      "phone": "509-725-5061",
+      "address": "450 Logan St, Davenport, WA 99122 (mailing: PO Box 370, Davenport, WA 99122)",
+      "website": "https://www.co.lincoln.wa.us/324/Tax-Foreclosure",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-20",
+          "time": "10:00 AM",
+          "label": "Foreclosure & Tax Title Auction (in person)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated (the county says registration begins at 9:00 A.M. on the auction day)",
+          "list_url": "https://www.co.lincoln.wa.us/324/Tax-Foreclosure",
+          "list_note": "The county's Tax Foreclosure page lists the parcels with legal descriptions and minimum bids (no owner names); it notes one property was redeemed 10/14/2026 and is no longer part of the auction.",
+          "note": "Held in the Lincoln County Courthouse Lobby, 450 Logan St., Davenport, WA.",
+          "source_url": "https://www.co.lincoln.wa.us/324/Tax-Foreclosure",
+          "quote": "AUCTION DATE: NOVEMBER 20, 2026 @ 10:00 A.M."
+        }
+      ],
+      "how_to_bid": "In person at the Lincoln County Courthouse Lobby, 450 Logan St., Davenport; registration begins at 9:00 A.M. and the auction at 10:00 A.M. The county says the opening bid includes all unpaid taxes, assessments, weed liens, interest and penalties through November 2026, plus costs of the foreclosure process and change of ownership. The county posts a Terms & Conditions of Sale document (not read here); deposit and accepted forms of payment are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://www.co.lincoln.wa.us/324/Tax-Foreclosure",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Lincoln County, WA and its representatives. All rights reserved.' No reuse, redistribution, commercial-use, personal-use, resale or automated-access clause. Copyright-only. The Privacy Policy page rendered without policy text; the footer has no terms or disclaimer link.",
+          "terms_url": "https://www.co.lincoln.wa.us/copyright"
+        },
+        {
+          "url": "https://www.co.lincoln.wa.us/308/Treasurer",
+          "read_on": "2026-10-28",
+          "terms": "Same site; see Copyright Notices."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.co.lincoln.wa.us/308/Treasurer",
+          "quote": "FORECLOSURE & TAX TITLE AUCTION NOVEMBER 20, 2026 @ 10:00 A.M. LINCOLN COUNTY COURTHOUSE LOBBY 450 LOGAN ST"
+        },
+        {
+          "url": "https://www.co.lincoln.wa.us/324/Tax-Foreclosure",
+          "quote": "REGISTRATION BEGINS @ 9:00 A.M., AUCTION BEGINS @ 10:00 A.M."
+        }
+      ]
     }
   ]
 }

@@ -1024,6 +1024,101 @@
       "notes": {
         "contact_note": "The Treasurer section gives 970-725-3061 and P.O. Box 288; the site footer gives the county's general 970-725-3347 and P.O. Box 264."
       }
+    },
+    {
+      "county": "Archuleta",
+      "slug": "archuleta",
+      "office": "Archuleta County Treasurer",
+      "phone": "970-264-8300 (county general line; the Treasurer's own number is not stated on the page)",
+      "address": "398 Lewis Street, Pagosa Springs, CO 81147 (county address from the site footer)",
+      "website": "https://www.archuletacounty.gov/county-government/elected-offices/treasurer/tax-lien-sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "RealAuction (coloradotaxsale.com)",
+        "url": "https://archuleta.coloradotaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-05",
+          "time": "not stated",
+          "label": "2026 Tax Lien Sale (online)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated (the county says the tax lien website went live on October 1, 2026)",
+          "note": "Lien purchasers must complete a W-9 at registration.",
+          "source_url": "https://www.archuletacounty.gov/county-government/elected-offices/treasurer/tax-lien-sale/",
+          "quote": "The 2026 Tax Lien Sale will be conducted on Thursday, November 5, 2026."
+        }
+      ],
+      "how_to_bid": "Online only, on the county's official tax lien auction site (archuleta.coloradotaxsale.com), where investors register, view current delinquent accounts, read the bidding rules and can sign up for RealAuction webinar training. A W-9 Form is required at registration. Deposit, registration deadline and payment terms are not stated on the county page. The county also lists county-held liens available for purchase.",
+      "sources": [
+        {
+          "url": "https://www.archuletacounty.gov/county-government/elected-offices/treasurer/tax-lien-sale/",
+          "read_on": "2026-10-28",
+          "terms": "Copyright / Privacy page: 'All content © 2006-2026 Archuleta County, CO and its representatives. All rights reserved.' Its privacy policy covers personal data only; no reuse, redistribution, commercial-use, personal-use, resale or automated-access clause. Copyright-only.",
+          "terms_url": "https://www.archuletacounty.gov/copyright-privacy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.archuletacounty.gov/county-government/elected-offices/treasurer/tax-lien-sale/",
+          "quote": "The tax lien website will go live on October 1, 2026."
+        },
+        {
+          "url": "https://www.archuletacounty.gov/county-government/elected-offices/treasurer/tax-lien-sale/",
+          "quote": "Lien purchasers are required to complete a W-9 Form at the time of registration."
+        }
+      ]
+    },
+    {
+      "county": "Montezuma",
+      "slug": "montezuma",
+      "office": "Montezuma County Treasurer / Public Trustee",
+      "phone": "(970) 565-7550",
+      "address": "140 West Main Street, Suite 2, Cortez, CO 81321",
+      "website": "https://montezumacounty.gov/treasurer-public-trustee/tax-lien-sale/",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": "Montezuma County mails these notices out in July and holds the tax lien sale in November each year.",
+      "sales": [
+        {
+          "date": "2026-11-04",
+          "time": "not stated",
+          "label": "2026 Tax Lien Sale (2025 delinquent taxes)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "The date appears in the title of the county's linked sale publication; the county links a GovEase tax sale registration site.",
+          "source_url": "https://montezumacounty.gov/treasurer-public-trustee/tax-lien-sale/",
+          "quote": "2025 DELINQUENT PERSONAL PROPERTY, MINERAL INTEREST & REAL PROPERTY TAXES TAX LIEN SALE, NOVEMBER 4TH, 2026"
+        }
+      ],
+      "how_to_bid": "The county links a GovEase tax sale registration site; it does not say on its pages whether bidding is online or in person. Time, registration deadline, deposit and payment terms are not stated on the county pages (the tax lien sale page says 'Content will be available soon!').",
+      "sources": [
+        {
+          "url": "https://montezumacounty.gov/treasurer-public-trustee/tax-lien-sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer has no terms, disclaimer, legal or privacy link; it shows only 'Copyright © 2026. Montezuma County, CO. All Rights Reserved.'"
+        },
+        {
+          "url": "https://montezumacounty.gov/?p=762",
+          "read_on": "2026-10-28",
+          "terms": "Same site; no terms page found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://montezumacounty.gov/?p=762",
+          "quote": "Montezuma County mails these notices out in July and holds the tax lien sale in November each year."
+        }
+      ],
+      "notes": {
+        "format_note": "The county links GovEase for registration but does not state the sale format, so format is 'unknown'."
+      }
     }
   ]
 }

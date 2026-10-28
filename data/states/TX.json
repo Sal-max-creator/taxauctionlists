@@ -1533,6 +1533,39 @@
           "quote": "Linebarger Goggan Blair and Sampson, LLP assists the county in the collection of delinquent taxes and tax sale properties."
         }
       ]
+    },
+    {
+      "county": "Randall",
+      "slug": "randall",
+      "office": "Randall County Tax Office (Tax Assessor-Collector)",
+      "phone": "806-468-5540",
+      "address": "501 16th Street, Suite 200, Canyon, TX 79015",
+      "website": "https://www.randallcounty.gov/293/Sheriff-Sale",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "We have two Sheriff Sales a year. One in April and one in August. They are the first Tuesday of the month.",
+      "sales": [],
+      "next_sale_note": "Randall County holds two Sheriff Sales a year (April and August); no dated upcoming sale is posted on the county page we read. Sale location per the county page: Randall County Annex Building, 4320 S Western St., Amarillo, TX (North Entrance, Elections Office).",
+      "how_to_bid": "You must register in order to bid; the county posts Bidder Registration Procedures (PDF) and a flyer for the next sale on its Sheriff Sale page. Sales are held at the Randall County Annex Building, 4320 S Western St., Amarillo (North Entrance, Elections Office). Time, deposit and payment terms are not stated on the page we read.",
+      "sources": [
+        {
+          "url": "https://www.randallcounty.gov/293/Sheriff-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Disclaimer says users may view and use the website contents 'only for lawful purposes' ('All other uses are prohibited'), information is provided 'as is' and accuracy is not guaranteed. No ban on reproduction or redistribution; restate facts only.",
+          "terms_url": "https://www.randallcounty.gov/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.randallcounty.gov/293/Sheriff-Sale",
+          "quote": "They are the first Tuesday of the month."
+        },
+        {
+          "url": "https://www.randallcounty.gov/293/Sheriff-Sale",
+          "quote": "You do have to register in order to bid."
+        }
+      ]
     }
   ]
 }

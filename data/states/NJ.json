@@ -515,6 +515,57 @@
           "quote": "Interest rates for liens sold may be as high as 18%."
         }
       ]
+    },
+    {
+      "county": "East Brunswick Township (Middlesex County)",
+      "slug": "east-brunswick-middlesex",
+      "office": "Tax Collector, Revenue Department, Township of East Brunswick",
+      "phone": "732-390-3259",
+      "address": "1 Jean Walling Civic Center Drive, East Brunswick, NJ 08816",
+      "website": "https://www.eastbrunswick.org/276/Tax-Collector",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "eastbrunswick.newjerseytaxsale.com",
+        "url": "https://eastbrunswick.newjerseytaxsale.com/"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-02",
+          "time": "Sale concludes at 8:00 AM",
+          "label": "2026 Tax Sale (online)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "Online sale for unpaid prior year municipal charges. Payments to stay out of the sale must reach the Tax Collector's office by 4:00 PM on 12/1/26, in cash, money order or certified funds; online payments are not accepted for this. The township says the sale will be advertised on its website from 10/31/26 through 12/2/26.",
+          "source_url": "https://www.eastbrunswick.org/276/Tax-Collector",
+          "quote": "will conclude at 8:00 AM on December 2, 2026."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Online auction on the township's tax sale site (eastbrunswick.newjerseytaxsale.com). The Tax Collector page gives the closing time and the stay-out payment deadline; deposit, bidder registration and interest terms are not stated on the township page.",
+      "sources": [
+        {
+          "url": "https://www.eastbrunswick.org/276/Tax-Collector",
+          "read_on": "2026-10-28",
+          "terms": "Copyright page reads only 'All content © 2006-2026 East Brunswick, NJ and its representatives. All rights reserved.' and 'CivicPlus Content Management System © 1997-2026 CivicPlus. All rights reserved.' No clause on reuse, redistribution, commercial use or automated access. Restate facts only.",
+          "terms_url": "https://www.eastbrunswick.org/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.eastbrunswick.org/276/Tax-Collector",
+          "quote": "PAYMENTS TO STAY OUT OF TAX SALE MUST BE RECEIVED IN THE EAST BRUNSWICK TAX COLLECTOR'S OFFICE BY 4:00 PM ON 12/1/26."
+        },
+        {
+          "url": "https://www.eastbrunswick.org/276/Tax-Collector",
+          "quote": "Online payments will not be permitted."
+        },
+        {
+          "url": "https://www.eastbrunswick.org/276/Tax-Collector",
+          "quote": "The Tax Sale will be advertised on the Township Website from 10/31/26 through 12/2/26"
+        }
+      ]
     }
   ]
 }

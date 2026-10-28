@@ -1116,6 +1116,171 @@
           "quote": "Cash is not accepted for parcels sold through the Commissioner of State Lands Office."
         }
       ]
+    },
+    {
+      "county": "Union",
+      "slug": "union",
+      "office": "Arkansas Commissioner of State Lands (state agency; runs the sale for the county)",
+      "phone": "501-324-9422",
+      "address": "Real Estate Office, 7003 Valley Ranch Drive, Little Rock, Arkansas 72223",
+      "website": "https://www.cosl.org/catalog.aspx",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "They are held once a year in the county where the property is located or in a contiguous county.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Union County sale was 9/22/2026 at 10:00 AM at the El Dorado Conference Center, 311 S. West Ave, El Dorado (past; held jointly with Columbia and Calhoun counties).",
+      "how_to_bid": "Attend the live public auction run by the Commissioner of State Lands. The full purchase price is due the day of the auction; cash is not accepted (personal check, cashier's check or money order, or credit/debit card if WiFi service is available at the auction location). No deposit or registration terms are stated. Parcels cannot be redeemed on the sale date or after. Parcels not sold become available after 30 days through the Commissioner's Post Auction Sales list.",
+      "sources": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "read_on": "2026-10-28",
+          "terms": "Policies page disclaimer: 'The documents and materials displayed on the web sites are for information purposes only.' Linking section says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found.",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "quote": "9/22/2026 10:00 AM"
+        },
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "quote": "EL DORADO CONFERENCE CENTER - MRUPHY HALL III, 311 S. WEST AVE"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "They are held once a year in the county where the property is located or in a contiguous county."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "The full purchase price must be paid the day of the auction."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Parcels cannot be redeemed on the sale date or thereafter."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Cash is not accepted for parcels sold through the Commissioner of State Lands Office."
+        }
+      ]
+    },
+    {
+      "county": "Boone",
+      "slug": "boone",
+      "office": "Arkansas Commissioner of State Lands (state agency; runs the sale for the county)",
+      "phone": "501-324-9422",
+      "address": "Real Estate Office, 7003 Valley Ranch Drive, Little Rock, Arkansas 72223",
+      "website": "https://www.cosl.org/catalog.aspx",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "They are held once a year in the county where the property is located or in a contiguous county.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Boone County sale was 8/25/2026 at 10:00 AM at the Signature Bank Community Room, 303 N Main St, Harrison (past; held jointly with Searcy, Newton and Marion counties).",
+      "how_to_bid": "Attend the live public auction run by the Commissioner of State Lands. The full purchase price is due the day of the auction; cash is not accepted (personal check, cashier's check or money order, or credit/debit card if WiFi service is available at the auction location). No deposit or registration terms are stated. Parcels cannot be redeemed on the sale date or after. Parcels not sold become available after 30 days through the Commissioner's Post Auction Sales list.",
+      "sources": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "read_on": "2026-10-28",
+          "terms": "Policies page disclaimer: 'The documents and materials displayed on the web sites are for information purposes only.' Linking section says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found.",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "quote": "8/25/2026 10:00 AM"
+        },
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "quote": "SIGNATURE BANK COMMUNITY ROOM - SIDES A& B, 303 N MAIN ST"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "They are held once a year in the county where the property is located or in a contiguous county."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "The full purchase price must be paid the day of the auction."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Parcels cannot be redeemed on the sale date or thereafter."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Cash is not accepted for parcels sold through the Commissioner of State Lands Office."
+        }
+      ]
+    },
+    {
+      "county": "Independence",
+      "slug": "independence",
+      "office": "Arkansas Commissioner of State Lands (state agency; runs the sale for the county)",
+      "phone": "501-324-9422",
+      "address": "Real Estate Office, 7003 Valley Ranch Drive, Little Rock, Arkansas 72223",
+      "website": "https://www.cosl.org/catalog.aspx",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "They are held once a year in the county where the property is located or in a contiguous county.",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Independence County sale was 9/3/2026 at 10:00 AM at the Downtown Church of Christ auditorium, 900 N Main St, Searcy (past; held jointly with Jackson, White and Woodruff counties).",
+      "how_to_bid": "Attend the live public auction run by the Commissioner of State Lands. The full purchase price is due the day of the auction; cash is not accepted (personal check, cashier's check or money order, or credit/debit card if WiFi service is available at the auction location). No deposit or registration terms are stated. Parcels cannot be redeemed on the sale date or after. Parcels not sold become available after 30 days through the Commissioner's Post Auction Sales list.",
+      "sources": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "read_on": "2026-10-28",
+          "terms": "Policies page disclaimer: 'The documents and materials displayed on the web sites are for information purposes only.' Linking section says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse, redistribution, commercial use or automated access found.",
+          "terms_url": "https://cosl.org/Home/Policies"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://cosl.org/Home/Policies"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "quote": "9/3/2026 10:00 AM"
+        },
+        {
+          "url": "https://www.cosl.org/catalog.aspx",
+          "quote": "DOWNTOWN CHURCH OF CHIRST - AUDITORIUM, 900 N MAIN ST"
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "They are held once a year in the county where the property is located or in a contiguous county."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "The full purchase price must be paid the day of the auction."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Parcels cannot be redeemed on the sale date or thereafter."
+        },
+        {
+          "url": "https://cosl.org/Home/Faq",
+          "quote": "Cash is not accepted for parcels sold through the Commissioner of State Lands Office."
+        }
+      ]
     }
   ]
 }

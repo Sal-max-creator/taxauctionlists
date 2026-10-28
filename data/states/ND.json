@@ -234,6 +234,39 @@
           "quote": "All sales are final."
         }
       ]
+    },
+    {
+      "county": "Mercer",
+      "slug": "mercer",
+      "office": "Mercer County Auditor's Office",
+      "phone": "not stated",
+      "address": "410 Van Slyck Ave, Stanton, ND 58571",
+      "website": "https://www.mercercountynd.com/department-pages/foreclosed-property-listing/",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "The last posted sale was November 18, 2025. The county's page (dated 1/21/2026) says no foreclosed properties are available through the county at this time; a 2026 sale date is not yet posted.",
+      "how_to_bid": "The sale is held at the Office of the County Auditor in Mercer County. Each parcel is offered separately and sold to the highest bidder, but not for less than the minimum sale price. Purchasers must pay cash for all parcels. Registration, deposit and fees are not stated.",
+      "sources": [
+        {
+          "url": "https://www.mercercountynd.com/department-pages/foreclosed-property-listing/",
+          "read_on": "2026-10-28",
+          "terms": "Privacy policy read: it covers only personal data and log statistics, with no statement on reuse and no personal or noncommercial-use limit. Footer has only a copyright notice ('© Mercer County, North Dakota'); no terms or disclaimer link.",
+          "terms_url": "https://www.mercercountynd.com/privacy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mercercountynd.com/department-pages/foreclosed-property-listing/",
+          "quote": "No Forclosed Properties Available Through the County at this time."
+        },
+        {
+          "url": "https://www.mercercountynd.com/department-pages/foreclosed-property-listing/",
+          "quote": "The purchasers will be required to pay cash for all parcels of real estate."
+        }
+      ]
     }
   ]
 }

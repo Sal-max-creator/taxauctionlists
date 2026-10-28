@@ -398,6 +398,50 @@
           "quote": "Second, register for St. John Parish Sheriff's Office auction."
         }
       ]
+    },
+    {
+      "county": "Acadia",
+      "slug": "acadia",
+      "office": "Acadia Parish Sheriff's Office (Tax Department)",
+      "phone": "337.788.8750",
+      "address": "500 N. Parkerson Avenue, Room 215, Crowley, LA 70526 (in-person payments); mailing PO Box 600, Crowley, LA 70527",
+      "website": "https://www.apso.org/pay-property-taxes.html",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Zeus Auction (SRI)",
+        "url": "https://www.zeusauction.com"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No later date posted. The last annual online tax lien auction posted was Wednesday, June 24, 2026, 11 a.m. to 2 p.m., which has passed.",
+      "how_to_bid": "The annual parish delinquent property tax lien auction is held online through Zeus Auction. For the June 24, 2026 auction, registration opened 8 a.m. Monday, May 25, 2026 and closed at noon Thursday, June 18, 2026; the sale advertisement ran in The Crowley Post Signal. The only form of payment accepted is ACH withdrawal. Deposit, bidding method and redemption terms: not stated.",
+      "sources": [
+        {
+          "url": "https://www.apso.org/pay-property-taxes.html",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link; footer reads '© Copyright 2021, Acadia Parish Sheriff. All rights reserved.' No reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.apso.org/pay-property-taxes.html",
+          "quote": "The annual Parish online delinquent property tax lien auction is set for Wednesday, June 24th, 2026"
+        },
+        {
+          "url": "https://www.apso.org/pay-property-taxes.html",
+          "quote": "Tax lien auction registration will be available starting 8am Monday, May 25th, 2026."
+        },
+        {
+          "url": "https://www.apso.org/pay-property-taxes.html",
+          "quote": "The registration process will end at noon Thursday, June 18th, 2026."
+        },
+        {
+          "url": "https://www.apso.org/pay-property-taxes.html",
+          "quote": "Only form of payment accepted will be ACH Withdrawal."
+        }
+      ]
     }
   ]
 }

@@ -481,6 +481,98 @@
           "quote": "The minimum bid will be $50.00 (Fifty Dollars)."
         }
       ]
+    },
+    {
+      "county": "Ellis",
+      "slug": "ellis",
+      "office": "Ellis County Treasurer",
+      "phone": "785-628-9410",
+      "address": "Ellis County Administrative Center, 718 Main Street, Hays, KS 67601",
+      "website": "https://www.ellisco.net/652/Tax-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No date set. The county page says there are no tracts eligible for tax sale in 2026 and that the next tax sale is to be announced in summer 2027. Sales are held in the Commission meeting room in the basement of the Administrative Center.",
+      "how_to_bid": "No preregistration is required to bid on a property. Payment by check or cash is required at the conclusion of the sale. The current owner may redeem the property at any time before the sale. Deposit, bidding method and time: not stated.",
+      "sources": [
+        {
+          "url": "https://www.ellisco.net/652/Tax-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Footer links only Accessibility, Copyright Notices and a CivicPlus credit. The Copyright Notices page reads 'All content © 2006-2026 Ellis County, KS and its representatives. All rights reserved.' and states no limit on reuse, commercial use or automated access.",
+          "terms_url": "https://www.ellisco.net/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ellisco.net/652/Tax-Sales",
+          "quote": "The next Tax Sale will occur (to be announced summer 2027)"
+        },
+        {
+          "url": "https://www.ellisco.net/652/Tax-Sales",
+          "quote": "There are currently no tracts eligible for tax sale in 2026."
+        },
+        {
+          "url": "https://www.ellisco.net/652/Tax-Sales",
+          "quote": "No preregistration is required to bid on a property."
+        },
+        {
+          "url": "https://www.ellisco.net/652/Tax-Sales",
+          "quote": "Payment in the form of a check or cash is required at the conclusion of the sale."
+        }
+      ]
+    },
+    {
+      "county": "Anderson",
+      "slug": "anderson",
+      "office": "Anderson County Treasurer",
+      "phone": "785-448-5824",
+      "address": "Anderson County Courthouse, 100 E 4th Ave Rm 2, Garnett, KS 66032",
+      "website": "https://andersoncountyks.org/tax-sale-schedule.html",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No date set: the county's tax sale page says 'NO DATE HAS BEEN SET' and will be updated once a date is set. The previous sale was Monday, March 30, 2026 at 1:30 p.m. at the County Extension Office, 411 S Oak St, Garnett (past).",
+      "how_to_bid": "Per the previous sale's posting: registration is in person on the day of the sale; payment can be made in cash or check; anyone with unpaid taxes in Anderson County is not eligible to bid. Deposit and bidding method: not stated.",
+      "sources": [
+        {
+          "url": "https://andersoncountyks.org/tax-sale-schedule.html",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer or privacy link; footer reads '© 2007 - Anderson County, Kansas - All rights reserved'. Page note says the information is provided as a public convenience and official county records should be consulted where legal reliance is required. No reuse restriction found.",
+          "terms_url": null
+        },
+        {
+          "url": "https://andersoncountyks.org/treasurer/",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://andersoncountyks.org/tax-sale-schedule.html",
+          "quote": "Next Tax Sale Pending: NO DATE HAS BEEN SET"
+        },
+        {
+          "url": "https://andersoncountyks.org/tax-sale-schedule.html",
+          "quote": "The tax sale will be held on Monday, March 30th, 2026 at 1:30 p.m."
+        },
+        {
+          "url": "https://andersoncountyks.org/tax-sale-schedule.html",
+          "quote": "Registration for the sale is in person on the day of the sale."
+        },
+        {
+          "url": "https://andersoncountyks.org/tax-sale-schedule.html",
+          "quote": "Payment can be made in the form of cash or check."
+        },
+        {
+          "url": "https://andersoncountyks.org/tax-sale-schedule.html",
+          "quote": "Please note that anyone with unpaid taxes in Anderson County will not be eligible to bid at the tax sale."
+        }
+      ]
     }
   ]
 }

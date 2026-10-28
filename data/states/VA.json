@@ -456,6 +456,72 @@
           "quote": "The date and time for sale will be posted on this site when the sale has been ordered by the Court."
         }
       ]
+    },
+    {
+      "county": "Botetourt",
+      "slug": "botetourt",
+      "office": "Botetourt County (Treasurer's Office; sales handled by Taxing Authority Consulting Services, P.C.)",
+      "phone": "(540)928-2000 (county); 804-545-2500 (TACS, for sale information)",
+      "address": "57 S Center Drive, Daleville, VA 24083",
+      "website": "https://www.botetourtva.gov/380/Delinquent-Tax-Sale",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale date posted on the county page. The page says tax sales are advertised for two separate weeks before the auction, in The Fincastle Herald and at taxva.com.",
+      "how_to_bid": "The County of Botetourt auctions properties with delinquent real estate taxes. All judicial sales are subject to Treasurer and court approval, and the list of properties can change up until the time of sale. Owners may redeem by 5 pm on the date before the auction. For sale details the page refers to Taxing Authority Consulting Services, P.C. (TACS) at 804-545-2500. Location, deposit, registration and bidding steps are not stated on the county page.",
+      "sources": [
+        {
+          "url": "https://www.botetourtva.gov/380/Delinquent-Tax-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Legal Info page is a liability disclaimer ('In no event shall Botetourt County and/or its respective suppliers be liable...'); it has no copyright notice and says nothing about reusing, reproducing or republishing site content. No reuse restriction seen.",
+          "terms_url": "https://www.botetourtva.gov/476/Legal-Info"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.botetourtva.gov/380/Delinquent-Tax-Sale",
+          "quote": "The County of Botetourt conducts auctions for properties that have delinquent real estate taxes."
+        },
+        {
+          "url": "https://www.botetourtva.gov/380/Delinquent-Tax-Sale",
+          "quote": "Tax sales are advertised for two separate weeks prior to the auction."
+        }
+      ]
+    },
+    {
+      "county": "Halifax",
+      "slug": "halifax",
+      "office": "Halifax County Treasurer (online sales run by Virginia Auction Co., Inc.)",
+      "phone": "757-538-0123 (Virginia Auction Co.)",
+      "address": "not stated for the Treasurer; Virginia Auction Co., Inc., 3533 Pruden Blvd., Suffolk, VA 23434",
+      "website": "https://www.halifaxcountyva.gov/272/Sale-of-Valuable-Real-Estate",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale date posted. The most recent online sale ran September 23 to October 7, 2026 (past). The page links a November 2026 property list but gives no sale date for it.",
+      "how_to_bid": "The Treasurer of Halifax County sells real estate with unpaid taxes by Special Order under Code of Virginia Section 58.1-3975, online only, to the highest bidder, through Virginia Auction Co., Inc. The successful bidder deposits the bid price, a 15% buyer's premium and a $200.00 recordation fee, paid in full the day of the sale by cash, cashier's check, money order or wire transfer. Sales are subject to confirmation by the Treasurer. Registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://www.halifaxcountyva.gov/272/Sale-of-Valuable-Real-Estate",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Halifax County, VA and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. No terms or disclaimer link in the footer (Privacy Policy and Copyright Notices only).",
+          "terms_url": "https://www.halifaxcountyva.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.halifaxcountyva.gov/272/Sale-of-Valuable-Real-Estate",
+          "quote": "By Special Order, by the Treasurer of Halifax County, Virginia"
+        },
+        {
+          "url": "https://www.halifaxcountyva.gov/272/Sale-of-Valuable-Real-Estate",
+          "quote": "The successful bidder shall deposit the bid price, a 15% buyer's premium, plus $200.00 fee for recordation"
+        }
+      ]
     }
   ]
 }

@@ -653,6 +653,39 @@
           "quote": "The highest bidder will be required to pay a 10% CASH deposit at the close of the bids."
         }
       ]
+    },
+    {
+      "county": "Wayne",
+      "slug": "wayne",
+      "office": "Wayne County Staff Attorney's Office",
+      "phone": "(919) 705-1971",
+      "address": "not stated for the Staff Attorney's Office; county contact: Wayne County Courthouse, 224 E Walnut Street, Goldsboro, NC 27530",
+      "website": "https://waynegov.com/784/Tax-Foreclosure-Sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The page lists 2026 sales on April 15, September 16 and October 21, 2026, each at 10:00 AM, all already past.",
+      "how_to_bid": "Properties are offered for sale and sold for cash to the last and highest bidder at public auction. For questions contact the Wayne County Staff Attorney's Office at (919) 705-1971. Sale location, deposit, upset bid and registration details are not stated on the page.",
+      "sources": [
+        {
+          "url": "https://waynegov.com/784/Tax-Foreclosure-Sales",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page: 'All content © 2006-2026 Wayne County, NC and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has no terms or disclaimer page (only Copyright Notices, Accessibility and a Disclaimer Troubleshooting page).",
+          "terms_url": "https://waynegov.com/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://waynegov.com/784/Tax-Foreclosure-Sales",
+          "quote": "will be offered for sale and sold for cash to the last and highest bidder at public auction."
+        },
+        {
+          "url": "https://waynegov.com/784/Tax-Foreclosure-Sales",
+          "quote": "please contact the Wayne County Staff Attorney's Office at (919) 705-1971."
+        }
+      ]
     }
   ]
 }

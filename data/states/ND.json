@@ -267,6 +267,72 @@
           "quote": "The purchasers will be required to pay cash for all parcels of real estate."
         }
       ]
+    },
+    {
+      "county": "Ramsey",
+      "slug": "ramsey",
+      "office": "Ramsey County (annual sale of tax forfeited property)",
+      "phone": "not stated",
+      "address": "Ramsey County Courthouse, 524 4th Avenue NE, Devils Lake, ND 58301",
+      "website": "https://www.ramseycountynd.gov/187/Tax-Forfeited-Property",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-17",
+          "time": "5:45 PM",
+          "label": "Annual sale of tax forfeited property",
+          "deposit": "not stated; payment in full is due upon completion of the annual sale",
+          "registration_deadline": "Before the sale begins, each bidder must have a completed and notarized tax oath",
+          "note": "Held in the County Commissioners room, 1st floor, Ramsey County Courthouse, Devils Lake. Each parcel is offered separately and sold to the highest bidder, not for less than its listed minimum sale price.",
+          "source_url": "https://www.ramseycountynd.gov/187/Tax-Forfeited-Property",
+          "quote": "on Tuesday, November 17th, 2026 at 5:45 p.m."
+        }
+      ],
+      "next_sale_note": null,
+      "how_to_bid": "Attend in person in the County Commissioners room of the Ramsey County Courthouse. Before the sale begins, complete a notarized tax oath; without it you are not eligible to bid. Each parcel is offered separately and sold to the highest bidder, not for less than the minimum sale price. Payment in full is due upon completion of the sale by cash, check or money order (contract for deed is no longer allowed), plus a $20.00 recording fee per document.",
+      "sources": [
+        {
+          "url": "https://www.ramseycountynd.gov/187/Tax-Forfeited-Property",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page read: no terms on copying, reuse or redistribution; it shows only 'All content © 2006-2026 Ramsey County, ND and its representatives. All rights reserved.' (CivicPlus site). No terms of use or disclaimer link; no personal or noncommercial-use limit and no ban on automated access found.",
+          "terms_url": "https://www.ramseycountynd.gov/site/copyright"
+        },
+        {
+          "url": "https://www.ramseycountynd.gov/DocumentCenter/View/905/2026-TERMS-OF-SALE",
+          "read_on": "2026-10-28",
+          "terms": "same as above",
+          "terms_url": "https://www.ramseycountynd.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.ramseycountynd.gov/187/Tax-Forfeited-Property",
+          "quote": "Each parcel of real estate will be offered separately and sold to the highest bidder"
+        },
+        {
+          "url": "https://www.ramseycountynd.gov/DocumentCenter/View/905/2026-TERMS-OF-SALE",
+          "quote": "TUESDAY, NOVEMBER 17, 2026 5:45 PM"
+        },
+        {
+          "url": "https://www.ramseycountynd.gov/DocumentCenter/View/905/2026-TERMS-OF-SALE",
+          "quote": "Before the sale begins all potential bidders will need to complete and be in possession of a notarized tax oath."
+        },
+        {
+          "url": "https://www.ramseycountynd.gov/DocumentCenter/View/905/2026-TERMS-OF-SALE",
+          "quote": "Payment in full is due upon the completion of the annual sale and must be made by cash, check, or money order."
+        },
+        {
+          "url": "https://www.ramseycountynd.gov/DocumentCenter/View/905/2026-TERMS-OF-SALE",
+          "quote": "Ramsey County no longer allows the use of contract for deed to purchase tax delinquent properties."
+        },
+        {
+          "url": "https://www.ramseycountynd.gov/DocumentCenter/View/905/2026-TERMS-OF-SALE",
+          "quote": "There is a recording fee of $20.00 per document"
+        }
+      ]
     }
   ]
 }

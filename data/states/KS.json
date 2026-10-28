@@ -573,6 +573,47 @@
           "quote": "Please note that anyone with unpaid taxes in Anderson County will not be eligible to bid at the tax sale."
         }
       ]
+    },
+    {
+      "county": "Franklin",
+      "slug": "franklin",
+      "office": "Franklin County, Kansas (tax foreclosure sale)",
+      "phone": "not stated",
+      "address": "315 S. Main, Ottawa, KS 66067",
+      "website": "https://www.franklincoks.org/495/Tax-Foreclosures",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Not currently scheduled: the county's page says the tax foreclosure sale is not currently scheduled. The property list and the auction date, time, location and registration requirements are published in a local newspaper for three weeks before a sale.",
+      "how_to_bid": "Properties are sold at public auction to the highest qualified bidder; bidders must sign a sworn affidavit that they meet the statutory qualifications. Registration is required and is held before the sale, as advertised. Only cash, cashier's check or money order is accepted. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://www.franklincoks.org/495/Tax-Foreclosures",
+          "read_on": "2026-10-28",
+          "terms": "No terms of use, disclaimer or privacy link found in the footer (CivicPlus site). The site's copyright page shows only footer notices: 'All content © 2006-2026 Franklin County, KS and its representatives. All rights reserved.' No reuse, personal or noncommercial-use limit, or automated-access ban found.",
+          "terms_url": "https://www.franklincoks.org/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.franklincoks.org/495/Tax-Foreclosures",
+          "quote": "The Franklin County Tax Foreclosure Sale is not currently scheduled."
+        },
+        {
+          "url": "https://www.franklincoks.org/495/Tax-Foreclosures",
+          "quote": "Properties are sold at public auction to the highest qualified bidder."
+        },
+        {
+          "url": "https://www.franklincoks.org/495/Tax-Foreclosures",
+          "quote": "Registration is required and will be held prior to the sale, as advertised."
+        },
+        {
+          "url": "https://www.franklincoks.org/495/Tax-Foreclosures",
+          "quote": "Only cash, cashier's check, or money order will be accepted."
+        }
+      ]
     }
   ]
 }

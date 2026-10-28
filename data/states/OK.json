@@ -512,6 +512,143 @@
           "quote": "You can no longer redeem property once the June Resale starts."
         }
       ]
+    },
+    {
+      "county": "Canadian",
+      "slug": "canadian",
+      "office": "Canadian County Treasurer",
+      "phone": "405-295-6330",
+      "address": "314 W. Rogers Street, El Reno, OK 73036",
+      "website": "https://oktaxrolls.com/county/Canadian",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "Commissioner's Sales are usually held on Monday mornings at 9:00 am in the County Treasurer's Office.",
+      "sales": [],
+      "next_sale_note": "No commissioners' sale date is posted. The Treasurer's office sets each sale date after the County Commissioners approve a starting bid, and calls the bidder with the date and time. The Treasurer's page does not describe the June resale or give its date.",
+      "how_to_bid": "County-owned property (acquired at annual delinquent-tax sales) is sold by Commissioner's Sale: the bidder completes and signs a bid sheet; if the County Commissioners approve the starting bid, the Treasurer's office sets the date of sale. A deposit of the starting bid amount plus a minimum of $187.00 (estimated publication costs and fees) is required in certified funds. The sale ad runs for three consecutive Wednesdays before the sale. All bidders must be registered by 8:45 a.m. in the Treasurer's office on sale day and be present. Costs and fees are charged to the highest bidder; on Commissioners' approval the Treasurer issues a deed to the highest bidder. Each deed holder must sign a notarized Affidavit of Land or Mineral Ownership; buyers research liens themselves.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Canadian",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site), plus a notice that the office makes every effort to ensure the correctness of the website and that errors do not waive tax amounts. No terms of use page and no reuse restriction stated. Copyright-only."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Procedures_County_Owned_Property_List1.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Document linked from the Canadian County Treasurer's oktaxrolls.com page; same site terms as above (copyright-only, no reuse restriction)."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Procedures_County_Owned_Property_List1.pdf",
+          "quote": "Commissioner's Sales are usually held on Monday mornings at 9:00 am in the County Treasurer's Office."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Procedures_County_Owned_Property_List1.pdf",
+          "quote": "If the County Commissioners approve the starting bid, the County Treasurer's Office will then determine the date of sale."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Procedures_County_Owned_Property_List1.pdf",
+          "quote": "A deposit of the starting bid amount plus a minimum of $187.00 (estimated publication costs and fees)"
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/Procedures_County_Owned_Property_List1.pdf",
+          "quote": "All Bidders must be registered by 8:45 a.m. in the office of the Canadian County Treasurer"
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Canadian",
+          "quote": "The Treasurer also may sell these pieces of property, upon approval of the Board of County Commissioners."
+        }
+      ],
+      "notes": {
+        "list_note": "The Treasurer posts a County Owned Property List at https://oktaxrolls.com/public/custom/upload/document/County_Owned_Property_List2.pdf (Treasurer's site)."
+      }
+    },
+    {
+      "county": "Delaware",
+      "slug": "delaware",
+      "office": "Delaware County Treasurer",
+      "phone": "918-253-4533",
+      "address": "327 5th St., Jay, Oklahoma 74346 (mail: P.O. Box 1080)",
+      "website": "https://oktaxrolls.com/county/Delaware",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "held each year on the second Monday of June in the County Treasurer's office",
+      "sales": [],
+      "next_sale_note": "2027 June resale date not yet posted. The page says the resale is held in the County Treasurer's office between 9 a.m. and 4 p.m.",
+      "how_to_bid": "At the June tax resale, property is auctioned to the highest bidder for cash or certified funds, with bidding starting at the total of delinquent taxes, penalties, fees and costs. For a commissioners' sale of county-owned property, the bidder must place a deposit with the Treasurer's office to cover the cost of advertising the sale. Registration terms not stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Delaware",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site), plus a notice that the office makes every effort to ensure the correctness of the website and that errors do not waive tax amounts. No terms of use page and no reuse restriction stated. Copyright-only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Delaware",
+          "quote": "held each year on the second Monday of June in the County Treasurer's office"
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Delaware",
+          "quote": "between 9 a.m. and 4 p.m."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Delaware",
+          "quote": "the property is auctioned to the highest bidder for cash or certified funds."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Delaware",
+          "quote": "Any bidder must place a deposit with the County Treasurer's office to cover the cost of advertising the sale."
+        }
+      ]
+    },
+    {
+      "county": "Mayes",
+      "slug": "mayes",
+      "office": "Mayes County Treasurer",
+      "phone": "918-825-0160",
+      "address": "1 Court Place, Suite 100, Pryor, OK 74361",
+      "website": "https://oktaxrolls.com/county/Mayes",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No resale date is posted. The Treasurer's June Resale Info Packet gives no date or year; it says the sale is held at the office of the county treasurer.",
+      "how_to_bid": "The June resale is an open, active auction at the Treasurer's office (Mayes County Courthouse, 1 Court Place, Ste 100, Pryor) where property is sold to the highest bidder. You or your representative must be present; to get a bidder number you give your name, address and telephone number on the sign-in sheet. The minimum bid is the delinquent amount due or two-thirds of assessed value, whichever is less. All payments must be cash (no checks or credit cards); buyers also pay a $10 deed fee and about $20 for recording. The owner may redeem any time before the deed is executed. No deposit or registration deadline stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Mayes",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site), plus a notice that the office makes every effort to ensure the correctness of the website and that errors do not waive tax amounts. No terms of use page and no reuse restriction stated. Copyright-only."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/June_Resale_Info_Packet1.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Document linked from the Mayes County Treasurer's oktaxrolls.com page; same site terms as above (copyright-only, no reuse restriction)."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/June_Resale_Info_Packet1.pdf",
+          "quote": "ALL PAYMENTS MUST BE CASH. NO CHECKS OR CREDIT CARDS WILL BE ACCEPTED."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/June_Resale_Info_Packet1.pdf",
+          "quote": "To obtain a bidder number, you will be required to give your name, address and telephone number on the sign in sheet."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/June_Resale_Info_Packet1.pdf",
+          "quote": "You or your representative must be present at the sale."
+        },
+        {
+          "url": "https://oktaxrolls.com/public/custom/upload/document/June_Resale_Info_Packet1.pdf",
+          "quote": "YOU DO NOT OWN THE PROPERTY UNTIL THE DEED IS FILED."
+        }
+      ]
     }
   ]
 }

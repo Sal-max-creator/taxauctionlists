@@ -499,6 +499,35 @@
           "quote": "Bring your Missouri State Issued Identification to prove Residency and Identity."
         }
       ]
+    },
+    {
+      "county": "Taney",
+      "slug": "taney",
+      "office": "Taney County Collector",
+      "phone": "(417) 546-7216",
+      "address": "132 David Street, Forsyth, MO 65653 (mail: P.O. Box 278, Forsyth, MO 65653)",
+      "website": "https://taneycounty.org/index.php?department=10&section=departments",
+      "sale_type": "lien",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "Conducts delinquent land tax sale the fourth Monday of August each year.",
+      "sales": [],
+      "next_sale_note": "The 2027 sale date is not posted; the Collector's page gives only the annual fourth-Monday-of-August rule.",
+      "how_to_bid": "Not stated on the Collector's page: time, location, registration, deposit and bidder requirements are not posted. Contact the Collector's office at (417) 546-7216.",
+      "sources": [
+        {
+          "url": "https://taneycounty.org/index.php?department=10&section=departments",
+          "read_on": "2026-10-28",
+          "terms": "No terms page found: the footer reads 'Copyright 2004 - 2026 Taney County, Missouri.' with no disclaimer, terms or privacy link. Copyright-only; no reuse restriction found.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://taneycounty.org/index.php?department=10&section=departments",
+          "quote": "Conducts delinquent land tax sale the fourth Monday of August each year."
+        }
+      ]
     }
   ]
 }

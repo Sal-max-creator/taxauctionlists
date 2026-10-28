@@ -246,6 +246,39 @@
           "quote": "Auctions are regularly in October/November."
         }
       ]
+    },
+    {
+      "county": "Fond du Lac",
+      "slug": "fond-du-lac",
+      "office": "Fond du Lac County Treasurer",
+      "phone": "not stated",
+      "address": "not stated",
+      "website": "https://www.fdlco.wi.gov/departments/departments-n-z/treasurer/tax-foreclosure-sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No bid due date is posted on the Treasurer's tax foreclosure sales page; bids are due by the date and time in the Legal Notice of Sale, which was not on the page we read.",
+      "how_to_bid": "Sealed bid. Sealed bids are accepted at the office of the County Treasurer until the date and time indicated in the Legal Notice of Sale. Minimum bids are set by the Finance, Personnel and Economic Development Committee, and under Wis. Stat. 75.69 no bid below the advertised minimum is considered. The page links a How to Bid sheet, a Bid Form, Questions of Intent and Terms and Conditions, which we did not read. Deposit is not stated.",
+      "sources": [
+        {
+          "url": "https://www.fdlco.wi.gov/departments/departments-n-z/treasurer/tax-foreclosure-sales",
+          "read_on": "2026-10-28",
+          "terms": "County website disclaimer read: it disclaims liability (use of the information 'shall constitute an agreement by the User to release Fond du Lac County') and states no restriction on reuse, reproduction or redistribution.",
+          "terms_url": "https://www.fdlco.wi.gov/government/website-policies-and-information/disclaimer"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.fdlco.wi.gov/departments/departments-n-z/treasurer/tax-foreclosure-sales",
+          "quote": "Sealed bids are accepted at the office of the County Treasurer."
+        },
+        {
+          "url": "https://www.fdlco.wi.gov/departments/departments-n-z/treasurer/tax-foreclosure-sales",
+          "quote": "no bid will be considered for less than the advertised minimum bid amount"
+        }
+      ]
     }
   ]
 }

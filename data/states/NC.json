@@ -536,6 +536,123 @@
           "quote": "The upset bid must exceed the reported sale price by 5%"
         }
       ]
+    },
+    {
+      "county": "Orange",
+      "slug": "orange",
+      "office": "Orange County Tax Administration (sales conducted by the Orange County Sheriff's Department)",
+      "phone": "919-245-2100 (main line); foreclosure questions 919-245-2731",
+      "address": "228 S. Churton Street, Suite 200, P.O. Box 8181, Hillsborough, NC 27278",
+      "website": "https://orangecountync.gov/902/Tax-Auctions",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale scheduled. The Current Property Auctions page says there are currently no scheduled foreclosure sale dates and no properties currently being foreclosed on.",
+      "how_to_bid": "Bid in person at the auction held by the Orange County Sheriff's Department on the Orange County Courthouse steps, 106 E. Margaret Lane, Hillsborough. Sales are advertised for two weeks beforehand in the News of Orange or the Chapel Hill Herald. The highest bidder pays the full bid amount at the end of the sale (not a deposit) in cash or certified funds payable to the Orange County Sheriff's Department, plus excise tax and recording fees. A ten-day upset bid period follows, filed with the Orange County Clerk of Court by 5:00 p.m. on the tenth day after the Report of Sale is filed; an upset bid must be at least 5% higher and not less than $750, in cash or certified funds. If no upset bid is filed, the sale is confirmed and the Sheriff delivers a non-warranty Sheriff's Deed. Properties are sold as is. Registration steps are not stated.",
+      "sources": [
+        {
+          "url": "https://orangecountync.gov/902/Tax-Auctions",
+          "read_on": "2026-10-28",
+          "terms": "Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Orange County, NC and its representatives. All rights reserved.'",
+          "terms_url": "https://orangecountync.gov/site/copyright"
+        },
+        {
+          "url": "https://www.orangecountync.gov/905/Current-Property-Auctions",
+          "read_on": "2026-10-28",
+          "terms": "Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Orange County, NC and its representatives. All rights reserved.'",
+          "terms_url": "https://orangecountync.gov/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://orangecountync.gov/902/Tax-Auctions",
+          "quote": "The auctions are held at the Orange County Courthouse Steps, 106 E. Margaret Lane Hillsborough NC."
+        },
+        {
+          "url": "https://www.orangecountync.gov/905/Current-Property-Auctions",
+          "quote": "There are currently no scheduled foreclosure sale dates at this time."
+        }
+      ]
+    },
+    {
+      "county": "Harnett",
+      "slug": "harnett",
+      "office": "Harnett County Tax Department, Collection Division (sales by a court-appointed commissioner)",
+      "phone": "910-893-7520 or 910-814-4017",
+      "address": "305 W Cornelius Harnett Boulevard, Suite 101, Lillington, NC 27546",
+      "website": "https://harnett.org/tax/?btid=2&bid=1694",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming sale posted. The Tax Foreclosures page lists sales on August 28, 2026 (four parcels) and October 8, 2026 (six parcels), both already past.",
+      "how_to_bid": "Harnett County mainly uses the mortgage-style foreclosure method, so a court-appointed commissioner sells at public auction on the Harnett County Courthouse steps (or another place the Clerk of Court designates). Notices are posted at the courthouse at least 20 days before the sale and published in The Daily Record once a week for two weeks. The opening bid covers the taxes, fees and costs. The winning bidder pays a deposit; the page gives two figures (10% of the bid in the procedures section, and 5% or $750, whichever is greater, in certified funds or cash in the law firm section). Upset bids of at least 5% or $750 more, whichever is greater, may be filed during a 10-day period that restarts with each upset bid. After confirmation the balance is due (the page says no more than 20 days in one place and two to three weeks in another) and the buyer receives a Commissioner's Deed. Properties are sold as is, where is; the owner may redeem before confirmation. Sale time varies by sale.",
+      "sources": [
+        {
+          "url": "https://harnett.org/tax/?btid=2&bid=1694",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or legal link found in the footer (only social media links); footer: '© Copyright 2026 - Harnett County, North Carolina'. No reuse restriction seen.",
+          "terms_url": null
+        },
+        {
+          "url": "https://www.harnett.org/tax/collections-division.asp",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or legal link found in the footer (only social media links); footer: '© Copyright 2026 - Harnett County, North Carolina'. No reuse restriction seen.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.harnett.org/tax/collections-division.asp",
+          "quote": "Currently, Harnett County primarily uses the Foreclosure Method although it will occasionally utilize the In Rem Method."
+        },
+        {
+          "url": "https://harnett.org/tax/?btid=2&bid=1694",
+          "quote": "SALE HELD AT THE HARNETT COUNTY COURTHOUSE STEPS."
+        }
+      ]
+    },
+    {
+      "county": "Henderson",
+      "slug": "henderson",
+      "office": "Henderson County Tax Collector (sales conducted by the Henderson County Sheriff's Department)",
+      "phone": "828-698-3086",
+      "address": "not stated for the Tax Collector's office; sales are held at the courthouse, 200 North Grove St, Hendersonville, NC 28792",
+      "website": "https://hendersoncountync.gov/tax/page/tax-foreclosure-sales",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "Next sale date: to be determined. The page asks visitors to check back for the next sale; its property table is empty.",
+      "how_to_bid": "The Henderson County Sheriff's Department conducts the sale at the front door of the Courthouse, 200 N. Grove Street, Hendersonville. Arrive early: there is a short registration process for all bidders on the day of the sale. The highest bidder pays a 10% cash deposit at the close of bidding. Anyone may upset the bid within 10 days by raising it 5% of the last reported price or upset bid, and by no less than $750, filed with the Clerk of Superior Court; the full upset bid must be paid in cash before the period expires. The successful bidder receives a Sheriff's Deed, which the bidder must record with the Register of Deeds. The estimated opening bid does not include interest and expenses that keep accruing. Sale time is not stated.",
+      "sources": [
+        {
+          "url": "https://hendersoncountync.gov/tax/page/tax-foreclosure-sales",
+          "read_on": "2026-10-28",
+          "terms": "Legal Information page: 'Henderson County has secured copyrights for materials not otherwise in the public domain'; use of County data is at the user's own risk and the County is held harmless. No license terms and no ban on reuse, redistribution or commercial use stated.",
+          "terms_url": "https://www.hendersoncountync.gov/attorney/page/legal-information"
+        },
+        {
+          "url": "https://www.hendersoncountync.gov/system/files/fileattachments/tax_offices/page/4291/foreclosure_faq.pdf",
+          "read_on": "2026-10-28",
+          "terms": "Legal Information page: 'Henderson County has secured copyrights for materials not otherwise in the public domain'; use of County data is at the user's own risk and the County is held harmless. No license terms and no ban on reuse, redistribution or commercial use stated.",
+          "terms_url": "https://www.hendersoncountync.gov/attorney/page/legal-information"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://hendersoncountync.gov/tax/page/tax-foreclosure-sales",
+          "quote": "Please check back regularly for updates regarding our next sale."
+        },
+        {
+          "url": "https://www.hendersoncountync.gov/system/files/fileattachments/tax_offices/page/4291/foreclosure_faq.pdf",
+          "quote": "The highest bidder will be required to pay a 10% CASH deposit at the close of the bids."
+        }
+      ]
     }
   ]
 }

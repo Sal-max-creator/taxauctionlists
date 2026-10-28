@@ -751,6 +751,10 @@ State overview: <https://www.nj.gov/dca/dlgs/programs/tax_collector_docs/element
 | Toms River Township (Ocean County) | <https://tomsrivertownship.com/224/Tax-Collector> | 2026-10-27 | No reuse terms; copyright page says only 'All content © 2006-2026 Toms River Township, NJ and its representatives. All rights reserved.' ([terms](https://tomsrivertownship.com/Copyright)) |
 | Clifton (Passaic County) | <https://www.cliftonnj.org/162/Tax-Collector> | 2026-10-27 | No reuse terms; the disclaimer page says only 'Please contact us for information about our disclaimer.' ([terms](https://www.cliftonnj.org/disclaimer)) |
 | Clifton (Passaic County) | <https://cliftonnj.org/DocumentCenter/View/30677/50-day-Revised-tax-sale-listing-91526?bidId=> | 2026-10-27 | Same site; see disclaimer note above. ([terms](https://www.cliftonnj.org/disclaimer)) |
+| Cherry Hill Township (Camden County) | <https://chnj.gov/193> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Cherry Hill, NJ and its representatives. All rights reserved.' No reuse or redistribution clause. Footer also links a Privacy Statement; no terms or disclaimer link. ([terms](https://chnj.gov/site/copyright)) |
+| Bayonne (Hudson County) | <https://www.bayonnenj.org/_Content/pdf/notices/2026-04-15-Tax-Sale-Notice.pdf> | 2026-10-28 | no terms page found: site footer shows only '© City of Bayonne, NJ. All Rights Reserved. Developed by AlphaDog Solutions.' with no terms, disclaimer, privacy or legal link. |
+| Bayonne (Hudson County) | <https://www.bayonnenj.org/News/View/11976/tax-sale-notice> | 2026-10-28 | Same site; see above. |
+| Gloucester Township (Camden County) | <https://glotwp.com/department/tax-office> | 2026-10-28 | no terms page found: footer shows only '© 2026 Gloucester Township' and a Legal Notices link; no terms, disclaimer or privacy link. |
 
 ## New Mexico
 
@@ -818,6 +822,12 @@ State overview: <https://www.ncleg.gov/enactedlegislation/statutes/html/bysectio
 | New Hanover | <https://www.nhcgov.com/345/Foreclosures> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 New Hanover County, NC and its representatives. All rights reserved.' ([terms](https://www.nhcgov.com/copyright)) |
 | Brunswick | <https://brunswickcountync.gov/493> | 2026-10-27 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Brunswick County, NC and its representatives. All rights reserved.' ([terms](https://brunswickcountync.gov/copyright)) |
 | Catawba | <https://catawbacountync.gov/county-services/tax/online-search/search-foreclosure-sales> | 2026-10-27 | Disclaimer page reserves rights ('Copyright 2020. Catawba County Government. All Rights Reserved.' and 'Any rights not expressly granted herein are reserved.'); its posting rules apply to forum use. No ban on reuse or redistribution of the information found. ([terms](https://catawbacountync.gov/disclaimer/)) |
+| Orange | <https://orangecountync.gov/902/Tax-Auctions> | 2026-10-28 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Orange County, NC and its representatives. All rights reserved.' ([terms](https://orangecountync.gov/site/copyright)) |
+| Orange | <https://www.orangecountync.gov/905/Current-Property-Auctions> | 2026-10-28 | Copyright only, no reuse restriction found. Copyright Notices: 'All content © 2006-2026 Orange County, NC and its representatives. All rights reserved.' ([terms](https://orangecountync.gov/site/copyright)) |
+| Harnett | <https://harnett.org/tax/?btid=2&bid=1694> | 2026-10-28 | No terms, disclaimer, privacy or legal link found in the footer (only social media links); footer: '© Copyright 2026 - Harnett County, North Carolina'. No reuse restriction seen. |
+| Harnett | <https://www.harnett.org/tax/collections-division.asp> | 2026-10-28 | No terms, disclaimer, privacy or legal link found in the footer (only social media links); footer: '© Copyright 2026 - Harnett County, North Carolina'. No reuse restriction seen. |
+| Henderson | <https://hendersoncountync.gov/tax/page/tax-foreclosure-sales> | 2026-10-28 | Legal Information page: 'Henderson County has secured copyrights for materials not otherwise in the public domain'; use of County data is at the user's own risk and the County is held harmless. No license terms and no ban on reuse, redistribution or commercial use stated. ([terms](https://www.hendersoncountync.gov/attorney/page/legal-information)) |
+| Henderson | <https://www.hendersoncountync.gov/system/files/fileattachments/tax_offices/page/4291/foreclosure_faq.pdf> | 2026-10-28 | Legal Information page: 'Henderson County has secured copyrights for materials not otherwise in the public domain'; use of County data is at the user's own risk and the County is held harmless. No license terms and no ban on reuse, redistribution or commercial use stated. ([terms](https://www.hendersoncountync.gov/attorney/page/legal-information)) |
 
 ## North Dakota
 
@@ -969,6 +979,11 @@ State overview: <https://www.legis.state.pa.us/WU01/LI/LI/US/PDF/1947/0/0542..PD
 | Cumberland | <https://cumberlandcountypa.gov/2282/County-Repository-Sales> | 2026-10-27 | Copyright Notices page: 'All content © 2006-2026 Cumberland County and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Footer has no disclaimer, privacy or terms link. ([terms](https://cumberlandcountypa.gov/site/copyright)) |
 | Cumberland | <https://cumberlandcountypa.gov/2735/Upset-Real-Estate-Tax-Sale> | 2026-10-27 | Same site; see above. ([terms](https://cumberlandcountypa.gov/site/copyright)) |
 | Cumberland | <https://cumberlandcountypa.gov/2739/Judicial-Real-Estate-Tax-Sale> | 2026-10-27 | Same site; see above. ([terms](https://cumberlandcountypa.gov/site/copyright)) |
+| Washington | <https://www.washcopa.gov/tax-revenue/claims-repository-sale> | 2026-10-28 | Footer shows '© 2026 Washington County Pennsylvania. All rights reserved.' and links a Privacy Policy (no terms or disclaimer link). The Privacy Policy page has no general reuse or redistribution clause; its Social Media section says 'If users want to use a logo, a video, a document, etc., users need to get the County's written legal permission.' ([terms](https://www.washcopa.gov/privacy-policy)) |
+| Washington | <https://www.washcopa.gov/tax-revenue/claims-judicial-sale> | 2026-10-28 | Same site; see above. ([terms](https://www.washcopa.gov/privacy-policy)) |
+| Butler | <https://butlercountypa.gov/356> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Butler County, PA and its representatives. All rights reserved.' No reuse or redistribution clause. Footer has Copyright Notices and Privacy Policy links, no terms or disclaimer link. ([terms](https://butlercountypa.gov/copyright)) |
+| Monroe | <https://www.monroecountypa.gov/Departments/Tax-Claim> | 2026-10-28 | no terms page found: footer shows only '© 2026 Monroe County' and links to ADA, Courts and Site Map; no terms, disclaimer, privacy or copyright link. |
+| Beaver | <https://www.beavercountypa.gov/Departments/Assessment-Office> | 2026-10-28 | no terms page found: footer shows only '© 2026 Beaver County' with About Us and Bids and Proposals links; no terms, disclaimer, privacy or legal link. |
 
 ## Rhode Island
 
@@ -1209,6 +1224,7 @@ State overview: <https://docs.legis.wisconsin.gov/statutes/statutes/75/69>, <htt
 | Eau Claire | <https://eauclairecounty.gov/our-government/departments-and-facilities/department-directory/tax-delinquent-property> | 2026-10-27 | No terms page found. |
 | Dane | <https://treasurer.danecounty.gov/taxdeedauction> | 2026-10-27 | No terms page found: the Treasurer site's footer has only 'Copyright © 2026 County of Dane. All rights reserved.' and Google reCAPTCHA privacy/terms links. Restate facts only. |
 | Dane | <https://treasurer.danecounty.gov/documents/pdf/AuctionFAQ.pdf> | 2026-10-27 | Same Treasurer site; see copyright notice above. |
+| Fond du Lac | <https://www.fdlco.wi.gov/departments/departments-n-z/treasurer/tax-foreclosure-sales> | 2026-10-28 | County website disclaimer read: it disclaims liability (use of the information 'shall constitute an agreement by the User to release Fond du Lac County') and states no restriction on reuse, reproduction or redistribution. ([terms](https://www.fdlco.wi.gov/government/website-policies-and-information/disclaimer)) |
 
 ## Wyoming
 

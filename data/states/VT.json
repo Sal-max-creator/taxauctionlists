@@ -152,6 +152,43 @@
           "terms_url": null
         }
       ]
+    },
+    {
+      "county": "Guilford (town)",
+      "slug": "guilford",
+      "office": "Town of Guilford, Guilford Town Office",
+      "phone": "802.254.6857",
+      "address": "236 School Road, Guilford, Vermont 05301",
+      "website": "https://guilfordvt.gov/guilford-delinquent-property-tax-sale-information/",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No sale after 2026-10-28 posted. The Town's tax sale page shows its latest sale, held August 25, 2025 at 10:00 AM at the Guilford Town Office (past); a newer date is not posted.",
+      "how_to_bid": "Per the Town's tax sale page: the sale is held at the Guilford Town Office, bidders must register before bidding, and the property goes to the highest bidder (the Town may bid if no one else does). The high bidder pays at the sale in cash or by certified check. The owner or any lienholder has one year to redeem (the IRS one year plus 120 days), and the buyer earns interest of up to 12% if the property is redeemed. Deposit: not stated.",
+      "sources": [
+        {
+          "url": "https://guilfordvt.gov/guilford-delinquent-property-tax-sale-information/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, privacy or copyright link in the site footer; footer text reads only '© 2026 Town of Guilford, Vermont'. No terms page found; copyright-only. Restate facts only.",
+          "terms_url": null
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://guilfordvt.gov/guilford-delinquent-property-tax-sale-information/",
+          "quote": "August 25, 2025"
+        },
+        {
+          "url": "https://guilfordvt.gov/guilford-delinquent-property-tax-sale-information/",
+          "quote": "Bidders must register prior to bidding."
+        },
+        {
+          "url": "https://guilfordvt.gov/guilford-delinquent-property-tax-sale-information/",
+          "quote": "The high bidder must pay AT the sale with cash or a certified check."
+        }
+      ]
     }
   ]
 }

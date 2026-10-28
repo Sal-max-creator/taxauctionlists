@@ -683,6 +683,45 @@
           "quote": "open competitive bidding process (Iowa Code Chapter 446)"
         }
       ]
+    },
+    {
+      "county": "Marion",
+      "slug": "marion",
+      "office": "Marion County Treasurer",
+      "phone": "not stated",
+      "address": "Marion County Courthouse, 214 E Main St, Knoxville, IA 50138",
+      "website": "https://marioncountyiowa.gov/treasurer/tax_sale/",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "Iowa Tax Auction",
+        "url": "https://www.iowataxauction.com"
+      },
+      "schedule_rule": "held online annually on the third Monday in June",
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 Annual Tax Sale was held online June 15, 2026 (past).",
+      "how_to_bid": "The sale is online through the Iowa Tax Auction site; no mailed or emailed registrations are accepted. To bid, register online, pay a non-refundable $40.00 registration fee by ACH debit and complete the online W-9 form. For 2026, registration ran May 18 to June 11, with all steps due by 11:59 p.m. on June 11. Qualifying unpaid parcels are published once in the county's official publication in the last week of May; the updated list is refreshed nightly and viewable after registering. Deposit: not stated. Registration and auction-site help: (800) 800-9588.",
+      "sources": [
+        {
+          "url": "https://marioncountyiowa.gov/treasurer/tax_sale/",
+          "read_on": "2026-10-28",
+          "terms": "No terms, disclaimer, legal or privacy link in the footer; footer copyright only: '©2026 Marion County, Iowa' (site powered by Neapolitan Labs, vendor home-page link only). No reuse clause found."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://marioncountyiowa.gov/treasurer/tax_sale/",
+          "quote": "The 2026 Annual Tax Sale will be held online 6/15/2026."
+        },
+        {
+          "url": "https://marioncountyiowa.gov/treasurer/tax_sale/",
+          "quote": "Pay a non-refundable $40.00 registration fee via ACH debit."
+        },
+        {
+          "url": "https://marioncountyiowa.gov/treasurer/tax_sale/",
+          "quote": "No mailed or emailed registrations will be accepted."
+        }
+      ]
     }
   ]
 }

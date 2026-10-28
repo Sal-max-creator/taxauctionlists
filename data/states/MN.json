@@ -708,6 +708,106 @@
           "quote": "CLOSES: Monday, November 16, 2026 @ 10:00 AM"
         }
       ]
+    },
+    {
+      "county": "Renville",
+      "slug": "renville",
+      "office": "Renville County Auditor/Treasurer's Office",
+      "phone": "320-523-2071",
+      "address": "105 South 5th Street, Olivia, MN 56277 (county address in the site footer)",
+      "website": "https://www.renvillecountymn.gov/notice-of-sale-of-tax-forfeited-land/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "Public Surplus",
+        "url": "https://www.publicsurplus.com"
+      },
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-11-23",
+          "time": "8:00 AM (bidding opens); closes 3:00 PM on December 23",
+          "label": "Online estimated market value (EMV) auction of tax-forfeited land",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "The notice is dated October 22, 2026. The date sentence gives no year; the same notice says unsold parcels are relisted in a second online auction from 8:00 AM on December 24th to January 8, 2027 at 3:00 PM. The county says the auction link, terms, conditions and minimum bids will be on its website.",
+          "source_url": "https://www.renvillecountymn.gov/notice-of-sale-of-tax-forfeited-land/",
+          "quote": "The online EMV auction will begin at 8:00 AM on November 23rd and close at 3:00 PM on December 23rd."
+        }
+      ],
+      "next_sale_note": "Parcels that don't sell are relisted in a second online auction from 8:00 AM on December 24th, ending January 8, 2027 at 3:00 PM.",
+      "how_to_bid": "Bidding is online through a public auction site (Public Surplus). Review each property and the auction terms before bidding. Sales are as is, and all sales are final with no refunds or exchanges. Payment and deposit terms are not stated in the notice; the county says the auction link, terms, conditions and minimum bids will be posted on its website. Questions go to the Auditor/Treasurer's Office at 320-523-2071.",
+      "sources": [
+        {
+          "url": "https://www.renvillecountymn.gov/notice-of-sale-of-tax-forfeited-land/",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy page read: no clause on reuse, copying, redistribution, commercial use or automated access; footer copyright only: 'Copyright © 2026 Renville County. All Rights Reserved.' No other terms, disclaimer or legal link in the footer.",
+          "terms_url": "https://www.renvillecountymn.gov/privacy-policy/"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.renvillecountymn.gov/notice-of-sale-of-tax-forfeited-land/",
+          "quote": "relisted on a second online auction starting at 8:00 AM on December 24th and ending on January 8, 2027 at 3:00 PM."
+        },
+        {
+          "url": "https://www.renvillecountymn.gov/notice-of-sale-of-tax-forfeited-land/",
+          "quote": "All sales are final and no refunds or exchanges are permitted."
+        },
+        {
+          "url": "https://www.renvillecountymn.gov/notice-of-sale-of-tax-forfeited-land/",
+          "quote": "Any questions, please reach out to the Auditor/Treasurer's Office at 320-523-2071."
+        }
+      ]
+    },
+    {
+      "county": "Beltrami",
+      "slug": "beltrami",
+      "office": "Beltrami County Natural Resource Management",
+      "phone": "218-333-4210",
+      "address": "701 Minnesota Ave NW, Suite 234, Bemidji, MN 56601",
+      "website": "https://beltramicountymn.gov/business-development/tax-forfeited-land-sales/",
+      "sale_type": "deed",
+      "format": "online",
+      "platform": {
+        "name": "MNBid",
+        "url": "https://mnbid.mn.gov/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "No upcoming auction date is posted. The 2026 online auction ran Monday, May 11 to Tuesday, May 26, 2026 (past). The county page links an over-the-counter land sale parcel list.",
+      "how_to_bid": "The county's 2026 tax-forfeited land auction was held online on MNBid; bidders register with MNBid before bidding. Per the 2026 auction catalog, payment in full by cashier's check or money order (payable to 'Surplus Services') and completed paperwork are due within ten business days of the auction's close, plus a state assurance fee of 3% of the sale value. No bid deposit is stated. Questions go to Natural Resource Management at 218-333-4210.",
+      "sources": [
+        {
+          "url": "https://beltramicountymn.gov/business-development/tax-forfeited-land-sales/",
+          "read_on": "2026-10-28",
+          "terms": "Privacy Policy page read: accuracy and liability disclaimers only ('Every attempt has been made to ensure that the information contained on this web site is valid at the time of publication.'); nothing on reuse, redistribution, commercial use or automated access. No terms, disclaimer or legal link in the footer.",
+          "terms_url": "https://www.beltramicountymn.gov/privacy-policy/"
+        },
+        {
+          "url": "https://www.beltramicountymn.gov/media/pdyiilss/2026-on-line-auction.pdf",
+          "read_on": "2026-10-28",
+          "terms": "County 2026 online auction catalog (no owner names). Same site terms as above."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.beltramicountymn.gov/media/pdyiilss/2026-on-line-auction.pdf",
+          "quote": "Starts: Monday, May 11, 2026"
+        },
+        {
+          "url": "https://www.beltramicountymn.gov/media/pdyiilss/2026-on-line-auction.pdf",
+          "quote": "Payment must be paid in full and made by cashier’s check or money order."
+        },
+        {
+          "url": "https://www.beltramicountymn.gov/media/pdyiilss/2026-on-line-auction.pdf",
+          "quote": "Payment in full and completed paperwork must be received within ten (10) business days of the closing of the online auction."
+        },
+        {
+          "url": "https://www.beltramicountymn.gov/media/pdyiilss/2026-on-line-auction.pdf",
+          "quote": "State Assurance Fee 3% of total sale value"
+        }
+      ]
     }
   ]
 }

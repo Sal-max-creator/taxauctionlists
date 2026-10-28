@@ -436,6 +436,82 @@
           "quote": "The June Resale will be held at the Administration Building located at 315 W. 6th Ave, Stillwater"
         }
       ]
+    },
+    {
+      "county": "Pittsburg",
+      "slug": "pittsburg",
+      "office": "Pittsburg County Treasurer",
+      "phone": "918-423-6895",
+      "address": "115 E Carl Albert Pkwy # 102, McAlester, OK 74501",
+      "website": "https://oktaxrolls.com/county/Pittsburg",
+      "sale_type": "deed",
+      "format": "unknown",
+      "platform": null,
+      "schedule_rule": "The Treasurer's office conducts a public auction on the 2nd Monday of each June.",
+      "sales": [],
+      "next_sale_note": "2027 auction date not yet posted.",
+      "how_to_bid": "Sold at public auction to the highest bidder; the sale is open to the public. Lists of the properties are available from the Treasurer's office in May before the June auction. The auction covers real estate sold for non-payment of ad valorem property taxes. The Treasurer's page links a June Sale Information sheet (not read). Time, location, registration, deposit and payment terms not stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Pittsburg",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use page. The page's disclaimer says only that errors do not waive tax amounts owed. No reuse restriction stated. Copyright-only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Pittsburg",
+          "quote": "The Treasurer's office conducts a public auction on the 2nd Monday of each June."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Pittsburg",
+          "quote": "The sale is open to the public and all properties are sold to the highest bidder."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Pittsburg",
+          "quote": "Lists of these properties become available from our office in May preceding the June auction."
+        }
+      ]
+    },
+    {
+      "county": "Stephens",
+      "slug": "stephens",
+      "office": "Stephens County Treasurer",
+      "phone": "580-255-0728",
+      "address": "101 South 11th, Room 207, Duncan, OK 73533",
+      "website": "https://oktaxrolls.com/county/Stephens",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": "The tax resale is held each year on the second Monday of June",
+      "sales": [],
+      "next_sale_note": "2027 June resale date not yet posted. The page says the resale is held at the County Courthouse Treasurer's office between 9 a.m. and 4 p.m.",
+      "how_to_bid": "The Treasurer's tax resale sells real estate on which the county has held a tax lien for two full years; property is auctioned to the highest bidder for cash or certified funds, with bidding starting at all delinquent taxes, penalties, fees and costs. Bidders must place a deposit with the Treasurer's office to cover the cost of advertising the sale, and the winner pays any further advertising costs and County Clerk recording fees before closing. Property can no longer be redeemed once the June Resale starts. Unsold property is deeded to the county and may later be sold on a bid approved by the Board of County Commissioners. Registration terms not stated.",
+      "sources": [
+        {
+          "url": "https://oktaxrolls.com/county/Stephens",
+          "read_on": "2026-10-28",
+          "terms": "Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use or disclaimer on the page. No reuse restriction stated. Copyright-only."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://oktaxrolls.com/county/Stephens",
+          "quote": "The tax resale is held each year on the second Monday of June"
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Stephens",
+          "quote": "Any bidder must place a deposit with the County Treasurer's office to cover the cost of advertising the sale."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Stephens",
+          "quote": "At the sale, the property is auctioned to the highest bidder for cash or certified funds."
+        },
+        {
+          "url": "https://oktaxrolls.com/county/Stephens",
+          "quote": "You can no longer redeem property once the June Resale starts."
+        }
+      ]
     }
   ]
 }

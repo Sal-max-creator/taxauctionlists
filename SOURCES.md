@@ -38,6 +38,7 @@ State overview: <https://alison.legislature.state.al.us/files/pdf/SearchableInst
 | Shelby | <http://taxlienauction.shelbyal.com/> | 2026-10-27 | No footer or terms links in the page content returned; see shelbyal.com Disclaimer and Copyright Notices (copyright only). ([terms](https://shelbyal.com/site/copyright)) |
 | Shelby | <https://www.shelbyal.com/Directory/Home/DepartmentListing?DID=39> | 2026-10-27 | County site; Disclaimer is accuracy-only and Copyright Notices is copyright-only ('All rights reserved'). No reuse restriction found. ([terms](https://shelbyal.com/474/disclaimer)) |
 | St. Clair | <https://stclairco.com/418/Tax-Lien-Auction> | 2026-10-27 | Page disclaimer covers accuracy only (the Revenue Office 'will not be responsible or liable' for accuracy). Footer Copyright Notices page: 'All content © 2006-2026 St. Clair County, AL and its representatives. All rights reserved.' (copyright only). No reuse restriction found. ([terms](https://stclairco.com/site/copyright)) |
+| Talladega | <https://www.talladegacountyal.org/departments/revenue_commission_-_new/property/tax_sale.php> | 2026-10-28 | Footer Disclaimer covers liability and accuracy only ('Talladega County is not responsible for, and expressly disclaims liability for, damages of any kind.') and has no clause on reuse, redistribution or automated access. No copyright text on the page. No reuse restriction found. ([terms](https://www.talladegacountyal.org/disclaimer/index.php)) |
 
 ## Alaska
 
@@ -130,6 +131,15 @@ State overview: <https://cosl.org/Home/Faq>, <https://cosl.org/Home/Faq>, <https
 | Pope | <https://www.cosl.org/catalog.aspx> | 2026-10-27 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
 | Pope | <https://cosl.org/Home/Faq> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
 | Pope | <https://cosl.org/Home/Buyers> | 2026-10-27 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Crawford | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Crawford | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Crawford | <https://cosl.org/Home/Buyers> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Crittenden | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Crittenden | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Crittenden | <https://cosl.org/Home/Buyers> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Greene | <https://www.cosl.org/catalog.aspx> | 2026-10-28 | Disclaimer: the materials 'are for information purposes only'. Linking policy says 'You may not capture Arkansas.gov pages within frames or present Arkansas.gov content as your own.' No ban on reuse or redistribution found; site footer reads '© 2026 - Commissioner of State Lands \| All rights reserved.' ([terms](https://cosl.org/Home/Policies)) |
+| Greene | <https://cosl.org/Home/Faq> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
+| Greene | <https://cosl.org/Home/Buyers> | 2026-10-28 | same as above ([terms](https://cosl.org/Home/Policies)) |
 
 ## California
 
@@ -362,6 +372,9 @@ State overview: <https://law.justia.com/codes/georgia/title-48/chapter-4/article
 | Lowndes | <https://www.lowndescounty.com/166/Delinquent-Tax> | 2026-10-27 | Copyright / Privacy page shows only 'All content © 2006-2026 Lowndes County, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Copyright-only ('All rights reserved'); restate facts only. ([terms](https://www.lowndescounty.com/site/copyright)) |
 | Newton | <https://newtoncountytax.com/property_tax/tax-sales/> | 2026-10-28 | No terms, privacy or legal link in the footer, only 'Copyright © 2025'. In-page disclaimer only says staff cannot give legal advice and recommends professional advice. No reuse restriction found. |
 | Newton | <https://newtoncountytax.com/tax-sale-listing> | 2026-10-28 | same as above |
+| Bibb | <https://www.maconbibbtax.us/property.html> | 2026-10-28 | Footer shows only '© Government Window, LLC. All Rights Reserved.' (copyright only) and links the website vendor's Terms & Conditions, which cover online payments (fees, refunds, privacy of payer data) and contain no clause on reuse, redistribution or automated access of site content. No reuse restriction found. ([terms](https://www.maconbibbtax.us/terms.html)) |
+| Hall | <https://hallcountytax.org/property/tax-sale/> | 2026-10-28 | No terms, privacy or legal link in the footer; footer shows only '© Hall County Tax Commissioner' (copyright only). The in-page disclaimer and the purchaser's guide disclaimer cover legal advice and title only. No reuse restriction found. |
+| Hall | <https://hallcountytax.org/wp-content/uploads/2026/08/NEW-Prospective-Purchasers-Guide.pdf> | 2026-10-28 | Guide's disclaimer says nothing in it is legal advice and that no title is warranted; no clause on reproduction or reuse. |
 
 ## Hawaii
 
@@ -510,6 +523,8 @@ State overview: <https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html>
 | Saline | <https://www.salinecountyks.gov/media/Treasurer/tax%20foreclosure%20notice%20of%20sale/2026-CV-32%20Foreclosure.pdf> | 2026-10-27 | same as above ([terms](https://salinecountyks.gov/site-terms-privacy-policy)) |
 | Crawford | <https://crawfordcountykansas.org/tax-foreclosure-sale-guide.html> | 2026-10-27 | Privacy Policy & Legal Disclaimer page: its disclaimer covers accuracy of linked external sites and the privacy policy covers personal data; site footer reads 'Copyright 2023 ©'. No ban on reuse or redistribution found. ([terms](https://www.crawfordcountykansas.org/privacy-policy--disclaimer.html)) |
 | Geary | <https://www.gearycounty.gov/192/Tax-Sale-General-Information> | 2026-10-27 | Copyright Notices page reads 'All content © 2006-2026 Geary County, KS and its representatives. All rights reserved.' (copyright notice only). No ban on reuse or redistribution found. ([terms](https://www.gearycounty.gov/site/copyright)) |
+| McPherson | <https://www.mcphersoncountyks.us/250/Tax-Foreclosure-Sale> | 2026-10-28 | Copyright Notices page reads 'All content © 2006-2026 McPherson and its representatives. All rights reserved.' (copyright notice only). No ban on reuse or redistribution found. ([terms](https://www.mcphersoncountyks.us/site/copyright)) |
+| Montgomery | <https://www.mgcountyks.org/CivicAlerts.aspx?AID=22> | 2026-10-28 | no terms page found: the page footer shows only 'Government Websites by CivicPlus®' and no copyright, disclaimer, terms, legal or privacy link. No reuse restriction stated. |
 
 ## Kentucky
 
@@ -859,6 +874,7 @@ State overview: <https://www.ncleg.gov/enactedlegislation/statutes/html/bysectio
 | Harnett | <https://www.harnett.org/tax/collections-division.asp> | 2026-10-28 | No terms, disclaimer, privacy or legal link found in the footer (only social media links); footer: '© Copyright 2026 - Harnett County, North Carolina'. No reuse restriction seen. |
 | Henderson | <https://hendersoncountync.gov/tax/page/tax-foreclosure-sales> | 2026-10-28 | Legal Information page: 'Henderson County has secured copyrights for materials not otherwise in the public domain'; use of County data is at the user's own risk and the County is held harmless. No license terms and no ban on reuse, redistribution or commercial use stated. ([terms](https://www.hendersoncountync.gov/attorney/page/legal-information)) |
 | Henderson | <https://www.hendersoncountync.gov/system/files/fileattachments/tax_offices/page/4291/foreclosure_faq.pdf> | 2026-10-28 | Legal Information page: 'Henderson County has secured copyrights for materials not otherwise in the public domain'; use of County data is at the user's own risk and the County is held harmless. No license terms and no ban on reuse, redistribution or commercial use stated. ([terms](https://www.hendersoncountync.gov/attorney/page/legal-information)) |
+| Wayne | <https://waynegov.com/784/Tax-Foreclosure-Sales> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Wayne County, NC and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has no terms or disclaimer page (only Copyright Notices, Accessibility and a Disclaimer Troubleshooting page). ([terms](https://waynegov.com/site/copyright)) |
 
 ## North Dakota
 
@@ -944,6 +960,8 @@ State overview: <https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hB/HB1663 ENR.
 | Le Flore | <https://oktaxrolls.com/county/LeFlore> | 2026-10-27 | © 2020 All Rights Reserved footer (Powered by TM Consulting, Inc.) on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); no terms of use page found and no reuse restriction stated. Copyright-only. |
 | Muskogee | <https://oktaxrolls.com/county/muskogee> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use page. The page's disclaimer says only that errors do not waive tax amounts owed. No reuse restriction stated. Copyright-only. |
 | Payne | <https://oktaxrolls.com/county/Payne> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use page. The page's disclaimer says only that errors do not waive tax amounts owed. No reuse restriction stated. Copyright-only. |
+| Pittsburg | <https://oktaxrolls.com/county/Pittsburg> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use page. The page's disclaimer says only that errors do not waive tax amounts owed. No reuse restriction stated. Copyright-only. |
+| Stephens | <https://oktaxrolls.com/county/Stephens> | 2026-10-28 | Footer: '© 2020 All Rights Reserved. Powered by TM Consulting, Inc.' on the Treasurer's oktaxrolls.com site (the Treasurer's official vendor-hosted site); the TM Consulting link points nowhere and there is no terms of use or disclaimer on the page. No reuse restriction stated. Copyright-only. |
 
 ## Oregon
 
@@ -1225,6 +1243,8 @@ State overview: <https://law.lis.virginia.gov/vacode/title58.1/chapter39/section
 | Fauquier | <https://www.fauquiercounty.gov/government/departments-h-z/treasurer-s-office/judicial-tax-sale> | 2026-10-27 | Checked in a browser: the site footer has accessibility, FOIA rights and sitemap links but no terms, disclaimer or copyright notice. No terms page found and nothing on the pages read restricts reuse. |
 | Fauquier | <https://www.fauquiercounty.gov/government/departments-a-g/county-attorney/tax-sales> | 2026-10-27 | Checked in a browser: the site footer has accessibility, FOIA rights and sitemap links but no terms, disclaimer or copyright notice. No terms page found and nothing on the pages read restricts reuse. |
 | Frederick | <https://fcva.us/departments/treasurer/tax-sales> | 2026-10-27 | The county's Website Disclaimer says information is provided as is with no warranty of accuracy, and says nothing about reusing or republishing site content. No copyright notice in the footer. ([terms](https://www.fcva.us/services/website-disclaimer)) |
+| Botetourt | <https://www.botetourtva.gov/380/Delinquent-Tax-Sale> | 2026-10-28 | Legal Info page is a liability disclaimer ('In no event shall Botetourt County and/or its respective suppliers be liable...'); it has no copyright notice and says nothing about reusing, reproducing or republishing site content. No reuse restriction seen. ([terms](https://www.botetourtva.gov/476/Legal-Info)) |
+| Halifax | <https://www.halifaxcountyva.gov/272/Sale-of-Valuable-Real-Estate> | 2026-10-28 | Copyright Notices page: 'All content © 2006-2026 Halifax County, VA and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. No terms or disclaimer link in the footer (Privacy Policy and Copyright Notices only). ([terms](https://www.halifaxcountyva.gov/copyright)) |
 
 ## Washington
 

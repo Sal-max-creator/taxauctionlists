@@ -379,6 +379,71 @@
           "quote": "The properties will be sold by public auction to the highest qualified bidder."
         }
       ]
+    },
+    {
+      "county": "McPherson",
+      "slug": "mcpherson",
+      "office": "McPherson County Treasurer",
+      "phone": "620-241-8149",
+      "address": "200 N. Maple Street, McPherson, KS 67460",
+      "website": "https://www.mcphersoncountyks.us/250/Tax-Foreclosure-Sale",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The 2026 tax sale was April 23 at 8:30 a.m. on the 3rd floor of the McPherson County Courthouse, 117 N Maple St., McPherson (past; the page marks it 'Tax Sale Completed').",
+      "how_to_bid": "Public auction under K.S.A. 79-2801 et seq. All bidders must register and obtain a bidder number. Terms are cash; first-party personal checks payable to McPherson County District Court are accepted and are deposited by the Sheriff right after the sale. The deed is issued to the purchaser as registered; Register of Deeds fee $12.00 for the first page and $8.00 for each page after. Anyone who owes delinquent property taxes or special assessments may not bid. The purchaser is responsible for 2026 taxes forward. No deposit is stated.",
+      "sources": [
+        {
+          "url": "https://www.mcphersoncountyks.us/250/Tax-Foreclosure-Sale",
+          "read_on": "2026-10-28",
+          "terms": "Copyright Notices page reads 'All content © 2006-2026 McPherson and its representatives. All rights reserved.' (copyright notice only). No ban on reuse or redistribution found.",
+          "terms_url": "https://www.mcphersoncountyks.us/site/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mcphersoncountyks.us/250/Tax-Foreclosure-Sale",
+          "quote": "2026 Tax Sale April 23rd at 8:30am"
+        },
+        {
+          "url": "https://www.mcphersoncountyks.us/250/Tax-Foreclosure-Sale",
+          "quote": "All bidders must register and obtain a number to be used during the auction."
+        },
+        {
+          "url": "https://www.mcphersoncountyks.us/250/Tax-Foreclosure-Sale",
+          "quote": "Terms of the sale: CASH."
+        }
+      ]
+    },
+    {
+      "county": "Montgomery",
+      "slug": "montgomery",
+      "office": "Montgomery County Treasurer's Office",
+      "phone": "620-330-1100",
+      "address": "217 E. Myrtle Street, 1st Floor, Independence, KS 67301",
+      "website": "https://www.mgcountyks.org/CivicAlerts.aspx?AID=22",
+      "sale_type": "deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's annual tax sale was Tuesday, October 6, 2026, at Memorial Hall in Independence (past; doors opened 7:30 a.m., auction at 9:30 a.m.).",
+      "how_to_bid": "Live auction at Memorial Hall, Independence. For the 2026 sale, pre-registration was offered at the Independence Treasurer's Office; bidders who did not pre-register had to arrive early on sale day to register. Payment by cash, cashier's check, or personal check with a bank letter of credit dated no more than one day before the sale, plus a $21 recording fee per parcel. People with delinquent taxes may not get a bidder number or take part. No deposit is stated.",
+      "sources": [
+        {
+          "url": "https://www.mgcountyks.org/CivicAlerts.aspx?AID=22",
+          "read_on": "2026-10-28",
+          "terms": "no terms page found: the page footer shows only 'Government Websites by CivicPlus®' and no copyright, disclaimer, terms, legal or privacy link. No reuse restriction stated."
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mgcountyks.org/CivicAlerts.aspx?AID=22",
+          "quote": "Montgomery County will hold its annual Tax Sale on Tuesday, October 6, 2026, at Memorial Hall in Independence, Kansas."
+        }
+      ]
     }
   ]
 }

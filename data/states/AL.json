@@ -474,6 +474,42 @@
       "notes": {
         "list_note": "The county links its current delinquent list at https://www.ingproperty.com/StClair_Revenue/Delinquent.aspx (not read)."
       }
+    },
+    {
+      "county": "Talladega",
+      "slug": "talladega",
+      "office": "Talladega County Revenue Commission",
+      "phone": "not stated on the tax sale page",
+      "address": "1 Court Square, Talladega, AL 35160",
+      "website": "https://www.talladegacountyal.org/departments/revenue_commission_-_new/property/tax_sale.php",
+      "sale_type": "lien",
+      "format": "online",
+      "platform": {
+        "name": "GovEase",
+        "url": "https://www.govease.com/"
+      },
+      "schedule_rule": null,
+      "sales": [],
+      "next_sale_note": "2027 date not yet posted. The county's last tax lien sale (2025 delinquent taxes) began May 12, 2026 on GovEase, with registration opening April 27, 2026.",
+      "how_to_bid": "The tax lien sale is held online on GovEase, 9:00 AM to 4:30 PM, continuing day to day until completed. Registration is required for everyone who takes part and is free; the county links GovEase registration and training materials. Deposit, interest rate and bidding rules are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.talladegacountyal.org/departments/revenue_commission_-_new/property/tax_sale.php",
+          "read_on": "2026-10-28",
+          "terms": "Footer Disclaimer covers liability and accuracy only ('Talladega County is not responsible for, and expressly disclaims liability for, damages of any kind.') and has no clause on reuse, redistribution or automated access. No copyright text on the page. No reuse restriction found.",
+          "terms_url": "https://www.talladegacountyal.org/disclaimer/index.php"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.talladegacountyal.org/departments/revenue_commission_-_new/property/tax_sale.php",
+          "quote": "Talladega County Tax Lien Sale for 2025 delinquent tax properties will begin on May 12, 2026."
+        },
+        {
+          "url": "https://www.talladegacountyal.org/departments/revenue_commission_-_new/property/tax_sale.php",
+          "quote": "Registration is required for all individuals who will participate in the lien sale."
+        }
+      ]
     }
   ]
 }

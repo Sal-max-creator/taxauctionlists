@@ -252,6 +252,46 @@
           "quote": "TUESDAY, MAY 6, 2025"
         }
       ]
+    },
+    {
+      "county": "Old Saybrook (town)",
+      "slug": "old-saybrook",
+      "office": "Town of Old Saybrook Tax Collector's Office",
+      "phone": "860-395-3138",
+      "address": "Town Hall, 302 Main Street, Old Saybrook, CT 06475",
+      "website": "https://www.oldsaybrookct.gov/165/Tax-Collector",
+      "sale_type": "redeemable deed",
+      "format": "in person",
+      "platform": null,
+      "schedule_rule": null,
+      "sales": [
+        {
+          "date": "2026-12-10",
+          "time": "9:30 AM, first floor conference room, Old Saybrook Town Hall",
+          "label": "Tax sale (public auction)",
+          "deposit": "not stated",
+          "registration_deadline": "not stated",
+          "note": "The Tax Collector's page directs questions to Attorney Adam Cohen at Pullman & Comley.",
+          "source_url": "https://www.oldsaybrookct.gov/165/Tax-Collector",
+          "quote": "A Tax Sale has been set for December 10th, 2026 at 9:30am in the first floor conference room at town hall."
+        }
+      ],
+      "next_sale_note": "The Tax Collector's page announces a tax sale on December 10, 2026 at 9:30 AM in the first floor conference room at Town Hall.",
+      "how_to_bid": "The Tax Collector's page gives the date, time and room only and says to contact Attorney Adam Cohen at Pullman & Comley with any questions. Deposit, payment and registration terms are not stated on the page read.",
+      "sources": [
+        {
+          "url": "https://www.oldsaybrookct.gov/165/Tax-Collector",
+          "read_on": "2026-10-28",
+          "terms": "Copyright page: 'All content © 2006-2026 Old Saybrook, CT and its representatives. All rights reserved.' Nothing on reuse, redistribution, commercial use or automated access. No terms or disclaimer link in the footer. Restate facts only.",
+          "terms_url": "https://www.oldsaybrookct.gov/copyright"
+        }
+      ],
+      "evidence": [
+        {
+          "url": "https://www.oldsaybrookct.gov/165/Tax-Collector",
+          "quote": "Please contact Attorney Adam Cohen at Pullman & Comley with any questions"
+        }
+      ]
     }
   ]
 }

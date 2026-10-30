@@ -12,6 +12,7 @@ npm run validate     # checks data/states/*.json
 npm run terms-log    # regenerates SOURCES.md
 npm run alert-draft  # prints this week's paid Alerts email draft (Markdown)
 npm run alert-draft -- --teaser   # prints the free weekly preview instead
+npm run weekly-drafts             # saves both for today: drafts/alerts/<date>.md (paid) and drafts/free/<date>.md (free)
 ```
 
 Built with [Eleventy](https://www.11ty.dev/). Output is plain static HTML. Cloudflare deploys it as a Worker with static assets: `wrangler.jsonc` runs `npm run build` and serves `_site`, and `worker/index.js` runs only for `/api/*` (the signup form), so Workers Builds needs no extra settings (deploy command `npx wrangler deploy`, non-production branches `npx wrangler versions upload`). Node 22 is pinned in `.nvmrc`. `src/headers.njk` writes Cloudflare's `_headers` file, which adds `X-Robots-Tag: noindex` while the site is private.
@@ -95,8 +96,7 @@ Buttondown needs its paid subscriptions add-on for this and has no Stripe test m
 
 ### Sending the weekly email
 
-1. After the Monday source check issue is reviewed and `data/states/` is updated, run `npm run alert-draft` (options: `--days 45`, `--since <git ref>`, `--site none` to leave county names unlinked until taxauctionlists.com is live; by default it compares with the commit from 7 days ago).
-   Save each issue as `drafts/alerts/YYYY-MM-DD.md` (`npm run alert-draft -- --site none > drafts/alerts/2026-10-27.md`) so the PR shows what will go out.
+1. After the Monday source check issue is reviewed and `data/states/` is updated, run `npm run weekly-drafts`. It saves this week's paid email as `drafts/alerts/YYYY-MM-DD.md` and the free preview as `drafts/free/YYYY-MM-DD.md`, so the PR shows both emails that will go out. Commit both. (Options pass through: `npm run weekly-drafts -- --days 45 --since <git ref>`; by default it compares with the commit from 7 days ago.)
 2. Read it, fix anything the script can't know (cancellations announced elsewhere, notes), and attach parcel lists by hand: a spreadsheet only where the county's terms allow reuse, a link to the county's own list otherwise, nothing copied from link-only sources.
 3. Paste it into a new Buttondown email and, under Send > Audience, pick **Premium** so only paying subscribers get it.
 
@@ -104,7 +104,9 @@ The script only prints text. It never calls Buttondown.
 
 ### Sending the free weekly preview
 
-`npm run alert-draft -- --teaser` prints a short email: the next three registration deadlines, sales in the next 7 days, and one paragraph on what Alerts subscribers got that week, with the checkout link. Send it to the free list in Buttondown. It's the main path from free to paid, so send it every week, the same day as Alerts.
+`npm run weekly-drafts` saves it as `drafts/free/YYYY-MM-DD.md` (or `npm run alert-draft -- --teaser` prints it). It's a short email: the next three registration deadlines, up to five sales opening this week, and one paragraph on what Alerts subscribers got that week, with the monthly and yearly prices and the checkout link. The full list, every deadline, deposits, changes and parcel lists stay in the paid email. Paste it into a new Buttondown email and send it to everyone who isn't Premium (Send > Audience, free subscribers). It's the main path from free to paid, so send it every week, the same day as Alerts.
+
+New free subscribers get the welcome email in `drafts/emails/welcome.md`, pasted once into Buttondown under Settings > Subscribing > Welcome.
 
 To show a yearly price, set it in Buttondown (Settings > Paid subscriptions > yearly upsell price), then add `"yearlyPrice": 190` (or whatever was set) to `paid` in `src/_data/site.json`. The pricing page and callouts show it only when that key exists. The yearly choice only appears at checkout with Buttondown's Embedded checkout switched on (same settings page); with it off, the buy link goes straight to a monthly-only Stripe page.
 

@@ -10,7 +10,8 @@
     "terms-log": "node scripts/build-terms-log.mjs",
     "test": "node scripts/validate-data.mjs && node scripts/test-worker.mjs && eleventy",
     "test:worker": "node scripts/test-worker.mjs",
-    "alert-draft": "node scripts/alert-draft.mjs"
+    "alert-draft": "node scripts/alert-draft.mjs",
+    "weekly-drafts": "node scripts/alert-draft.mjs --save"
   },
   "repository": {
     "type": "git",

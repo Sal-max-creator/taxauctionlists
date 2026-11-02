@@ -1,0 +1,82 @@
+Title 36, §943: Tax lien mortgage; redemption; discharge; foreclosure
+Maine Legislature
+Maine Revised Statutes
+Session Law
+Statutes
+Maine State Constitution
+Information
+§943 PDF
+§943 MS-Word
+Statute Search
+Ch. 105 Contents
+Title 36 Contents
+List of Titles
+Maine Law & Disclaimer
+Revisor's Office
+Maine Legislature
+§942-A
+Title 36: TAXATION
+Part 2: PROPERTY TAXES
+Chapter 105: CITIES AND TOWNS
+Subchapter 9: DELINQUENT TAXES
+Article 2: ENFORCEMENT OF LIEN ON REAL ESTATE
+§943-A
+§943. Tax lien mortgage; redemption; discharge; foreclosure
+The filing of the tax lien certificate in the registry of deeds shall create a tax lien mortgage on said real estate to the municipality in which the real estate is situated having priority over all other mortgages, liens, attachments and encumbrances of any nature, and shall give to said municipality all the rights usually incident to a mortgagee, except that the municipality shall not have any right of possession of said real estate until the right of redemption shall have expired.
+The filing of the tax lien certificate in the registry of deeds shall be sufficient notice of the existence of the tax lien mortgage.
+In the event that the tax, interest and costs underlying the tax lien are paid within the period of redemption, the municipal treasurer or assignee of record shall prepare and record a discharge of the tax lien mortgage in the same manner as is now provided for the discharge of real estate mortgages, except that a facsimile signature of the treasurer or treasurer's assignee may be used.
+[PL 2011, c. 104, §1 (AMD).]
+If the party named on the tax lien mortgage has sold or otherwise conveyed the property to another person and provides proof of payment of that party's own pro rata share of taxes assessed for the tax year subject to the lien pursuant to a written property tax proration agreement, the municipal treasurer or the treasurer's designee shall prepare and record, upon request from the party named on the tax lien mortgage, a certificate that names that party and states that the party has paid that party's own pro rata share of the taxes owed and does not owe property taxes in connection with the tax lien mortgage. The party requesting the certificate is responsible for the cost of recording the certificate. Only a party named on the tax lien mortgage who has sold or otherwise disposed of the property that is the subject of the tax lien mortgage may request a certificate prepared and recorded under this paragraph. This section does not limit a municipality's remedies to collect unpaid real estate taxes through other means.
+[PL 2025, c. 662, Pt. C, §2 (AMD).]
+If the tax lien mortgage, together with interest and costs, shall not be paid within 18 months after the date of the filing of the tax lien certificate in the registry of deeds, the said tax lien mortgage shall be deemed to have been foreclosed and the right of redemption to have expired.
+The municipal treasurer shall notify the party named on the tax lien mortgage and each record holder of a mortgage on the real estate not more than 45 days nor less than 30 days before the foreclosing date of the tax lien mortgage, in writing signed by the treasurer or bearing the treasurer's facsimile signature and left at the holder's last and usual place of abode or sent by certified mail, return receipt requested, to the holder's last known address, of the impending automatic foreclosure and indicating the exact date of foreclosure. For sending this notice, the municipality is entitled to receive $3 plus all certified mail, return receipt requested, fees. These costs must be added to and become a part of the tax. If notice is not given in the time period specified in this section to the party named on the tax lien mortgage or to any record holder of a mortgage, the person not receiving timely notice may redeem the tax lien mortgage until 30 days after the treasurer does provide notice in the manner specified in this section.
+[PL 2021, c. 531, Pt. B, §6 (AMD).]
+Beginning with taxes that are assessed after April 1, 1985, the notice of impending automatic foreclosure must be substantially in the following form:
+STATE OF MAINE
+NOTICE OF IMPENDING AUTOMATIC FORECLOSURE
+Title 36, M.R.S.A. Section 943
+IMPORTANT: DO NOT DISREGARD
+THIS NOTICE. YOU WILL LOSE
+YOUR PROPERTY UNLESS YOU PAY
+YOUR 20 PROPERTY TAXES,
+INTEREST AND COSTS.
+TO:
+You are the party named on a tax lien certificate filed on , 20 , and recorded in Book , Page in the County Registry of Deeds. This filing has created a tax lien mortgage on the real estate described therein.
+On , 20 , the tax lien mortgage will be foreclosed and your right to recover your property by paying the taxes, interest and costs that are owed will expire.
+IF THE TAX LIEN FORECLOSES,
+THE MUNICIPALITY WILL OWN
+YOUR PROPERTY AND MAY SELL IT
+AND RETURN EXCESS SALE PROCEEDS
+TO YOU, IF ANY, PURSUANT TO THE
+MAINE REVISED STATUTES, TITLE 36, SECTION 943-C.
+If you cannot pay the property taxes you owe please contact me to discuss this notice.
+__________________
+Municipal Treasurer
+[PL 2023, c. 640, §2 (AMD).]
+After the expiration of the 18-month period for redemption, the mortgagee of record of said real estate or the mortgagee's assignee and the owner of record if the said real estate has not been assessed to the owner or the person claiming under the owner, in the event the notice provided for said mortgagee and said owner has not been given as provided in section 942 , has the right to redeem the real estate within 3 months after receiving actual knowledge of the recording of the tax lien certificate by payment or tender of the amount of the tax lien mortgage, together with interest and costs, and the tax lien mortgage must then be discharged by the owner thereof in the manner provided.
+[PL 2019, c. 501, §23 (AMD).]
+The tax lien mortgage shall be prima facie evidence in all courts in all proceedings by and against the municipality, its successors and assigns, of the truth of the statements therein and after the period of redemption has expired, of the title of the municipality to the real estate therein described, and of the regularity and validity of all proceedings with reference to the acquisition of title by such tax lien mortgage and the foreclosure thereof.
+If the person against whom the tax is assessed dies after the tax has been committed and prior to the expiration of the 18-month period of foreclosure and if that person has left a will offered for probate, the probate judge of the county in which that will is offered upon petition of any devisee of the real estate on which that tax is unpaid may grant a period of redemption not to exceed 60 days following the final allowance or disallowance of that will. Notice of the petition must be given to the tax collector of the municipality in which the property is located and a certified copy of the court order must be filed in the registry of deeds of the county in which the property is located.
+[PL 2023, c. 523, Pt. A, §7 (AMD).]
+A discharge of a municipal tax lien mortgage given after the right of redemption has expired, which discharge has been recorded in the Registry of Deeds for more than one year, terminates all title of the municipality derived from such tax lien mortgage or any other recorded tax lien mortgage for which the right of redemption expired 10 years or more prior to the foreclosure date of this discharged lien, unless the municipality has conveyed any interest based upon the title acquired from any of the affected liens. This paragraph applies to discharges of municipal tax lien mortgages given after October 1, 1935.
+[PL 1991, c. 245, §1 (AMD); PL 1991, c. 245, §2 (AFF).]
+When a municipality conveys the premises back to the former record titleholder or to a successor of that holder who obtained title before the foreclosure for a consideration of the taxes and costs due, the rights of the other parties claiming an interest of record in the premises at the time of foreclosure, including mortgagees, lien creditors or other secured parties, are revived as if the tax lien mortgage had not been foreclosed.
+[PL 1993, c. 373, §4 (NEW).]
+SECTION HISTORY
+PL 1973, c. 368 (AMD). PL 1975, c. 474, §1 (AMD). PL 1975, c. 770, §205 (AMD). PL 1977, c. 630, §9 (AMD). PL 1981, c. 29 (AMD). PL 1983, c. 407, §4 (AMD). PL 1985, c. 364, §1 (AMD). PL 1985, c. 364, §1 (NEW). PL 1989, c. 766 (AMD). PL 1991, c. 245, §1 (AMD). PL 1991, c. 245, §2 (AFF). PL 1993, c. 373, §4 (AMD). PL 1993, c. 422, §7 (AMD). PL 2011, c. 104, §1 (AMD). PL 2017, c. 288, Pt. A, §41 (AMD). PL 2019, c. 501, §23 (AMD). PL 2021, c. 531, Pt. B, §6 (AMD). PL 2023, c. 523, Pt. A, §7 (AMD). PL 2023, c. 640, §2 (AMD). PL 2025, c. 351, §1 (AMD). PL 2025, c. 662, Pt. C, §2 (AMD).
+The Revisor's Office cannot provide legal advice or
+interpretation of Maine law to the public.
+If you need legal
+advice, please consult
+a qualified attorney.
+Office of the Revisor of Statutes
+· 7 State House Station
+· State House Room 108
+· Augusta, Maine 04333-0007
+Data for this page extracted on 10/05/2026 17:28:28.
+Maine Government
+Legislature • Executive • Judicial • Agency Rules
+Visit the State House
+Tour Guide • Accessibility • Security Screening • Directions & Parking
+Email
+Office of the Revisor of Statutes

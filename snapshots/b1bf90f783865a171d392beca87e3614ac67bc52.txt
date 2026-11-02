@@ -1,0 +1,433 @@
+Tax Deed Sales | Hardee County, Clerk of the Circuit Court and Comptroller
+Skip to content
+Search Website
+0
+}" >
+0
+}">
+0
+}" />
+0
+}" >
+0
+}">
+0
+}">
+0,
+}"
+href="#"
+target=""
+>
+About Us
+0,
+'before:h-32': scrollPosition
+About Us
+View
+All
+Meet the Clerk
+Duties of the Clerk
+Clerk History
+Holiday Schedule
+0,
+}"
+href="#"
+target=""
+>
+Departments
+0,
+'before:h-32': scrollPosition
+Departments
+View
+All
+Courts
+0,
+}"
+href="https://www.hardeeclerk.com/departments/courts/fee-schedule/"
+target=""
+>
+Fee Schedule
+0,
+}"
+href="https://www.hardeeclerk.com/departments/courts/probate-division/"
+target=""
+>
+Probate Division
+0,
+}"
+href="https://www.hardeeclerk.com/departments/courts/traffic-infractions/"
+target=""
+>
+Traffic Infractions
+0,
+}"
+href="https://www.hardeeclerk.com/departments/courts/juvenile-division/"
+target=""
+>
+Juvenile Division
+0,
+}"
+href="https://www.hardeeclerk.com/departments/courts/jury-duty/"
+target=""
+>
+Jury Duty
+0,
+}"
+href="https://www.hardeeclerk.com/departments/courts/permits/"
+target=""
+>
+Permits
+Circuit Civil
+0,
+}"
+href="https://www.hardeeclerk.com/departments/circuit-civil/foreclosure-sales/"
+target=""
+>
+Foreclosure Sales
+0,
+}"
+href="https://www.hardeeclerk.com/departments/circuit-civil/foreclosure-help/"
+target=""
+>
+Foreclosure Help
+0,
+}"
+href="https://www.hardeeclerk.com/departments/circuit-civil/injunctions/"
+target=""
+>
+Injunctions
+0,
+}"
+href="https://www.hardeeclerk.com/departments/circuit-civil/mental-health/"
+target=""
+>
+Mental Health
+0,
+}"
+href="https://www.hardeeclerk.com/departments/circuit-civil/small-claims-and-county-civil/"
+target=""
+>
+Small Claims &#038; County Civil
+0,
+}"
+href="https://www.hardeeclerk.com/departments/circuit-civil/turbocourt/"
+target=""
+>
+TurboCourt
+Value Adjustment Board
+0,
+}"
+href="https://www.hardeeclerk.com/departments/value-adjustment-board/information/"
+target=""
+>
+Information
+0,
+}"
+href="https://www.hardeeclerk.com/departments/value-adjustment-board/value-adjustment-board-organizational-meetings/"
+target=""
+>
+Value Adjustment Board Hearings
+0,
+}"
+href="https://hardeecountyfl.granicus.com/ViewPublisher.php?view_id=1"
+target="_blank"
+aria-label="Webcast & Meetings opens in a new tab"
+rel="noopener"
+>
+Webcast & Meetings
+Family Law
+0,
+}"
+href="https://www.hardeeclerk.com/departments/family-law/child-support/"
+target=""
+>
+Child Support
+0,
+}"
+href="https://www.hardeeclerk.com/departments/family-law/family-domestic-relations/"
+target=""
+>
+Family/Domestic Relations
+0,
+}"
+href="https://www.hardeeclerk.com/departments/family-law/florida-putative-father-registry/"
+target=""
+>
+Florida Putative Father Registry
+0,
+}"
+href="https://www.hardeeclerk.com/departments/family-law/parenting-class-providers/"
+target=""
+>
+Parenting Class Providers
+0,
+}"
+href="https://www.hardeeclerk.com/departments/family-law/pro-se-packets-fees/"
+target=""
+>
+Pro Se Packets &#038; Fees
+Recording
+0,
+}"
+href="https://www.hardeeclerk.com/departments/recording/marriage-license/"
+target=""
+>
+Marriage Licenses
+0,
+}"
+href="https://www.hardeeclerk.com/departments/recording/passports/"
+target=""
+>
+Passports
+0,
+}"
+href="https://www.hardeeclerk.com/departments/recording/subdivision-plats/"
+target=""
+>
+Subdivision Plats
+0,
+}"
+href="https://www.hardeeclerk.com/departments/recording/right-of-way-maps/"
+target=""
+>
+Right of Way Maps
+0,
+}"
+href="https://www.hardeeclerk.com/departments/recording/recording-official-records/"
+target=""
+>
+Recording &#038; Official Records
+Clerk to the Board
+0,
+}"
+href="https://www.hardeeclerk.com/departments/clerk-to-the-board/contracts-and-agreements/"
+target=""
+>
+Contracts &#038; Agreements
+0,
+}"
+href="https://www.hardeeclerk.com/departments/clerk-to-the-board/board-meeting-records/"
+target=""
+>
+Board Meeting Records
+0,
+}"
+href="https://www.hardeeclerk.com/departments/clerk-to-the-board/economic-development/"
+target=""
+>
+Economic Development
+Criminal Division
+0,
+}"
+href="https://www.hardeeclerk.com/departments/criminal-division/expungent-seal/"
+target=""
+>
+Expunge &#038; Seal
+0,
+}"
+href="https://www.hardeeclerk.com/departments/criminal-division/criminal-courts/"
+target=""
+>
+Criminal Courts
+Tax Deeds
+0,
+}"
+href="https://www.hardeeclerk.com/departments/tax-deeds/tax-deed-sales/"
+target=""
+>
+Tax Deed Sales
+0,
+}"
+href="https://www.hardeeclerk.com/departments/tax-deeds/lands-available/"
+target=""
+>
+Lands Available
+Employment Opportunities
+0,
+}"
+href="#"
+target=""
+>
+Online Options
+0,
+'before:h-32': scrollPosition
+Online Options
+View
+All
+Frequently Asked Questions
+0,
+}"
+href="https://www.hardeeclerk.com/home/online-options/frequently-asked-questions/child-support-faq/"
+target=""
+>
+Child Support FAQ
+0,
+}"
+href="https://www.hardeeclerk.com/home/online-options/frequently-asked-questions/financial-services-faq/"
+target=""
+>
+Financial Services FAQ
+0,
+}"
+href="https://www.hardeeclerk.com/home/online-options/frequently-asked-questions/jurors-faq/"
+target=""
+>
+Jurors FAQ
+0,
+}"
+href="https://www.hardeeclerk.com/home/online-options/frequently-asked-questions/marriage-divorce-faq/"
+target=""
+>
+Marriage &#038; Divorce FAQ
+0,
+}"
+href="https://www.hardeeclerk.com/home/online-options/frequently-asked-questions/public-records-faq/"
+target=""
+>
+Public Records FAQ
+0,
+}"
+href="https://www.hardeeclerk.com/home/online-options/frequently-asked-questions/passports-faq/"
+target=""
+>
+Passports FAQ
+0,
+}"
+href="https://www.hardeeclerk.com/home/online-options/frequently-asked-questions/traffic-faq/"
+target=""
+>
+Traffic FAQ
+Florida E-Filing Portal
+Online Court Records Access Agreements
+Court Case Payment Service
+E-Notify
+Official Links
+0,
+}"
+href="https://www.hardeeclerk.com/contact/"
+target=""
+>
+Contact
+0,
+}">
+Search Website
+0
+}">
+0
+}">
+Search
+Search Website
+About Us
+Meet the Clerk
+Duties of the Clerk
+Clerk History
+Holiday Schedule
+Departments
+Courts
+Fee Schedule
+Probate Division
+Traffic Infractions
+Juvenile Division
+Jury Duty
+Permits
+Circuit Civil
+Foreclosure Sales
+Foreclosure Help
+Injunctions
+Mental Health
+Small Claims &#038; County Civil
+TurboCourt
+Value Adjustment Board
+Information
+Value Adjustment Board Hearings
+Webcast & Meetings
+Family Law
+Child Support
+Family/Domestic Relations
+Florida Putative Father Registry
+Parenting Class Providers
+Pro Se Packets &#038; Fees
+Recording
+Marriage Licenses
+Passports
+Subdivision Plats
+Right of Way Maps
+Recording &#038; Official Records
+Clerk to the Board
+Contracts &#038; Agreements
+Board Meeting Records
+Economic Development
+Criminal Division
+Expunge &#038; Seal
+Criminal Courts
+Tax Deeds
+Tax Deed Sales
+Lands Available
+Employment Opportunities
+Online Options
+Frequently Asked Questions
+Child Support FAQ
+Financial Services FAQ
+Jurors FAQ
+Marriage &#038; Divorce FAQ
+Public Records FAQ
+Passports FAQ
+Traffic FAQ
+Florida E-Filing Portal
+Online Court Records Access Agreements
+Court Case Payment Service
+E-Notify
+Official Links
+Contact
+Tax Deed Sales
+0
+}">
+0
+}">
+Rules For Tax Deed Sales
+The purchasing of a tax deed does not warrant or guarantee a clear and marketable title.
+Neither the Clerk of Circuit Court nor the Tax Collector warrants or guarantees a clear and marketable title.
+Bidding starts at the amount needed to pay the outstanding taxes, interest, thereon, and all costs related to said sale. If there are no higher bids, the property shall be struck off and sold to the certificate holder, who shall pay to the clerk any amounts included in the minimum bid not already paid, including, but not limited to, the documentary stamp tax, the recording fees, and, if the property is homestead property, the moneys to cover the one-half value of the homestead within 30 days after the sale. Upon payment, a tax deed shall be issued and recorded by the clerk. If the certificate holder fails to make full payment when due, the clerk shall enter the land on a list entitled &#8220;lands available for taxes.&#8221;
+The high bidder shall post with the Clerk a non-refundable deposit of 5 percent of the bid or $200, whichever is greater , at the time of the sale, to be applied to the sale price at the time of full payment.
+The Clerk shall refuse to recognize the bid of any person who has previously bid and refused, for any reason, to honor such bid.
+If full payment of the final bid and of documentary stamp tax and recording fees is not made within 24 hours, excluding weekends and legal holidays, the Clerk shall cancel all bids, re-advertise the sale as provided in this section, and pay all costs of the sale from the deposit. Any remaining funds must be applied toward the opening bid.
+Payment must be made in the form of a cashier&#8217;s check, certified check, money order, or cash.
+Personal checks will not be accepted.
+Florida Statute Chapter 197.542(3)
+If the sale is canceled for any reason or the buyer fails to make full payment within the time required, the clerk shall readvertise the sale within 30 days after the buyer’s nonpayment or, if canceled, within 30 days after the clerk receives the costs of resale. The sale shall be held within 30 days after readvertising. Only one advertisement is necessary. The amount of the opening bid shall be increased by the cost of advertising, additional clerk’s fees as provided for in s. 28.24 (22), and interest as provided for in subsection (1). If, at the subsequent sale, there are no bidders at the tax deed sale and the certificateholder fails to pay the moneys due within 30 days after the sale, the clerk may not readvertise the sale and shall place the property on a list entitled “lands available for taxes.” The clerk must receive full payment before the issuance of the tax deed.
+Tax Deed Sales
+Tax Deed sales are held on Wednesdays at 11:00 am. at 417 West Main St. Second Floor Hallway outside of Suite 202, Wauchula, Fl. 33873 .
+Tax Deed Surplus Funds Lists
+The Clerk of Court&#8217;s tax deed surplus funds list can be purchased for $7.00 each.
+Payment must be made in the form of a money order, a cashier&#8217;s check, a company check, a credit card or a debit card. A 3.5% processing fee that is charged by MyFloridaCounty.com is applied to the credit or debit card. Please call (863) 773-4174 ext. 7405 to process a credit card or debit card via the telephone.
+Once payment has been received, the overbid list is sent by regular mail or email in PDF format.
+Notice
+Florida Statute 692.204(1)(a) & (4) , Purchase, or acquisition of real property by the People’s Republic of China prohibited &#8211; The following persons or entities may not directly or indirectly own, have a controlling interest in, or acquire by purchase, grant, devise, or descent any interest, except a de minimus indirect interest, in real property in this state:
+A. Florida Statute 692.204(1)(a)1. – The People’s Republic of China, the Chinese Communist Party, or any official or member of the People’s Republic of China or the Chinese Communist Party.
+B. Florida Statute 692.204(4) – Any person who is domiciled in the People’s Republic of China and who is not a citizen or lawful permanent resident of the United States.
+C. Bidder acknowledges he/she is not a foreign principle as defined in 692.201(4), F.S., is authorized under Section 692.204(2), F.S. to purchase property in the United States, and is otherwise in compliance with the requirements of Section 692.204, F.S.
+You can find further information concerning Tax Deed Sales in Chapter 197 of the Florida Statutes.
+If you have any questions, you can contact the Tax Deed Division at (863) 773-4174 ext 7282 or email: recording.passport@hardeeclerk.com
+Tax Deed Sales & Information
+Tax Deeds
+Tax Deed Sales
+Lands Available
+Phone Directory
+Call Us
+Office
+Mon to Fri: 8:30 AM - 4:00 PM
+County Calendar
+Important
+county events
+Hardee County, Florida
+Clerk of Courts
+417 West Main Street, Suite 202
+Wauchula, FL 33873
+(opens in a new tab)
+(863) 773-4174
+&copy;2026 Hardee County, Clerk of the Circuit Court and Comptroller.
+All rights reserved.
+Privacy Policy
+Site Map
+Accessibility Policy
+Site by KMA
+(opens in a new tab)

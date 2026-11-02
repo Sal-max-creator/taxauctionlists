@@ -1,0 +1,105 @@
+Tax Sale Information | Calvert County, MD - Official Website
+Skip to Main Content
+Create a Website Account - Manage notification subscriptions, save form progress and more.
+Website Sign In
+Government
+Departments
+Residents
+Business
+Search
+Home
+Government
+Treasurer's Office
+Tax Sale Information
+Tax Sale Information
+County Tax Sale
+The Calvert County Tax Sale is held annually for any real property that is two years delinquent in the payment of real estate taxes. Properties can also be sold at the annual tax sale for delinquent water and sewer bills for Calvert County accounts, the Town of North Beach and the Town of Chesapeake Beach. In accordance with Maryland law, the delinquent taxpayers are advertised in at least one local newspaper for four weeks prior to the sale.
+List of Eligible Properties
+A list of eligible properties will be available on a GIS map and in the Voice and Southern Maryland Newspapers at least 30 days prior to the sale date.
+Bidder Registration Form
+The bidder registration form will be posted here when available.
+Tax Sale Results
+The 2026 Tax Sale results with bids can be accessed here .
+Tax Sale Redemption Outstanding Checks Surplus List
+The tax sale redemption outstanding checks surplus list can be accessed here .
+Public Information Requests
+Calvert County Government provides access to its public records in accordance with the Maryland Public Information Act (PIA) .
+Public Auction
+The Treasurer's Office holds a public auction to satisfy the payment of delinquent real property taxes. If you are the successful bidder you will receive by mail a Certificate of Sale which will give you the right to start your legal proceedings to obtain title to property after waiting a six month redemption period.
+Note : Holding a Certificate of Sale does not give you title or rights to the property until after the six month redemption period has passed and you have completed the necessary legal steps to obtain an Order to Foreclose the Right of Redemption from the court.
+The property owner has six months in which to redeem his property. If after six months the property has not been redeemed, the certificate holder may start the necessary steps to obtain the property title. This means contacting your attorney and having him begin the legal work needed to take title to the property.
+Foreclose the Right of Redemption Expenses
+In accordance with Maryland law, the expenses incurred in an action to or in preparation of an action to foreclose the rights of redemption are as follows:
+Attorney's fees incurred in an action or in preparation for an action to foreclose the Rights of Redemption
+Fees for necessary recording of documents associated with an action to foreclose the Rights of Redemption
+Publication costs
+Reasonable fee for a necessary title examination
+Service of process by publication cost
+If you are claiming any of these expenses, you must have a receipt, invoice, voucher, canceled check, or other evidence that the expense has been incurred, and you will be reimbursed by the owner in accordance with Maryland law. Please send notice of all fees to the Treasurer's Office for our records.
+FAQs
+I am the successful bidder in the tax sale. What do I do now?
+Pay the current open taxes at the Treasurer’s Office the day of tax sale.
+How long do I have to wait before I can start foreclosure action?
+Foreclosure can begin no earlier than six months and a day from the time of sale, but no later than two years from the date of sale.
+How long does the property owner have to redeem the property I purchased?
+The property owner has up to final foreclosure to redeem the property.
+What am I reimbursed for if I am the successful bidder and the property is redeemed?
+You are reimbursed the taxes and cost you have paid, plus 10% annual interest. If foreclosure proceedings have begun, you will be reimbursed for any legal expenses that have been incurred in accordance with Maryland law.
+What happens if I do not foreclose on the property?
+If you do not foreclose on the property within two years you forfeit taxes you paid at the tax sale, your certificate of sale becomes void, and the property may be placed back in the tax sale.
+What type of payment is accepted?
+Cash, cashier’s check, personal or business checks are all acceptable forms of payment.
+When do I pay my bid price?
+When your deed is probated you must pay the balance of your bid price.
+/FAQ.aspx
+Purchaser Reminders
+Rights of Redemption
+Employment
+View current openings
+Recycling
+Learn more about it
+Transportation
+Schedule & information
+Permits
+Schedule & information
+Pay Online
+Pay and report online
+Report a Concern
+Stay informed
+Agendas & Minutes
+Watch Meetings
+County Budget
+Public Info Requests
+Notify Me
+/QuickLinks.aspx
+Created by the Calvert County Department of Communications and Media Relations
+Contact Us
+150 Main Street
+Prince Frederick, MD 20678
+Phone: 410-535-1600
+Phone: 301-855-1243
+Contact the Commissioners
+Contact Us
+Quick Links
+Current BOCC Agenda (PDF)
+Board of County Commissioners
+Employee Intranet
+Real Estate Taxes
+Sheriff's Office
+Press Releases
+Privacy Policy
+/QuickLinks.aspx
+Helpful Links
+Home
+Your Account
+Site Map
+Accessibility
+Copyright Notices
+Government Websites by CivicPlus®
+/QuickLinks.aspx
+Government Websites by CivicPlus&reg;
+Loading
+Loading
+Do Not Show Again
+Close
+[{"WidgetSkinID":131,"ComponentType":9,"FontFamily":"Lato","FontVariant":"700","FontColor":"","FontSize":0.00,"FontStyle":0,"TextAlignment":0,"ShadowColor":"","ShadowBlurRadius":0,"ShadowSpreadRadius":0,"ShadowOffsetX":0,"ShadowOffsetY":0,"ShadowInset":false,"ShadowColor2":"","ShadowBlurRadius2":0,"ShadowSpreadRadius2":0,"ShadowOffsetX2":0,"ShadowOffsetY2":0,"ShadowInset2":false,"ShadowColor3":"","ShadowBlurRadius3":0,"ShadowSpreadRadius3":0,"ShadowOffsetX3":0,"ShadowOffsetY3":0,"ShadowInset3":false,"ShadowColor4":"","ShadowBlurRadius4":0,"ShadowSpreadRadius4":0,"ShadowOffsetX4":0,"ShadowOffsetY4":0,"ShadowInset4":false,"ShadowColor5":"","ShadowBlurRadius5":0,"ShadowSpreadRadius5":0,"ShadowOffsetX5":0,"ShadowOffsetY5":0,"ShadowInset5":false,"Capitalization":0,"HeaderMiscellaneousStyles1":"","HeaderMiscellaneousStyles2":"","HeaderMiscellaneousStyles3":"","BulletStyle":0,"BulletWidth":2.00,"BulletColor":"","LinkNormalColor":"rgb(255, 255, 255)","LinkNormalUnderlined":false,"LinkNormalMiscellaneousStyles":"background-color: rgb(16, 65, 105);\nborder: 3px solid #fff;\nposition: relative;\ntransition: all .3s ease-in-out;\ndisplay: table;\nmargin: 2em auto;\nborder-radius: 15px;\nbox-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);\n\n}\n\n.widget.skin131 .widgetViewAll::after {\nposition: absolute;\ncontent: '';\ntop: 0;\nbottom: 0;\nz-index: 1;\nheight: 100%;\nwidth: 100%;\nbackground: url(/ImageRepository/Document?documentID=38853) left 3em center no-repeat;\nbackground-size: 0em;\ntransition: all .2s ease-in-out;\n}\n\n.widget.skin131 .widgetViewAll:hover::after,\n.widget.skin131 .widgetViewAll:focus::after,\n.widget.skin131 .widgetViewAll:active::after {\nbackground: url(/ImageRepository/Document?documentID=38853) left 3em center no-repeat;\nbackground-size: 1.2em; \n","LinkVisitedColor":"rgb(255, 255, 255)","LinkVisitedMiscellaneousStyles":"border: solid 3px #ffffff;\nborder-radius: 15px;\nbackground-color: rgb(16, 65, 105);","LinkHoverColor":"rgb(16, 65, 105)","LinkHoverUnderlined":true,"LinkHoverMiscellaneousStyles":"border: solid 3px #b1c461;\nbackground-color: #b1c461;\nborder-radius: 15px;","LinkSelectedUnderlined":false,"ForceReadOnLinkToNewLine":false,"DisplayColumnSeparator":false,"ColumnSeparatorWidth":0.0000,"HoverBackgroundColor":"","HoverBackgroundGradientStartingColor":"","HoverBackgroundGradientEndingColor":"","HoverBackgroundGradientDirection":0,"HoverBackgroundGradientDegrees":0.0000000,"HoverBackgroundImageFileName":"","HoverBackgroundImagePositionXUseKeyword":true,"HoverBackgroundImagePositionXKeyword":0,"HoverBackgroundImagePositionX":{"Value":0.0000,"Unit":0},"HoverBackgroundImagePositionYUseKeyword":true,"HoverBackgroundImagePositionYKeyword":0,"HoverBackgroundImagePositionY":{"Value":0.0000,"Unit":0},"HoverBackgroundImageRepeat":0,"HoverBorderStyle":0,"HoverBorderWidth":0,"HoverBorderColor":"","HoverBorderSides":15,"HoverBorderRadiusTopLeft":{"Value":null,"Unit":1},"HoverBorderRadiusTopRight":{"Value":null,"Unit":1},"HoverBorderRadiusBottomRight":{"Value":null,"Unit":1},"HoverBorderRadiusBottomLeft":{"Value":null,"Unit":1},"SelectedBackgroundColor":"","SelectedBackgroundGradientStartingColor":"","SelectedBackgroundGradientEndingColor":"","SelectedBackgroundGradientDirection":0,"SelectedBackgroundGradientDegrees":0.0000000,"SelectedBackgroundImageFileName":"","SelectedBackgroundImagePositionXUseKeyword":true,"SelectedBackgroundImagePositionXKeyword":0,"SelectedBackgroundImagePositionX":{"Value":0.0000,"Unit":0},"SelectedBackgroundImagePositionYUseKeyword":true,"SelectedBackgroundImagePositionYKeyword":0,"SelectedBackgroundImagePositionY":{"Value":0.0000,"Unit":0},"SelectedBackgroundImageRepeat":0,"SelectedBorderStyle":0,"SelectedBorderWidth":0,"SelectedBorderColor":"","SelectedBorderSides":15,"SelectedBorderRadiusTopLeft":{"Value":null,"Unit":1},"SelectedBorderRadiusTopRight":{"Value":null,"Unit":1},"SelectedBorderRadiusBottomRight":{"Value":null,"Unit":1},"SelectedBorderRadiusBottomLeft":{"Value":null,"Unit":1},"HoverFontFamily":"","HoverFontVariant":"","HoverFontColor":"","HoverFontSize":0.00,"HoverFontStyle":0,"HoverTextAlignment":0,"HoverShadowColor":"","HoverShadowBlurRadius":0,"HoverShadowSpreadRadius":0,"HoverShadowOffsetX":0,"HoverShadowOffsetY":0,"HoverShadowInset":false,"HoverShadowColor2":"","HoverShadowBlurRadius2":0,"HoverShadowSpreadRadius2":0,"HoverShadowOffsetX2":0,"HoverShadowOffsetY2":0,"HoverShadowInset2":false,"HoverShadowColor3":"","HoverShadowBlurRadius3":0,"HoverShadowSpreadRadius3":0,"HoverShadowOffsetX3":0,"HoverShadowOffsetY3":0,"HoverShadowInset3":false,"HoverShadowColor4":"","HoverShadowBlurRadius4":0,"HoverShadowSpreadRadius4":0,"HoverShadowOffsetX4":0,"HoverShadowOffsetY4":0,"HoverShadowInset4":false,"HoverShadowColor5":"","HoverShadowBlurRadius5":0,"HoverShadowSpreadRadius5":0,"HoverShadowOffsetX5":0,"HoverShadowOffsetY5":0,"HoverShadowInset5":false,"HoverCapitalization":0,"SelectedFontFamily":"","SelectedFontVariant":"","SelectedFontColor":"","SelectedFontSize":0.00,"SelectedFontStyle":0,"SelectedShadowColor":"","SelectedShadowBlurRadius":0,"SelectedShadowSpreadRadius":0,"SelectedShadowOffsetX":0,"SelectedShadowOffsetY":0,"SelectedShadowInset":false,"SpaceBetweenTabs":0,"SpaceBetweenTabsUnits":"","Trigger":1,"AnimationId":"00000000-0000-0000-0000-000000000000","AnimationClass":"animation00000000000000000000000000000000","ScrollOffset":33,"TriggerNameLowerCase":"hover","ParentComponentWithTrigger":null,"BackgroundColor":"","BackgroundGradientStartingColor":"","BackgroundGradientEndingColor":"","BackgroundGradientDirection":0,"BackgroundGradientDegrees":0.0000000,"BackgroundImageFileName":"","BackgroundImagePositionXUseKeyword":true,"BackgroundImagePositionXKeyword":0,"BackgroundImagePositionX":{"Value":0.0000,"Unit":0},"BackgroundImagePositionYUseKeyword":true,"BackgroundImagePositionYKeyword":0,"BackgroundImagePositionY":{"Value":0.0000,"Unit":0},"BackgroundImageRepeat":0,"BorderStyle":0,"BorderWidth":0,"BorderColor":"","BorderSides":15,"BorderRadiusTopLeft":{"Value":null,"Unit":1},"BorderRadiusTopRight":{"Value":null,"Unit":1},"BorderRadiusBottomRight":{"Value":null,"Unit":1},"BorderRadiusBottomLeft":{"Value":null,"Unit":1},"MarginTop":{"Value":null,"Unit":0},"MarginRight":{"Value":null,"Unit":0},"MarginBottom":{"Value":null,"Unit":0},"MarginLeft":{"Value":null,"Unit":0},"PaddingTop":{"Value":0.7500,"Unit":0},"PaddingRight":{"Value":6.0000,"Unit":0},"PaddingBottom":{"Value":0.7500,"Unit":0},"PaddingLeft":{"Value":6.0000,"Unit":0},"MiscellaneousStyles":"","RecordStatus":0}]

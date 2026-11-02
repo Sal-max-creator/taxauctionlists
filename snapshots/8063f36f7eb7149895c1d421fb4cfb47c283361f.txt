@@ -1,0 +1,32 @@
+Camden County Collector - Tax Sale Information
+Camden County Collector
+Home
+Tax Sale
+Merchant
+Tax Sale Date: Monday, August 23, 2027 at 10:00:00 AM
+Tax Sale Information
+Tax Sale Auction List
+Fourth Sale List
+To be a bidder, you must be a Missouri State Resident and you will be the one purchasing any property in the Tax Sale and your name will appear on the Certificate of Purchase and Collector's Deed.
+If you are purchasing on behalf of a company, corporation, lending institution or other organization, you must provide proper documentation authorizing you to act on their behalf.
+After purchasing a property, if you want to transfer ownership you will need to fill out the middle section of the Recorded Certificate of Purchase* and sign it in front of a Notary.
+Transferring of ownership does not apply to a purchase made on behalf of a non-resident.
+*Recorded Certificate of Purchase is retained by the Collector's Office. You must contact our office to make a change of ownership on the Certificate of Purchase. The Certificate of Purchase that you receive in September, printed on blue paper, is for your records only.
+Bidder Registration Process
+Complete the Register as a New Bidder Form below.
+Verify the Registration Information is correct and accurate.
+Print the Tax Sale Bidder Documents downloaded after registration.
+Sign the Tax Sale Bidder Certification and Bidder Sheet
+On Tax Sale Day
+Bring all of the downloaded and signed Tax Sale Documents with you to the Courthouse.
+Bring your Missouri State Issued Identification to prove Residency and Identity.
+If acting as an agent for a Company or Out-of-State individual, bring documentation of relationship.
+Arrive at Courthouse by 8:30 am on Monday, August 23, 2027.
+Register in Collector's Office prior to Tax Sale.
+TaxSale ts = ViewBag.ts;
+Register as New Bidder
+Register for Fourth Sale Purchase
+Fourth Sale Disclaimer: If interested in a property you will need to place the property on hold in the Collectors Office. It will be on Hold for at least 150 days, until your requirements are met.If all your requirements are met at that time you will be required to pay the taxes.For further questions contact the Collectors Office.
+&copy; 2026 - The Hunter Group, LLC - All Rights Reserved
+Help Video
+&times;

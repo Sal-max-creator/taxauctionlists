@@ -1,0 +1,133 @@
+Florence County SC - Delinquent Tax
+#skiptocontent a {
+// Taken from accessibility website.
+padding:6px;
+position: absolute;
+top:-40px;
+left:0px;
+color:white;
+border-right:1px solid white;
+border-bottom:1px solid white;
+border-bottom-right-radius:8px;
+background: #4176b3;
+-webkit-transition: top .5s ease-out;
+transition: top .5s ease-out;
+z-index: 100;
+}
+#skiptocontent a:focus {
+position:absolute;
+left:0px;
+top:70px;
+outline-color:transparent;
+-webkit-transition: top .05s ease-in;
+transition: top .05s ease-in;
+z-index: 100;
+}
+Skip to main content
+Florence County
+Offices
+County Council
+Planning
+Online Services
+Contacts
+FOIA
+Office of Delinquent Tax
+The Delinquent Tax Office is charged with collecting taxes on all real estate and personal property (except vehicles) that have not been paid prior to March 16 of each year.
+2026 Florence County Delinquent Tax Sale
+The Delinquent Tax Sale is currently scheduled to be conducted in the parking garage of the County Complex on Monday, October 5 th , 2026 . If the sale is not concluded on that day, it will continue on Tuesday, October 6 th , 2026 and as many days thereafter to finalize.
+The Sale will begin at 10:00 AM
+***Registration will NOT be offered on the day of the sale this year.*** All bidders must be pre-registered prior to sale and there will be a registration fee of $10.00 per bidder. Pre-registration forms must be completed by Friday, October 2 nd , 2026. The $10.00 registration fee may be submitted with form or collected on day of sale.
+The lists of potential properties to be sold at Sale will be added to the website in September, 2026.
+2026 Delinquent Tax Sale Registration Form
+2026 Buyer's Information Sheet
+2026 Tax Sale File-Mobile Homes
+2026 Tax Sale File-Real Property
+GIS Map for 2026 Tax Sale
+Tax Sale Process
+GIS Map Instructions
+Any updates concerning the 2026 Delinquent Tax Sale will be posted as necessary.
+Monday, October 5 th , 2026
+Bid paddles should be picked up in the Delinquent Tax Office, Room 107, beginning at 8:30 AM.
+If you have NOT paid your registration fee, you will pay your fee and pick up your paddle in the Treasurer’s office. If you have paid your registration fee you will pick up your paddle in the parking garage. Registration payments will also be collected if not submitted at a prior date.
+Sale begins at 10:00 AM on the first floor of the parking garage at the County Complex.
+Price List
+The Delinquent Tax Office is charged with collecting taxes on all real estate and personal property (except vehicles) that have not been paid prior to March 16 of each year. The tax execution delinquent costs for 2025 are added as follows:
+Amounts are added after the dates listed.
+March 23: &emsp;&emsp;&emsp;&emsp; Execution &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $0.00
+March 23: &emsp;&emsp;&emsp;&emsp; Delinquent Tax Notices &emsp;&emsp;&emsp;&emsp;&ensp; $20.00
+April 28: &emsp;&emsp;&emsp;&emsp;&ensp; Certified Mail of Levy &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; $30.00
+June 2: &emsp;&emsp;&emsp;&emsp;&emsp; Mobile Home Mortgage Search &emsp; $0.00
+June 15: &emsp;&emsp;&emsp;&emsp;&ensp; Personal Levy &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; $35.00
+August 24: &emsp;&emsp;&emsp;&ensp; Advertisement for Sale &emsp;&emsp;&emsp;&emsp;&emsp; $25.00
+October 2: &emsp;&emsp;&emsp;&emsp; Auction Fee &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; $10.00
+October 2: &emsp;&emsp;&emsp;&emsp; Land Mortgage Search &emsp;&emsp;&emsp;&emsp;&emsp; $60.00
+All dates are subject to adjustment due to calendar conflicts. Please Call the Delinquent Tax Office at (843) 665-3095 to verify tax amount due prior to payment.
+Effective September 1998, all payments on delinquent taxes must be made in the form of cash, cashier’s checks, certified funds, or money order. No personal checks of individuals or companies will be accepted.
+A past due fee of $25.00 will be added to all delinquent solid waste fees paid after March 16 of each year.
+TAX SALE PROCESS
+When will your next sale be held?
+October 5 th , 2026.
+Where is it held and what time does it begin?
+Florence County Parking Lot. The sale begins at 10:00am.
+Do I need to register for the sale and is there a fee for this?
+Yes, you must register in order to submit a bid on a property. Registration form will be available online and in office September 1, 2026.
+Make absolutely sure of what name you want to bid under when you sign up as a bidder. Do not ask us to change or switch the bidder name later as this creates major paperwork audit problems for us when issuing receipts and checks to you or later deeding properties. Please also keep us informed of any bidder address changes made after the sale.
+Bidder paddles will be provided to each bidder. The auctioneers utilize the bidder registration card with your bidder number to track bids during the auction. Only you, or your agent acting on your behalf, can bid. Bids must be made in person. You can pick up your bidder paddle the day of the sale. If you have already paid the registration fee, you will collect your paddle in the parking lot, and if not paid you will pay and collect your bidder paddle in office.
+Where and when do you advertise for the tax sale?
+The advertisement is in a local general circulation newspaper. By State law, the properties must be advertised once a week for three consecutive weeks before the sale.
+There will be a listing of properties & mobile homes to be sold on the County Web Site ( www.florencecountysc.gov ) that will be updated weekly. Properties are auctioned during the Tax Sale in alphabetical order according to the defaulting taxpayer's last name. The sale of Real Estate will precede the sale of Mobile Home properties.
+Because properties are advertised weeks prior to the sale, the properties or mobile homes you are interested in may not be sold at auction if the owner pays their delinquent taxes.
+Can you send me a list of the liens that will be available?
+No, but you can get that information from the local newspaper or visit our website.
+If I win the bid on a property, when will I be required to pay and what form of payment do you accept?
+The winning bid must be paid in full the day of the sale. Failure to comply in paying any bid you owe will result in a $500 fine and declaring you a 'non-qualified' bidder for any future Florence County Tax Sales and you will forfeit all your bids. Florence County will not cancel a winning bid for any personal reasons – if you bid, you are required to pay. We accept cash, postal money orders, cashier’s check and certified check only.
+What happens to the liens that are not sold at the auction?
+That property is turned over to the Forfeited Land Commission. A FLC Bid Assignment List will be available in November. Contact the Delinquent Tax Office for further information.
+Can I bid without attending (via mail, or a representative)?
+No mail bids are accepted. Some companies send a representative.
+If I end up with a property, does the county handle the foreclosure process?
+No. We issue a tax deed and the owner must handle the foreclosure and getting a warranted deed.
+What happens when property is sold for delinquent tax?
+When your property is sold at the tax sale you have a year and a day to redeem (means to buy back) your property. During the time after the sale up to the year of redemption, your redemption amount increases by 3% of the bid amount quarterly, but it will not increase more than the amount of what the tax was sold for. Ex. If your taxes are $300.00 and the bidder bid $5,000 to buy your property, for the first three (3) months you will have to pay 3% of the $5,000 (=$150) plus the tax amount of $300 (=$450), if property is not redeemed in 1st quarter (3%) then another 3% of bid amount is added to tax amount $(150), so the amount to redeem for 2nd quarter (6%) is (= $600) and so forth, but when the interest on the bid amount equals or is greater than the tax due, the amount to redeem will not go higher than the tax amount it was sold for, even if it is redeemed in the 4th quarter (12%). So the most interest you will pay to redeem your property is equal to the amount of tax due or the opening bid amount by the Forfeited Land Commission. You will also be responsible for any costs incurred to facilitate the tax sale.
+How do I know what condition the property is in that I'm bidding on?
+Research properties & mobile homes before you bid on them. As with any 'buyer beware purchase' the burden falls on you to check the condition of the properties you want to bid on.
+Which properties are sold at the tax sale?
+The County must sell all properties that have delinquent taxes. Ditches, roadways, and small strips of land are taxable and may be included in the Tax Sale. A tax sale does not erase liens that may be currently attached on the property. These liens will stay attached to the property when we issue a tax title to the winning bidder. These liens could affect you in trying to quiet title or in selling the property or Mobile Homes.
+What can I do with the property or mobile home that I am the winning bidder on?
+You cannot do anything with a property you bid on until you are issued a tax deed and/or issued a SCDMV Title to a mobile home. If you are the winning bidder, the property or mobile home can be redeemed by the current owner / mortgage holder up until October 6, 2027 @ 5 pm. The tax deed or the bill of sale on a mobile home will be recorded or issued around the end of March, 2028.
+Is a tax deed the same thing as a warranty deed?
+A tax deed is not a warranty deed. You, as the bidder, receive a percentage of interest back if the defaulting taxpayer redeems the property within that year at a rate that changes over time up to twelve percent on your bid amount. Be aware though, the amount of interest paid to you can never exceed the opening bid amount. As a bidder on a mobile home, in addition to interest earned on your bid amount, you will also earn monthly rent calculated not to exceed one-twelfth of the base amount of the tax year 2026 taxes, but not less than a rate of ten dollars per month per (S.C. Code Section 12-51-96). You do not earn rent on a mobile home/land combined sale.
+Tax Sales on property can be voided at any time prior to the issuance of a tax deed. Tax sales on mobile homes can be voided as well prior to the issuance of a Title from the SCDMV. If a sale is voided, the bidder will be refunded his/her bid money plus the actual interest earned on their bid amount. You do not earn rent on a voided mobile home sale.
+Remember these key points:
+The Tax Sale is a public auction.
+You must pay for bids plus deed stamps.
+Defaulting taxpayer has one year and a day to redeem property.
+If not redeemed a deed will be issued to the successful bidder, if approved.
+Interest is calculated at 3%, 6%, 9% and 12% quarterly but interest can never exceed the amount of bid placed on property by the forfeited land commission, consisting of the delinquent and current taxes.
+A deed issued to the successful bidder is not a clear deed. The deed can be cleared after the second year by obtaining an attorney and going before the Master in Equity.
+All bids are due as soon as the sale is over by cash, cashier's check or money order.
+Failing to pay for bids may result in a fine of $500 per bid.
+About us
+Services
+Careers
+FOIA
+Accessibility
+Accessibility Terms and Conditions
+Commitment to Accessibility: Florence County is committed to ensuring accessibility for all users, including those with disabilities. We strive to provide an inclusive and accessible experience for everyone who visits our website.
+Web Content Accessibility Guidelines (WCAG): Our website aims to adhere to the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA standards to ensure that our digital content is accessible to all users. We continuously work to improve our website's accessibility and usability in accordance with these guidelines.
+Accessible Features: We have implemented various accessibility features on our website, including but not limited to:
+Alternative text for images
+Keyboard navigation support
+Clear and consistent navigation
+Descriptive links and headings
+Accessible forms and controls
+Feedback and Support: We welcome feedback from users on the accessibility of our website. If you encounter any accessibility barriers or have suggestions for improvement, please contact our webmaster . Our team is committed to addressing accessibility issues promptly.
+Third-Party Content: While we strive to ensure accessibility on our website, some third-party content or features may not be fully accessible. We encourage users to report any accessibility concerns related to third-party content to us.
+Continuous Improvement: Florence County is dedicated to ongoing efforts to enhance accessibility. We regularly review our website's accessibility features and content to identify areas for improvement and ensure compliance with accessibility standards.
+Policy Updates: These accessibility terms and conditions may be updated periodically to reflect changes in our accessibility efforts or compliance requirements. Users are encouraged to review this statement regularly for any updates.
+Florence County is committed to providing an accessible online environment for all users. By accessing and using our website, you agree to abide by these accessibility terms and conditions.
+Close
+&copy; Copyright 2026 Florence County.
+To report a problem with this website, contact our webmaster .
+Mobirise Web Builder Personalized Link
+Mobirise Web Builder

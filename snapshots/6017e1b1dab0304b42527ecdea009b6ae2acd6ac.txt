@@ -1,0 +1,198 @@
+Tax Deed Auction | Shoshone County Idaho
+Directory
+Elected Officials
+Assessor
+Clerk
+Commissioners
+Prosecutor
+Sheriff
+Treasurer
+Departments
+Airport
+Courts
+District Court
+Jury Commissioner
+Magistrate Court
+Treatment Court
+Emergency Mgmt
+Fire Mitigation
+Motor Vehicles
+Planning &#038; Zoning
+Public Works
+Silver Express Shuttle
+Social Services
+Solid Waste
+Veterans Service
+Noxious Weeds
+Employment
+Docs &#038; Forms
+Select Page
+Tax Deed Auction
+When and Where is the Tax Deed Auction Held - SEPTEMBER 10, 2026
+In Shoshone County, a &#8220;live&#8221; Tax Deed Auction is held once a year, and is conducted in the first-floor foyer, of the Courthouse at 700 Bank Street, Wallace, ID. For tax deeded property, the Board of Commissioners shall conduct an auction no later than fourteen (14) months from the issuance of the tax deed. The sale will be advertised in the Shoshone County News Press legal notices section a couple of weeks before the auction providing a list of properties to be sold. The legal notice will also list the time, location and terms of the sale. The auction list will also be available at the County and on-line a few weeks before the auction.
+Properties being offered at the sale can be redeemed at anytime prior to the start of the sale. Only people with redemption rights can redeem.
+How is the Property Sold?
+If you are planning to bid on a property, you can sign up for a bid card the day of the auction. You or your representative must be present at the auction to bid. The properties are offered for sale in the order in which they appeared in the public notice. The Commissioner will read the property description and call for bids. Open bidding will proceed until the final bid is offered and the bidding is closed. They buyer will be requested to state his/her name and address for the public hearing record. The buyer must issue payment in full by cashier&#8217;s check (EXACT AMOUNT) by 3:00 p.m. on the date of the sale. A Commissioner&#8217;s Deed will be issued and recorded and the original deed will be mailed to the buyer at the mailing address designated.
+How is the Minimum Bid Set?
+2008 Legislation amended Idaho Code 31-808 regarding the process to be used in setting minimum bid for tax deed property sales. &#8220;However the Board of County Commissioners shall set the minimum bid for the tax deeded property to include all property taxes owing, interest and costs. . . .&#8221; The costs include an accounting of total taxes owed with penalty and interest, pending issue fees, certifications and special assessments, costs of publication, anticipated recording fees and any other costs incurred in preparing the parcel for sale.
+What is the Redemption Period for Tax Deed Properties?
+Property taken, through the tax deed process, may be redeemed by the owner(s) or other party(ies) holding a recorded legal interest in the property within (14) fourteen months of tax deed issuance or until sold at public auction, whichever comes first. See ID Code 63-1007
+What About the Parcels That Don&#039;t Sell at Auction?
+Should any parcel not sell at auction, the Board of County Commissioners may sell the surplus property, without further notice by public or private sale upon such terms and conditions, as the County deems necessary. ID Code 31-808(6) . The Board of Commissioner will accept written bids for purchase consideration. If interested in any parcel, a written bid can be submitted directly to the Shoshone County Board of Commissioners for purchase consideration. Provide item number, parcel number, and your contact information. You can download the &#8220;Surplus Property Bid Form&#8221; below to present your bid.
+The Board of County Commissioners reserve the right to reject any and all written bids or accept any written bid, which may be made.
+Research and inspect thoroughly before you bid. Prospective purchasers are urged to examine the title, location and desirability of the properties available to their own satisfaction prior to the sale.
+Shoshone County makes no guarantee, expressed or implied, relative to the title, location or condition of the properties for sale.
+Properties are sold &#8220;as is.&#8221;
+What Are Excess Proceeds?
+Occasionally a tax deed property sells for more than the minimum bid. This results in &#8216;excess proceeds&#8217;. Excess proceeds are available to be paid to any &#8216;party in interest&#8217; after appropriate fillings are collected and reviewed by legal counsel. After all &#8216;parties of interest&#8217; have been paid, the &#8216;owner of record&#8217; receives the remaining proceeds from the sale. ID Code 31-808 (2)(b).
+Available Properties
+Auction-List-for-9.10.2026-Tax-Deeds
+2 MB PDF
+stdClass Object
+(
+[ID] => 17267
+[post_author] => 20
+[post_date] => 2026-08-25 10:36:39
+[post_date_gmt] => 2026-08-25 17:36:39
+[post_content] =>
+[post_title] => Auction List for 9.10.2026 Tax Deeds
+[post_excerpt] =>
+[post_status] => inherit
+[comment_status] => closed
+[ping_status] => closed
+[post_password] =>
+[post_name] => auction-list-for-9-10-2026-tax-deeds
+[to_ping] =>
+[pinged] =>
+[post_modified] => 2026-08-25 10:36:39
+[post_modified_gmt] => 2026-08-25 17:36:39
+[post_content_filtered] =>
+[post_parent] => 0
+[guid] => https://shoshonecounty.id.gov/wp-content/uploads/2026/08/Auction-List-for-9.10.2026-Tax-Deeds.pdf
+[menu_order] => 0
+[post_type] => attachment
+[post_mime_type] => application/pdf
+[comment_count] => 0
+)
+Documents &#038; Forms
+Surplus Property Bid Form
+70 KB PDF
+stdClass Object
+(
+[ID] => 4558
+[post_author] => 20
+[post_date] => 2018-06-25 23:30:16
+[post_date_gmt] => 2018-06-25 23:30:16
+[post_content] =>
+[post_title] => Surplus Property Bid Form
+[post_excerpt] =>
+[post_status] => inherit
+[comment_status] => closed
+[ping_status] => closed
+[post_password] =>
+[post_name] => surplus-property-bid-form-2
+[to_ping] =>
+[pinged] =>
+[post_modified] => 2018-06-25 23:30:16
+[post_modified_gmt] => 2018-06-25 23:30:16
+[post_content_filtered] =>
+[post_parent] => 0
+[guid] => http://shoshonecounty.id.gov/wp-content/uploads/2018/06/Surplus-Property-Bid-Form.pdf
+[menu_order] => 0
+[post_type] => attachment
+[post_mime_type] => application/pdf
+[comment_count] => 0
+)
+Surplus Property - Avalable Parcels
+18 KB PDF
+stdClass Object
+(
+[ID] => 15933
+[post_author] => 5
+[post_date] => 2026-04-13 12:26:28
+[post_date_gmt] => 2026-04-13 19:26:28
+[post_content] =>
+[post_title] => County Surplus - Avalable Parcels Updated 4-13-26
+[post_excerpt] =>
+[post_status] => inherit
+[comment_status] => closed
+[ping_status] => closed
+[post_password] =>
+[post_name] => county-surplus-avalable-parcels-updated-4-13-26
+[to_ping] =>
+[pinged] =>
+[post_modified] => 2026-04-13 12:26:28
+[post_modified_gmt] => 2026-04-13 19:26:28
+[post_content_filtered] =>
+[post_parent] => 0
+[guid] => https://shoshonecounty.id.gov/wp-content/uploads/2026/04/County-Surplus-Avalable-Parcels-Updated-4-13-26.pdf
+[menu_order] => 0
+[post_type] => attachment
+[post_mime_type] => application/pdf
+[comment_count] => 0
+)
+Excess Proceeds List
+216 KB PDF
+stdClass Object
+(
+[ID] => 6527
+[post_author] => 20
+[post_date] => 2020-02-19 22:29:03
+[post_date_gmt] => 2020-02-19 22:29:03
+[post_content] =>
+[post_title] => Excess Proceeds Spreadsheet
+[post_excerpt] =>
+[post_status] => inherit
+[comment_status] => closed
+[ping_status] => closed
+[post_password] =>
+[post_name] => excess-proceeds-spreadsheet-5
+[to_ping] =>
+[pinged] =>
+[post_modified] => 2020-02-19 22:29:03
+[post_modified_gmt] => 2020-02-19 22:29:03
+[post_content_filtered] =>
+[post_parent] => 0
+[guid] => https://shoshonecounty.id.gov/wp-content/uploads/2020/02/Excess-Proceeds-Spreadsheet-1.pdf
+[menu_order] => 0
+[post_type] => attachment
+[post_mime_type] => application/pdf
+[comment_count] => 0
+)
+Excess Proceeds Claim Form 2022
+122 KB PDF
+stdClass Object
+(
+[ID] => 9598
+[post_author] => 20
+[post_date] => 2022-03-14 18:41:57
+[post_date_gmt] => 2022-03-14 18:41:57
+[post_content] =>
+[post_title] => Excess Proceeds Claim Form 2022
+[post_excerpt] =>
+[post_status] => inherit
+[comment_status] => closed
+[ping_status] => closed
+[post_password] =>
+[post_name] => excess-proceeds-claim-form-2022-2
+[to_ping] =>
+[pinged] =>
+[post_modified] => 2022-03-14 18:41:57
+[post_modified_gmt] => 2022-03-14 18:41:57
+[post_content_filtered] =>
+[post_parent] => 0
+[guid] => https://shoshonecounty.id.gov/wp-content/uploads/2022/03/Excess-Proceeds-Claim-Form-2022.pdf
+[menu_order] => 0
+[post_type] => attachment
+[post_mime_type] => application/pdf
+[comment_count] => 0
+)
+Directory
+Tax Information
+Public Meetings &#038; Due Dates
+Probation Services
+Employment
+Docs &#038; Forms
+Floodplain Information
+Title VI-ADA
+Emergency Mgmt

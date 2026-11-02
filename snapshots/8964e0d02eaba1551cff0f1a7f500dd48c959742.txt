@@ -1,0 +1,65 @@
+Help
+Help
+Contact Us
+Home
+Main Menu
+Parcel Inquiry
+Search By Owner
+Search By Property
+Area Code Rates
+Bidder Login
+Change of Address
+Tax Lien Sale
+Treasurer
+Treasurer Home
+FAQ
+Important Dates
+Office Locations
+Help
+Table of Contents
+Introduction
+Parcel Inquiry
+Parcel Search by Owner
+Parcel Search by Property Address
+Area Code Rates
+Bidder Login
+Excess Proceeds
+Change of Address
+Tax Lien Sale
+CP Expirations
+Contact Us
+Introduction
+The Cochise County Treasurer application center provides public access to property tax and other information. The application consists of several applications including Parcel Inquiry, Area Code Rates, Tax Lien Bidder information, Parcel Search by Owner Name and Mailing Address and other information.
+Parcel Inquiry
+The Parcel Inquiry application provides access to parcel property tax information for up to ten years. This information includes a summary of bills, interest, fees, payments, and due amounts for the parcel. In addition, information concerning tax year due details, payment history, applied interest and fee details, valuations, owner history, split history and a future tax bill estimation program. Parcel Inquiry also provides access to several reports including the Tax Bill, Payment Receipts, Tax Statements and Tax Receipts.
+Parcel Search by Owner
+The Parcel Search by Owner application provides the ability to search for parcel numbers and information based upon a number of criteria. The user can search by the following options: Owner Name, Mailing Address parts and Tax Year. Note that the mailing address may be different than the actual situs or property address of the parcel. Searching with the tax year entered indicates the results will only return parcels matching the criteria which were taxed during the given tax year.
+Once you have entered one or more pieces of search criteria, click the Search Parcels button to search for matching items. The results of the search will be displayed in the grid below the criteria. If no results are found, the message No items to display will be shown in the lower right hand corner of the grid. The grid of results by default will show the first 20 results in the list. To display more items in the grid or to page back and forth through the full results use the arrow options at the bottom of the grid. A maximum of 5000 results will be given for the search even if more results are available.
+Clicking a parcel number in the results will open the parcel automatically in a new window in the Parcel Inquiry application. NOTE that Parcel Inquiry will operate on one parcel number at a time regardless of which window or tab it is in. This means that if two windows or tabs are open with two different parcel numbers in parcel inquiry, the last parcel opened will be the parcel that additional clicks in the application will represent. The parcel number displayed in parcel inquiry in the upper left hand side will always reflect the parcel for which the information displayed represents.
+The results will include the parcel number, owner name and mailing address details. To export the results, click the Export to CSV button at the top of the grid. This will popup a window to save a generated file which contains the results of the search. The file will be in simple CSV (comma delimited) format which can be opened in any text editor or spreadsheet application such as Excel.
+Parcel Search by Property Address
+Searching for a parcel number by it's property or situs address is available through the Assessors website. The Search by Property menu item links over the Assessor search website. Once the parcel number has been identified, the user can return to Treasurer Parcel Inquiry application to view property tax information.
+Area Code Rates
+All Property, Real & Personal, is assigned an Area Code by the Cochise County Assessor. The Tax Area Code identifies what taxing jurisdictions may levy against the property. Each tax jurisdiction within the area code provide a rate that is applied against the net assessed values of the parcel to determine the amount of tax is due to the jurisdiction.
+You can find your parcel area code on your tax bill or within the Parcel Inquiry application valuations screen.
+Select a Tax Year and Area Code from the options. The list of Area Codes varies based on the tax year selected. Once both options are selected, the rates for the tax year and area code will be shown in the grid below.
+The resulting rates information contains the tax authority number, authority description, Primary Rate, Secondary Rate, Reduction Rate if any and Special Rate if any. Totals for each type of rate are shown at the bottom of the grid.
+To export the results of the selected tax year and area code, click the link that says Export Area Rates. This will open a prompt to open or save a CSV file that will contain the results. The file will be in simple CSV (comma delimited) format which can be opened in any text editor or spreadsheet application such as Excel.
+To export the rates for ALL area codes for the selected tax year, click the link that says Export All Rates for Year. This will open a prompt to open or save a CSV file that will contain the results. The file will be in simple CSV (comma delimited) format which can be opened in any text editor or spreadsheet application such as Excel.
+Excess Proceeds
+The Excess Proceeds screen provides a listing of funds currently held by the Cochise County Treasurer from mortgage or deed of trust foreclosure actions. Links are provided to file for fund release with the Clerk of the Superior Court or to research the cases listed. The information displayed will be current as of the date displayed on the screen.
+Bidder Login
+The Bidder application provides information to tax lien holders to assist them with managing their lien portfolio. To begin, login with your account information in the box on the left side the login screen. If you don't have an account and would like to register, click the Tax Lien Sale link from the menu to register for a bidder number.
+Once you are logged in, you will be able to see graphs and charts of your active liens and prior redemptions. You will also be able to view, print reports and do research on your lien portfolio. You also will be able to view your portfolio, sub tax options and prior redemptions in an interactive list that allows you to view amounts, sort by various columns and click on parcel numbers to do further research.
+The login screen contains a Tax Sale Results chart and legend that provides information for number of liens sold, average lien rates and total face amounts sold for the last three years.
+Change Of Address
+All address changes are done through the Cochise County Assessor's office. This link will direct you to their website where you can make your request for a change in mailing address.
+Tax Lien Sale
+Cochise County Treasurer uses Real Auction to host it's annual tax sale and on going CP sale during the year. This link will direct you to the tax sale website.
+CP Expirations
+The CP Expirations screen provides a listing of Certificates of Purchase that have been expired in accordance with Arizona Revised Statutes (ARS) Section 42-18208 and Section 42-18127. Select a date range and report format to view all CPs expired within that date range.
+Contact Us
+The contact us screen provides contact information for the Cochise County Treasurer's office. Contact information includes support email address, phone and fax numbers, mailing address for payments and other inquiries and the main office location address and office hours.
+&copy; Cochise County
+Treasurer Home
+Cochise County Government Web Disclaimer

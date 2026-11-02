@@ -1,0 +1,241 @@
+Tax Deed Sales | Jefferson County Clerk of the Circuit Court & Comptroller
+Skip
+to content
+0,
+}">
+0,
+}"
+>
+0,
+}"
+/>
+Departments & Services
+0,
+'before:h-44': scrollPosition
+Departments & Services
+Court Services
+Child Support
+Circuit Court
+County Civil
+Evictions
+Family Law
+Felony
+Jury Duty
+Juvenile
+Mental Health
+Misdemeanor
+Probate &#038; Guardianship
+Small Claims
+Traffic
+Clerk Services
+BOCC Records
+Contracts
+Finance Department
+Marriage Licenses
+Official Records
+Passports
+Property Sales
+Public Records Request
+Value Adjustment Board
+Online Services
+E-Filing
+E-Notify
+Pay Online
+Property Fraud Alert
+Records Search
+Resources
+0,
+'before:h-44': scrollPosition
+Resources
+Board of County Commissioners
+Sheriff's Office
+Property Appraiser
+Tax Collector
+Supervisor of Elections
+Second Judicial Circuit
+School Board
+Public Library
+About
+0,
+'before:h-44': scrollPosition
+About
+Clerk’s Office Overview
+Duties of the Clerk
+History of the Courthouse
+Meet the Clerk
+Meet the Team
+Mission, Vision &#038; Values
+Contact
+How Do I...
+0,
+'before:h-44': scrollPosition
+How Do I...
+Make Payments
+Pay a Traffic Citation
+Child Support Payments
+Pay Court Costs and Fees
+Look Up
+BOCC Minutes
+Court Records
+Official Records
+Public Auctions
+Tax Deeds
+Foreclosure Sales
+Make a Public Records Request
+Records Request Form
+0
+}">
+0,
+'opacity-100': scrollPosition
+0,
+'': scrollPosition
+follow us on
+facebook link opens in a new tab
+follow us on
+youtube link opens in a new tab
+0
+}">
+Search
+Search Website
+Search
+Departments & Services
+Court Services
+Child Support
+Circuit Court
+County Civil
+Evictions
+Family Law
+Felony
+Jury Duty
+Juvenile
+Mental Health
+Misdemeanor
+Probate &#038; Guardianship
+Small Claims
+Traffic
+Clerk Services
+BOCC Records
+Contracts
+Finance Department
+Marriage Licenses
+Official Records
+Passports
+Property Sales
+Public Records Request
+Value Adjustment Board
+Online Services
+E-Filing
+E-Notify
+Pay Online
+Property Fraud Alert
+Records Search
+Resources
+Board of County Commissioners
+Sheriff's Office
+Property Appraiser
+Tax Collector
+Supervisor of Elections
+Second Judicial Circuit
+School Board
+Public Library
+About
+Clerk’s Office Overview
+Duties of the Clerk
+History of the Courthouse
+Meet the Clerk
+Meet the Team
+Mission, Vision &#038; Values
+Contact
+How Do I...
+Make Payments
+Pay a Traffic Citation
+Child Support Payments
+Pay Court Costs and Fees
+Look Up
+BOCC Minutes
+Court Records
+Official Records
+Public Auctions
+Tax Deeds
+Foreclosure Sales
+Make a Public Records Request
+Records Request Form
+0 && openMenu != 'searchMenu',
+'pt-14 lg:pt-20 shadow-xl': scrollPosition > 0 && openMenu == 'searchMenu',
+}">
+Search Website
+Search
+20
+}">
+/
+Property Sales
+Tax Deed Sales
+Tax Deed Sales
+Frequently Asked Questions
+Information or forms provided by the Clerk of Circuit Court should be considered as basic information only and may not apply to every situation. The information is not intended to be used as legal advice. Specific guidance concerning tax deed sales should be directed to a qualified attorney.
+What is a tax deed sale?
+A Tax Deed Sale is a public auction where real estate is sold on property that is delinquent in taxes. A tax deed sale occurs after an owner of a tax certificate applies to the Tax Collector for a Tax Deed after the tax certificate has been held for the statutory period.
+When and where are these tax deed sales held?
+Tax Deed Sales are set by the courts; for a complete list of sales, please view the &#8220;Upcoming Tax Deed Sales&#8221; at the top of the page.
+Where can I obtain information about upcoming sales?
+The tax deed sales are advertised in “Monticello News” once a week for four consecutive weeks. You can purchase copies of the legal ads or other paperwork from the Clerk’s Office at $1.00 per page. The upcoming sales are also listed at the top of this page.
+What liens or encumbrances survive against a property after it is sold at a tax deed sale?
+Governmental liens survive the issuance of a tax deed and are satisfied to the fullest extent possible with any overbid monies from the sale. Governmental liens not satisfied in full survive the issuance of a tax deed and will remain against the property.
+The Clerk’s Office assumes no responsibility for any encumbrances on any property offered for sale. It is in your best interest to have a title search done by an attorney or title company. However, you may search the Official Records. When considering tax deed properties, please be advised that all properties are sold &#8220;Buyer Beware.&#8221;
+Can the property owner stop the property from being sold for taxes?
+The property owner or mortgage holder can redeem the property from the tax deed sale by paying the amounts owed to the Tax Collector or the Clerk of Court.
+What do I need to do if I am the successful bidder at the sale?
+According to the office policy, you are asked to remain until the auction is complete and accompany the Deputy Clerk to the Clerk’s Office. You will be advised of the total amount due, which will include your bid amount and the fees to record the tax deed.
+If payment in full is not made at the time of the sale, you are required to post a 5% or $200.00 (whichever is greater) nonrefundable deposit to be applied to the sale price at the time of full payment. Payment in full must be made within twenty-four (24) hours. If the deposit is not paid, then the bidding on that parcel will begin again at the base bid.
+What if the successful bidder fails to return with the full payment within 24 hours?
+Section 197.542(2) F.S. states: “The Clerk may refuse to recognize the bid of any person who has previously bid and refused, for any reason, to honor such bid.” If full payment is not received, it will be re-advertised and placed up for sale at the next scheduled sale.
+Do you get a clear title with a tax deed?
+All properties sold at a tax deed qualify under “buyer beware.” The purchase of a Tax Deed does not warrant or guarantee a clear and marketable title.
+Most title insurance companies require the property to go through a quiet title lawsuit for the property to be able to have title insurance issued. Information on Quiet Title procedures and costs would be available from an Attorney who handles these lawsuits.
+What are some things I should know before the sale?
+To participate in the bidding process, one must arrive a few minutes before 11:00 AM. You or your representative must be physically present at the sale to bid on the property. It is highly recommended that you research the properties before the sale day to understand what you are purchasing at the sale (you should research liens, zoning, restrictions, etc.).
+As the successful bidder, is a person entitled to immediate possession of the property after issuance of the tax deed?
+Section 197.562, F.S., states, “Any person, firm, corporation, or county that is the grantee of any tax deed under this law shall be entitled to the immediate possession of the lands described in the deed.”
+You may have to take legal action to get possession. The Clerk’s Office assumes no responsibility for the availability of any property offered for sale.
+How is the amount of the opening bid determined?
+If the property is not homestead property, the amount of the opening bid equals the total of unpaid taxes and interest, the Tax Collection’s administration fees, the Clerk of Circuit Court’s administration fees, and expenditure fees required by the Florida Statutes to bring the property to delinquent tax sale.
+If the property is homestead property, half of the assessed value from the tax roll is added to the above amounts for the total opening bid. If there are no higher bids, the land escheats to the certificate holder, who shall forthwith pay to the clerk the documentary stamp tax and recording fees due.
+Where can I obtain information regarding the sale of tax certificates?
+Tax certificate information can be obtained from the Tax Collector’s Office at (850) 342-0147 .
+Explore This Section
+BOCC Records
+Contracts
+Finance Department
+Marriage Licenses
+Official Records
+Passports
+Property Sales
+Tax Deed Sales
+Foreclosures
+Public Records Request
+Value Adjustment Board
+0,
+'': scrollPosition
+follow us on facebook link opens in a new tab
+follow us on youtube link opens in a new tab
+0,
+'': scrollPosition
+follow us on facebook link opens in a new tab
+follow us on youtube link opens in a new tab
+County Courthouse
+1 Courthouse Circle
+Monticello, Florida 32344
+(850) 342-0218
+Public Records Request
+Hours of Operation
+Monday – Friday
+8:00 AM to 5:00 PM
+Department
+Directory
+Sitemap
+Accessibility Policy
+Privacy Policy
+Site by KMA
+&copy;2026 Jefferson County Clerk of the Circuit Court & Comptroller.
+Site by KMA
+Secret Link

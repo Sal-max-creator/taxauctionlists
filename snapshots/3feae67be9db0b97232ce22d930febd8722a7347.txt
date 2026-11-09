@@ -29,7 +29,7 @@ Stephens County
 Treasurer Debbie Burden
 Official Site
 NOTICE
-2025 Taxes are now payable.
+2026 Taxes are now payable.
 Postmark date is accepted when meeting deadlines, with the exception of publication or our Delinquent June Resale.
 Delinquent taxes accrue a monthly penalty of 1.5%, changing on the 16th of each month, plus fees if they have been published.
 If your statement has BT(back tax) noted, please call for the total amount due for the back years.
@@ -106,6 +106,6 @@ Angie, Deputy Treasurer
 Notice
 While the Treasurer's Office makes every effort to ensure accuracy, any error contained herein does not constitute a waiver of any tax amounts by or for the County.
 Login
-(build: 54190:20261102.5)
-© 2020 All Rights Reserved. Powered by TM Consulting, Inc .
+(build: 55360:20261109.5)
+© 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

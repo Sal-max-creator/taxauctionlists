@@ -7,6 +7,8 @@ Property taxes
 Pay property taxes
 Property tax search
 Important dates and discounts
+Installment options
+Partial payments
 Tax certificate info
 Tangible personal property tax
 LienHub
@@ -21,6 +23,8 @@ Property taxes
 Pay property taxes
 Property tax search
 Important dates and discount periods
+Installment options
+Partial payments
 Tax certificate information
 Tangible personal property tax
 LienHub

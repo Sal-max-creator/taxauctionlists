@@ -42,6 +42,6 @@ Deputy: Andrea Holland
 Notice
 * While the Treasurer's Office makes every effort to ensure the correctness, any error contained herein does not constitute a waiver of any tax amounts by or for the County Treasurer's office or the Taxpayer. The names and addresses on this website are the Tax Roll and do not necessarily reflect the current "owner of record". Do not use this website to verify ownership or address or, that can only be done through Land Records in the County Clerk's Office. If you need tax information Please call this office. 918-485-2149 This website is a limited record and may not have all taxes due.
 Login
-(build: 54190:20261102.5)
-© 2020 All Rights Reserved. Powered by TM Consulting, Inc .
+(build: 55360:20261109.5)
+© 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

@@ -1,43 +1,14 @@
-Tax Assessor / Collector | Lamar County Mississippi
-Menu
-Home
-Departments
-Buildings &#038; Grounds
-Chancery Clerk
-Circuit Clerk
-Coroner
-E-9-1-1 Addressing
-E-9-1-1 Dispatch
-Emergency Management
-Fire Services
-Health &#038; Human Services
-Human Resources
-Information Technology
-Justice Court
-Parks &#038; Recreation / Multipurpose Center
-Planning
-Road Department
-Sanitation
-Sheriff’s Office
-Tax Assessor / Collector
-Veterans Affairs
-Youth Court
-Government
-Board of Supervisors
-County Documents
-Community
-Events Calendar
-Photo Galleries
-Frequently Asked Question’s
-About Lamar County
-County Statistics
-County History
-Main Street View
-Contacts Directory
+Tax Assessor / Collector &#8211; Lamar County, Mississippi
+Skip to content
+Skip to left sidebar
+Skip to right sidebar
+Skip to footer
+Search:
 Tax Assessor / Collector
 Home
+/
 Departments
-Tax Assessor / Collector
+/
 The Lamar County Assessor and Collector&#8217;s Office is made up of the following departments:
 Real Property Appraisal
 Personal Property (Business)
@@ -59,7 +30,9 @@ Setting the fair, uniform, and accurate value for each parcel of real and person
 Maintain current ownership maps of the county
 Coordinating needs analysis and purchase recommendations for technology systems
 Important Dates and Deadlines
-Date Description
+Rows per page 5 10 20 25 50 100 All
+Tax Collector Dates and Deadlines
+Date Date ↕ Description Description ↕
 January 1st Effective date of appraisal
 January 31st Deadline to pay property taxes
 April 1st Builder Affidavit deadline
@@ -68,6 +41,8 @@ April 1st Rendition filing deadline
 July (First Monday) Property Roll turned over to the Board of Supervisors
 July (Last Two Weeks) Deadline for filing of Property Valuation Notice of Protest
 July (Last Two Weeks) Rolls open to public inspection
+No matching rows.
+Previous Original order Next
 Home
 Departments
 Buildings &#038; Grounds
@@ -103,10 +78,14 @@ County History
 Main Street View
 Contacts Directory
 BOS Agendas
-Board Agenda November 2, 2026 (102 kB)
-Board Agenda October 22, 2026 (105 kB)
-Board Agenda October 5, 2026 (154 kB)
-Board Agenda September 24, 2026 (106 kB)
+Board Agenda November 2, 2026
+(102 kB)
+Board Agenda October 22, 2026
+(105 kB)
+Board Agenda October 5, 2026
+(154 kB)
+Board Agenda September 24, 2026
+(106 kB)
 See All Documents
 Maps
 Online GIS Map
@@ -119,11 +98,23 @@ How to Report a Mapping Problem Affecting GPS Devices, Apps, and Maps
 MS House Districts for Lamar County
 Locale Info
 Local Time
-3:43 PM
-Today November 2, 2026
-Tuesday November 3, 2026
-Wednesday November 4, 2026
-Thursday November 5, 2026
+5:04 pm
+Today
+November 9, 2026
+&deg;F
+m/h
+Tuesday
+November 10, 2026
+&deg;F
+m/h
+Wednesday
+November 11, 2026
+&deg;F
+m/h
+Thursday
+November 12, 2026
+&deg;F
+m/h
 Tax Assessor / Collector - Jack Smith
 Collector - (601) 794-1020
 Assessor - (601) 794-1021
@@ -165,4 +156,3 @@ Have a General Question?
 File a Code Enforcement Complaint
 Submit Law Enforcement Tip
 Library System Staff
-© 2026 Lamar County Mississippi

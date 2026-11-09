@@ -28,7 +28,7 @@ Excess Funds Policy
 Pottawatomie County
 Treasurer Buddy Anderson
 Official Site
-The 2025 taxes are now delinquent and due in full unless your first half payment was paid prior to December 31, 2025. If first half payment was made prior to the deadline, your second half payment will be due by April 1, 2026. House Bill 1392 will become law beginning November 1, 2025 resulting in an increase in the mortgage certification fee to $10.00 per mortgage filed with the County Treasurer.
+The 2026 taxes are now online and available to pay. Full or Half payment is due by December 31, 2026. If first half payment was made prior to the deadline, your second half payment will be due by April 1, 2027.
 Drop Box -24-Hour Drop Box Available at entrance of Administration Building.
 Thank you for allowing me to serve as your County Treasurer, Buddy Anderson.
 Pottawatomie
@@ -70,6 +70,6 @@ Publications for the Lien Sale for current delinquent Real Estate taxes to be he
 Notice
 While the Treasurer's office makes every effort to ensure the correctness of this website, any error contained herein does not constitute a waiver of any tax amounts by or for the County Treasurer's office or the Taxpayer.
 Login
-(build: 54190:20261102.5)
-© 2020 All Rights Reserved. Powered by TM Consulting, Inc .
+(build: 55360:20261109.5)
+© 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

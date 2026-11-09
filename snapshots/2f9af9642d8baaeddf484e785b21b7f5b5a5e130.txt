@@ -6,28 +6,8 @@ Careers
 Contact Us
 Public Records
 English (United States) Select this as your preferred language
-Spanish Select this as your preferred language
-Vietnamese Select this as your preferred language
-Tagalog (Filipino) Select this as your preferred language
-Hindi Select this as your preferred language
-Korean Select this as your preferred language
-German Select this as your preferred language
-Chinese (Simplified) Select this as your preferred language
-Russian Select this as your preferred language
-Portuguese Select this as your preferred language
-Gujarati Select this as your preferred language
 Select a language to translate to
 English (United States) Select this as your preferred language
-Spanish Select this as your preferred language
-Vietnamese Select this as your preferred language
-Tagalog (Filipino) Select this as your preferred language
-Hindi Select this as your preferred language
-Korean Select this as your preferred language
-German Select this as your preferred language
-Chinese (Simplified) Select this as your preferred language
-Russian Select this as your preferred language
-Portuguese Select this as your preferred language
-Gujarati Select this as your preferred language
 Menu
 Search
 Property & Business
@@ -325,8 +305,6 @@ Finance
 Maintaining the fiscal integrity of the County’s financial records, issuing payments, producing reports, and performing audits.
 Alvin S. Glenn Detention Center
 Part of the criminal justice system, this is where people are held after being arrested in Richland County.
-Office of Small Business Opportunity
-Helping small businesses grow and compete through guidance and resources.
 Court Appointed Special Advocates
 Assisting families and advocating for children through Family Court matters and beyond.
 Operational Services
@@ -459,12 +437,8 @@ Probate Contacts
 Contact list for Probate Court.
 Probate Forms and Terms
 Access Richland County Probate forms and understand related terms.
-Water or Sewer Bill
-Pay your Richland County water or sewer bill online, by phone, in person, by mail or set up automatic drafts.
 Commercial Utilities
 Understand the steps required for commercial utilities projects.
-Water or Sewer Service
-Apply for water or sewer service via email, fax, by mail or in person.
 Marriage
 Apply for a marriage license, or request a certified copy of your completed license.
 Estates
@@ -615,10 +589,6 @@ Accommodations Tax Advisory Committee
 Makes recommendations on the expenditure of revenue generated from the Accommodations Tax.
 The Township Auditorium
 Oversees the performing arts venue to provide quality services to the community.
-Richland Soil and Water Conservation District
-Promotes natural resource conservation through education, demonstrations, technical and financial assistance.
-Board of Voter Registration and Elections
-Oversees all aspects of elections in Richland County, from voter registration to certification of results.
 Music Festival Commission
 Oversees the execution of music festivals in Richland County.
 Business Service Center Appeals Board
@@ -657,8 +627,6 @@ Administration and Finance Committee
 Functions as a committee of ways and means.
 Richland County Recreation Commission
 Delivers quality recreation programs in order to better promote health and improve the quality of life in Richland County.
-Airport Commission
-Advises County Council on development, maintenance and operation of Jim Hamilton-L.B. Owens Airport (CUB) and promotes aviation in Richland County.
 Rules and Appointments Committee
 Reviews, provides oversight, and serves as advisory body on the rules of the County Council concerning appointments to County boards, commissions, and committees.
 Internal Audit Committee
@@ -725,8 +693,6 @@ Curbside Pickup
 Learn how to set up curbside service and what's accepted for both recycling and garbage.
 Estate Records
 Access Probate Court records information in person, by mail and online.
-Food Service Establishments
-Understand the requirements for food service establishments connected to Richland County sanitary sewer systems.
 Road Maintenance Fees
 View the total revenue collected for Richland County road maintenance by fiscal year.
 Residential Inspection
@@ -766,8 +732,6 @@ Community Impact Grants
 Financial support for organizations offering innovative and needed services for all citizens.
 Emergency Solutions Grant
 Helps individuals and families in our community experiencing homelessness or at risk of losing their homes.
-Minor Home Repairs
-Provides repairs to income-eligible homeowners for critical health and safety needs on their home.
 Affordable Housing Development
 Investing in the development, rehabilitation, and preservation of affordable housing in unincorporated areas of Richland County.
 Property Tax
@@ -804,21 +768,37 @@ Planning Conference
 An annual conference by the Richland County Neighborhood Improvement Program to learn what you can do as an individual to improve your neighborhood.
 Community Development Block Grant Disaster Recovery
 Our comprehensive framework for the federal disaster recovery funds received after the impact of Hurricane Joaquin in 2015.
-Roadside Cleanup
-Community clean sweeps and anti-litter enforcement.
+Tax Payment Plan
+Request a monthly payment plan to manage your property tax bill.
+Planning Commission
+Plans programs for the physical, social and economic growth, development and redevelopment of the unincorporated area of the County.
+Richland County Transportation Committee (CTC)
+Selects and approves C-fund expenditures and adheres to the limitations prescribed by law, by allocating a minimum of % of the county apportionment on the state highway system and 67% to be expended for local projects, with coordinating among SCDOT, local government entities, for road improvements, to avoid duplication, by utilizing the established technical advisory committee.
+Maps (GIS)
+Explore our mapped datasets designed to support a variety of Richland County operations.
 Richland County Polling Location Precinct List
 All Richland County polling location precincts.
+Roadside Cleanup
+Community clean sweeps and anti-litter enforcement.
 Flooding
 Learn about local flood management, safety and property protection.
 Tax Sale
 Information, instructions and bidder registration for the annual tax sale and sealed bid auction.
-Tax Payment Plan
-Request a monthly payment plan to manage your property tax bill.
-Richland County Transportation Committee (CTC)
-Selects and approves C-fund expenditures and adheres to the limitations prescribed by law, by allocating a minimum of % of the county apportionment on the state highway system and 67% to be expended for local projects, with coordinating among SCDOT, local government entities, for road improvements, to avoid duplication, by utilizing the established technical advisory committee.
-Planning Commission
-Plans programs for the physical, social and economic growth, development and redevelopment of the unincorporated area of the County.
-Maps (GIS)
-Explore our mapped datasets designed to support a variety of Richland County operations.
+Office of Small Business Opportunity
+Helping small businesses grow and compete through guidance and resources.
+Airport Commission
+Advises County Council on development, maintenance and operation of Jim Hamilton-L.B. Owens Airport (CUB) and promotes aviation in Richland County.
+Board of Voter Registration and Elections
+Oversees all aspects of elections in Richland County, from voter registration to certification of results.
 Reports
 Richland County is a leader in transparent financial reporting.
+Richland Soil and Water Conservation District
+Promotes natural resource conservation through education, demonstrations, technical and financial assistance.
+Water or Sewer Service
+Apply for water or sewer service via email, fax, by mail or in person.
+Food Service Establishments
+Understand the requirements for food service establishments connected to Richland County sanitary sewer systems.
+Minor Home Repairs
+Provides repairs to income-eligible homeowners for critical health and safety needs on their home.
+Water or Sewer Bill
+Pay your Richland County water or sewer bill online, by phone, in person, by mail or set up automatic drafts.

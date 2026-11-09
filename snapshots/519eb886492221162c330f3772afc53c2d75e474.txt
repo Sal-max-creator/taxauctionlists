@@ -58,32 +58,6 @@ By clicking on the PIN you may obtain parcel data and the property record card. 
 UPSET BID PERIOD: Interested bidders may place bids at the Forsyth County Courthouse, 1st Floor Civil Department
 PENDING CONFIRMATION: Upset bids are no longer accepted
 NOTE: You will need Adobe Acrobat Reader to do so.
-1712 N LIBERTY ST WINSTON SALEM 27105
-Case Number: 25 CVD 003120-330
-Status:
-Foreclosure Sale
-PIN:
-6836-53-2178.00
-Block\Lot:
-0277 114
-Tax Value:
-$64,800
-Min Bid:
-$
-Owner:
-VISIONZ ENTERTAINMENT COMPLEX INC ET AL
-Description:
-1712 N LIBERTY ST WINSTON SALEM 27105
-Sale Date & Time:
-Nov 06 2026 : 12 00 PM
-Sale Location:
-Forsyth County Courthouse - 2nd Floor
-175 N. Chestnut St.
-Corner of Second and Chestnut Sts
-Winston-Salem, NC
-Attorney:
-Mark D. Bardill-
-Note:
 31 VINTAGE AVENUE WINSTON SALEM NC 27127
 Case Number: 19 CVD 006753-330
 Status:
@@ -110,62 +84,10 @@ Winston-Salem, NC
 Attorney:
 Mark D. Bardill-
 Note:
-622 WAUGHTOWN ST WINSTON SALEM 27107
-Case Number: 15 CVD 007260-330
-Status:
-Foreclosure Sale
-PIN:
-6834-76-6466.00
-Block\Lot:
-0733 005B
-Tax Value:
-$30,100
-Min Bid:
-$
-Owner:
-ALADWAN GRP INC ET AL
-Description:
-622 WAUGHTOWN ST WINSTON SALEM 27107
-Sale Date & Time:
-Nov 06 2026 : 12 00 PM
-Sale Location:
-Forsyth County Courthouse - 2nd Floor
-175 N. Chestnut St.
-Corner of Second and Chestnut Sts
-Winston-Salem, NC
-Attorney:
-Mark D. Bardill-
-Note:
-642 MCCREARY ST WINSTON SALEM 27105
-Case Number: 24 CVD 006737-330
-Status:
-Foreclosure Sale
-PIN:
-6837-53-5304.00
-Block\Lot:
-1503 203
-Tax Value:
-$42,100
-Min Bid:
-$
-Owner:
-THOMAS STEVEN HARRELL ET AL
-Description:
-642 MCCREARY ST WINSTON SALEM 27105
-Sale Date & Time:
-Nov 06 2026 : 12 00 PM
-Sale Location:
-Forsyth County Courthouse - 2nd Floor
-175 N. Chestnut St.
-Corner of Second and Chestnut Sts
-Winston-Salem, NC
-Attorney:
-Mark D. Bardill-
-Note:
 1045 ALLEN ST WINSTON SALEM 27107
 Case Number: 17 CVD 003361-330
 Status:
-Foreclosure Sale
+Foreclosure Sale - Upset Bid Period
 PIN:
 6834-97-8689.00
 Block\Lot:
@@ -321,7 +243,7 @@ Note:
 4086 MARIE DRIVE WINSTON SALEM 27127
 Case Number: 17 CVD 005260-330
 Status:
-Foreclosure Sale
+Foreclosure Sale - Upset Bid Period
 PIN:
 6813-72-1918.00
 Block\Lot:

@@ -388,10 +388,10 @@ D38909-23
 Withdrawn
 D39264-23
 04690435
-For Sale
+Withdrawn
 D39264-23
 00515140
-For Sale
+Sold
 D39369-23
 1460412
 Withdrawn
@@ -400,7 +400,7 @@ D39502-23
 Withdrawn
 D39821-24
 01082043
-For Sale
+Sold
 D40225-24
 00100188
 Withdrawn
@@ -433,10 +433,10 @@ D44792-24
 Withdrawn
 D45131-24
 01775979
-For Sale
+Sold
 D45806-25
 02192128
-For Sale
+Sold
 D46079-25
 04689666
 Withdrawn
@@ -445,7 +445,7 @@ D46109-25
 Withdrawn
 D46251-25
 02667452
-For Sale
+Withdrawn
 D46325-25
 00101117
 Withdrawn
@@ -473,7 +473,7 @@ D49518-25
 Withdrawn
 D49875-25
 40971198
-For Sale
+Sold
 WRITS OF EXECUTION
 JP01-10-JS00021659 Pallida LLC, assignee of Pharia LLC vs. Karlson T. Bessman
 WITHDRAWN
@@ -481,6 +481,7 @@ PROPERTY ADDRESS: 6009 Team Court, Arlington, Texas 76018
 LOT 27, BLOCK 25, OF WINDING CREEK ADDITION, PHASE III, SECTION 1, AN ADDITION TO THE CITY OF ARLINGTON, TARRANT COUNTY, TEXAS, ACCORDING TO THE PLATE THEREOF RECORDED IN CABINET A, SLIDE 1600, OF THE PLAT RECORDS OF TARRANT COUNTY, TEXAS
 001-01852-2026 Ameristar Apartment Services, L.P. d/b/a Ameristar Screen and
 Glass vs. Calmont Villa FW d/b/a Manor Independent Living
+WITHDRAWN
 PROPERTY ADDRESS: 8000 Calmont Avenue, Fort Worth, Texas 76116
 BEING a 4.9957 acre tract of land, and being Lot CR, Block 2, of West Plaza Addition, an addition to the City of Fort Worth, Tarrant County, Texas according to the plat thereof recorded in Volume 388-191, Page 2, Plat Records, Tarrant County, Texas, and being the same tract of land conveyed to Grand Court FW Property, Ltd., by Deed recorded in Volume 16681, Page 001, Deed Records, Tarrant County, Texas
 067-372397-25 Silver Oak Residential Community, Inc. vs. Toi Rochelle
@@ -495,6 +496,7 @@ PROPERTY ADDRESS: 700 Audrey Lane, Mansfield, Texas 76063
 LOT 15, BLOCK 11, OF SILVER OAK ADDITION, PHASE 2, AN ADDITION TO THE CITY OF MANSFIELD, JOHNSON COUNTY AND TARRANT COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF RECORDED IN DOCUMENT NO. D221101516, OFFICIAL PUBLIC RECORDS OF TARRANT COUNTY, TEXAS, AND DOCUMENT NO. 2021-50, DRAWER L, PLAT RECORDS OF JOHNSON COUNTY, TEXAS (SAID LOT LIES IN TARRANT COUNTY)
 067-372910-25 Lakeview Loan Servicing, LLC vs. Vanessa Ann
 Hernandez and Benito Lopez
+SOLD
 PROPERTY ADDRESS: 6125 General Store Way, Fort Worth, Texas 76179
 LOT 7, BLOCK 1, OF PIONEER POINT, AN ADDITION TO THE CITY OF FORT WORTH, TARRANT COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF RECORDED IN DOCUMENT NO. D219287627, OFFICIAL RECORDS OF TARRANT COUNTY, TEXAS
 342-363905-25 Cedar Ridge Homeowners Association, Inc. vs. Kim Gerard Morris
@@ -503,9 +505,10 @@ PROPERTY ADDRESS: 7560 Ridge Lane, Grand Prairie, Texas 75054
 Lot 6, Block A of CEDAR RIDGE ESTATES, an Addition to the City of Grand Prairie, Tarrant County, Texas, according to the Plat thereof recorded under County Clerk’s File No. D220102375, Plat Records, Tarrant County, Texas
 348-376463-26 Homeowner’s Association of Triple Diamond Ranch vs.
 Caldwell Murphy and Cynthia Murphy
+WITHDRAWN
 PROPERTY ADDRESS: 2602 Jaxson Way, Mansfield, Texas 76063
 Lot 6, Block 2, Triple DIAMOND RANCH, PHASE 1, AN ADDITION TO THE City of Mansfield, Tarrant County, Texas, According to the Plat Thereof Recorded UNDER COUNTY CLERK’S FILE NO. D219251796, of the PLAT Records, Tarrant County, Texas
-This page was last modified on November 02, 2026
+This page was last modified on November 04, 2026
 TARRANT COUNTY, TEXAS
 County Telephone Operator
 817-884-1111

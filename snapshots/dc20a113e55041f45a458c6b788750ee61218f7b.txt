@@ -62,7 +62,7 @@ Merced
 Modoc
 Mono
 Monterey
-Napa .
+Napa
 Nevada
 Orange
 Placer
@@ -73,7 +73,7 @@ San Benito
 San Bernardino
 San Diego
 San Francisco
-San Joaquin .
+San Joaquin
 San Luis Obispo
 San Mateo
 Santa Barbara
@@ -92,7 +92,7 @@ Tulare
 Tuolumne
 Ventura
 Yolo
-Yuba .
+Yuba
 Contacts
 Divisions of the SCO Email subscription directory Contact the webmaster Accessing public records
 Assistance

@@ -1,4 +1,4 @@
-Tax Deeds &#8211; Columbia County, FL | Clerk of Court & Comptroller
+Tax Deeds | Columbia County, FL Clerk of Court
 Skip to content
 0,
 'hidden' : openMenu == 'searchPanel'

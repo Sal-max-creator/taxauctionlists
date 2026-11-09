@@ -57,6 +57,7 @@ Links
 Maps
 Marriage License
 Meetings (Commission &#038; Planning)
+Notice of Property Valuation and Tax Changes
 Old Abstract (1854 – 1992)
 Ownership Plat Maps
 Passport Information
@@ -74,6 +75,7 @@ Road Work
 Short-Term Rental License
 Snow Plowed Roads
 Surplus Sale
+Tax Notices Search
 Tax Rates
 Transparent Government
 Zoning Information
@@ -133,6 +135,7 @@ Auditor
 Appeal Your Market Value
 County Financials
 Exempt Properties
+Notice of Property Valuation and Tax Changes
 Property Tax Estimate
 Property Tax Relief
 Property Valuation and Tax Changes
@@ -142,6 +145,8 @@ Tax Rates
 Tax Sale
 Contact Auditor
 Tax Sale
+Search for your Notice of Property
+Valuation and Tax Changes here.
 The next Tax Sale will be in May of 2027
 Auction Reports
 2026
@@ -161,3 +166,5 @@ Send a Message
 &copy; 2004-2026 Washington County
 All Rights Reserved
 Privacy Policy | About Us
+Click here for Election Results
++

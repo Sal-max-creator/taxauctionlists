@@ -47,6 +47,7 @@ Vacation Check
 Business Check
 Jail
 Access Securepak
+Attorney / Client Meeting Request
 Deposit Money
 Inmate Correspondence
 Inmate Search / Bond Information
@@ -106,6 +107,7 @@ Vacation Check
 Business Check
 Jail
 Access Securepak
+Attorney / Client Meeting Request
 Deposit Money
 Inmate Correspondence
 Inmate Search / Bond Information

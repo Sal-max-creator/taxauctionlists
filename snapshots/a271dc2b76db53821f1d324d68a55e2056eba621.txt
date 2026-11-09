@@ -408,9 +408,9 @@ Contact Your Representative
 Voters with Disabilities
 Duties of the Election Department
 Frequently Asked Questions
-Tabulation Room Live
 2026 General Election County Candidates
 2026 Special District Elections
+Early Ballots Dropped Off At Poll Site
 Financial Services
 Toggle Section
 ARPA Projects
@@ -634,6 +634,9 @@ Financial Reporting
 School District Information
 Current Governing Board Members
 Public School Tax Credits
+Elections
+Toggle Section
+Governing Board Members
 News
 Superior & Limited Jurisdiction Courts
 Television District
@@ -679,7 +682,6 @@ Make A Payment
 Make A Service Request
 Receive Community Notifications
 Report Illegal Dumping to ERACE
-Request Public Records
 Search County Ordinances
 See Observed Holidays
 Register to Vote

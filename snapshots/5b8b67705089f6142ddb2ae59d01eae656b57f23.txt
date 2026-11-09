@@ -155,7 +155,7 @@ Tax Sales Flyer Conditions of Tax Sale Form
 Basic Property Description Bidder Advance Registration
 Stay Connected
 Get the latest monthly newsletter and important updates about the Tax Commissioner’s Office.
-URL
+Email
 This field is for validation purposes and should be left unchanged. Name (Required)
 First
 Last
@@ -193,9 +193,10 @@ South Office
 BACK TO TOP
 Search for:
 Search
-TAX BILL NOTICE:
-The first installment for county property taxes has passed. The second installment is due Nov. 16, 2026.
-Bills for City of Atlanta properties in DeKalb have not mailed and will be announced at a later date. For assistance, please call 404-298-4000.
+HOLIDAY SCHEDULE: In observance of Veterans Day, all DeKalb County Tax Commissioner office locations will be closed for the holiday on Wednesday, Nov. 11. Offices will resume normal business hours Thursday, Nov. 12.
+Kiosk and online services available daily, including holidays and weekends when offices are closed.
+TAX BILL NOTICE: The first installment for county property taxes has passed. The second installment is due Nov. 16, 2026.
+The City of Atlanta recently adopted its 2026 millage rate. Property tax bills for parcels located in DeKalb County will begin mailing Nov. 19, with a due date of Jan. 27.
 HERE TO SERVE:
 All Motor Vehicle Offices: 8am-4:30pm
 Central Property Tax Office: 8am-5pm

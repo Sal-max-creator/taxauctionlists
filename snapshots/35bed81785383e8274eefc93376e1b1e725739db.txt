@@ -52,6 +52,6 @@ Notice
 The Treasurer's office makes every effort to ensure the correctness of this website. Any error contained herein does not constitute a waiver of tax amounts by or for the Canadian County Treasurer's Office or the Taxpayer.
 Department of Homeland Security Payments
 Login
-(build: 54190:20261102.5)
-© 2020 All Rights Reserved. Powered by TM Consulting, Inc .
+(build: 55360:20261109.5)
+© 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

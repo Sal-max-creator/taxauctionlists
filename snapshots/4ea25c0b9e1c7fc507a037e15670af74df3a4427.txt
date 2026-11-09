@@ -33,7 +33,7 @@ Address Change Form
 LeFlore County
 Treasurer April Caughern
 Official Site
-2025 Tax Statements will be mailed out mid to late November. Taxes are due by December 31, 2025. If paying half, the first half must be paid by December 31, 2025 with the second half paid no later than March 31, 2026. Late payment penalties will accrue at a 1.5% per month until taxes are paid in full. Any statement that is $25.00 or less must be paid in full by December 31, 2025.
+2026 Tax Statements will be mailed out by mid November. Taxes are due by December 31, 2026. If paying half, the first half must be paid by December 31, 2026 with the second half paid no later than March 31, 2027. Late payment penalties will accrue at a 1.5% per month until taxes are paid in full. Any statement that is $25.00 or less must be paid in full by December 31, 2026.
 TWO ONLINE PAYMENT OPTIONS:
 1. Debit cards: 1.95% of the total amount
 2. Credit cards: 2.75% of the total amount
@@ -60,6 +60,6 @@ The Treasurer's office is a public office, and we honor an open-door policy. We 
 Notice
 While the Treasurer's Office makes every effort to ensure the accuracy of this website, any error contained herein does not constitute a waiver of any tax amounts by or for the County.
 Login
-(build: 54190:20261102.5)
-© 2020 All Rights Reserved. Powered by TM Consulting, Inc .
+(build: 55360:20261109.5)
+© 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

@@ -113,6 +113,6 @@ All add/deletes for mortgage group codes are due in by the mortgage/group compan
 Notice
 The Treasurer's office makes every effort to ensure the correctness of this web site. Any error contained herein does not constitute a waiver of tax amounts by or for the Delaware County Treasurer's office or the Taxpayer.
 Login
-(build: 54190:20261102.5)
-© 2020 All Rights Reserved. Powered by TM Consulting, Inc .
+(build: 55360:20261109.5)
+© 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

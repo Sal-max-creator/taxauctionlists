@@ -28,6 +28,12 @@ WELCOME TO THE Payne county treasurer WEBSITE!
 IMPORTANT NOTICE: PLEASE FIND US ON THE 3rd FLOOR
 SAME BUILDING DIFFERENT FLOOR.
 OUR NEW ADDRESS IS: 315 W 6th Ave., SUITE #302, Stillwater, OK 74074
+Small Town Collection Schedule:
+Monday, Dec. 7, 2026 PERKINS Vassar Center 9 - 3
+Tuesday, Dec. 8, 2026 CUSHING CITY HALL 9 - 3
+Wednesday, Dec. 9, 2026 RIPLEY Town Hall 9 - 12
+Wednesday, Dec. 9, 2026 GLENCOE Town Hall 1 - 3:30
+Thursday, Dec. 10, 2026 YALE Library 9 -3
 **FULL PAYMENT OR THE FIRST HALF ARE DUE BY DECEMBER 31, 2026. SECOND HALF WILL BE DUE BY MARCH 31, 2027.**
 TO AVOID PENALTY:
 ***ALL PAYMENTS MUST BE IN THE OFFICE OR POSTMARKED (BY THE POST OFFICE) BY THE DUE DATE.
@@ -43,10 +49,11 @@ Deputy: Melissa Scott
 Deputy: Briley Pratt
 Deputy: Kim Gomez
 Deputy: Iriana Morales
+Deputy: Braley Fryer
 Tax Warrant Deputy Sheriff: David Spivey
 Notice
 While the Treasurer's office makes every effort to ensure the correctness, any error contained herein does not constitute a waiver of any tax amounts by or for the County Treasurer's office or the Taxpayer.
 Login
-(build: 54190:20261102.5)
-© 2020 All Rights Reserved. Powered by TM Consulting, Inc .
+(build: 55360:20261109.5)
+© 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

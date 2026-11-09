@@ -22,7 +22,6 @@ Property Search
 Appraisal
 2026 Property Value & Tax FAQ
 Destroyed or Damaged Property
-Your Neighborhood Sales Dashboard
 Board of Revision
 Appeal BOR Decision to BTA | Ohio Revised Code 5717.01
 BOR | Ohio Revised Code 5715
@@ -60,6 +59,7 @@ Special Assessments
 Tax Levies
 Tax Rates
 Where Your Tax Dollars Go
+Your Neighborhood Sales Dashboard
 Licensing
 Dog License
 Purchase or Renew Dog License Online
@@ -191,7 +191,7 @@ Related Pages
 Sheriff's Sales | Butler County Sheriff
 Contact Us
 P: 513-887-3154
-RealEstate@bcohio.gov
+realestate@bcohio.gov
 Home
 Real Estate
 Taxes

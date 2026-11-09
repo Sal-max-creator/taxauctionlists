@@ -51,7 +51,6 @@ Completed Delinquent Tax Sales
 2001
 2000
 1999
-11/3/2026
 12/1/2026
 1/5/2027
 1/6/2026
@@ -64,6 +63,7 @@ Completed Delinquent Tax Sales
 8/4/2026
 9/1/2026
 10/6/2026
+11/3/2026
 Delinquent Tax Sale Totals for
 2026
 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Total
@@ -77,9 +77,9 @@ Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Total
 92,436.37
 15,576.05
 75,200.00
+125,000.00
 0.00
-0.00
-$1,103,926.74
+$1,228,926.74
 TAX FORECLOSURE SALES
 The Sheriff's Office manages tax foreclosure sales on behalf of the Treasurer's Office.
 These sales occur on the first Tuesday of each month at 9:00 A.M. in the Event Hall of

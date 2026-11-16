@@ -39,6 +39,8 @@ Frank E. Gilmore, Ward F
 Mamta Singh, Council At-Large
 Michael O. Griffin, Council At-Large
 Rolando R. Lavarro Jr., City Council At-Large
+City Directory
+Business Administration
 Finance
 Purchasing
 Municipal Financial Reports
@@ -96,7 +98,7 @@ Recycle
 Forestry
 Recreation and Youth Development
 Division of Recreation
-Office of Aquatics and Facilities
+Division of Aquatics
 Division of Park Maintenance
 Registration
 Resident Resources
@@ -148,6 +150,8 @@ Frank E. Gilmore, Ward F
 Mamta Singh, Council At-Large
 Michael O. Griffin, Council At-Large
 Rolando R. Lavarro Jr., City Council At-Large
+City Directory
+Business Administration
 Finance
 Purchasing
 Municipal Financial Reports
@@ -205,7 +209,7 @@ Recycle
 Forestry
 Recreation and Youth Development
 Division of Recreation
-Office of Aquatics and Facilities
+Division of Aquatics
 Division of Park Maintenance
 Registration
 Resident Resources

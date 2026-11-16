@@ -57,11 +57,9 @@ Foreclosure Property Title Report
 2026 Title Reports will be removed as properties are redeemed:
 8630 - Schulstad
 8946 - Braunschweig
-17038 - Dailey
+17038 - Dailey /Furnish
 49689 - Gapen
 51793 - Helman
-57293 - Lutz
-58800 - Clark
 61851 - Price Pedy
 2025 TAX FORECLOSURE SALE RESULTS:
 Property Tax Payment Information

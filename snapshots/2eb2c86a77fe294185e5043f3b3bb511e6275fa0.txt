@@ -15,8 +15,8 @@ Resident Services
 211 Information Referral
 Assistance Programs
 Food
-Housing
 Social Services
+Housing
 Medicaid
 Childcare
 Kinship and Foster Care
@@ -29,10 +29,6 @@ Career Center
 Find a Job
 Youth Employment
 Work at Tompkins County
-County Clerk
-Department of Motor Vehicles
-Emergency Shelter Construction Project
-Government Operations
 Health and Wellness
 Health & Wellness Resources
 Mental Health
@@ -48,21 +44,6 @@ Sheriff's Office
 Probation
 Tompkins County Public Library
 Government Resources
-Assessment
-What is an Assessment?
-Exemption Information and Forms
-Search Assessment Database
-Tax Maps and Tax Mapping Information
-Tax Rates and Assessment Rolls
-NYS Tax Links
-History of Tax Rates
-Daily Sales Reports
-Review or Challenge My Assessment
-Sales Search
-Email the Tompkins County Department of Assessment
-Update My Mailing Address
-Property Tax Information
-Board of Health
 County Legislature
 Tompkins County Legislators
 Proclamations and Recognitions
@@ -131,7 +112,7 @@ Values
 Community Recovery Fund
 County Data
 Email County Administration
-Strategic Plan
+Strategic Plan 2024-29
 Tompkins County Council of Governments (TCCOG)
 County Attorney
 Email Tompkins County Attorney
@@ -235,6 +216,7 @@ Email ITCTC
 Transportation Snapshot
 Data Requests and Resources - ITCTC
 Municipal Transportation Summaries
+Motor Vehicles
 Planning and Sustainability
 Advisory Boards
 Business Energy Advisors
@@ -253,7 +235,6 @@ Tourism
 Transportation
 Water Resources
 Email Planning and Sustainability Department
-Motor Vehicles
 Probation and Community Justice
 Annual Reports
 Mandated Services
@@ -353,18 +334,13 @@ Youth Services Board
 Email Tompkins County Youth Services
 Runaway and Homeless Youth
 About
-Center of Government
 Contact Us
-Disclaimer and Privacy Policy
 Equity and Diversity
 WDIC
 JEDI
-Learning in Tompkins County
+Education
 Meet your Government
-Non-Discrimination
-Sitemap
-Strategic Plan
-Website Policies
+Projects & Initiatives
 Search
 Home
 /

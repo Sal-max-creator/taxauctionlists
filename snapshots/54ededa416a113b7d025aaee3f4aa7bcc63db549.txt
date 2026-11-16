@@ -22,9 +22,7 @@ Mortgage Affidavit
 Grady County
 Treasurer Carolyn Bowen
 Official Site
-NOTICE TO THE PUBLIC: 2025 taxes are now delinquent! Penalty of 1.5% of base will accrue every month on the 16th along with publication & certified mailing fees.
-If your address or phone number has changed, please call 405-224-5337 or email office@gradytreasurer.com
-ATTENTION Ninnekah Taxpayers: Under the breakdown column of your Property Tax Statement, you will notice a line titled "Debt Service". It shows 75.26 Mills and then you will see an amount. This amount is the portion of your property taxes that are going towards paying $2,000,000 principal on the judgment, plus interest from 9/18/2024, which is the date the judgment was approved.
+2026 taxes are now payable!
 Grady
 Carolyn Bowen, Treasurer
 Location of Treasurer's Office:
@@ -51,6 +49,6 @@ Debit - $3.95
 Credit - 2.95% of total amount paid
 We also have a payment drop box located near the entrance to the building of the courthouse.
 Login
-(build: 55360:20261109.5)
+(build: 56741:20261116.7)
 © 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

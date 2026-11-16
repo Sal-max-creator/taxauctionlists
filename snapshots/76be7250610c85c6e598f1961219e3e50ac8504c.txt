@@ -244,8 +244,6 @@ INDEPENDENCE
 View Sale Results
 JACKSON
 View Sale Results
-View on DataScoutPro
-Map Parcels
 WHITE
 View Sale Results
 WOODRUFF
@@ -341,7 +339,7 @@ View Sale Results
 SHARP COUNTY COURTHOUSE - LARGE COURTROOM, 718 ASH FLAT DR
 ASHFLAT
 SHARP
-View Catalog
+View Sale Results
 Real Estate Office:
 7003 Valley Ranch Drive
 Little Rock, Arkansas 72223
@@ -349,8 +347,8 @@ P. 501-324-9422
 Disclaimer | Privacy | Accessibility |
 Sitemap
 | Staff Login
-Server Time: 11/9/2026 11:14:21 PM
-Central Time: 11/9/2026 5:14:21 PM
+Server Time: 11/16/2026 11:12:06 PM
+Central Time: 11/16/2026 5:12:06 PM
 Executive Offices:
 State Capitol Building
 500 Woodlane St., STE 109

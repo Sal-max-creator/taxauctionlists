@@ -680,7 +680,6 @@ Find Election Results
 Find My Polling Place
 Make A Payment
 Make A Service Request
-Receive Community Notifications
 Report Illegal Dumping to ERACE
 Search County Ordinances
 See Observed Holidays

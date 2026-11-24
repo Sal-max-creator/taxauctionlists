@@ -15,8 +15,8 @@ Resident Services
 211 Information Referral
 Assistance Programs
 Food
-Social Services
 Housing
+Social Services
 Medicaid
 Childcare
 Kinship and Foster Care
@@ -29,35 +29,22 @@ Career Center
 Find a Job
 Youth Employment
 Work at Tompkins County
+Flood Information
 Health and Wellness
 Health & Wellness Resources
 Mental Health
 Personalized Recovery (PROS)
 Report Animal Bites
 Vaccinations
-Ithaca Tompkins International Airport
 Public Safety
 911 Center
 Emergency Preparedness
 District Attorney
 Sheriff's Office
 Probation
-Tompkins County Public Library
-Government Resources
-County Legislature
-Tompkins County Legislators
-Proclamations and Recognitions
-Flood Information
-Flood Insurance
-Flood Risks and Preparedness
-FEMA and DEC Flood Map Update FAQs
-Flood Insurance Rate Map (FIRM) Tools
-Local Contacts and Resources
-Flood Information Archive
+Ithaca Tompkins International Airport
 Soil and Water Conservation District
-Board of Directors Meeting
-Conservation Construction Project Bids
-Job Opportunities
+Tompkins County Public Library
 All Departments
 Aging
 Services of Our Office
@@ -81,6 +68,7 @@ Email Tompkins County Office for the Aging
 COFA Cooling Program
 2026 Senior Living Expo
 GoGo Grandparent
+Office for the Aging Public Hearing 2026
 Assessment
 Assigned Counsel
 Email Tompkins County Assigned Counsel
@@ -213,10 +201,9 @@ Statistics
 Transportation Links
 Email ITCTC
 2026 Interactive Transportation Map
-Transportation Snapshot
 Data Requests and Resources - ITCTC
+Transportation Snapshot
 Municipal Transportation Summaries
-Motor Vehicles
 Planning and Sustainability
 Advisory Boards
 Business Energy Advisors
@@ -235,6 +222,8 @@ Tourism
 Transportation
 Water Resources
 Email Planning and Sustainability Department
+Ithaca Tompkins International Airport
+Motor Vehicles
 Probation and Community Justice
 Annual Reports
 Mandated Services
@@ -335,10 +324,10 @@ Email Tompkins County Youth Services
 Runaway and Homeless Youth
 About
 Contact Us
+Education
 Equity and Diversity
 WDIC
 JEDI
-Education
 Meet your Government
 Projects & Initiatives
 Search

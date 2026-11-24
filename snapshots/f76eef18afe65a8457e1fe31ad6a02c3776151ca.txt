@@ -51,7 +51,18 @@ LINKS
 Help
 Search e-Li
 e-Li Category
-- Any - Accounting/Budget/Finance County Offices County Operations Elections Open Government Personnel/HR Public Safety Purchasing Records Management Revenue Structure of County Government
+- Any -
+Accounting/Budget/Finance
+County Offices
+County Operations
+Elections
+Open Government
+Personnel/HR
+Public Safety
+Purchasing
+Records Management
+Revenue
+Structure of County Government
 e-Li: Electronic Library
 Home
 -
@@ -66,7 +77,18 @@ Collection of Delinquent Real Property Taxes
 Delinquent Tax Suit
 Search e-Li
 e-Li Category
-- Any - Accounting/Budget/Finance County Offices County Operations Elections Open Government Personnel/HR Public Safety Purchasing Records Management Revenue Structure of County Government
+- Any -
+Accounting/Budget/Finance
+County Offices
+County Operations
+Elections
+Open Government
+Personnel/HR
+Public Safety
+Purchasing
+Records Management
+Revenue
+Structure of County Government
 Delinquent Tax Suit
 Printer-friendly version PDF version
 Reference Number: CTAS-1593
@@ -86,7 +108,18 @@ Up
 Notice of Tax Suit ›
 Print
 PDF
--Select a Topic- Accounting/Budget/Finance County Offices County Operations Elections Open Government Personnel/HR Public Safety Purchasing Records Management Revenue Structure of County Government
+-Select a Topic-
+Accounting/Budget/Finance
+County Offices
+County Operations
+Elections
+Open Government
+Personnel/HR
+Public Safety
+Purchasing
+Records Management
+Revenue
+Structure of County Government
 Contact Us
 University of Tennessee County Technical
 Assistance Service (CTAS)

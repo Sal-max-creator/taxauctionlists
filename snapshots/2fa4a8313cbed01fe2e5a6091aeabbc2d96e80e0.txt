@@ -396,15 +396,15 @@ For Sale
 Description
 Close
 View Details
-1708 MONSFIELD ST.
+1708 MANSFIELD ST.
 HOUSTON TX 77091
 Precinct 1 / Type: Sale 2
-For Sale
+Cancelled
 Account#: 0600750000036
 Cause#: 202460716
 Adjudged Value: $ 2,992,234.00
 Minimum Bid: $ 28,612.03
-1708 MONSFIELD ST. HOUSTON TX 77091
+1708 MANSFIELD ST. HOUSTON TX 77091
 &times;
 Click here to open in Google Maps
 Precinct:
@@ -428,7 +428,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 Close
 View Details
@@ -610,7 +610,7 @@ View Details
 6525 W TIDWELL RD
 HOUSTON TX 77092
 Precinct 1 / Type: EXE 1
-For Sale
+Cancelled
 Account#: 0301630010005
 Cause#: 1244167
 Sold with Account#
@@ -635,7 +635,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 TRACTS 5A, 6A, 7A AND SA OF BLOCK 1, ROSSLYN ADDITION, A SUBDIVISION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT HEREOF RECORDED IN VOLUME 3, PAGE 7, MAP RECORDS OF HARRIS COUNTY, TEXAS.
 Close
@@ -677,7 +677,7 @@ View Details
 2731 STAR PEAK DR
 HOUSTON TX 77088
 Precinct 1 / Type: EOS 3
-For Sale
+Cancelled
 Account#: 1291900060012
 Cause#: 202550591
 Sold with Account#
@@ -702,7 +702,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT 12, BLOCK 6, MOUNT ROYAL VILLAGE, SECTION 2, A SUBDIVISION IN HARRIS COUNTY, TEXAS ACCORDING TO THE MAP/PLAT RECORDED IN CLERK'S FILE NO. 20070082069 AND FILM CODE NO. 608232, MAP/PLAT RECORDS, HARRIS COUNTY, TEXAS.
 PROPERTY ADDRESS: 2731 STAR PEAK DR, HOUSTON, TX 77088
@@ -857,7 +857,7 @@ View Details
 705 MUNGER ST
 PASADENA TX 77506
 Precinct 2 / Type: Sale 3
-For Sale
+Cancelled
 Account#: 0690740000003
 Cause#: 202514371
 Adjudged Value: $ 95,703.00
@@ -886,7 +886,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT (3), IN BLOCK (7), OF MCLEAN ADDITION, SECTION (2), A SUBDIVISION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF RECORDED IN VOLUME 1163, PAGE 416, OF THE DEED RECORDS OF HARRIS COUNTY, TEXAS.
 Close
@@ -1174,7 +1174,7 @@ View Details
 0 E ARCHER RD
 BAYTOWN TX 77521
 Precinct 3 / Type: SALE 1
-For Sale
+Cancelled
 Account#: 0482360000118
 Cause#: 202150066
 Adjudged Value: $ 268,016.00
@@ -1202,7 +1202,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 A Tract Or Parcel Of Land Containing 3.0764 Acres Of Land, More Or Less, Being Out Of The L. A. Gueringer Survey, Abstract 1699, And Being A Part Of The Littlefield Called 74.75 Acre Tract Of Land Harris County, Texas; Also Known As Tracts 1B-4A, Of The L. A. Gueringer Survey, Abstract 1699, By The Harris County Appraisal District.
 Close
@@ -1827,7 +1827,7 @@ View Details
 12307 KING HENRY DR
 HOUSTON TX 77044
 Precinct 3 / Type: EOS 2
-For Sale
+Cancelled
 Account#: 1248170100010
 Cause#: 202592386
 Adjudged Value: $ 300,018.00
@@ -1856,7 +1856,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT TEN (10), IN BLOCK THREE (3), OF VILLAGE OF KINGS LAKE, SEC 1 PARTIAL REPLAT NO. 2 AND EXTENSION, A SUBDIVISION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF, RECORDED UNDER FILM CODE NO. 679506 OF THE MAP RECORDS OF HARRIS COUNTY, TEXAS (THE "PROPERTY"). MORE COMMONLY KNOWN AS 12307 KING HENRY DR, HOUSTON, TEXAS 77044
 Close
@@ -2123,7 +2123,7 @@ View Details
 2215 PINE RIVER DR
 KINGWOOD TX 77339
 Precinct 4 / Type: Sale 3
-For Sale
+Cancelled
 Account#: 1076990000004
 Cause#: 202319785
 Adjudged Value: $ 296,107.00
@@ -2152,7 +2152,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT 4, BLOCK 4, WOODLAND HILLS VILLAGE, SECTION 6, HARRIS COUNTY, TEXAS MORE PARTICULARLY DESCRIBED IN AN INSTRUMENT FILED IN THE REAL PROPERTY RECORDS OF HARRIS COUNTY, TEXAS UNDER HARRIS COUNTY CLERK'S FILE NUMBER RP-2018-226230.
 Close
@@ -2197,7 +2197,7 @@ View Details
 622 REGAL HOLLOW LN
 HOUSTON TX 77073
 Precinct 4 / Type: Sale 5
-For Sale
+Cancelled
 Account#: 1241140020017
 Cause#: 202472399
 Adjudged Value: $ 258,061.00
@@ -2226,7 +2226,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT SEVENTEEN (17), IN BLOCK TWO (2), OF IMPERIAL RIDGE, SECTION ONE (1), A SUBDIVISION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF, RECORDED UNDER FILM CODE NO. 534241, OF THE MAP RECORDS OF HARRIS COUNTY, TEXAS.
 Close
@@ -2305,7 +2305,7 @@ View Details
 12038 DOGWOOD MOUNTAIN RD
 HOUSTON TX 77066
 Precinct 4 / Type: Sale 8
-For Sale
+Cancelled
 Account#: 1161730030001
 Cause#: 202527318
 Adjudged Value: $ 236,824.00
@@ -2334,7 +2334,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT 1, IN BLOCK 3 OF CHAMPIONS POINT VILLAGE, SECTION 3, AN ADDITION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF RECORDED IN VOLUME 328, PAGE 112 OF THE MAP RECORDS OF HARRIS COUNTY, TEXAS.
 Close
@@ -2342,7 +2342,7 @@ View Details
 3046 COUNTRY BOY CT
 SPRING TX 77373
 Precinct 4 / Type: Sale 9
-For Sale
+Cancelled
 Account#: 1245290020035
 Cause#: 202527815
 Adjudged Value: $ 255,288.00
@@ -2371,7 +2371,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT 35, BLOCK 2 OF BRECKENRIDGE FOREST, SECTION 5, A SUBDIVISION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF RECORDED IN VOLUME 542, PAGE 52 OF THE MAP RECORDS OF HARRIS COUNTY, TEXAS.
 Close
@@ -2379,7 +2379,7 @@ View Details
 4803 SCENIC WOODS TRL
 KINGWOOD TX 77345
 Precinct 4 / Type: Sale 10
-For Sale
+Cancelled
 Account#: 1176220060002
 Cause#: 202559311
 Adjudged Value: $ 330,814.00
@@ -2408,7 +2408,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT 2, BLOCK 6, MILLS CREEK VILLAGE, SECTION 1, HARRIS COUNTY, TEXAS MORE PARTICULARLY DESCRIBED IN AN INSTRUMENT FILED IN THE REAL PROPERTY RECORDS OF HARRIS COUNTY, TEXAS UNDER HARRIS COUNTY CLERK'S FILE NUMBER RP-2017-556188.
 Close
@@ -2739,7 +2739,7 @@ View Details
 13707 COLOGNE DRIVE
 HOUSTON TX 77065
 Precinct 4 / Type: EOS 2
-For Sale
+Cancelled
 Account#: 1069890000020
 Cause#: 202156140
 Adjudged Value: $ 222,290.00
@@ -2768,7 +2768,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 PROPERTY AT 13707 COLOGNE DRIVE, HOUSTON, HARRIS COUNTY, TEXAS 77065 (THE "PROPERTY")
 Close
@@ -2813,7 +2813,7 @@ View Details
 2706 BALDY ROAD
 SPRING TX 77373
 Precinct 4 / Type: EOS 4
-For Sale
+Cancelled
 Account#: 1389860040031
 Cause#: 202359936
 Adjudged Value: $ 277,409.00
@@ -2842,7 +2842,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT 31, BLOCK 4, OF BRECKENRIDGE FOREST SEC. 13, A SUBDIVISION IN HARRIS COUNTY, TEXAS ACCORDING TO THE MAP OR PLAT THEREOF RECORDED IN FILM CODE NO. 682270, MAP RECORDS OF HARRIS COUNTY, TEXAS MORE COMMONLY KNOWN AS 2706 BALDY ROAD, SPRING, TEXAS 77373 ("PROPERTY")
 Close
@@ -3327,7 +3327,7 @@ View Details
 9319 SPANISH MILL DR
 HOUSTON TX 77064
 Precinct 4 / Type: EOS 18
-For Sale
+Cancelled
 Account#: 1142660040005
 Cause#: 202571012
 Adjudged Value: $ 313,473.00
@@ -3356,7 +3356,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT FIVE (5), IN BLOCK FOUR (4), OF TURTLE LAKE, SECTION TWO (2), A SUBDIVISION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OF PLAT THEREOF RECORDED IN VOLUME 283, PAGE 42, OF THE MAP RECORDS OF HARRIS COUNTY, TEXAS. MORE COMMONLY KNOWN AS 9319 SPANISH MILL DR, HOUSTON, TEXAS 77064
 Close
@@ -3549,7 +3549,7 @@ View Details
 1243 CROSS DRAW DRIVE
 HOUSTON TX 77067
 Precinct 4 / Type: EOS 24
-For Sale
+Cancelled
 Account#: 1226270020021
 Cause#: 202586812
 Adjudged Value: $ 257,549.00
@@ -3578,7 +3578,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT TWENTY-ONE (21), IN BLOCK TWO (2), OF GREEN OAK PARK, SECTION ONE (1), A SUBDIVISION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF RECORDED IN FILM CODE NO. 505029 OF THE MAP RECORDS OF HARRIS COUNTY, TEXAS (THE "PROPERTY"), MORE COMMONLY KNOWN AS 1243 CROSS DRAW DRIVE, HOUSTON, TEXAS 77067
 Close
@@ -3697,7 +3697,7 @@ View Details
 16515 BLUE SHINE TRAIL
 CYPRESS TX 77433
 Precinct 4 / Type: EOS 28
-For Sale
+Cancelled
 Account#: 1280590010047
 Cause#: 202595981
 Adjudged Value: $ 329,868.00
@@ -3726,7 +3726,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT 47, BLOCK 01, OF FAIRFIELD VILLAGE NORTH, SECTION 8, AN ADDITION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF RECORDED IN THE MAP RECORDS OF HARRIS COUNTY, TEXAS, UNDER CLERK'S FILM CODE NO. 599186, AS MODIFIED BY ANY SUPPLEMENTS THERETO OR REPLATS THEREOF, MORE COMMONLY KNOWN AS 16515 BLUE SHINE TRAIL, CYPRESS, TEXAS 77433
 Close
@@ -4895,13 +4895,13 @@ Close
 View Details
 5346 KEYSTONE ST
 HOUSTON TX 77021
-Precinct 7 / Type: SALE 2
-For Sale
+Precinct 7 / Type: Sale 2
+Cancelled
 Account#: 0771010080012
 Cause#: 202221707
 Adjudged Value: $ 71,136.00
 Minimum Bid: $ 16,080.18
-5346 KEYSTONE ST, HOUSTON, TX 77021
+5346 KEYSTONE ST HOUSTON TX 77021
 &times;
 Click here to open in Google Maps
 Precinct:
@@ -4909,7 +4909,7 @@ Precinct 7
 Sale#:
 2
 Type:
-SALE
+Sale
 Cause#:
 202221707
 Judgment:
@@ -4925,7 +4925,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 Lot 12 in Block 8 of MacGregor Palms, Section 1, a subdivision in Harris County, Texas according to the map or plat thereof recorded in Volume 33, Page 49 of the Map Records of Harris County, Texas.
 Close
@@ -5005,13 +5005,13 @@ Close
 View Details
 6426 S ACRES DR
 HOUSTON TX 77048-2130
-Precinct 7 / Type: SALE 5
-For Sale
+Precinct 7 / Type: Sale 5
+Cancelled
 Account#: 0361230000075
 Cause#: 202458142
 Adjudged Value: $ 442,832.00
 Minimum Bid: $ 14,571.57
-6426 S ACRES DR, HOUSTON, TX 77048-2130
+6426 S ACRES DR HOUSTON TX 77048-2130
 &times;
 Click here to open in Google Maps
 Precinct:
@@ -5019,7 +5019,7 @@ Precinct 7
 Sale#:
 5
 Type:
-SALE
+Sale
 Cause#:
 202458142
 Judgment:
@@ -5035,7 +5035,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 West 1/4 Of Lot 55 Of Waverly Gardens, A Subdivision In Harris County, Texas, Save And Except A 75 Foot By 175 Foot Tract Of Land As Shown On The Attached Plat Dated January 27, 1978 By Howard B. Camp & Associates As Tract B, According To The Map Or Plat Thereof Recorded In Harris County, Texas, Also Known As, TR 55A-1, Waverly Gardens By The Harris County Appraisal District.
 Close
@@ -5078,13 +5078,13 @@ Close
 View Details
 13271 CHIMNEY ROCK RD
 HOUSTON TX 77085-2005
-Precinct 7 / Type: SALE 7
-For Sale
+Precinct 7 / Type: Sale 7
+Cancelled
 Account#: 1156390080003
 Cause#: 202510554
 Adjudged Value: $ 26,781.00
 Minimum Bid: $ 1,658.72
-13271 CHIMNEY ROCK RD, HOUSTON, TX 77085-2005
+13271 CHIMNEY ROCK RD HOUSTON TX 77085-2005
 &times;
 Click here to open in Google Maps
 Precinct:
@@ -5092,7 +5092,7 @@ Precinct 7
 Sale#:
 7
 Type:
-SALE
+Sale
 Cause#:
 202510554
 Judgment:
@@ -5108,7 +5108,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 "A tract or parcel of land containing 1.500 acres, more or less, out of Reserve "A" in Block 8 of Southwest Crossing, Section 7, a subdivision in Harris County, Texas according to the map or plat thereof recorded in Volume 317, Page 68 of the Map Records of Harris County, Texas; being more particularly described by metes and bounds in a deed from Eliazar Chacko and wife, Achiamma E. Chacko to God's Way Missionary Baptist Church dated May 19, 1997 and recorded under Clerk's File No. S468349 in the Official Public Records of Real Property of Harris County, Texas; save and except a tract or parcel of land containing 0.7937 of an acre, more or less, out of the Southerly portion of a tract of land described in a deed recorded under Clerk's File No. W543439 in the Official Public Records of Real Property of Harris County, Texas; leaving a residue of 0.7063 of an acre, more or less.
 Close
@@ -5447,7 +5447,7 @@ View Details
 304 N JONES ST.
 BAYTOWN TX 77520
 Precinct 8 / Type: Sale 1
-For Sale
+Cancelled
 Account#: 0610750020009
 Cause#: 202283784
 Adjudged Value: $ 101,565.00
@@ -5476,7 +5476,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 Close
 View Details
@@ -5691,7 +5691,7 @@ View Details
 9510 OLD DESERT. RD
 LA PORTE TX 77571
 Precinct 8 / Type: AliasEOS 3
-For Sale
+Cancelled
 Account#: 1203590010027
 Cause#: 202303217
 Sold with Account#
@@ -5716,7 +5716,7 @@ Click to open HCAD Page
 Tax Sale
 Property Information
 Click for Details
-For Sale
+Cancelled
 Description
 LOT TWENTY-SEVEN (27), IN BLOCK ONE (1), OF FIRST AMENDING PLAT OF SUMMER WINDS, SECTION THREE (3), A SUBDIVISION IN HARRIS COUNTY, TEXAS, ACCORDING TO THE MAP OR PLAT THEREOF, RECORDED UNDER FILM CODE NO. 445029 OF THE MAP RECORDS OF HARRIS COUNTY, TEXAS (THE "PROPERTY").
 Close

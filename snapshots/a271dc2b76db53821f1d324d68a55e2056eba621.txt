@@ -1,8 +1,6 @@
 Tax Lien Sale | Mohave County
 This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our Privacy Policy.
 Agree
-Mohave County: Election Results | State of Arizona: State Election Results
-Close alert
 Skip to main content
 Skip to footer
 Mohave County
@@ -40,6 +38,7 @@ County Manager
 Development Services
 Economic Development
 Elections
+E.R.A.C.E.
 Financial Services
 Flood Control District
 Human Resources & Risk Management
@@ -48,6 +47,7 @@ Information Technology
 Juvenile Advocacy Office
 Legal Defender
 Library District
+Parks
 Procurement
 Public Defender
 Public Fiduciary
@@ -78,7 +78,7 @@ Library District
 Observed Holidays
 Parks
 Permitting
-Report Illegal Dumping To E.R.A.C.E.
+Report Illegal Dumping to E.R.A.C.E.
 Senior Valuation Freeze
 Sheriff
 Take Me Home
@@ -411,6 +411,12 @@ Frequently Asked Questions
 2026 General Election County Candidates
 2026 Special District Elections
 Early Ballots Dropped Off At Poll Site
+Environmental Rural Area Cleanup Enforcement (E.R.A.C.E.)
+Toggle Section
+Report Dumping
+Volunteer Opportunities
+Monthly Reports
+How We Can All Help
 Financial Services
 Toggle Section
 ARPA Projects
@@ -435,6 +441,7 @@ ADA Compliance Audit Results Summary
 Juvenile Advocacy Office
 Legal Defender
 Library District
+Parks
 Procurement
 Toggle Section
 Contracts / Bid Opportunities
@@ -518,12 +525,6 @@ Standards Details and Specifications
 Engineering Projects
 Petition Process
 Permit & Service Fees
-Environmental Rural Area Cleanup Enforcement (E.R.A.C.E.)
-Toggle Section
-Report Dumping
-Volunteer Opportunities
-Monthly Reports
-How We Can All Help
 Equipment Fleet Service
 Facilities Maintenance
 Improvement Districts
@@ -531,7 +532,6 @@ Toggle Section
 Golden Valley ID - Water
 Horizon Six ID - Water
 I-40 Industrial ID - Water
-Parks
 Roads
 Toggle Section
 Chip Seal Facts

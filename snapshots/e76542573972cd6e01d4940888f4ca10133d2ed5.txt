@@ -108,7 +108,6 @@ Highway Construction Projects
 Seized and Surplus Property Auction
 Permits
 Building and Land Permits
-Business Permits
 Road Permits
 Property
 Assessment
@@ -270,7 +269,6 @@ Highway Construction Projects
 Seized and Surplus Property Auction
 Permits
 Building and Land Permits
-Business Permits
 Road Permits
 Property
 Assessment
@@ -398,7 +396,6 @@ Toqua Park
 Permits
 Burn Permits
 Building and Land Permits
-Business Permits
 Road Permits
 Property
 Assessments (Assessor)
@@ -425,7 +422,6 @@ Highway Construction Projects
 Seized and Surplus Property Auction
 Permits
 Building and Land Permits
-Business Permits
 Road Permits
 Property
 Assessment

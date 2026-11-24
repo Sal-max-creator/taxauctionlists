@@ -1,6 +1,6 @@
 Property Tax - Treasurer's Office - Jasper County, Iowa
 Search
-Sunny &middot; 50&deg;
+Clear &middot; 28&deg;
 Calendar
 Courts
 Employment
@@ -39,6 +39,7 @@ Employment
 FAQ
 Search Jasper County
 Search
+Our phones are back up and working! The source of the issue has been identified and corrected.
 Treasurer
 Property Tax
 Due Dates

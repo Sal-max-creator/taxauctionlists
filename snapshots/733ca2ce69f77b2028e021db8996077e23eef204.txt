@@ -5,7 +5,7 @@ Gulf County, Florida
 Clerk of Court
 Search this website for:
 Search
-November 16, 2026
+November 24, 2026
 SEARCH
 MENU
 Home
@@ -89,46 +89,11 @@ While digital platforms are convenient, nothing compares to seeing your competit
 TO ALL PARTIES PARTICIPATING IN TAX DEED AUCTIONS
 The Clerk of the Circuit Court is statutorily responsible for conducting Tax Deed Sales and issuing a Tax Deed in the name of the County to the successful high bidder at a sale. Tax Deed Sales and the issuance of Tax Deeds are governed by Chapter 197, Florida Statutes. The procedure involves a Tax Certificate Holder applying for a Tax Deed through the Tax Collector. (Tax Certificates are sold to collect delinquent taxes). There is no case filed in court, and no court order is issued for the Clerk to conduct a Tax Deed Sale.
 Gulf County Clerk of Court presents the information on this website as a service to the public. We have tried to ensure that the information contained in this electronic search system is accurate. Gulf County Clerk of Court makes no warranty or guarantee concerning the accuracy or reliability of the content at this site or at other sites to which we link. Assessing the accuracy and reliability of information is the responsibility of the user. The user is advised to search all possible spelling variations of proper names to maximize search results. Gulf County Clerk of Court shall not be liable for errors contained herein or for any damages in connection with the use of the information contained herein. All properties sold at a tax deed sale qualify under “buyer beware” . The purchase of a Tax Deed does not warrant or guarantee a clear and marketable title. The Property Information Report received by the Gulf County Clerk of Court is only a brief record search for general information purposes.
-Current Tax Deed Sales and Surplus Funds as of NOVEMBER 13, 2026 @ 1:02 PM
+Current Tax Deed Sales and Surplus Funds as of NOVEMBER 20, 2026 @ 4:33 PM
 Tax Deed Sales Auctions will start at 11:00 AM EST and continue until all scheduled auctions are completed.
 APPLICATIONS FOR SURPLUS FUNDS CAN BE OBTAINED BY USING THE LINKS BELOW.
 YOU ARE NOT REQUIRED TO OBTAIN A THIRD PARTY TO SUBMIT AN APPLICATION FOR TAX DEED SURPLUS FUNDS.
 Gulf County Does Not Have Any Property On The List Of Lands.
-Sale Date
-11/18/26 at 11:00 AM EST
-Certificate No.
-2024-639
-Case No. TD#2026-06
-Parcel ID
-03450-710R
-active
-Applicant
-TAX BRAKE FL, LLC
-Owner
-FREDERICK DELBARRIO & STEPHEN T. WEESE
-Location
-VACANT, 123 IBIS DR
-WEWAHITCHKA
-$1,933.00
-Est. Min. Deposit: $200.00
-Sale Date
-11/18/26 at 11:00 AM EST
-Certificate No.
-2024-949
-Case No. TD#2026-08
-Parcel ID
-06287-385R
-active
-Applicant
-FIG 20 LLC FBO SEC PTY
-Owner
-G.P.H. HOLDINGS LLC
-AGENT: GEORGE HAMM
-Location
-115 LOGGERHEAD LN
-PORT ST JOE
-$5,027.60
-Est. Min. Deposit: $251.38
 Sale Date
 12/02/26 at 11:00 AM EST
 Certificate No.
@@ -198,23 +163,6 @@ Location
 PORT ST JOE
 $8,209.67
 Est. Min. Deposit: $410.48
-Sale Date
-11/18/26 at 11:00 AM EST
-Certificate No.
-2024-504
-Case No. TD#2026-09
-Parcel ID
-02812-000R
-redeemed
-Applicant
-RTLF-FL II LLC RAM TAX LIEN FUND II LP
-Owner
-RICK A JONES (TRUSTEE) MIRIAM DOYLE TRUST
-Location
-125 PRIDGEON RD
-WEWAHITCHKA
-$11,169.06
-Est. Min. Deposit: $588.45
 Sale Date
 12/02/26 at 11:00 AM EST
 Certificate No.
@@ -360,6 +308,22 @@ Location
 177 CHAPEL LN
 PORT ST JOE
 $61,673.45
+Sale Date
+11/18/26 at 11:00 AM EST
+Certificate No.
+2024-639
+Case No. TD#2026-06
+Parcel ID
+03450-710R
+surplus
+Applicant
+TAX BRAKE FL, LLC
+Owner
+FREDERICK DELBARRIO & STEPHEN T. WEESE
+Location
+VACANT, 123 IBIS DR
+WEWAHITCHKA
+$11,696.76
 Custodian of Public Records
 Contact Information, Pursuant to 119.12(2), F.S.
 Gulf County Clerk of Circuit Court

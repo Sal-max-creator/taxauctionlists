@@ -227,6 +227,7 @@ Collection of Property Taxes
 Levies
 Make Tax Payments Online
 Tax Deed and Estate Sales
+Tax Search
 Treasurer FAQ
 Contact Us
 605 N Capital Ave.
@@ -249,6 +250,7 @@ Payments
 Public Records Request
 Requests for Proposal
 Subscription Login
+Tax Search
 Official Facebook
 Official LinkedIn
 Population 137,749 (2026 est.)

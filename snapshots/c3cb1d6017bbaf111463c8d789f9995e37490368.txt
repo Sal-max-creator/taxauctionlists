@@ -59,15 +59,14 @@ Contact Us
 Expand Search
 Delinquent Tax Property
 Section Menu
-Property within Burleigh County is subject to foreclosure in the event that the property taxes, specials, and any interest/penalties become delinquent in the third year. Burleigh County Auditor/Treasurer's office accrues any delinquent property, notifies all interested parties of the terms and conditions, and conducts an annual sale of any property with an unsatisfied tax debt.
+Property within Burleigh County is subject to foreclosure in the event that the property taxes, specials, and any interest/penalties become delinquent in the third year. Burleigh County Finance Treasurer's office accrues any delinquent property, notifies all interested parties of the terms and conditions, and conducts an annual sale of any property with an unsatisfied tax debt.
 June 1st - Foreclosure notice will be given to the property owner, occupants of the property, and any other person entitled to possession of or interest in the property before June 1st.
 August 1st - A notice of delinquent property will be published in the official county newspaper before August 1st.
-October 1st - Tax Lien foreclosure date. Taxes, specials, and any interest/penalties for delinquent year must be paid in full to the Burleigh County Auditor/Treasurer office before 5pm.
-October 2nd until the sale on the 3rd Tuesday in November - After October 1st, the owner must bring ALL outstanding taxes, specials, and any other interest/penalties current. Payments may be made to the Burleigh County Auditor/Treasurer's Office before the scheduled start time of the sale on the 3rd Tuesday of November.
+October 1st - Tax Lien foreclosure date. Taxes, specials, and any interest/penalties for delinquent year must be paid in full to the Burleigh County Finance Treasurer office before 5pm.
+October 2nd until the sale on the 3rd Tuesday in November - After October 1st, the owner must bring ALL outstanding taxes, specials, and any other interest/penalties current. Payments may be made to the Burleigh County Finance Treasurer's Office before the scheduled start time of the sale on the 3rd Tuesday of November.
 At least 15 days prior to the annual sale - A notice of properties for sale will be posted in the Auditor/Treasurer's office and the county website.
 At least 10 days prior to the annual sale - A notice of properties for sale will be posted in the official county newspaper.
 3rd Tuesday of November - Annual sale is held.
-Delinquent Property Tax List
 Terms of Annual Tax Sale
 Departments
 Finance/Treasurer
@@ -85,37 +84,7 @@ Frequently Asked Questions
 View Full Menu
 Toggle Menu Finance/Treasurer
 Administration
-Auditor
 Toggle Section
-Fireworks Display Permit
-Liquor Licensing
-Raffle Requirements
-Special Assessment Procedures
-Buildings and Grounds
-Building/Planning/Zoning
-Toggle Section
-Buildings
-Toggle Section
-Applicable Codes and Criteria
-Applications
-Construction Tips
-Permit Report
-City of Lincoln Plats
-Floodplain Administration
-Future Land Use Plan
-Jurisdiction Maps
-Online Permits and Inspections
-Parcel Viewer
-Planning
-Plans
-Plat Viewer
-Plats with Addresses
-Summit Carbon Solutions
-Zoning
-Frequently Asked Questions
-Central Dakota Communications Center (911)
-Toggle Section
-CodeRED
 Emergency Management
 Toggle Section
 Accessible Emergency Preparedness Information
@@ -163,6 +132,37 @@ Toggle Section
 2016 Christmas Blizzard
 2015 April Fires
 2013 April Blizzard
+Auditor
+Toggle Section
+Fireworks Display Permit
+Liquor Licensing
+Raffle Requirements
+Special Assessment Procedures
+Buildings and Grounds
+Building/Planning/Zoning
+Toggle Section
+Buildings
+Toggle Section
+Applicable Codes and Criteria
+Applications
+Construction Tips
+Permit Report
+City of Lincoln Plats
+Floodplain Administration
+Future Land Use Plan
+Jurisdiction Maps
+Online Permits and Inspections
+Parcel Viewer
+Planning
+Plans
+Plat Viewer
+Plats with Addresses
+Summit Carbon Solutions
+Zoning
+Frequently Asked Questions
+Central Dakota Communications Center (911)
+Toggle Section
+CodeRED
 Extension Office
 Highway Department
 Toggle Section
@@ -188,6 +188,7 @@ Human Resources
 Toggle Section
 Benefit Information
 Payroll Information
+Personnel Manual
 Human Service Zone (Social Services)
 Library
 Public Health

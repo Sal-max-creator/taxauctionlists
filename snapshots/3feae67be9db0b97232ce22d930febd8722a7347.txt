@@ -22,7 +22,7 @@ EXHIBIT TO DEED-AFFIDAVIT OF LAND OWNERSHIP: EXEMPT BUSINESS OR TRUST
 EXHIBIT TO DEED-AFFIDAVIT OF LAND OWNERSHIP: NON-EXEMPT BUSINESS OR TRUST
 COUNTY OWNED PROPERTY
 BID PROCEDURES FOR COUNTY OWNED
-COUNTY OWNED PROPERTY
+COUNTY OWNED PROPERTY LIST
 Other Links
 0
 Stephens County
@@ -106,6 +106,6 @@ Angie, Deputy Treasurer
 Notice
 While the Treasurer's Office makes every effort to ensure accuracy, any error contained herein does not constitute a waiver of any tax amounts by or for the County.
 Login
-(build: 56741:20261116.7)
+(build: 57393:20261123.6)
 © 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

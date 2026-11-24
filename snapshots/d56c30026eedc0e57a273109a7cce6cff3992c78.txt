@@ -111,6 +111,7 @@ Estimated Payments
 Personal Income Tax Information
 Overview
 New Mexico Child Tax Credit
+New Mexico Angel Investment Credit
 Social Security Income Tax Exemption
 Refunds
 Refund Intercepts
@@ -317,6 +318,9 @@ https://www.tax.newmexico.gov/businesses/wp-content/uploads/sites/4/2026/03/Auct
 County Date of Sale Downloadable PDFs
 San Miguel County 11/19/2026 @ 10:00AM San Miguel County
 Registration Link For San Miguel County &#8211; November 19th, 2026 &#8211; https://forms.gle/Eot8pzkCW1795pZv5
+Valencia County 12/15/2026 @ 10:00AM Valencia County
+Los Alamos County 12/17/2026 @ 10:00AM Los Alamos County
+Socorro County 12/18/2026 @ 9:00AM Socorro County
 For additional information, contact the Taxation and Revenue Department, Property Tax Division , the County Treasurer , or the County Assessor .
 The publications on the Property Tax Division Auction site are in Portable Document Format (PDF). To view them you need the Adobe Acrobat Reader plug-in installed on your computer. You can download the Reader at no cost from Adobe&#8217;s site on the World Wide Web.
 Sign up to be notified about upcoming auctions

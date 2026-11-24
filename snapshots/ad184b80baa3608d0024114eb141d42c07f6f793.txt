@@ -64,7 +64,7 @@ Licensing
 Dog License
 Purchase or Renew Dog License Online
 Dog of the Month Application
-Online Dog Tag Search
+Found a Dog? Online License Search
 Dangerous Dog Registration
 Kennel License
 Junk Yard License
@@ -98,9 +98,8 @@ The Finder | Ohio Department of Taxation
 Contact & Resources
 Accessibility Assistance
 Forms Center
-DocuPet Login
 SmartFile Login
-FAQs
+Frequently Asked Questions
 Reports & Publications
 Select Language
 English

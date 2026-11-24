@@ -442,7 +442,6 @@ Personal checks will not be accepted.
 Most delinquent taxes are payable online at www.cherokeecountysctax.com . If you do not get an option to &#8220;add to cart&#8221; please contact us for more information.
 Cherokee County has contracted with a third-party collection agency to collect delinquent taxes. American Financial Credit Services (AFCS) specializes in government debt recovery. Delinquent business or personal property tax, mobile home tax, and boat and motor tax may be submitted to AFCS for collection.
 Delinquent Tax Sale
-Tax Sale List
 Tax Collection and Tax Sale Procedures
 Tax Sale Bidders
 Learn more about third-party collection
@@ -469,28 +468,28 @@ Location
 Webmail Login
 Employee Portal
 Web Policy
-#thegov_search_6afb87580fdc7:hover {
+#thegov_search_6b04e103b1a8a:hover {
 color: rgba(168,161,61,1) !important;
-}#thegov_button_6afb8758108e3 {
+}#thegov_button_6b04e103b2296 {
 color: rgba(255,255,255,1);
-}#thegov_button_6afb8758108e3:hover {
+}#thegov_button_6b04e103b2296:hover {
 color: rgba(255,255,255,1);
-}#thegov_button_6afb8758108e3 {
+}#thegov_button_6b04e103b2296 {
 border-color: rgba(168,161,61,1);
 background-color: rgba(168,161,61,0);
-}#thegov_button_6afb8758108e3:hover {
+}#thegov_button_6b04e103b2296:hover {
 border-color: rgba(168,161,61,1);
 background-color: rgba(168,161,61,1);
-}#thegov_search_6afb87581773b:hover {
+}#thegov_search_6b04e103b866b:hover {
 color: rgba(168,161,61,1) !important;
-}#thegov_button_6afb8758182a9 {
+}#thegov_button_6b04e103b8ece {
 color: rgba(255,255,255,1);
-}#thegov_button_6afb8758182a9:hover {
+}#thegov_button_6b04e103b8ece:hover {
 color: rgba(255,255,255,1);
-}#thegov_button_6afb8758182a9 {
+}#thegov_button_6b04e103b8ece {
 border-color: rgba(168,161,61,1);
 background-color: rgba(168,161,61,0);
-}#thegov_button_6afb8758182a9:hover {
+}#thegov_button_6b04e103b8ece:hover {
 border-color: rgba(168,161,61,1);
 background-color: rgba(168,161,61,1);
 }

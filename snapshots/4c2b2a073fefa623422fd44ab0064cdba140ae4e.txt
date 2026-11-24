@@ -32,7 +32,7 @@ Marriage Licenses
 Probate &#038; Estate Administration
 Traffic Violation Payments
 Jobs
-Apply for a Job
+Apply for a Job with Henrico County
 Become A Deputy
 Become an Intern
 Become an Election Official in Henrico County
@@ -132,12 +132,12 @@ News Toggle News menu
 Articles
 Videos
 Archives
-Board of Supervisors meeting recap for Nov. 10: County salutes library&#8217;s retiring director, approves marijuana ordinances, awards contract for cancer testing for first responders
-At the Nov. 10 Board of Supervisors meeting, the Board honored a retiring library director and recognized the Finance Department&#039;s recent awards. The Board also approved three ordinances related to…
-Henrico to reduce speed limits on 54 sections of roads countywide
-Henrico’s Department of Public Works is reducing the speed limit on 54 sections of county-maintained roads countywide following a comprehensive speed study. The study was conducted to ensure posted speed…
-EDA, Community Revitalization to host Henrico Business Fair on Dec. 3
-Small business and commercial property owners are invited to a Henrico Business Resource Fair Thursday, Dec. 3. The Henrico Economic Development Authority (EDA) and Department of Community Revitalization will host…
+Henrico 4-H Youth Development&#8217;s program &#8216;Chillin&#8217; with Insects&#8217; aims to educate kids on world of bugs
+With the holiday season in full swing, Henrico County 4-H Youth Development will host a hands-on educational program for youth interested in exploring the world of insects. Chillin’ with Insects…
+Fairfield Forum to update residents on legislative priorities for 2027 General Assembly
+Supervisor Roscoe D. Cooper III&#039;s next Fairfield Forum will update residents on legislative priorities for the 2027 General Assembly. The town hall meeting will be held at 6:30 p.m. Thursday,…
+Focus on serving people highlights State of the County address
+Speaking to a crowd of business leaders and other guests, County Manager John Vithoulkas said that Henrico’s Board of Supervisors was the first elected body in Virginia to effectively place…
 More News →
 Visit Toggle Visit menu
 Explore
@@ -156,12 +156,13 @@ Henrico History
 County Markers
 Historical Tabletops
 Henrico Sports and Events Center
-Site search
+AI search
+Keyword search
 Search henrico.gov
 Search
 Site menu
-Search henrico.gov
 Search
+Ask Henrico AI or search by keyword
 Services
 Building & Construction
 Building Permit – Residential
@@ -183,7 +184,7 @@ Marriage Licenses
 Probate &#038; Estate Administration
 Traffic Violation Payments
 Jobs
-Apply for a Job
+Apply for a Job with Henrico County
 Become A Deputy
 Become an Intern
 Become an Election Official in Henrico County
@@ -311,6 +312,14 @@ Translate
 Select your language
 More Languages |
 Disclaimer
+Henrico Search
+How can we help?
+AI search
+Keyword search
+Search henrico.gov
+Search
+Ask Henrico a question.
+Get an AI answer with helpful links from henrico.gov.
 Divisions Toggle secondary navigation
 Accounting
 Archived Accounting Documents

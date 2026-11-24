@@ -40,10 +40,13 @@ Fax: 918-825-2913
 E-Mail: treasurer@mayescountyok.gov
 Office Hours: Monday thru Friday, 9 AM to 5:00 PM
 WELCOME TO THE Mayes county treasurer WEBSITE!
+PLEASE BE ADVISED THAT PROPERTY TAX STATEMENTS WILL BE MAILED OUT EITHER DECEMBER 1st or 2nd.
+THE MAILING IS BEING DELAYED BECAUSE THE CRAIG COUNTY CLERK DID NOT PROVIDE MAYES COUNTY WITH THE LEVIES FOR OUR TWO JOINT SCHOOL DISTRICTS IN A TIMELY MANNER, WHICH HAS DELAYED ROLLING THE TAXES FROM THE ASSESSOR'S OFFICE TO OUR OFFICE.
+EVERYONE HAS UNTIL JANUARY 15th TO PAY WITHOUT A PENALTY.
 THE MAYES COUNTY COURTHOUSE WILL BE CLOSED THE FOLLOWING DATES:
-SEPTEMBER 7, 2026
-OCTOBER 12, 2026
-NOVEMBER 11, 2026
+NOVEMBER 26 and 27, 2026
+DECEMBER 24 and 25, 2026
+JANUARY 1, 2027
 FOR YOUR CONVENIENCE A PAYMENT DROP BOX
 IS LOCATED ON THE WEST SIDE OF THE COURTHOUSE.
 AD VALOREM TAX PAYMENTS:
@@ -54,6 +57,6 @@ Mortgage Tax must be paid on every mortgage before it can be recorded in the Cou
 Notice
 While the Treasurer's office makes every effort to ensure the correctness, any error contained herein does not constitute a waiver of any tax amounts by or for the County Treasurer's office or the Taxpayer.
 Login
-(build: 56741:20261116.7)
+(build: 57393:20261123.6)
 © 2026 All Rights Reserved. Powered by TM Consulting, Inc .
 &times;

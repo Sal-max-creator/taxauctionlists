@@ -151,7 +151,7 @@ Search website
 Browse This Section
 Public Trustee Division
 Treasurer Division
-Home | Our County | Elected Officials | Treasurer & Public Trustee | Treasurer Division | Tax Lien Sale
+Home Our County Elected Officials Treasurer & Public Trustee Treasurer Division Tax Lien Sale
 Tax Lien Sale
 Adams County Auction Site
 (opens in a new tab)
@@ -162,10 +162,10 @@ COUNTY HELD LIEN LIST
 (opens in a new tab)
 Event Information
 Registration
-The Tax Lien Sale is an internet tax sale. To register, participate, and view a listing of available properties for the Tax Lien Sale, visit adams.coloradotaxsale.com . Additional information regarding the internet tax sale is also available at adams.coloradotaxsale.com . Information for the current year&#8217;s sale will be available in mid-October.
+The Tax Lien Sale is an internet tax sale. To register, participate, and view a listing of available properties for the Tax Lien Sale, visit adams.coloradotaxsale.com (opens in a new tab) . Additional information regarding the internet tax sale is also available at adams.coloradotaxsale.com (opens in a new tab) . Information for the current year&#8217;s sale will be available in mid-October.
 Registration: October 19-30, 2026
 Live Tax Sale: October 26-November 6, 2026
-Link to register : adams.coloradotaxsale.com
+Link to register : adams.coloradotaxsale.com (opens in a new tab)
 Tax Sale Notice
 (opens in a new tab)
 Tax List
@@ -178,9 +178,9 @@ The Statutory Redemption Interest rate has been updated to 13%, effective Octobe
 Statutory Redemption Interest
 (opens in a new tab)
 Endorsement List
-Endorsement List (Excel File)
-Endorsement List (CSV)
-Endorsement List (PDF)
+Endorsement List (Excel File) (opens in a new tab)
+Endorsement List (CSV) (opens in a new tab)
+Endorsement List (PDF) (opens in a new tab)
 Mobile Home Tax Sale Information
 Mobile Home Tax Sale Notice
 Mobile Home Tax Sale Listing in Excel Format
@@ -200,7 +200,7 @@ Additional Information
 For additional information regarding tax lien sales call 720.523.6160.
 Adams County Government Center
 4430 South Adams County Parkway
-Brighton, Colorado 80601
+Brighton, Colorado 80601 (opens in a new tab)
 Ph:
 303.659.2120
 |

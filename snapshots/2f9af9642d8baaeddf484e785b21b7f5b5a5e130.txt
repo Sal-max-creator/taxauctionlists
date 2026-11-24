@@ -142,36 +142,29 @@ Delinquent Taxes
 Tax Sale
 Tax Sale
 Office of Kendra Dove
-2026 Tax Sale
-Nov. 2-3, 2026
-Monday, Nov. 2, 2026
-10 a.m. - 6 p.m.
-Tuesday, Nov. 3, 2026
-9 a.m. - until
-Township Auditorium
-1703 Taylor St.
-Columbia, SC 29201
-Richland County Tax Collector
-Delinquent Tax Sale
-State of South Carolina
-County of Richland
-By virtue of the certain tax executions issued by me, I, Kendra L. Dove, Richland County Treasurer / Tax Collector, have levied upon and will sell to the highest bidder the property, as is , for cash, with immediate compliance exacted. The property described herein will be sold at the Richland County Township Auditorium , 1703 Taylor St., Columbia, SC 29201 , Monday, November 2, 2026 beginning at 10 a.m.
-If the sale is not concluded on that day, it will continue at 9 a.m., Tuesday, November 3, 2026 , and subsequent days as needed in the same location until all property is sold.
-All property will be sold subject to the terms of the Servicemembers Civil Relief Act, Pub. L. No. 108-189 (2003) (SCRA).
-Property will be sold in the following order:
-Real Estate,
-Real Estate & Mobile Home Combined, and
-Mobile Homes Only
-all in alphabetical order according to the owner's last name or business name .
-To prevent the property listed below from being sold, all payments must be in the Treasurer's office by 5 p.m., Friday, October, 30, 2026 . Payment must be made only by cash or certified bank cashier's check . No personal, company, or escrow checks will be accepted.
-Notice: No delinquent tax payments for (Tax Year 2025/2026) on real estate or mobile homes are taken on the day(s) of the tax sale.
-Bidding Overview
-Bidders can only register online . No in-person registration. There is a fee to register . All bidders must be registered by October 26th and their $50.00 fee paid or they will not be allowed to bid.
-According to Section 12-51-70 of the 1976 S.C. Code as amended under Act # 0186 of 2012, all bids are final and failure to comply with the payment of your bid(s) will result in a $500.00 fine per bid plus court costs .
-The Richland County Forfeited Land Commission begins the bid with the amount of delinquent taxes, costs of sale, plus current year's taxes (Tax Year 2026 rounded off) .
-Full payment of your winning bid is required on the date(s) of the tax sale and must be in the form of cash, certified bank cashier's check, or bank wire .
-The bidder on property at a tax sale acquires the title without warranty and buys at their own risk. The county is not liable for the quality or quantity of the property sold. The county has the authority to cancel the tax sale at any time before the tax deed on real estate or title on a mobile home is issued.
-It is highly recommended that the delinquent tax properties you are interested in be reviewed subsequent to bidding, and professional advice sought if you have any legal questions regarding delinquent tax sale properties.
+December 1, 2026
+through
+December 15, 2026
+If you have a bidder number from the November 2, 2026 Tax Sale you do not have to register again.
+If you register more than once you will not get a refund.
+For New bidders, registration for the FLC Sealed Bid Sale will begin on November 23, 2026 through November 30, 2026.
+Bidders CAN ONLY REGISTER ONLINE BY USING THE TAX SALE BIDDER APPLICATION.
+Bidder Registration
+Location:
+Richland County Administration Building
+2020 Hampton St.
+Columbia, SC 29204
+Forfeited Land Commission Sealed Bid Property Tax Sale
+If you cannot view these files, please download Adobe Reader .
+FLC Bidder Instructions (DOCX, 19KB)
+FLC Sealed Bid Form (DOCX, 27KB)
+FLC Sealed Bid Property Listings
+The file(s) below are in Excel format and are updated on a weekly basis. If you cannot view these files, please download an Excel Viewer.
+Real Estate Only
+List will not be available until Wednesday, November 25th
+Delinquent Tax Map
+View properties subject to be sold at the annual tax sale.
+Delinquent Tax Map
 Treasurer
 Phone
 803-576-2250
@@ -327,8 +320,6 @@ Emergency Services
 Providing professional and cost effective emergency and public safety planning, response and recovery programs for County residents.
 Information Technology
 The backbone of the County’s digital infrastructure, developing secure, efficient, and innovative technology services for residents and employees.
-Auditor
-Applying tax rates, ensuring rates are correctly applied and maintaining public records on local taxes.
 Animal Services
 Keeping communities safe by promoting responsible pet ownership and protecting against the diseases carried by pests.
 Public Works
@@ -720,8 +711,6 @@ Review Master-in-Equity self-represented procedures.
 Master-in-Equity Court Rosters
 Foreclosure Sales
 Review Master-in-Equity information regarding foreclosure sales.
-Homeownership Assistance
-Provides down payment and closing cost assistance to eligible first-time homebuyers purchasing a home in unincorporated Richland County.
 Community Development Block Grants
 Grants from the U.S. Dept. of Housing and Urban Development (HUD).
 Community Impact Grants
@@ -738,8 +727,6 @@ Delinquent Taxes
 Understand what happens when taxes go unpaid and how to avoid penalties.
 Property Valuation
 Understand how real property is valued for taxation in Richland County.
-Pay Taxes
-Pay your Richland County taxes online, in person, by mail or request a payment plan.
 Property & Business
 Explore property, business, tax and development information.
 Application
@@ -758,12 +745,8 @@ Neighborhood Improvement
 Partner with the County to develop neighborhood plans and coordinate improvement projects.
 Planning Conference
 An annual conference by the Richland County Neighborhood Improvement Program to learn what you can do as an individual to improve your neighborhood.
-Community Development Block Grant Disaster Recovery
-Our comprehensive framework for the federal disaster recovery funds received after the impact of Hurricane Joaquin in 2015.
 Flooding
 Learn about local flood management, safety and property protection.
-Tax Sale
-Information, instructions and bidder registration for the annual tax sale and sealed bid auction.
 Richland Soil and Water Conservation District
 Promotes natural resource conservation through education, demonstrations, technical and financial assistance.
 Hours and Closures
@@ -788,6 +771,8 @@ Roadside Cleanup
 Community clean sweeps and anti-litter enforcement.
 Office of Small Business Opportunity
 Helping small businesses grow and compete through guidance and resources.
+Tax Sale
+Information, instructions and bidder registration for the annual tax sale and sealed bid auction.
 Airport Commission
 Advises County Council on development, maintenance and operation of Jim Hamilton-L.B. Owens Airport (CUB) and promotes aviation in Richland County.
 Board of Voter Registration and Elections
@@ -802,3 +787,11 @@ Water or Sewer Bill
 Pay your Richland County water or sewer bill online, by phone, in person, by mail or set up automatic drafts.
 Conservation Commission
 Protects the County's natural, historical, and cultural resources and promotes nature-based recreation and eco- and heritage tourism
+Homeownership Assistance
+Provides down payment and closing cost assistance to eligible first-time homebuyers purchasing a home in unincorporated Richland County.
+Community Development Block Grant Disaster Recovery
+Our comprehensive framework for the federal disaster recovery funds received after the impact of Hurricane Joaquin in 2015.
+Pay Taxes
+Pay your Richland County taxes online, in person, by mail or request a payment plan.
+Auditor
+Applying tax rates, ensuring rates are correctly applied and maintaining public records on local taxes.

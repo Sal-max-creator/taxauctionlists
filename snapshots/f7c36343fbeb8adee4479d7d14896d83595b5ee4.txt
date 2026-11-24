@@ -51,7 +51,18 @@ LINKS
 Help
 Search e-Li
 e-Li Category
-- Any - Accounting/Budget/Finance County Offices County Operations Elections Open Government Personnel/HR Public Safety Purchasing Records Management Revenue Structure of County Government
+- Any -
+Accounting/Budget/Finance
+County Offices
+County Operations
+Elections
+Open Government
+Personnel/HR
+Public Safety
+Purchasing
+Records Management
+Revenue
+Structure of County Government
 e-Li: Electronic Library
 Home
 -
@@ -66,7 +77,18 @@ Collection of Delinquent Real Property Taxes
 Redemption
 Search e-Li
 e-Li Category
-- Any - Accounting/Budget/Finance County Offices County Operations Elections Open Government Personnel/HR Public Safety Purchasing Records Management Revenue Structure of County Government
+- Any -
+Accounting/Budget/Finance
+County Offices
+County Operations
+Elections
+Open Government
+Personnel/HR
+Public Safety
+Purchasing
+Records Management
+Revenue
+Structure of County Government
 Redemption
 Printer-friendly version PDF version
 Reference Number: CTAS-1603
@@ -100,7 +122,18 @@ Up
 Disposition of Property Purchased by County at Tax Sale ›
 Print
 PDF
--Select a Topic- Accounting/Budget/Finance County Offices County Operations Elections Open Government Personnel/HR Public Safety Purchasing Records Management Revenue Structure of County Government
+-Select a Topic-
+Accounting/Budget/Finance
+County Offices
+County Operations
+Elections
+Open Government
+Personnel/HR
+Public Safety
+Purchasing
+Records Management
+Revenue
+Structure of County Government
 Contact Us
 University of Tennessee County Technical
 Assistance Service (CTAS)

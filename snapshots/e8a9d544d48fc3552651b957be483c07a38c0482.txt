@@ -263,6 +263,7 @@ Enter Email
 Confirm Email
 Comments (Required)
 Have a question for us? Ask away.
+Submit
 Interested in participating in a Tax Lien Sale Auction?
 Please check the Tax Lien Sale webpage for updates on the next event!
 Tax Lien Sale
@@ -289,6 +290,7 @@ Sitemap
 Citizen Connect
 Subscribe to Updates
 Email (Required)
+Submit
 Connect With Us:
 News information channel (opens in new tab)
 Contact us by phone (opens in new tab)

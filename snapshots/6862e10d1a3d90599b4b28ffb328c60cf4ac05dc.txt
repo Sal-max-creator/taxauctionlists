@@ -115,6 +115,7 @@ Sep 2026 1st App
 Sep 2026 2nd App
 Oct 2026 1st App
 Oct 2026 2nd App
+Nov 2026 1st App
 Mortgage Tax
 Modification Affidavit
 Split County Affidavit
@@ -149,23 +150,23 @@ Enter Business or Owner Name :
 Search Business or Owner name (Wildcard)
 From Tax Year :
 All Years
-2019
 2020
 2021
 2022
 2023
 2024
 2025
+2026
 To Tax Year (All) :
 All Years
 To Tax Year :
-2019
 2020
 2021
 2022
 2023
 2024
 2025
+2026
 Enter First Name :
 Search by First and Last Name
 Show Unpaid Taxes Only

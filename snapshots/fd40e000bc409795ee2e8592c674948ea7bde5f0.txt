@@ -48,7 +48,7 @@ State Information
 Florida Department of Revenue
 Florida Department of State
 Florida Legislature
-Florida Legislature Statuses
+Florida Legislature Statutes
 Florida State Courts
 Florida Attorney General
 Florida Department of Law Enforcement (FDLE)
@@ -111,7 +111,7 @@ State Information
 Florida Department of Revenue
 Florida Department of State
 Florida Legislature
-Florida Legislature Statuses
+Florida Legislature Statutes
 Florida State Courts
 Florida Attorney General
 Florida Department of Law Enforcement (FDLE)

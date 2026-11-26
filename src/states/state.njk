@@ -53,17 +53,17 @@ eleventyComputed:
 {% include "sales-table.njk" %}
 
 <h2>{{ "Towns and cities" if st.state == "NJ" else st.unitPlural | capitalize }}</h2>
-<div class="table-scroll">
-<table>
+<div class="table-scroll stack-wrap">
+<table class="stack">
   <thead><tr><th scope="col">{{ "County" if st.unitPlural == "counties" else "Where" }}</th><th scope="col">Type</th><th scope="col">Format</th><th scope="col">Next sale</th><th scope="col">Checked</th></tr></thead>
   <tbody>
   {% for c in st.counties %}
     <tr>
-      <td><a href="{{ c.url }}">{{ c.county }}</a></td>
-      <td><span class="tag tag-{{ c.sale_type | replace(' ', '-') }}">{{ c.sale_type }}</span></td>
-      <td>{{ c.format | capitalize }}{% if c.platform and c.platform.name %}<br><span class="muted">{{ c.platform.name }}</span>{% endif %}</td>
-      <td>{% if c.link_only %}<a href="{{ c.sources[0].url }}" rel="nofollow noopener">See county site</a>{% elif c.upcoming.length %}{{ c.upcoming[0].date | longDate }}{% elif c.schedule_rule %}{{ c.schedule_rule }}{% else %}<span class="muted">{{ c.next_sale_note or "Not yet posted" }}</span>{% endif %}</td>
-      <td class="nowrap">{{ c.lastChecked | shortDate }}</td>
+      <td data-label="{{ "County" if st.unitPlural == "counties" else "Where" }}"><a href="{{ c.url }}">{{ c.county }}</a></td>
+      <td data-label="Type"><span class="tag tag-{{ c.sale_type | replace(' ', '-') }}">{{ c.sale_type }}</span></td>
+      <td data-label="Format">{{ c.format | capitalize }}{% if c.platform and c.platform.name %}<br><span class="muted">{{ c.platform.name }}</span>{% endif %}</td>
+      <td data-label="Next sale">{% if c.link_only %}<a href="{{ c.sources[0].url }}" rel="nofollow noopener">See county site</a>{% elif c.upcoming.length %}{{ c.upcoming[0].date | longDate }}{% elif c.schedule_rule %}{{ c.schedule_rule }}{% else %}<span class="muted">{{ c.next_sale_note or "Not yet posted" }}</span>{% endif %}</td>
+      <td data-label="Checked" class="nowrap">{{ c.lastChecked | shortDate }}</td>
     </tr>
   {% endfor %}
   </tbody>

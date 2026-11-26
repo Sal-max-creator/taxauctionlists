@@ -1,7 +1,7 @@
 {#- expects `rows` (flattened sales) and optional `showState` -#}
 {% if rows.length %}
-<div class="table-scroll">
-<table class="sales">
+<div class="table-scroll stack-wrap">
+<table class="sales stack">
   <thead>
     <tr>
       <th scope="col">Date</th>
@@ -17,14 +17,14 @@
   <tbody>
   {% for s in rows %}
     <tr data-state="{{ s.stateCode }}" data-type="{{ s.saleType }}" data-format="{{ s.format }}">
-      <td class="nowrap"><strong>{{ s.date | longDate }}</strong>{% if s.end_date %}<br>to {{ s.end_date | longDate }}{% endif %}{% if s.time and s.time != "not stated" %}<br><span class="muted">{{ s.time }}</span>{% endif %}</td>
-      {% if showState %}<td><a href="{{ s.stateUrl }}">{{ s.stateName }}</a></td>{% endif %}
-      <td><a href="{{ s.countyUrl }}">{{ s.county }}</a></td>
-      <td>{{ s.label }}</td>
-      <td><span class="tag tag-{{ s.saleType | replace(' ', '-') }}">{{ s.saleType }}</span></td>
-      <td>{{ s.format | capitalize }}</td>
-      <td>{% if s.deposit %}{{ s.deposit }}{% endif %}{% if s.deposit and s.registration_deadline %}<br>{% endif %}{% if s.registration_deadline %}<span class="muted">Register: {{ s.registration_deadline }}</span>{% endif %}{% if not s.deposit and not s.registration_deadline %}<span class="muted">See county</span>{% endif %}</td>
-      <td><a href="{{ s.source_url }}" rel="nofollow noopener">{{ s.source_url | hostname }}</a><br><span class="muted">Checked {{ s.lastChecked | shortDate }}</span></td>
+      <td data-label="Date"><strong class="nowrap">{{ s.date | longDate }}</strong>{% if s.end_date %}<br>to {{ s.end_date | longDate }}{% endif %}{% if s.time and s.time != "not stated" %}<br><span class="muted">{{ s.time }}</span>{% endif %}</td>
+      {% if showState %}<td data-label="State"><a href="{{ s.stateUrl }}">{{ s.stateName }}</a></td>{% endif %}
+      <td data-label="County"><a href="{{ s.countyUrl }}">{{ s.county }}</a></td>
+      <td data-label="Sale">{{ s.label }}</td>
+      <td data-label="Type"><span class="tag tag-{{ s.saleType | replace(' ', '-') }}">{{ s.saleType }}</span></td>
+      <td data-label="Where">{{ s.format | capitalize }}</td>
+      <td data-label="Deposit">{% if s.deposit %}{{ s.deposit }}{% endif %}{% if s.deposit and s.registration_deadline %}<br>{% endif %}{% if s.registration_deadline %}<span class="muted">Register: {{ s.registration_deadline }}</span>{% endif %}{% if not s.deposit and not s.registration_deadline %}<span class="muted">See county</span>{% endif %}</td>
+      <td data-label="Source"><a href="{{ s.source_url }}" rel="nofollow noopener">{{ s.source_url | hostname }}</a><br><span class="muted">Checked {{ s.lastChecked | shortDate }}</span></td>
     </tr>
   {% endfor %}
   </tbody>

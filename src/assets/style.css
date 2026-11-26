@@ -139,3 +139,21 @@ a.button:hover { filter: brightness(1.08); }
 .issue ul { padding-left: 20px; }
 .issue li { margin: 4px 0; }
 .plan-note { font-size: 0.9rem; color: var(--muted); }
+
+/* Phones: no sideways scrolling. Long words and URLs break instead of widening the page,
+   and data tables turn into one card per row, each cell labelled from its data-label. */
+[hidden] { display: none !important; }
+main { overflow-wrap: break-word; }
+main a { overflow-wrap: anywhere; }
+@media (max-width: 720px) {
+  .stack-wrap { overflow: visible; border: 0; background: none; border-radius: 0; }
+  table.stack, table.stack tbody, table.stack tr, table.stack td { display: block; width: 100%; }
+  table.stack thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  table.stack tr { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 10px 14px; margin-bottom: 10px; }
+  table.stack td { border: 0; padding: 3px 0 3px 7.2em; position: relative; min-height: 1.6em; }
+  table.stack td::before { content: attr(data-label); position: absolute; left: 0; top: 5px; width: 6.6em; color: var(--muted); font-size: 0.74rem; line-height: 1.4; text-transform: uppercase; letter-spacing: 0.04em; }
+  table.stack td.nowrap { white-space: normal; }
+  .filters select { flex: 1 1 140px; min-width: 0; }
+  .stat { flex: 1 1 140px; min-width: 0; }
+  nav { gap: 10px 14px; }
+}

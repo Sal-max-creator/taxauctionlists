@@ -7,20 +7,21 @@ pagination:
   alias: c
 permalink: "{{ c.url }}"
 eleventyComputed:
-  title: "{{ c.fullName }}, {{ c.state.state }} tax sale{% if c.upcoming.length and not c.link_only %}: {{ c.upcoming[0].date | shortDate }}{% else %} dates{% endif %}"
-  description: "{{ c.fullName }}, {{ c.state.name }} tax {{ c.sale_type }} sale{% if c.upcoming.length and not c.link_only %} on {{ c.upcoming[0].date | longDate }}{% endif %}: deposit, registration deadline and how to bid, from the county's own pages."
+  title: "{{ c.fullName }}, {{ c.state.state }} tax sale{% if c.upcoming.length and not c.link_only %}: {{ c.upcoming[0].date | shortDate }}{% else %} dates and how to bid{% endif %}"
+  description: "{{ c.page.description }}"
 ---
 {%- set crumbs = [{ name: "States", url: "/states/" }, { name: c.state.name, url: c.state.url }, { name: c.county, url: c.url }] %}
 {% include "breadcrumbs.njk" %}
 <h1>{{ c.fullName }}, {{ c.state.name }} tax sale</h1>
 <p class="muted">Last checked {{ c.lastChecked | longDate }}</p>
+<p class="lede">{{ c.page.intro }}</p>
 {% include "notice.njk" %}
 
 {% if c.link_only %}
 <h2>Sale dates and details</h2>
 <p>This office's website doesn't allow its content to be reused commercially, so we don't copy its sale details here. <a href="{{ c.sources[0].url }}" rel="nofollow noopener">See the county's tax sale page</a> for dates, registration and terms.</p>
 {% else %}
-<h2>Upcoming sales</h2>
+<h2>When is the next {{ c.fullName }} tax sale?</h2>
 {% if c.upcoming.length %}
   {% for s in c.upcoming %}
   <dl class="facts">
@@ -35,16 +36,38 @@ eleventyComputed:
 {% else %}
   <p class="empty">{{ c.next_sale_note or "The county hasn't posted its next sale date yet." }}</p>
 {% endif %}
+{% if c.schedule_rule %}<p>The county's stated schedule:</p>
+<blockquote class="evidence">{{ c.schedule_rule }}</blockquote>{% endif %}
 
-<h2>Sale details</h2>
+<h2>How to bid at the {{ c.fullName }} tax sale</h2>
 <dl class="facts">
   <dt>Sale type</dt><dd><span class="tag tag-{{ c.sale_type | replace(' ', '-') }}">{{ c.sale_type }}</span></dd>
   <dt>Format</dt><dd>{{ c.format | capitalize }}</dd>
-  {% if c.schedule_rule %}<dt>Schedule</dt><dd>{{ c.schedule_rule }}</dd>{% endif %}
   {% if c.platform and c.platform.name %}<dt>Auction site</dt><dd>{% if c.platform.url %}<a href="{{ c.platform.url }}" rel="nofollow noopener">{{ c.platform.name }}</a>{% else %}{{ c.platform.name }}{% endif %} <span class="muted">(we link to it; we don't copy its listings)</span></dd>{% endif %}
-  {% if c.how_to_bid %}<dt>How to bid</dt><dd>{{ c.how_to_bid }}</dd>{% endif %}
 </dl>
+{% if c.how_to_bid %}<p>{{ c.how_to_bid }}</p>{% endif %}
+{% for n in c.page.extraNotes %}<p class="muted">{{ n }}</p>{% endfor %}
+
+{% if c.page.quotes.length %}
+<h2>What {{ c.fullName }}'s pages say</h2>
+<p>Quoted word for word from the county's own pages, with where each line came from.</p>
+{% for q in c.page.quotes %}
+<blockquote class="evidence">“{{ q.quote }}” <span class="muted">(<a href="{{ q.url }}" rel="nofollow noopener">{{ q.host }}</a>)</span></blockquote>
+{% endfor %}
 {% endif %}
+
+{% if c.page.pastSales.length %}
+<h2>Past {{ c.fullName }} sales on record</h2>
+<ul>
+{% for s in c.page.pastSales %}
+  <li><strong>{{ s.date | longDate }}</strong>{% if s.end_date %} to {{ s.end_date | longDate }}{% endif %}{% if s.label %}: {{ s.label }}{% endif %}{% if s.deposit %}. Deposit: {{ s.deposit }}{% endif %} <span class="muted">(<a href="{{ s.source_url }}" rel="nofollow noopener">{{ s.source_url | hostname }}</a>)</span></li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endif %}
+
+<h2>How {{ c.state.name }} tax sales work</h2>
+<p>{{ c.page.stateFirst }} <a href="{{ c.state.url }}">More on {{ c.state.name }} tax sales →</a></p>
 
 <h2>County contact</h2>
 <dl class="facts">

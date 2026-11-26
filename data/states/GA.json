@@ -450,8 +450,20 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": "The Henry County Tax Commissioners Office holds in person tax sales on the first Tuesday of the month.",
-      "sales": [],
-      "next_sale_note": "No November 2026 sale; the county says to check back for the December list, which was not posted yet. Sales are not held every month.",
+      "sales": [
+        {
+          "date": "2026-12-01",
+          "time": "Not stated; verification of funds begins at 9:15 a.m.",
+          "label": "Judicial in rem tax sale (in person)",
+          "deposit": "None stated; payment by money order or certified check is due at the time of sale, plus a $25.00 deed fee",
+          "registration_deadline": "All bidders must register online before the tax sale; no deadline stated",
+          "note": "Funds are verified at 140 Henry Parkway, McDonough. All sales are final. The county's December list is a PDF and appeared to list a single parcel when we read it.",
+          "source_url": "https://henrycountytax.com/DocumentCenter/View/553/Tax-Sale-2025",
+          "list_url": "https://henrycountytax.com/DocumentCenter/View/553/Tax-Sale-2025",
+          "quote": "PROPERTIES FOR JUDICAL REM TAX SALE TUESDAY DECEMBER 1ST 2026"
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Register online before sale day, then finish registration and have your funds verified in person by a Property Tax Specialist at 140 Henry Parkway, McDonough on the morning of the sale (bring a driver's license, address and phone number); you get a bidding number and cannot bid more than the funds verified. The sale starts at 10:00 AM. Pay at the time of sale with cash, money order or certified check payable to Henry County Tax Commissioner or HCTC, with a separate payment for each property; no personal checks. Sales are final, and bidders cannot bid on property they or their company own. Properties are advertised in the Daily Herald four weeks before a sale.",
       "sources": [
         {
@@ -462,7 +474,7 @@
         },
         {
           "url": "https://henrycountytax.com/DocumentCenter/View/553/Tax-Sale-2025",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-26",
           "terms": "same as above",
           "terms_url": "https://www.henrycountytax.com/copyright"
         },

@@ -1288,13 +1288,23 @@
           "note": "Courthouse, 315 Main Street, 2nd Floor, Sterling. Payments are accepted from 1:00 p.m. to 5:00 p.m. on the sale day. The county says the rate of interest for the 2026 sale is 13% per annum.",
           "source_url": "https://www.logancountyco.gov/208/Tax-Liens-Sale",
           "quote": "Date: November 19, 2026"
+        },
+        {
+          "date": "2027-11-18",
+          "time": "Registration 8:00 a.m. at the Treasurer's Office; sale begins 10:00 a.m. in the Commissioners Meeting Room, Courthouse",
+          "label": "2027 Tax Lien Sale (in person)",
+          "deposit": "not stated (all bids must be covered in full at payment)",
+          "registration_deadline": "not stated (registration begins 8:00 a.m. on the sale day)",
+          "source_url": "https://www.logancountyco.gov/208/Tax-Liens-Sale",
+          "quote": "Date: November 18, 2027",
+          "note": "Courthouse, 315 Main Street, 2nd Floor, Sterling. Parts of the county page still describe the 2026 sale, so confirm with the Treasurer closer to the date."
         }
       ],
       "how_to_bid": "In person at the Courthouse in Sterling. All bidders must register in the Treasurer's Office (from 8:00 a.m.) and receive a bidder number; a W-9 should be completed before registering. County employees and their immediate families may not bid. Parcels are sold by open bidding to the person who pays the largest amount in cash above the taxes, penalty, interest and costs; premium bids go in dollar increments under $1,000 and $5.00 increments at $1,000 and over, and premiums are non-refundable and earn no interest. Bids must be covered by cash, certified checks, bank cashier's checks, same-day wire (fee added) or a personal check guaranteed by a bank's irrevocable letter of credit approved before sale day. Unsold parcels may be bought from 3:00 p.m. on the sale day until close of business Tuesday, November 24, 2026.",
       "sources": [
         {
           "url": "https://www.logancountyco.gov/208/Tax-Liens-Sale",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-26",
           "terms": "Copyright Notices page: 'All content © 2006-2026 Logan County, CO and its representatives. All rights reserved.' Copyright-only; no reuse, redistribution, commercial-use, personal-use, resale or scraping clause. The page's own Disclaimer is about lien-purchase risk only.",
           "terms_url": "https://www.logancountyco.gov/copyright"
         }

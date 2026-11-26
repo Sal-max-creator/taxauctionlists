@@ -130,7 +130,8 @@ export function mentionsDay(text, date) {
   const [, m, d] = date.split("-").map(Number);
   const name = MONTHS[m - 1];
   const named = new RegExp(`\\b${name}[a-z]*\\.?\\s+0?${d}\\s*(?:st|nd|rd|th)?\\b`, "i");
-  const dayFirst = new RegExp(`\\b0?${d}\\s*(?:st|nd|rd|th)?\\s+(?:of\\s+)?${name}`, "i");
+  // "15 December", "15th of December", "the 15th day of December, 2026" (Florida tax deed notices)
+  const dayFirst = new RegExp(`\\b0?${d}\\s*(?:st|nd|rd|th)?\\s+(?:day\\s+)?(?:of\\s+)?${name}`, "i");
   const numeric = new RegExp(`\\b0?${m}[/-]0?${d}\\b`);
   // A range like "March 17-18" mentions the 18th too.
   const range = new RegExp(`\\b${name}[a-z]*\\.?\\s+\\d{1,2}\\s*(?:st|nd|rd|th)?\\s*[-\u2013]\\s*0?${d}\\b`, "i");

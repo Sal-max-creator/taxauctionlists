@@ -248,13 +248,26 @@
         "url": "https://www.bid4assets.com"
       },
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "2026 auction date not yet posted. The county's bidder page still describes the 2025 annual auction (December 3-4, 2025, on Bid4Assets).",
+      "sales": [
+        {
+          "date": "2026-12-02",
+          "end_date": "2026-12-03",
+          "time": "Opens 9:00 AM Pacific December 2; items close at the times shown on December 3",
+          "label": "2026 tax foreclosure auction (online, Bid4Assets)",
+          "deposit": "$1,000.00 bid deposit plus a $35.00 nonrefundable processing fee",
+          "registration_deadline": "Register on Bid4Assets; the bid deposit was due no later than November 25, 2026",
+          "register_by": "2026-11-25",
+          "note": "Winning bidders wire funds to Bid4Assets by 1:00 PM Pacific on Monday, December 7, 2026. A 5% buyer's premium (minimum $100) applies per parcel.",
+          "source_url": "https://yakimacounty.us/1184/Bidder-Information",
+          "quote": "The auction is scheduled to begin on Wednesday, December 2, 2026, at 9:00 AM PST"
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Register at Bid4Assets before the auction and make the bid deposit by the posted deadline (for 2025: a $1,000.00 deposit plus a $35.00 non-refundable processing fee). Sales go to the highest bidder; Bid4Assets also offers an offline bid form.",
       "sources": [
         {
           "url": "https://yakimacounty.us/1184/Bidder-Information",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-26",
           "terms": "Disclaimer page says nothing on reuse; Copyright page says 'All content (c) 2006-2026 Yakima County, WA and its representatives. All rights reserved.' No explicit ban on reuse or redistribution.",
           "terms_url": "https://yakimacounty.us/copyright"
         }

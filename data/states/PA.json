@@ -302,9 +302,18 @@
           "quote": "Date of Sale: Monday, November 2, 2026",
           "list_url": "https://sheriffalleghenycounty.com/wp-content/uploads/2026/10/November-Sale-List-Updated-10-22.pdf",
           "list_note": "Sheriff's list updated Oct 22, 2026. It mixes tax cases (mostly 'Sci Fa Sur Tax Lien' by school districts, municipalities and the County) with other judgment sales; the Sheriff says the accurate list is finalized the morning of the sale."
+        },
+        {
+          "date": "2026-12-07",
+          "time": "Not stated (virtual sale on Microsoft Teams)",
+          "label": "Sheriff's Sale (includes tax lien sales)",
+          "deposit": "10% of the bid price the day after the sale; balance due the Monday following the sale before 10:00 AM (cash, cashier's checks or money orders payable to the Treasurer of Allegheny County)",
+          "registration_deadline": "Register as a bidder on the Sheriff's virtual sale page",
+          "source_url": "https://sheriffalleghenycounty.com/virtual-sheriffs-sale/",
+          "quote": "The next scheduled sale will take place on Dec 07 2026"
         }
       ],
-      "next_sale_note": "Allegheny County has no Tax Claim Bureau sale; the Sheriff sells property for unpaid county, municipal and school district taxes at the monthly Sheriff's Sale. City of Pittsburgh tax sales are handled by the City Treasurer's Office (412-255-2300). The Sheriff's page says registration for the next sale opens at 10am on November 9; the next sale date is not yet posted.",
+      "next_sale_note": "Allegheny County has no Tax Claim Bureau sale; the Sheriff sells property for unpaid county, municipal and school district taxes at the monthly Sheriff's Sale. City of Pittsburgh tax sales are handled by the City Treasurer's Office (412-255-2300). The December sale list was not checked.",
       "how_to_bid": "Sales are held virtually on Microsoft Teams. Fill in the Bidder Registration form on the Sheriff's Virtual Sheriff's Sale page and send a copy of a valid state ID or driver's license; bidder numbers are not automatic and take up to five business days. The winning bidder brings 10% of the bid the day after the sale and the balance by 10:00 AM the following Monday, in cash, cashier's checks or money orders (no personal checks).",
       "sources": [
         {
@@ -321,7 +330,7 @@
         },
         {
           "url": "https://sheriffalleghenycounty.com/virtual-sheriffs-sale/",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Same site; see above.",
           "terms_url": "https://sheriffalleghenycounty.com/privacy/"
         },
@@ -417,7 +426,7 @@
       },
       "schedule_rule": "Judicial - Typically held in June. Upset - Typically held in September.",
       "sales": [],
-      "next_sale_note": "2027 sale dates not yet posted; the county says 'Information is only available immediately before a sale date.' The 2026 judicial and upset sales are past. Repository bids: 'The Repository Tax Sale Bidding Period Is Open March 1, 2026 - October 31, 2026'.",
+      "next_sale_note": "2027 sale dates not yet posted; the county says 'Information is only available immediately before a sale date.' Repository bidding is closed and re-opens March 1, 2027.",
       "how_to_bid": "Both live auctions run online on Bid4Assets. Register with Bid4Assets, complete vesting and funding, e-sign the bidder affidavit and upload ID and entity documents, then book a virtual or in-person meeting with the Tax Claim Bureau through the link Bid4Assets sends, and fund your deposit (amount not stated on the county page). Missing a step bars you from that sale. Unsold property goes to the repository, where bids need written consent of the taxing districts.",
       "sources": [
         {
@@ -428,7 +437,7 @@
         },
         {
           "url": "https://www.berkspa.gov/departments/tax-claim-bureau/repository-list",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Same site; see above.",
           "terms_url": "https://www.berkspa.gov/departments/tax-claim-bureau/delinquent-tax-search"
         }
@@ -477,13 +486,24 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "No upcoming date posted. The judicial sale was May 27, 2026 and the 2026 upset sale was Sept 24, 2026, both at 1:00 pm in Courtroom #1 of the Northampton County Courthouse. The county says judicial-sale registration dates 'will be published once the sale date is confirmed.'",
+      "sales": [
+        {
+          "date": "2026-12-10",
+          "time": "not stated",
+          "label": "2026 Special Upset Sale",
+          "registration_deadline": "Register in person at the Northampton County Courthouse Government Center only, November 12 to November 30, 2026; no exceptions",
+          "register_by": "2026-11-30",
+          "note": "Held in Council Chambers at the Northampton County Courthouse.",
+          "source_url": "https://www.norcopa.gov/judicial-upset-sale",
+          "quote": "The Northampton County Special Upset Sale 2026 will be Thursday, December 10, 2026."
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Bidders must register in the posted window (no exceptions), only at the Northampton County Courthouse Government Center, using the county's bid registration and bidder affidavit forms, then bid in person in Courtroom #1. Deposit and payment terms are in the county's conditions of sale.",
       "sources": [
         {
           "url": "https://www.norcopa.gov/judicial-upset-sale",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Footer: 'Copyright 2026 Northampton County, PA | All Rights Reserved'. No terms, disclaimer or reuse clause found.",
           "terms_url": "https://www.norcopa.gov/judicial-upset-sale"
         },
@@ -683,9 +703,19 @@
           "note": "Held at the Crossroads Building, Room G-16, Ground Floor, 95 W. Beau St., Washington, PA 15301.",
           "source_url": "https://www.washcopa.gov/tax-revenue/claims-repository-sale",
           "quote": "Date: Wednesday, March 17, 2027, 10:00 AM"
+        },
+        {
+          "date": "2027-06-30",
+          "time": "10:00 AM",
+          "label": "2027 Judicial Tax Sale",
+          "registration_deadline": "Register in person at the Tax Claim Bureau (95 W. Beau St., Suite 525) from 9:00 AM Monday, June 14 to 4:00 PM Friday, June 18, 2027; $25.00 registration fee, cash only, plus Bidder Registry Form, photo ID and Affidavit of Bidder",
+          "register_by": "2027-06-18",
+          "note": "Held at the Crossroads Building, Ground Floor G-16, 95 W. Beau St., Washington. A $250.00 Demolition & Rehabilitation Fund premium is collected on each parcel sold.",
+          "source_url": "https://www.washcopa.gov/tax-revenue/claims-judicial-sale",
+          "quote": "2027 Judicial Tax Sale Wednesday, June 30, 2027, 10:00 A.M"
         }
       ],
-      "next_sale_note": "The 2026 Judicial Tax Sale was held June 24, 2026; no later judicial or upset sale date is posted.",
+      "next_sale_note": null,
       "how_to_bid": "In person. Pre-register at the Tax Claim Bureau during the posted registration window with the $25.00 cash registration fee, a Bidder Registry Form, a copy of a valid photo ID and an Affidavit of Bidder (plus an Affidavit of Non-Bidding Potential Owner if applicable). Businesses also provide IRS Form SS-4 and a list of members, officers and others with ownership. No notary on site. For the judicial sale the county also charges a $250.00 Demolition & Rehabilitation Fund premium per parcel sold. Rescinding a bid or disrupting the sale brings a permanent ban from county tax sales.",
       "sources": [
         {
@@ -696,7 +726,7 @@
         },
         {
           "url": "https://www.washcopa.gov/tax-revenue/claims-judicial-sale",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "Same site; see above.",
           "terms_url": "https://www.washcopa.gov/privacy-policy"
         }
@@ -788,14 +818,24 @@
           "note": "The county page says the sale is held online at GovEase.",
           "source_url": "https://www.beavercountypa.gov/Departments/Assessment-Office",
           "quote": "Continued Upset Sale November 10th 2026"
+        },
+        {
+          "date": "2026-12-08",
+          "label": "Judicial Sale",
+          "time": "not stated",
+          "deposit": "not stated",
+          "registration_deadline": "Not stated on the page; Pennsylvania requires bidders to pre-register at least 10 days before the sale",
+          "note": "Listed under Upcoming Tax Sale on the Assessment / Tax Claim Office page; no time, place or format stated there.",
+          "source_url": "https://www.beavercountypa.gov/Departments/Assessment-Office",
+          "quote": "Judicial Sale - December 8th 2026"
         }
       ],
-      "next_sale_note": "The 2026 Continued Upset Sale is online on November 10, 2026; registration on GovEase closes October 30.",
+      "next_sale_note": "The December 8, 2026 Judicial Sale is listed without details; call the Tax Claim Office at 724-770-4480.",
       "how_to_bid": "Online only through GovEase; registration is only on GovEase and requires a valid U.S. driver's license or photo ID, at least 10 days before the sale. The county says additional terms are at GovEase and posts Conditions of Sale and an Upset Sale List as PDFs (not read). Deposit not stated.",
       "sources": [
         {
           "url": "https://www.beavercountypa.gov/Departments/Assessment-Office",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "no terms page found: footer shows only '© 2026 Beaver County' with About Us and Bids and Proposals links; no terms, disclaimer, privacy or legal link.",
           "terms_url": null
         }
@@ -888,13 +928,23 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": "Upset Tax Sales are held during the month of September.",
-      "sales": [],
-      "next_sale_note": "The 2026 Upset Sale was September 15, 2026. No judicial sale date is posted ('Check back for the date of the Judicial Tax Sales'); the repository sale will not reopen until 2028.",
+      "sales": [
+        {
+          "date": "2026-12-14",
+          "time": "10:00 AM",
+          "label": "2026 Judicial Sale (mobile homes in parks only)",
+          "registration_deadline": "Pre-registration required (Act 33)",
+          "note": "Held at the Third Street Plaza, 33 W. Third St., 3rd Floor, Commissioner's Board Room, Williamsport. The county says this year's judicial sale properties are all mobile homes in parks, with no houses or vacant land.",
+          "source_url": "https://lycomingcountypa.gov/government/departments/tax_claims/tax_sale.php",
+          "quote": "Judicial Sale is on December 14, 2026 at 10:00 AM"
+        }
+      ],
+      "next_sale_note": "The repository sale will not reopen until 2028 because of the countywide reassessment.",
       "how_to_bid": "Upset Tax Sales are held at the Third Street Plaza, 33 W Third Street, 3rd Floor, in the Commissioner's Board Room. Act 33 requires pre-registration for upset and judicial sales (deadline not stated). Judicial sales are held at the Bureau's discretion for properties not sold at the September upset sale. Repository bids must include the Repository Bid Package and take 6 to 8 weeks to process. Deposit not stated.",
       "sources": [
         {
           "url": "https://lycomingcountypa.gov/government/departments/tax_claims/tax_sale.php",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "no terms page found: footer shows a 'Privacy Policy' link that points to the home page and an admin login; no terms, disclaimer, copyright or legal link.",
           "terms_url": null
         }
@@ -921,8 +971,20 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": "Judicial Sales are not held on any set schedule.",
-      "sales": [],
-      "next_sale_note": "No judicial sale is scheduled ('There are no Judicial Sales scheduled at this time'). The 2026 upset sale was held September 15 and October 20, 2026. Repository properties may be sold at any time with an approved bid.",
+      "sales": [
+        {
+          "date": "2026-12-08",
+          "time": "10:00 AM",
+          "label": "Judicial Sale",
+          "deposit": "$1,000 in cash or certified check, deposited with the Tax Claim Bureau on sale day",
+          "registration_deadline": "Register with the Tax Claim Bureau with a $25.00 non-refundable fee and the county application by 4:00 p.m. November 30, 2026",
+          "register_by": "2026-11-30",
+          "note": "Held in Courtroom #1, 2nd floor of the Mercer County Courthouse, Mercer. The posted notice lists three properties.",
+          "source_url": "https://www.mercercountypa.gov/tax/judicialsales.htm",
+          "quote": "Scheduled Sale Date: December 8, 2026"
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Upset sales are buyer-beware and properties are sold subject to liens and encumbrances; lists are published in the Mercer County Law Journal, The Herald and the Record Argus. A judicial sale is requested in writing with a guaranteed minimum bid of $1,250.00 (request forms on the website). Repository properties sell for no less than $1,200.00 by bid form, subject to the taxing bodies' approval. Deposit and registration are not stated.",
       "sources": [
         {
@@ -933,7 +995,7 @@
         },
         {
           "url": "https://www.mercercountypa.gov/tax/judicialsales.htm",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "Same site footer; no terms, disclaimer or copyright link.",
           "terms_url": null
         }

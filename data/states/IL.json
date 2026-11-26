@@ -49,25 +49,38 @@
       "address": "118 North Clark Street, Room 112, Chicago, Illinois 60602",
       "website": "https://www.cookcountytreasurer.com/taxsalegeneralinformation.aspx",
       "sale_type": "lien",
-      "format": "unknown",
+      "format": "online",
       "platform": {
         "name": "cooktaxsale.com (Treasurer's online sale site, named on the TY2022 sale page; not confirmed for the next sale)",
         "url": null
       },
       "schedule_rule": "Scavenger Sales will only be held at the direction of the Cook County Board.",
-      "sales": [],
-      "next_sale_note": "No specific date posted. Treasurer's page: \"The Treasurer's Office anticipates holding the next Annual Tax Sale in December 2026.\" The Treasurer's annualtaxsale.aspx page still shows the Tax Year 2022 sale (December 2024), and the scavengersale.aspx page shows 2019 details, so both are out of date. A news report (Capitol News Illinois, not an official source) says HB 598 moved the sale to Dec. 1, 2026; we did not confirm this on an official page, so it is not recorded as a date.",
+      "sales": [
+        {
+          "date": "2026-12-15",
+          "end_date": "2026-12-21",
+          "time": "8:30 AM to 5:00 PM each sale day (December 15, 16, 17, 18 and 21)",
+          "label": "2023 Annual Tax Sale (Tax Year 2023 delinquent taxes, online)",
+          "deposit": "Collateral deposit (or bond) required; it must be received by the Treasurer's Office by 5:00 p.m. Chicago time on December 4, 2026",
+          "registration_deadline": "Register online at www.cooktaxsale.com between November 6 and December 4, 2026; registration and the collateral deposit are due by 5:00 p.m. (Chicago time) on December 4, 2026",
+          "register_by": "2026-12-04",
+          "note": "Online, internet-based sale at www.cooktaxsale.com. The sale was delayed from its usual date under Public Act 104-0460. Delinquency lists were published in community newspapers on November 4 and 5, 2026; full rules are posted at cooktaxsale.com.",
+          "source_url": "https://cookcountytreasurer.com/annualtaxsale.aspx",
+          "quote": "The 2023 Annual Tax Sale has been scheduled to commence at 8:30 a.m. on December 15, 2026."
+        }
+      ],
+      "next_sale_note": "After the December 2026 Annual Tax Sale, no later sale date is posted. Scavenger Sales are held only at the direction of the Cook County Board.",
       "how_to_bid": "Buyers must complete registration and post collateral or a bond before the sale; the full delinquent amount plus interest and penalties is offered. The last posted sale (TY2022) was online, with final bids allowed only from computers in the Treasurer's Sale Room at 118 N. Clark St. Check the Treasurer's page for the current sale's rules.",
       "sources": [
         {
           "url": "https://www.cookcountytreasurer.com/taxsalegeneralinformation.aspx",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Disclaimer of Liability says the CCTO does not guaranty accuracy and that site information 'is not an official record'; site states 'All Rights Reserved'. No explicit clause on copying, scraping or commercial reuse found.",
           "terms_url": "https://cookcountytreasurer.com/disclaimer.aspx"
         },
         {
           "url": "https://cookcountytreasurer.com/annualtaxsale.aspx",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Same site as above (Disclaimer of Liability; 'All Rights Reserved'). Page content is stale (TY2022 sale, December 2024).",
           "terms_url": "https://cookcountytreasurer.com/disclaimer.aspx"
         },
@@ -1475,14 +1488,14 @@
       "schedule_rule": null,
       "sales": [
         {
-          "date": "2026-12-04",
+          "date": "2026-12-17",
           "time": "11:00 AM",
-          "label": "Annual sale of delinquent real estate and mobile home taxes",
+          "label": "Annual tax sale (delinquent mobile home taxes only; the county acquires all real estate taxes)",
           "deposit": "$150 registration fee",
           "registration_deadline": "not stated",
-          "note": "Held in the Treasurer's Office. The last day to pay taxes is 4:00 p.m. on Thursday, December 3, 2026. The page does not mention a Public Act 104-0553 trustee election; it describes rate bidding by registered tax purchasers. The delinquent list costs $75 with one free update.",
+          "note": "Moved from December 4. Held in the Treasurer's Office. Under Public Act 104-0553 the Menard County Board, as trustee, has elected to acquire all delinquent 2025 real estate taxes, so only delinquent mobile home taxes are offered to private tax buyers. The last day to pay real estate taxes is 4:00 p.m. December 16, 2026.",
           "source_url": "https://menardcountyil.com/elected-officials/county-treasurercollector/",
-          "quote": "The annual sale of delinquent taxes is Friday, December 4, 2026 at 11:00 a.m. in the Treasurer's Office."
+          "quote": "December 17, 2026 - Tax Sale at 11:00 a.m. in the Treasurer's Office"
         }
       ],
       "next_sale_note": null,
@@ -1490,7 +1503,7 @@
       "sources": [
         {
           "url": "https://menardcountyil.com/elected-officials/county-treasurercollector/",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "No terms page found: the footer has no terms, disclaimer or privacy link, only '© 2015 Menard County, IL Government All Rights Reserved'. No reuse, commercial-use or automated-access clause found."
         }
       ],

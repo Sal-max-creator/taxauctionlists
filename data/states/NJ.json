@@ -163,13 +163,24 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "No 2026 sale date posted. The township's Accelerated Tax Sale page still shows its last sale, Monday December 15th, 2025 at 9:00 a.m. in Town Hall / Council Chambers.",
+      "sales": [
+        {
+          "date": "2026-12-21",
+          "time": "9:00 AM",
+          "label": "Accelerated tax sale (in person)",
+          "deposit": "Not stated; only cash, money order or cashier's check accepted",
+          "registration_deadline": "Pre-registration / bidder information sheets must be submitted in advance; the sale list and bidder package are available from the Tax Collector by email",
+          "note": "Held at Town Hall, Council Chambers, 100 Municipal Blvd., Edison. Notice is expected on the township's Public Notices page on December 11 and 18, 2026.",
+          "source_url": "https://www.edisonnj.org/departments/finance/accelerated_tax_sale.php",
+          "quote": "Date: Monday December 21st, 2026"
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Based on the most recent accelerated sale notice, the sale is held in person at Town Hall; bidders must submit pre-registration / bidder information sheets in advance, and only cash, money order or cashier's check are accepted.",
       "sources": [
         {
           "url": "https://www.edisonnj.org/departments/finance/accelerated_tax_sale.php",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "not found (footer shows only '© Copyright 2026 Township of Edison. All Rights Reserved.')",
           "terms_url": null
         },
@@ -250,13 +261,22 @@
       "format": "online",
       "platform": null,
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "No 2026 sale date could be read. The city's Tax Assessor page still lists only the 2024 and 2023 notices ('the upcoming on-line tax lien auction on December 11, 2024 at 10:00AM'). Newer notice PDFs and other pages on patersonnj.gov returned errors and could not be read. Format 'online' is based on the 2024 notice.",
+      "sales": [
+        {
+          "date": "2026-12-16",
+          "time": "10:00 AM",
+          "label": "Online tax lien auction",
+          "note": "The city links a 2026 Tax Sale Notice PDF from this page.",
+          "source_url": "https://www.patersonnj.gov/department/division.php?structureid=71",
+          "quote": "Click above for information on the upcoming on-line tax lien auction on December 16, 2026 at 10:00AM"
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "The city's most recent readable notice describes an on-line tax lien auction; the readable page gives no deposit or registration details.",
       "sources": [
         {
           "url": "https://www.patersonnj.gov/department/division.php?structureid=71",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "not found (no disclaimer or terms link on the page)",
           "terms_url": null
         }
@@ -726,13 +746,23 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "The township says the 2026 tax sale will be held in the Municipal Court Room starting at 9:00 am, with the date still TBA. Taxes and charges unpaid as of November 11, 2026 are eligible.",
+      "sales": [
+        {
+          "date": "2026-12-16",
+          "time": "9:00 AM",
+          "label": "2026 tax sale (in person)",
+          "registration_deadline": "Pre-registration required: submit the registration sheet and a W-9, both with original signatures, to the Tax Collector's Office",
+          "note": "Held in the Municipal Court Room. Taxes and charges unpaid as of November 11, 2026 are eligible; the list runs in the Cape May County Herald for two weeks before the sale week.",
+          "source_url": "https://middletownship.com/departments/tax-collector/",
+          "quote": "The tax sale for 2026 will be held in the Municipal Court Room on December 16, 2026 – will start promptly at 9:00 am."
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Public tax sale in the Municipal Court Room, starting at 9:00 am. Bidders must pre-register by giving the Tax Collector's Office a registration sheet and a W-9, both with original signatures; certificate details come from the registration sheet and are not changed afterward. Properties are advertised in the Cape May County Herald for two weeks before the sale week and the list is posted on the township website. Deposit and payment terms are not stated.",
       "sources": [
         {
           "url": "https://middletownship.com/departments/tax-collector/",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "No terms, disclaimer or privacy link in the footer; footer shows only '© Copyright | Middle Township, New Jersey | All Rights Reserved | JoyceMedia.com' and social links. No reuse ban found. Restate facts only.",
           "terms_url": null
         }
@@ -1225,13 +1255,22 @@
         "url": "https://southamboy.newjerseytaxsale.com/"
       },
       "schedule_rule": "South Amboy City will hold an Online Accelerated Tax Lien Sale every December.",
-      "sales": [],
-      "next_sale_note": "2026 sale date not yet posted; the city says it holds an online accelerated tax lien sale every December, with delinquent balances certified November 11.",
+      "sales": [
+        {
+          "date": "2026-12-21",
+          "time": "9:00 AM",
+          "label": "Accelerated online tax sale",
+          "note": "Online auction; the city points to its newjerseytaxsale.com page for the parcel list (free to view).",
+          "source_url": "https://www.southamboynj.gov/departments/tax-collection",
+          "quote": "DECEMBER 21, 2026 at 9:00 am."
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Online accelerated tax lien sale on southamboy.newjerseytaxsale.com. Delinquent tax, sewer and sundry balances are certified on November 11 for the December sale, and payments received after November 10 must be cash, certified check or money order. The city page does not state bidder registration, deposit or premium rules.",
       "sources": [
         {
           "url": "https://www.southamboynj.gov/departments/tax-collection",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "No terms, disclaimer or privacy link in the footer; footer shows only '© The City of South Amboy, NJ. All Rights Reserved.' and a developer credit (AlphaDog Solutions). No reuse ban found. Restate facts only.",
           "terms_url": null
         }

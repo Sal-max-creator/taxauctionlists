@@ -1493,6 +1493,15 @@
           "note": "Date listed in the sale-date selector of the Clerk's Tax Deed File Search; properties may be redeemed before the sale.",
           "source_url": "https://search.citrusclerk.org/TaxSmartWeb",
           "quote": "Wednesday, January 13, 2027 10:00 AM"
+        },
+        {
+          "date": "2027-02-10",
+          "time": "10:00 AM",
+          "label": "Tax deed sale (online)",
+          "deposit": "$200 or 5% of your maximum bid, whichever is greater, per property; funds must settle by 4:00 pm the day before the sale (wire fee $5.00 per transaction).",
+          "note": "Date listed in the sale-date selector of the Clerk's Tax Deed File Search; properties may be redeemed before the sale.",
+          "source_url": "https://search.citrusclerk.org/TaxSmartWeb",
+          "quote": "Wednesday, February 10, 2027 10:00 AM"
         }
       ],
       "next_sale_note": "Tax deed sale dates come from the Clerk's Tax Deed File Search. The Tax Collector's 2027 tax certificate sale date is not posted.",
@@ -1506,7 +1515,7 @@
         },
         {
           "url": "https://search.citrusclerk.org/TaxSmartWeb",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Clerk site (CivicPlus) has no terms or copyright page. Tax Deed File Search disclaimer: Clerk 'makes no warranty or guarantee concerning the accuracy or reliability of the content at this site'; footer '(c) 2026 Pioneer Technology Group All Rights Reserved.' No clause restricting reuse.",
           "terms_url": null
         },
@@ -1839,6 +1848,24 @@
           "list_url": "https://taxdeeds.nassauclerk.com/",
           "source_url": "https://taxdeeds.nassauclerk.com/",
           "quote": "11/03/2026"
+        },
+        {
+          "date": "2027-01-26",
+          "time": "not stated",
+          "label": "Tax deed sale (online)",
+          "note": "Date shown for a pending case on the Clerk's tax deed list; listed properties may be redeemed before the sale. Opening bids are subject to change if current property taxes are now due.",
+          "list_url": "https://taxdeeds.nassauclerk.com/",
+          "source_url": "https://taxdeeds.nassauclerk.com/",
+          "quote": "01/26/2027"
+        },
+        {
+          "date": "2027-02-02",
+          "time": "not stated",
+          "label": "Tax deed sale (online)",
+          "note": "Date shown for a pending case on the Clerk's tax deed list; listed properties may be redeemed before the sale. Opening bids are subject to change if current property taxes are now due.",
+          "list_url": "https://taxdeeds.nassauclerk.com/",
+          "source_url": "https://taxdeeds.nassauclerk.com/",
+          "quote": "02/02/2027"
         }
       ],
       "next_sale_note": "Sale dates come from the Clerk's tax deed list, which shows a sale date per case; later dates are added as cases are set for sale.",
@@ -1852,7 +1879,7 @@
         },
         {
           "url": "https://taxdeeds.nassauclerk.com/",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "No footer or terms text on the tax deed list; Clerk site Copyright Notices apply (copyright-only, 'All rights reserved'). Page note: 'Opening Bids are subject to change if current property taxes are now due.'",
           "terms_url": "https://www.nassauclerk.com/copyright"
         }
@@ -1987,6 +2014,15 @@
           "note": "Front lobby of the Courthouse in Port St. Joe; two parcels listed (TD#2026-04 and TD#2026-07).",
           "source_url": "https://gulfclerk.com/tax-deeds/",
           "quote": "Sale Date 12/02/26 at 11:00 AM EST"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "11:00 AM",
+          "label": "Tax deed sale (in person)",
+          "deposit": "Nonrefundable deposit of 5% of the bid or $200, whichever is greater, in cash or certified funds at the time of sale.",
+          "note": "Front lobby of the Courthouse in Port St. Joe (case TD#2026-15).",
+          "source_url": "https://gulfclerk.com/tax-deeds/",
+          "quote": "Sale Date 12/09/26 at 11:00 AM EST"
         }
       ],
       "next_sale_note": "Dates come from the Clerk's tax deed page, which lists each sale with its parcels; the page also listed a rescheduled parcel for 10/28/26 (not included). Parcels may be redeemed before the sale.",
@@ -1994,7 +2030,7 @@
       "sources": [
         {
           "url": "https://gulfclerk.com/tax-deeds/",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "Footer has a Privacy Policy (personal information only; no clause on copying, reuse or redistribution) and '©2026 Gulf County Clerk of Courts.' Copyright-only; no reuse restriction found. No separate terms or disclaimer page in the footer.",
           "terms_url": "https://www.gulfclerk.com/privacy-policy/"
         },

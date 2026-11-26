@@ -665,13 +665,22 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "No upcoming sale posted. The page lists 2026 sales on April 15, September 16 and October 21, 2026, each at 10:00 AM, all already past.",
+      "sales": [
+        {
+          "date": "2026-12-09",
+          "time": "10:00 AM",
+          "label": "Tax foreclosure sale",
+          "note": "Properties are sold for cash to the last and highest bidder at public auction; details are in the county News Flash linked from the page.",
+          "source_url": "https://waynegov.com/784/Tax-Foreclosure-Sales",
+          "quote": "December 9, 2026 Tax Foreclosure Sale"
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Properties are offered for sale and sold for cash to the last and highest bidder at public auction. For questions contact the Wayne County Staff Attorney's Office at (919) 705-1971. Sale location, deposit, upset bid and registration details are not stated on the page.",
       "sources": [
         {
           "url": "https://waynegov.com/784/Tax-Foreclosure-Sales",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "Copyright Notices page: 'All content © 2006-2026 Wayne County, NC and its representatives. All rights reserved.' Copyright only; nothing about reuse, redistribution or commercial use. Footer has no terms or disclaimer page (only Copyright Notices, Accessibility and a Disclaimer Troubleshooting page).",
           "terms_url": "https://waynegov.com/site/copyright"
         }

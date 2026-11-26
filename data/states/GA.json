@@ -64,14 +64,24 @@
           "note": "Held in the Bryan Room, second floor of the Savannah Civic Center. Parcels with no minimum bid may be re-offered the same day at 2:30 p.m. No judicial sale is scheduled.",
           "source_url": "https://tax.chathamcountyga.gov/TaxSaleList",
           "quote": "Next Tax Sale - November 03, 2026"
+        },
+        {
+          "date": "2027-01-05",
+          "time": "10:00 AM (sales run between 10 AM and 4 PM)",
+          "label": "Tax Commissioner tax sale",
+          "deposit": "None stated; payment in cash, money order or certified check, due by 2:00 p.m. on sale day",
+          "registration_deadline": "Pre-registration form linked on the county page; no deadline stated",
+          "note": "Held in the Bryan Room, second floor of the Savannah Civic Center. The January list was not linked when we checked.",
+          "source_url": "https://tax.chathamcountyga.gov/TaxSaleList",
+          "quote": "Next Tax Sale - January 5, 2027"
         }
       ],
-      "next_sale_note": "Sales are held on first Tuesdays only when scheduled; no later 2026 date posted yet.",
+      "next_sale_note": "No December 2026 sale is posted; the next sale is January 5, 2027.",
       "how_to_bid": "Pre-register using the form linked from the Tax Commissioner's Tax Sale page. Sales are public auctions in the Bryan Room of the Savannah Civic Center; the opening bid covers all taxes, penalties and costs, and a recognized bid is binding. Pay by cash, money order or certified check; the office requires payment by 2:00 p.m. on sale day. The deed gives defeasible title only, and the buyer may not take possession for twelve months.",
       "sources": [
         {
           "url": "https://tax.chathamcountyga.gov/TaxSaleList",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Chatham County Terms of Use: all contents 'All rights reserved' and 'Any rights not expressly granted herein are reserved'; bars obtaining materials 'through any means not intentionally made available' and use that could overburden the site; content provided 'AS IS'. No clause limiting the site to personal or non-commercial use and no ban on copying public information found. Restate facts, don't copy pages wholesale.",
           "terms_url": "https://tax.chathamcountyga.gov/Meta/Terms"
         },
@@ -192,12 +202,12 @@
           "quote": "November 3, 2026 (non-judicial)."
         }
       ],
-      "next_sale_note": "No December 2026 sale listed; the office lists sales only for the months it plans one and posts lists about four weeks ahead.",
+      "next_sale_note": "No more tax sales are scheduled for the rest of 2026; the office says 2027 dates will be announced after January 1, 2027.",
       "how_to_bid": "Pre-register before sale day using the county's pre-registration form, then get a bidder card at the Superior Court Plaza between 9:00 and 10:00 AM on sale day with a valid photo ID. Bidding is in person only (no mail, phone or fax bids) and opens at the taxes, penalties and costs due. Pay the full amount in cash or by certified check payable to Cobb County Tax Commissioner when the sale concludes.",
       "sources": [
         {
           "url": "https://www.cobbtax.gov/property/tax_sale/index.php",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "No terms or disclaimer page linked. Footer: 'Copyright © 2020-2026 Cobb County Tax Commissioner's Office - All Rights Reserved'. No explicit reuse, redistribution or scraping clause found; restate facts, don't copy page text wholesale.",
           "terms_url": null
         }
@@ -332,14 +342,24 @@
           "note": "Held on the courthouse steps, 136 Pryor Street SW. If the first Tuesday is a legal holiday the sale moves to the next business day.",
           "source_url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
           "quote": "Sheriff’s November 3, 2026, Tax / Levy Sale."
+        },
+        {
+          "date": "2026-12-01",
+          "time": "Between 10:00 AM and 4:00 PM",
+          "label": "Sheriff's tax / levy sale",
+          "deposit": "Not stated",
+          "registration_deadline": "Not stated; the page links a bidder registration form",
+          "note": "Held on the courthouse steps, 136 Pryor Street SW. If the first Tuesday is a legal holiday the sale moves to the next business day.",
+          "source_url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
+          "quote": "Sheriff's December 1, 2026, Tax / Levy Sale."
         }
       ],
-      "next_sale_note": "December 2026 list not yet posted.",
+      "next_sale_note": "The December 1, 2026 sale list was not linked on the page when we checked; a courtesy listing runs in the South Fulton Neighbor for four weeks before each sale.",
       "how_to_bid": "Register using the bidder registration form linked from the Sheriff's Tax Sales page, then bid in person on the courthouse steps at 136 Pryor Street SW. Payment terms and deposit are not stated on the page; a buyer who fails to comply with the terms of sale is liable for the purchase money. The Sheriff may rescind a sale within 30 days with a full refund, and the Sheriff's Tax Deed conveys only defeasible title until the right to redeem is barred.",
       "sources": [
         {
           "url": "https://www.fultoncountyga.gov/Inside-Fulton-County/Fulton-County-Departments/Sheriff/Tax-Sales",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "No terms page linked. Privacy Statement says information collected through the site is public information under the Georgia Open Records Act; footer '©2026 Fulton County Government'. No reuse or scraping clause found.",
           "terms_url": "https://www.fultoncountyga.gov/Privacy-Statement"
         }
@@ -501,14 +521,24 @@
           "note": "Held at 535 Telfair Street, Augusta. The October 6, 2026 sale was not held. The county links its current list from the Tax Sale Lists page.",
           "source_url": "https://arctax.com/property/tax-sale-lists/",
           "quote": "The next Tax Sale will be held on November 3, 2026"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "10:00 AM; presale information session at 9:30 AM",
+          "label": "Tax Commissioner tax levy sale",
+          "deposit": "None stated; payment in full in cash, money order or certified check within two hours after the sale ends",
+          "registration_deadline": "Not stated",
+          "note": "Held at 535 Telfair Street, Augusta. The county links its current list from the Tax Sale Lists page.",
+          "source_url": "https://arctax.com/property/tax-sale-lists/",
+          "quote": "The next Tax Sale will be held on December 1, 2026"
         }
       ],
-      "next_sale_note": "Sales are held only in some months; no date after November 3, 2026 posted yet.",
+      "next_sale_note": "Sales are held only in some months; no date after December 1, 2026 posted yet.",
       "how_to_bid": "Attend in person at 535 Telfair Street, Augusta; a presale information session starts at 9:30 AM and the sale at 10:00 AM. Sales are public auctions to the highest bidder; the opening bid covers all taxes, penalties and costs, and a bid is a binding agreement. Pay in full by cash, money order or certified check at Suite 100 within two hours after the sale ends. Registration steps are not stated on the pages we read; call 706-821-2391.",
       "sources": [
         {
           "url": "https://arctax.com/property/tax-sale-lists/",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Copyright Notices page shows only 'All content © 2006-2024 Richmond County Tax Commissioners, GA and its representatives. All rights reserved.' No reuse, redistribution or scraping clause found. Restate facts only.",
           "terms_url": "https://arctax.com/copyright-notices/"
         },
@@ -792,6 +822,15 @@
           "list_url": "https://newtoncountytax.com/tax-sale-listing",
           "source_url": "https://newtoncountytax.com/tax-sale-listing",
           "quote": "November 3rd, 2026 Tax Sale List"
+        },
+        {
+          "date": "2027-01-05",
+          "time": "10:00 AM",
+          "label": "Tax sale",
+          "note": "Date from the heading of the Tax Commissioner's current tax sale listing; time from the stated schedule. No December 2026 sale is listed.",
+          "list_url": "https://newtoncountytax.com/tax-sale-listing",
+          "source_url": "https://newtoncountytax.com/tax-sale-listing",
+          "quote": "January 5th, 2027 Tax Sale List"
         }
       ],
       "next_sale_note": "Later sale dates are posted on the Tax Commissioner's tax sales page and listing when a sale is planned.",
@@ -805,7 +844,7 @@
         },
         {
           "url": "https://newtoncountytax.com/tax-sale-listing",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "same as above",
           "terms_url": null
         }

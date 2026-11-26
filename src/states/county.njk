@@ -85,12 +85,16 @@ eleventyComputed:
 </ul>
 <p class="muted">Source: {{ c.fullName }}, {{ c.state.name }} official websites listed above. {{ site.name }} is independent and is not affiliated with or endorsed by {{ c.fullName }}.</p>
 
+{%- set others = [] %}{% for o in c.state.counties %}{% if o.slug != c.slug and o.upcoming.length and not o.link_only %}{% set _ = others.push(o) %}{% endif %}{% endfor %}
 <h2>More {{ c.state.name }} tax sales</h2>
+{% if others.length %}
+<p>Other {{ c.state.unitPlural }} in {{ c.state.name }} with a sale date posted:</p>
 <ul class="inline-list">
-{% for o in c.state.counties %}{% if o.slug != c.slug %}
-  <li><a href="{{ o.url }}">{{ o.county }}</a>{% if o.upcoming.length and not o.link_only %} <span class="muted">{{ o.upcoming[0].date | shortDate }}</span>{% endif %}</li>
-{% endif %}{% endfor %}
+{% for o in others | head(12) %}
+  <li><a href="{{ o.url }}">{{ o.county }}</a> <span class="muted">{{ o.upcoming[0].date | shortDate }}</span></li>
+{% endfor %}
 </ul>
-<p><a href="{{ c.state.url }}">← All {{ c.state.name }} tax sales</a></p>
+{% endif %}
+<p><a href="{{ c.state.url }}">All {{ c.state.placesText }} we track in {{ c.state.name }} →</a></p>
 {% include "paid-teaser.njk" %}
 {% include "signup.njk" %}

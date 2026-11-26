@@ -7,6 +7,9 @@
   <meta name="description" content="{{ description or 'Free calendar of county tax lien and tax deed sales, with deadlines, deposits and links to each county source.' }}">
   {%- if not site.public %}
   <meta name="robots" content="noindex, nofollow">
+  {%- elif c and c.page and not c.page.indexable %}
+  {#- County pages with no date, schedule or past sale yet: visitors can use them, search engines skip them. #}
+  <meta name="robots" content="noindex, follow">
   {%- endif %}
   {#- Canonical always points at the real domain, so the workers.dev copy never competes with it in search. #}
   {%- set canonical = page.url | absUrl(site.url) %}

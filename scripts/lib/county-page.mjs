@@ -107,5 +107,11 @@ export function countyPageFields(c, state) {
   // First sentence of the state's overview, for "How {state} tax sales work".
   const stateFirst = (state.overview || "").match(/^.*?[.!?](\s|$)/)?.[0]?.trim() || state.overview || "";
 
-  return { pastSales, intro, quotes, extraNotes, description, stateFirst };
+  // Pages Google should index: ones that give a dated sale, a stated recurring schedule, or a past sale on
+  // record. The rest say little beyond "no date posted yet", so they stay up for visitors but carry noindex
+  // and leave the sitemap until the county posts something. Rebuilt on every deploy, so a county that posts
+  // a date becomes indexable again by itself.
+  const indexable = !c.link_only && Boolean(c.upcoming.length || c.schedule_rule || pastSales.length);
+
+  return { pastSales, intro, quotes, extraNotes, description, stateFirst, indexable };
 }

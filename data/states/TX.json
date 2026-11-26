@@ -664,9 +664,19 @@
           "list_url": "https://sheriff.galvestoncountytx.gov/Forms/sale/sheriff_sale.pdf",
           "list_note": "Sheriff's notice posted 10/9/2026; some entries marked CANCELLED or POSTPONED.",
           "note": "The notice text says the auction is at the Galveston County Courthouse, while the county tax office page says sales are online only."
+        },
+        {
+          "date": "2026-12-01",
+          "time": "10 a.m. to 4 p.m. per the sheriff's notice; the county tax office says sales are online through Real Auction",
+          "label": "Sheriff's sale (19 numbered sales listed, 3 marked cancelled)",
+          "deposit": "At least 5% of the total of your bids, by wire or ACH through Real Auction at least 10 days before the sale",
+          "registration_deadline": "Register on the Real Auction site; deposit due at least 10 days before the sale",
+          "source_url": "https://sheriff.galvestoncountytx.gov/Forms/sale/sheriff_sale.pdf",
+          "quote": "Sale Date: 12/1/2026",
+          "list_url": "https://sheriff.galvestoncountytx.gov/Forms/sale/sheriff_sale.pdf"
         }
       ],
-      "next_sale_note": "Only the November 3, 2026 notice is posted; later sales follow the county's first-Tuesday rule but no dates are posted.",
+      "next_sale_note": "The December 1, 2026 notice is posted; later sales follow the county's first-Tuesday rule.",
       "how_to_bid": "Register and take the free bidder training on the Real Auction site, and wire a deposit of at least 5% of your total bids through Real Auction at least 10 days before the sale (the Sheriff's Office takes no deposits). Winners pay by wire through Real Auction or bring cash or a cashier's check to the Sheriff's Office by 4:00 pm on sale day, and need a Certificate of Eligibility ($10) from the Tax Office before the deed is recorded.",
       "sources": [
         {
@@ -683,7 +693,7 @@
         },
         {
           "url": "https://sheriff.galvestoncountytx.gov/Forms/sale/sheriff_sale.pdf",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-26",
           "terms": "not found (sheriff's sale notice)",
           "terms_url": null
         }

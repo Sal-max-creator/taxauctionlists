@@ -46,8 +46,8 @@
           "time": "not stated",
           "label": "2027 Annual Tax Lien Sale (2026 tax liens)",
           "deposit": "$175 registration fee and a minimum $5,000 deposit; 10% of the total purchase is due by the end of the sale day, the balance by 3:00pm March 18th, 2027",
-          "registration_deadline": "February 5th, 2027 - Registration requirements and deposit deadline (registration opens and bidding commences January 22nd, 2027)",
-          "register_by": "2027-02-05",
+          "registration_deadline": "February 3rd, 2027 - Registration requirements and deposit deadline (registration opens and bidding commences January 20th, 2027)",
+          "register_by": "2027-02-03",
           "note": "Owners can keep their lien out of the sale by paying the unpaid 2026 taxes, interest, penalties and charges by February 10th, 2027.",
           "source_url": "https://www.nassaucountyny.gov/527/Annual-Tax-Lien-Sale",
           "quote": "February 16th, 2027 - Tax Lien Auction"
@@ -58,7 +58,7 @@
       "sources": [
         {
           "url": "https://www.nassaucountyny.gov/527/Annual-Tax-Lien-Sale",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-26",
           "terms": "County disclaimer gives no accuracy warranty and says risk from use of the information rests with the user; no reuse restriction in the disclaimer text. It links to a separate Copyright Notices page that could not be read.",
           "terms_url": "https://www.nassaucountyny.gov/1985/Disclaimer"
         }

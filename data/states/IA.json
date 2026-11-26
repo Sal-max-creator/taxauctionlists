@@ -267,8 +267,39 @@
         "url": null
       },
       "schedule_rule": "The Annual Tax Sale takes place the 3rd Monday in June each year.",
-      "sales": [],
-      "next_sale_note": "2027 date not yet posted. The 2026 annual sale was Monday, June 15, 2026, online (past). The page also lists adjourned-sale and public-bidder parcels; call the Treasurer (712-279-6495) for adjourned parcels and the Board of Supervisors (712-279-6525) for public-bidder parcels.",
+      "sales": [
+        {
+          "date": "2026-12-14",
+          "time": "not stated",
+          "label": "Adjourned tax sale (online, GovEase)",
+          "registration_deadline": "Bidders must be registered by 4:00 p.m. on the Friday before the adjourned sale",
+          "register_by": "2026-12-11",
+          "note": "Dates are from the county's terms for the June 15, 2026 annual sale, which list the adjourned sales; call the Treasurer to confirm parcels are left to sell.",
+          "source_url": "https://www.woodburycountyiowa.gov/files/treasurer/woodbury_county_terms_conditions_55199.pdf",
+          "quote": "Adjourned tax sales will be held on August 17, 2026; October 19, 2026; December 14, 2026; February 15, 2027 and April 19, 2027."
+        },
+        {
+          "date": "2027-02-15",
+          "time": "not stated",
+          "label": "Adjourned tax sale (online, GovEase)",
+          "registration_deadline": "Bidders must be registered by 4:00 p.m. on the Friday before the adjourned sale",
+          "register_by": "2027-02-12",
+          "note": "Dates are from the county's terms for the June 15, 2026 annual sale, which list the adjourned sales; call the Treasurer to confirm parcels are left to sell.",
+          "source_url": "https://www.woodburycountyiowa.gov/files/treasurer/woodbury_county_terms_conditions_55199.pdf",
+          "quote": "Adjourned tax sales will be held on August 17, 2026; October 19, 2026; December 14, 2026; February 15, 2027 and April 19, 2027."
+        },
+        {
+          "date": "2027-04-19",
+          "time": "not stated",
+          "label": "Adjourned tax sale (online, GovEase)",
+          "registration_deadline": "Bidders must be registered by 4:00 p.m. on the Friday before the adjourned sale",
+          "register_by": "2027-04-16",
+          "note": "Dates are from the county's terms for the June 15, 2026 annual sale, which list the adjourned sales; call the Treasurer to confirm parcels are left to sell.",
+          "source_url": "https://www.woodburycountyiowa.gov/files/treasurer/woodbury_county_terms_conditions_55199.pdf",
+          "quote": "Adjourned tax sales will be held on August 17, 2026; October 19, 2026; December 14, 2026; February 15, 2027 and April 19, 2027."
+        }
+      ],
+      "next_sale_note": "The 2027 annual sale date is not yet posted (the annual sale is the third Monday in June).",
       "how_to_bid": "Register and bid through GovEase, the platform the Treasurer's page links to; the sale is online from 9:00 a.m. to 10:30 a.m. Per the 2026 terms, pay a non-refundable $43.00 registration fee through GovEase; bids are 'bid downs' in whole percentage points from 99% to 1%, with random selection to break ties, and payment was due by 4:00 p.m. on sale day through GovEase. The investor is responsible for all research on parcels. Deposit: not stated.",
       "sources": [
         {
@@ -279,7 +310,7 @@
         },
         {
           "url": "https://www.woodburycountyiowa.gov/files/treasurer/woodbury_county_terms_conditions_55199.pdf",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-26",
           "terms": "Same county site; copyright footer only.",
           "terms_url": null
         }

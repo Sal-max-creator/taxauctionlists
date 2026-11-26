@@ -221,13 +221,22 @@
       "format": "in person",
       "platform": null,
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "No upcoming sale posted: the Upcoming Sale section of the City's Tax Sales page is empty. The most recent sales were May 6, 2025 and September 16, 2025.",
+      "sales": [
+        {
+          "date": "2027-04-22",
+          "time": "not stated",
+          "label": "Tax sale",
+          "note": "The City says more information is to come.",
+          "source_url": "https://www.torringtonct.gov/411/Tax-Sales",
+          "quote": "Tax Sale - APRIL 22, 2027 (**more information to come soon)"
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Based on the City's notice for the May 6, 2025 sale: a public auction run by the Tax Collector in the City Hall auditorium, 140 Main Street. Registration opened at 12:45 PM. Each property needed a $4,000 deposit ($1,000 if under $4,000 was owed) by bank or certified check payable to the Tax Collector, no cash; the balance was due within six days. Minimum bid was the taxes, interest and fees owed. Terms for the next sale are not posted yet.",
       "sources": [
         {
           "url": "https://www.torringtonct.gov/411/Tax-Sales",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Page says 'The information on this webpage and its contents are for general informational use only and are not legal advice.' Copyright page: 'All content © 2006-2026 Torrington, CT and its representatives. All rights reserved.' No reuse or redistribution ban found. Restate facts only.",
           "terms_url": "https://www.torringtonct.gov/copyright"
         },

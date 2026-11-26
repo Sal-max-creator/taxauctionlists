@@ -1,12 +1,22 @@
 name: Weekly source check
 
-# Every Monday, fetch each county source page, compare it with last week's snapshot and open
-# an issue listing what changed, sales coming up within 7 days, and pages that need a manual look.
-# Snapshots live on the `source-snapshots` branch so main is never touched by this job.
+# Every Monday, read each county source page (HTML and PDF) and open an issue that leads with sale
+# dates: counties whose own pages show a date we don't list, and listed dates a page no longer shows.
+# It also lists sales coming up within 7 days. Page-by-page diffs, unreadable pages and stale
+# listings go to the run summary. Snapshots live on the `source-snapshots` branch, so main is never
+# touched by this job. It uses only the built-in GITHUB_TOKEN.
+#
+# Run it by hand from the Actions tab with "dry run" ticked to see the report without saving
+# snapshots or opening an issue.
 on:
   schedule:
-    - cron: "17 13 * * 1" # Mondays, 13:17 UTC (about 8 AM Chicago)
+    - cron: "17 11 * * 1" # Mondays, 11:17 UTC (about 5 AM Chicago)
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Report only: don't save snapshots or open an issue"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -19,13 +29,16 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+
+      - name: Install pdftotext for PDF notices
+        run: command -v pdftotext || (sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils) || echo "pdftotext not available; PDFs will be skipped"
 
       - name: Check out last week's snapshots
         id: snapshots
@@ -37,12 +50,26 @@ jobs:
 
       - name: Check source pages
         id: check
-        run: node scripts/check-sources.mjs --snapshots .source-check/snapshots --report source-report.md
+        run: node scripts/check-sources.mjs --snapshots .source-check/snapshots --report source-report.md --issue issue-body.md --dates-json date-flags.json
 
       - name: Add report to the run summary
-        run: cat source-report.md >> "$GITHUB_STEP_SUMMARY"
+        run: head -c 900000 source-report.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Keep the report and date flags as a download
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-report
+          path: |
+            source-report.md
+            date-flags.json
+          retention-days: 30
+
+      - name: Show date flags in the log
+        if: inputs.dry_run
+        run: cat date-flags.json
 
       - name: Save snapshots to the source-snapshots branch
+        if: ${{ !inputs.dry_run }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -61,10 +88,15 @@ jobs:
           git push origin HEAD:source-snapshots
 
       - name: Open a review issue
-        if: steps.check.outputs.needs_review == 'true'
+        if: ${{ !inputs.dry_run && steps.check.outputs.needs_review == 'true' }}
         env:
           GH_TOKEN: ${{ github.token }}
+          SUMMARY: "${{ steps.check.outputs.dates }} place(s) with new or changed dates, ${{ steps.check.outputs.soon }} sale(s) within 7 days"
         run: |
-          gh issue create \
-            --title "Source check $(date -u +%F): ${{ steps.check.outputs.changed }} changed, ${{ steps.check.outputs.soon }} sale(s) within 7 days" \
-            --body-file source-report.md
+          title="Date check $(date -u +%F): $SUMMARY"
+          # GitHub's API sometimes answers 502; try a few times before failing the run.
+          for attempt in 1 2 3 4; do
+            gh issue create --title "$title" --body-file issue-body.md && exit 0
+            sleep $((attempt * 20))
+          done
+          exit 1

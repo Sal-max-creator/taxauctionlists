@@ -294,13 +294,23 @@
         "url": "https://www.wisconsinsurplus.com"
       },
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "The 2026 online sale of tax-deeded parcels ran from September 17 to October 8, 2026 and has closed; no later sale is posted.",
+      "sales": [
+        {
+          "date": "2026-12-17",
+          "end_date": "2027-01-07",
+          "time": "not stated",
+          "label": "Tax-deeded land sale (online, Wisconsin Surplus)",
+          "note": "Parcels and minimum bids are listed on the county page.",
+          "source_url": "https://www.co.portage.wi.gov/194/Tax-Deed-Land-Sale",
+          "quote": "Sale begins: Thursday, December 17 ,2026 Sale ends: Thursday, January 7, 2027"
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Online auction of Portage County tax-deeded parcels on Wisconsin Surplus; the county page says bidding information is posted on the auction site once the sale begins. Time, deposit and payment terms are not stated on the county page.",
       "sources": [
         {
           "url": "https://www.co.portage.wi.gov/194/Tax-Deed-Land-Sale",
-          "read_on": "2026-10-28",
+          "read_on": "2026-11-24",
           "terms": "Copyright Notices page read; it gives only 'All content © 2006-2026 Portage County, WI and its representatives. All rights reserved.' No clause on reuse, redistribution or automated access.",
           "terms_url": "https://www.co.portage.wi.gov/copyright"
         }

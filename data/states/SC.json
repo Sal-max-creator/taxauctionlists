@@ -123,6 +123,16 @@
           "note": "Held at Richland County Township Auditorium, 1703 Taylor St., Columbia, SC 29201. Payments to keep a property out of the sale were due by 5 p.m. Friday, October 30, 2026.",
           "source_url": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
           "quote": "Monday, November 2, 2026 beginning at 10 a.m."
+        },
+        {
+          "date": "2026-12-01",
+          "end_date": "2026-12-15",
+          "label": "Forfeited Land Commission sealed bid property tax sale",
+          "registration_deadline": "New bidders register online (Tax Sale Bidder Application) from November 23 through November 30, 2026; bidders with a number from the November 2, 2026 tax sale need not register again",
+          "register_by": "2026-11-30",
+          "note": "Sealed bids for property that did not sell at the November tax sale. Location listed: Richland County Administration Building, 2020 Hampton St., Columbia. The county said the property list would be posted Wednesday, November 25.",
+          "source_url": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
+          "quote": "December 1, 2026 through December 15, 2026"
         }
       ],
       "next_sale_note": null,
@@ -130,7 +140,7 @@
       "sources": [
         {
           "url": "https://www.richlandcountysc.gov/Property-Business/Taxes/Delinquent-Taxes/Tax-Sale",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "No reuse or copying restriction found in the Disclaimer; its ownership language covers comments users submit, not site content.",
           "terms_url": "https://www.richlandcountysc.gov/Disclaimer"
         }
@@ -377,13 +387,22 @@
         "url": "https://andersoncountysc.hibid.com"
       },
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "2027 date not yet posted. The Treasurer's tax sale page shows the 2026 sale was held Monday, October 19, 2026 at the Civic Center of Anderson, 3027 Martin Luther King Jr. Blvd.",
+      "sales": [
+        {
+          "date": "2027-10-25",
+          "time": "not stated",
+          "label": "2027 Anderson County tax sale",
+          "note": "Held at the Civic Center of Anderson, 3027 Martin Luther King Jr. Blvd. Bidder registration, property listings and maps are to be posted starting September 30, 2027.",
+          "source_url": "https://www.andersoncountysc.org/http-anderson-postingpro-net-agreement-aspxstscpy2021cid4acceptscookies1/",
+          "quote": "The Anderson County Tax Sale will be held on Monday, October 25, 2027 at the Civic Center of Anderson"
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "The Treasurer's tax sale page posts online bidder registration, property listings with opening bids, property maps, a bidder information sheet and an FAQ (for 2026 these went up September 30). Start time, deposit, registration deadline and payment terms are not stated on the page read; check the county's bidder information sheet or call the Treasurer.",
       "sources": [
         {
           "url": "https://www.andersoncountysc.org/http-anderson-postingpro-net-agreement-aspxstscpy2021cid4acceptscookies1/",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Privacy policy covers personal data only (the county 'does not sell, rent or lease its customer lists to third parties'); footer '© Anderson County, 2026'. No disclaimer, terms or reuse restriction found.",
           "terms_url": "https://www.andersoncountysc.org/privacy-policy"
         }

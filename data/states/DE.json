@@ -47,14 +47,24 @@
           "note": "Held at the Kent County Levy Court, 555 Bay Road, Dover, Chamber - Room 203. Balance due to the Sheriff's Office by 2:00 p.m. the same day (Finance page).",
           "source_url": "https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office",
           "quote": "The next monition sale is scheduled for October 27th, 2026, at 10 am."
+        },
+        {
+          "date": "2027-01-26",
+          "time": "10:00 AM",
+          "label": "Monition (tax) sale",
+          "deposit": "$4,000 non-refundable cashier's check, certified check or money order per property, brought at registration (Sheriff's page, effective May 1, 2025). The county's Finance page still says $2,000; the Sheriff's page is the newer rule.",
+          "registration_deadline": "Registration ends at 9:45 a.m. on sale day",
+          "note": "Held at the Kent County Levy Court, 555 Bay Road, Dover, Chamber - Room 203. Balance due to the Sheriff's Office by 2:00 p.m. the same day (Finance page).",
+          "source_url": "https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office",
+          "quote": "The next monition sale is scheduled for January 26th, 2027, at 10 am"
         }
       ],
-      "next_sale_note": "After October 27, 2026, no dated monition sale is posted yet; sales follow the quarterly rule (January, April, July, October).",
+      "next_sale_note": "Sales follow the quarterly rule (January, April, July, October).",
       "how_to_bid": "Bid in person at the Kent County Levy Court in Dover. Register before 9:45 a.m. on sale day. The winning bidder pays a deposit for each property at the time of bidding and the balance to the Sheriff's Office by 2:00 p.m. the same day. The owner has 60 days from court confirmation to redeem; if the owner redeems, the bidder gets the price paid back plus 15%.",
       "sources": [
         {
           "url": "https://kentcountyde.gov/My-Government/Departments/Sheriffs-Office",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Disclaimer of Liability is an accuracy disclaimer only: 'The use of this information is at your own risk.' No sentence on copying, reuse, publishing, distribution or commercial use; nothing forbids republishing.",
           "terms_url": "https://www.kentcountyde.gov/Site-Footer/Sub-Footer-Links/Kent-County-Levy-Court-Disclaimer-of-Liability"
         },

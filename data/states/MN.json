@@ -88,11 +88,30 @@
       "address": "Anoka County Government Center, 2100 3rd Avenue, Anoka, MN 55303",
       "website": "https://www.anokacountymn.gov/310/Tax-Forfeited-Land-Sales",
       "sale_type": "deed",
-      "format": "unknown",
+      "format": "online",
       "platform": null,
       "schedule_rule": null,
-      "sales": [],
-      "next_sale_note": "No dated sale was read. The county lists its 2026 initial public sale (A1) and subsequent public sale (A2) as a document on its Available Properties page, and says no properties are available over the counter right now.",
+      "sales": [
+        {
+          "date": "2026-11-16",
+          "end_date": "2026-11-30",
+          "time": "Bidding closes 10:00 AM November 30",
+          "label": "2026 Tax-Forfeit Initial Public Sale A1 (online, Public Surplus)",
+          "note": "All property sold as is; all sales final.",
+          "source_url": "https://www.anokacountymn.gov/1474/Available-Properties-and-Proceeds",
+          "quote": "Bidding starts on November 16, 2026 and closes on November 30, 2026 at 10:00 am."
+        },
+        {
+          "date": "2027-01-07",
+          "end_date": "2027-01-14",
+          "time": "Bidding closes 10:00 AM January 14",
+          "label": "2026 Tax-Forfeit Subsequent Public Sale A2 (online, Public Surplus)",
+          "note": "Only for properties that did not sell at the A1 sale. All property sold as is; all sales final.",
+          "source_url": "https://www.anokacountymn.gov/1474/Available-Properties-and-Proceeds",
+          "quote": "Bidding starts on January 7, 2027 and closes on January 14, 2027 at 10:00 am."
+        }
+      ],
+      "next_sale_note": null,
       "how_to_bid": "Read the county's bidding instructions and Tax-Forfeit Land Sale Information Packet. All property is sold as is, and all sales are final with no refunds.",
       "sources": [
         {
@@ -103,7 +122,7 @@
         },
         {
           "url": "https://www.anokacountymn.gov/1474/Available-Properties-and-Proceeds",
-          "read_on": "2026-10-27",
+          "read_on": "2026-11-24",
           "terms": "Copyright notice only: 'All content © 2006-2026 Anoka County, MN and its representatives. All rights reserved.' The Privacy Policy/Disclaimer page's Terms of Use bar only unlawful use and disclaim accuracy. Nothing forbids republishing sale dates.",
           "terms_url": "https://www.anokacountymn.gov/125/Privacy-Policy-Disclaimer"
         }

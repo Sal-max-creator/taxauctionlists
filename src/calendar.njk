@@ -34,12 +34,12 @@ permalink: /calendar/
 </div>
 
 <h2>Counties with a recurring schedule</h2>
-<div class="table-scroll">
-<table>
+<div class="table-scroll stack-wrap">
+<table class="stack">
   <thead><tr><th scope="col">County</th><th scope="col">Schedule as the county states it</th><th scope="col">Checked</th></tr></thead>
   <tbody>
   {% for c in counties %}{% if c.schedule_rule %}
-    <tr><td><a href="{{ c.url }}">{{ c.county }}, {{ c.state.state }}</a></td><td>{{ c.schedule_rule }}</td><td class="nowrap">{{ c.lastChecked | shortDate }}</td></tr>
+    <tr><td data-label="County"><a href="{{ c.url }}">{{ c.county }}, {{ c.state.state }}</a></td><td data-label="Schedule">{{ c.schedule_rule }}</td><td data-label="Checked" class="nowrap">{{ c.lastChecked | shortDate }}</td></tr>
   {% endif %}{% endfor %}
   </tbody>
 </table>

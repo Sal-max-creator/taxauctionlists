@@ -15,17 +15,17 @@ permalink: /sources/
 </ul>
 
 <h2>County and state sources</h2>
-<div class="table-scroll">
-<table>
+<div class="table-scroll stack-wrap">
+<table class="stack">
   <thead><tr><th scope="col">State</th><th scope="col">County</th><th scope="col">Page</th><th scope="col">Reuse terms</th><th scope="col">Checked</th></tr></thead>
   <tbody>
   {% for c in counties %}{% for s in c.sources %}
     <tr>
-      <td>{{ c.state.state }}</td>
-      <td><a href="{{ c.url }}">{{ c.county }}</a></td>
-      <td><a href="{{ s.url }}" rel="nofollow noopener">{{ s.url | hostname }}</a></td>
-      <td>{{ s.terms }}{% if s.terms_url %} (<a href="{{ s.terms_url }}" rel="nofollow noopener">terms</a>){% endif %}</td>
-      <td class="nowrap">{{ s.read_on | shortDate }}</td>
+      <td data-label="State">{{ c.state.state }}</td>
+      <td data-label="County"><a href="{{ c.url }}">{{ c.county }}</a></td>
+      <td data-label="Page"><a href="{{ s.url }}" rel="nofollow noopener">{{ s.url | hostname }}</a></td>
+      <td data-label="Reuse terms">{{ s.terms }}{% if s.terms_url %} (<a href="{{ s.terms_url }}" rel="nofollow noopener">terms</a>){% endif %}</td>
+      <td data-label="Checked" class="nowrap">{{ s.read_on | shortDate }}</td>
     </tr>
   {% endfor %}{% endfor %}
   </tbody>
